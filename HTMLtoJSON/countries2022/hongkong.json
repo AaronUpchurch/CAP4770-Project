@@ -1,0 +1,898 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Seized by the UK in 1841, Hong Kong was formally ceded by China the following year at the end of the First Opium War; the Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and was further extended when Britain obtained a 99-year lease of the New Territories in 1898. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region (HKSAR) of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its \"one country, two systems\" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a \"high degree of autonomy\" in all matters except foreign and defense affairs for the subsequent 50 years. Since the turnover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence has been a central issue and led to considerable civil unrest, including large-scale pro-democracy demonstrations in 2019 after the HKSAR attempted to revise a local ordinance to allow extraditions to mainland China. In response, the governments of the HKSAR and China took several actions that reduced the city's autonomy and placed new restrictions on the rights of Hong Kong residents, moves that were widely criticized to be in direct contravention of obligations under the Hong Kong Basic Law and the Sino-British Joint Declaration. Chief among these actions was a sweeping national security law for Hong Kong passed by the Chinese Government in June 2020 that criminalized acts such as those interpreted as secession, subversion, terrorism, and collusion with foreign or external forces. The law ushered in a widespread crackdown on public protests, criticism of authorities, and freedom of speech, and was used by authorities to target pro-democracy activists, organizations, and media companies. Democratic lawmakers and political figures were arrested, while others fled abroad. At the same time, dozens of civil society groups and several independent media outlets were closed or have disbanded. In March 2021, Beijing imposed a more restrictive electoral system, including restructuring the Legislative Council (LegCo) and allowing only government-approved candidates to run for office, claiming it was to ensure a system of \"patriots\" governed Hong Kong. The changes ensured that virtually all seats in the December 2021 LegCo election were won by pro-establishment candidates and effectively ended political opposition to Beijing in the territory."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Asia, bordering the South China Sea and China"
+    },
+    "Geographic coordinates": {
+      "text": "22 15 N, 114 10 E"
+    },
+    "Map references": {
+      "text": "Southeast Asia"
+    },
+    "Area": {
+      "total: ": {
+        "text": "1,108 sq km"
+      },
+      "land: ": {
+        "text": "1,073 sq km"
+      },
+      "water: ": {
+        "text": "35 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "six times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "total: ": {
+        "text": "33 km"
+      },
+      "regional borders (1): ": {
+        "text": "China 33 km"
+      }
+    },
+    "Coastline": {
+      "text": "733 km"
+    },
+    "Maritime claims": {
+      "territorial sea: ": {
+        "text": "12 nm"
+      }
+    },
+    "Climate": {
+      "text": "subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall"
+    },
+    "Terrain": {
+      "text": "hilly to mountainous with steep slopes; lowlands in north"
+    },
+    "Elevation": {
+      "highest point: ": {
+        "text": "Tai Mo Shan 958 m"
+      },
+      "lowest point: ": {
+        "text": "South China Sea 0 m"
+      }
+    },
+    "Natural resources": {
+      "text": "outstanding deepwater harbor, feldspar"
+    },
+    "Land use": {
+      "agricultural land: ": {
+        "text": "5% (2018 est.)"
+      },
+      "forest: ": {
+        "text": "0% (2018 est.)"
+      },
+      "other: ": {
+        "text": "95% (2018 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10 sq km (2012)"
+    },
+    "Population distribution": {
+      "text": "population fairly evenly distributed"
+    },
+    "Natural hazards": {
+      "text": "occasional typhoons"
+    },
+    "Geography - note": {
+      "text": "consists of a mainland area (the New Territories) and more than 200 islands"
+    }
+  },
+  "People and Society": {
+    "Population": {
+      "text": "7,276,588 (2022 est.)"
+    },
+    "Nationality": {
+      "noun: ": {
+        "text": "Chinese/Hong Konger"
+      },
+      "adjective: ": {
+        "text": "Chinese/Hong Kong"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chinese 92%, Filipino 2.5%, Indonesian 2.1%, other 3.4% (2016 est.)"
+    },
+    "Languages": {
+      "major-language sample(s): ": {
+        "text": "<br/>"
+      },
+      "text": "\u00e4\u00b8\u0096\u00e7\u0095\u008c\u00e6\u00a6\u0082\u00e5\u0086\u00b5, \u00e5\u00bf\u0085\u00e9\u00a0\u0088\u00e6\u0093\u0081\u00e6\u009c\u0089\u00e7\u009a\u0084\u00e5\u009f\u00ba\u00e6\u009c\u00ac\u00e8\u00b3\u0087\u00e6\u0096\u0099\u00e5\u008f\u0082\u00e8\u0080\u0083\u00e4\u00b9\u00a6 (Cantonese)"
+    },
+    "Religions": {
+      "note:": {
+        "text": " many people practice Confucianism, regardless of their religion or not having a religious affiliation"
+      }
+    },
+    "Age structure": {
+      "0-14 years: ": {
+        "text": "12.81% (male 490,477/female 437,971)"
+      },
+      "15-24 years: ": {
+        "text": "8.81% (male 334,836/female 303,897)"
+      },
+      "25-54 years: ": {
+        "text": "42.66% (male 1,328,529/female 1,763,970)"
+      },
+      "55-64 years: ": {
+        "text": "17.24% (male 582,047/female 668,051)"
+      },
+      "65 years and over: ": {
+        "text": "18.48% (male 625,453/female 714,676) (2020 est.)"
+      }
+    },
+    "Dependency ratios": {
+      "total dependency ratio: ": {
+        "text": "44.7"
+      },
+      "youth dependency ratio: ": {
+        "text": "18.3"
+      },
+      "elderly dependency ratio: ": {
+        "text": "26.3"
+      },
+      "potential support ratio: ": {
+        "text": "3.8 (2020 est.)"
+      }
+    },
+    "Median age": {
+      "total: ": {
+        "text": "45.6 years"
+      },
+      "male: ": {
+        "text": "44.2 years"
+      },
+      "female: ": {
+        "text": "46.5 years (2020 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.17% (2022 est.)"
+    },
+    "Birth rate": {
+      "text": "8.04 births/1,000 population (2022 est.)"
+    },
+    "Death rate": {
+      "text": "7.98 deaths/1,000 population (2022 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.65 migrant(s)/1,000 population (2022 est.)"
+    },
+    "Population distribution": {
+      "text": "population fairly evenly distributed"
+    },
+    "Urbanization": {
+      "urban population: ": {
+        "text": "100% of total population (2022)"
+      },
+      "rate of urbanization: ": {
+        "text": "0.58% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Major urban areas - population": {
+      "text": "7.643 million Hong Kong (2022)"
+    },
+    "Sex ratio": {
+      "at birth: ": {
+        "text": "1.06 male(s)/female"
+      },
+      "0-14 years: ": {
+        "text": "1.09 male(s)/female"
+      },
+      "15-24 years: ": {
+        "text": "1.13 male(s)/female"
+      },
+      "25-54 years: ": {
+        "text": "0.78 male(s)/female"
+      },
+      "55-64 years: ": {
+        "text": "0.82 male(s)/female"
+      },
+      "65 years and over: ": {
+        "text": "0.71 male(s)/female"
+      },
+      "total population: ": {
+        "text": "0.86 male(s)/female (2022 est.)"
+      }
+    },
+    "Mother's mean age at first birth": {
+      "text": "29.8 years (2008 est.)"
+    },
+    "Infant mortality rate": {
+      "total: ": {
+        "text": "2.55 deaths/1,000 live births"
+      },
+      "male: ": {
+        "text": "2.82 deaths/1,000 live births"
+      },
+      "female: ": {
+        "text": "2.26 deaths/1,000 live births (2022 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population: ": {
+        "text": "83.61 years"
+      },
+      "male: ": {
+        "text": "80.91 years"
+      },
+      "female: ": {
+        "text": "86.46 years (2022 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.22 children born/woman (2022 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "66.7% (2017)"
+    },
+    "Drinking water source": {
+      "improved: ": {
+        "text": "urban: 100% of population"
+      },
+      "unimproved: ": {
+        "text": "urban: 0% of population"
+      }
+    },
+    "Current Health Expenditure": {
+      "text": "NA"
+    },
+    "Physicians density": {
+      "text": "2 physicians/1,000 population (2019)"
+    },
+    "Hospital bed density": {
+      "text": "4.9 beds/1,000 population (2020)"
+    },
+    "Sanitation facility access": {
+      "improved: ": {
+        "text": "urban: 96.4% of population"
+      },
+      "unimproved: ": {
+        "text": "urban: 3.6% of population"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "4.4% of GDP (2020)"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total: ": {
+        "text": "17 years"
+      },
+      "male: ": {
+        "text": "17 years"
+      },
+      "female: ": {
+        "text": "18 years (2020)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total: ": {
+        "text": "15.5%"
+      },
+      "male: ": {
+        "text": "17.3%"
+      },
+      "female: ": {
+        "text": "13.6% (2020 est.)"
+      }
+    }
+  },
+  "Environment": {
+    "Environment - current issues": {
+      "text": "air and water pollution from rapid urbanization; urban waste pollution; industrial pollution"
+    },
+    "Air pollutants": {
+      "carbon dioxide emissions: ": {
+        "text": "43.64 megatons (2016 est.)"
+      }
+    },
+    "Climate": {
+      "text": "subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall"
+    },
+    "Land use": {
+      "agricultural land: ": {
+        "text": "5% (2018 est.)"
+      },
+      "forest: ": {
+        "text": "0% (2018 est.)"
+      },
+      "other: ": {
+        "text": "95% (2018 est.)"
+      }
+    },
+    "Urbanization": {
+      "urban population: ": {
+        "text": "100% of total population (2022)"
+      },
+      "rate of urbanization: ": {
+        "text": "0.58% annual rate of change (2020-25 est.)"
+      }
+    },
+    "Revenue from forest resources": {
+      "forest revenues: ": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Revenue from coal": {
+      "coal revenues: ": {
+        "text": "0% of GDP (2018 est.)"
+      }
+    },
+    "Waste and recycling": {
+      "municipal solid waste generated annually: ": {
+        "text": "5,679,816 tons (2015 est.)"
+      },
+      "municipal solid waste recycled annually: ": {
+        "text": "1,931,138 tons (2016 est.)"
+      },
+      "percent of municipal solid waste recycled: ": {
+        "text": "34% (2016 est.)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form: ": {
+        "text": "Hong Kong Special Administrative Region"
+      },
+      "conventional short form: ": {
+        "text": "Hong Kong"
+      },
+      "local long form: ": {
+        "text": "Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball)"
+      },
+      "local short form: ": {
+        "text": "Heung Kong (Eitel/Dyer-Ball)"
+      },
+      "abbreviation: ": {
+        "text": "HK"
+      },
+      "etymology: ": {
+        "text": "probably an imprecise phonetic rendering of the Cantonese name meaning \"fragrant harbor\""
+      }
+    },
+    "Government type": {
+      "text": "presidential limited democracy; a special administrative region of the People's Republic of China"
+    },
+    "Dependency status": {
+      "text": "special administrative region of the People's Republic of China"
+    },
+    "Administrative divisions": {
+      "text": "none (special administrative region of the People's Republic of China)"
+    },
+    "Independence": {
+      "text": "none (special administrative region of China)"
+    },
+    "National holiday": {
+      "text": "National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July (1997) is celebrated as Hong Kong Special Administrative Region Establishment Day"
+    },
+    "Constitution": {
+      "history: ": {
+        "text": "several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, effective 1 July 1997 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law"
+      },
+      "amendments: ": {
+        "text": "proposed by the Standing Committee of the National People\u00e2\u0080\u0099s Congress (NPC), the People\u00e2\u0080\u0099s Republic of China State Council, or the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong\u00e2\u0080\u0099s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure)"
+    },
+    "Citizenship": {
+      "text": "see China"
+    },
+    "Suffrage": {
+      "text": "18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials"
+    },
+    "Executive branch": {
+      "chief of state: ": {
+        "text": "President of China XI Jinping (since 14 March 2013)"
+      },
+      "head of government: ": {
+        "text": "Chief Executive Carrie LAM (since 1 July 2017)"
+      },
+      "cabinet: ": {
+        "text": "Executive Council or ExCo appointed by the chief executive"
+      },
+      "elections/appointments: ": {
+        "text": "president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held in 2022)"
+      },
+      "election results: ": {
+        "text": "Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23"
+      },
+      "note:": {
+        "text": " the Legislative Council voted in June 2010 to expand the Election Committee to 1,200 members"
+      }
+    },
+    "Legislative branch": {
+      "description: ": {
+        "text": "unicameral Legislative Council or LegCo (90 seats); 4 year term"
+      },
+      "elections: ": {
+        "text": "last held on 19 Dec 2021"
+      },
+      "election results: ": {
+        "text": "None"
+      },
+      "text": "seats by block/party: pro-Beijing 89 (DAB 19, FTU 8, BPA 7, NPP 5, Liberal Party 4,\u00c2\u00a0 FEW 2, FLU 2, other 5, independent 37); non-establishment 1 (1 Third Side)30.2% voter turnout; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 LegCo election",
+      "\u00c2\u00a0": {
+        "text": "None"
+      }
+    },
+    "Judicial branch": {
+      "highest courts: ": {
+        "text": "Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge"
+      },
+      "judge selection and term of office: ": {
+        "text": "all judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; permanent judges serve until normal retirement at age 65, but term can be extended; non-permanent judges appointed for renewable 3-year terms without age limit"
+      },
+      "subordinate courts: ": {
+        "text": "High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals"
+      }
+    },
+    "Political parties and leaders": {
+      "parties:": {
+        "text": "Bauhinia Party or BP [LI Shan]"
+      },
+      "other:": {
+        "text": "Hong Kong Federation of Trade Unions or HKFTU [labor and political group presided over by NG Chau-pei and chaired by Kingsley WON]"
+      },
+      "note(s) -": {
+        "text": " political parties include: pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, NWSC, PP; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA, BP;\u00c2\u00a0by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law\u00c2\u00a0"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission: ": {
+        "text": "none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK, JP (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] 202 331-8947; FAX: [1] 202 331-8958; hketo@hketowashington.gov.hk"
+      },
+      "HKETO offices: ": {
+        "text": "New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission: ": {
+        "text": "Consul General Hanscom SMITH (since July 2019); note - also accredited to Macau"
+      },
+      "embassy: ": {
+        "text": "26 Garden Road, Central, Hong Kong"
+      },
+      "mailing address: ": {
+        "text": "8000 Hong Kong Place, Washington DC\u00c2\u00a0 20521-8000"
+      },
+      "telephone: ": {
+        "text": "[852] 2523-9011"
+      },
+      "FAX: ": {
+        "text": "[852] 2845-1598"
+      },
+      "email address and website: ": {
+        "text": "<br/>"
+      }
+    },
+    "Flag description": {
+      "text": "red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China"
+    },
+    "National symbol(s)": {
+      "text": "orchid tree flower; national colors: red, white"
+    },
+    "National anthem": {
+      "text": "",
+      "note:": {
+        "text": " as a Special Administrative Region of China, \"Yiyongjun Jinxingqu\" is the official anthem (see China)"
+      }
+    }
+  },
+  "Economy": {
+    "Economic overview": {
+      "text": "Hong Kong\u00e2\u0080\u0099s economic integration with the mainland continues to be most evident in the banking and finance sector. Initiatives like the Hong Kong-Shanghai Stock Connect, the Hong Kong- Shenzhen Stock Connect the Mutual Recognition of Funds, and the Bond Connect scheme are all important steps towards opening up the Mainland\u00e2\u0080\u0099s capital markets and have reinforced Hong Kong\u00e2\u0080\u0099s role as China\u00e2\u0080\u0099s leading offshore RMB market. Additional connect schemes such as ETF Connect (for exchange-traded fund products) are also under exploration by Hong Kong authorities. In 2017, Chief Executive Carrie LAM announced plans to increase government spending on research and development, education, and technological innovation with the aim of spurring continued economic growth through greater sector diversification."
+    },
+    "Real GDP (purchasing power parity)": {
+      "note:": {
+        "text": " data are in 2010 dollars"
+      }
+    },
+    "Real GDP growth rate": {
+      "text": "-1.25% (2019 est.)2.86% (2018 est.)3.8% (2017 est.)"
+    },
+    "Real GDP per capita": {
+      "note:": {
+        "text": " data are in 2010 dollars"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$365.753 billion (2019 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.8% (2019 est.)2.4% (2018 est.)1.4% (2017 est.)"
+    },
+    "Credit ratings": {
+      "Fitch rating: ": {
+        "text": "AA- (2020)"
+      },
+      "Moody's rating: ": {
+        "text": "Aa3 (2020)"
+      },
+      "Standard & Poors rating: ": {
+        "text": "AA+ (2017)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture: ": {
+        "text": "0.1% (2017 est.)"
+      },
+      "industry: ": {
+        "text": "7.6% (2017 est.)"
+      },
+      "services: ": {
+        "text": "92.3% (2017 est.)"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption: ": {
+        "text": "67% (2017 est.)"
+      },
+      "government consumption: ": {
+        "text": "9.9% (2017 est.)"
+      },
+      "investment in fixed capital: ": {
+        "text": "21.8% (2017 est.)"
+      },
+      "investment in inventories: ": {
+        "text": "0.4% (2017 est.)"
+      },
+      "exports of goods and services: ": {
+        "text": "188% (2017 est.)"
+      },
+      "imports of goods and services: ": {
+        "text": "-187.1% (2017 est.)"
+      }
+    },
+    "Agricultural products": {
+      "text": "pork, poultry, spinach, vegetables, pork offals, game meat, fruit, lettuce, green onions, pig fat"
+    },
+    "Industries": {
+      "text": "trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches"
+    },
+    "Industrial production growth rate": {
+      "text": "1.7% (2017 est.)"
+    },
+    "Labor force": {
+      "text": "3.627 million (2020 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture: ": {
+        "text": "3.8% (2013 est.)"
+      },
+      "industry: ": {
+        "text": "2% (2016 est.)"
+      },
+      "services: ": {
+        "text": "54.5% (2016 est.)"
+      },
+      "industry and services: ": {
+        "text": "12.5% (2013 est.)"
+      },
+      "agriculture/fishing/forestry/mining: ": {
+        "text": "10.1% (2013)"
+      },
+      "manufacturing: ": {
+        "text": "17.1% (2013 est.)"
+      },
+      "note:": {
+        "text": " above data exclude public sector"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.93% (2019 est.)2.83% (2018 est.)"
+    },
+    "Unemployment, youth ages 15-24": {
+      "total: ": {
+        "text": "15.5%"
+      },
+      "male: ": {
+        "text": "17.3%"
+      },
+      "female: ": {
+        "text": "13.6% (2020 est.)"
+      }
+    },
+    "Population below poverty line": {
+      "text": "19.9% (2016 est.)"
+    },
+    "Gini Index coefficient - distribution of family income": {
+      "text": "53.9 (2016)53.7 (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%: ": {
+        "text": "1.8% NA"
+      },
+      "highest 10%: ": {
+        "text": "38.1% NA (2016)"
+      }
+    },
+    "Budget": {
+      "revenues: ": {
+        "text": "79.34 billion (2017 est.)"
+      },
+      "expenditures: ": {
+        "text": "61.64 billion (2017 est.)"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "5.2% (of GDP) (2017 est.)"
+    },
+    "Public debt": {
+      "text": "0.1% of GDP (2017 est.)0.1% of GDP (2016 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "23.2% (of GDP) (2017 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Current account balance": {
+      "text": "$22.469 billion (2019 est.)$13.516 billion (2018 est.)"
+    },
+    "Exports": {
+      "text": "$615.88 billion note: data are in current year dollars (2020 est.)$649.02 billion note: data are in current year dollars (2019 est.)$681.28 billion note: data are in current year dollars (2018 est.)"
+    },
+    "Exports - partners": {
+      "text": "China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)"
+    },
+    "Exports - commodities": {
+      "text": "gold, broadcasting equipment, integrated circuits, diamonds, telephones (2019)"
+    },
+    "Imports": {
+      "text": "$609.13 billion note: data are in current year dollars (2020 est.)$642.8 billion note: data are in current year dollars (2019 est.)$682.05 billion note: data are in current year dollars (2018 est.)"
+    },
+    "Imports - partners": {
+      "text": "China 46%, Taiwan 7%, Singapore 7%, South Korea 5%, United States 5%, Japan 5% (2019)"
+    },
+    "Imports - commodities": {
+      "text": "integrated circuits, broadcasting equipment, office machinery, telephones, diamonds (2019)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$431.4 billion (31 December 2017 est.)$386.2 billion (31 December 2016 est.)"
+    },
+    "Debt - external": {
+      "text": "$1,648,409,000,000 (2019 est.)$1,670,919,000,000 (2018 est.)"
+    },
+    "Exchange rates": {
+      "text": "Hong Kong dollars (HKD) per US dollar -7.75225 (2020 est.)7.8285 (2019 est.)7.8133 (2018 est.)7.752 (2014 est.)7.754 (2013 est.)"
+    }
+  },
+  "Energy": {
+    "Electricity access": {
+      "electrification - total population: ": {
+        "text": "100% (2020)"
+      }
+    },
+    "Electricity - production": {
+      "text": "35.97 billion kWh (2016 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "41.84 billion kWh (2016 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.205 billion kWh (2016 est.)"
+    },
+    "Electricity - imports": {
+      "text": "11.62 billion kWh (2016 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "12.63 million kW (2016 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "100% of total installed capacity (2016 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2017 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2017 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2017 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2018 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2015 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2015 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2018 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2015 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "403,100 bbl/day (2016 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "13,570 bbl/day (2015 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "402,100 bbl/day (2015 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2017 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "3.37 billion cu m (2017 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2017 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "3.37 billion cu m (2017 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2016 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - fixed lines": {
+      "total subscriptions: ": {
+        "text": "3,934,129 (2020)"
+      },
+      "subscriptions per 100 inhabitants: ": {
+        "text": "52.48 (2020 est.)"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total subscriptions: ": {
+        "text": "21,865,215 (2020)"
+      },
+      "subscriptions per 100 inhabitants: ": {
+        "text": "291.7 (2020 est.)"
+      }
+    },
+    "Telecommunication systems": {
+      "general assessment: ": {
+        "text": "excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)"
+      },
+      "domestic: ": {
+        "text": "microwave radio relay links and extensive fiber-optic network; fixed-line is over 52 per 100 and mobile-cellular is nearly 292 subscriptions per 100 (2020)"
+      },
+      "international: ": {
+        "text": "country code - 852;\u00c2\u00a0landing points for the APG, ASE, EAC-C2C, HK-G,\u00c2\u00a0Bay-to-Bay Express Cable System, H2 Cable,\u00c2\u00a0HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG\u00c2\u00a0and FEA\u00c2\u00a0submarine cables that provide connections to Asia, US, Australia, the Middle East, and\u00c2\u00a0Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2019)"
+      },
+      "note:": {
+        "text": " the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments"
+      }
+    },
+    "Broadcast media": {
+      "text": "4 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)"
+    },
+    "Internet country code": {
+      "text": ".hk"
+    },
+    "Internet users": {
+      "total: ": {
+        "text": "6.92 million (2021 est.)"
+      },
+      "percent of population: ": {
+        "text": "92.41% (2020 est.)"
+      }
+    },
+    "Broadband - fixed subscriptions": {
+      "total: ": {
+        "text": "2,871,081 (2020)"
+      },
+      "subscriptions per 100 inhabitants: ": {
+        "text": "38.3 (2020 est.)"
+      }
+    }
+  },
+  "Transportation": {
+    "National air transport system": {
+      "number of registered air carriers: ": {
+        "text": "12 (registered in China) (2020)"
+      },
+      "inventory of registered aircraft operated by air carriers: ": {
+        "text": "275 (registered in China)"
+      },
+      "annual passenger traffic on registered air carriers: ": {
+        "text": "47,101,822 (2018)"
+      },
+      "annual freight traffic on registered air carriers: ": {
+        "text": "12,676,720,000 mt-km (2018)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "B-H"
+    },
+    "Airports": {
+      "total: ": {
+        "text": "2 (2013)"
+      }
+    },
+    "Airports - with paved runways": {
+      "total: ": {
+        "text": "2"
+      },
+      "over 3,047 m: ": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m: ": {
+        "text": "1 (2019)"
+      }
+    },
+    "Heliports": {
+      "text": "9 (2013)"
+    },
+    "Roadways": {
+      "total: ": {
+        "text": "2,107 km (2017)"
+      },
+      "paved: ": {
+        "text": "2,107 km (2017)"
+      }
+    },
+    "Merchant marine": {
+      "total: ": {
+        "text": "2,718"
+      },
+      "by type: ": {
+        "text": "bulk carrier 1,158, container ship 558, general cargo 184, oil tanker 388, other 430 (2021)"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s): ": {
+        "text": "Hong Kong"
+      },
+      "container port(s) (TEUs): ": {
+        "text": "Hong Kong (18,361,000) (2019)"
+      }
+    }
+  },
+  "Military and Security": {
+    "Military and security forces": {
+      "text": "no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2021)"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of China"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Hong Kong plans to reduce its 2,800-hectare Frontier Closed Area (FCA) to 400 hectares by 2015; the FCA was established in 1951 as a buffer zone between Hong Kong and mainland China to prevent illegal migration from and the smuggling of goods"
+    },
+    "Trafficking in persons": {
+      "current situation: ": {
+        "text": "human traffickers exploit domestic and foreign victims in Hong Kong, and traffickers also exploit victims from Hong Kong abroad; traffickers exploit women from Eastern Europe, Africa, and Southeast Asia in sex trafficking; some women in Hong Kong \u00e2\u0080\u0093 often with the assistance of their families \u00e2\u0080\u0093 deceive Indian and Pakistani men into arranged marriages involving forced domestic service, bonded labor in construction and other physically demanding industries, and other forms of abuse via exploitative contracts; drug trafficking syndicates coerced South American women to carry drugs into Hong Kong; employment agencies hired foreign domestic workers under false pretenses and forced them into commercial sex, sometimes through debt-based coercion"
+      },
+      "tier rating: ": {
+        "text": "Tier 2 Watch List \u00e2\u0080\u0094 \u00c2\u00a0Hong Kong does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Hong Kong is hiring and training 98 new employees within the immigration, customs, labor, and justice departments dedicated to trafficking issues; authorities screened more than 7,000 vulnerable individuals for trafficking; the labor department introduced a victim identification mechanism to its division offices; the government provided anti-trafficking training to various officials; the government did not investigate, prosecute, or convict any cases of labor trafficking, investigated fewer sex trafficking cases, and did not provide victims any government-funded services; the government continued to penalize victims for unlawful acts traffickers compelled them to commit; no legislation was enacted to fully criminalize all forms of trafficking (2020)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "modern banking system provides conduit for money laundering; groups involved in money laundering range from local street organizations to sophisticated international syndicates involved in assorted criminal activities, including drug trafficking; major source of precursor chemicals used in the production of illicit narcotics"
+    }
+  }
+}
