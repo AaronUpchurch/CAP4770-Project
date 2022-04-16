@@ -1,184 +1,184 @@
-Code,Country,Rate
-BRB,Barbados,0.31
-ATG,Antigua and Barbuda,0.32
-GRD,Grenada,0.64
-VCT,Saint Vincent and the Grenadines,1.01
-JOR,Jordan,1.98
-NER,Niger,10.15
-CUB,Cuba,10.19
-NZL,New Zealand,10.3
-CAN,Canada,10.34
-AUT,Austria,10.4
-UGA,Uganda,10.45
-GHA,Ghana,10.54
-MWI,Malawi,10.58
-SEN,Senegal,10.99
-KEN,Kenya,11.01
-HRV,Croatia,11.01
-ISL,Iceland,11.15
-HTI,Haiti,11.17
-SLE,Sierra Leone,11.25
-AUS,Australia,11.25
-COG,Congo,11.62
-HUN,Hungary,11.77
-DJI,Djibouti,11.95
-EST,Estonia,11.96
-BDI,Burundi,12.12
-MDA,Republic of Moldova,12.17
-JPN,Japan,12.24
-GIN,Guinea,12.33
-SWE,Sweden,12.37
-GNB,Guinea-Bissau,12.38
-COD,Democratic Republic of the Congo,12.41
-AGO,Angola,12.55
-BEN,Benin,12.71
-LKA,Sri Lanka,12.89
-IND,India,12.91
-GAB,Gabon,13.11
-TCD,Chad,13.22
-FIN,Finland,13.43
-GNQ,Equatorial Guinea,13.51
-NAM,Namibia,13.51
-BEL,Belgium,13.93
-SVN,Slovenia,13.97
-BFA,Burkina Faso,14.38
-ZMB,Zambia,14.43
-USA,United States of America,14.51
-WSM,Samoa,14.6
-SOM,Somalia,14.66
-TGO,Togo,14.81
-CPV,Cabo Verde,15.23
-CIV,Côte d’Ivoire,15.66
-CMR,Cameroon,15.92
-LVA,Latvia,16.06
-MNE,Montenegro,16.22
-BLR,Belarus,16.49
-ERI,Eritrea,17.26
-SLB,Solomon Islands,17.37
-UKR,Ukraine,17.73
-MNG,Mongolia,18.02
-KAZ,Kazakhstan,18.05
-URY,Uruguay,18.83
-VEN,Venezuela (Bolivarian Republic of),2.1
-SYR,Syrian Arab Republic,2.11
-STP,Sao Tome and Principe,2.2
-JAM,Jamaica,2.28
-TUR,Turkey,2.34
-BRN,Brunei Darussalam,2.54
-PHL,Philippines,2.54
-IDN,Indonesia,2.55
-HND,Honduras,2.58
-DZA,Algeria,2.6
-KWT,Kuwait,2.66
-ARM,Armenia,2.66
-PER,Peru,2.73
-LBN,Lebanon,2.76
-MDV,Maldives,2.76
-PAN,Panama,2.86
-MMR,Myanmar,2.96
-LTU,Lithuania,20.15
-BWA,Botswana,20.22
-VUT,Vanuatu,20.96
-KOR,Republic of Korea,21.16
-RUS,Russian Federation,21.6
-CAF,Central African Republic,22.96
-MOZ,Mozambique,23.19
-ZAF,South Africa,23.49
-ZWE,Zimbabwe,23.63
-SUR,Suriname,25.89
-FSM,Micronesia (Federated States of),28.99
-TUN,Tunisia,3.18
-CYP,Cyprus,3.18
-BHS,Bahamas,3.37
-EGY,Egypt,3.41
-PNG,Papua New Guinea,3.57
-GRC,Greece,3.62
-ALB,Albania,3.72
-COL,Colombia,3.74
-BGD,Bangladesh,3.85
-AZE,Azerbaijan,3.97
-KIR,Kiribati,30.56
-ITA,Italy,4.33
-TON,Tonga,4.37
-OMN,Oman,4.47
-LBY,Libya,4.49
-TLS,Timor-Leste,4.53
-QAT,Qatar,4.66
-NIC,Nicaragua,4.66
-IRQ,Iraq,4.74
-SDN,Sudan,4.76
-SWZ,Eswatini,40.46
-GUY,Guyana,40.85
-BTN,Bhutan,5.07
-DOM,Dominican Republic,5.11
-IRN,Iran (Islamic Republic of),5.13
-ISR,Israel,5.15
-ARE,United Arab Emirates,5.24
-ESP,Spain,5.28
-MEX,Mexico,5.29
-TJK,Tajikistan,5.32
-MLT,Malta,5.32
-SAU,Saudi Arabia,5.43
-MRT,Mauritania,5.47
-KHM,Cambodia,5.49
-MYS,Malaysia,5.77
-AFG,Afghanistan,5.96
-LAO,Lao People's Democratic Republic,5.98
-TKM,Turkmenistan,6.07
-SLV,El Salvador,6.11
-PRY,Paraguay,6.16
-GTM,Guatemala,6.23
-BRA,Brazil,6.41
-BGR,Bulgaria,6.5
-CHN,China,6.67
-SSD,South Sudan,6.69
-BOL,Bolivia (Plurinational State of),6.82
-LCA,Saint Lucia,6.85
-NGA,Nigeria,6.87
-GBR,United Kingdom of Great Britain and Northern Ireland,6.88
-YEM,Yemen,7.06
-MKD,The former Yugoslav Republic of Macedonia,7.15
-BHR,Bahrain,7.2
-VNM,Viet Nam,7.22
-PRT,Portugal,7.22
-MAR,Morocco,7.29
-ROU,Romania,7.33
-LBR,Liberia,7.37
-CRI,Costa Rica,7.62
-DNK,Denmark,7.63
-GEO,Georgia,7.65
-BLZ,Belize,7.65
-ECU,Ecuador,7.68
-SYC,Seychelles,7.73
-SRB,Serbia,7.86
-THA,Thailand,7.95
-MLI,Mali,7.96
-CHL,Chile,8.04
-ARG,Argentina,8.14
-TZA,United Republic of Tanzania,8.15
-PRK,Democratic People's Republic of Korea,8.2
-BIH,Bosnia and Herzegovina,8.25
-DEU,Germany,8.27
-TTO,Trinidad and Tobago,8.28
-UZB,Uzbekistan,8.28
-KGZ,Kyrgyzstan,8.28
-COM,Comoros,8.46
-LUX,Luxembourg,8.62
-MUS,Mauritius,8.75
-IRL,Ireland,8.9
-LSO,Lesotho,87.48
-MDG,Madagascar,9.18
-NLD,Netherlands,9.27
-POL,Poland,9.3
-SVK,Slovakia,9.31
-RWA,Rwanda,9.45
-ETH,Ethiopia,9.45
-CZE,Czechia,9.48
-FJI,Fiji,9.51
-GMB,Gambia,9.64
-FRA,France,9.65
-SGP,Singapore,9.65
-PAK,Pakistan,9.77
-NPL,Nepal,9.77
-CHE,Switzerland,9.83
-NOR,Norway,9.91
+Country,Rate
+Barbados,0.31
+Antigua and Barbuda,0.32
+Grenada,0.64
+Saint Vincent and the Grenadines,1.01
+Jordan,1.98
+Niger,10.15
+Cuba,10.19
+New Zealand,10.3
+Canada,10.34
+Austria,10.4
+Uganda,10.45
+Ghana,10.54
+Malawi,10.58
+Senegal,10.99
+Kenya,11.01
+Croatia,11.01
+Iceland,11.15
+Haiti,11.17
+Sierra Leone,11.25
+Australia,11.25
+Congo,11.62
+Hungary,11.77
+Djibouti,11.95
+Estonia,11.96
+Burundi,12.12
+Republic of Moldova,12.17
+Japan,12.24
+Guinea,12.33
+Sweden,12.37
+Guinea-Bissau,12.38
+Democratic Republic of the Congo,12.41
+Angola,12.55
+Benin,12.71
+Sri Lanka,12.89
+India,12.91
+Gabon,13.11
+Chad,13.22
+Finland,13.43
+Equatorial Guinea,13.51
+Namibia,13.51
+Belgium,13.93
+Slovenia,13.97
+Burkina Faso,14.38
+Zambia,14.43
+United States of America,14.51
+Samoa,14.6
+Somalia,14.66
+Togo,14.81
+Cabo Verde,15.23
+C�te d?Ivoire,15.66
+Cameroon,15.92
+Latvia,16.06
+Montenegro,16.22
+Belarus,16.49
+Eritrea,17.26
+Solomon Islands,17.37
+Ukraine,17.73
+Mongolia,18.02
+Kazakhstan,18.05
+Uruguay,18.83
+Venezuela (Bolivarian Republic of),2.1
+Syrian Arab Republic,2.11
+Sao Tome and Principe,2.2
+Jamaica,2.28
+Turkey,2.34
+Brunei Darussalam,2.54
+Philippines,2.54
+Indonesia,2.55
+Honduras,2.58
+Algeria,2.6
+Kuwait,2.66
+Armenia,2.66
+Peru,2.73
+Lebanon,2.76
+Maldives,2.76
+Panama,2.86
+Myanmar,2.96
+Lithuania,20.15
+Botswana,20.22
+Vanuatu,20.96
+Republic of Korea,21.16
+Russian Federation,21.6
+Central African Republic,22.96
+Mozambique,23.19
+South Africa,23.49
+Zimbabwe,23.63
+Suriname,25.89
+Micronesia (Federated States of),28.99
+Tunisia,3.18
+Cyprus,3.18
+Bahamas,3.37
+Egypt,3.41
+Papua New Guinea,3.57
+Greece,3.62
+Albania,3.72
+Colombia,3.74
+Bangladesh,3.85
+Azerbaijan,3.97
+Kiribati,30.56
+Italy,4.33
+Tonga,4.37
+Oman,4.47
+Libya,4.49
+Timor-Leste,4.53
+Qatar,4.66
+Nicaragua,4.66
+Iraq,4.74
+Sudan,4.76
+Eswatini,40.46
+Guyana,40.85
+Bhutan,5.07
+Dominican Republic,5.11
+Iran (Islamic Republic of),5.13
+Israel,5.15
+United Arab Emirates,5.24
+Spain,5.28
+Mexico,5.29
+Tajikistan,5.32
+Malta,5.32
+Saudi Arabia,5.43
+Mauritania,5.47
+Cambodia,5.49
+Malaysia,5.77
+Afghanistan,5.96
+Lao People's Democratic Republic,5.98
+Turkmenistan,6.07
+El Salvador,6.11
+Paraguay,6.16
+Guatemala,6.23
+Brazil,6.41
+Bulgaria,6.5
+China,6.67
+South Sudan,6.69
+Bolivia (Plurinational State of),6.82
+Saint Lucia,6.85
+Nigeria,6.87
+United Kingdom of Great Britain and Northern Ireland,6.88
+Yemen,7.06
+The former Yugoslav Republic of Macedonia,7.15
+Bahrain,7.2
+Viet Nam,7.22
+Portugal,7.22
+Morocco,7.29
+Romania,7.33
+Liberia,7.37
+Costa Rica,7.62
+Denmark,7.63
+Georgia,7.65
+Belize,7.65
+Ecuador,7.68
+Seychelles,7.73
+Serbia,7.86
+Thailand,7.95
+Mali,7.96
+Chile,8.04
+Argentina,8.14
+United Republic of Tanzania,8.15
+Democratic People's Republic of Korea,8.2
+Bosnia and Herzegovina,8.25
+Germany,8.27
+Trinidad and Tobago,8.28
+Uzbekistan,8.28
+Kyrgyzstan,8.28
+Comoros,8.46
+Luxembourg,8.62
+Mauritius,8.75
+Ireland,8.9
+Lesotho,87.48
+Madagascar,9.18
+Netherlands,9.27
+Poland,9.3
+Slovakia,9.31
+Rwanda,9.45
+Ethiopia,9.45
+Czechia,9.48
+Fiji,9.51
+Gambia,9.64
+France,9.65
+Singapore,9.65
+Pakistan,9.77
+Nepal,9.77
+Switzerland,9.83
+Norway,9.91
