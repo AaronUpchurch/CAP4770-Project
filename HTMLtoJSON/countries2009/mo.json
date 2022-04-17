@@ -1,0 +1,728 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 788, about a century after the Arab conquest of North Africa, successive Moorish dynasties began to rule in Morocco. In the 16th century, the Sa'adi monarchy, particularly under Ahmad AL-MANSUR (1578-1603), repelled foreign invaders and inaugurated a golden age. In 1860, Spain occupied northern Morocco and ushered in a half century of trade rivalry among European powers that saw Morocco's sovereignty steadily erode; in 1912, the French imposed a protectorate over the country. A protracted independence struggle with France ended successfully in 1956. The internationalized city of Tangier and most Spanish possessions were turned over to the new country that same year. Morocco virtually annexed Western Sahara during the late 1970s, but final resolution on the status of the territory remains unresolved. Gradual political reforms in the 1990s resulted in the establishment of a bicameral legislature, which first met in 1997. The country has made improvements in human rights under King MOHAMMED VI and its press is moderately free. Despite the continuing reforms, ultimate authority remains in the hands of the monarch."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Africa, bordering the North Atlantic Ocean and the Mediterranean Sea, between Algeria and Western Sahara"
+    },
+    "Geographic coordinates": {
+      "text": "32 00 N, 5 00 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "446,550 sq km"
+      },
+      "land": {
+        "text": "446,300 sq km"
+      },
+      "water": {
+        "text": "250 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,017.9 km"
+      },
+      "border countries": {
+        "text": "Algeria 1,559 km, Western Sahara 443 km, Spain (Ceuta) 6.3 km, Spain (Melilla) 9.6 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,835 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean, becoming more extreme in the interior"
+    },
+    "Terrain": {
+      "text": "northern coast and interior are mountainous with large areas of bordering plateaus, intermontane valleys, and rich coastal plains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Sebkha Tah -55 m"
+      },
+      "highest point": {
+        "text": "Jebel Toubkal 4,165 m"
+      }
+    },
+    "Natural resources": {
+      "text": "phosphates, iron ore, manganese, lead, zinc, fish, salt"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "19%"
+      },
+      "permanent crops": {
+        "text": "2%"
+      },
+      "other": {
+        "text": "79% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "14,450 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "29 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "12.6  cu km/yr (10%/3%/87%)"
+      },
+      "per capita": {
+        "text": "400  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "northern mountains geologically unstable and subject to earthquakes; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "land degradation/desertification (soil erosion resulting from farming of marginal areas, overgrazing, destruction of vegetation); water supplies contaminated by raw sewage; siltation of reservoirs; oil pollution of coastal waters"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location along Strait of Gibraltar"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "34,859,364 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "30% (male 5,333,396/female 5,131,886)"
+      },
+      "15-64 years": {
+        "text": "64.7% (male 11,261,139/female 11,305,792)"
+      },
+      "65 years and over": {
+        "text": "5.2% (male 781,089/female 1,046,062) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "25 years"
+      },
+      "male": {
+        "text": "24.5 years"
+      },
+      "female": {
+        "text": "25.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.479% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "20.96 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.45 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.72 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "56% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.75 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "36.88 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "40.35 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "33.24 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "71.8 years"
+      },
+      "male": {
+        "text": "69.42 years"
+      },
+      "female": {
+        "text": "74.3 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.51 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "21,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 1,000 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Moroccan(s)"
+      },
+      "adjective": {
+        "text": "Moroccan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Arab-Berber 99.1%, other 0.7%, Jewish 0.2%"
+    },
+    "Religions": {
+      "text": "Muslim 98.7%, Christian 1.1%, Jewish 0.2%"
+    },
+    "Languages": {
+      "text": "Arabic (official), Berber dialects, French often the language of business, government, and diplomacy"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "52.3%"
+      },
+      "male": {
+        "text": "65.7%"
+      },
+      "female": {
+        "text": "39.6% (2004 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "10 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "9 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Morocco "
+      },
+      "conventional short form": {
+        "text": "Morocco"
+      },
+      "local long form": {
+        "text": "Al Mamlakah al Maghribiyah"
+      },
+      "local short form": {
+        "text": "Al Maghrib"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Rabat"
+      },
+      "geographic coordinates": {
+        "text": "34 01 N, 6 49 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "15 regions; Grand Casablanca, Chaouia-Ouardigha, Doukkala-Abda, Fes-Boulemane, Gharb-Chrarda-Beni Hssen, Guelmim-Es Smara, Laayoune-Boujdour-Sakia El Hamra, Marrakech-Tensift-Al Haouz, Meknes-Tafilalet, Oriental, Rabat-Sale-Zemmour-Zaer, Souss-Massa-Draa, Tadla-Azilal, Tanger-Tetouan, Taza-Al Hoceima-Taounate",
+      "note": "Morocco claims the territory of Western Sahara, the political status of which is considered undetermined by the US Government; portions of the regions Guelmim-Es Smara and Laayoune-Boujdour-Sakia El Hamra as claimed by Morocco lie within Western Sahara; Morocco also claims Oued Eddahab-Lagouira, another region which falls entirely within Western Sahara"
+    },
+    "note": "the amendment of September 1996 was to create a bicameral legislature",
+    "Independence": {
+      "text": "2 March 1956 (from France)"
+    },
+    "National holiday": {
+      "text": "Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999)"
+    },
+    "Constitution": {
+      "text": "10 March 1972; revised 4 September 1992, amended September 1996",
+      "note": "the amendment of September 1996 was to create a bicameral legislature"
+    },
+    "Legal system": {
+      "text": "based on Islamic law and French and Spanish civil law systems; judicial review of legislative acts in Constitutional Chamber of Supreme Court; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal (as of January 2003)"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King MOHAMMED VI (since 30 July 1999)"
+      },
+      "head of government": {
+        "text": "Prime Minister Abbas EL FASSI (since 19 September 2007)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the monarch"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; prime minister appointed by the monarch following legislative elections"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of a Chamber of Counselors (or upper house) (270 seats; members elected indirectly by local councils, professional organizations, and labor syndicates for nine-year terms; one-third of the members are elected every three years) and Chamber of Representatives (or lower house) (325 seats; 295 members elected by multi-seat constituencies and 30 from national lists of women; members elected by popular vote for five-year terms)",
+      "elections": {
+        "text": "Chamber of Counselors - last held 8 September 2006 (next to be held in 2009); Chamber of Representatives - last held 7 September 2007 (next to be held in 2012)"
+      },
+      "election results": {
+        "text": "Chamber of Counselors - percent of vote by party - NA; seats by party - PI 17, MP 14, RNI 13, USFP 11, UC 6, PND 4, PPS 4, Al Ahd 4, other 17; Chamber of Representatives - percent of vote by party - NA; seats by party - PI 52, PJD 46, MP 41, RNI 39, USFP 38, UC 27, PPS 17, FFD 9, MDS 9, Al Ahd 8, other 39"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed on the recommendation of the Supreme Council of the Judiciary, presided over by the monarch)"
+    },
+    "Political parties and leaders": {
+      "text": "Action Party or PA [Mohammed EL IDRISSI]; Al Ahd (The Covenant) Party [Najib EL OUAZZANI]; Alliance des Libert'es (Alliance of Liberty) or ADL [Ali BELHAJ]; An-Nahj Ad-Dimocrati or An-Nahj [Abdellah EL HARIF]; Authenticity and Modernity Party or PAM [Mohamed Cheikh BIADILLAH, Secretary General]; Choura et Istiqlal (Consultation and Independence) Party or PCI [Abdelwahed MAACH]; Citizens' Forces or FC [Abderrahman LAHJOUJI]; Citizenship and Development Initiative or ICD [Mohamed BENHAMOU]; Constitutional Union Party or UC [Mohammed ABIED]; Democratic and Social Movement or MDS [Mahmoud ARCHANE]; Democratic Forces Front or FFD [Touhami EL KHIARI]; Democratic Socialist Vanguard Party or PADS [Ahmed BENJELLOUN]; Democratic Society Party or PSD [Zhor CHEKKAFI]; Democratic Union or UD [Bouazza IKKEN]; Environment and Development Party or PED [Ahmed EL ALAMI]; Istiqlal (Independence) Party or PI [Abbas EL FASSI]; Justice and Development Party or PJD [Abdelilah BENKIRANE]; Labor Party or PT [Abdelkrim BENATIK]; Moroccan Liberal Party or PML [Mohamed ZIANE]; National Democratic Party or PND [Abdallah KADIRI]; National Ittihadi Congress Party or CNI [Abdelmajid BOUZOUBAA]; National Popular Movement or MNP [Mahjoubi AHERDANE]; National Rally of Independents or RNI [Mustapha EL MANSOURI]; National Union of Popular Forces or UNFP [Abdellah IBRAHIM]; Popular Movement or MP [Mohamed LAENSER]; Progress and Socialism Party or PPS [Ismail ALAOUI]; Reform and Development Party or PRD [Abderrahmane EL KOUHEN]; Renaissance and Virtue Party or PRV [Mohamed KHALIDI]; Renewal and Equity Party or PRE [Chakir ACHABAR]; Social Center Party or PSC [Lahcen MADIH]; Socialist Democratic Party or PSD [Aissa OUARDIGHI]; Socialist Union of Popular Forces or USFP [Abdelwahed RADI]; Unified Socialist Left Party or PGSU [Mohamed Ben Said AIT IDDER]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Democratic Confederation of Labor or CDT [Noubir AMAOUI]; General Union of Moroccan Workers or UGTM [Abderrazzak AFILAL]; Moroccan Employers Association or CGEM [Hassan CHAMI]; National Labor Union of Morocco or UNMT [Abdelslam MAATI]; Union of Moroccan Workers or UMT [Mahjoub BENSEDDIK]"
+    },
+    "International organization participation": {
+      "text": "ABEDA, AfDB, AFESD, AMF, AMU, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAS, MIGA, MONUC, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Aziz MEKOUAR"
+      },
+      "chancery": {
+        "text": "1601 21st Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 462-7979"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-0161"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Robert P. JACKSON"
+      },
+      "embassy": {
+        "text": "2 Avenue de Mohamed El Fassi, Rabat"
+      },
+      "mailing address": {
+        "text": "PSC 74, Box 021, APO AE 09718"
+      },
+      "telephone": {
+        "text": "[212] (37) 76 22 65"
+      },
+      "FAX": {
+        "text": "[212] (37) 76 56 61"
+      },
+      "consulate(s) general": {
+        "text": "Casablanca"
+      }
+    },
+    "Flag description": {
+      "text": "red with a green pentacle (five-pointed, linear star) known as Sulayman's (Solomon's) seal in the center of the flag; red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian gulf; design dates to 1912"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Moroccan economic policies brought macroeconomic stability to the country in the early 1990s but have not spurred growth sufficient to reduce unemployment - nearing 20% in urban areas - despite the Moroccan Government's ongoing efforts to diversify the economy. Morocco's GDP growth rose to 5.9% in 2008, with the economy recovering from a drought in 2007 that severely reduced agricultural output and necessitated wheat imports at rising world prices. Moroccan authorities understand that reducing poverty and providing jobs are key to domestic security and development. In 2005, Morocco launched the National Initiative for Human Development (INDH), a $2 billion social development plan to address poverty and unemployment and to improve the living conditions of the country's urban slums. Moroccan authorities are implementing reform efforts to open the economy to international investors. Despite structural adjustment programs supported by the IMF, the World Bank, and the Paris Club, the dirham is only fully convertible for current account transactions. In 2000, Morocco entered an Association Agreement with the EU and, in 2006, entered a Free Trade Agreement (FTA) with the US. Long-term challenges include improving education and job prospects for Morocco's youth, and closing the income gap between the rich and the poor, which the government hopes to achieve by increasing tourist arrivals and boosting competitiveness in textiles."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$125.9 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$88.88 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "15.7%"
+      },
+      "industry": {
+        "text": "30.1%"
+      },
+      "services": {
+        "text": "54.1% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "11.29 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "44.6%"
+      },
+      "industry": {
+        "text": "19.8%"
+      },
+      "services": {
+        "text": "35.5% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.8% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "15% (2007 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.7%"
+      },
+      "highest 10%": {
+        "text": "33.2% (2007)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39.5 (1999 est.)"
+    },
+    "Investment (gross fixed)": {
+      "text": "32.1% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$26.16 billion"
+      },
+      "expenditures": {
+        "text": "$27.93 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "70.2% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA%"
+    },
+    "Stock of money": {
+      "text": "$67.42 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$16.23 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$71.9 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$49.36 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "barley, wheat, citrus, wine, vegetables, olives; livestock"
+    },
+    "Industries": {
+      "text": "phosphate rock mining and processing, food processing, leather goods, textiles, construction, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "4.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "21.56 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "20.78 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "3.455 billion kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "4,310 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "187,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "17,420 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "195,800 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "750,000 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "60 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "560 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "500 million cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "1.501 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$224 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$15.15 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "clothing and textiles, electric components, inorganic chemicals, transistors, crude minerals, fertilizers (including phosphates), petroleum products, citrus fruits, vegetables, fish"
+    },
+    "Exports - partners": {
+      "text": "Spain 19.2%, France 17.6%, Brazil 7.1%, US 4.5%, Belgium 4.5%, Italy 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$29.32 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "crude petroleum, textile fabric, telecommunications equipment, wheat, gas and electricity, transistors, plastics"
+    },
+    "Imports - partners": {
+      "text": "France 16.1%, Spain 13.5%, Italy 6.5%, China 6%, Germany 5.6%, Saudi Arabia 5.4%, Moldova 5% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$24.72 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$19.91 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$40.92 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.337 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Moroccan dirhams (MAD) per US dollar - 7.526 (2008 est.), 8.3563 (2007), 8.7722 (2006), 8.865 (2005), 8.868 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "2.991 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "22.816 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system with all important capabilities; however, density is low with only 9 fixed lines available for each 100 persons; mobile-cellular subscribership reached 65 per 100 persons in 2008"
+      },
+      "domestic": {
+        "text": "good system composed of open-wire lines, cables, and microwave radio relay links; Internet available but expensive; principal switching centers are Casablanca and Rabat; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay"
+      },
+      "international": {
+        "text": "country code - 212; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable that provides connectivity to Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara; coaxial cable and microwave radio relay to Algeria; participant in Medarabtel; fiber-optic cable link from Agadir to Algeria and Tunisia (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 27, FM 25, shortwave 6 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "35 (plus 66 repeaters) (1995)"
+    },
+    "Internet country code": {
+      "text": ".ma"
+    },
+    "Internet hosts": {
+      "text": "276,521 (2009)"
+    },
+    "Internet users": {
+      "text": "10.3 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "58 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "32"
+      },
+      "over 3,047 m": {
+        "text": "11"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "10"
+      },
+      "914 to 1,523 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "26"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "8 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 830 km; oil 439 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,907 km"
+      },
+      "standard gauge": {
+        "text": "1,907 km 1.435-m gauge (1,022 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "57,625 km"
+      },
+      "paved": {
+        "text": "35,664 km (includes 639 km of expressways)"
+      },
+      "unpaved": {
+        "text": "21,961 km (2006)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "35"
+      },
+      "by type": {
+        "text": "cargo 3, chemical tanker 6, container 8, passenger/cargo 13, petroleum tanker 1, roll on/roll off 4"
+      },
+      "foreign-owned": {
+        "text": "16 (France 14, Germany 2)"
+      },
+      "registered in other countries": {
+        "text": "4 (Gibraltar 4) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Agadir, Casablanca, Mohammedia, Safi"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Royal Armed Forces (Forces Armees Royales, FAR)": {
+        "text": "Royal Moroccan Army (includes Air Defense), Navy (includes Marines), Royal Moroccan Air Force (Al Quwwat al Jawyiya al Malakiya Marakishiya; Force Aerienne Royale Marocaine) (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory and voluntary military service; conscript service obligation - 18 months (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "9,152,580"
+      },
+      "females age 16-49": {
+        "text": "9,080,830 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "7,779,589"
+      },
+      "females age 16-49": {
+        "text": "7,881,024 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "356,014"
+      },
+      "female": {
+        "text": "343,520 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "5% of GDP (2003 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "claims and administers Western Sahara whose sovereignty remains unresolved - UN-administered cease-fire has remained in effect since September 1991, but attempts to hold a referendum have failed and parties thus far have rejected all brokered proposals; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters; discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands; Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa"
+    },
+    "Illicit drugs": {
+      "text": "one of the world's largest producers of illicit hashish; shipments of hashish mostly directed to Western Europe; transit point for cocaine from South America destined for Western Europe; significant consumer of cannabis\r\n"
+    }
+  }
+}

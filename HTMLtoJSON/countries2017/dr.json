@@ -1,0 +1,860 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The Taino - indigenous inhabitants of Hispaniola prior to the arrival of the Europeans - divided the island into five chiefdoms and territories. Christopher COLUMBUS explored and claimed the island on his first voyage in 1492; it became a springboard for Spanish conquest of the Caribbean and the American mainland. In 1697, Spain recognized French dominion over the western third of the island, which in 1804 became Haiti. The remainder of the island, by then known as Santo Domingo, sought to gain its own independence in 1821 but was conquered and ruled by the Haitians for 22 years; it finally attained independence as the Dominican Republic in 1844. In 1861, the Dominicans voluntarily returned to the Spanish Empire, but two years later they launched a war that restored independence in 1865. A legacy of unsettled, mostly non-representative rule followed, capped by the dictatorship of Rafael Leonidas TRUJILLO from 1930 to 1961. Juan BOSCH was elected president in 1962 but was deposed in a military coup in 1963. In 1965, the US led an intervention in the midst of a civil war sparked by an uprising to restore BOSCH. In 1966, Joaquin BALAGUER defeated BOSCH in the presidential election. BALAGUER maintained a tight grip on power for most of the next 30 years when international reaction to flawed elections forced him to curtail his term in 1996. Since then, regular competitive elections have been held in which opposition candidates have won the presidency. Former President Leonel FERNANDEZ Reyna (first term 1996-2000) won election to a new term in 2004 following a constitutional amendment allowing presidents to serve more than one term, and was later reelected to a second consecutive term. In 2012, Danilo MEDINA Sanchez became president; he was reelected in 2016."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, east of Haiti"
+    },
+    "Geographic coordinates": {
+      "text": "19 00 N, 70 40 W"
+    },
+    "Map references": {
+      "text": "Central America and the Caribbean"
+    },
+    "Area": {
+      "total": {
+        "text": "48,670 sq km"
+      },
+      "land": {
+        "text": "48,320 sq km"
+      },
+      "water": {
+        "text": "350 sq km"
+      },
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of New Jersey"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "376 km"
+      },
+      "border countries (1)": {
+        "text": "Haiti 376 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,288 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic straight baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical maritime; little seasonal temperature variation; seasonal variation in rainfall"
+    },
+    "Terrain": {
+      "text": "rugged highlands and mountains interspersed with fertile valleys"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "424 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Pico Duarte 3,098 m"
+    },
+    "Natural resources": {
+      "text": "nickel, bauxite, gold, silver, arable land"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "51.5%"
+      },
+      "text": "arable land 16.6%; permanent crops 10.1%; permanent pasture 24.8%",
+      "forest": {
+        "text": "40.8%"
+      },
+      "other": {
+        "text": "7.7% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "3,070 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)"
+    },
+    "Natural hazards": {
+      "text": "lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "water shortages; soil eroding into the sea damages coral reefs; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominican Republic, western one-third is Haiti); the second largest country in the Antilles (after Cuba); geographically diverse with the Caribbean's tallest mountain, Pico Duarte, and lowest elevation and largest lake, Lago Enriquillo"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Dominican Republic"
+      },
+      "conventional short form": {
+        "text": "The Dominican"
+      },
+      "local long form": {
+        "text": "Republica Dominicana"
+      },
+      "local short form": {
+        "text": "La Dominicana"
+      },
+      "etymology": {
+        "text": "the country name derives from the capital city of Santo Domingo (Saint Dominic)"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Santo Domingo"
+      },
+      "geographic coordinates": {
+        "text": "18 28 N, 69 54 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma"
+    },
+    "Independence": {
+      "text": "27 February 1844 (from Haiti)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 February (1844)"
+    },
+    "Constitution": {
+      "text": "many previous (38 total); latest proclaimed 26 January 2010; note - the Dominican Republic Government has a practice of promulgating a \"new\" constitution whenever an amendment is ratified (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of the Dominican Republic"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "2 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age, universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Danilo MEDINA Sanchez (since 16 August 2012); Vice President Margarita CEDENO DE FERNANDEZ (since 16 August 2012); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Danilo MEDINA Sanchez (since 16 August 2012); Vice President Margarita CEDENO DE FERNANDEZ (since 16 August 2012)"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the president"
+      },
+      "elections/appointments": {
+        "text": "president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for consecutive terms); election last held on 15 May 2016 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral National Congress or Congreso Nacional consists of the Senate or Senado (32 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) and the House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 15 May 2016 (next to be held in May 2020); House of Representatives - last held on 15 May 2016 (next to be held in May 2020)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PLD 26, PRM 2, BIS 1, PLRD 1, PRD 1, PRSC 1"
+      },
+      "text": "House of Representatives - percent of vote by party - NA; seats by party - PLD 106, PRM 42, PRSC 18, PRD 16, PLRD 3, other 5"
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms"
+      },
+      "subordinate courts": {
+        "text": "courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social Christian Reformist Party or PRSC [Federico ANTUN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Foundation for Institution-Building and Justice or FINJUS"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Jose Tomas PEREZ Vazquez(since 23 February 2015)"
+      },
+      "chancery": {
+        "text": "1715 22nd Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-6280"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-8057"
+      },
+      "consulate(s) general": {
+        "text": "Boston, Chicago, Los Angeles, Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico)"
+      },
+      "consulate(s)": {
+        "text": "San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Robert COPLEY (since 21 July 2017)"
+      },
+      "embassy": {
+        "text": "Av. Republica de Colombia "
+      },
+      "mailing address": {
+        "text": "Unit 5500, APO AA 34041-5500"
+      },
+      "telephone": {
+        "text": "[1] (809) 567-7775"
+      },
+      "FAX": {
+        "text": "[1] (809) 686-7437"
+      }
+    },
+    "Flag description": {
+      "text": "a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads \"Y la verdad nos hara libre\" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes"
+    },
+    "National symbol(s)": {
+      "text": "palmchat (bird); national colors: red, white, blue"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional\" (National Anthem)"
+      },
+      "lyrics/music": {
+        "text": "Emilio PRUD'HOMME/Jose REYES"
+      },
+      "note": {
+        "text": "adopted 1934; also known as \"Quisqueyanos valientes\" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them \"Quisqueyanos,\" a reference to the indigenous name of the island"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The Dominican Republic's economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016. A liability management operation in January 2015, in which the government paid down over $4 billion of the country\u2019s Petrocaribe debt at a discount of 52% with proceeds from the sale of $2.5 billion in global bonds, reduced the country\u2019s debt load by approximately by 4% of GDP. Since 2015 the Dominican Republic has posted the fastest economic growth in Latin America."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$138.5 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$71.67 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$14,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "69.7%"
+      },
+      "government consumption": {
+        "text": "11%"
+      },
+      "investment in fixed capital": {
+        "text": "22.4%"
+      },
+      "investment in inventories": {
+        "text": "0.6%"
+      },
+      "exports of goods and services": {
+        "text": "25.2%"
+      },
+      "imports of goods and services": {
+        "text": "-28.9% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "5.5%"
+      },
+      "industry": {
+        "text": "33.4%"
+      },
+      "services": {
+        "text": "61.1% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cocoa, tobacco, sugarcane, coffee, cotton, rice, beans, potatoes, corn, bananas; cattle, pigs, dairy products, beef, eggs"
+    },
+    "Industries": {
+      "text": "tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices"
+    },
+    "Industrial production growth rate": {
+      "text": "7.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Labor force": {
+      "text": "4.639 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "14.4%"
+      },
+      "industry": {
+        "text": "20.8%"
+      },
+      "services": {
+        "text": "64.7% (2014)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "14% (2015 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Population below poverty line": {
+      "text": "30.5% (2016 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.9%"
+      },
+      "highest 10%": {
+        "text": "37.4% (2013 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "45.7 (2012 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$10.59 billion"
+      },
+      "expenditures": {
+        "text": "$12.63 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "14.7% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Public debt": {
+      "text": "44.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.8% (2015 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.88% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$5.986 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$18.43 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$30.9 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-1.299 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Exports": {
+      "text": "$9.442 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Exports - commodities": {
+      "text": "gold, silver, cocoa, sugar, coffee, tobacco, meats, consumer goods"
+    },
+    "Exports - partners": {
+      "text": "US 47.3%, Haiti 12%, Canada 7.8%, India 6.2% (2016)"
+    },
+    "Imports": {
+      "text": "$16.91 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum, foodstuffs, cotton and fabrics, chemicals and pharmaceuticals"
+    },
+    "Imports - partners": {
+      "text": "US 40.4%, China 12.5%, Mexico 5.2% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$5.266 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Debt - external": {
+      "text": "$26.63 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$31.04 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$272 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Exchange rates": {
+      "text": "39.34 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "300,000"
+      },
+      "electrification - total population": {
+        "text": "98%"
+      },
+      "electrification - urban areas": {
+        "text": "99%"
+      },
+      "electrification - rural areas": {
+        "text": "97% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "15.53 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "13.25 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "3.732 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "80.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "16.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "5.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "27,440 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "27,060 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "114,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "84,370 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "1.895 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "1.108 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "22 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "1,345,091"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "13 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "8,708,131"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "82 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "relatively efficient system based on island-wide microwave radio relay network"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity is about 13 per 100 persons; multiple providers of mobile-cellular service with a subscribership of over 80 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 1-809; 1-829; 1-849; landing point for the Americas Region Caribbean Ring System (ARCOS-1), Antillas 1, AMX-1, and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; combination of state-owned and privately owned radio stations with more than 300 radio stations operating (2015)"
+    },
+    "Internet country code": {
+      "text": ".do"
+    },
+    "Internet users": {
+      "total": {
+        "text": "6,504,998"
+      },
+      "percent of population": {
+        "text": "61.3% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "69"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "6"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "14,463"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HI (2016)"
+    },
+    "Airports": {
+      "text": "36 (2013)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "20"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "18 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 27 km; oil 103 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "496 km"
+      },
+      "standard gauge": {
+        "text": "354 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "142 km 0.762-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "19,705 km"
+      },
+      "paved": {
+        "text": "9,872 km"
+      },
+      "unpaved": {
+        "text": "9,833 km (2002)"
+      },
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Puerto Haina, Puerto Plata, Santo Domingo"
+      },
+      "oil terminal(s)": {
+        "text": "Punta Nizao oil terminal"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Andres LNG terminal (Boca Chica)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "0.65% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Military branches": {
+      "text": "Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Haitian migrants cross the porous border into the Dominican Republic to find work; illegal migrants from the Dominican Republic cross the Mona Passage each year to Puerto Rico to find better work"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released"
+      },
+      "note": {
+        "text": "revised estimate includes only individuals born to parents who were both born abroad; it does not include individuals born in the country to one Dominican-born and one foreign-born parent or subsequent generations of individuals of foreign descent; the estimate, as such, does not include all stateless persons (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for South American drugs destined for the US and Europe; has become a transshipment point for ecstasy from the Netherlands and Belgium destined for US and Canada; substantial money laundering activity in particular by Colombian narcotics traffickers; significant amphetamine consumption"
+    }
+  }
+}

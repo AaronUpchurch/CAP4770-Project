@@ -1,0 +1,726 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Bolivia, named after independence fighter Simon BOLIVAR, broke away from Spanish rule in 1825; much of its subsequent history has consisted of a series of nearly 200 coups and countercoups. Democratic civilian rule was established in 1982, but leaders have faced difficult problems of deep-seated poverty, social unrest, and illegal drug production. In December 2005, Bolivians elected Movement Toward Socialism leader Evo MORALES president - by the widest margin of any leader since the restoration of civilian rule in 1982 - after he ran on a promise to change the country's traditional political class and empower the nation's poor, indigenous majority. However, since taking office, his controversial strategies have exacerbated racial and economic tensions between the Amerindian populations of the Andean west and the non-indigenous communities of the eastern lowlands."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central South America, southwest of Brazil"
+    },
+    "Geographic coordinates": {
+      "text": "17 00 S, 65 00 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "1,098,581 sq km"
+      },
+      "land": {
+        "text": "1,083,301 sq km"
+      },
+      "water": {
+        "text": "15,280 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than three times the size of Montana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "6,940 km"
+      },
+      "border countries": {
+        "text": "Argentina 832 km, Brazil 3,423 km, Chile 860 km, Paraguay 750 km, Peru 1,075 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "varies with altitude; humid and tropical to cold and semiarid"
+    },
+    "Terrain": {
+      "text": "rugged Andes Mountains with a highland plateau (Altiplano), hills, lowland plains of the Amazon Basin"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Rio Paraguay 90 m"
+      },
+      "highest point": {
+        "text": "Nevado Sajama 6,542 m"
+      }
+    },
+    "Natural resources": {
+      "text": "tin, natural gas, petroleum, zinc, tungsten, antimony, silver, iron, lead, gold, timber, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.78%"
+      },
+      "permanent crops": {
+        "text": "0.19%"
+      },
+      "other": {
+        "text": "97.03% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,320 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "622.5 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.44  cu km/yr (13%/7%/81%)"
+      },
+      "per capita": {
+        "text": "157  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flooding in the northeast (March-April)"
+    },
+    "Environment - current issues": {
+      "text": "the clearing of land for agricultural purposes and the international demand for tropical timber are contributing to deforestation; soil erosion from overgrazing and poor cultivation methods (including slash-and-burn agriculture); desertification; loss of biodiversity; industrial pollution of water supplies used for drinking and irrigation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "9,775,246 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "35.5% (male 1,767,310/female 1,701,744)"
+      },
+      "15-64 years": {
+        "text": "60% (male 2,877,605/female 2,992,043)"
+      },
+      "65 years and over": {
+        "text": "4.5% (male 193,196/female 243,348) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "21.9 years"
+      },
+      "male": {
+        "text": "21.3 years"
+      },
+      "female": {
+        "text": "22.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.772% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "25.82 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.05 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.05 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "66% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.79 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "44.66 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "48.56 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "40.57 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "66.89 years"
+      },
+      "male": {
+        "text": "64.2 years"
+      },
+      "female": {
+        "text": "69.72 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.17 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "8,100 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever, malaria, and yellow fever"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Bolivian(s)"
+      },
+      "adjective": {
+        "text": "Bolivian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Quechua 30%, mestizo (mixed white and Amerindian ancestry) 30%, Aymara 25%, white 15%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 95%, Protestant (Evangelical Methodist) 5%"
+    },
+    "Languages": {
+      "text": "Spanish 60.7% (official), Quechua 21.2% (official), Aymara 14.6% (official), foreign languages 2.4%, other 1.2% (2001 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "86.7%"
+      },
+      "male": {
+        "text": "93.1%"
+      },
+      "female": {
+        "text": "80.7% (2001 census)"
+      }
+    },
+    "Education expenditures": {
+      "text": "6.4% of GDP (2003)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Plurinational State of Bolivia "
+      },
+      "conventional short form": {
+        "text": "Bolivia"
+      },
+      "local long form": {
+        "text": "Estado Plurinacional de Bolivia"
+      },
+      "local short form": {
+        "text": "Bolivia"
+      }
+    },
+    "Government type": {
+      "text": "republic; note - the new constitution defines Bolivia as a \"Social Unitarian State\""
+    },
+    "Capital": {
+      "name": {
+        "text": "La Paz (administrative capital)"
+      },
+      "geographic coordinates": {
+        "text": "16 30 S, 68 09 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      },
+      "note": "Sucre (constitutional capital)"
+    },
+    "note": "similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag",
+    "Administrative divisions": {
+      "text": "9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija"
+    },
+    "Independence": {
+      "text": "6 August 1825 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 August (1825)"
+    },
+    "Constitution": {
+      "text": "2 February 1967; revised in August 1994; voters approved a new constitution on 25 January 2009"
+    },
+    "Legal system": {
+      "text": "based on Spanish law and Napoleonic Code; has not accepted compulsory ICJ jurisdiction; the 2009 Constitution incorporates indigenous community justice into Bolivia's judicial system"
+    },
+    "Suffrage": {
+      "text": "18 years of age, universal and compulsory (married); 21 years of age, universal and compulsory (single)"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Juan Evo MORALES Ayma (since 22 January 2006); Vice President Alvaro GARCIA Linera (since 22 January 2006); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Juan Evo MORALES Ayma (since 22 January 2006); Vice President Alvaro GARCIA Linera (since 22 January 2006)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "president and vice president elected on the same ticket by popular vote for a single five-year term; election last held 18 December 2005 (next to be held in December 2009)"
+      },
+      "election results": {
+        "text": "Juan Evo MORALES Ayma elected president; percent of vote - Juan Evo MORALES Ayma 53.7%; Jorge Fernando QUIROGA Ramirez 28.6%; Samuel DORIA MEDINA Arana 7.8%; Michiaki NAGATANI Morishit 6.5%; Felipe QUISPE Huanca 2.2%; Guildo ANGULA Cabrera 0.7%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral National Congress or Congreso Nacional consists of Chamber of Senators or Camara de Senadores (27 seats; members are elected by proportional representation from party lists to serve five-year terms) and Chamber of Deputies or Camara de Diputados (130 seats; 70 members are directly elected from their districts and 60 are elected by proportional representation from party lists to serve five-year terms); note - under representational rules established by the 2009 Constitution, the National Congress will become the Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional; the number of Deputies will remain at 130, but the number of Senators will rise to 36",
+      "elections": {
+        "text": "Chamber of Senators and Chamber of Deputies - last held 18 December 2005 (next to be held in December 2009)"
+      },
+      "election results": {
+        "text": "Chamber of Senators - percent of vote by party - NA; seats by party - PODEMOS 13, MAS 12, UN 1, MNR 1; Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 73, PODEMOS 43, UN 8, MNR 6"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Corte Suprema (judges appointed for 10-year terms by National Congress); District Courts (one in each department); provincial and local courts (to try minor cases); Constitutional Tribunal (five primary or titulares and five alternate or suplente magistrates appointed by Congress; to rule on constitutional issues); National Electoral Court (six members elected by Congress, Supreme Court, the president, and the political party with the highest vote in the last election for four-year terms); note - under the 2009 Constitution, all Constitutional and Supreme Court judges will be elected by popular vote"
+    },
+    "Political parties and leaders": {
+      "text": "Free Bolivia Movement or MBL [Franz BARRIOS]; Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]; Movement Without Fear or MSM [Juan DEL GRANADO]; National Revolutionary Movement or MNR [Mirta QUEVEDO]; National Unity [Samuel DORIA MEDINA Arana]; Poder Democratico Nacional or PODEMOS [Jorge Fernando QUIROGA Ramirez]; Social Alliance [Rene JOAQUINO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Sole Confederation of Campesino Workers of Bolivia or CSUTCB",
+      "other": {
+        "text": "Cocalero groups; indigenous organizations; labor unions"
+      }
+    },
+    "International organization participation": {
+      "text": "CAN, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINURCAT, MINUSTAH, MONUC, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Erika Angela DUENAS Loayza"
+      },
+      "chancery": {
+        "text": "3014 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 483-4410"
+      },
+      "FAX": {
+        "text": "[1] (202) 328-3712"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, Miami, New York, San Francisco"
+      },
+      "note": "as of September 2008, the US has expelled the Bolivian ambassador to the US"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Krishna URS"
+      },
+      "embassy": {
+        "text": "Avenida Arce 2780, Casilla 425, La Paz"
+      },
+      "mailing address": {
+        "text": "P. O. Box 425, La Paz; APO AA 34032"
+      },
+      "telephone": {
+        "text": "[591] (2) 216-8000"
+      },
+      "FAX": {
+        "text": "[591] (2) 216-8111"
+      },
+      "note": "as of September 2008, the Bolivian Government has expelled the US Ambassador to Bolivia"
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), yellow, and green with the coat of arms centered on the yellow band",
+      "note": "similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Bolivia is one of the poorest and least developed countries in Latin America. Following a disastrous economic crisis during the early 1980s, reforms spurred private investment, stimulated economic growth, and cut poverty rates in the 1990s. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large northern hemisphere markets. In 2005, the government passed a controversial hydrocarbons law that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company. In early 2008, higher earnings for mining and hydrocarbons exports pushed the current account surplus to 9.4% of GDP and the government's higher tax take produced a fiscal surplus after years of large deficits. Private investment as a share of GDP, however, remains among the lowest in Latin America, and inflation remained at double-digit levels in 2008. The decline in commodity prices in late 2008, the lack of foreign investment in the mining and hydrocarbon sectors, and the suspension of trade benefits with the United States will pose challenges for the Bolivian economy in 2009."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$39.08 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are for urban areas; widespread underemployment",
+    "GDP (official exchange rate)": {
+      "text": "$16.6 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "11.3%"
+      },
+      "industry": {
+        "text": "36.9%"
+      },
+      "services": {
+        "text": "51.8% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.454 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "40%"
+      },
+      "industry": {
+        "text": "17%"
+      },
+      "services": {
+        "text": "43% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.5% (2007 est.)",
+      "note": "data are for urban areas; widespread underemployment"
+    },
+    "Population below poverty line": {
+      "text": "60% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "0.5%"
+      },
+      "highest 10%": {
+        "text": "44.1% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "44.7 (1999)"
+    },
+    "Investment (gross fixed)": {
+      "text": "18% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.039 billion"
+      },
+      "expenditures": {
+        "text": "$7.5 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "46.3% of GDP (2007 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.86% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$3.032 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$4.729 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$4.759 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.223 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "soybeans, coffee, coca, cotton, corn, sugarcane, rice, potatoes; timber"
+    },
+    "Industries": {
+      "text": "mining, smelting, petroleum, food and beverages, tobacco, handicrafts, clothing"
+    },
+    "Industrial production growth rate": {
+      "text": "10.6% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "5.495 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.665 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "51,360 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "60,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "10,950 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "6,172 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "465 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "14.2 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "2.41 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "11.79 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "750.4 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$1.984 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$4.49 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "natural gas, soybeans and soy products, crude petroleum, zinc ore, tin"
+    },
+    "Exports - partners": {
+      "text": "Brazil 60.1%, US 8.3%, Japan 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$3.24 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, plastics, paper, aircraft and aircraft parts, prepared foods, automobiles, insecticides, soybeans"
+    },
+    "Imports - partners": {
+      "text": "Brazil 26.7%, Argentina 16.3%, US 10.5%, Chile 9.5%, Peru 7.1%, China 4.8% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$5.318 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.385 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$5.998 billion (31 December 2008)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "bolivianos (BOB) per US dollar - 7.253 (2008 est.), 7.8616 (2007), 8.0159 (2006), 8.0661 (2005), 7.9363 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "690,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "4.83 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "privatization begun in 1995; reliability has steadily improved; new subscribers face bureaucratic difficulties; most telephones are concentrated in La Paz and other cities; mobile-cellular telephone use expanding rapidly; fixed-line teledensity of 7 per 100 persons; mobile-cellular telephone density slighly exceeds 50 per 100 persons"
+      },
+      "domestic": {
+        "text": "primary trunk system, which is being expanded, employs digital microwave radio relay; some areas are served by fiber-optic cable; mobile cellular systems are being expanded"
+      },
+      "international": {
+        "text": "country code - 591; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 171, FM 73, shortwave 77 (1999)"
+    },
+    "Television broadcast stations": {
+      "text": "48 (1997)"
+    },
+    "Internet country code": {
+      "text": ".bo"
+    },
+    "Internet hosts": {
+      "text": "105,031 (2009)"
+    },
+    "Internet users": {
+      "text": "1 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "952 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "5 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "936"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "58"
+      },
+      "914 to 1,523 m": {
+        "text": "186"
+      },
+      "under 914 m": {
+        "text": "687 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 4,883 km; liquid petroleum gas 47 km; oil 2,475 km; refined products 1,589 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,504 km"
+      },
+      "narrow gauge": {
+        "text": "3,504 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "62,479 km"
+      },
+      "paved": {
+        "text": "3,749 km"
+      },
+      "unpaved": {
+        "text": "58,730 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "10,000 km (commercially navigable) (2007)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "23"
+      },
+      "by type": {
+        "text": "bulk carrier 1, cargo 11, carrier 1, passenger/cargo 1, petroleum tanker 7, refrigerated cargo 1, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "7 (Bahamas 1, China 1, Iran 1, Singapore 1, Syria 2, Taiwan 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Puerto Aguirre (inland port on the Paraguay/Parana waterway at the Bolivia/Brazil border); Bolivia has free port privileges in maritime ports in Argentina, Brazil, Chile, and Paraguay"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Bolivian Armed Forces": {
+        "text": "Bolivian Army (Ejercito Boliviano, EB), Bolivian Navy (Fuerza Naval Boliviana, FNB; includes marines), Bolivian Air Force (Fuerza Aerea Boliviana, FAB) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-49 years of age for 12-month compulsory military service; when annual number of volunteers falls short of goal, compulsory recruitment is effected, including conscription of boys as young as 14; 15-19 years of age for voluntary premilitary service, provides exemption from further military service (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,295,746"
+      },
+      "females age 16-49": {
+        "text": "2,366,828 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,666,697"
+      },
+      "females age 16-49": {
+        "text": "1,906,396 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "108,304"
+      },
+      "female": {
+        "text": "104,882 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.9% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile offers instead unrestricted but not sovereign maritime access through Chile for Bolivian natural gas and other commodities; an accord placed the long-disputed Isla Suarez/Ilha de Guajara-Mirim, a fluvial island on the Rio Mamore, under Bolivian administration in 1958, but sovereignty remains in dispute"
+    },
+    "Illicit drugs": {
+      "text": "world's third-largest cultivator of coca (after Colombia and Peru) with an estimated 29,500 hectares under cultivation in 2007, increased slightly when compared to 2006; third largest producer of cocaine, estimated at 120 metric tons potential pure cocaine in 2007; transit country for Peruvian and Colombian cocaine destined for Brazil, Argentina, Chile, Paraguay, and Europe; cultivation generally increasing since 2000, despite eradication and alternative crop programs; weak border controls; some money-laundering activity related to narcotics trade; major cocaine consumption\r\n (2008)"
+    }
+  }
+}

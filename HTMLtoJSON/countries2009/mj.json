@@ -1,0 +1,603 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The use of the name Montenegro began in the 15th century when the Crnojevic dynasty began to rule the Serbian principality of Zeta; over subsequent centuries Montenegro was able to maintain its independence from the Ottoman Empire. From the 16th to 19th centuries, Montenegro became a theocracy ruled by a series of bishop princes; in 1852, it was transformed into a secular principality. After World War I, Montenegro was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929; at the conclusion of World War II, it became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro federated with Serbia, first as the Federal Republic of Yugoslavia and, after 2003, in a looser union of Serbia and Montenegro. In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the state union. The vote for severing ties with Serbia exceeded 55% - the threshold set by the EU - allowing Montenegro to formally declare its independence on 3 June 2006."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Europe, between the Adriatic Sea and Serbia"
+    },
+    "Geographic coordinates": {
+      "text": "42 30 N, 19 18 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "13,812 sq km"
+      },
+      "land": {
+        "text": "13,452 sq km"
+      },
+      "water": {
+        "text": "360 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Connecticut"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "625 km"
+      },
+      "border countries": {
+        "text": "Albania 172 km, Bosnia and Herzegovina 225 km, Croatia 25 km, Kosovo 79 km, Serbia 124 km"
+      }
+    },
+    "Coastline": {
+      "text": "293.5 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "defined by treaty"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland"
+    },
+    "Terrain": {
+      "text": "highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Adriatic Sea 0 m"
+      },
+      "highest point": {
+        "text": "Bobotov Kuk 2,522 m"
+      }
+    },
+    "Natural resources": {
+      "text": "bauxite, hydroelectricity"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "13.7%"
+      },
+      "permanent crops": {
+        "text": "1%"
+      },
+      "other": {
+        "text": "85.3%"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "pollution of coastal waters from sewage outlets, especially in tourist-related areas such as Kotor"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location along the Adriatic coast"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "672,180 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "16% (male 52,645/female 54,846)"
+      },
+      "15-64 years": {
+        "text": "70.3% (male 244,949/female 227,794)"
+      },
+      "65 years and over": {
+        "text": "13.7% (male 37,217/female 54,729) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "36.7 years"
+      },
+      "male": {
+        "text": "35.2 years"
+      },
+      "female": {
+        "text": "38.4 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.851% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "11.14 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.63 deaths/1,000 population (July 2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "60% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "-0.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.08 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.08 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.68 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne disease": {
+        "text": "Crimean Congo hemorrhagic fever (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Montenegrin(s)"
+      },
+      "adjective": {
+        "text": "Montenegrin"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Montenegrin 43%, Serbian 32%, Bosniak 8%, Albanian 5%, other (Muslims, Croats, Roma (Gypsy)) 12% (2003 census)"
+    },
+    "Religions": {
+      "text": "Orthodox 74.2%, Muslim 17.7%, Catholic 3.5%, other 0.6%, unspecified 3%, atheist 1% (2003 census)"
+    },
+    "Languages": {
+      "text": "Serbian 63.6%, Montenegrin (official) 22%, Bosnian 5.5%, Albanian 5.3%, unspecified 3.7% (2003 census)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Montenegro"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Crna Gora"
+      },
+      "former": {
+        "text": "People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Podgorica"
+      },
+      "geographic coordinates": {
+        "text": "42 26 N, 19 16 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1 hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "21 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Ulcinj, Zabljak"
+    },
+    "Independence": {
+      "text": "3 June 2006 (from Serbia and Montenegro)"
+    },
+    "National holiday": {
+      "text": "National Day, 13 July (1878)"
+    },
+    "Constitution": {
+      "text": "approved 19 October 2007 (by the Assembly)"
+    },
+    "Legal system": {
+      "text": "based on civil law system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Filip VUJANOVIC (since 6 April 2008)"
+      },
+      "head of government": {
+        "text": "Prime Minister Milo DJUKANOVIC (since 29 February 2008)"
+      },
+      "cabinet": {
+        "text": "Ministries act as cabinet"
+      },
+      "elections": {
+        "text": "president elected by direct vote for five-year term (eligible for a second term); election last held 6 April 2008 (next to be held in 2013); prime minister proposed by president, accepted by Assembly"
+      },
+      "election results": {
+        "text": "Filip VUJANOVIC reelected president; Filip VUJANOVIC 51.89%, Andrija MANDIC 19.55%, Nebojsa MEDOJEVIC 16.64%, Srdan MILIC 11.92%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Assembly (81 seats; members elected by direct vote for four-year terms; changed from 74 seats in 2006)",
+      "elections": {
+        "text": "last held 29 March 2009 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Coalition for European Montenegro 51.94%, SNP 16.83%, NSD 9.22%, PZP 6.03%, other (including Albanian minority parties) 15.98%; seats by party - Coalition for European Montenegro 48, SNP 16, NSD 8, PZP 5, Albanian minority parties 4"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court (five judges with nine-year terms); Supreme Court (judges have life tenure)"
+    },
+    "Political parties and leaders": {
+      "text": "Albanian Alternative or AA [Vesel SINISHTAJ]; Coalition for European Montenegro or DPS-SDP (bloc) [Milo DJUKANOVIC] (includes Democratic Party of Socialists or DPS [Milo DJUKANOVIC] and Social Democratic Party or SDP [Ranko KRIVOKAPIC]); Coalition SNP-NS-DSS (bloc) (includes Socialist People's Party or SNP [Srdjan MILIC], People's Party of Montenegro or NS [Predrag POPOVIC], and Democratic Serbian Party of Montenegro or DSS [Ranko KADIC]); Democratic League-Party of Democratic Prosperity or SPP [Mehmet BARDHIJ]; Democratic Union of Albanians or DUA [Ferhat DINOSA]; Liberals and the Bosniak Party (bloc) [Miodrag ZIVKOVIC] (includes Liberal Party of Montenegro or LP [Miodrag ZIVKOVIC] and Bosniak Party or BS [Rafet HUSOVIC]); Movement for Changes or PZP [Nebojsa MEDOJEVIC]; New Serb Democracy or NSD [Andrija MANDIC]; Serbian List (bloc) [Andrija MANDIC] (includes Party of Serb Radicals or SSR [Dusko SEKULIC], People's Socialist Party or NSS [Emilo LABUDOVIC], and Serbian People's Party of Montenegro or SNS [Andrija MANDIC]); Socialist People's Party of Montenegro or SNP [Srdjan MILIC]"
+    },
+    "International organization participation": {
+      "text": "CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC, MIGA, OPCW, OSCE, PCA, PFP, SECI, UN, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Miodrag VLAHOVIC"
+      },
+      "chancery": {
+        "text": "1610 New Hampshire Avenue NW, Washington, DC, 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-6108"
+      },
+      "FAX": {
+        "text": "[1] (202) 234-6109"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Roderick W. MOORE"
+      },
+      "embassy": {
+        "text": "Ljubljanska bb, 81000 Podgorica, Montenegro"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[382] 81 225 417"
+      },
+      "FAX": {
+        "text": "[382] 81 241 358"
+      }
+    },
+    "Flag description": {
+      "text": "a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Montenegro severed its economy from federal control and from Serbia during the MILOSEVIC era and maintained its own central bank, adopted the Deutchmark, then the euro - rather than the Yugoslav dinar - as official currency, collected customs tariffs, and managed its own budget. The dissolution of the loose political union between Serbia and Montenegro in 2006 led to separate membership in several international financial institutions, such as the European Bank for Reconstruction and Development. On 18 January 2007, Montenegro joined the World Bank and IMF. Montenegro is pursuing its own membership in the World Trade Organization and signed a Stabilization and Association agreement with the European Union in October 2007. On December 15, 2008, Montenegro submitted an EU membership application. Unemployment and regional disparities in development are key political and economic problems. Montenegro has privatized its large aluminum complex - the dominant industry - as well as most of its financial sector, and has begun to attract foreign direct investment in the tourism sector. The global financial crisis is likely to have a significant negative impact on the economy."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$5.804 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$4.848 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,400 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "259,100 (2004)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2%"
+      },
+      "industry": {
+        "text": "30%"
+      },
+      "services": {
+        "text": "68% (2004 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "14.7% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "7% (2007 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "30 (2003)"
+    },
+    "Investment (gross fixed)": {
+      "text": "30.5% of GDP (2006 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "NA"
+      },
+      "expenditures": {
+        "text": "NA"
+      }
+    },
+    "Public debt": {
+      "text": ""
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.4% (2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.09% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.172 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$1.446 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.083 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.754 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "grains, tobacco, potatoes, citrus fruits, olives, grapes; sheepherding; commercial fishing negligible"
+    },
+    "Industries": {
+      "text": "steelmaking, aluminum, agricultural processing, consumer goods, tourism"
+    },
+    "Electricity - production": {
+      "text": "2.864 billion kWh (2005 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "18.6 million kWh (2005)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2005)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2005)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "bbl/day NA"
+    },
+    "Oil - exports": {
+      "text": "313.6 bbl/day (2005)"
+    },
+    "Oil - imports": {
+      "text": "6,093 bbl/day (2005)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "NA cu m"
+    },
+    "Current account balance": {
+      "text": "-$1.102 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$171.3 million (2003)"
+    },
+    "Imports": {
+      "text": "$601.7 million (2003)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$NA"
+    },
+    "Debt - external": {
+      "text": "$650 million (2006)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6827 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "362,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "735,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern telecommunications system with access to European satellites"
+      },
+      "domestic": {
+        "text": "GSM wireless service, available through 3 providers with national coverage, is growing"
+      },
+      "international": {
+        "text": "country code - 382; 2 international switches connect the national system"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "31 (station frequency types NA) (2004)"
+    },
+    "Television broadcast stations": {
+      "text": "13 (2004)"
+    },
+    "Internet country code": {
+      "text": ".me"
+    },
+    "Internet hosts": {
+      "text": "3,245 (2009)"
+    },
+    "Internet users": {
+      "text": "294,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "5 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2007)"
+    },
+    "Railways": {
+      "total": {
+        "text": "250 km"
+      },
+      "standard gauge": {
+        "text": "250 km 1.435-m gauge (electrified 169 km) (2007)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "7,368 km"
+      },
+      "paved": {
+        "text": "4,742 km"
+      },
+      "unpaved": {
+        "text": "2,626 km (2006)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "6"
+      },
+      "by type": {
+        "text": "cargo 5, passenger/cargo 1"
+      },
+      "registered in other countries": {
+        "text": "3 (Bahamas 2, Saint Vincent and the Grenadines 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bar"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Armed Forces of the Republic of Montenegro": {
+        "text": "Army, Navy, Air Force (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "compulsory national military service abolished August 2006"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "154,029"
+      },
+      "females age 16-49": {
+        "text": "136,847 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "3,945"
+      },
+      "female": {
+        "text": "3,907 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "Montenegrin plans call for the establishment of a fully professional armed forces"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "7,000 (Kosovo); note - mostly ethnic Serbs and Roma who fled Kosovo in 1999"
+      },
+      "IDPs": {
+        "text": "16,192 (ethnic conflict in 1999 and riots in 2004) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Montenegro is primarily a transit country for the trafficking of women and girls to Western Europe for the purpose of commercial sexual exploitation; women and girls from the Balkans and Eastern Europe are trafficked across Montenegro to Western European countries"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Montenegro is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat trafficking in persons in 2007; public attention to the issue of trafficking has diminished considerably in Montenegro in recent years (2008)"
+      }
+    }
+  }
+}

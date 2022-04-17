@@ -1,0 +1,735 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty - New Granada (Colombia), Venezuela, and Quito - gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew in 1830, the traditional name was changed in favor of the \"Republic of the Equator.\" Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador marked 25 years of civilian governance in 2004, the period has been marred by political instability. Protests in Quito have contributed to the mid-term ouster of Ecuador's last three democratically elected Presidents. In September 2008, voters approved a new constitution; Ecuador's twentieth since gaining independence. General elections, under the new constitutional framework, are expected in April 2009."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western South America, bordering the Pacific Ocean at the Equator, between Colombia and Peru"
+    },
+    "Geographic coordinates": {
+      "text": "2 00 S, 77 30 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "283,561 sq km"
+      },
+      "land": {
+        "text": "276,841 sq km"
+      },
+      "water": {
+        "text": "6,720 sq km"
+      },
+      "note": "includes Galapagos Islands"
+    },
+    "note": "due to the fact that the earth is not a perfect sphere and has an equatorial bulge, the highest point on the planet furthest from its center is Mount Chimborazo not Mount Everest, which is merely the highest point above sea-level",
+    "Area - comparative": {
+      "text": "slightly smaller than Nevada"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,010 km"
+      },
+      "border countries": {
+        "text": "Colombia 590 km, Peru 1,420 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,237 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "100 nm from 2,500-m isobath"
+      }
+    },
+    "Climate": {
+      "text": "tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands"
+    },
+    "Terrain": {
+      "text": "coastal plain (costa), inter-Andean central highlands (sierra), and flat to rolling eastern jungle (oriente)"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Chimborazo 6,267 m"
+      },
+      "note": "due to the fact that the earth is not a perfect sphere and has an equatorial bulge, the highest point on the planet furthest from its center is Mount Chimborazo not Mount Everest, which is merely the highest point above sea-level"
+    },
+    "Natural resources": {
+      "text": "petroleum, fish, timber, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "5.71%"
+      },
+      "permanent crops": {
+        "text": "4.81%"
+      },
+      "other": {
+        "text": "89.48% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "8,650 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "432 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "16.98  cu km/yr (12%/5%/82%)"
+      },
+      "per capita": {
+        "text": "1,283  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "frequent earthquakes; landslides; volcanic activity; floods; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in ecologically sensitive areas of the Amazon Basin and Galapagos Islands"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "Cotopaxi in Andes is highest active volcano in world"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "14,573,101 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "31.1% (male 2,312,610/female 2,220,378)"
+      },
+      "15-64 years": {
+        "text": "62.7% (male 4,506,908/female 4,636,703)"
+      },
+      "65 years and over": {
+        "text": "6.2% (male 432,144/female 464,358) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "25 years"
+      },
+      "male": {
+        "text": "24.4 years"
+      },
+      "female": {
+        "text": "25.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.497% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "20.77 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.99 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.81 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "66% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.93 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "20.9 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "24.4 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "17.24 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.3 years"
+      },
+      "male": {
+        "text": "72.37 years"
+      },
+      "female": {
+        "text": "78.37 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.51 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.3% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "26,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "1,400 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Ecuadorian(s)"
+      },
+      "adjective": {
+        "text": "Ecuadorian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mestizo (mixed Amerindian and white) 65%, Amerindian 25%, Spanish and others 7%, black 3%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 95%, other 5%"
+    },
+    "Languages": {
+      "text": "Spanish (official), Amerindian languages (especially Quechua)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "91%"
+      },
+      "male": {
+        "text": "92.3%"
+      },
+      "female": {
+        "text": "89.7% (2001 census)"
+      }
+    },
+    "Education expenditures": {
+      "text": "1% of GDP (2001)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Ecuador "
+      },
+      "conventional short form": {
+        "text": "Ecuador"
+      },
+      "local long form": {
+        "text": "Republica del Ecuador"
+      },
+      "local short form": {
+        "text": "Ecuador"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Quito"
+      },
+      "geographic coordinates": {
+        "text": "0 13 S, 78 30 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe"
+    },
+    "Independence": {
+      "text": "24 May 1822 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day (independence of Quito), 10 August (1809)"
+    },
+    "Constitution": {
+      "text": "20 October 2008"
+    },
+    "Legal system": {
+      "text": "based on civil law system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal, compulsory for literate persons ages 18-65, optional for other eligible voters"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "the president and vice president are elected on the same ticket by popular vote for a four-year term and can be re-elected for another consecutive term; election last held 26 April 2009 (next to be held 2013)"
+      },
+      "election results": {
+        "text": "President Rafael CORREA Delgado reelected president; percent of vote - Rafael CORREA Delgado 51.7%; Lucio GUTIERREZ 28%; Alvaro NOBOA 11.6%; other 8.7%; note - official results pending"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Congress or Congreso Nacional (100 seats; members are elected through a party-list proportional representation system to serve four-year terms)",
+      "elections": {
+        "text": "last held 15 October 2006 (next to be held 26 April 2009)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - PRIAN 28; PSP 24; PSC 13; ID 7; PRE 6; MUPP-NP 6; RED 5; UDC 5; other 6; note - defections by members of National Congress are commonplace, resulting in frequent changes in the numbers of seats held by the various parties"
+      },
+      "note": "when a Constituent Assembly was convened to draft a new constitution, the National Congress was placed on indefinite recess and replaced by a legislative committee; the legislative committee will continue to function until a new National Assembly is elected in April 2009"
+    },
+    "note": "when a Constituent Assembly was convened to draft a new constitution, the National Congress was placed on indefinite recess and replaced by a legislative committee; the legislative committee will continue to function until a new National Assembly is elected in April 2009",
+    "Judicial branch": {
+      "text": "Supreme Court or Corte Suprema (according to the Constitution, new justices are elected by the full Supreme Court; in December 2004, however, Congress successfully replaced the entire court by a simple majority resolution)"
+    },
+    "Political parties and leaders": {
+      "text": "Alianza PAIS Movement [Rafael Vicente CORREA Delgado]; Christian Democratic Union or UDC [Diego ORDONEZ Guerrero]; Democratic Left or ID [Andres PAEZ Benalcazar]; Ethical and Democratic Network or RED [Leon ROLDOS]; Institutional Renewal and National Action Party or PRIAN [Alvaro NOBOA]; Pachakutik Plurinational Unity Movement - New Country or MUPP-NP [Jorge GUAMAN]; Patriotic Society Party or PSP [Lucio GUTIERREZ Borbua]; Popular Democratic Movement or MPD [Ciro GUZMAN Aldaz]; Roldosist Party or PRE [Abdala BUCARAM Ortiz, director]; Social Christian Party or PSC [Pascual DEL CIOPPO]; Socialist Party - Broad Front or PS-FA [Gustavo AYALA Cruz]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Confederation of Indigenous Nationalities of Ecuador or CONAIE [Marlon SANTI, president]; Coordinator of Social Movements or CMS [F. Napoleon SANTOS]; Federation of Indigenous Evangelists of Ecuador or FEINE [Marco MURILLO, president]; National Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN [Pedro DE LA CRUZ, president]"
+    },
+    "International organization participation": {
+      "text": "CAN, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, MINURCAT, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Luis Benigno GALLEGOS Chiriboga"
+      },
+      "chancery": {
+        "text": "2535 15th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-7200"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-3482"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Houston, Los Angeles, Miami, New Orleans, New York, Newark (New Jersey), San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Heather HODGES"
+      },
+      "embassy": {
+        "text": "Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito"
+      },
+      "mailing address": {
+        "text": "Avenida Guayacanes N52-205 y Avenida Avigiras"
+      },
+      "telephone": {
+        "text": "[593] (2) 398-5000"
+      },
+      "FAX": {
+        "text": "[593] (2) 398-5100"
+      },
+      "consulate(s) general": {
+        "text": "Guayaquil"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; similar to the flag of Colombia, which is shorter and does not bear a coat of arms"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Ecuador is substantially dependent on its petroleum resources, which have accounted for more than half of the country's export earnings and one-fourth of public sector revenues in recent years. In 1999/2000, Ecuador suffered a severe economic crisis, with GDP contracting by more than 6%. Poverty increased significantly, the banking system collapsed, and Ecuador defaulted on its external debt later that year. In March 2000, Congress approved a series of structural reforms that also provided for the adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in the years that followed, helped by high oil prices, remittances, and increased non-traditional exports. From 2002-06 the economy grew 5.5%, the highest five-year average in 25 years. The poverty rate declined but remained high at 38% in 2006. In 2006 the government imposed a windfall revenue tax on foreign oil companies, leading to the suspension of free trade negotiations with the US. These measures led to a drop in petroleum production in 2007. President Rafael CORREA raised the specter of debt default and followed through on those threats in December 2008 by defaulting on some commercial bond obligations. He also decreed a higher windfall revenue tax on private oil companies, then renegotiated their contracts to overcome the debilitating effect of the tax. This generated economic uncertainty; private investment has dropped and economic growth has slowed."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$98.93 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are for urban households",
+    "GDP (official exchange rate)": {
+      "text": "$54.69 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "6.7%"
+      },
+      "industry": {
+        "text": "34.3%"
+      },
+      "services": {
+        "text": "59% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.64 million (urban) (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "8.3%"
+      },
+      "industry": {
+        "text": "21.2%"
+      },
+      "services": {
+        "text": "70.4% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.8% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "38.3% (2006)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.2%"
+      },
+      "highest 10%": {
+        "text": "43.3%"
+      },
+      "note": "data for urban households only (2007)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "43.7 (1995)",
+      "note": "data are for urban households"
+    },
+    "Investment (gross fixed)": {
+      "text": "22.1% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$21.09 billion"
+      },
+      "expenditures": {
+        "text": "planned $21.35 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": ""
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.3% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10.72% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.71% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$4.395 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$7.974 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$8.926 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$4.04 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, coffee, cocoa, rice, potatoes, manioc (tapioca), plantains, sugarcane; cattle, sheep, pigs, beef, pork, dairy products; balsa wood; fish, shrimp"
+    },
+    "Industries": {
+      "text": "petroleum, food processing, textiles, wood products, chemicals"
+    },
+    "Industrial production growth rate": {
+      "text": "5.5% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "16.75 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "9.888 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "38.53 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "861 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "505,100 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "178,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "417,000 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "54,190 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "4.66 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "260 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "260 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "8.919 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$1.65 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$14.87 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum, bananas, cut flowers, shrimp, cacao, coffee, hemp, wood, fish"
+    },
+    "Exports - partners": {
+      "text": "US 45.3%, Peru 9.2%, Chile 8.1%, Panama 4.8%, Colombia 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$13.05 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "industrial materials, fuels and lubricants, nondurable consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 19.1%, Venezuela 13.8%, Colombia 9.9%, China 8.4%, Brazil 4.8%, Japan 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.521 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$NA (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$16.31 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$10.77 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used; the sucre was eliminated in 2000"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.91 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "11.595 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "generally elementary but being expanded"
+      },
+      "domestic": {
+        "text": "fixed-line services provided by three state-owned enterprises; plans to transfer the state-owned operators to private ownership have repeatedly failed; fixed-line density stands at about 14 per 100 persons; mobile cellular use has surged and has a subscribership of nearly 85 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 593; landing point for the PAN-AM submarine telecommunications cable that provides links to the west coast of South America, Panama, Colombia, Venezuela, and extending onward to Aruba and the US Virgin Islands in the Caribbean; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 392, FM 35, shortwave 29 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "7 (plus 14 repeaters) (2000)"
+    },
+    "Internet country code": {
+      "text": ".ec"
+    },
+    "Internet hosts": {
+      "text": "57,785 (2009)"
+    },
+    "Internet users": {
+      "text": "1.31 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "420 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "103"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "18"
+      },
+      "914 to 1,523 m": {
+        "text": "25"
+      },
+      "under 914 m": {
+        "text": "54 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "317"
+      },
+      "914 to 1,523 m": {
+        "text": "38"
+      },
+      "under 914 m": {
+        "text": "279 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2009)"
+    },
+    "Pipelines": {
+      "text": "extra heavy crude 435 km; gas 5 km; oil 1,374 km; refined products 1,301 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "965 km"
+      },
+      "narrow gauge": {
+        "text": "965 km 1.067-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "43,670 km"
+      },
+      "paved": {
+        "text": "6,472 km"
+      },
+      "unpaved": {
+        "text": "37,198 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "1,500 km (most inaccessible) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "37"
+      },
+      "by type": {
+        "text": "cargo 1, chemical tanker 1, liquefied gas 1, passenger 8, petroleum tanker 24, refrigerated cargo 1, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "1 (US 1)"
+      },
+      "registered in other countries": {
+        "text": "5 (China 1, Panama 4) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Esmeraldas, Guayaquil, Manta, Puerto Bolivar"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy (includes Naval Infantry, Naval Aviation, Coast Guard), Air Force (Fuerza Aerea Ecuatoriana, FAE) (2007)"
+    },
+    "Military service age and obligation": {
+      "text": "20 years of age for selective conscript military service; 12-month service obligation (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "3,536,602"
+      },
+      "females age 16-49": {
+        "text": "3,559,188 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,708,470"
+      },
+      "females age 16-49": {
+        "text": "3,165,489 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "148,010"
+      },
+      "female": {
+        "text": "143,291 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.8% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border, which thousands of Colombians also cross to escape the violence in their home country"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "11,526 (Colombia); note - UNHCR estimates as many as 250,000 Columbians are seeking asylum in Ecuador, many of whom do not register as refugees for fear of deportation (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "significant transit country for cocaine originating in Colombia and Peru, with much of the US-bound cocaine passing through Ecuadorian Pacific waters; importer of precursor chemicals used in production of illicit narcotics; attractive location for cash-placement by drug traffickers laundering money because of dollarization and weak anti-money-laundering regime; increased activity on the northern frontier by trafficking groups and Colombian insurgents\r\n (2008)"
+    }
+  }
+}

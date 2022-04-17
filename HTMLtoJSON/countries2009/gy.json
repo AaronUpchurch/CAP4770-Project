@@ -1,0 +1,713 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to black settlement of urban areas and the importation of indentured servants from India to work the sugar plantations. This ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was reelected in 2001 and again in 2006."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela"
+    },
+    "Geographic coordinates": {
+      "text": "5 00 N, 59 00 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "214,969 sq km"
+      },
+      "land": {
+        "text": "196,849 sq km"
+      },
+      "water": {
+        "text": "18,120 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Idaho"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,949 km"
+      },
+      "border countries": {
+        "text": "Brazil 1,606 km, Suriname 600 km, Venezuela 743 km"
+      }
+    },
+    "Coastline": {
+      "text": "459 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the outer edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)"
+    },
+    "Terrain": {
+      "text": "mostly rolling highlands; low coastal plain; savanna in south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mount Roraima 2,835 m"
+      }
+    },
+    "Natural resources": {
+      "text": "bauxite, gold, diamonds, hardwood timber, shrimp, fish"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.23%"
+      },
+      "permanent crops": {
+        "text": "0.14%"
+      },
+      "other": {
+        "text": "97.63% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,500 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "241 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.64  cu km/yr (2%/1%/98%)"
+      },
+      "per capita": {
+        "text": "2,187  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flash floods are a constant threat during rainy seasons"
+    },
+    "Environment - current issues": {
+      "text": "water pollution from sewage and agricultural and industrial chemicals; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "772,298",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "25.7% (male 101,319/female 97,505)"
+      },
+      "15-64 years": {
+        "text": "68.7% (male 268,058/female 262,595)"
+      },
+      "65 years and over": {
+        "text": "5.5% (male 17,938/female 24,883) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "28.7 years"
+      },
+      "male": {
+        "text": "28.2 years"
+      },
+      "female": {
+        "text": "29.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.181% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.56 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.31 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-7.44 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "28% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.72 male(s)/female"
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "29.65 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "33.02 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "26.11 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "66.68 years"
+      },
+      "male": {
+        "text": "64.09 years"
+      },
+      "female": {
+        "text": "69.4 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.03 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "2.5% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "13,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 1,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Guyanese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Guyanese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "East Indian 43.5%, black (African) 30.2%, mixed 16.7%, Amerindian 9.1%, other 0.5% (2002 census)"
+    },
+    "Religions": {
+      "text": "Hindu 28.4%, Pentecostal 16.9%, Roman Catholic 8.1%, Anglican 6.9%, Seventh Day Adventist 5%, Methodist 1.7%, Jehovah Witness 1.1%, other Christian 17.7%, Muslim 7.2%, other 4.3%, none 4.3% (2002 census)"
+    },
+    "Languages": {
+      "text": "English, Amerindian dialects, Creole, Caribbean Hindustani (a dialect of Hindi), Urdu"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has ever attended school"
+      },
+      "total population": {
+        "text": "98.8%"
+      },
+      "male": {
+        "text": "99.1%"
+      },
+      "female": {
+        "text": "98.5% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "14 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "8.3% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Cooperative Republic of Guyana "
+      },
+      "conventional short form": {
+        "text": "Guyana"
+      },
+      "former": {
+        "text": "British Guiana"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Georgetown"
+      },
+      "geographic coordinates": {
+        "text": "6 48 N, 58 10 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo"
+    },
+    "Independence": {
+      "text": "26 May 1966 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 23 February (1970)"
+    },
+    "Constitution": {
+      "text": "6 October 1980"
+    },
+    "Legal system": {
+      "text": "based on English common law with certain admixtures of Roman-Dutch law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Bharrat JAGDEO (since 11 August 1999); note - assumed presidency after resignation of President Janet JAGAN and was reelected in 2001, and again in 2006"
+      },
+      "head of government": {
+        "text": "Prime Minister Samuel HINDS (since October 1992, except for a period as chief of state after the death of President Cheddi JAGAN on 6 March 1997)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers appointed by the president, responsible to the legislature"
+      },
+      "elections": {
+        "text": "president elected by popular vote as leader of a party list in parliamentary elections, which must be held at least every five years (no term limits); elections last held 28 August 2006 (next to be held by August 2011); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "President Bharrat JAGDEO reelected; percent of vote 54.6%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly (65 seats; members elected by popular vote, also not more than 4 non-elected non-voting ministers and 2 non-elected non-voting parliamentary secretaries appointed by the president; to serve five-year terms)",
+      "elections": {
+        "text": "last held 28 August 2006 (next to be held by August 2011)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PPP/C 54.6%, PNC/R 34%, AFC 8.1%, other 3.3%; seats by party - PPP/C 36, PNC/R 22, AFC 5, other 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Judicature, consisting of the High Court and the Court of Appeal, with right of final appeal to the Caribbean Court of Justice (CCJ)"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Change or AFC [Raphael TROTMAN and Khemraj RAMJATTAN]; Guyana Action Party or GAP [Paul HARDY]; Justice for All Party [C.N. SHARMA]; People's National Congress/Reform or PNC/R [Robert Herman Orlando CORBIN]; People's Progressive Party/Civic or PPP/C [Bharrat JAGDEO]; Rise, Organize, and Rebuild or ROAR [Ravi DEV]; The United Force or TUF [Manzoor NADIR]; The Unity Party [Joey JAGAN]; Vision Guyana [Peter RAMSAROOP]; Working People's Alliance or WPA [Rupert ROOPNARAINE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Amerindian People's Association; Guyana Bar Association; Guyana Citizens Initiative; Guyana Human Rights Association; Guyana Public Service Union or GPSU; Private Sector Commission; Trades Union Congress"
+    },
+    "International organization participation": {
+      "text": "ACP, C, Caricom, CDB, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (subscriber), ITU, ITUC, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Bayney KARRAN"
+      },
+      "chancery": {
+        "text": "2490 Tracy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-6900"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-1297"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador John Melvin JONES"
+      },
+      "embassy": {
+        "text": "US Embassy, 100 Young and Duke Streets, Kingston, Georgetown"
+      },
+      "mailing address": {
+        "text": "P. O. Box 10507, Georgetown; US Embassy, 3170 Georgetown Place, Washington DC 20521-3170"
+      },
+      "telephone": {
+        "text": "[592] 225-4900 through 4909"
+      },
+      "FAX": {
+        "text": "[592] 225-8497"
+      }
+    },
+    "Flag description": {
+      "text": "green, with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Economic recovery since the 2005 flood-related contraction has been buoyed by increases in remittances and foreign direct investment in the sugar and rice industries as well as the mining sector. The bauxite mining sector should benefit in the near term from restructuring and partial privatization, and the state-owned sugar industry will conduct efficiency increasing modernizations. Export earnings from agriculture and mining have remained flat as rising commodity prices have offset declining production, while the import bill has risen, driven by higher energy costs. Chronic problems include a shortage of skilled labor and a deficient infrastructure. The government is juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to nearly 48% of GDP, which along with other Highly Indebted Poor Country (HIPC) debt forgiveness brought the debt-to-GDP ratio down from 183% in 2006 to 120% in 2007. Guyana became heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Guyana's entrance into the Caricom Single Market and Economy (CSME) in January 2006 has broadened the country's export market, primarily in the raw materials sector."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.739 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$1.154 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.1% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,600 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "24.9%"
+      },
+      "industry": {
+        "text": "24.9%"
+      },
+      "services": {
+        "text": "50.2% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "333,900 (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "11% (2007)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.3%"
+      },
+      "highest 10%": {
+        "text": "33.8% (1999)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "43.2 (1999)"
+    },
+    "Investment (gross fixed)": {
+      "text": "35.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$488.7 million"
+      },
+      "expenditures": {
+        "text": "$552.6 million (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "12.3% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.61% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$315.2 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$728.8 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$739.3 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$187.4 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, rice, shrimp, fish, edible oils; beef, pork, poultry"
+    },
+    "Industries": {
+      "text": "bauxite, sugar, rice milling, timber, textiles, gold mining"
+    },
+    "Industrial production growth rate": {
+      "text": "2.4% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "821 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "667 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "11,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "10,550 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$165.7 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$674.9 million (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "sugar, gold, bauxite, alumina, rice, shrimp, molasses, rum, timber"
+    },
+    "Exports - partners": {
+      "text": "Canada 20.8%, US 15.2%, UK 12.3%, Netherlands 7.2%, Portugal 4.7%, Trinidad and Tobago 4.7%, Jamaica 4.5%, Ukraine 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$982.9 million (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "manufactures, machinery, petroleum, food"
+    },
+    "Imports - partners": {
+      "text": "US 23.4%, Trinidad and Tobago 22.3%, Finland 7.7%, Cuba 6.1%, China 5.7% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$313 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.2 billion (2002)"
+    },
+    "Exchange rates": {
+      "text": "Guyanese dollars (GYD) per US dollar - 203.86 (2008 est.), 201.89 (2007), 200.28 (2006), 200.79 (2005), 198.31 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "125,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "281,400 (2005)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fair system for long-distance service"
+      },
+      "domestic": {
+        "text": "microwave radio relay network for trunk lines; fixed-line teledensity is about 15 per 100 persons; many areas still lack fixed-line telephone services; mobile-cellular teledensity reached 37 per 100 persons in 2005"
+      },
+      "international": {
+        "text": "country code - 592; tropospheric scatter to Trinidad; satellite earth station - 1 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3, FM 3, shortwave 1 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (1 public station; 2 private stations which relay US satellite services) (1997)"
+    },
+    "Internet country code": {
+      "text": ".gy"
+    },
+    "Internet hosts": {
+      "text": "7,116 (2009)"
+    },
+    "Internet users": {
+      "text": "205,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "99 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "7 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "89"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "14"
+      },
+      "under 914 m": {
+        "text": "74 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "7,970 km"
+      },
+      "paved": {
+        "text": "590 km"
+      },
+      "unpaved": {
+        "text": "7,380 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "330 km",
+      "note": "Berbice, Demerara, and Essequibo rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively (2008)"
+    },
+    "note": "Berbice, Demerara, and Essequibo rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively (2008)",
+    "Merchant marine": {
+      "total": {
+        "text": "8"
+      },
+      "by type": {
+        "text": "cargo 6, petroleum tanker 1, refrigerated cargo 1"
+      },
+      "registered in other countries": {
+        "text": "3 (Saint Vincent and the Grenadines 2, unknown 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Georgetown"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Guyana Defense Force": {
+        "text": "Army (includes Coast Guard, Air Corps) (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for voluntary military service; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "220,797 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "150,307"
+      },
+      "females age 16-49": {
+        "text": "144,622 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "6,625"
+      },
+      "female": {
+        "text": "6,365 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.8% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UNCLOS that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari rivers in a historic dispute over the headwaters of the Courantyne; Guyana seeks arbitration under provisions of the UN Convention on the Law of the Sea (UNCLOS) to resolve the long-standing dispute with Suriname over the axis of the territorial sea boundary in potentially oil-rich waters"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Guyana is a source, transit, and destination country for men, women, and children trafficked for the purposes of commercial sexual exploitation and forced labor; most trafficking appears to take place in remote mining camps in the country's interior; some women and girls are trafficked from northern Brazil; reporting from other nations suggests Guyanese women and girls are trafficked for sexual exploitation to neighboring countries and Guyanese men and boys are subject to labor exploitation in construction and agriculture; trafficking victims from Suriname, Brazil, and Venezuela transit Guyana en route to Caribbean destinations"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - for a second consecutive year, Guyana is on the Tier 2 Watch List for failing to provide evidence of increasing efforts to combat trafficking, particularly in the area of law enforcement actions against trafficking offenders; the government has yet to produce an anti-trafficking conviction under the comprehensive Combating of Trafficking in Persons Act, which became law in 2005; the government operates no shelters for trafficking victims, but did include limited funding for anti-trafficking NGOs in its 2008 budget; the government did not make any effort to reduce demand for commercial sex acts during 2007 (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for narcotics from South America - primarily Venezuela - to Europe and the US; producer of cannabis; rising money laundering related to drug trafficking and human smuggling"
+    }
+  }
+}

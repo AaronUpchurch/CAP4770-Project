@@ -1,0 +1,703 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Mongols gained fame in the 13th century when under Chinggis KHAN they established a huge Eurasian empire through conquest. After his death the empire was divided into several powerful Mongol states, but these broke apart in the 14th century. The Mongols eventually retired to their original steppe homelands and in the late 17th century came under Chinese rule. Mongolia won its independence in 1921 with Soviet backing and a Communist regime was installed in 1924. The modern country of Mongolia, however, represents only part of the Mongols' historical homeland; more Mongols live in the Inner Mongolia Autonomous Region in the People's Republic of China than in Mongolia. Following a peaceful democratic revolution, the ex-Communist Mongolian People's Revolutionary Party (MPRP) won elections in 1990 and 1992, but was defeated by the Democratic Union Coalition (DUC) in the 1996 parliamentary election. The MPRP won an overwhelming majority in the 2000 parliamentary election, but the party lost seats in the 2004 election and shared power with democratic coalition parties from 2004-08. The MPRP regained a solid majority in the 2008 parliamentary elections but nevertheless formed a coalition government with the Democratic Party. The prime minister and most cabinet members are MPRP members."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Asia, between China and Russia"
+    },
+    "Geographic coordinates": {
+      "text": "46 00 N, 105 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "1,564,116 sq km"
+      },
+      "land": {
+        "text": "1,553,556 sq km"
+      },
+      "water": {
+        "text": "10,560 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Alaska"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "8,220 km"
+      },
+      "border countries": {
+        "text": "China 4,677 km, Russia 3,543 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "desert; continental (large daily and seasonal temperature ranges)"
+    },
+    "Terrain": {
+      "text": "vast semidesert and desert plains, grassy steppe, mountains in west and southwest; Gobi Desert in south-central"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Hoh Nuur 518 m"
+      },
+      "highest point": {
+        "text": "Nayramadlin Orgil (Huyten Orgil) 4,374 m"
+      }
+    },
+    "Natural resources": {
+      "text": "oil, coal, copper, molybdenum, tungsten, phosphates, tin, nickel, zinc, fluorspar, gold, silver, iron"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.76%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "99.24% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "840 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "34.8 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.44  cu km/yr (20%/27%/52%)"
+      },
+      "per capita": {
+        "text": "166  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "dust storms; grassland and forest fires; drought; \"zud,\" which is harsh winter conditions"
+    },
+    "Environment - current issues": {
+      "text": "limited natural fresh water resources in some areas; the policies of former Communist regimes promoted rapid urbanization and industrial growth that had negative effects on the environment; the burning of soft coal in power plants and the lack of enforcement of environmental laws severely polluted the air in Ulaanbaatar; deforestation, overgrazing, and the converting of virgin land to agricultural production increased soil erosion from wind and rain; desertification and mining activities had a deleterious effect on the environment"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; strategic location between China and Russia"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "3,041,142 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.1% (male 436,391/female 418,923)"
+      },
+      "15-64 years": {
+        "text": "67.9% (male 1,031,819/female 1,033,806)"
+      },
+      "65 years and over": {
+        "text": "4% (male 52,430/female 67,773) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "25.3 years"
+      },
+      "male": {
+        "text": "24.9 years"
+      },
+      "female": {
+        "text": "25.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.493% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "21.05 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.12 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "57% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.77 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "39.88 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "42.99 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "36.61 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "67.65 years"
+      },
+      "male": {
+        "text": "65.23 years"
+      },
+      "female": {
+        "text": "70.19 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.23 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2003 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Mongolian(s)"
+      },
+      "adjective": {
+        "text": "Mongolian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Mongol (mostly Khalkha) 94.9%, Turkic (mostly Kazakh) 5%, other (including Chinese and Russian) 0.1% (2000)"
+    },
+    "Religions": {
+      "text": "Buddhist Lamaist 50%, Shamanist and Christian 6%, Muslim 4%, none 40% (2004)"
+    },
+    "Languages": {
+      "text": "Khalkha Mongol 90%, Turkic, Russian (1999)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "97.8%"
+      },
+      "male": {
+        "text": "98%"
+      },
+      "female": {
+        "text": "97.5% (2000 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "14 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Mongolia"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Mongol Uls"
+      },
+      "former": {
+        "text": "Outer Mongolia"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ulaanbaatar"
+      },
+      "geographic coordinates": {
+        "text": "47 55 N, 106 55 E"
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs"
+    },
+    "Independence": {
+      "text": "11 July 1921 (from China)"
+    },
+    "National holiday": {
+      "text": "Independence Day/Revolution Day, 11 July (1921)"
+    },
+    "Constitution": {
+      "text": "13 January 1992"
+    },
+    "Legal system": {
+      "text": "blend of Soviet and German systems that employ \"continental\" or \"civil\" code; case-precedent may be used to inform judges, but all decisions must refer to the law as written; constitution ambiguous on judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Tsakhia ELBEGDORJ (since 18 June 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sukhbaatar BATBOLD (since 29 October 2009); First Deputy Prime Minister (Norov ALTANKHUYAG (since 20 September 2008); Vice Prime Minister Miegombyn ENKHBOLD (since 6 December 2007)"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)"
+      },
+      "elections": {
+        "text": "presidential candidates nominated by political parties represented in State Great Hural and elected by popular vote for a four-year term (eligible for a second term); election last held 24 May 2009 (next to be held in May 2013); following legislative elections, leader of majority party or majority coalition is usually elected prime minister by State Great Hural"
+      },
+      "election results": {
+        "text": "in elections in May 2009, Tsakhia ELBEGDORJ elected president; percent of vote - Tsakhia ELBEGDORJ 51.24%, Nambaryn ENKHBAYAR 47.44%, others 1.32%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral State Great Hural 76 seats; members elected by popular vote to serve four-year terms",
+      "elections": {
+        "text": "last held 29 June 2008 (next to be held in June 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - MPRP 45, DP 27, others 4; note - 1 seat disputed and unfilled"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (serves as appeals court for people's and provincial courts but rarely overturns verdicts of lower courts; judges are nominated by the General Council of Courts and approved by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party or DP [Norov ALTANHUYAG]; Mongolian People's Revolutionary Party or MPRP [Sanjaa BAYAR]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "human rights groups; women's groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, CP, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUC, NAM, OPCW, OSCE (partner), SCO (observer), UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNOMIG, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Khasbazaryn BEKHBAT"
+      },
+      "chancery": {
+        "text": "2833 M Street NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 333-7117"
+      },
+      "FAX": {
+        "text": "[1] (202) 298-9227"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Mark C. MINTON"
+      },
+      "embassy": {
+        "text": "Big Ring Road, 11th Micro Region, Ulaanbaatar, 14171 Mongolia"
+      },
+      "mailing address": {
+        "text": "PSC 461, Box 300, FPO AP 96521-0002; P.O. Box 1021, Ulaanbaatar-13"
+      },
+      "telephone": {
+        "text": "[976] (11) 329-095"
+      },
+      "FAX": {
+        "text": "[976] (11) 320-776"
+      }
+    },
+    "Flag description": {
+      "text": "three equal, vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem (\"soyombo\" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol)"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Economic activity in Mongolia has traditionally been based on herding and agriculture. Mongolia has extensive mineral deposits. Copper, coal, gold, molybdenum, fluorspar, uranium, tin, and tungsten account for a large part of industrial production and foreign direct investment. Soviet assistance, at its height one-third of GDP, disappeared almost overnight in 1990 and 1991 at the time of the dismantlement of the USSR. The following decade saw Mongolia endure both deep recession because of political inaction and natural disasters, as well as economic growth because of reform-embracing, free-market economics and extensive privatization of the formerly state-run economy. Severe winters and summer droughts in 2000-02 resulted in massive livestock die-off and zero or negative GDP growth. This was compounded by falling prices for Mongolia's primary sector exports and widespread opposition to privatization. Growth averaged nearly 9% per year in 2004-08 largely because of high copper prices and new gold production. Until late 2008 Mongolia experienced a soaring inflation rate with year-to-year inflation reaching nearly 40% - the highest inflation rate in over a decade. In late 2008 falling commodity prices in this import-reliant country helped lower inflation but by that time, the country had begun to feel the effects of the global financial crisis. Falling prices for copper and other mineral exports have reduced government revenues and are forcing cuts in spending. The global credit crisis has stalled growth in key sectors, especially those that had been fueled by foreign investment. Mongolia's economy continues to be heavily influenced by its neighbors. Mongolia purchases 95% of its petroleum products and a substantial amount of electric power from Russia, leaving it vulnerable to price increases. Trade with China represents more than half of Mongolia's total external trade - China receives about 70% of Mongolia's exports. Remittances from Mongolians working abroad both legally and illegally are sizable but have fallen due to the economic crisis; money laundering is a growing concern. Mongolia settled its $11 billion debt with Russia at the end of 2003 on favorable terms. Mongolia, which joined the World Trade Organization in 1997, seeks to expand its participation and integration into Asian regional economic and trade regimes."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$7.929 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$5.243 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "18.8%"
+      },
+      "industry": {
+        "text": "38.5%"
+      },
+      "services": {
+        "text": "42.7% (2008)"
+      }
+    },
+    "Labor force": {
+      "text": "1.068 million (2008)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "34%"
+      },
+      "industry": {
+        "text": "5%"
+      },
+      "services": {
+        "text": "61% (2008)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3% (2007)"
+    },
+    "Population below poverty line": {
+      "text": "36.1% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.9%"
+      },
+      "highest 10%": {
+        "text": "24.9% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "44 (1998)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.71 billion"
+      },
+      "expenditures": {
+        "text": "$1.95 billion (2008)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "9.87% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "17.54% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$504.7 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$1.53 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.183 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$112.6 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, vegetables, forage crops; sheep, goats, cattle, camels, horses"
+    },
+    "Industries": {
+      "text": "construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, and gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing"
+    },
+    "Industrial production growth rate": {
+      "text": "3% (2006 est.)"
+    },
+    "Electricity - production": {
+      "text": "3.979 billion kWh (2008)"
+    },
+    "Electricity - consumption": {
+      "text": "3.491 billion kWh (2008)"
+    },
+    "Electricity - exports": {
+      "text": "15.8 million kWh (2008)"
+    },
+    "Electricity - imports": {
+      "text": "197.5 million kWh (2008)"
+    },
+    "Oil - production": {
+      "text": "3,216 bbl/day (2008)"
+    },
+    "Oil - consumption": {
+      "text": "15,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "17,680 bbl/day (2008)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$23 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$1.889 billion (2007)"
+    },
+    "Exports - commodities": {
+      "text": "copper, apparel, livestock, animal products, cashmere, wool, hides, fluorspar, other nonferrous metals, coal"
+    },
+    "Exports - partners": {
+      "text": "China 74%, Canada 9.4%, Russia 3.3% (2008)"
+    },
+    "Imports": {
+      "text": "$2.117 billion (2007)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, fuel, cars, food products, industrial consumer goods, chemicals, building materials, sugar, tea"
+    },
+    "Imports - partners": {
+      "text": "Russia 34.1%, China 29.1%, South Korea 7.6%, Japan 7.4% (2008)"
+    },
+    "Debt - external": {
+      "text": "$1.438 billion (2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "togrog/tugriks (MNT) per US dollar - 1,267.51 (2008), 1,170 (2007), 1,165 (2006), 1,205 (2005), 1,185.3 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "165,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.796 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "network is improving with international direct dialing available in many areas"
+      },
+      "domestic": {
+        "text": "very low fixed-line density; there are multiple mobile cellular service providers and subscribership is increasing rapidly; a fiber-optic network has been installed that is improving broadband and communication services between major urban centers with multiple companies providing inter-city fiber-optic cable services"
+      },
+      "international": {
+        "text": "country code - 976; satellite earth stations - 7"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 7, FM 115 (includes 20 national radio broadcaster repeaters), shortwave 4 (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "68 (2008)"
+    },
+    "Internet country code": {
+      "text": ".mn"
+    },
+    "Internet hosts": {
+      "text": "524 (2009)"
+    },
+    "Internet users": {
+      "text": "330,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "45 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "14"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "11"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "31"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "24"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,810 km"
+      },
+      "broad gauge": {
+        "text": "1,810 km 1.520-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "49,249 km"
+      },
+      "paved": {
+        "text": "2,671 km"
+      },
+      "unpaved": {
+        "text": "46,578 km (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "580 km",
+      "note": "only waterway in operation is Lake Hovsgol (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers freeze in winter, are open from May to September (2007)"
+    },
+    "note": "only waterway in operation is Lake Hovsgol (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers freeze in winter, are open from May to September (2007)",
+    "Merchant marine": {
+      "total": {
+        "text": "77"
+      },
+      "by type": {
+        "text": "bulk carrier 20, cargo 44, chemical tanker 2, liquefied gas 1, passenger/cargo 1, petroleum tanker 2, roll on/roll off 6, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "53 (China 1, Germany 4, Indonesia 1, North Korea 1, South Korea 1, Lebanon 2, Russia 9, Singapore 9, Thailand 1, Ukraine 1, Vietnam 23) (2008)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Mongolian Armed Forces": {
+        "text": "Mongolian Army, Mongolian Air Force; there is no navy (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for compulsory military service; conscript service obligation - 12 months in land or air defense forces or police; a small portion of Mongolian land forces (2.5 percent) is comprised of contract soldiers; women cannot be deployed overseas for military operations (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "865,425"
+      },
+      "females age 16-49": {
+        "text": "860,669 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "706,774"
+      },
+      "females age 16-49": {
+        "text": "740,550 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "28,251"
+      },
+      "female": {
+        "text": "27,344 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.4% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

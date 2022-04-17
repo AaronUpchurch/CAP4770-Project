@@ -1,0 +1,845 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Fiji became independent in 1970 after nearly a century as a British colony. Democratic rule was interrupted by two military coups in 1987 caused by concern over a government perceived as dominated by the Indian community (descendants of contract laborers brought to the islands by the British in the 19th century). The coups and a 1990 constitution that cemented native Melanesian control of Fiji led to heavy Indian emigration; the population loss resulted in economic difficulties, but ensured that Melanesians became the majority. A new constitution enacted in 1997 was more equitable. Free and peaceful elections in 1999 resulted in a government led by an Indo-Fijian, but a civilian-led coup in 2000 ushered in a prolonged period of political turmoil. Parliamentary elections held in 2001 provided Fiji with a democratically elected government led by Prime Minister Laisenia QARASE. Reelected in May 2006, QARASE was ousted in a December 2006 military coup led by Commodore Voreqe BAINIMARAMA, who initially appointed himself acting president but in January 2007 became interim prime minister. Following years of political turmoil, long-delayed legislative elections were held in September 2014 that were deemed \"credible\" by international observers and that resulted in BAINIMARAMA being reelected."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand"
+    },
+    "Geographic coordinates": {
+      "text": "18 00 S, 175 00 E"
+    },
+    "Map references": {
+      "text": "Oceania"
+    },
+    "Area": {
+      "total": {
+        "text": "18,274 sq km"
+      },
+      "land": {
+        "text": "18,274 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than New Jersey"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,129 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic straight baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical marine; only slight seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "mostly mountains of volcanic origin"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Tomanivi 1,324 m"
+    },
+    "Natural resources": {
+      "text": "timber, fish, gold, copper, offshore oil potential, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "23.3%"
+      },
+      "text": "arable land 9%; permanent crops 4.7%; permanent pasture 9.6%",
+      "forest": {
+        "text": "55.7%"
+      },
+      "other": {
+        "text": "21% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "40 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas"
+    },
+    "Natural hazards": {
+      "text": "cyclonic storms can occur from November to January"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "includes 332 islands; approximately 110 are inhabited"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Fiji"
+      },
+      "conventional short form": {
+        "text": "Fiji"
+      },
+      "local long form": {
+        "text": "Republic of Fiji/Matanitu ko Viti"
+      },
+      "local short form": {
+        "text": "Fiji/Viti"
+      },
+      "etymology": {
+        "text": "the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Suva (on Viti Levu)"
+      },
+      "geographic coordinates": {
+        "text": "18 08 S, 178 25 E"
+      },
+      "time difference": {
+        "text": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in November; ends second Sunday in January"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 provinces and 1 dependency*; Ba, Bua, Cakaudrove, Kadavu, Lau, Lomaiviti, Macuata, Nadroga and Navosa, Naitasiri, Namosi, Ra, Rewa, Rotuma*, Serua, Tailevu"
+    },
+    "Independence": {
+      "text": "10 October 1970 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Fiji (Independence) Day, 10 October (1970)"
+    },
+    "Constitution": {
+      "text": "several previous; latest signed into law September 2013 (2016)"
+    },
+    "Legal system": {
+      "text": "common law system based on the English model"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Fiji"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jioji Konousi KONROTE (since 12 November 2015)"
+      },
+      "head of government": {
+        "text": "Prime Minister Voreqe \"Frank\" BAINIMARAMA (since 22 September 2014)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament"
+      },
+      "elections/appointments": {
+        "text": "president elected by Parliament for a 3-year term (eligible for a second term); election last held on 12 October 2015 (next to be held in 2018); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Jioji Konousi KONROTE elected president; Parliament vote - Jioji Konousi KONROTE (Fiji First) 31, Ratu Epeli GANILAU (opposition) 14"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Parliament (50 seats - 51 beginning in 2018; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 17 September 2014 (next to be held in 2018)"
+      },
+      "election results": {
+        "text": "percent of vote by party - FijiFirst 59.2%, SODELPA 28.2%, NFP 5.5%, other 7.1%; seats by party - FijiFirst 32, SODELPA 15, NFP 3"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)"
+      },
+      "judge selection and term of office": {
+        "text": "chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70 but may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years with mandatory retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social Democratic Liberal Party or SODELPA [Sitiveni RABUKA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Viti Landowners Association"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Solo MARA (since 28 January 2016)"
+      },
+      "chancery": {
+        "text": "2000 M Street NW, Suite 710, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 466-8320"
+      },
+      "FAX": {
+        "text": "[1] (202) 466-8325"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Judith CEFKIN (since 3 February 2015); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu"
+      },
+      "embassy": {
+        "text": "158 Princes Rd, Tamavua"
+      },
+      "mailing address": {
+        "text": "P. O. Box 218, Suva"
+      },
+      "telephone": {
+        "text": "[679] 331-4466"
+      },
+      "FAX": {
+        "text": "[679] 330-8685"
+      }
+    },
+    "Flag description": {
+      "text": "light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion, holding a coconut pod between its paws, above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, a banana bunch, and a white dove of peace"
+    },
+    "National symbol(s)": {
+      "text": "Fijian canoe; national color: light blue"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"God Bless Fiji\""
+      },
+      "lyrics/music": {
+        "text": "Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)"
+      },
+      "note": {
+        "text": "adopted 1970; known in Fijian as \"Meda Dau Doka\" (Let Us Show Pride); adapted from the hymn, \"Dwelling in Beulah Land,\" the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2016 exceeded 20% of GDP, compared to 13% in 2013."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$7.673 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$4.679 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$9,100 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Gross national saving": {
+      "text": "10.3% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "72.4%"
+      },
+      "government consumption": {
+        "text": "16.2%"
+      },
+      "investment in fixed capital": {
+        "text": "18.4%"
+      },
+      "investment in inventories": {
+        "text": "1.2%"
+      },
+      "exports of goods and services": {
+        "text": "44.3%"
+      },
+      "imports of goods and services": {
+        "text": "-52.5% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "10.7%"
+      },
+      "industry": {
+        "text": "18%"
+      },
+      "services": {
+        "text": "71.3% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, coconuts, cassava (manioc, tapioca), rice, sweet potatoes, bananas; cattle, pigs, horses, goats; fish"
+    },
+    "Industries": {
+      "text": "tourism, sugar processing, clothing, copra, gold, silver, lumber, small cottage industries"
+    },
+    "Industrial production growth rate": {
+      "text": "1.4% (2016 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Labor force": {
+      "text": "351,300 (2016 est.)",
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "70%"
+      },
+      "industry and services": {
+        "text": "30% (2001 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.7% (2013 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Population below poverty line": {
+      "text": "31% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "34.9% (2009 est.)"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.384 billion"
+      },
+      "expenditures": {
+        "text": "$1.528 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "29.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Public debt": {
+      "text": "48.4% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "3% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.79% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.931 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$3.325 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$3.068 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$418.8 million (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Current account balance": {
+      "text": "$-72.4 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Exports": {
+      "text": "$886.2 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Exports - commodities": {
+      "text": "sugar, garments, gold, timber, fish, molasses, coconut oil, mineral water"
+    },
+    "Exports - partners": {
+      "text": "US 21.8%, Australia 18.1%, NZ 8.5%, China 6.2%, Tonga 5.1%, Vanuatu 5.1%, UK 4.5%, Kiribati 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$1.723 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Imports - commodities": {
+      "text": "manufactured goods, machinery and transport equipment, petroleum products, food, chemicals"
+    },
+    "Imports - partners": {
+      "text": "NZ 17.1%, Australia 17%, Singapore 15.1%, China 15%, Japan 6.7% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$918.8 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Debt - external": {
+      "text": "$871.3 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$3.802 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$112.1 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Exchange rates": {
+      "text": "1.79 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "375,274"
+      },
+      "electrification - total population": {
+        "text": "59%"
+      },
+      "electrification - urban areas": {
+        "text": "72%"
+      },
+      "electrification - rural areas": {
+        "text": "45% (2012)"
+      }
+    },
+    "Electricity - production": {
+      "text": "890 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "827.7 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "333,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "36% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "39% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "25.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "16,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "15,970 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.7 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "74,182"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "8 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "927,793"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "101 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center; subject to occasional devastating cyclones"
+      },
+      "domestic": {
+        "text": "telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; combined fixed-line and mobile-cellular teledensity roughly 110 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 679; access to important cable links between US and Canada, as well as between NZ and Australia; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Fiji TV, a publicly traded company, operates a free-to-air channel, as well as Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available (2009)"
+    },
+    "Internet country code": {
+      "text": ".fj"
+    },
+    "Internet users": {
+      "total": {
+        "text": "425,680"
+      },
+      "percent of population": {
+        "text": "46.5% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "139"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,336,976"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "83,686,504 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "DQ (2016)"
+    },
+    "Airports": {
+      "text": "28 (2013)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "24"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "19 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "597 km"
+      },
+      "narrow gauge": {
+        "text": "597 km 0.600-m gauge"
+      },
+      "note": {
+        "text": "belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December (2008)"
+      },
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "3,440 km"
+      },
+      "paved": {
+        "text": "1,686 km"
+      },
+      "unpaved": {
+        "text": "1,754 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "Waterways": {
+      "text": "203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2012)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "11"
+      },
+      "by type": {
+        "text": "passenger 4, passenger/cargo 4, refrigerated cargo 1, roll on/roll off 2"
+      },
+      "foreign-owned": {
+        "text": "2 (Australia 2) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Lautoka, Levuka, Suva"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.49% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Military branches": {
+      "text": "Republic of Fiji Military Forces (RFMF): Land Forces, Naval Forces (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; mandatory retirement at age 55 (2013)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

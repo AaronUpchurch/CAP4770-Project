@@ -1,0 +1,733 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Angola is rebuilding its country after the end of a 27-year civil war in 2002. Fighting between the Popular Movement for the Liberation of Angola (MPLA), led by Jose Eduardo DOS SANTOS, and the National Union for the Total Independence of Angola (UNITA), led by Jonas SAVIMBI, followed independence from Portugal in 1975. Peace seemed imminent in 1992 when Angola held national elections, but fighting picked up again by 1996. Up to 1.5 million lives may have been lost - and 4 million people displaced - in the quarter century of fighting. SAVIMBI's death in 2002 ended UNITA's insurgency and strengthened the MPLA's hold on power. President DOS SANTOS held legislative elections in September 2008, and announced plans to hold presidential elections in 2009."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democratic Republic of the Congo"
+    },
+    "Geographic coordinates": {
+      "text": "12 30 S, 18 30 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "1,246,700 sq km"
+      },
+      "land": {
+        "text": "1,246,700 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,198 km"
+      },
+      "border countries": {
+        "text": "Democratic Republic of the Congo 2,511 km (of which 225 km is the boundary of discontiguous Cabinda Province), Republic of the Congo 201 km, Namibia 1,376 km, Zambia 1,110 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,600 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain rises abruptly to vast interior plateau"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Morro de Moco 2,620 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.65%"
+      },
+      "permanent crops": {
+        "text": "0.23%"
+      },
+      "other": {
+        "text": "97.12% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "800 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "184 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.35  cu km/yr (23%/17%/60%)"
+      },
+      "per capita": {
+        "text": "22  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "locally heavy rainfall causes periodic flooding on the plateau"
+    },
+    "Environment - current issues": {
+      "text": "overuse of pastures and subsequent soil erosion attributable to population pressures; desertification; deforestation of tropical rain forest, in response to both international demand for tropical timber and to domestic use as fuel, resulting in loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "12,799,293 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.5% (male 2,812,359/female 2,759,047)"
+      },
+      "15-64 years": {
+        "text": "53.7% (male 3,496,726/female 3,382,440)"
+      },
+      "65 years and over": {
+        "text": "2.7% (male 153,678/female 195,043) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18 years"
+      },
+      "male": {
+        "text": "18 years"
+      },
+      "female": {
+        "text": "18 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.095% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "43.69 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "24.08 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.34 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "57% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.79 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "180.21 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "192.24 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "167.58 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "38.2 years"
+      },
+      "male": {
+        "text": "37.24 years"
+      },
+      "female": {
+        "text": "39.22 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "6.12 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "2.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "190,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "11,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria, African trypanosomiasis (sleeping sickness)"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Angolan(s)"
+      },
+      "adjective": {
+        "text": "Angolan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, mestico (mixed European and native African) 2%, European 1%, other 22%"
+    },
+    "Religions": {
+      "text": "indigenous beliefs 47%, Roman Catholic 38%, Protestant 15% (1998 est.)"
+    },
+    "Languages": {
+      "text": "Portuguese (official), Bantu and other African languages"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "67.4%"
+      },
+      "male": {
+        "text": "82.9%"
+      },
+      "female": {
+        "text": "54.2% (2001 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.4% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Angola "
+      },
+      "conventional short form": {
+        "text": "Angola"
+      },
+      "local long form": {
+        "text": "Republica de Angola"
+      },
+      "local short form": {
+        "text": "Angola"
+      },
+      "former": {
+        "text": "People's Republic of Angola"
+      }
+    },
+    "Government type": {
+      "text": "republic; multiparty presidential regime"
+    },
+    "Capital": {
+      "name": {
+        "text": "Luanda"
+      },
+      "geographic coordinates": {
+        "text": "8 50 S, 13 14 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza Norte, Cuanza Sul, Cunene, Huambo, Huila, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uige, Zaire"
+    },
+    "Independence": {
+      "text": "11 November 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 11 November (1975)"
+    },
+    "Constitution": {
+      "text": "adopted by People's Assembly 25 August 1992"
+    },
+    "Legal system": {
+      "text": "based on Portuguese civil law system and customary law; modified to accommodate political pluralism and increased use of free markets; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jose Eduardo DOS SANTOS (since 21 September 1979); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Jose Eduardo DOS SANTOS (since 21 September 1979); Antonio Paulo KASSOMA was named prime minister by MPLA on 26 September 2008"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by universal ballot for a five-year term (eligible for a second consecutive or discontinuous term) under the 1992 constitution; President DOS SANTOS was selected by the party to take over after the death of former President Augustino NETO(1979) under a one-party system and stood for reelection in Angola's first multiparty elections 29-30 September 1992 (next were to be held in September 2009 but have been postponed)"
+      },
+      "election results": {
+        "text": "Jose Eduardo DOS SANTOS 49.6%, Jonas SAVIMBI 40.1%, making a run-off election necessary; the run-off was never held leaving DOS SANTOS in his current position as the president"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Assembleia Nacional (220 seats; members elected by proportional vote to serve four-year terms)",
+      "elections": {
+        "text": "last held 5-6 September 2008 (next to be held in September 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - MPLA 81.6%, UNITA 10.4%, PRS 3.2%, ND 1.2%, FNLA 1.1%, other 2.5%; seats by party - MPLA 191, UNITA 16, PRS 8, FNLA 3, ND 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court and separate provincial courts (judges are appointed by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "National Front for the Liberation of Angola or FNLA [Ngola KABANGU]; National Union for the Total Independence of Angola or UNITA (largest opposition party) [Isaias SAMAKUVA]; Popular Movement for the Liberation of Angola or MPLA (ruling party in power since 1975) [Jose Eduardo DOS SANTOS]; Social Renewal Party or PRS [Eduardo KUANGANA]",
+      "note": "nine other parties participated in the legislative election in September but won no seats"
+    },
+    "note": "FLEC's small-scale armed struggle for the independence of Cabinda Province persists despite the signing of a peace accord with the government in August 2006",
+    "Political pressure groups and leaders": {
+      "text": "Front for the Liberation of the Enclave of Cabinda or FLEC [N'zita Henriques TIAGO, Antonio Bento BEMBE]",
+      "note": "FLEC's small-scale armed struggle for the independence of Cabinda Province persists despite the signing of a peace accord with the government in August 2006"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Josefina Perpetua Pitra DIAKITE"
+      },
+      "chancery": {
+        "text": "2108 16th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 785-1156"
+      },
+      "FAX": {
+        "text": "[1] (202) 785-1258"
+      },
+      "consulate(s) general": {
+        "text": "Houston, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Dan MOZENA"
+      },
+      "embassy": {
+        "text": "number 32 Rua Houari Boumedienne (in the Miramar area of Luanda), Luanda"
+      },
+      "mailing address": {
+        "text": "international mail"
+      },
+      "telephone": {
+        "text": "[244] (222) 64-1000"
+      },
+      "FAX": {
+        "text": "[244] (222) 64-1232"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty, black the African continent, the symbols characterize workers and peasants"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Angola's high growth rate is driven by its oil sector, which has taken advantage of high international oil prices. Oil production and its supporting activities contribute about 85% of GDP. Increased oil production supported growth averaging more than 15% per year from 2004 to 2007. A postwar reconstruction boom and resettlement of displaced persons has led to high rates of growth in construction and agriculture as well. Much of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war. Remnants of the conflict such as widespread land mines still mar the countryside even though an apparently durable peace was established after the death of rebel leader Jonas SAVIMBI in February 2002. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food must still be imported. In 2005, the government started using a $2 billion line of credit, since increased to $7 billion, from China to rebuild Angola's public infrastructure, and several large-scale projects were completed in 2006. Angola also has large credit lines from Brazil, Portugal, Germany, Spain, and the EU. The central bank in 2003 implemented an exchange rate stabilization program using foreign exchange reserves to buy kwanzas out of circulation. This policy became more sustainable in 2005 because of strong oil export earnings; it has significantly reduced inflation. Although consumer inflation declined from 325% in 2000 to under 13% in 2008, the stabilization policy has put pressure on international net liquidity. Angola became a member of OPEC in late 2006 and in late 2007 was assigned a production quota of 1.9 million barrels a day, somewhat less than the 2-2.5 million bbl Angola's government had wanted. To fully take advantage of its rich national resources - gold, diamonds, extensive forests, Atlantic fisheries, and large oil deposits - Angola will need to implement government reforms, increase transparency, and reduce corruption. The government has rejected a formal IMF monitored program, although it continues Article IV consultations and ad hoc cooperation. Corruption, especially in the extractive sectors, and the negative effects of large inflows of foreign exchange, are major challenges facing Angola."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$82.94 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$84.95 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "18.6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$6,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "9.2%"
+      },
+      "industry": {
+        "text": "65.8%"
+      },
+      "services": {
+        "text": "24.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "7.569 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "85%"
+      },
+      "industry and services": {
+        "text": "15% (2003 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA"
+    },
+    "Population below poverty line": {
+      "text": "40.5% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "9% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$28.99 billion"
+      },
+      "expenditures": {
+        "text": "$21.44 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "12% of GDP (2007 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "12.2% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "19.57% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "17.7% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$4.153 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$7.216 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.166 billion (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, sugarcane, coffee, sisal, corn, cotton, manioc (tapioca), tobacco, vegetables, plantains; livestock; forest products; fish"
+    },
+    "Industries": {
+      "text": "petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "14.3% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "3.722 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "3.173 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "2.015 million bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "64,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "1.407 million bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "28,090 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "9.04 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "680 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "680 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "269.8 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$9.402 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$44.4 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil, diamonds, refined petroleum products, coffee, sisal, fish and fish products, timber, cotton"
+    },
+    "Exports - partners": {
+      "text": "China 33%, US 28.7%, France 6%, South Africa 4.6%, Canada 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$13.66 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and electrical equipment, vehicles and spare parts; medicines, food, textiles, military goods"
+    },
+    "Imports - partners": {
+      "text": "Portugal 17.6%, China 15.7%, US 11.3%, Brazil 7.6%, South Korea 6.8%, South Africa 4.8% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$11.2 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$8.357 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$14.51 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$2.477 billion (31 December 2008 est.)"
+    },
+    "Exchange rates": {
+      "text": "kwanza (AOA) per US dollar - 75.023 (2008 est.), 76.6 (2007), 80.4 (2006), 88.6 (2005), 83.541 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "114,300 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "6.773 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "system inadequate; fewer than one fixed-line per 100 persons; combined fixed line and mobile telephone density exceeded 50 telephones per 100 persons in 2008"
+      },
+      "domestic": {
+        "text": "state-owned telecom had monopoly for fixed-lines until 2005; demand outstripped capacity, prices were high, and services poor; Telecom Namibia, through an Angolan company, became the first private licensed operator in Angola's fixed-line telephone network; Angola Telecom established mobile-cellular service in Luanda in 1993 and the network has been extended to larger towns; a privately-owned, mobile-cellular service provider began operations in 2001"
+      },
+      "international": {
+        "text": "country code - 244; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 29 (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 21, FM 6, shortwave 7 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "6 (2000)"
+    },
+    "Internet country code": {
+      "text": ".ao"
+    },
+    "Internet hosts": {
+      "text": "3,508 (2009)"
+    },
+    "Internet users": {
+      "text": "550,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "192 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "30"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "162"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "32"
+      },
+      "914 to 1,523 m": {
+        "text": "78"
+      },
+      "under 914 m": {
+        "text": "46 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 2 km; oil 87 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,764 km"
+      },
+      "narrow gauge": {
+        "text": "2,641 km 1.067-m gauge; 123 km 0.600-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "51,429 km"
+      },
+      "paved": {
+        "text": "5,349 km"
+      },
+      "unpaved": {
+        "text": "46,080 km (2001)"
+      }
+    },
+    "Waterways": {
+      "text": "1,300 km (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "6"
+      },
+      "by type": {
+        "text": "cargo 1, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "1 (Spain 1)"
+      },
+      "registered in other countries": {
+        "text": "6 (Bahamas 6) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cabinda, Lobito, Luanda, Namibe"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Angolan Armed Forces (FAA)": {
+        "text": "Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "22-24 years of age for compulsory military service; conscript service obligation - 2 years; Angolan citizenship required (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,856,492"
+      },
+      "females age 16-49": {
+        "text": "2,755,864 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,467,833"
+      },
+      "females age 16-49": {
+        "text": "1,411,468 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "146,738"
+      },
+      "female": {
+        "text": "143,478 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "5.7% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Cabindan separatists continue to return to the Angolan exclave from exile in neighboring states and Europe since the 2006 ceasefire and peace agreement"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "12,615 (Democratic Republic of Congo)"
+      },
+      "IDPs": {
+        "text": "61,700 (27-year civil war ending in 2002; 4 million IDPs already have returned) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa"
+    }
+  }
+}

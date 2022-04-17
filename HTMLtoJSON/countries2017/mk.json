@@ -1,0 +1,825 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Macedonia has been engulfed in a political crisis that began after the 2014 legislative and presidential election, and which escalated in 2015 when the opposition party began releasing wiretap content that it alleged showed widespread government corruption. Although Macedonia became an EU candidate in 2005, the country still faces challenges, including overcoming the political crisis, fully implementing the OFA, resolving the outstanding name dispute with Greece, improving relations with Bulgaria, halting democratic backsliding, and stimulating economic growth and development. At the 2008 NATO Summit in Bucharest, Romania, the Allies agreed that Macedonia would be invited to join the Alliance as soon as a mutually acceptable resolution to the name dispute was reached with Greece."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southeastern Europe, north of Greece"
+    },
+    "Geographic coordinates": {
+      "text": "41 50 N, 22 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "25,713 sq km"
+      },
+      "land": {
+        "text": "25,433 sq km"
+      },
+      "water": {
+        "text": "280 sq km"
+      },
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Vermont"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "838 km"
+      },
+      "border countries (5)": {
+        "text": "Albania 181 km, Bulgaria 162 km, Greece 234 km, Kosovo 160 km, Serbia 101 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "warm, dry summers and autumns; relatively cold winters with heavy snowfall"
+    },
+    "Terrain": {
+      "text": "mountainous with deep basins and valleys; three large lakes, each divided by a frontier line; country bisected by the Vardar River"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "741 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Golem Korab (Maja e Korabit) 2,764 m"
+    },
+    "Natural resources": {
+      "text": "low-grade iron ore, copper, lead, zinc, chromite, manganese, nickel, tungsten, gold, silver, asbestos, gypsum, timber, arable land"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "44.3%"
+      },
+      "text": "arable land 16.4%; permanent crops 1.4%; permanent pasture 26.5%",
+      "forest": {
+        "text": "39.8%"
+      },
+      "other": {
+        "text": "15.9% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,280 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
+    },
+    "Natural hazards": {
+      "text": "high seismic risks"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from metallurgical plants"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Macedonia"
+      },
+      "conventional short form": {
+        "text": "Macedonia"
+      },
+      "local long form": {
+        "text": "Republika Makedonija"
+      },
+      "local short form": {
+        "text": "Makedonija"
+      },
+      "note": {
+        "text": "the provisional designation used by the UN, EU, and NATO is the \"former Yugoslav Republic of Macedonia\" (FYROM)"
+      },
+      "former": {
+        "text": "People's Republic of Macedonia, Socialist Republic of Macedonia"
+      },
+      "etymology": {
+        "text": "the country name derives from the ancient kingdom of Macedon (7th to 2nd centuries B.C.)"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Skopje"
+      },
+      "geographic coordinates": {
+        "text": "42 00 N, 21 26 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "70 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostusa, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci"
+    },
+    "Independence": {
+      "text": "8 September 1991 (referendum by registered voters endorsed independence from Yugoslavia)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 8 September (1991); also known as National Day"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 17 November 1991, effective 20 November 1991"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; draft amendments require approval by majority vote of Assembly members, followed by public debate; final passage requires two-thirds majority vote of the Assembly; amended several times, last in 2015 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system; judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Macedonia"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "8 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Gjorge IVANOV (since 12 May 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Zoran ZAEV (since 31 May 2017)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers elected by the Assembly by simple majority vote; note - the 2014 cabinet formed by the government coalition parties VMRO-DPMNE, DUI, and several small parties; as a result of an agreement reached in July 2015 between the largest parties to resolve a 16-month opposition boycott of the Assembly, several minister and deputy minister positions were also given to the opposition SDSM from November 2015 through May 2016 in preparation for parliamentary elections originally scheduled for 24 April 2016, and pushed back to 5 June 2016, and again from September to December 2016"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 13 and 27 April 2014 (next to be held in 2019); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly"
+      },
+      "election results": {
+        "text": "Gjorge IVANOV reelected president in second round; percent of vote - Gjorge IVANOV (independent) 55.3%, Stevo PENDAROVSKI (SDSM) 41.1%, other 3.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Assembly or Sobranie (123 seats; 120 members directly elected in multi-seat constituencies by proportional representation vote and 3 directly elected in diaspora constituencies worldwide by simple majority vote, provided candidates meet a specified minimum vote count; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 11 December 2016, with a second round held in one polling station on 25 December 2016 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "percent of vote by party - VMRO-DPMNE 38.1%, SDSM coalition 36.7%, BDI 7.3%, Besa Movement 4.9%, Alliance for Albanians 3.1%, PDSh 2.7%, other 7.2%; seats by party - VMRO-DPMNE 51, SDSM coalition 49, BDI 10, Besa Movement 5, Alliance for Albanians 3, PDSh 2"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges nominated by the Judicial Council, a 7-member body of legal professionals, and appointed by the Assembly; judge tenure NA; Constitutional Court judges appointed by the Assembly for nonrenewable, 9-year terms"
+      },
+      "subordinate courts": {
+        "text": "Courts of Appeal; Basic Courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social Democratic Union of Macedonia or SDSM [Zoran ZAEV]",
+      "note": {
+        "text": "during the 2016 parliamentary elections VMRO-DPMNE and SDSM each led coalitions"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Eco Guerilla [Arianit XHAFERI]"
+    },
+    "International organization participation": {
+      "text": "BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Vasko NAUMOVSKI (since 18 November 2014)"
+      },
+      "chancery": {
+        "text": "2129 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 667-0501"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-2131"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Detroit, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Jess L. BAILY (since 12 February 2015)"
+      },
+      "embassy": {
+        "text": "Str. Samolilova, Nr. 21, 1000 Skopje"
+      },
+      "mailing address": {
+        "text": "American Embassy Skopje, US Department of State, 7120 Skopje Place, Washington, DC 20521-7120 (pouch)"
+      },
+      "telephone": {
+        "text": "[389] (2) 310-2000"
+      },
+      "FAX": {
+        "text": "[389] (2) 310-2499"
+      }
+    },
+    "Flag description": {
+      "text": "a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia"
+    },
+    "National symbol(s)": {
+      "text": "eight-rayed sun; national colors: red, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Denes nad Makedonija\" (Today Over Macedonia)"
+      },
+      "lyrics/music": {
+        "text": "Vlado MALESKI/Todor SKALOVSKI"
+      },
+      "note": {
+        "text": "written in 1943 and adopted in 1991 , the song previously served as the anthem of the Socialist Republic of Macedonia while part of Yugoslavia"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP slowing in 2016, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2016, public debt reached 50.5% of GDP before being revised down to 47.8% of GDP by year\u2019s end, still relatively low compared to its Western Balkan neighbors and the rest of Europe. In 2016, Macedonia issued a Eurobond worth approximately $495 million to finance 2016 and part of 2017 budget needs."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$27.79 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars; Macedonia has a large informal sector that may not be reflected in these data"
+      },
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$10.91 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$13,800 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Gross national saving": {
+      "text": "29.8% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "65.3%"
+      },
+      "government consumption": {
+        "text": "15.7%"
+      },
+      "investment in fixed capital": {
+        "text": "13.3%"
+      },
+      "investment in inventories": {
+        "text": "20.3%"
+      },
+      "exports of goods and services": {
+        "text": "49.2%"
+      },
+      "imports of goods and services": {
+        "text": "-63.8% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "9.9%"
+      },
+      "industry": {
+        "text": "29.7%"
+      },
+      "services": {
+        "text": "60.4% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "grapes, tobacco, vegetables, fruits; milk, eggs"
+    },
+    "Industries": {
+      "text": "food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts"
+    },
+    "Industrial production growth rate": {
+      "text": "7.6% (2016 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Labor force": {
+      "text": "948,600 (2016 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "16.6%"
+      },
+      "industry": {
+        "text": "29.6%"
+      },
+      "services": {
+        "text": "53.8% (2016 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "26.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Population below poverty line": {
+      "text": "21.5% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.2%"
+      },
+      "highest 10%": {
+        "text": "34.5% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.2 (2014)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.038 billion"
+      },
+      "expenditures": {
+        "text": "$3.327 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "27.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Public debt": {
+      "text": "46.7% of GDP (2015 est.)",
+      "note": {
+        "text": "official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities; there are no debt instruments sold for social funds"
+      },
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.3% (2015 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "3.75% (31 December 2016)",
+      "note": {
+        "text": "series discontinued in January 2010; the discount rate has been replaced by a referent rate for calculating the penalty rate"
+      },
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.08% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.797 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$4.459 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$5.308 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.269 billion (31 December 2014)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Current account balance": {
+      "text": "$-203.6 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Exports": {
+      "text": "$3.37 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Exports - commodities": {
+      "text": "foodstuffs, beverages, tobacco; textiles, miscellaneous manufactures, iron, steel; automotive parts"
+    },
+    "Exports - partners": {
+      "text": "Germany 40.9%, Kosovo 13.5%, Serbia 7.7%, Bulgaria 4.5% (2016)"
+    },
+    "Imports": {
+      "text": "$5.393 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, automobiles, chemicals, fuels, food products"
+    },
+    "Imports - partners": {
+      "text": "Germany 12.2%, UK 10.7%, Serbia 7.9%, Greece 7.3%, China 6.2%, Italy 5.6%, Turkey 5.1%, Bulgaria 4.6% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.471 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Debt - external": {
+      "text": "$6.942 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$6.227 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$666.7 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Exchange rates": {
+      "text": "47.89 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "5.303 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "6.455 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Electricity - exports": {
+      "text": "58.5 million kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Electricity - imports": {
+      "text": "2.191 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "2.057 million kW (2016 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "64.3% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "32.8% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "2.9% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "142.3 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "20,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "3,900 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "23,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2016)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "471 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2016)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "60 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (31 December 2016 )",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "7.9 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "368,070"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "18 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "2.223 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "106 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "competition from the mobile-cellular segment of the telecommunications market has led to a drop in fixed-line telephone subscriptions"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular telephone subscribership about 120 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 389 (2017)"
+      }
+    },
+    "Broadcast media": {
+      "text": "public service TV broadcaster Macedonian Radio and Television operates 3 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 5 privately owned TV channels that broadcast nationally using terrestrial transmitters, 4 TV channels with concession for cable TV, 5 satellite TV channels broadcasting on a national level, 47 local commercial TV channels, and a large number of cable operators that offer domestic and international programming; the public radio broadcaster operates over multiple stations; there are 3 privately owned radio stations that broadcast nationally and about 75 local commercial radio stations (2017)"
+    },
+    "Internet country code": {
+      "text": ".mk"
+    },
+    "Internet users": {
+      "text": "70.4% (July 2016 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    }
+  },
+  "Energy ": {
+    "Civil aircraft registration country code prefix": {
+      "text": "Z3 (2016)"
+    },
+    "Airports": {
+      "text": "10 (2013)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "8"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "6 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 262 km; oil 120 km (2017)"
+    },
+    "Railways": {
+      "total": {
+        "text": "699 km"
+      },
+      "standard gauge": {
+        "text": "699 km 1.435-m gauge (223 km electrified) (2017)"
+      },
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "14,182 km (includes 242 km of expressways)"
+      },
+      "paved": {
+        "text": "9,633 km"
+      },
+      "unpaved": {
+        "text": "4,549 km (2014)"
+      },
+      "country comparison to the world": {
+        "text": "126"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.23% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Military branches": {
+      "text": "Army of the Republic of Macedonia (ARM; includes General Staff and subordinate Joint Operational Command, Training and Doctrine Command, Special Operations Regiment) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; conscription abolished in 2008 (2013)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Kosovo and Macedonia completed demarcation of their boundary in September 2008; Greece continues to reject the use of the name Macedonia or Republic of Macedonia"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "600 (2016)"
+      },
+      "note": {
+        "text": "478,416 estimated refugee and migrant arrivals (January 2015 - November 2017); Macedonia is predominantly a transit country and hosts fewer than 50 refugees and asylum seekers as of September 2017"
+      }
+    },
+    "Illicit drugs": {
+      "text": "major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement"
+    }
+  }
+}

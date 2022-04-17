@@ -1,0 +1,680 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Eastern Turkmenistan for centuries formed part of the Persian province of Khurasan; in medieval times Merv (today known as Mary) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia between 1865 and 1885, Turkmenistan became a Soviet republic in 1924. It achieved independence upon the dissolution of the USSR in 1991. Extensive hydrocarbon/natural gas reserves could prove a boon to this underdeveloped country if extraction and delivery projects were to be expanded. The Turkmenistan Government is actively seeking to develop alternative petroleum transportation routes to break Russia's pipeline monopoly. President for Life Saparmurat NYYAZOW died in December 2006, and Turkmenistan held its first multi-candidate presidential electoral process in February 2007. Gurbanguly BERDIMUHAMEDOW, a vice premier under NYYAZOW, emerged as the country's new president."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Asia, bordering the Caspian Sea, between Iran and Kazakhstan"
+    },
+    "Geographic coordinates": {
+      "text": "40 00 N, 60 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "488,100 sq km"
+      },
+      "land": {
+        "text": "469,930 sq km"
+      },
+      "water": {
+        "text": "18,170 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,736 km"
+      },
+      "border countries": {
+        "text": "Afghanistan 744 km, Iran 992 km, Kazakhstan 379 km, Uzbekistan 1,621 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km; note - Turkmenistan borders the Caspian Sea (1,768 km)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "subtropical desert"
+    },
+    "Terrain": {
+      "text": "flat-to-rolling sandy desert with dunes rising to mountains in the south; low mountains along border with Iran; borders Caspian Sea in west"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Vpadina Akchanaya -81 m; note - Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya (the lake has dropped as low as -110 m)"
+      },
+      "highest point": {
+        "text": "Gora Ayribaba 3,139 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, sulfur, salt"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "4.51%"
+      },
+      "permanent crops": {
+        "text": "0.14%"
+      },
+      "other": {
+        "text": "95.35% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "18,000 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "60.9 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "24.65  cu km/yr (2%/1%/98%)"
+      },
+      "per capita": {
+        "text": "5,104  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "contamination of soil and groundwater with agricultural chemicals, pesticides; salination, water logging of soil due to poor irrigation methods; Caspian Sea pollution; diversion of a large share of the flow of the Amu Darya into irrigation contributes to that river's inability to replenish the Aral Sea; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; the western and central low-lying desolate portions of the country make up the great Garagum (Kara-Kum) desert, which occupies over 80% of the country; eastern part is plateau"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,884,887 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.9% (male 713,698/female 697,222)"
+      },
+      "15-64 years": {
+        "text": "66.9% (male 1,618,678/female 1,646,992)"
+      },
+      "65 years and over": {
+        "text": "4.3% (male 90,352/female 117,945) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "24.4 years"
+      },
+      "male": {
+        "text": "24.1 years"
+      },
+      "female": {
+        "text": "24.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.141% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "19.69 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.31 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.97 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "49% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.77 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "45.36 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "53.85 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "36.46 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "67.87 years"
+      },
+      "male": {
+        "text": "64.94 years"
+      },
+      "female": {
+        "text": "70.95 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.22 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2004 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Turkmen(s)"
+      },
+      "adjective": {
+        "text": "Turkmen"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Turkmen 85%, Uzbek 5%, Russian 4%, other 6% (2003)"
+    },
+    "Religions": {
+      "text": "Muslim 89%, Eastern Orthodox 9%, unknown 2%"
+    },
+    "Languages": {
+      "text": "Turkmen 72%, Russian 12%, Uzbek 9%, other 7%"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "98.8%"
+      },
+      "male": {
+        "text": "99.3%"
+      },
+      "female": {
+        "text": "98.3% (1999 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.9% of GDP (1991)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Turkmenistan"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Turkmenistan"
+      },
+      "former": {
+        "text": "Turkmen Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic; authoritarian presidential rule, with little power outside the executive branch"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ashgabat (Ashkhabad)"
+      },
+      "geographic coordinates": {
+        "text": "37 57 N, 58 23 E"
+      },
+      "time difference": {
+        "text": "UTC+5 (10 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "5 provinces (welayatlar, singular - welayat) and 1 independent city*": {
+        "text": "Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dashoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty"
+      },
+      "note": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
+    },
+    "note": "formal opposition parties are outlawed; unofficial, small opposition movements exist abroad; the three most prominent opposition groups-in-exile are the National Democratic Movement of Turkmenistan (NDMT), the Republican Party of Turkmenistan, and the Watan (Fatherland) Party; the NDMT was led by former Foreign Minister Boris SHIKHMURADOV until his arrest and imprisonment in the wake of the 25 November 2002 attack on President NYYAZOW's motorcade",
+    "Independence": {
+      "text": "27 October 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 October (1991)"
+    },
+    "Constitution": {
+      "text": "adopted 18 May 1992"
+    },
+    "Legal system": {
+      "text": "based on civil law system and Islamic law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term; election last held on 11 February 2007 (next to be held in February 2012)"
+      },
+      "election results": {
+        "text": "Gurbanguly BERDIMUHAMEDOW elected president; percent of vote - Gurbanguly BERDIMUHAMEDOW 89.2%, Amanyaz ATAJYKOW 3.2%, other candidates 7.6%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral parliament known as the National Assembly (Mejlis) (125 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 14 December 2008 (next to be held December 2013)"
+      },
+      "election results": {
+        "text": "100% of elected officials are members of either the Democratic Party of Turkmenistan or its pseudo-civil society parent organization, the Revival Movement, and are preapproved by the president"
+      },
+      "note": "in autumn 2008, the constitution of Turkmenistan was revised to abolish the 2,507-member legislative body known as the People's Council and to expand the number of deputies in the National Assembly from 65 to 125; the powers formerly held by the People's Council were divided up between the president and the National Assembly"
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party of Turkmenistan or DPT [Gurbanguly BERDIMUHAMEDOW]",
+      "note": "formal opposition parties are outlawed; unofficial, small opposition movements exist abroad; the three most prominent opposition groups-in-exile are the National Democratic Movement of Turkmenistan (NDMT), the Republican Party of Turkmenistan, and the Watan (Fatherland) Party; the NDMT was led by former Foreign Minister Boris SHIKHMURADOV until his arrest and imprisonment in the wake of the 25 November 2002 attack on President NYYAZOW's motorcade"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ADB, CIS, EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO (guest), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Meret Bairamovich ORAZOW"
+      },
+      "chancery": {
+        "text": "2207 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 588-1500"
+      },
+      "FAX": {
+        "text": "[1] (202) 588-0697"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Richard M. MILES"
+      },
+      "embassy": {
+        "text": "No. 9 1984 Street (formerly Pushkin Street), Ashgabat, Turkmenistan 744000"
+      },
+      "mailing address": {
+        "text": "7070 Ashgabat Place, Washington, DC 20521-7070"
+      },
+      "telephone": {
+        "text": "[993] (12) 35-00-45"
+      },
+      "FAX": {
+        "text": "[993] (12) 39-26-14"
+      }
+    },
+    "Flag description": {
+      "text": "green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; a white crescent moon representing Islam with five white stars representing the regions or welayats of Turkmenistan appear in the upper corner of the field just to the fly side of the red stripe"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and sizeable gas and oil resources. One-half of its irrigated land is planted in cotton; formerly it was the world's 10th-largest producer. Poor harvests in recent years have led to an almost 50% decline in cotton exports. With an authoritarian ex-Communist regime in power and a tribally based social structure, Turkmenistan has taken a cautious approach to economic reform, hoping to use gas and cotton sales to sustain its inefficient economy. Privatization goals remain limited. From 1998-2005, Turkmenistan suffered from the continued lack of adequate export routes for natural gas and from obligations on extensive short-term external debt. At the same time, however, total exports rose by an average of roughly 15% per year from 2003-08, largely because of higher international oil and gas prices. A new pipeline to China, set to come online in late 2009 or early 2010, will give Turkmenistan an additional export route for its gas. Overall prospects in the near future are discouraging because of widespread internal poverty, a poor educational system, government misuse of oil and gas revenues, and Ashgabat's reluctance to adopt market-oriented reforms. In the past, Turkmenistan's economic statistics were state secrets. The new government has established a State Agency for Statistics, but GDP numbers and other figures are subject to wide margins of error. In particular, the rate of GDP growth is uncertain. Since his election, President BERDIMUHAMEDOW has sought to improve the health and education systems, unified the country's dual currency exchange rate, ordered the redenomination of the manat, reduced state subsidies for gasoline, increased Internet access both in schools and Internet cafes, ordered an independent audit of Turkmenistan's gas resources, and created a special tourism zone on the Caspian Sea. Although foreign investment is encouraged, numerous bureaucratic obstacles from the NYYZOW-era remain."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$25.53 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "some estimates put this figure as high as $5 billion",
+    "GDP (official exchange rate)": {
+      "text": "$29.16 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "11.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$5,400 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "9.1%"
+      },
+      "industry": {
+        "text": "39%"
+      },
+      "services": {
+        "text": "51.9% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "13.51 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "48.2%"
+      },
+      "industry": {
+        "text": "14%"
+      },
+      "services": {
+        "text": "37.8% (2004 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "60% (2004 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "31.7% (1998)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "40.8 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "1.2% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.667 billion"
+      },
+      "expenditures": {
+        "text": "$1.407 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "11.3% (2007 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cotton, grain; livestock"
+    },
+    "Industries": {
+      "text": "natural gas, oil, petroleum products, textiles, food processing"
+    },
+    "Industrial production growth rate": {
+      "text": "-1.5% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "13.99 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "10.45 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.46 billion kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "189,400 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "112,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "84,770 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "2,542 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "600 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "70.5 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "21 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "48.5 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "2.662 trillion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$3.285 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$7.919 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "gas, crude oil, petrochemicals, textiles, cotton fiber"
+    },
+    "Exports - partners": {
+      "text": "Ukraine 51.7%, Poland 10%, Hungary 8.1% (2008)"
+    },
+    "Imports": {
+      "text": "$3.615 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, chemicals, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 16.9%, Russia 15.9%, Turkey 14%, UAE 10.3%, Ukraine 7.9%, Germany 5.6%, Iran 5.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$13.19 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.4 billion (2004 est.)",
+      "note": "some estimates put this figure as high as $5 billion"
+    },
+    "Exchange rates": {
+      "text": "Turkmen manat (TMM) per US dollar - 14,250 (as of 1 May 2008 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "495,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "810,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications network remains underdeveloped and progress toward improvement is slow; strict government control and censorship inhibits liberalization and modernization"
+      },
+      "domestic": {
+        "text": "Turkmentelekom, in cooperation with foreign partners, has installed high speed fiber-optic lines and has upgraded most of the country's telephone exchanges and switching centers with new digital technology; mobile telephone usage is expanding with Russia's Mobile Telesystems (MTS) the primary service provider"
+      },
+      "international": {
+        "text": "country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 16, FM 8, shortwave 2 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "4 (government-owned and programmed) (2004)"
+    },
+    "Internet country code": {
+      "text": ".tm"
+    },
+    "Internet hosts": {
+      "text": "755 (2009)"
+    },
+    "Internet users": {
+      "text": "75,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "28 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "22"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "9"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 6,417 km; oil 1,457 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,980 km"
+      },
+      "broad gauge": {
+        "text": "2,980 km 1.520-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "58,592 km"
+      },
+      "paved": {
+        "text": "47,577 km"
+      },
+      "unpaved": {
+        "text": "11,015 km (2002)"
+      }
+    },
+    "Waterways": {
+      "text": "1,300 km (Amu Darya and Kara Kum canal are important inland waterways) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "7"
+      },
+      "by type": {
+        "text": "cargo 4, petroleum tanker 2, refrigerated cargo 1 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Turkmenbasy"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy, Air and Air Defense Forces (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for compulsory military service; 2-year conscript service obligation (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,316,698"
+      },
+      "females age 16-49": {
+        "text": "1,331,005 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,024,884"
+      },
+      "females age 16-49": {
+        "text": "1,147,714 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "57,021"
+      },
+      "female": {
+        "text": "56,064 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; field demarcation of the boundaries with Kazakhstan commenced in 2005, but Caspian seabed delimitation remains stalled with Azerbaijan, Iran, and Kazakhstan due to Turkmenistan's indecision over how to allocate the sea's waters and seabed"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "11,173 (Tajikistan); less than 1,000 (Afghanistan) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit country for Afghan narcotics bound for Russian and Western European markets; transit point for heroin precursor chemicals bound for Afghanistan"
+    }
+  }
+}

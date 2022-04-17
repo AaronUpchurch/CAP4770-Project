@@ -1,0 +1,880 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Although ultimately a victor in World Wars I and II, France suffered extensive losses in its empire, wealth, manpower, and rank as a dominant nation-state. Nevertheless, France today is one of the most modern countries in the world and is a leader among European nations. Since 1958, it has constructed a hybrid presidential-parliamentary governing system resistant to the instabilities experienced in earlier more purely parliamentary administrations. In recent years, its reconciliation and cooperation with Germany have proved central to the economic integration of Europe, including the introduction of a common exchange currency, the euro, in January 1999. At present, France is at the forefront of efforts to develop the EU's military capabilities to supplement progress toward an EU foreign policy."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "metropolitan France": {
+        "text": "Western Europe, bordering the Bay of Biscay and English Channel, between Belgium and Spain, southeast of the UK; bordering the Mediterranean Sea, between Italy and Spain "
+      },
+      "French Guiana": {
+        "text": "Northern South America, bordering the North Atlantic Ocean, between Brazil and Suriname"
+      },
+      "Guadeloupe": {
+        "text": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, southeast of Puerto Rico"
+      },
+      "Martinique": {
+        "text": "Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago"
+      },
+      "Reunion": {
+        "text": "Southern Africa, island in the Indian Ocean, east of Madagascar"
+      }
+    },
+    "Geographic coordinates": {
+      "metropolitan France": {
+        "text": "46 00 N, 2 00 E"
+      },
+      "French Guiana": {
+        "text": "4 00 N, 53 00 W"
+      },
+      "Guadeloupe": {
+        "text": "16 15 N, 61 35 W"
+      },
+      "Martinique": {
+        "text": "14 40 N, 61 00 W"
+      },
+      "Reunion": {
+        "text": "21 06 S, 55 36 E"
+      }
+    },
+    "Map references": {
+      "metropolitan France": {
+        "text": "Europe"
+      },
+      "French Guiana": {
+        "text": "South America"
+      },
+      "Guadeloupe": {
+        "text": "Central America and the Caribbean"
+      },
+      "Martinique": {
+        "text": "Central America and the Caribbean"
+      },
+      "Reunion": {
+        "text": "World"
+      }
+    },
+    "Area": {
+      "total": {
+        "text": "643,427 sq km; 551,500 sq km (metropolitan France)"
+      },
+      "land": {
+        "text": "640,053 sq km; 549,970 sq km (metropolitan France)"
+      },
+      "water": {
+        "text": "3,374 sq km; 1,530 sq km (metropolitan France)"
+      },
+      "note": "the first numbers include the overseas regions of French Guiana, Guadeloupe, Martinique, and Reunion"
+    },
+    "note": "French Guiana - arable land 0.13%, permanent crops 0.04%, other 99.83% (90% forest, 10% other); Guadeloupe - arable land 11.70%, permanent crops 2.92%, other 85.38%; Martinique - arable land 9.09%, permanent crops 10.0%, other 80.91%; Reunion - arable land 13.94%, permanent crops 1.59%, other 84.47% (2005)",
+    "Area - comparative": {
+      "text": "slightly less than the size of Texas"
+    },
+    "Land boundaries": {
+      "metropolitan France - total": {
+        "text": "2,889 km"
+      },
+      "border countries": {
+        "text": "Brazil 673 km, Suriname 510 km"
+      },
+      "French Guiana - total": {
+        "text": "1,183 km"
+      }
+    },
+    "Coastline": {
+      "total": {
+        "text": "4,668 km"
+      },
+      "metropolitan France": {
+        "text": "3,427 km"
+      }
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm (does not apply to the Mediterranean)"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "metropolitan France": {
+        "text": "generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as mistral"
+      },
+      "French Guiana": {
+        "text": "tropical; hot, humid; little seasonal temperature variation"
+      },
+      "Guadeloupe and Martinique": {
+        "text": "subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average"
+      },
+      "Reunion": {
+        "text": "tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)"
+      }
+    },
+    "Terrain": {
+      "metropolitan France": {
+        "text": "mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east"
+      },
+      "French Guiana": {
+        "text": "low-lying coastal plains rising to hills and small mountains"
+      },
+      "Guadeloupe": {
+        "text": "Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin"
+      },
+      "Martinique": {
+        "text": "mountainous with indented coastline; dormant volcano"
+      },
+      "Reunion": {
+        "text": "mostly rugged and mountainous; fertile lowlands along coast"
+      }
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Rhone River delta -2 m"
+      },
+      "highest point": {
+        "text": "Mont Blanc 4,807 m"
+      },
+      "note": "in order to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively and periodically measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit"
+    },
+    "Natural resources": {
+      "metropolitan France": {
+        "text": "coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, fish"
+      },
+      "French Guiana": {
+        "text": "gold deposits, petroleum, kaolin, niobium, tantalum, clay"
+      }
+    },
+    "Land use": {
+      "arable land": {
+        "text": "33.46%"
+      },
+      "permanent crops": {
+        "text": "2.03%"
+      },
+      "other": {
+        "text": "64.51%"
+      },
+      "note": "French Guiana - arable land 0.13%, permanent crops 0.04%, other 99.83% (90% forest, 10% other); Guadeloupe - arable land 11.70%, permanent crops 2.92%, other 85.38%; Martinique - arable land 9.09%, permanent crops 10.0%, other 80.91%; Reunion - arable land 13.94%, permanent crops 1.59%, other 84.47% (2005)"
+    },
+    "Irrigated land": {
+      "total": {
+        "text": "26,190 sq km;"
+      },
+      "metropolitan France": {
+        "text": "26,000 sq km (2003)"
+      }
+    },
+    "Total renewable water resources": {
+      "text": "189 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "33.16  cu km/yr (16%/74%/10%)"
+      },
+      "per capita": {
+        "text": "548  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "metropolitan France": {
+        "text": "flooding; avalanches; midwinter windstorms; drought; forest fires in south near the Mediterranean"
+      },
+      "overseas departments": {
+        "text": "hurricanes (cyclones); flooding; volcanic activity (Guadeloupe, Martinique, Reunion)"
+      }
+    },
+    "Environment - current issues": {
+      "text": "some forest damage from acid rain; air pollution from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "largest West European nation"
+    }
+  },
+  "People": {
+    "Population": {
+      "total": {
+        "text": "64,057,792 "
+      },
+      "note": "62,150,775 in metropolitan France (July 2009 est.)"
+    },
+    "note": "62,150,775 in metropolitan France (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "18.6% (male 6,129,729/female 5,838,925)"
+      },
+      "15-64 years": {
+        "text": "65% (male 20,963,124/female 20,929,280)"
+      },
+      "65 years and over": {
+        "text": "16.4% (male 4,403,248/female 6,155,767) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "39.4 years"
+      },
+      "male": {
+        "text": "38 years"
+      },
+      "female": {
+        "text": "40.9 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.549% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "12.57 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.56 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.48 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "77% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.72 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "3.33 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "3.66 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "2.99 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "80.98 years"
+      },
+      "male": {
+        "text": "77.79 years"
+      },
+      "female": {
+        "text": "84.33 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.98 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.4% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "140,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "1,600 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Frenchman(men), Frenchwoman(women)"
+      },
+      "adjective": {
+        "text": "French"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Celtic and Latin with Teutonic, Slavic, North African, Indochinese, Basque minorities",
+      "overseas departments": {
+        "text": "black, white, mulatto, East Indian, Chinese, Amerindian"
+      }
+    },
+    "Religions": {
+      "text": "Roman Catholic 83%-88%, Protestant 2%, Jewish 1%, Muslim 5%-10%, unaffiliated 4%",
+      "overseas departments": {
+        "text": "Roman Catholic, Protestant, Hindu, Muslim, Buddhist, pagan"
+      }
+    },
+    "Languages": {
+      "text": "French 100%, rapidly declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",
+      "overseas departments": {
+        "text": "French, Creole patois"
+      }
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "16 years"
+      },
+      "male": {
+        "text": "16 years"
+      },
+      "female": {
+        "text": "17 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.7% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "French Republic "
+      },
+      "conventional short form": {
+        "text": "France"
+      },
+      "local long form": {
+        "text": "Republique francaise"
+      },
+      "local short form": {
+        "text": "France"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Paris"
+      },
+      "geographic coordinates": {
+        "text": "48 52 N, 2 20 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      },
+      "note": "applies to metropolitan France only, not to its overseas departments, collectivities, or territories"
+    },
+    "note": "amended concerning election of president in 1962; amended to comply with provisions of 1992 EC Maastricht Treaty, 1997 Amsterdam Treaty, 2003 Treaty of Nice; amended to tighten immigration laws in 1993; amended in 2000 to change the seven-year presidential term to a five-year term; amended in 2005 to make the EU constitutional treaty compatible with the Constitution of France and to ensure that the decision to ratify EU accession treaties would be made by referendum",
+    "Administrative divisions": {
+      "text": "26 regions (regions, singular - region); Alsace, Aquitaine, Auvergne, Basse-Normandie (Lower Normandy), Bourgogne (Burgundy), Bretagne (Brittany), Centre, Champagne-Ardenne, Corse (Corsica), Franche-Comte, Guadeloupe, Guyane (French Guiana), Haute-Normandie (Upper Normandy), Ile-de-France, Languedoc-Roussillon, Limousin, Lorraine, Martinique, Midi-Pyrenees, Nord-Pas-de-Calais, Pays de la Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote d'Azur, Reunion, Rhone-Alpes",
+      "note": "France is divided into 22 metropolitan regions (including the \"territorial collectivity\" of Corse or Corsica) and 4 overseas regions (including French Guiana, Guadeloupe, Martinique, and Reunion) and is subdivided into 96 metropolitan departments and 4 overseas departments (which are the same as the overseas regions)"
+    },
+    "Dependent areas": {
+      "text": "Clipperton Island, French Polynesia, French Southern and Antarctic Lands, Mayotte, New Caledonia, Saint Barthelemy, Saint Martin, Wallis and Futuna",
+      "note": "the US does not recognize claims to Antarctica; New Caledonia has been considered a \"sui generis\" collectivity of France since 1998, a unique status falling between that of an independent country and a French overseas department"
+    },
+    "Independence": {
+      "text": "486 (Frankish tribes unified); 843 (Western Francia established from the division of the Carolingian Empire)"
+    },
+    "National holiday": {
+      "text": "Fete de la Federation, 14 July (1790); note - although often incorrectly referred to as Bastille Day, the celebration actually commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are Fete Nationale (National Holiday) and quatorze juillet (14th of July)"
+    },
+    "Constitution": {
+      "text": "adopted by referendum 28 September 1958; effective 4 October 1958; amended many times",
+      "note": "amended concerning election of president in 1962; amended to comply with provisions of 1992 EC Maastricht Treaty, 1997 Amsterdam Treaty, 2003 Treaty of Nice; amended to tighten immigration laws in 1993; amended in 2000 to change the seven-year presidential term to a five-year term; amended in 2005 to make the EU constitutional treaty compatible with the Constitution of France and to ensure that the decision to ratify EU accession treaties would be made by referendum"
+    },
+    "Legal system": {
+      "text": "civil law system with indigenous concepts; review of administrative but not legislative acts; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Nicolas SARKOZY (since 16 May 2007)"
+      },
+      "head of government": {
+        "text": "Prime Minister Francois FILLON (since 17 May 2007)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president at the suggestion of the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (changed from seven-year term in October 2000); election last held 22 April and 6 May 2007 (next to be held spring 2012); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Nicolas SARKOZY wins the election; first round"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament or Parlement consists of the Senate or Senat (343 seats, 321 for metropolitan France and overseas departments, 2 for New Caledonia, 2 for Mayotte, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 3 for overseas territories, and 12 for French nationals abroad; members are indirectly elected by an electoral college to serve six-year terms; one third elected every three years); note - between 2006 and 2011, 15 new seats will be added to the Senate for a total of 348 seats - 326 for metropolitan France and overseas departments, 2 for New Caledonia, 2 for Mayotte, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 3 for overseas territories, and 12 for French nationals abroad; starting in 2008, members will be indirectly elected by an electoral college to serve six-year terms with one-half elected every three years; and the National Assembly or Assemblee Nationale (577 seats, 555 for metropolitan France, 15 for overseas departments, 7 for dependencies; members are elected by popular vote under a single-member majority system to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held 21 September 2008 (next to be held in September 2014); National Assembly - last held 10 and 17 June 2007 (next to be held in June 2012)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - UMP 151, PS 116, UC-UDF 29, CRC 23, RDSE 17, other 7; National Assembly - percent of vote by party - UMP 46.37%, PS 42.25%, miscellaneous left wing parties 2.47%, PCF 2.28%, NC 2.12%, PRG 1.65%, miscellaneous right wing parties 1.17%, the Greens 0.45%, other 1.24%; seats by party - UMP 313, PS 186, NC 22, miscellaneous left wing parties 15, PCF 15, miscellaneous right wing parties 9, PRG 7, the Greens 4, other 6"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Appeals or Cour de Cassation (judges are appointed by the president from nominations of the High Council of the Judiciary); Constitutional Council or Conseil Constitutionnel (three members appointed by the president, three appointed by the president of the National Assembly, and three appointed by the president of the Senate); Council of State or Conseil d'Etat"
+    },
+    "Political parties and leaders": {
+      "text": "Communist, Republican and Citizen or CRC; Democratic Movement or MoDem [Francois BAYROU] (previously Union for French Democracy or UDF); Democratic and Social European Rally or RDSE [Yvon COLLIN] (mainly Radical Republican and Socialist Parties, and PRG); French Communist Party or PCF [Marie-George BUFFET]; Greens [Cecile DUFLOT]; Left Radical Party or PRG [Jean-Michel BAYLET] (previously Radical Socialist Party or PRS and the Left Radical Movement or MRG); Movement for France or MPF [Philippe DE VILLIERS]; National Front or FN [Jean-Marie LE PEN]; New Center or NC [Herve MORIN]; Radical Party [Jean-Louis BORLOO]; Rally for France or RPF [Charles PASQUA]; Republican and Citizen Movement or MRC [Jean Pierre CHEVENEMENT and Georges SARRE]; Socialist Party or PS [Martine AUBRY]; Union Centrist-UDF or UC-UDF [Michel MERCIER]; Union for a Popular Movement or UMP [Xavier BERTRAND]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Confederation Francaise Democratique du Travail or CFDT, left-leaning labor union with approximately 803,000 members; Confederation Generale des Cadres or CGC, independent white-collar union with 196,000 members; Confederation Generale du Travail or CGT, historically communist labor union with approximately 700,000 members; Confederation Generale du Travail - Force Ouvriere or FO, independent labor union with an estimated 300,000 members; Mouvement des Entreprises de France or MEDEF, employers' union with 750,000 companies as members (claimed)",
+      "French Guiana": {
+        "text": "conservationists; gold mining pressure groups; hunting pressure groups"
+      },
+      "Guadeloupe": {
+        "text": "Christian Movement for the Liberation of Guadeloupe or KLPG; General Federation of Guadeloupe Workers or CGT-G; General Union of Guadeloupe Workers or UGTG; Movement for an Independent Guadeloupe or MPGI; The Socialist Renewal Movement"
+      },
+      "Martinique": {
+        "text": "Caribbean Revolutionary Alliance or ARC; Central Union for Martinique Workers or CSTM; Frantz Fanon Circle; League of Workers and Peasants; Proletarian Action Group or GAP"
+      },
+      "Reunion": {
+        "text": "NA"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, FZ, G-20, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURCAT, MINURSO, MINUSTAH, MONUC, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Paris Club, PCA, PIF (partner), Schengen Convention, SECI (observer), SPC, UN, UN Security Council, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNITAR, UNMIL, UNOCI, UNOMIG, UNRWA, UNTSO, UNWTO, UPU, WADB (nonregional), WCL, WCO, WEU, WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Pierre VIMONT"
+      },
+      "chancery": {
+        "text": "4101 Reservoir Road NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 944-6000"
+      },
+      "FAX": {
+        "text": "[1] (202) 944-6166"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Mark A. PEKALA"
+      },
+      "embassy": {
+        "text": "2 Avenue Gabriel, 75382 Paris Cedex 08"
+      },
+      "mailing address": {
+        "text": "PSC 116, APO AE 09777"
+      },
+      "telephone": {
+        "text": "[33] (1) 43-12-22-22"
+      },
+      "FAX": {
+        "text": "[33] (1) 42 66 97 83"
+      },
+      "consulate(s) general": {
+        "text": "Marseille, Strasbourg"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of blue (hoist side), white, and red; known as the \"Le drapeau tricolore\" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Ireland, Cote d'Ivoire, Luxembourg, and Netherlands; the official flag for all French dependent areas"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "France is in the midst of transition from a well-to-do modern economy that has featured extensive government ownership and intervention to one that relies more on market mechanisms. The government has partially or fully privatized many large companies, banks, and insurers, and has ceded stakes in such leading firms as Air France, France Telecom, Renault, and Thales. It maintains a strong presence in some sectors, particularly power, public transport, and defense industries. The telecommunications sector is gradually being opened to competition. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that reduce income disparity and the impact of free markets on public health and welfare. Widespread opposition to labor reform has in recent years hampered the government's ability to revitalize the economy. During 2007-08, the government implemented several important labor reforms, including a de facto extension of the 35-hour workweek by allowing employees to work longer overtime hours. During 2009, the government is expected to delay or even renounce other reform efforts due to the on-going financial crisis. GDP growth dropped to 0.3% in 2008; the French government plans to increase public investment and continue injecting capital into the banking sector to alleviate the negative effects of the crisis during 2009. As a result of lower fiscal revenues and increased expenditures the general government deficit is expected to exceed the euro-zone ceiling 3% of GDP. France's tax burden remains one of the highest in Europe - at nearly 50% of GDP in 2005. With at least 75 million foreign tourists per year, France is the most visited country in the world and maintains the third largest income in the world from tourism."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.078 trillion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$2.867 trillion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$32,800 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2%"
+      },
+      "industry": {
+        "text": "20.4%"
+      },
+      "services": {
+        "text": "77.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "27.97 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "3.8%"
+      },
+      "industry": {
+        "text": "24.3%"
+      },
+      "services": {
+        "text": "71.8% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.9% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "6.2% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3%"
+      },
+      "highest 10%": {
+        "text": "24.8% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "32.7 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "21.9% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.407 trillion"
+      },
+      "expenditures": {
+        "text": "$1.506 trillion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "67.7% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.5% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2007)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.13% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders"
+    },
+    "Stock of quasi money": {
+      "text": ""
+    },
+    "Stock of domestic credit": {
+      "text": "$3.397 trillion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.429 trillion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, cereals, sugar beets, potatoes, wine grapes; beef, dairy products; fish"
+    },
+    "Industries": {
+      "text": "machinery, chemicals, automobiles, metallurgy, aircraft, electronics; textiles, food processing; tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "-1.8% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "535.7 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "447.2 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "58.69 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "10.68 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "70,800 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "1.986 million bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "554,100 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "2.346 million bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "103.3 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "920 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "49.27 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "1 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "49.35 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "6.937 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$31.25 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$546 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and transportation equipment, aircraft, plastics, chemicals, pharmaceutical products, iron and steel, beverages"
+    },
+    "Exports - partners": {
+      "text": "Germany 14.3%, Italy 8.7%, Spain 8.3%, UK 7.8%, Belgium 7.6%, US 5.8%, Netherlands 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$600.9 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, vehicles, crude oil, aircraft, plastics, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Germany 17.9%, Belgium 11.7%, Italy 8.3%, Spain 6.9%, Netherlands 6.8%, UK 5.1%, US 4.3% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$115.7 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$4.88 trillion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.026 trillion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.399 trillion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6827 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "35.909 million; 35.0 million (metropolitan France) (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "59.259 million; 57.972 million (metropolitan France) (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "highly developed"
+      },
+      "domestic": {
+        "text": "extensive cable and microwave radio relay; extensive use of fiber-optic cable; domestic satellite system"
+      },
+      "international": {
+        "text": "country code - 33; numerous submarine cables provide links throughout Europe, Asia, Australia, the Middle East, and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries"
+      },
+      "overseas departments": {
+        "text": "country codes"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 41, FM about 3,500 (this figure is an approximation and includes many repeaters), shortwave 2 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "584 (plus 9,676 repeaters) (1995)"
+    },
+    "Internet country code": {
+      "text": "metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Reunion - .re"
+    },
+    "Internet hosts": {
+      "text": "14.327 million; 14,341,000 (metropolitan France) (2009)"
+    },
+    "Internet users": {
+      "text": "42.912 million; 42.315 million (metropolitan France) (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "475 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "297"
+      },
+      "over 3,047 m": {
+        "text": "14"
+      },
+      "2,438 to 3,047 m": {
+        "text": "27"
+      },
+      "1,524 to 2,437 m": {
+        "text": "97"
+      },
+      "914 to 1,523 m": {
+        "text": "82"
+      },
+      "under 914 m": {
+        "text": "77 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "178"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "70"
+      },
+      "under 914 m": {
+        "text": "107 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 14,688 km; oil 3,036 km; refined products 5,080 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "29,213 km"
+      },
+      "standard gauge": {
+        "text": "29,046 km 1.435-m gauge (15,164 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "167 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "951,500 km"
+      },
+      "paved": {
+        "text": "951,500 km (metropolitan France; includes 10,950 km of expressways)"
+      },
+      "note": "there are another 5,100 km of roadways in overseas departments (2006)"
+    },
+    "note": "there are another 5,100 km of roadways in overseas departments (2006)",
+    "Waterways": {
+      "metropolitan France": {
+        "text": "8,501 km (1,621 km accessible to craft of 3,000 metric tons)"
+      },
+      "French Guiana": {
+        "text": "3,760 km (460 km navigable by small oceangoing vessels and coastal and river steamers, 3,300 km by native craft) (2008)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "138"
+      },
+      "by type": {
+        "text": "bulk carrier 2, cargo 1, chemical tanker 32, container 25, liquefied gas 12, passenger 3, passenger/cargo 33, petroleum tanker 23, roll on/roll off 7"
+      },
+      "foreign-owned": {
+        "text": "38 (Belgium 6, China 5, Denmark 2, Germany 1, Italy 2, Japan 1, NZ 1, Norway 5, Saudi Arabia 1, Singapore 2, Sweden 9, Switzerland 3)"
+      },
+      "registered in other countries": {
+        "text": "127 (Antigua and Barbuda 1, Australia 1, Bahamas 30, Belgium 2, Bermuda 1, Hong Kong 1, Indonesia 1, Isle of Man 1, Italy 2, Liberia 5, Luxembourg 17, Malta 5, Morocco 14, Netherlands 1, Norway 3, Panama 5, Saint Vincent and the Grenadines 6, Singapore 1, Taiwan 1, UK 23, Wallis and Futuna 6) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bordeaux, Calais, Dunkerque, Le Havre, Marseille, Nantes, Paris, Rouen, Strasbourg"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army (Armee de Terre; includes Marines, Foreign Legion, Army Light Aviation), Navy (Marine Nationale, includes Naval Air, Maritime Gendarmerie (Coast Guard)), Air Force (Armee de l'Air, includes Air Defense), National Gendarmerie (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "17-40 years of age for male or female voluntary military service; no conscription; 12-month service obligation; women serve in noncombat military posts (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "14,646,427"
+      },
+      "females age 16-49": {
+        "text": "14,379,630 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "12,087,606"
+      },
+      "females age 16-49": {
+        "text": "11,811,260 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "391,480"
+      },
+      "female": {
+        "text": "373,334 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.6% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia"
+    },
+    "Illicit drugs": {
+      "metropolitan France": {
+        "text": "transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics"
+      },
+      "French Guiana": {
+        "text": "small amount of marijuana grown for local consumption; minor transshipment point to Europe"
+      },
+      "Martinique": {
+        "text": "transshipment point for cocaine and marijuana bound for the US and Europe"
+      }
+    }
+  }
+}

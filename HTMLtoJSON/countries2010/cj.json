@@ -1,0 +1,589 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Cayman Islands were colonized from Jamaica by the British during the 18th and 19th centuries and were administered by Jamaica after 1863. In 1959, the islands became a territory within the Federation of the West Indies. When the Federation dissolved in 1962, the Cayman Islands chose to remain a British dependency."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, three-island group (Grand Cayman, Cayman Brac, Little Cayman) in Caribbean Sea, 240 km south of Cuba and 268 km northwest of Jamaica"
+    },
+    "Geographic coordinates": {
+      "text": "19 30 N, 80 30 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "264 sq km"
+      },
+      "land": {
+        "text": "264 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "1.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "160 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April)"
+    },
+    "Terrain": {
+      "text": "low-lying limestone base surrounded by coral reefs"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "The Bluff on Cayman Brac 43 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, climate and beaches that foster tourism"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "3.85%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "96.15% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "hurricanes (July to November)"
+    },
+    "Environment - current issues": {
+      "text": "no natural fresh water resources; drinking water supplies must be met by rainwater catchments"
+    },
+    "Geography - note": {
+      "text": "important location between Cuba and Central America"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "50,209",
+      "note": "most of the population lives on Grand Cayman (July 2010 est.)"
+    },
+    "note": "major destination for Cubans trying to migrate to the US (2010 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "19.6% (male 4,824/female 4,783)"
+      },
+      "15-64 years": {
+        "text": "71.1% (male 16,994/female 17,884)"
+      },
+      "65 years and over": {
+        "text": "9.3% (male 2,139/female 2,411) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "38.4 years"
+      },
+      "male": {
+        "text": "38 years"
+      },
+      "female": {
+        "text": "38.9 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.338% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "12.29 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "5 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "16.09 migrant(s)/1,000 population",
+      "note": "major destination for Cubans trying to migrate to the US (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "100% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.016 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.95 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.89 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "6.78 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "7.77 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "5.76 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "80.57 years"
+      },
+      "male": {
+        "text": "77.91 years"
+      },
+      "female": {
+        "text": "83.27 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.88 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Caymanian(s)"
+      },
+      "adjective": {
+        "text": "Caymanian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mixed 40%, white 20%, black 20%, expatriates of various ethnic groups 20%"
+    },
+    "Religions": {
+      "text": "Church of God 25.5%, Roman Catholic 12.6%, Presbyterian / United Church 9.2%, Seventh Day Adventist 8.4%, Baptist 8.3%, Pentecostal 6.7%, Anglican 3.9%, other religions 4%, non-denominational 5.7%, other 6.5%, none 6.1%, unspecified 3.2% (2007)"
+    },
+    "Languages": {
+      "text": "English (official) 95%, Spanish 3.2%, other 1.8% (1999 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has ever attended school"
+      },
+      "total population": {
+        "text": "98%"
+      },
+      "male": {
+        "text": "98%"
+      },
+      "female": {
+        "text": "98% (1970 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2008)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.6% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Cayman Islands"
+      }
+    },
+    "Dependency status": {
+      "text": "overseas territory of the UK"
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "George Town (on Grand Cayman)"
+      },
+      "geographic coordinates": {
+        "text": "19 18 N, 81 23 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 districts; Creek, Eastern, Midland, South Town, Spot Bay, Stake Bay, West End, Western"
+    },
+    "Independence": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, first Monday in July"
+    },
+    "Constitution": {
+      "text": "The Cayman Islands Constitution Order 2009, 6 November 2009"
+    },
+    "Legal system": {
+      "text": "British common law and local statutes"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Duncan TAYLOR (since 15 January 2010)"
+      },
+      "head of government": {
+        "text": "Premier McKeeva BUSH (since 6 November 2009)"
+      },
+      "cabinet": {
+        "text": "The Cabinet (six members are appointed by the governor on the advice of the premier, selected from among the elected members of the Legislative Assembly)"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; the governor appointed by the monarch; following legislative elections, the leader of the majority party or coalition appointed by the governor as premier"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Legislative Assembly (20 seats; 18 members elected by popular vote and 2 ex officio members from The Cabinet; to serve four-year terms)",
+      "elections": {
+        "text": "last held on 20 May 2009 (next to be held not later than May 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - UDP 9, PPM 5, independent 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Grand Court; Cayman Islands Court of Appeal; Summary Court"
+    },
+    "Political parties and leaders": {
+      "text": "People's Progressive Movement or PPM [Kurt TIBBETTS]; United Democratic Party or UDP [McKeeva BUSH]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Trust",
+      "other": {
+        "text": "environmentalists"
+      }
+    },
+    "International organization participation": {
+      "text": "Caricom (associate), CDB, Interpol (subbureau), IOC, UNESCO (associate), UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (overseas territory of the UK); consular services provided through the US Embassy in Jamaica"
+    },
+    "Flag description": {
+      "text": "a blue field, with the flag of the UK in the upper hoist-side quadrant and the Caymanian coat of arms centered on the outer half of the flag; the coat of arms includes a crest with a pineapple, representing the connection with Jamaica, and a turtle, representing Cayman's seafaring tradition, above a shield bearing a golden lion, symbolizing Great Britain, below which are three green stars (representing the three islands) surmounting white and blue wavy lines representing the sea and a scroll at the bottom bearing the motto HE HATH FOUNDED IT UPON THE SEAS"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Beloved Isle Cayman\""
+      },
+      "lyrics/music": {
+        "text": "Leila E. ROSS"
+      },
+      "note": "adopted 1993; served as an unofficial anthem since 1930; as a territory of the United Kingdom, in addition to the local anthem, \"God Save the Queen\" is official (see United Kingdom)"
+    },
+    "note": "adopted 1993; served as an unofficial anthem since 1930; as a territory of the United Kingdom, in addition to the local anthem, \"God Save the Queen\" is official (see United Kingdom)"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "With no direct taxation, the islands are a thriving offshore financial center. More than 93,000 companies were registered in the Cayman Islands as of 2008, including almost 300 banks, 800 insurers, and 10,000 mutual funds. A stock exchange was opened in 1997. Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 1.9 million in 2008, with about half from the US. About 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy one of the highest outputs per capita and one of the highest standards of living in the world."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.23 billion (2003 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$2.25 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.9% (2004 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$43,800 (2004 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1.4%"
+      },
+      "industry": {
+        "text": "3.2%"
+      },
+      "services": {
+        "text": "95.4% (1994 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "39,000",
+      "note": "nearly 55% are non-nationals (2007)"
+    },
+    "note": "nearly 55% are non-nationals (2007)",
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1.9%"
+      },
+      "industry": {
+        "text": "19.1%"
+      },
+      "services": {
+        "text": "79% (2008 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.4% (2004)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.4% (2004)"
+    },
+    "Stock of narrow money": {
+      "text": "$334.3 million (31 December 2008)"
+    },
+    "Stock of broad money": {
+      "text": ""
+    },
+    "Market value of publicly traded shares": {
+      "text": "$188.4 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "vegetables, fruit; livestock; turtle farming"
+    },
+    "Industries": {
+      "text": "tourism, banking, insurance and finance, construction, construction materials, furniture"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "546 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "507.8 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "3,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "3,294 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2010 est.)"
+    },
+    "Exports": {
+      "text": "$2.52 million (2004)"
+    },
+    "Exports - commodities": {
+      "text": "turtle products, manufactured consumer goods"
+    },
+    "Imports": {
+      "text": "$866.9 million (2004)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, manufactured goods, fuels"
+    },
+    "Debt - external": {
+      "text": "$70 million (1996)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Caymanian dollars (KYD) per US dollar - NA (2007), 0.8496 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "38,000 (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "33,800 (2004)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "reasonably good system"
+      },
+      "domestic": {
+        "text": "liberalization of telecom market in 2003; introduction of competition in the mobile-cellular market in 2004"
+      },
+      "international": {
+        "text": "country code - 1-345; landing points for the MAYA-1, Eastern Caribbean Fiber System (ECFS), and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2007)"
+      }
+    },
+    "Broadcast media": {
+      "text": "4 television stations; cable and satellite subscription services offer a variety of international programming; government-owned Radio Cayman operates 2 networks broadcasting on 5 stations; 10 privately-owned radio stations operate alongside Radio Cayman (2007)"
+    },
+    "Internet country code": {
+      "text": ".ky"
+    },
+    "Internet hosts": {
+      "text": "21,910 (2010)"
+    },
+    "Internet users": {
+      "text": "23,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "3 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "785 km"
+      },
+      "paved": {
+        "text": "785 km (2007)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "113"
+      },
+      "by type": {
+        "text": "bulk carrier 20, cargo 3, chemical tanker 56, liquefied gas 1, petroleum tanker 8, refrigerated cargo 10, vehicle carrier 15"
+      },
+      "foreign-owned": {
+        "text": "99 (Germany 6, Greece 11, Italy 6, Japan 19, Switzerland 1, UK 2, US 54) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cayman Brac, George Town"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Royal Cayman Islands Police Force (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "12,108 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "9,860"
+      },
+      "females age 16-49": {
+        "text": "10,287 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "326"
+      },
+      "female": {
+        "text": "347 (2010 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the UK"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "major offshore financial center; vulnerable to drug transshipment to the US and Europe (2008)"
+    }
+  }
+}

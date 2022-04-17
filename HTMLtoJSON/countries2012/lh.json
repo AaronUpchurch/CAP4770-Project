@@ -1,0 +1,817 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Lithuanian lands were united under MINDAUGAS in 1236; over the next century, through alliances and conquest, Lithuania extended its territory to include most of present-day Belarus and Ukraine. By the end of the 14th century Lithuania was the largest state in Europe. An alliance with Poland in 1386 led the two countries into a union through the person of a common ruler. In 1569, Lithuania and Poland formally united into a single dual state, the Polish-Lithuanian Commonwealth. This entity survived until 1795 when its remnants were partitioned by surrounding countries. Lithuania regained its independence following World War I but was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. On 11 March 1990, Lithuania became the first of the Soviet republics to declare its independence, but Moscow did not recognize this proclamation until September of 1991 (following the abortive coup in Moscow). The last Russian troops withdrew in 1993. Lithuania subsequently restructured its economy for integration into Western European institutions; it joined both NATO and the EU in the spring of 2004."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Europe, bordering the Baltic Sea, between Latvia and Russia"
+    },
+    "Geographic coordinates": {
+      "text": "56 00 N, 24 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "65,300 sq km"
+      },
+      "land": {
+        "text": "62,680 sq km "
+      },
+      "water": {
+        "text": "2,620 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than West Virginia"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,574 km"
+      },
+      "border countries": {
+        "text": "Belarus 680 km, Latvia 576 km, Poland 91 km, Russia (Kaliningrad) 227 km "
+      }
+    },
+    "Coastline": {
+      "text": "90 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      }
+    },
+    "Climate": {
+      "text": "transitional, between maritime and continental; wet, moderate winters and summers"
+    },
+    "Terrain": {
+      "text": "lowland, many scattered small lakes, fertile soil"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Baltic Sea 0 m"
+      },
+      "highest point": {
+        "text": "Aukstojas 294 m "
+      }
+    },
+    "Natural resources": {
+      "text": "peat, arable land, amber"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "44.81%"
+      },
+      "permanent crops": {
+        "text": "0.9% "
+      },
+      "other": {
+        "text": "54.29% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "13.4 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "24.5 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "3.33  cu km/yr (78%/15%/7%)"
+      },
+      "per capita": {
+        "text": "971  cu m/yr (2003) "
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "contamination of soil and groundwater with petroleum products and chemicals at military bases"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "fertile central plains are separated by hilly uplands that are ancient glacial deposits"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Lithuanian(s) "
+      },
+      "adjective": {
+        "text": "Lithuanian "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Lithuanian 84%, Polish 6.1%, Russian 4.9%, Belarusian 1.1%, other or unspecified 3.9% (2009)"
+    },
+    "Languages": {
+      "text": "Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other and unspecified 4.4% (2001 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 79%, Russian Orthodox 4.1%, Protestant (including Lutheran and Evangelical Christian Baptist) 1.9%, other or unspecified 5.5%, none 9.5% (2001 census)"
+    },
+    "Population": {
+      "text": "3,525,761 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "13.7% (male 247,372/ female 234,337)"
+      },
+      "15-64 years": {
+        "text": "69.7% (male 1,209,122/ female 1,249,720) "
+      },
+      "65 years and over": {
+        "text": "16.6% (male 202,479/ female 382,731) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "40.5 years"
+      },
+      "male": {
+        "text": "37.8 years "
+      },
+      "female": {
+        "text": "43 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.278% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "9.34 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "11.4 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.73 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "67% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "-0.5% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "VILNIUS (capital) 546,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.53 male(s)/female "
+      },
+      "total population": {
+        "text": "0.89 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "8 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "6.18 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "7.37 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "4.92 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.55 years"
+      },
+      "male": {
+        "text": "70.72 years "
+      },
+      "female": {
+        "text": "80.66 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.27 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "7.8% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.664 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "6.84 beds/1,000 population (2008)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1,200 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea "
+      },
+      "vectorborne diseases": {
+        "text": "tickborne encephalitis (2009) "
+      }
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "19.7% (2006)"
+    },
+    "Education expenditures": {
+      "text": "4.7% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.7% "
+      },
+      "male": {
+        "text": "99.7% "
+      },
+      "female": {
+        "text": "99.7% (2010 est.) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "16 years"
+      },
+      "male": {
+        "text": "15 years "
+      },
+      "female": {
+        "text": "17 years (2008) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "29.4%"
+      },
+      "male": {
+        "text": "35.2% "
+      },
+      "female": {
+        "text": "21.7% (2009) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Lithuania "
+      },
+      "conventional short form": {
+        "text": "Lithuania "
+      },
+      "local long form": {
+        "text": "Lietuvos Respublika "
+      },
+      "local short form": {
+        "text": "Lietuva "
+      },
+      "former": {
+        "text": "Lithuanian Soviet Socialist Republic "
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Vilnius"
+      },
+      "geographic coordinates": {
+        "text": "54 41 N, 25 19 E "
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time) "
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October "
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 counties (apskritys, singular - apskritis); Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus"
+    },
+    "Independence": {
+      "11 March 1990 (declared); 6 September 1991 (recognized by the Soviet Union); notable earlier dates": {
+        "text": "6 July 1253 (coronation of MINDAUGAS, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created)"
+      }
+    },
+    "National holiday": {
+      "text": "Independence Day, 16 February (1918); note - 16 February 1918 was the date Lithuania declared its independence from Soviet Russia and established its statehood; 11 March 1990 was the date it declared its independence from the Soviet Union"
+    },
+    "Constitution": {
+      "text": "adopted 25 October 1992; last amended 25 April 2006"
+    },
+    "Legal system": {
+      "text": "civil law system; legislative acts can be appealed to the constitutional court"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Dalia GRYBAUSKAITE (since 12 July 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Algirdas BUTKEVICIUS (since 22 November 2012) "
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the nomination of the prime minister and approval of the Parliament "
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 17 May 2009 (next to be held in May 2014); prime minister appointed by the president on the approval of the Parliament "
+      },
+      "election results": {
+        "text": "Dalia GRYBAUSKAITE elected president; percent of vote - Dalia GRYBAUSKAITE 69.1%, Algirdas BUTKEVICIUS 11.8%, Valentinas MAZURONIS 6.2%, others 12.9%; Algirdas BUTKEVICIUS approved by Parliament 90-40 "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Seimas (141 seats; 71 members elected in single-member districts, 70 elected by proportional representation; members to serve four-year terms)",
+      "elections": {
+        "text": "last held on 14 and 28 October 2012 (next to be held in October 2016) "
+      },
+      "election results": {
+        "text": "percent of vote by party (proportional vote) - DP 19.8%, LSDP 18.4%, TS-LKD 15.1%, LS 8.6%, DK 8%, TT 7.3%, LLRA 5.8%, LVZS 3.9%, other parties 13.1%; seats by party - LSDP 38, TS-LKD 33, DP 29, TT 11, LS 10, LLRA 8, DK 7, LVZS 1, independent 3, vacant 1 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; Supreme Court; Court of Appeal; judges for all courts appointed by the president, with Seimas approval required for judges on the Constitutional Court and Supreme Court"
+    },
+    "Political parties and leaders": {
+      "text": "Christian Party or KP [Gediminas VAGNORIUS]; Civil Democracy Party or PDP [Algimantas MATULEVICIUS]; Democratic Labor and Unity Party or DDVP [Kristina BRAZAUSKIENE]; Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]; Emigrants Party or EP [Juozas MURAUSKAS]; Homeland Union-Lithuanian Christian Democrats or TS-LKD [Andrius KUBILIUS]; Labor Party or DP [Viktor USPASKICH]; Liberal and Center Union or LCS [Algis CAPLIKAS]; Liberal Movement or LS or LRLS [Eligijus MASIULIS]; Lithuanian People's Party or LLP [Kazimiera PRUNSKIENE]; Lithuanian People's Party or LZP [Joana SIMANAUSKIENE]; Lithuanian Russian Union or LRS [Sergejus DMITRIJEVAS]; Lithuanian Social Democratic Party or LSDP [Algirdas BUTKEVICIUS]; Nationalist Union or TS [Gintaras SONGAILA]; Order and Justice Party or TT [Rolandas PAKSAS]; Peasant and Greens Union or LVZS [Ramunas KARBAUSKIS]; Republican Party or RP [Valdemaras VALKIUNAS]; Russian Alliance or RA [Tamara LOCHANKINA]; Socialist People's Front or SLF [Algirdas PALECKIS]; Way of Courage or DK [Jonas VARKALA]; YES-Homeland Revival and Perspective or YES Union or TAIP Union or TAIP [Arturas ZUOKAS]; Young Lithuania Party or PJL [Stanislovas BUSKEVICIUS]"
+    },
+    "International organization participation": {
+      "text": "Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Zygimantas PAVILIONIS"
+      },
+      "chancery": {
+        "text": "2622 16th Street NW, Washington, DC 20009 "
+      },
+      "telephone": {
+        "text": "[1] (202) 234-5860 "
+      },
+      "FAX": {
+        "text": "[1] (202) 328-0466 "
+      },
+      "consulate(s) general": {
+        "text": "Chicago, New York "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Anne HALL"
+      },
+      "embassy": {
+        "text": "Akmenu gatve 6, Vilnius, LT-03106 "
+      },
+      "mailing address": {
+        "text": "American Embassy, Akmenu Gatve 6, Vilnius LT-03106 "
+      },
+      "telephone": {
+        "text": "[370] (5) 266-5500 "
+      },
+      "FAX": {
+        "text": "[370] (5) 266-5510 "
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland"
+    },
+    "National symbol(s)": {
+      "text": "mounted knight known as Vytis (the Chaser)"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Tautiska giesme\" (The National Song)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Vincas KUDIRKA "
+      },
+      "note": "adopted 1918, restored 1990; the anthem was written in 1898 while Lithuania was a part of Russia; it was banned during the Soviet occupation from 1940 to 1990 "
+    },
+    "note": "adopted 1918, restored 1990; the anthem was written in 1898 while Lithuania was a part of Russia; it was banned during the Soviet occupation from 1940 to 1990 "
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Lithuania gained membership in the World Trade Organization and joined the EU in May 2004. Despite Lithuania's EU accession, Lithuania's trade with its Central and Eastern European neighbors, and Russia in particular, accounts for a significant share of total trade. Foreign investment and business support have helped in the transition from the old command economy to a market economy. Lithuania's economy grew on average 8% per year for the four years prior to 2008 driven by exports and domestic demand. However, GDP plunged nearly 15% in 2009 - the three former Soviet Baltic republics were among the hardest hit by the 2008-09 financial crisis. The government's efforts to attract foreign investment, develop export markets, and to pursue broad economic reforms has been key to Lithuania's quick recovery from a deep recession making Lithuania one of the fastest growing economies in the EU. However, unemployment - at 15.8% in 2012 - remains stubbornly high."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$59.13 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "official data; data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions ",
+    "GDP (official exchange rate)": {
+      "text": "$41.22 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.4% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$18,000 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.3%"
+      },
+      "industry": {
+        "text": "28.4% "
+      },
+      "services": {
+        "text": "68.4% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "1.587 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "14%"
+      },
+      "industry": {
+        "text": "29.1% "
+      },
+      "services": {
+        "text": "56.9% (2005) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "15.4% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "4% (2008)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "29.1% (2008) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34 (1999) "
+    },
+    "Investment (gross fixed)": {
+      "text": "17.7% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$13.08 billion"
+      },
+      "expenditures": {
+        "text": "$14.84 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "31.7% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.3% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "36.8% of GDP (2011 est.) ",
+      "note": "official data; data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.1% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "2.06% (31 December 2009 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.78% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$11.72 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$18.74 billion (31 December 2011 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$22.84 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$4.477 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "grain, potatoes, sugar beets, flax, vegetables; beef, milk, eggs; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "7.5% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$670 million (2011 est.) "
+    },
+    "Exports": {
+      "text": "$28.06 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "mineral products 22%, machinery and equipment 10%, chemicals 9%, textiles 7%, foodstuffs 7%, plastics 7%"
+    },
+    "Exports - partners": {
+      "text": "Russia 15.6%, Latvia 9.7%, Germany 8.9%, Poland 6.7%, Estonia 6.3%, Netherlands 5.8%, Belarus 4.8% (2011)"
+    },
+    "Imports": {
+      "text": "$30.17 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "mineral products, machinery and equipment, transport equipment, chemicals, textiles and clothing, metals"
+    },
+    "Imports - partners": {
+      "text": "Russia 32.1%, Germany 9.6%, Poland 9%, Latvia 6.5%, Netherlands 4.8% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$8.21 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$31.03 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$14.85 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$2.312 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "2.3251 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "4.8 billion kWh (2011 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "9.2 billion kWh (2011 est.)"
+    },
+    "Electricity - exports": {
+      "text": "2.184 billion kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "8.17 billion kWh (2011 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "3.82 million kW (2011 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "53.8% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "25.2% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "2.4% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "2.4% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "2,000 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "2,260 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "168,300 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "12 million bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "202,600 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "70,390 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "149,900 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "15,670 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "3.1 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "3.1 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "15.98 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "723,000 (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.004 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate; being modernized to provide improved international capability and better residential access"
+      },
+      "domestic": {
+        "text": "rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 140 per 100 persons "
+      },
+      "international": {
+        "text": "country code - 370; major international connections to Denmark, Sweden, and Norway by submarine cable for further transmission by satellite; landline connections to Latvia and Poland "
+      }
+    },
+    "Broadcast media": {
+      "text": "public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately-owned commercial TV broadcasters operate national and multiple regional channels; many privately-owned local TV stations; multi-channel cable and satellite TV services available; publicly-owned broadcaster operates 3 radio networks; many privately-owned commercial broadcasters, many with repeater stations in various regions throughout the country (2007)"
+    },
+    "Internet country code": {
+      "text": ".lt"
+    },
+    "Internet hosts": {
+      "text": "1.205 million (2012)"
+    },
+    "Internet users": {
+      "text": "1.964 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "81 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "26"
+      },
+      "over 3,047 m": {
+        "text": "3 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "7 "
+      },
+      "914 to 1,523 m": {
+        "text": "2 "
+      },
+      "under 914 m": {
+        "text": "13 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "55"
+      },
+      "over 3,047 m": {
+        "text": "1 "
+      },
+      "914 to 1,523 m": {
+        "text": "2 "
+      },
+      "under 914 m": {
+        "text": "52 (2012) "
+      }
+    },
+    "Pipelines": {
+      "text": "gas 1,695 km; refined products 114 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,767 km"
+      },
+      "broad gauge": {
+        "text": "1,745 km 1.524-m gauge (122 km electrified) "
+      },
+      "standard gauge": {
+        "text": "22 km 1.435-m gauge (2011) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "82,131 km"
+      },
+      "paved": {
+        "text": "72,048 km (includes 309 km of expressways) "
+      },
+      "unpaved": {
+        "text": "10,083 km (2010) "
+      }
+    },
+    "Waterways": {
+      "text": "441 km (navigable year round) (2007)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "38"
+      },
+      "by type": {
+        "text": "cargo 20, container 1, passenger/cargo 6, refrigerated cargo 9, roll on/roll off 2 "
+      },
+      "foreign-owned": {
+        "text": "8 (Denmark 8) "
+      },
+      "registered in other countries": {
+        "text": "22 (Antigua and Barbuda 3, Belize 1, Comoros 1, Cook Islands 1, Norway 1, Panama 3, Saint Vincent and the Grenadines 9, unknown 3) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Klaipeda",
+      "oil terminals": {
+        "text": "Butinge oil terminal "
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos)": {
+        "text": "Ground Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), National Defense Volunteer Forces (Krasto Apsaugos Savanoriu Pajegos) (2011)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for volunteers; 12-month conscript service obligation suspended in 2008, all enlisted conscripts ending service by July 2009 (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "890,074"
+      },
+      "females age 16-49": {
+        "text": "875,780 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "669,111"
+      },
+      "females age 16-49": {
+        "text": "724,803 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "20,425"
+      },
+      "female": {
+        "text": "19,527 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "0.9% of GDP (2007 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; boundary demarcated with Latvia and Lithuania; as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation"
+    },
+    "Illicit drugs": {
+      "text": "transshipment and destination point for cannabis, cocaine, ecstasy, and opiates from Southwest Asia, Latin America, Western Europe, and neighboring Baltic countries; growing production of high-quality amphetamines, but limited production of cannabis, methamphetamines; susceptible to money laundering despite changes to banking legislation"
+    }
+  }
+}

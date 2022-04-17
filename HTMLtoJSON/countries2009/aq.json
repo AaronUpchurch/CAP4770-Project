@@ -1,0 +1,541 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Settled as early as 1000 B.C., Samoa was \"discovered\" by European explorers in the 18th century. International rivalries in the latter half of the 19th century were settled by an 1899 treaty in which Germany and the US divided the Samoan archipelago. The US formally occupied its portion - a smaller group of eastern islands with the excellent harbor of Pago Pago - the following year."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, group of islands in the South Pacific Ocean, about half way between Hawaii and New Zealand"
+    },
+    "Geographic coordinates": {
+      "text": "14 20 S, 170 00 W"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "199 sq km"
+      },
+      "land": {
+        "text": "199 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "note": "includes Rose Island and Swains Island"
+    },
+    "note": "includes Rose Island and Swains Island",
+    "Area - comparative": {
+      "text": "slightly larger than Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "116 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical marine, moderated by southeast trade winds; annual rainfall averages about 3 m; rainy season (November to April), dry season (May to October); little seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "five volcanic islands with rugged peaks and limited coastal plains, two coral atolls (Rose Island, Swains Island)"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Lata Mountain 964 m"
+      }
+    },
+    "Natural resources": {
+      "text": "pumice, pumicite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10%"
+      },
+      "permanent crops": {
+        "text": "15%"
+      },
+      "other": {
+        "text": "75% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "typhoons common from December to March"
+    },
+    "Environment - current issues": {
+      "text": "limited natural fresh water resources; the water division of the government has spent substantial funds in the past few years to improve water catchments and pipelines"
+    },
+    "Geography - note": {
+      "text": "Pago Pago has one of the best natural deepwater harbors in the South Pacific Ocean, sheltered by shape from rough seas and protected by peripheral mountains from high winds; strategic location in the South Pacific Ocean"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "65,628 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "33.4% (male 11,159/female 10,768)"
+      },
+      "15-64 years": {
+        "text": "62.7% (male 20,848/female 20,271)"
+      },
+      "65 years and over": {
+        "text": "3.9% (male 1,211/female 1,371) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "23.1 years"
+      },
+      "male": {
+        "text": "23 years"
+      },
+      "female": {
+        "text": "23.3 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.222% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "23.31 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.1 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-6.99 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "92% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.88 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "10.18 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "13.3 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "6.88 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.72 years"
+      },
+      "male": {
+        "text": "70.8 years"
+      },
+      "female": {
+        "text": "76.82 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.29 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "American Samoan(s) (US nationals)"
+      },
+      "adjective": {
+        "text": "American Samoan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "native Pacific islander 91.6%, Asian 2.8%, white 1.1%, mixed 4.2%, other 0.3% (2000 census)"
+    },
+    "Religions": {
+      "text": "Christian Congregationalist 50%, Roman Catholic 20%, Protestant and other 30%"
+    },
+    "Languages": {
+      "text": "Samoan 90.6% (closely related to Hawaiian and other Polynesian languages), English 2.9%, Tongan 2.4%, other Pacific islander 2.1%, other 2%",
+      "note": "most people are bilingual (2000 census)"
+    },
+    "note": "most people are bilingual (2000 census)",
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "97%"
+      },
+      "male": {
+        "text": "98%"
+      },
+      "female": {
+        "text": "97% (1980 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Territory of American Samoa "
+      },
+      "conventional short form": {
+        "text": "American Samoa"
+      },
+      "abbreviation": {
+        "text": "AS"
+      }
+    },
+    "Dependency status": {
+      "text": "unincorporated and unorganized territory of the US; administered by the Office of Insular Affairs, US Department of the Interior"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Pago Pago"
+      },
+      "geographic coordinates": {
+        "text": "14 16 S, 170 42 W"
+      },
+      "time difference": {
+        "text": "UTC-11 (6 hours behind Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are three districts and two islands* at the second order; Eastern, Manu'a, Rose Island*, Swains Island*, Western"
+    },
+    "Independence": {
+      "text": "none (territory of the US)"
+    },
+    "National holiday": {
+      "text": "Flag Day, 17 April (1900)"
+    },
+    "Constitution": {
+      "text": "ratified 2 June 1966; effective 1 July 1967"
+    },
+    "Legal system": {
+      "text": "NA"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009)"
+      },
+      "head of government": {
+        "text": "Governor Togiola TULAFONO (since 7 April 2003)"
+      },
+      "cabinet": {
+        "text": "Cabinet made up of 12 department directors"
+      },
+      "elections": {
+        "text": "under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ticket by popular vote for four-year terms (eligible for a second term); election last held 4 and 18 November 2008 (next to be held in November 2012)"
+      },
+      "election results": {
+        "text": "Togiola TULAFONO reelected governor; percent of vote - Togiola TULAFONO 56.5%, Afoa Moega LUTU 43.5%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Fono or Legislative Assembly consists of the Senate (18 seats; members are elected from local chiefs to serve four-year terms)and the House of Representatives (21 seats; 20 members are elected by popular vote and 1 is an appointed, nonvoting delegate from Swains Island; members serve two-year terms)",
+      "elections": {
+        "text": "House of Representatives - last held 4 November 2008 (next to be held in November 2010); Senate - last held 4 November 2008 (next to be held in November 2012)"
+      },
+      "election results": {
+        "text": "House of Representatives - percent of vote by party - NA; seats by party - NA; Senate - percent of vote by party - NA; seats by party - independents 18"
+      },
+      "note": "American Samoa elects one nonvoting representative to the US House of Representatives; election last held on 4 November 2008 (next to be held in November 2010); results - Eni F. H. FALEOMAVAEGA reelected as delegate"
+    },
+    "note": "American Samoa elects one nonvoting representative to the US House of Representatives; election last held on 4 November 2008 (next to be held in November 2010); results - Eni F. H. FALEOMAVAEGA reelected as delegate",
+    "Judicial branch": {
+      "text": "High Court (chief justice and associate justices are appointed by the US Secretary of the Interior)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party [Oreta M. TOGAFAU]; Republican Party [Tautai A. F. FAALEVAO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Population Pressure LAS (addresses the growing population pressures)"
+    },
+    "International organization participation": {
+      "text": "Interpol (subbureau), IOC, SPC, UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (territory of the US)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (territory of the US)"
+    },
+    "Flag description": {
+      "text": "blue, with a white triangle edged in red that is based on the fly side and extends to the hoist side; a brown and white American bald eagle flying toward the hoist side is carrying two traditional Samoan symbols of authority, a war club known as a \"Fa'alaufa'i\" (upper; left talon), and a coconut fiber fly whisk known as a \"Fue\" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the United States and American Samoa"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "American Samoa has a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and tuna processing plants are the backbone of the private sector, with canned tuna the primary export. Transfers from the US Government add substantially to American Samoa's economic well being. Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism is a promising developing sector."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$510.1 million (2003 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$462.2 million (2005)"
+    },
+    "GDP - real growth rate": {
+      "text": "3% (2003)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$5,800 (2005 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "17,630 (2005)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "34%"
+      },
+      "industry": {
+        "text": "33%"
+      },
+      "services": {
+        "text": "33% (1990)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "29.8% (2005)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$155.4 million (37% in local revenue and 63% in US grants)"
+      },
+      "expenditures": {
+        "text": "$183.6 million (FY07)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "NA%"
+    },
+    "Agriculture - products": {
+      "text": "bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock"
+    },
+    "Industries": {
+      "text": "tuna canneries (largely supplied by foreign fishing vessels), handicrafts"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "185 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "172.1 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "4,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,140 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$445.6 million (FY04 est.)"
+    },
+    "Exports - commodities": {
+      "text": "canned tuna 93% (2004 est.)"
+    },
+    "Imports": {
+      "text": "$308.8 million (FY04 est.)"
+    },
+    "Imports - commodities": {
+      "text": "materials for canneries 56%, food 8%, petroleum products 7%, machinery and parts 6% (2004 est.)"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "10,400 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2,200 (2004)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "NA"
+      },
+      "domestic": {
+        "text": "good telex, telegraph, facsimile, and cellular telephone services; domestic satellite system with 1 Comsat earth station"
+      },
+      "international": {
+        "text": "country code - 1-684; satellite earth station - 1 (Intelsat-Pacific Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 3, shortwave 0 (2005)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (2006)"
+    },
+    "Internet country code": {
+      "text": ".as"
+    },
+    "Internet hosts": {
+      "text": "1,606 (2009)"
+    },
+    "Internet users": {
+      "text": "NA"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "3 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "3"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "221 km (2007)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Pago Pago"
+    }
+  },
+  "Military": {
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "13,875 "
+      },
+      "females age 16-49": {
+        "text": "13,517 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "820"
+      },
+      "female": {
+        "text": "802 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Tokelau periodically asserts claims to American Samoa's Swains Island (Olohega), such as in its 2006 draft independence constitution"
+    }
+  }
+}

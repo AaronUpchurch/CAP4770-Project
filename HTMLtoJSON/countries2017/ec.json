@@ -1,0 +1,911 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty - New Granada (Colombia), Venezuela, and Quito - gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew in 1830, the traditional name was changed in favor of the \"Republic of the Equator.\" Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador marked 30 years of civilian governance in 2004, the period was marred by political instability. Protests in Quito contributed to the mid-term ouster of three of Ecuador's last four democratically elected presidents. In late 2008, voters approved a new constitution, Ecuador's 20th since gaining independence. General elections were held in February 2013, and voters reelected President Rafael CORREA."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Western South America, bordering the Pacific Ocean at the Equator, between Colombia and Peru"
+    },
+    "Geographic coordinates": {
+      "text": "2 00 S, 77 30 W"
+    },
+    "Map references": {
+      "text": "South America"
+    },
+    "Area": {
+      "total": {
+        "text": "283,561 sq km"
+      },
+      "land": {
+        "text": "276,841 sq km"
+      },
+      "water": {
+        "text": "6,720 sq km"
+      },
+      "note": {
+        "text": "includes Galapagos Islands"
+      },
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Nevada"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,237 km"
+      },
+      "border countries (2)": {
+        "text": "Colombia 708 km, Peru 1,529 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,237 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "200 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm"
+      },
+      "note": {
+        "text": "Ecuador has declared its right to extend its continental shelf to 350nm measured from the baselines of the Galapagos Archipelago"
+      }
+    },
+    "Climate": {
+      "text": "tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands"
+    },
+    "Terrain": {
+      "text": "coastal plain (costa), inter-Andean central highlands (sierra), and flat to rolling eastern jungle (oriente)"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,117 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Chimborazo 6,267 m",
+      "note": {
+        "text": "because the earth is not a perfect sphere and has an equatorial bulge, the highest point on the planet farthest from its center is Mount Chimborazo not Mount Everest, which is merely the highest peak above sea level"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, fish, timber, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "29.7%"
+      },
+      "text": "arable land 4.7%; permanent crops 5.6%; permanent pasture 19.4%",
+      "forest": {
+        "text": "38.9%"
+      },
+      "other": {
+        "text": "31.4% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "15,000 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated"
+    },
+    "Natural hazards": {
+      "text": "frequent earthquakes; landslides; volcanic activity; floods; periodic droughts",
+      "volcanism": {
+        "text": "volcanic activity concentrated along the Andes Mountains; Sangay (5,230 m), which erupted in 2010, is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (1,476 m), a shield volcano that last erupted in 2009, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago"
+      }
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in ecologically sensitive areas of the Amazon Basin and Galapagos Islands"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "Cotopaxi in Andes is highest active volcano in world"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Ecuador"
+      },
+      "conventional short form": {
+        "text": "Ecuador"
+      },
+      "local long form": {
+        "text": "Republica del Ecuador"
+      },
+      "local short form": {
+        "text": "Ecuador"
+      },
+      "etymology": {
+        "text": "the country's position on the globe, straddling the Equator, accounts for its Spanish name"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Quito"
+      },
+      "geographic coordinates": {
+        "text": "0 13 S, 78 30 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe"
+    },
+    "Independence": {
+      "text": "24 May 1822 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day (independence of Quito), 10 August (1809)"
+    },
+    "Constitution": {
+      "text": "many previous; latest approved 20 October 2008; amended 2011, 2015; note - a 2015 constitutional amendment lifting presidential term limits became effective 2017 (2017)"
+    },
+    "Legal system": {
+      "text": "civil law based on the Chilean civil code with modifications; traditional law in indigenous communities"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "3 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18-65 years of age, universal and compulsory; 16-18, over 65, and other eligible voters, voluntary"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Lenin MORENO Garces (since 24 May 2017); Vice President Jorge GLAS Espinel (since 24 May 2013); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Lenin MORENO Garces (since 24 May 2017); Vice President Jorge GLAS Espinel (since 24 May 2013)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 19 February 2017 with a runoff on 2 April 2017 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "Lenin MORENO Garces elected president; percent of vote in second round - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 19 February 2017 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PAIS 39.1%, SUMA 20.1%, PSC 15.9%, IP 3.8%, MUPP 2.7%; seats by party - PAIS 74, SUMA 34, PSC 15, ID 4, MUPP 4, Independents 3, PSP 2, Fuerza Ecuador 1; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "National Court of Justice or Corte Nacional de Justicia (consists of 21 judges including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "justices of National Court of Justice elected by the Judiciary Council, a 9-member independent body of law professionals; judges elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; Constitutional Court judges appointed by the executive, legislative, and Citizen Participation branches of government; judges appointed for 9-year non-renewable terms with one-third of the membership renewed every 3 years"
+      },
+      "subordinate courts": {
+        "text": "Fiscal Tribunal; Election Dispute Settlement Courts, provincial courts (one for each province); cantonal courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Society United for More Action or SUMA [Mauricio RODAS]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN"
+    },
+    "International organization participation": {
+      "text": "CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Francisco Jose BORJA Cevallos (since 18 May 2015)"
+      },
+      "chancery": {
+        "text": "2535 15th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-7200"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-3482"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis, New Haven (CT), New Orleans, New York, Newark (NJ), Phoenix, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Todd C. CHAPMAN (since 14 April 2016)"
+      },
+      "embassy": {
+        "text": "Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito"
+      },
+      "mailing address": {
+        "text": "Avenida Guayacanes N52-205 y Avenida Avigiras"
+      },
+      "telephone": {
+        "text": "[593] (2) 398-5000"
+      },
+      "FAX": {
+        "text": "[593] (2) 398-5100"
+      },
+      "consulate(s) general": {
+        "text": "Guayaquil"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice",
+      "note": {
+        "text": "similar to the flag of Colombia, which is shorter and does not bear a coat of arms"
+      }
+    },
+    "National symbol(s)": {
+      "text": "Andean condor; national colors: yellow, blue, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Salve, Oh Patria!\" (We Salute You, Our Homeland)"
+      },
+      "lyrics/music": {
+        "text": "Juan Leon MERA/Antonio NEUMANE"
+      },
+      "note": {
+        "text": "adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The level of foreign investment in Ecuador continues to be one of the lowest in the region as a result of an unstable regulatory environment, weak rule of law, and the crowding-out effect of public investments. Faced with a 2013 trade deficit of $1.1 billion, Ecuador erected technical barriers to trade in December 2013, causing tensions with its largest trading partners. Ecuador also decriminalized intellectual property rights violations in February 2014. In March, 2015 Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. In 2014, oil output increased slightly and production remained steady in 2015 however the oil price decrease from 2014 onward affected government revenue. Ecuador\u2019s economy fell in to recession in 2015 and remained in recession in 2016. As a result, CORREA cut the budget twice in 2015, and reduced it further in 2016."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$183 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$97.8 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "203"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$11,700 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Gross national saving": {
+      "text": "27.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "62.5%"
+      },
+      "government consumption": {
+        "text": "14.3%"
+      },
+      "investment in fixed capital": {
+        "text": "23.5%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "19.3%"
+      },
+      "imports of goods and services": {
+        "text": "-19.7% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "6.4%"
+      },
+      "industry": {
+        "text": "33.8%"
+      },
+      "services": {
+        "text": "59.7% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "bananas, coffee, cocoa, rice, potatoes, cassava (manioc, tapioca), plantains, sugarcane; cattle, sheep, pigs, beef, pork, dairy products; fish, shrimp; balsa wood"
+    },
+    "Industries": {
+      "text": "petroleum, food processing, textiles, wood products, chemicals"
+    },
+    "Industrial production growth rate": {
+      "text": "-0.7%",
+      "note": {
+        "text": "excludes oil refining (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Labor force": {
+      "text": "7.874 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "27.8%"
+      },
+      "industry": {
+        "text": "17.8%"
+      },
+      "services": {
+        "text": "54.4% (2012)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.3% (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Population below poverty line": {
+      "text": "25.6% (December 2013 est)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.4%"
+      },
+      "highest 10%": {
+        "text": "35.4%"
+      },
+      "note": {
+        "text": "data for urban households only (2012 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.5 (December 2010)",
+      "note": {
+        "text": "data are for urban households"
+      },
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$30.31 billion"
+      },
+      "expenditures": {
+        "text": "$37.63 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "30.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-7.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Public debt": {
+      "text": "30.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "8.68% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.33% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$7.201 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$27.81 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$31.3 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$5.263 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Current account balance": {
+      "text": "$-2.114 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Exports": {
+      "text": "$19.05 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Exports - commodities": {
+      "text": "petroleum, bananas, cut flowers, shrimp, cacao, coffee, wood, fish"
+    },
+    "Exports - partners": {
+      "text": "US 32.3%, Chile 6.8%, Vietnam 6.6%, Peru 5.6%, Colombia 4.8%, Russia 4.6% (2016)"
+    },
+    "Imports": {
+      "text": "$20.7 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Imports - commodities": {
+      "text": "industrial materials, fuels and lubricants, nondurable consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 23%, China 19%, Colombia 8%, Brazil 4.2% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.295 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Debt - external": {
+      "text": "$27.27 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$15.63 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$6.33 billion (31 December 2012 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Exchange rates": {
+      "text": "the US dollar became Ecuador's currency in 2001, 1 (2016 est.), 1 (2015 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "500,000"
+      },
+      "electrification - total population": {
+        "text": "97%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "92% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "24.95 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "22.14 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Electricity - exports": {
+      "text": "46 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Electricity - imports": {
+      "text": "512 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "5.986 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "56.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "39.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "3.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Crude oil - production": {
+      "text": "548,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "400,700 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "8.273 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "146,500 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "274,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "25,940 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "155,700 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Natural gas - production": {
+      "text": "497 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "1.002 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "10.9 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "38 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "2,441,173"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "15 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "13,882,280"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "86 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "elementary fixed-line service but increasingly sophisticated mobile-cellular network"
+      },
+      "domestic": {
+        "text": "fixed-line services provided by multiple telecommunications operators; fixed-line teledensity stands at about 15 per 100 persons; mobile-cellular use has surged and subscribership has reached 85 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 593; landing points for the PAN-AM and South America-1 submarine cables that provide links to the west coast of South America, Panama, Colombia, Venezuela, and extending onward to Aruba and the US Virgin Islands in the Caribbean; satellite earth station - 1 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "multiple TV networks and many local channels, as well as more than 300 radio stations; many TV and radio stations are privately owned; the government owns or controls 5 national TV stations and multiple radio stations; broadcast media required by law to give the government free air time to broadcast programs produced by the state (2007)"
+    },
+    "Internet country code": {
+      "text": ".ec"
+    },
+    "Internet users": {
+      "total": {
+        "text": "8,693,739"
+      },
+      "percent of population": {
+        "text": "54.1% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "59"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "7"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "35"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "5,762,485"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "86,128,720 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HC (2016)"
+    },
+    "Airports": {
+      "text": "432 (2013)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "104"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "18"
+      },
+      "914 to 1,523 m": {
+        "text": "26"
+      },
+      "under 914 m": {
+        "text": "51 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "328"
+      },
+      "914 to 1,523 m": {
+        "text": "37"
+      },
+      "under 914 m": {
+        "text": "291 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "extra heavy crude 527 km; gas 71 km; oil 2,131 km; refined products 1,526 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "965 km"
+      },
+      "narrow gauge": {
+        "text": "965 km 1.067-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "43,670 km"
+      },
+      "paved": {
+        "text": "6,472 km"
+      },
+      "unpaved": {
+        "text": "37,198 km (2007)"
+      },
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Waterways": {
+      "text": "1,500 km (most inaccessible) (2012)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "44"
+      },
+      "by type": {
+        "text": "cargo 1, chemical tanker 4, liquefied gas 1, passenger 9, petroleum tanker 28, refrigerated cargo 1"
+      },
+      "registered in other countries": {
+        "text": "4 (Panama 3, Peru 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Esmeraldas, Manta, Puerto Bolivar"
+      },
+      "river port(s)": {
+        "text": "Guayaquil (Guayas)"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Guayaquil (1,405,762)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "2.95% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Military branches": {
+      "text": "Ecuadorian Armed Forces: Ecuadorian Land Force (Fuerza Terrestre Ecuatoriana, FTE), Ecuadorian Navy (Fuerza Naval del Ecuador, FNE, includes Naval Infantry, Naval Aviation, Coast Guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for selective conscript military service; conscription has been suspended; 18 years of age for voluntary military service; Air Force 18-22 years of age, Ecuadorian birth requirement; 1-year service obligation (2012)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau continues to report the territorial and offshore waters as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; after several years with no incident, in January 2017 a ship anchored in the port of Quayaquil was boarded and robbed"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border, which thousands of Colombians also cross to escape the violence in their home country"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "101,161 (Colombia) (2016)"
+      },
+      "IDPs": {
+        "text": "11,137 (earthquake April 2016) (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "significant transit country for cocaine originating in Colombia and Peru, with much of the US-bound cocaine passing through Ecuadorian Pacific waters; importer of precursor chemicals used in production of illicit narcotics; attractive location for cash-placement by drug traffickers laundering money because of dollarization and weak anti-money-laundering regime; increased activity on the northern frontier by trafficking groups and Colombian insurgents"
+    }
+  }
+}

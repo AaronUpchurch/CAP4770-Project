@@ -1,0 +1,683 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The former French colony of Ubangi-Shari became the Central African Republic upon independence in 1960. After three tumultuous decades of misrule - mostly by military governments - civilian rule was established in 1993 and lasted for one decade. President Ange-Felix PATASSE's civilian government was plagued by unrest, and in March 2003 he was deposed in a military coup led by General Francois BOZIZE, who established a transitional government. Though the government has the tacit support of civil society groups and the main parties, a wide field of candidates contested the municipal, legislative, and presidential elections held in March and May of 2005 in which General BOZIZE was affirmed as president. The government still does not fully control the countryside, where pockets of lawlessness persist. Unrest in neighboring nations, Chad, Sudan, and the DRC, continues to affect stability in the Central African Republic as well."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Africa, north of Democratic Republic of the Congo"
+    },
+    "Geographic coordinates": {
+      "text": "7 00 N, 21 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "622,984 sq km"
+      },
+      "land": {
+        "text": "622,984 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,203 km"
+      },
+      "border countries": {
+        "text": "Cameroon 797 km, Chad 1,197 km, Democratic Republic of the Congo 1,577 km, Republic of the Congo 467 km, Sudan 1,165 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; hot, dry winters; mild to hot, wet summers"
+    },
+    "Terrain": {
+      "text": "vast, flat to rolling, monotonous plateau; scattered hills in northeast and southwest"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Oubangui River 335 m"
+      },
+      "highest point": {
+        "text": "Mont Ngaoui 1,420 m"
+      }
+    },
+    "Natural resources": {
+      "text": "diamonds, uranium, timber, gold, oil, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "3.1%"
+      },
+      "permanent crops": {
+        "text": "0.15%"
+      },
+      "other": {
+        "text": "96.75% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "20 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "144.4 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.03  cu km/yr (80%/16%/4%)"
+      },
+      "per capita": {
+        "text": "7  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "hot, dry, dusty harmattan winds affect northern areas; floods are common"
+    },
+    "Environment - current issues": {
+      "text": "tap water is not potable; poaching has diminished the country's reputation as one of the last great wildlife refuges; desertification; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; almost the precise center of Africa"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,511,488",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "animistic beliefs and practices strongly influence the Christian majority",
+    "Age structure": {
+      "0-14 years": {
+        "text": "40.9% (male 928,277/female 917,739)"
+      },
+      "15-64 years": {
+        "text": "55% (male 1,235,940/female 1,244,958)"
+      },
+      "65 years and over": {
+        "text": "4.1% (male 71,439/female 113,135) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.8 years"
+      },
+      "male": {
+        "text": "18.5 years"
+      },
+      "female": {
+        "text": "19.1 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.491% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "32.75 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "17.84 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "39% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.63 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "80.62 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "87.22 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "73.82 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "44.47 years"
+      },
+      "male": {
+        "text": "44.4 years"
+      },
+      "female": {
+        "text": "44.54 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "4.14 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "6.3% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "160,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "11,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "respiratory disease": {
+        "text": "meningococcal meningitis"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Central African(s)"
+      },
+      "adjective": {
+        "text": "Central African"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Baya 33%, Banda 27%, Mandjia 13%, Sara 10%, Mboum 7%, M'Baka 4%, Yakoma 4%, other 2%"
+    },
+    "Religions": {
+      "text": "indigenous beliefs 35%, Protestant 25%, Roman Catholic 25%, Muslim 15%",
+      "note": "animistic beliefs and practices strongly influence the Christian majority"
+    },
+    "Languages": {
+      "text": "French (official), Sangho (lingua franca and national language), tribal languages"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "48.6%"
+      },
+      "male": {
+        "text": "64.8%"
+      },
+      "female": {
+        "text": "33.5% (2000 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "1.4% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Central African Republic "
+      },
+      "conventional short form": {
+        "text": "none"
+      },
+      "local long form": {
+        "text": "Republique Centrafricaine"
+      },
+      "local short form": {
+        "text": "none"
+      },
+      "former": {
+        "text": "Ubangi-Shari, Central African Empire"
+      },
+      "abbreviation": {
+        "text": "CAR"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bangui"
+      },
+      "geographic coordinates": {
+        "text": "4 22 N, 18 35 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 prefectures (prefectures, singular - prefecture), 2 economic prefectures* (prefectures economiques, singular - prefecture economique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga"
+    },
+    "Independence": {
+      "text": "13 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 1 December (1958)"
+    },
+    "Constitution": {
+      "text": "ratified by popular referendum 5 December 2004; effective 27 December 2004"
+    },
+    "Legal system": {
+      "text": "based on French law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Francois BOZIZE (since 15 March 2003 coup)"
+      },
+      "head of government": {
+        "text": "Prime Minister Faustin-Archange TOUADERA (since 22 January 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers"
+      },
+      "elections": {
+        "text": "under the new constitution, the president elected to a five-year term (eligible for a second term); elections last held 13 March and 8 May 2005 (next to be held in 2010); prime minister appointed by the political party with a parliamentary majority"
+      },
+      "election results": {
+        "text": "Francois BOZIZE elected president; percent of second round balloting - Francois BOZIZE (KNK) 64.6%, Martin ZIGUELE (MLPC) 35.4%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Assemblee Nationale (105 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 13 March 2005 and 8 May 2005 (next to be held in 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - KNK 42, MLPC 11, RDC 8, PSD 4, FPP 2, ADP 2, LONDO 1, independents 34, other 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour Supreme; Constitutional Court (three judges appointed by the president, three by the president of the National Assembly, and three by fellow judges); Court of Appeal; Criminal Courts; Inferior Courts"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Democracy and Progress or ADP [Jacques MBOLIEDAS]; Central African Democratic Rally or RDC [Andre KOLINGBA]; Civic Forum or FC [Gen. Timothee MALENDOMA]; Democratic Forum for Modernity or FODEM [Charles MASSI]; Liberal Democratic Party or PLD [Nestor KOMBO-NAGUEMON]; Londo Association or LONDO; Movement for Democracy and Development or MDD [David DACKO]; Movement for the Liberation of the Central African People or MLPC [Ange-Felix PATASSE] (the party of deposed president); National Convergence or KNK; Patriotic Front for Progress or FPP [Abel GOUMBA]; People's Union for the Republic or UPR [Pierre Sammy MAKFOY]; National Unity Party or PUN [Jean-Paul NGOUPANDE]; Social Democratic Party or PSD [Enoch LAKOUE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Monam (combating gender-base violence)"
+    },
+    "International organization participation": {
+      "text": "ACCT, ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ITSO, ITU, ITUC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Emmanuel TOUABOY"
+      },
+      "chancery": {
+        "text": "1618 22nd Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 483-7800"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-9893"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Frederick B. COOK"
+      },
+      "embassy": {
+        "text": "Avenue David Dacko, Bangui"
+      },
+      "mailing address": {
+        "text": "B. P. 924, Bangui"
+      },
+      "telephone": {
+        "text": "[236] 61 02 00"
+      },
+      "FAX": {
+        "text": "[236] 61 44 94"
+      },
+      "note": "the embassy is currently operating with a minimal staff"
+    },
+    "note": "the embassy is currently operating with a minimal staff",
+    "Flag description": {
+      "text": "four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Subsistence agriculture, together with forestry, remains the backbone of the economy of the Central African Republic (CAR), with more than 70% of the population living in outlying areas. The agricultural sector generates more than half of GDP. Timber has accounted for about 16% of export earnings and the diamond industry, for 40%. Important constraints to economic development include the CAR's landlocked position, a poor transportation system, a largely unskilled work force, and a legacy of misdirected macroeconomic policies. Factional fighting between the government and its opponents remains a drag on economic revitalization. Distribution of income is extraordinarily unequal. Grants from France and the international community can only partially meet humanitarian needs."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.004 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "since 1 January 1999, the Central African CFA franc (XAF) has been pegged to the euro at a rate of 655.957 CFA francs per euro; Central African CFA franc (XAF) coins and banknotes are not accepted in countries using West African CFA francs (XOF), and vice versa, even though the two currencies trade at par",
+    "GDP (official exchange rate)": {
+      "text": "$1.997 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "55%"
+      },
+      "industry": {
+        "text": "20%"
+      },
+      "services": {
+        "text": "25% (2001 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "1.926 million (2007)"
+    },
+    "Unemployment rate": {
+      "text": "8% (2001 est.)",
+      "note": "23% unemployment for Bangui"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.1%"
+      },
+      "highest 10%": {
+        "text": "33% (2003)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "61.3 (1993)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$250 million"
+      },
+      "expenditures": {
+        "text": "$273 million (2007 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$218.3 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$47.58 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$320.2 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "timber, cotton, coffee, tobacco, manioc (tapioca), yams, millet, corn, bananas; timber"
+    },
+    "Industries": {
+      "text": "gold and diamond mining, logging, brewing, textiles, footwear, assembly of bicycles and motorcycles"
+    },
+    "Industrial production growth rate": {
+      "text": "3% (2002)"
+    },
+    "Electricity - production": {
+      "text": "115 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "107 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "2,203 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$77 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$146.7 million (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "diamonds, timber, cotton, coffee, tobacco"
+    },
+    "Exports - partners": {
+      "text": "Japan 40.4%, Belgium 9.8%, China 8.2%, Morocco 6%, Indonesia 5.6%, France 4.4%, Italy 4.1%, Democratic Republic of the Congo 4% (2008)"
+    },
+    "Imports": {
+      "text": "$237.3 million (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food, textiles, petroleum products, machinery, electrical equipment, motor vehicles, chemicals, pharmaceuticals"
+    },
+    "Imports - partners": {
+      "text": "South Korea 20.2%, France 13.6%, Cameroon 7.7%, Netherlands 5.8%, US 5.3% (2008)"
+    },
+    "Debt - external": {
+      "text": "$1.153 billion (2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar - 447.81 (2008 est.), 481.8 (2007), 522.59 (2006), 527.47 (2005), 528.29 (2004)",
+      "note": "since 1 January 1999, the Central African CFA franc (XAF) has been pegged to the euro at a rate of 655.957 CFA francs per euro; Central African CFA franc (XAF) coins and banknotes are not accepted in countries using West African CFA francs (XOF), and vice versa, even though the two currencies trade at par"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "12,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "154,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "limited telephone service; fixed-line connections for well less than 1 per 100 persons coupled with mobile-cellular usage of only about 3 per 100 persons; most fixed-line and cellular telephone services are concentrated in Bangui"
+      },
+      "domestic": {
+        "text": "network consists principally of microwave radio relay and low-capacity, low-powered radiotelephone communication"
+      },
+      "international": {
+        "text": "country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 5, shortwave 1 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (2001)"
+    },
+    "Internet country code": {
+      "text": ".cf"
+    },
+    "Internet hosts": {
+      "text": "21 (2009)"
+    },
+    "Internet users": {
+      "text": "19,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "40 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "38"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "17"
+      },
+      "under 914 m": {
+        "text": "8 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "24,307 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "2,800 km (primarily on the Oubangui and Sangha rivers) (2007)"
+    },
+    "Ports and terminals": {
+      "text": "Bangui, Nola, Salo, Nzinga"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Central African Armed Forces (Forces Armees Centrafricaines, FACA)": {
+        "text": "Ground Forces, General Directorate of Gendarmerie Inspection (DGIG), Military Air Service, National Police (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for selective military service; 2-year conscript service obligation (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,032,828"
+      },
+      "females age 16-49": {
+        "text": "999,330 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "552,907"
+      },
+      "females age 16-49": {
+        "text": "512,611 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "55,484"
+      },
+      "female": {
+        "text": "55,168 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.1% of GDP (2006 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "periodic skirmishes over water and grazing rights among related pastoral populations along the border with southern Sudan persist"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "7,900 (Sudan); 3,700 (Democratic Republic of the Congo); note - UNHCR resumed repatriation of Southern Sudanese refugees in 2006"
+      },
+      "IDPs": {
+        "text": "197,000 (ongoing unrest following coup in 2003) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Central African Republic is a source, transit, and destination country for men, women, and children trafficked for the purposes of forced labor and sexual exploitation; the majority of victims are children trafficked within the country for sexual exploitation, domestic servitude, street vending, and forced agricultural, mine, market and restaurant labor; to a lesser extent, children are trafficked from the Central African Republic to Cameroon, Nigeria, and the Democratic Republic of Congo; rebels conscript children into armed forces within the country"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Central African Republic is on the Tier 2 Watch List for the third consecutive year for its failure to show evidence of increasing efforts to combat trafficking in 2007; efforts to address trafficking through vigorous law enforcement measures and victim protection efforts were minimal, though awareness about trafficking appeared to be increasing in the country; the government does not actively investigate cases, work to identify trafficking victims among vulnerable populations, or rescue and provide care to victims; the government has not taken measures to reduce demand for commercial sex acts (2008)"
+      }
+    }
+  }
+}

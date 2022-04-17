@@ -1,0 +1,739 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Following its heyday as a global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of its wealthiest colony of Brazil in 1822. A 1910 revolution deposed the monarchy; for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southwestern Europe, bordering the North Atlantic Ocean, west of Spain"
+    },
+    "Geographic coordinates": {
+      "text": "39 30 N, 8 00 W"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "92,090 sq km"
+      },
+      "land": {
+        "text": "91,470 sq km"
+      },
+      "water": {
+        "text": "620 sq km"
+      },
+      "note": "includes Azores and Madeira Islands"
+    },
+    "note": "includes Azores and Madeira Islands",
+    "Area - comparative": {
+      "text": "slightly smaller than Indiana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,214 km"
+      },
+      "border countries": {
+        "text": "Spain 1,214 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,793 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "maritime temperate; cool and rainy in north, warmer and drier in south"
+    },
+    "Terrain": {
+      "text": "mountainous north of the Tagus River, rolling plains in south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, forests (cork), iron ore, copper, zinc, tin, tungsten, silver, gold, uranium, marble, clay, gypsum, salt, arable land, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "17.29%"
+      },
+      "permanent crops": {
+        "text": "7.84%"
+      },
+      "other": {
+        "text": "74.87% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "6,500 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "73.6 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "11.09  cu km/yr (10%/12%/78%)"
+      },
+      "per capita": {
+        "text": "1,056  cu m/yr (1998)"
+      }
+    },
+    "Natural hazards": {
+      "text": "Azores subject to severe earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "soil erosion; air pollution caused by industrial and vehicle emissions; water pollution, especially in coastal areas"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "Azores and Madeira Islands occupy strategic locations along western sea approaches to Strait of Gibraltar"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "10,707,924 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "16.3% (male 912,147/female 834,941)"
+      },
+      "15-64 years": {
+        "text": "66.1% (male 3,525,717/female 3,554,513)"
+      },
+      "65 years and over": {
+        "text": "17.6% (male 772,413/female 1,108,193) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "39.4 years"
+      },
+      "male": {
+        "text": "37.3 years"
+      },
+      "female": {
+        "text": "41.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.275% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "10.29 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "10.68 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "3.14 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "59% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.07 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.09 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.7 male(s)/female"
+      },
+      "total population": {
+        "text": "0.95 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.78 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.24 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.29 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "78.21 years"
+      },
+      "male": {
+        "text": "74.95 years"
+      },
+      "female": {
+        "text": "81.69 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.49 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.5% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "34,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Portuguese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Portuguese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "homogeneous Mediterranean stock; citizens of black African descent who immigrated to mainland during decolonization number less than 100,000; since 1990 East Europeans have entered Portugal"
+    },
+    "Religions": {
+      "text": "Roman Catholic 84.5%, other Christian 2.2%, other 0.3%, unknown 9%, none 3.9% (2001 census)"
+    },
+    "Languages": {
+      "text": "Portuguese (official), Mirandese (official - but locally used)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "93.3%"
+      },
+      "male": {
+        "text": "95.5%"
+      },
+      "female": {
+        "text": "91.3% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "15 years"
+      },
+      "female": {
+        "text": "16 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.5% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Portuguese Republic "
+      },
+      "conventional short form": {
+        "text": "Portugal"
+      },
+      "local long form": {
+        "text": "Republica Portuguesa"
+      },
+      "local short form": {
+        "text": "Portugal"
+      }
+    },
+    "Government type": {
+      "text": "republic; parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lisbon"
+      },
+      "geographic coordinates": {
+        "text": "38 43 N, 9 08 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu"
+    },
+    "Independence": {
+      "text": "1143 (Kingdom of Portugal recognized); 5 October 1910 (republic proclaimed)"
+    },
+    "National holiday": {
+      "text": "Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis de Camoes (1524-80) died"
+    },
+    "Constitution": {
+      "text": "adopted 2 April 1976; subsequently revised",
+      "note": "the revisions placed the military under strict civilian control, trimmed the powers of the president, and laid the groundwork for a stable, pluralistic liberal democracy; and they allowed for the privatization of nationalized firms and the government-owned communications media"
+    },
+    "note": "there is also a Council of State that acts as a consultative body to the president",
+    "Legal system": {
+      "text": "based on civil law system; the Constitutional Tribunal reviews the constitutionality of legislation; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Anibal CAVACO SILVA (since 9 March 2006)"
+      },
+      "head of government": {
+        "text": "Prime Minister Jose SOCRATES Carvalho Pinto de Sousa (since 12 March 2005)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the recommendation of the prime minister"
+      },
+      "note": "there is also a Council of State that acts as a consultative body to the president",
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held 22 January 2006 (next to be held in January 2011); following legislative elections, the leader of the majority party or leader of a majority coalition is usually appointed prime minister by the president"
+      },
+      "election results": {
+        "text": "Anibal CAVACO SILVA elected president; percent of vote - Anibal CAVACO SILVA 50.6%, Manuel ALEGRE 20.7%, Mario Alberto Nobre Lopes SOARES 14.3%, Jeronimo DE SOUSA 8.5%, Franciso LOUCA 5.3%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Assembly of the Republic or Assembleia da Republica (230 seats; members are elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held 27 September 2009 (next to be held in fall 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PS 37.7%, PSD 30%, CDS/PP 10.8%, BE 10.2%, CDU 8.1%, other 3.2%; seats by party - PS 96, PSD 78, CDS/PP 21, BE 16, CDU 15"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (Supremo Tribunal de Justica); judges appointed for life by the Conselho Superior da Magistratura"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic and Social Center/Popular Party or CDS/PP [Paulo PORTAS]; Green Ecologist Party (The Greens) or PEV [leadership commission elected by members]; Portuguese Communist Party or PCP [Jeronimo DE SOUSA]; Portuguese Socialist Party or PS [Jose SOCRATES Carvalho Pinto de Sousa]; Social Democratic Party or PSD [Manuela FERREIRA LEITE]; The Left Bloc or BE [Franciso Anacleto LOUCA]; Unitarian Democratic Coalition or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "the media; labor unions"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CE, CERN, CPLP, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAIA (observer), MIGA, MINURCAT, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, SECI (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMIT, UNWTO, UPU, WCL, WCO, WEU, WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Joao DE VALLERA"
+      },
+      "chancery": {
+        "text": "2012 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 328-8610"
+      },
+      "FAX": {
+        "text": "[1] (202) 462-3726"
+      },
+      "consulate(s) general": {
+        "text": "Boston, New York, Newark (New Jersey), San Francisco"
+      },
+      "consulate(s)": {
+        "text": "New Bedford (Massachusetts), Providence (Rhode Island)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Thomas F. STEPHENSON"
+      },
+      "embassy": {
+        "text": "Avenida das Forcas Armadas, 1600-081 Lisbon"
+      },
+      "mailing address": {
+        "text": "Apartado 43033, 1601-301 Lisboa; PSC 83, APO AE 09726"
+      },
+      "telephone": {
+        "text": "[351] (21) 727-3300"
+      },
+      "FAX": {
+        "text": "[351] (21) 726-9109"
+      },
+      "consulate(s)": {
+        "text": "Ponta Delgada (Azores)"
+      }
+    },
+    "Flag description": {
+      "text": "two vertical bands of green (hoist side, two-fifths) and red (three-fifths) with the Portuguese coat of arms centered on the dividing line"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Portugal has become a diversified and increasingly service-based economy since joining the European Community in 1986. Over the past two decades, successive governments have privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country qualified for the European Monetary Union (EMU) in 1998 and began circulating the euro on 1 January 2002 along with 11 other EU member economies. Economic growth had been above the EU average for much of the 1990s, but fell back in 2001-08. GDP per capita stands at roughly two-thirds of the EU-27 average. A poor educational system, in particular, has been an obstacle to greater productivity and growth. Portugal has been increasingly overshadowed by lower-cost producers in Central Europe and Asia as a target for foreign direct investment. The budget deficit surged to an all-time high of 6% of GDP in 2005, but the government reduced the deficit to 2.6% in 2007 - a year ahead of Portugal's targeted schedule. Nonetheless, the government faces tough choices in its attempts to boost the economy, which declined 0.1% in 2008, while keeping the budget deficit within the euro-zone 3%-of-GDP ceiling."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$232.9 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$244.6 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$22,000 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.8%"
+      },
+      "industry": {
+        "text": "25%"
+      },
+      "services": {
+        "text": "72.2% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "5.625 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "10%"
+      },
+      "industry": {
+        "text": "30%"
+      },
+      "services": {
+        "text": "60% (2007 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "18% (2006)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.1%"
+      },
+      "highest 10%": {
+        "text": "28.4% (1995 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.6 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "21.7% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$105.5 billion"
+      },
+      "expenditures": {
+        "text": "$111.9 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "61.5% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2007)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.92% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders"
+    },
+    "Stock of quasi money": {
+      "text": "$NA"
+    },
+    "Stock of domestic credit": {
+      "text": "$412.7 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$104.2 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "grain, potatoes, tomatoes, olives, grapes; sheep, cattle, goats, swine, poultry, dairy products; fish"
+    },
+    "Industries": {
+      "text": "textiles, clothing, footwear, wood and cork, paper, chemicals, auto-parts manufacturing, base metals, diary products, wine and other foods, porcelain and ceramics, glassware, technology, telecommunications; ship construction and refurbishment; tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "-2.2% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "44.47 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "48.78 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.313 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "10.74 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "7,861 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "291,700 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "53,260 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "351,100 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "4.754 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "4.763 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$21.18 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$51.81 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "agricultural products, food products, oil products, chemical products, plastics and rubber, skins and leather, wood and cork, wood pulp and paper, textile materials, clothing, footwear, minerals and mineral products, base metals, machinery and tools, vehicles and other transport material, and optical and precision instruments"
+    },
+    "Exports - partners": {
+      "text": "Spain 25.7%, Germany 12.7%, France 11.1%, Angola 5.9%, UK 5.3% (2008)"
+    },
+    "Imports": {
+      "text": "$75.98 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "agricultural products, food products, oil products, chemical products, plastics and rubber, skins and leather, wood and cork, wood pulp and paper, textile materials, clothing, footwear, minerals and mineral products, base metals, machinery and tools, vehicles and other transport material, and optical and precision instruments, computer accessories and parts, semi-conductors and related devices, household goods, passenger cars new and used, and wine products"
+    },
+    "Imports - partners": {
+      "text": "Spain 28.9%, Germany 11.6%, France 8%, Italy 4.9%, Netherlands 4.4% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$11.55 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$483.9 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$114.2 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$69.24 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6827 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "4.121 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "14.91 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Portugal's telephone system has a state-of-the-art network with broadband, high-speed capabilities"
+      },
+      "domestic": {
+        "text": "integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations"
+      },
+      "international": {
+        "text": "country code - 351; a combination of submarine cables provide connectivity to Europe, North and East Africa, South Africa, the Middle East, Asia, and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 63, shortwave 1 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "42 (2008)"
+    },
+    "Internet country code": {
+      "text": ".pt"
+    },
+    "Internet hosts": {
+      "text": "1.967 million (2009)"
+    },
+    "Internet users": {
+      "text": "4.476 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "65 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "43"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "13"
+      },
+      "under 914 m": {
+        "text": "11 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "22"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "21 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 1,098 km; oil 11 km; refined products 188 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,786 km"
+      },
+      "broad gauge": {
+        "text": "2,603 km 1.668-m gauge (1,351 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "183 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "82,900 km"
+      },
+      "paved": {
+        "text": "71,294 km (includes 2,300 km of expressways)"
+      },
+      "unpaved": {
+        "text": "11,606 km (2005)"
+      }
+    },
+    "Waterways": {
+      "text": "210 km (on Douro River from Porto) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "117"
+      },
+      "by type": {
+        "text": "bulk carrier 10, cargo 36, carrier 1, chemical tanker 15, container 6, liquefied gas 9, passenger 10, passenger/cargo 9, petroleum tanker 4, roll on/roll off 1, specialized tanker 1, vehicle carrier 15"
+      },
+      "foreign-owned": {
+        "text": "84 (Bahamas 1, Belgium 8, Denmark 3, Germany 20, Greece 4, Hong Kong 2, Italy 12, Japan 15, Mexico 1, Netherlands 1, Spain 11, Sweden 3, Switzerland 2, US 1)"
+      },
+      "registered in other countries": {
+        "text": "15 (Cyprus 1, Hong Kong 1, Italy 1, Malta 3, Panama 9) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Leixoes, Lisbon, Setubal, Sines"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Portuguese Army (Exercito Portugues), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; compulsory military service ended in 2004; women serve in the armed forces, on naval ships since 1993, but are prohibited from serving in some combatant specialties; reserve obligation to age 35 (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,573,913"
+      },
+      "females age 16-49": {
+        "text": "2,498,262 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,103,558"
+      },
+      "females age 16-49": {
+        "text": "2,049,032 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "64,047"
+      },
+      "female": {
+        "text": "57,630 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.3% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
+    },
+    "Illicit drugs": {
+      "text": "seizing record amounts of Latin American cocaine destined for Europe; a European gateway for Southwest Asian heroin; transshipment point for hashish from North Africa to Europe; consumer of Southwest Asian heroin"
+    }
+  }
+}

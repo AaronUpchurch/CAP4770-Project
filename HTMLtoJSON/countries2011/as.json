@@ -1,0 +1,810 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Aboriginal settlers arrived on the continent from Southeast Asia about 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the British effort in World Wars I and II. In recent decades, Australia has transformed itself into an internationally competitive, advanced market economy. It boasted one of the OECD's fastest growing economies during the 1990s, a performance due in large part to economic reforms adopted in the 1980s. Long-term concerns include ageing of the population, pressure on infrastructure, and environmental issues such as frequent droughts."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, continent between the Indian Ocean and the South Pacific Ocean"
+    },
+    "Geographic coordinates": {
+      "text": "27 00 S, 133 00 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "7,741,220 sq km"
+      },
+      "land": {
+        "text": "7,682,300 sq km"
+      },
+      "water": {
+        "text": "58,920 sq km"
+      },
+      "note": "includes Lord Howe Island and Macquarie Island"
+    },
+    "note": "Australia is the world's largest net exporter of coal accounting for 29% of global coal exports",
+    "Area - comparative": {
+      "text": "slightly smaller than the US contiguous 48 states"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "25,760 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "generally arid to semiarid; temperate in south and east; tropical in north"
+    },
+    "Terrain": {
+      "text": "mostly low plateau with deserts; fertile plain in southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Lake Eyre -15 m"
+      },
+      "highest point": {
+        "text": "Mount Kosciuszko 2,229 m"
+      }
+    },
+    "Natural resources": {
+      "text": "bauxite, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum",
+      "note": "Australia is the world's largest net exporter of coal accounting for 29% of global coal exports"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "6.15% (includes about 27 million hectares of cultivated grassland)"
+      },
+      "permanent crops": {
+        "text": "0.04%"
+      },
+      "other": {
+        "text": "93.81% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "25,500 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "398 cu km (1995)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "24.06  cu km/yr (15%/10%/75%)"
+      },
+      "per capita": {
+        "text": "1,193  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "cyclones along the coast; severe droughts; forest fires",
+      "volcanism": {
+        "text": "volcanic activity occurs on the Heard and McDonald Islands"
+      }
+    },
+    "Environment - current issues": {
+      "text": "soil erosion from overgrazing, industrial development, urbanization, and poor farming practices; soil salinity rising due to the use of poor quality water; desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; limited natural freshwater resources"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "world's smallest continent but sixth-largest country; population concentrated along the eastern and southeastern coasts; the invigorating sea breeze known as the \"Fremantle Doctor\" affects the city of Perth on the west coast and is one of the most consistent winds in the world"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Australian(s) "
+      },
+      "adjective": {
+        "text": "Australian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "white 92%, Asian 7%, aboriginal and other 1%"
+    },
+    "Languages": {
+      "text": "English 78.5%, Chinese 2.5%, Italian 1.6%, Greek 1.3%, Arabic 1.2%, Vietnamese 1%, other 8.2%, unspecified 5.7% (2006 Census)"
+    },
+    "Religions": {
+      "text": "Protestant 27.4% (Anglican 18.7%, Uniting Church 5.7%, Presbyterian and Reformed 3%), Catholic 25.8%, Eastern Orthodox 2.7%, other Christian 7.9%, Buddhist 2.1%, Muslim 1.7%, other 2.4%, unspecified 11.3%, none 18.7% (2006 Census)"
+    },
+    "Population": {
+      "text": "21,766,711 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "18.3% (male 2,040,848/female 1,937,544)"
+      },
+      "15-64 years": {
+        "text": "67.7% (male 7,469,092/female 7,266,143)"
+      },
+      "65 years and over": {
+        "text": "14% (male 1,398,576/female 1,654,508) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "37.7 years"
+      },
+      "male": {
+        "text": "37 years"
+      },
+      "female": {
+        "text": "38.4 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.148% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "12.33 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "6.88 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "6.03 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "89% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.2% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "Sydney 4.429 million; Melbourne 3.853 million; Brisbane 1.97 million; Perth 1.599 million; CANBERRA (capital) 384,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.055 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.84 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "8 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.61 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "4.93 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.27 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "81.81 years"
+      },
+      "male": {
+        "text": "79.4 years"
+      },
+      "female": {
+        "text": "84.35 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.78 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "8.5% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "2.991 physicians/1,000 population (2009)"
+    },
+    "Hospital bed density": {
+      "text": "3.82 beds/1,000 population (2009)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "20,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "16.4% (2005)"
+    },
+    "Education expenditures": {
+      "text": "4.5% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "21 years"
+      },
+      "male": {
+        "text": "20 years"
+      },
+      "female": {
+        "text": "21 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "11.6%"
+      },
+      "male": {
+        "text": "12.6%"
+      },
+      "female": {
+        "text": "10.4% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Commonwealth of Australia "
+      },
+      "conventional short form": {
+        "text": "Australia"
+      }
+    },
+    "Government type": {
+      "text": "federal parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Canberra"
+      },
+      "geographic coordinates": {
+        "text": "35 17 S, 149 13 E"
+      },
+      "time difference": {
+        "text": "UTC+10 (15 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in October; ends first Sunday in April"
+      },
+      "note": "Australia is divided into three time zones"
+    },
+    "note": "adopted 1984; although originally written in the late 19th century, the anthem did not become used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" is also played at Royal functions (see United Kingdom)",
+    "Administrative divisions": {
+      "text": "6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia"
+    },
+    "Dependent areas": {
+      "text": "Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Macquarie Island, Norfolk Island"
+    },
+    "Independence": {
+      "text": "1 January 1901 (from the federation of UK colonies)"
+    },
+    "National holiday": {
+      "text": "Australia Day, 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)"
+    },
+    "Constitution": {
+      "text": "9 July 1900; effective 1 January 1901"
+    },
+    "Legal system": {
+      "text": "common law system based on the English model"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen of Australia ELIZABETH II (since 6 February 1952); represented by Governor General Quentin BRYCE (since 5 September 2008)"
+      },
+      "head of government": {
+        "text": "Prime Minister Julia Eileen GILLARD (since 24 June 2010); Deputy Prime Minister Wayne Maxwell SWAN (since 24 June 2010)"
+      },
+      "cabinet": {
+        "text": "prime minister nominates, from among members of Parliament, candidates who are subsequently sworn in by the governor general to serve as government ministers"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or leader of a majority coalition is sworn in as prime minister by the governor general"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Federal Parliament consists of the Senate (76 seats; 12 members from each of the six states and 2 from each of the two mainland territories; one-half of state members are elected every three years by popular vote to serve six-year terms while all territory members are elected every three years) and the House of Representatives (150 seats; members elected by popular vote to serve terms of up to three-years; no state can have fewer than 5 representatives)",
+      "elections": {
+        "text": "Senate - last held on 21 August 2010; House of Representatives - last held on 21 August 2010 (the latest a simultaneous half-Senate and House of Representative elections can be held is 30 November 2013)"
+      },
+      "election results": {
+        "text": "Senate (effective 1 July 2011) - percent of vote by party - NA; seats by party - Liberal/National Party 34, Australian Labor Party 31, Greens 9, others 2; House of Representatives - percent of vote by party - Australian Labor Party 38.1%, Liberal Party 30.4%, Greens 11.5%, Liberal National Party of Queensland 9.3%, independents 6.6%, The Nationals 3.7%, Country Liberals 0.3%; seats by party - Australian Labor Party 72, Liberal Party 44, Liberal National Party of Queensland 21, The Nationals 7, Country Liberals 1, Greens 1, independents 4"
+      }
+    },
+    "Judicial branch": {
+      "text": "High Court (the chief justice and six other justices are appointed by the governor general acting on the advice of the government)"
+    },
+    "Political parties and leaders": {
+      "text": "Australian Greens [Bob BROWN]; Australian Labor Party [Julia GILLARD]; Family First Party [Steve FIELDING]; Liberal Party [Tony ABBOTT]; The Nationals [Warren TRUSS]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "business groups; environmental groups; social groups; trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CP, EAS, EBRD, FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Paris Club, PCA, PIF, SAARC (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Kim Christian BEAZLEY"
+      },
+      "chancery": {
+        "text": "1601 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 797-3000"
+      },
+      "FAX": {
+        "text": "[1] (202) 797-3168"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Honolulu, Los Angeles, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Jeffrey L. BLEICH"
+      },
+      "embassy": {
+        "text": "Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600"
+      },
+      "mailing address": {
+        "text": "APO AP 96549"
+      },
+      "telephone": {
+        "text": "[61] (02) 6214-5600"
+      },
+      "FAX": {
+        "text": "[61] (02) 6214-5970"
+      },
+      "consulate(s) general": {
+        "text": "Melbourne, Perth, Sydney"
+      }
+    },
+    "Flag description": {
+      "text": "blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small five-pointed star and four larger, seven-pointed stars"
+    },
+    "National symbol(s)": {
+      "text": "Southern Cross constellation (five, seven-pointed stars); kangaroo; emu"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Advance Australia Fair\""
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Peter Dodds McCORMICK"
+      },
+      "note": "adopted 1984; although originally written in the late 19th century, the anthem did not become used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" is also played at Royal functions (see United Kingdom)"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron ore, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas project, will significantly expand the resources sector. Australia also has a large services sector and is a significant exporter of natural resources, energy, and food. Key tenets of Australia's trade policy include support for open trade and the successful culmination of the Doha Round of multilateral trade negotiations, particularly for agriculture and services. The Australian economy grew for 17 consecutive years before the global financial crisis. Subsequently, the Rudd government introduced a fiscal stimulus package worth over US$50 billion to offset the effect of the slowing world economy, while the Reserve Bank of Australia cut interest rates to historic lows. These policies - and continued demand for commodities, especially from China - helped the Australian economy rebound after just one quarter of negative growth. The economy grew by 1.2% during 2009 - the best performance in the OECD - and by 3.3% in 2010. Unemployment, originally expected to reach 8-10%, peaked at 5.7% in late 2009 and fell to 5.1% in 2010. As a result of an improved economy, the budget deficit is expected to peak below 4.2% of GDP and the government could return to budget surpluses as early as 2015. Australia was one of the first advanced economies to raise interest rates, with seven rate hikes between October 2009 and November 2010. The GILLARD government is focused on raising Australia's economic productivity to ensure the sustainability of growth, and continues to manage the symbiotic, but sometimes tense, economic relationship with China. Australia is engaged in the Trans-Pacific Partnership talks and ongoing free trade agreement negotiations with China, Japan, and Korea."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$847.5 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "this is the Reserve Bank of Australia's \"cash rate target,\" or policy rate",
+    "GDP (official exchange rate)": {
+      "text": "$1.236 trillion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.6% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$40,300 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.9%"
+      },
+      "industry": {
+        "text": "25.5%"
+      },
+      "services": {
+        "text": "70.6% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "11.87 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "3.6%"
+      },
+      "industry": {
+        "text": "21.1%"
+      },
+      "services": {
+        "text": "75% (2009 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.6% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2%"
+      },
+      "highest 10%": {
+        "text": "25.4% (1994)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.2 (1994)"
+    },
+    "Investment (gross fixed)": {
+      "text": "27.4% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$399 billion"
+      },
+      "expenditures": {
+        "text": "$441.2 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "32.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.4% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "22.6% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.8% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3.28% (31 December 2009 est.)",
+      "note": "this is the Reserve Bank of Australia's \"cash rate target,\" or policy rate"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.021% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$334.5 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$1.123 trillion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.618 trillion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$675.6 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, sugarcane, fruits; cattle, sheep, poultry"
+    },
+    "Industries": {
+      "text": "mining, industrial and transportation equipment, food processing, chemicals, steel"
+    },
+    "Industrial production growth rate": {
+      "text": "4.5% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "232 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "225.4 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "549,200 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "960,800 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "312,600 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "731,400 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "3.318 billion bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "45.11 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "26.41 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "24.7 billion cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "5.99 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "3.115 trillion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$43.89 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$154.8 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coal, iron ore, gold, meat, wool, alumina, wheat, machinery and transport equipment"
+    },
+    "Exports - partners": {
+      "text": "China 25.1%, Japan 18.9%, South Korea 8.9%, India 7.1%, US 4% (2010)"
+    },
+    "Imports": {
+      "text": "$159 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, computers and office machines, telecommunication equipment and parts; crude oil and petroleum products"
+    },
+    "Imports - partners": {
+      "text": "China 18.7%, US 11.1%, Japan 8.7%, Thailand 5.2%, Singapore 5.1%, Germany 5%, Malaysia 4.3% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$41.74 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.265 trillion (31 December 2010 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$425.8 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$338.7 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "1.3285 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "8.66 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "22.5 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent domestic and international service"
+      },
+      "domestic": {
+        "text": "domestic satellite system; significant use of radiotelephone in areas of low population density; rapid growth of mobile telephones"
+      },
+      "international": {
+        "text": "country code - 61; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the Southern Cross fiber optic submarine cable provides links to New Zealand and the United States; satellite earth stations - 19 (10 Intelsat - 4 Indian Ocean and 6 Pacific Ocean, 2 Inmarsat - Indian and Pacific Ocean regions, 2 Globalstar, 5 other) (2007)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2008)"
+    },
+    "Internet country code": {
+      "text": ".au"
+    },
+    "Internet hosts": {
+      "text": "13.361 million (2010)"
+    },
+    "Internet users": {
+      "text": "15.81 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "465 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "326"
+      },
+      "over 3,047 m": {
+        "text": "11"
+      },
+      "2,438 to 3,047 m": {
+        "text": "13"
+      },
+      "1,524 to 2,437 m": {
+        "text": "148"
+      },
+      "914 to 1,523 m": {
+        "text": "140"
+      },
+      "under 914 m": {
+        "text": "14 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "139"
+      },
+      "1,524 to 2,437 m": {
+        "text": "17"
+      },
+      "914 to 1,523 m": {
+        "text": "110"
+      },
+      "under 914 m": {
+        "text": "12 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2010)"
+    },
+    "Pipelines": {
+      "text": "gas 27,900 km; liquid petroleum gas 240 km; oil 3,257 km; oil/gas/water 1 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "38,445 km"
+      },
+      "broad gauge": {
+        "text": "3,355 km 1.600-m gauge"
+      },
+      "standard gauge": {
+        "text": "21,674 km 1.435-m gauge (650 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "9,539 km 1.067-m gauge (2,067 km electrified); 3,877 km 1.000-m gauge (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "818,356 km (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2006)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "45"
+      },
+      "by type": {
+        "text": "bulk carrier 10, cargo 8, liquefied gas 4, passenger 6, passenger/cargo 6, petroleum tanker 6, roll on/roll off 5"
+      },
+      "foreign-owned": {
+        "text": "20 (Canada 7, Germany 2, Netherlands 1, Norway 1, Singapore 2, UK 5, US 2)"
+      },
+      "registered in other countries": {
+        "text": "29 (Dominica 1, Fiji 2, Liberia 2, Marshall Islands 1, Netherlands 1, NZ 1, Panama 5, Singapore 11, Tonga 1, UK 1, US 1, Vanuatu 2) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Brisbane, Cairns, Dampier, Darwin, Fremantle, Gladstone, Geelong, Hay Point, Hobart, Jervis Bay, Melbourne, Newcastle, Port Adelaide, Port Dalrymple, Port Hedland, Port Kembla, Port Lincoln, Port Walcott, Sydney"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Australian Defense Force (ADF)": {
+        "text": "Australian Army, Royal Australian Navy, Royal Australian Air Force, Special Operations Command (2006)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17 years of age for voluntary military service (with parental consent); no conscription; women allowed to serve in Army combat units in non-combat support roles (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,316,464"
+      },
+      "females age 16-49": {
+        "text": "5,116,722 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,411,958"
+      },
+      "females age 16-49": {
+        "text": "4,239,985 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "143,565"
+      },
+      "female": {
+        "text": "135,800 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "In 2007, Australia and Timor-Leste signed agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to Commission on the Limits of the Continental Shelf (CLCS) extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed exclusive economic zone; a 1997 treaty between Indonesia and Australia settled some parts of their maritime boundary but some outstanding issues, especially around Timor Leste, remain; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing"
+    },
+    "Illicit drugs": {
+      "text": "Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines\r\n"
+    }
+  }
+}

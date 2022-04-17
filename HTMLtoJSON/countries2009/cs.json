@@ -1,0 +1,736 @@
+{
+  "Introduction": {
+    "Background": {
+      "Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including": {
+        "text": "disease from mosquito-infested swamps, brutal heat, resistance by natives, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two and a half centuries. In 1821, Costa Rica became one of several Central American provinces that jointly declared their independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence. Since the late 19th century, only two brief periods of violence have marred the country's democratic development. Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries. The standard of living is relatively high. Land ownership is widespread. In January 2008, Costa Rica assumed a nonpermanent seat on the UN Security Council for the 2008-09 term."
+      }
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Nicaragua and Panama"
+    },
+    "Geographic coordinates": {
+      "text": "10 00 N, 84 00 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "51,100 sq km"
+      },
+      "land": {
+        "text": "51,060 sq km"
+      },
+      "water": {
+        "text": "40 sq km"
+      },
+      "note": "includes Isla del Coco"
+    },
+    "note": "includes Isla del Coco",
+    "Area - comparative": {
+      "text": "slightly smaller than West Virginia"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "639 km"
+      },
+      "border countries": {
+        "text": "Nicaragua 309 km, Panama 330 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,290 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands"
+    },
+    "Terrain": {
+      "text": "coastal plains separated by rugged mountains including over 100 volcanic cones, of which several are major volcanoes"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Cerro Chirripo 3,810 m"
+      }
+    },
+    "Natural resources": {
+      "text": "hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "4.4%"
+      },
+      "permanent crops": {
+        "text": "5.87%"
+      },
+      "other": {
+        "text": "89.73% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,080 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "112.4 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.68  cu km/yr (29%/17%/53%)"
+      },
+      "per capita": {
+        "text": "619  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "occasional earthquakes, hurricanes along Atlantic coast; frequent flooding of lowlands at onset of rainy season and landslides; active volcanoes"
+    },
+    "Environment - current issues": {
+      "text": "deforestation and land use change, largely a result of the clearing of land for cattle ranching and agriculture; soil erosion; coastal marine pollution; fisheries protection; solid waste management; air pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "four volcanoes, two of them active, rise near the capital of San Jose in the center of the country; one of the volcanoes, Irazu, erupted destructively in 1963-65"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,253,877 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "26.7% (male 581,916/female 555,216)"
+      },
+      "15-64 years": {
+        "text": "67.1% (male 1,443,606/female 1,411,168)"
+      },
+      "65 years and over": {
+        "text": "6.2% (male 120,969/female 141,002) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "27.5 years"
+      },
+      "male": {
+        "text": "27.1 years"
+      },
+      "female": {
+        "text": "28 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.356% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.43 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.34 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.47 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "63% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.86 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "8.77 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "9.66 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "7.83 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "77.58 years"
+      },
+      "male": {
+        "text": "74.96 years"
+      },
+      "female": {
+        "text": "80.34 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.14 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.4% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "9,700 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Costa Rican(s)"
+      },
+      "adjective": {
+        "text": "Costa Rican"
+      }
+    },
+    "Ethnic groups": {
+      "text": "white (including mestizo) 94%, black 3%, Amerindian 1%, Chinese 1%, other 1%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 76.3%, Evangelical 13.7%, Jehovah's Witnesses 1.3%, other Protestant 0.7%, other 4.8%, none 3.2%"
+    },
+    "Languages": {
+      "text": "Spanish (official), English"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "94.9%"
+      },
+      "male": {
+        "text": "94.7%"
+      },
+      "female": {
+        "text": "95.1% (2000 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "12 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.9% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Costa Rica "
+      },
+      "conventional short form": {
+        "text": "Costa Rica"
+      },
+      "local long form": {
+        "text": "Republica de Costa Rica"
+      },
+      "local short form": {
+        "text": "Costa Rica"
+      }
+    },
+    "Government type": {
+      "text": "democratic republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "San Jose"
+      },
+      "geographic coordinates": {
+        "text": "9 56 N, 84 05 W"
+      },
+      "time difference": {
+        "text": "UTC-6 (1 hour behind Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose"
+    },
+    "Independence": {
+      "text": "15 September 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 15 September (1821)"
+    },
+    "Constitution": {
+      "text": "7 November 1949"
+    },
+    "Legal system": {
+      "text": "based on Spanish civil law system; judicial review of legislative acts in the Supreme Court; has accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Oscar ARIAS Sanchez (since 8 May 2006); First Vice President (vacant); Second Vice President (vacant); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Oscar ARIAS Sanchez (since 8 May 2006); First Vice President (vacant); Second Vice President (vacant)"
+      },
+      "cabinet": {
+        "text": "Cabinet selected by the president"
+      },
+      "elections": {
+        "text": "president and vice presidents elected on the same ticket by popular vote for a single four-year term; election last held 5 February 2006 (next to be held in February 2010)"
+      },
+      "election results": {
+        "text": "Oscar ARIAS Sanchez elected president; percent of vote - Oscar ARIAS Sanchez (PLN) 40.9%; Otton SOLIS (PAC) 39.8%, Otto GUEVARA Guth (PML) 8%, Ricardo TOLEDO (PUSC) 3%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members are elected by direct, popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held 5 February 2006 (next to be held in February 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - PLN 25, PAC 17, PML 6, PUSC 5, PASE 1, PFA 1, PRN 1, PUN 1; note - as of 1 January 2009"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Corte Suprema (22 justices are elected for renewable eight-year terms by the Legislative Assembly)"
+    },
+    "Political parties and leaders": {
+      "text": "Authentic Member from Heredia [Jose SALAS]; Citizen Action Party or PAC [Epsy CAMPBELL Barr]; Costa Rican Renovation Party or PRC [Gerardo Justo OROZCO Alvarez]; Democratic Force Party or PFD [Marco NUNEZ Gonzalez]; General Union Party or PUGEN [Carlos Alberto FERNANDEZ Vega]; Homeland First or PP [Juan Jose VARGAS Fallas]; Independent Worker Party or PIO [Jose Alberto CUBERO Carmona]; Libertarian Movement Party or PML [Otto GUEVARA Guth]; National Christian Alliance Party or ANC [Juan Carlos CHAVEZ Mora]; National Integration Party or PIN [Walter MUNOZ Cespedes]; National Liberation Party or PLN [Francisco Antonio PACHECO Fernandez]; National Patriotic Party or PPN [Daniel Enrique REYNOLDS Vargas]; National Restoration Party or PRN [Fabio Enrique DELGADO Hernandez]; National Union Party or PUN [Arturo ACOSTA Mora]; Nationalist Democratic Alliance or ADN [Jose Miguel VILLALOBOS Umana]; Patriotic Union or UP [Jose Miguel CORRALES Bolanos]; Social Christian Unity Party or PUSC [Luis FISHMAN Zonzinski]; Union for Change Party or UPC [Antonio ALVAREZ Desanti]; United Leftist Coalition or IU [Humberto VARGAS Carbonel]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Authentic Confederation of Democratic Workers or CATD (Communist Party affiliate); Chamber of Coffee Growers; Confederated Union of Workers or CUT (Communist Party affiliate); Costa Rican Confederation of Democratic Workers or CCTD (Liberation Party affiliate); Costa Rican Exporter's Chamber or CADEXCO; Costa Rican Solidarity Movement; Costa Rican Union of Private Sector Enterprises or UCCAEP [Rafael CARRILLO]; Federation of Public Service Workers or FTSP; National Association for Economic Development or ANFE; National Association of Educators or ANDE; National Association of Public and Private Employees or ANEP [Albino VARGAS]; Rerum Novarum or CTRN (PLN affiliate) [Gilbert BROWN]"
+    },
+    "International organization participation": {
+      "text": "BCIE, CACM, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, NAM (observer), OAS, OPANAL, OPCW, PCA, RG, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Luis DIEGO Escalante"
+      },
+      "chancery": {
+        "text": "2114 S Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-2945 or 2946"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-4795"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, San Juan (Puerto Rico)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Peter CIANCHETTE"
+      },
+      "embassy": {
+        "text": "Calle 120 Avenida O, Pavas, San Jose"
+      },
+      "mailing address": {
+        "text": "APO AA 34020"
+      },
+      "telephone": {
+        "text": "[506] 519-2000"
+      },
+      "FAX": {
+        "text": "[506] 519-2305"
+      }
+    },
+    "Flag description": {
+      "text": "five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk on the hoist side of the red band; above the coat of arms a light blue ribbon contains the words, AMERICA CENTRAL, and just below it near the top of the coat of arms is a white ribbon with the words, REPUBLICA COSTA RICA"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Costa Rica's basically stable economy depends on tourism, agriculture, and electronics exports. Exports have become more diversified in the past 10 years due to the growth of the high-tech manufacturing sector, which is dominated by the microprocessor industry and the production of medical devices. Tourism continues to bring in foreign exchange, as Costa Rica's impressive biodiversity makes it a key destination for ecotourism. Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the fiscal incentives offered in the free-trade zones. Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. Poverty has remained around 20% for nearly 20 years, and the strong social safety net that had been put into place by the government has eroded due to increased financial constraints on government expenditures. Immigration from Nicaragua has increasingly become a concern for the government. The estimated 300,000-500,000 Nicaraguans in Costa Rica legally and illegally are an important source of - mostly unskilled - labor, but also place heavy demands on the social welfare system. Under the ARIAS administration, the government has made strides in reducing internal and external debt - in 2007, Costa Rica had its first budget surplus in 50 years. Reducing inflation remains a difficult problem because of rising commodity import prices and labor market rigidities, though lower oil prices will decrease upward pressures. The Central Bank is moving towards a more flexible exchange rate system to focus on inflation targeting by 2010. The US-Central American Free Trade Agreement (CAFTA) entered into force on 1 January 2009, after significant delays within the Costa Rican legislature. Nevertheless, economic growth has slowed in 2009 as the global downturn reduced export demand and invesment inflows."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$44.16 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "this official estimate excludes Nicaraguans living in Costa Rica (2008 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$29.66 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,800 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "6.5%"
+      },
+      "industry": {
+        "text": "25.9%"
+      },
+      "services": {
+        "text": "67.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.06 million",
+      "note": "this official estimate excludes Nicaraguans living in Costa Rica (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "14%"
+      },
+      "industry": {
+        "text": "22%"
+      },
+      "services": {
+        "text": "64% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.6% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "16% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.5%"
+      },
+      "highest 10%": {
+        "text": "35.5% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "45.9 (1997)"
+    },
+    "Investment (gross fixed)": {
+      "text": "24.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.6 billion"
+      },
+      "expenditures": {
+        "text": "$4.531 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "58% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "9.4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "17% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.8% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$4.504 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$2.87 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$12.91 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.944 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, pineapples, coffee, melons, ornamental plants, sugar, corn, rice, beans, potatoes; beef, poultry, dairy; timber"
+    },
+    "Industries": {
+      "text": "microprocessors, food processing, medical equipment, textiles and clothing, construction materials, fertilizer, plastic products"
+    },
+    "Industrial production growth rate": {
+      "text": "-1.1% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "8.808 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "8.064 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "77.16 million kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "203.2 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "45,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "2,117 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "47,860 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.578 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$9.266 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "bananas, pineapples, coffee, melons, ornamental plants, sugar; seafood; electronic components, medical equipment"
+    },
+    "Exports - partners": {
+      "text": "US 23.9%, Netherlands 13.3%, China 12.9%, UK 5%, Mexico 4.9% (2008)"
+    },
+    "Imports": {
+      "text": "$12.29 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "raw materials, consumer goods, capital equipment, petroleum, construction materials"
+    },
+    "Imports - partners": {
+      "text": "US 42.9%, Mexico 6.9%, Venezuela 6.3%, Japan 5.4%, China 4.7%, Brazil 4.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.114 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$8.416 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$8.803 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$525.9 million (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Costa Rican colones (CRC) per US dollar - 530.41 (2008 est.), 519.53 (2007), 511.3 (2006), 477.79 (2005), 437.91 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.438 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.887 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "good domestic telephone service in terms of breadth of coverage; restricted cellular telephone service; state-run monopoly provider is struggling with the demand for new lines, resulting in long waiting times"
+      },
+      "domestic": {
+        "text": "point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available"
+      },
+      "international": {
+        "text": "country code - 506; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic telecommunications submarine cable and the MAYA-1 submarine cable that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 65, FM 51, shortwave 19 (2002)"
+    },
+    "Television broadcast stations": {
+      "text": "20 (plus 43 repeaters) (2002)"
+    },
+    "Internet country code": {
+      "text": ".cr"
+    },
+    "Internet hosts": {
+      "text": "34,066 (2009)"
+    },
+    "Internet users": {
+      "text": "1.46 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "151 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "38"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "22"
+      },
+      "under 914 m": {
+        "text": "12 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "113"
+      },
+      "914 to 1,523 m": {
+        "text": "19"
+      },
+      "under 914 m": {
+        "text": "94 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "refined products 796 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "278 km"
+      },
+      "narrow gauge": {
+        "text": "278 km 1.067-m gauge"
+      },
+      "note": "none of the railway network is in use (2008)"
+    },
+    "note": "none of the railway network is in use (2008)",
+    "Roadways": {
+      "total": {
+        "text": "35,330 km"
+      },
+      "paved": {
+        "text": "8,621 km"
+      },
+      "unpaved": {
+        "text": "26,709 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "730 km (seasonally navigable by small craft) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "passenger/cargo 1 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Caldera, Puerto Limon"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Ministry of Public Security, Government, and Police (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,134,205"
+      },
+      "females age 16-49": {
+        "text": "1,095,763 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "971,224"
+      },
+      "females age 16-49": {
+        "text": "936,978 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "40,698"
+      },
+      "female": {
+        "text": "38,808 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.4% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "the ICJ has given Costa Rica until January 2008 to reply and Nicaragua until July 2008 to rejoin before rendering its decision on the navigation, security, and commercial rights of Costa Rican vessels on the R\u00edo San Juan over which Nicaragua retains sovereignty"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "9,699-11,500 (Colombia) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Costa Rica is a source, transit, and destination country for men, women, and children trafficked for the purposes of commercial sexual exploitation and forced labor; women and girls from neighboring states, Russia, Uzbekistan, and the Philippines are trafficked into the country for sexual exploitation; Costa Rica also serves as a transit point for victims trafficked to North America and Europe; the government identifies child sex tourism as a serious problem; men, women, and children are also trafficked within the country for forced labor in fishing and construction, and as domestic servants"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Costa Rica is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat human trafficking, particularly in terms of its failure to improve its inadequate assistance to victims; while Costa Rican officials recognize human trafficking as a serious problem, the lack of a stronger response by the government is of concern (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment country for cocaine and heroin from South America; illicit production of cannabis in remote areas; domestic cocaine consumption, particularly crack cocaine, is rising; significant consumption of amphetamines; seizures of smuggled cash in Costa Rica and at the main border crossing to enter Costa Rica from Nicaragua have risen in recent years\r\n (2008)"
+    }
+  }
+}

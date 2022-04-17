@@ -1,0 +1,455 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Mayotte was ceded to France along with the other islands of the Comoros group in 1843. It was the only island in the archipelago that voted in 1974 to retain its link with France and forego independence."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Indian Ocean, island in the Mozambique Channel, about half way between northern Madagascar and northern Mozambique"
+    },
+    "Geographic coordinates": {
+      "text": "12 50 S, 45 10 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "374 sq km"
+      },
+      "land": {
+        "text": "374 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "185.2 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November)"
+    },
+    "Terrain": {
+      "text": "generally undulating, with deep ravines and ancient volcanic peaks"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Benara 660 m"
+      }
+    },
+    "Natural resources": {
+      "text": "NEGL"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "NA%"
+      },
+      "permanent crops": {
+        "text": "NA%"
+      },
+      "other": {
+        "text": "NA%"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "cyclones during rainy season"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Geography - note": {
+      "text": "part of Comoro Archipelago (18 islands)"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "223,765 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "45.3% (male 50,985/female 50,413)"
+      },
+      "15-64 years": {
+        "text": "52.9% (male 63,395/female 54,882)"
+      },
+      "65 years and over": {
+        "text": "1.8% (male 2,085/female 2,005) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "17.2 years"
+      },
+      "male": {
+        "text": "18.1 years"
+      },
+      "female": {
+        "text": "16.4 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.317% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "39.26 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.2 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.11 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.16 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.04 male(s)/female"
+      },
+      "total population": {
+        "text": "1.08 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "56.29 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "61.89 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "50.53 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "62.91 years"
+      },
+      "male": {
+        "text": "60.65 years"
+      },
+      "female": {
+        "text": "65.24 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.5 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Mahorais (singular and plural)"
+      },
+      "adjective": {
+        "text": "Mahoran"
+      }
+    },
+    "Ethnic groups": {
+      "text": "NA"
+    },
+    "Religions": {
+      "text": "Muslim 97%, Christian (mostly Roman Catholic) 3%"
+    },
+    "Languages": {
+      "text": "Mahorian (a Swahili dialect), French (official language) spoken by 35% of the population"
+    },
+    "Literacy": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Territorial Collectivity of Mayotte "
+      },
+      "conventional short form": {
+        "text": "Mayotte"
+      }
+    },
+    "Dependency status": {
+      "text": "departmental collectivity of France"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Mamoudzou"
+      },
+      "geographic coordinates": {
+        "text": "12 46 S, 45 13 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (territorial overseas collectivity of France)"
+    },
+    "Independence": {
+      "text": "none (territorial overseas collectivity of France)"
+    },
+    "National holiday": {
+      "text": "Bastille Day, 14 July (1789)"
+    },
+    "Constitution": {
+      "text": "4 October 1958 (French Constitution)"
+    },
+    "Legal system": {
+      "text": "the laws of France, where applicable, apply"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Nicolas SARKOZY (since 16 May 2007); represented by Prefect Hubert DERACHE (since 22 July 2009)"
+      },
+      "head of government": {
+        "text": "President of the General Council Ahmed Attoumani DOUCHINA (since March 2008)"
+      },
+      "cabinet": {
+        "text": "NA"
+      },
+      "elections": {
+        "text": "French president elected by popular vote for a five-year term; prefect appointed by the French president on the advice of the French Ministry of the Interior; president of the General Council elected by the members of the General Council for a six-year term; next election to be held in 2010"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral General Council or Conseil General (19 seats; members are elected by popular vote to serve three-year terms)",
+      "elections": {
+        "text": "last held 9 and 16 March 2008 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - UMP 8, Diverse Right 4, independents 4, Citizens and Republic Movement 1, Democratic Movement 1, Diverse Left 1; note - political parties are the same as parties in France"
+      },
+      "note": "Mayotte elects two members of the French Senate; elections last held 21 September 2008 (next to be held in September 2014); results - percent of vote by party - NA; seats by party - UC-UDF 1, UMP 1; Mayotte also elects one member to the French National Assembly; elections last held 10-17 June 2007 (next to be held in 2012); results - percent of vote by party - NA; seats by party - independent 1"
+    },
+    "note": "the flag of France used for official occasions",
+    "Judicial branch": {
+      "text": "Supreme Court or Tribunal Superieur d'Appel"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Front or FD [Youssouf MOUSSA]; Mahoran Popular Movement or MPM [Ahmed MADI]; Federation of Mahorans or UMP-RPR [Mansour KAMARDINE]; Force of the Rally and the Alliance for Democracy or FRAP; Movement for Department Status Mayotte or MDM [Mouhoutar SALIM]; Renewed Communist Party of Mayotte or MRC [Omar SIMBA]; Socialist Party or PS [Ibrahim ABUBACAR] (local branch of French Parti Socialiste); Union for French Democracy or UDF [Henri JEAN-BAPTISTE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "InOC, UPU, WFTU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (territorial overseas collectivity of France)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (territorial overseas collectivity of France)"
+    },
+    "Flag description": {
+      "text": "unofficial, local flag with the coat of arms of Mayotte centered on a white field, above which the name of the island appears in red capital letters; the main elements of the coat of arms, flanked on either side by a seahorse, appear above a scroll with the motto RA HACHIRI (We are Vigilant)",
+      "note": "the flag of France used for official occasions"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Economic activity is based primarily on the agricultural sector, including fishing and livestock raising. Mayotte is not self-sufficient and must import a large portion of its food requirements, mainly from France. The economy and future development of the island are heavily dependent on French financial assistance, an important supplement to GDP. Mayotte's remote location is an obstacle to the development of tourism."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$953.6 million (2005 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$NA"
+    },
+    "GDP - real growth rate": {
+      "text": "NA%"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,900 (2005 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "44,560 (2002)"
+    },
+    "Unemployment rate": {
+      "text": "25.4% (2005)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$420 million"
+      },
+      "expenditures": {
+        "text": "$394 million (2005)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.7% (2005)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "vanilla, ylang-ylang (perfume essence), coffee, copra, fish, livestock"
+    },
+    "Industries": {
+      "text": "newly created lobster and shrimp industry, construction"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "NA kWh"
+    },
+    "Electricity - consumption": {
+      "text": "139.2 million kWh (2005)"
+    },
+    "Exports": {
+      "text": "$6.5 million (2005)"
+    },
+    "Exports - commodities": {
+      "text": "ylang-ylang (perfume essence), vanilla, copra, coconuts, coffee, cinnamon"
+    },
+    "Imports": {
+      "text": "$341 million (2005)"
+    },
+    "Imports - commodities": {
+      "text": "food, machinery and equipment, transportation equipment, metals, chemicals"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6734 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "10,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "48,100 (2005)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "small system administered by French Department of Posts and Telecommunications"
+      },
+      "domestic": {
+        "text": "NA"
+      },
+      "international": {
+        "text": "country code - 262; microwave radio relay and HF radiotelephone communications to Comoros"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 5, shortwave 0 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (2001)"
+    },
+    "Internet country code": {
+      "text": ".yt"
+    },
+    "Internet hosts": {
+      "text": "1 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Dzaoudzi"
+    }
+  },
+  "Military": {
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "35,849 "
+      },
+      "females age 16-49": {
+        "text": "34,456 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "2,517"
+      },
+      "female": {
+        "text": "2,511 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of France; a small contingent of French forces is stationed on the island"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "claimed by Comoros"
+    }
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The colonial boundaries created by Britain to delimit Uganda grouped together a wide range of ethnic groups with different political systems and cultures. These differences complicated the establishment of a working political community after independence was achieved in 1962. The dictatorial regime of Idi AMIN (1971-79) was responsible for the deaths of some 300,000 opponents; guerrilla war and human rights abuses under Milton OBOTE (1980-85) claimed at least another 100,000 lives. The rule of Yoweri MUSEVENI since 1986 has brought relative stability and economic growth to Uganda. A constitutional referendum in 2005 cancelled a 19-year ban on multi-party politics and lifted presidential term limits."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo"
+    },
+    "Geographic coordinates": {
+      "text": "1 00 N, 32 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "241,038 sq km"
+      },
+      "land": {
+        "text": "197,100 sq km"
+      },
+      "water": {
+        "text": "43,938 sq km"
+      },
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than two times the size of Pennsylvania; slightly smaller than Oregon"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,729 km"
+      },
+      "border countries (5)": {
+        "text": "Democratic Republic of the Congo 877 km, Kenya 814 km, Rwanda 172 km, South Sudan 475 km, Tanzania 391 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast"
+    },
+    "Terrain": {
+      "text": "mostly plateau with rim of mountains"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Margherita Peak on Mount Stanley 5,110 m"
+    },
+    "Natural resources": {
+      "text": "copper, cobalt, hydropower, limestone, salt, arable land, gold"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "71.2%"
+      },
+      "text": "arable land 34.3%; permanent crops 11.3%; permanent pasture 25.6%",
+      "forest": {
+        "text": "14.5%"
+      },
+      "other": {
+        "text": "14.3% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "140 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated"
+    },
+    "Natural hazards": {
+      "text": "droughts; floods; earthquakes; landslides; hailstorms"
+    },
+    "Environment - current issues": {
+      "text": "draining of wetlands for agricultural use; deforestation; overgrazing; soil erosion; water hyacinth infestation in Lake Victoria; widespread poaching"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; fertile, well-watered country with many lakes and rivers"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Uganda"
+      },
+      "conventional short form": {
+        "text": "Uganda"
+      },
+      "etymology": {
+        "text": "from the Swahili \"Buganda,\" adopted by the British as the name for their East African colony in 1894; Buganda had been a powerful East African state during the 18th and 19th centuries"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kampala"
+      },
+      "geographic coordinates": {
+        "text": "0 19 N, 32 33 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "121 districts and 1 capital city*; Abim, Adjumani, Agago, Alebtong, Amolatar, Amudat, Amuria, Amuru, Apac, Arua, Budaka, Bududa, Bugiri, Buhweju, Buikwe, Bukedea, Bukomansimbi, Bukwa, Bulambuli, Buliisa, Bundibugyo, Bunyangabu, Bushenyi, Busia, Butaleja, Butambala, Butebo, Buvuma, Buyende, Dokolo, Gomba, Gulu, Hoima, Ibanda, Iganga, Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kagadi, Kakumiro, Kalangala, Kaliro, Kalungu, Kampala*, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kasese, Katakwi, Kayunga, Kibaale, Kiboga, Kibuku, Kiruhura, Kiryandongo, Kisoro, Kitgum, Koboko, Kole, Kotido, Kumi, Kween, Kyankwanzi, Kyegegwa, Kyenjojo, Kyotera, Lamwo, Lira, Luuka, Luwero, Lwengo, Lyantonde, Manafwa, Maracha, Masaka, Masindi, Mayuge, Mbale, Mbarara, Mitooma, Mityana, Moroto, Moyo, Mpigi, Mubende, Mukono, Nakapiripirit, Nakaseke, Nakasongola, Namayingo, Namisindwa, Namutumba, Napak, Nebbi, Ngora, Ntoroko, Ntungamo, Nwoya, Omoro, Otuke, Oyam, Pader, Pakwach, Pallisa, Rakai, Rubanda, Rubirizi, Rukiga, Rukungiri, Sembabule, Serere, Sheema, Sironko, Soroti, Tororo, Wakiso, Yumbe, Zombo"
+    },
+    "Independence": {
+      "text": "9 October 1962 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 9 October (1962)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 27 September 1995, promulgated 8 October 1995"
+      },
+      "amendments": {
+        "text": "proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting constitutional sections including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two-thirds of Uganda's districts, and assent by the president of the republic; amended many times, last in 2015 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and customary law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent or grandparent must be a native-born citizen of Uganda"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "an aggregate of 20 years and continuously for the last 2 years prior to applying for citizenship"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); Prime Minister Ruhakana RUGUNDA (since 19 September 2014); First Deputy Prime Minister Moses ALI (since 6 June 2016); Second Deputy Prime Minister Kirunda KIVEJINJA (since 6 June 2016)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 18 February 2016 (next to be held in February 2021)"
+      },
+      "election results": {
+        "text": "Yoweri Kaguta MUSEVENI reelected president; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 \"representatives\" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 18 February 2016 (next to be held in February 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - NRM 293, FDC 36, DP 15, Uganda People's Defense Force 10, UPC 6, independent 66 (excludes 19 ex-officio members)"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Uganda (consists of the chief justice and at least 10 justices)"
+      },
+      "judge selection and term of office": {
+        "text": "justices appointed by the president of the republic in consultation with the Judicial Service Commission (a 9-member independent advisory body) and approved by the National Assembly; justices serve until mandatory retirement at age 70"
+      },
+      "subordinate courts": {
+        "text": "Court of Appeal (also sits as the Constitutional Court); High Court (includes 12 High Court Circuits and 8 High Court Divisions); Industrial Court; Chief Magistrate Grade One and Grade Two Courts throughout the country; qadhis courts; local council courts; family and children courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Uganda People's Defense Force or UPDF"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Ugandan Coalition for Political Accountability to Women or COPAW"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mull Sebujja KATENDE (since 8 September 2017)"
+      },
+      "chancery": {
+        "text": "5911 16th Street NW, Washington, DC 20011"
+      },
+      "telephone": {
+        "text": "[1] (202) 726-7100 through 7102, 0416"
+      },
+      "FAX": {
+        "text": "[1] (202) 726-1727"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Deborah R. MALAC (since 27 February 2016)"
+      },
+      "embassy": {
+        "text": "1577 Ggaba Road, Kampala"
+      },
+      "mailing address": {
+        "text": "P.O. Box 7007, Kampala"
+      },
+      "telephone": {
+        "text": "[256] (414) 259 791 through 93, 95"
+      },
+      "FAX": {
+        "text": "[256] (414) 259794"
+      }
+    },
+    "Flag description": {
+      "text": "six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK"
+    },
+    "National symbol(s)": {
+      "text": "grey crowned crane; national colors: black, yellow, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Oh Uganda, Land of Beauty!\""
+      },
+      "lyrics/music": {
+        "text": "George Wilberforce KAKOMOA"
+      },
+      "note": {
+        "text": "adopted 1962"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The budget is dominated by energy and road infrastructure spending, while relying on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through low-interest concessional loans. As a result, debt servicing for these loans is expected to rise."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$75.33 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$25.31 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,200 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "203"
+      }
+    },
+    "Gross national saving": {
+      "text": "17.2% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "77.4%"
+      },
+      "government consumption": {
+        "text": "10.2%"
+      },
+      "investment in fixed capital": {
+        "text": "24.8%"
+      },
+      "investment in inventories": {
+        "text": "-5.8%"
+      },
+      "exports of goods and services": {
+        "text": "18.8%"
+      },
+      "imports of goods and services": {
+        "text": "-25.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "25.4%"
+      },
+      "industry": {
+        "text": "22.7%"
+      },
+      "services": {
+        "text": "51.9% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, tea, cotton, tobacco, cassava (manioc, tapioca), potatoes, corn, millet, pulses, cut flowers; beef, goat meat, milk, poultry, and fish"
+    },
+    "Industries": {
+      "text": "sugar processing, brewing, tobacco, cotton textiles; cement, steel production"
+    },
+    "Industrial production growth rate": {
+      "text": "3.8% (2016 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Labor force": {
+      "text": "19.4 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "71.9%"
+      },
+      "industry": {
+        "text": "4.4%"
+      },
+      "services": {
+        "text": "23.7% (2013 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.4% (2013 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Population below poverty line": {
+      "text": "19.7% (2013 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.4%"
+      },
+      "highest 10%": {
+        "text": "36.1% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "45.7 (2002)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.696 billion"
+      },
+      "expenditures": {
+        "text": "$4.885 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "14.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Public debt": {
+      "text": "30.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "17% (30 March 2016)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "22.6% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$2.029 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$3.458 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$3.946 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.788 billion (31 December 2011 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Current account balance": {
+      "text": "$-1.794 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Exports": {
+      "text": "$2.667 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Exports - commodities": {
+      "text": "coffee, fish and fish products, tea, cotton, flowers, horticultural products; gold"
+    },
+    "Exports - partners": {
+      "text": "Kenya 20.9%, UAE 11.2%, Rwanda 9.5%, Democratic Republic of the Congo 8.9%, Italy 4.5% (2016)"
+    },
+    "Imports": {
+      "text": "$4.955 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Imports - commodities": {
+      "text": "capital equipment, vehicles, petroleum, medical supplies; cereals"
+    },
+    "Imports - partners": {
+      "text": "China 17.9%, India 17.2%, UAE 9.5%, Kenya 9.2%, Japan 5.2%, South Africa 4.5%, Saudi Arabia 4.4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.843 billion (31 December 2015 est.)",
+      "note": {
+        "text": "excludes gold"
+      },
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Debt - external": {
+      "text": "$5.756 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "2,505.6 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "32,100,000"
+      },
+      "electrification - total population": {
+        "text": "15%"
+      },
+      "electrification - urban areas": {
+        "text": "55%"
+      },
+      "electrification - rural areas": {
+        "text": "7% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "3.235 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "2.936 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Electricity - exports": {
+      "text": "121 million kWh (2015)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Electricity - imports": {
+      "text": "48 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "922,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "14.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "76.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "10.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "203"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.5 billion bbl (1 January 2017)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "27,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "26,290 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "14.16 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "2.7 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "368,243"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "22,838,486"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "60 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "mobile cellular service is increasing rapidly, but the number of main lines is still deficient; work underway on a national backbone information and communications technology infrastructure; international phone networks and Internet connectivity provided through satellite and fiber-optic cables through Kenya and the Indian Ocean"
+      },
+      "domestic": {
+        "text": "intercity traffic by wire, microwave radio relay, and radiotelephone communication stations, fixed-line and mobile-cellular systems for short-range traffic; mobile-cellular teledensity about 60 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; Uganda first began licensing privately owned stations in the 1990s; by 2007, there were nearly 150 radio and 35 TV stations, mostly based in and around Kampala; transmissions of multiple international broadcasters are available in Kampala (2007)"
+    },
+    "Internet country code": {
+      "text": ".ug"
+    },
+    "Internet users": {
+      "total": {
+        "text": "8,382,782"
+      },
+      "percent of population": {
+        "text": "21.9% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "57"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "41,812"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "23,472 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "5X (2016)"
+    },
+    "Airports": {
+      "text": "47 (2013)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "5"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "42"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "8"
+      },
+      "914 to 1,523 m": {
+        "text": "26"
+      },
+      "under 914 m": {
+        "text": "7 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "1,244 km"
+      },
+      "narrow gauge": {
+        "text": "1,244 km 1.000-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "20,000 km (excludes local roads)"
+      },
+      "paved": {
+        "text": "3,264 km"
+      },
+      "unpaved": {
+        "text": "16,736 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Waterways": {
+      "text": "(there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "bulk carrier 1 (2017)"
+      },
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Ports and terminals": {
+      "lake port(s)": {
+        "text": "Entebbe, Jinja, Port Bell (Lake Victoria)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.79% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Military branches": {
+      "text": "Uganda People's Defense Force (UPDF): Land Forces (includes Marine Unit), Uganda Air Force (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-26 years of age for voluntary military duty; 18-30 years of age for professionals; no conscription; 9-year service obligation; the government has stated that while recruitment under 18 years of age could occur with proper consent, \"no person under the apparent age of 18 years shall be enrolled in the armed forces\"; Ugandan citizenship and secondary education required (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "1,057,809 (South Sudan) (refugees and asylum seekers); 231,504 (Democratic Republic of the Congo) (refugees and asylum seekers); 40,313 (Burundi) (refugee and asylum seekers); 36,909 (Somalia) (refugees and asylum seekers); 15,260 (Rwanda) (refugees and asylum seekers) (2017)"
+      },
+      "IDPs": {
+        "text": "53,000 (displaced in northern Uganda because of fighting between government forces and the Lord's Resistance Army; as of 2011, most of the 1.8 million people displaced to IDP camps at the height of the conflict had returned home or resettled, but many had not found durable solutions; intercommunal violence and cattle raids) (2016)"
+      }
+    }
+  }
+}

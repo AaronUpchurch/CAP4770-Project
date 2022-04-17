@@ -1,0 +1,704 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Established in 1891, the British protectorate of Nyasaland became the independent nation of Malawi in 1964. After three decades of one-party rule under President Hastings Kamuzu BANDA the country held multiparty elections in 1994, under a provisional constitution that came into full effect the following year. Current President Bingu wa MUTHARIKA, elected in May 2004 after a failed attempt by the previous president to amend the constitution to permit another term, struggled to assert his authority against his predecessor and subsequently started his own party, the Democratic Progressive Party (DPP) in 2005. As president, MUTHARIKA has overseen substantial economic improvement but because of political deadlock in the legislature, his minority party has been unable to pass significant legislation, and anti-corruption measures have stalled. Population growth, increasing pressure on agricultural lands, corruption, and the spread of HIV/AIDS pose major problems for Malawi."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, east of Zambia"
+    },
+    "Geographic coordinates": {
+      "text": "13 30 S, 34 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "118,484 sq km"
+      },
+      "land": {
+        "text": "94,080 sq km"
+      },
+      "water": {
+        "text": "24,404 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Pennsylvania"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,881 km"
+      },
+      "border countries": {
+        "text": "Mozambique 1,569 km, Tanzania 475 km, Zambia 837 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "sub-tropical; rainy season (November to May); dry season (May to November)"
+    },
+    "Terrain": {
+      "text": "narrow elongated plateau with rolling plains, rounded hills, some mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "junction of the Shire River and international boundary with Mozambique 37 m"
+      },
+      "highest point": {
+        "text": "Sapitwa (Mount Mlanje) 3,002 m"
+      }
+    },
+    "Natural resources": {
+      "text": "limestone, arable land, hydropower, unexploited deposits of uranium, coal, and bauxite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "20.68%"
+      },
+      "permanent crops": {
+        "text": "1.18%"
+      },
+      "other": {
+        "text": "78.14% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "560 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "17.3 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.01  cu km/yr (15%/5%/80%)"
+      },
+      "per capita": {
+        "text": "78  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "14,268,711",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "45.8% (male 3,272,790/female 3,258,893)"
+      },
+      "15-64 years": {
+        "text": "51.5% (male 3,696,857/female 3,656,918)"
+      },
+      "65 years and over": {
+        "text": "2.7% (male 162,863/female 220,390) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "16.8 years"
+      },
+      "male": {
+        "text": "16.8 years"
+      },
+      "female": {
+        "text": "16.9 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.388% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "41.48 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "17.6 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "19% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "5.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.02 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.74 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "89.05 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "93.15 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "84.88 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "43.82 years"
+      },
+      "male": {
+        "text": "44.07 years"
+      },
+      "female": {
+        "text": "43.57 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.59 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "11.9% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "930,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "68,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria and plague"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Malawian(s)"
+      },
+      "adjective": {
+        "text": "Malawian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chewa, Nyanja, Tumbuka, Yao, Lomwe, Sena, Tonga, Ngoni, Ngonde, Asian, European"
+    },
+    "Religions": {
+      "text": "Christian 79.9%, Muslim 12.8%, other 3%, none 4.3% (1998 census)"
+    },
+    "Languages": {
+      "text": "Chichewa 57.2% (official), Chinyanja 12.8%, Chiyao 10.1%, Chitumbuka 9.5%, Chisena 2.7%, Chilomwe 2.4%, Chitonga 1.7%, other 3.6% (1998 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "62.7%"
+      },
+      "male": {
+        "text": "76.1%"
+      },
+      "female": {
+        "text": "49.8% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "9 years"
+      },
+      "male": {
+        "text": "10 years"
+      },
+      "female": {
+        "text": "9 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.8% of GDP (2003)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Malawi "
+      },
+      "conventional short form": {
+        "text": "Malawi"
+      },
+      "local long form": {
+        "text": "Dziko la Malawi"
+      },
+      "local short form": {
+        "text": "Malawi"
+      },
+      "former": {
+        "text": "British Central African Protectorate, Nyasaland Protectorate, Nyasaland"
+      }
+    },
+    "Government type": {
+      "text": "multiparty democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lilongwe"
+      },
+      "geographic coordinates": {
+        "text": "13 59 S, 33 47 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga (Kasupe), Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima, Thyolo, Zomba"
+    },
+    "Independence": {
+      "text": "6 July 1964 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (Republic Day), 6 July (1964)"
+    },
+    "Constitution": {
+      "text": "18 May 1994"
+    },
+    "Legal system": {
+      "text": "based on English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Bingu wa MUTHARIKA (since 24 May 2004); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Bingu wa MUTHARIKA (since 24 May 2004)"
+      },
+      "cabinet": {
+        "text": "46-member Cabinet named by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held 19 May 2009 (next to be held in May 2014)"
+      },
+      "election results": {
+        "text": "Bingu wa MUTHARIKA elected president; percent of vote - Bingu wa MUTHARIKA 66%, John TEMBO 30.7%, other 3.3%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly (193 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 19 May 2009 (next to be held in May 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - DPP 114, MCP 26, UDF 17, independents 32, other 4"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Appeal; High Court (chief justice appointed by the president, puisne judges appointed on the advice of the Judicial Service Commission); magistrate's courts"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Democracy or AFORD [Dindi NYASULU]; Congress of Democrats or CODE [Ralph KASAMBARA]; Democratic Progressive Party or DPP [Bingu wa MUTHARIKA]; Malawi Congress Party or MCP [John TEMBO]; Malawi Democratic Party or MDP [Kampelo KALUA]; Malawi Forum for Unity and Development or MAFUNDE [George MNESA]; Maravi People's Party [Uladi MUSSA]; National Unity Party or NUP [Harry CHIUME]; New Rainbow Coalition Party [Beatrice MWALE]; New Republican Party [Gwanda CHAKUWAMBA]; People's Progressive Movement or PPM [Aleke BANDA]; People's Transformation Movement or PETRA [Kamuzu CHIBAMBO]; Republican Party or RP [Stanley MASAULI]; United Democratic Front or UDF [Bakili MULUZI]; United Democratic Party [Kenedy KALAMBO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Agri-Ecology Media (agriculture and environmental group); Council for NGOs in Malawi or CONGOMA (human rights, democracy, and development); Human Rights Consultative Committee or HRCC (human rights); Malawi Law Society (human rights and law reform); Malawi Movement for the Restoration of Democracy or MMRD (acts to restore and maintain democracy); Public Affairs Committee or PAC (promotes democracy, development, peace and unity)"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITSO, ITU, ITUC, MIGA, MONUC, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Hawa NDILOWE"
+      },
+      "chancery": {
+        "text": "1029 Vermont Avenue, Suite 1000, Washington, DC 20005"
+      },
+      "telephone": {
+        "text": "[1] (202) 721-0270"
+      },
+      "FAX": {
+        "text": "[1] (202) 721-0288"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Peter W. BODDE"
+      },
+      "embassy": {
+        "text": "16 Jomo Kenyatta Road, Lilongwe 3"
+      },
+      "mailing address": {
+        "text": "P. O. Box 30016, Lilongwe 3, Malawi"
+      },
+      "telephone": {
+        "text": "[265] (1) 773 166"
+      },
+      "FAX": {
+        "text": "[265] (1) 770 471"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of black (top), red, and green with a radiant, rising, red sun centered in the black band"
+    },
+    "Government - note": {
+      "text": "no party has a majority in the fractured legislature"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Landlocked Malawi ranks among the world's most densely populated and least developed countries. The economy is predominately agricultural with about 85% of the population living in rural areas. Agriculture accounts for more than one-third of GDP and 90% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports. The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. In December 2007, the US granted Malawi eligibility status to receive financial support within the Millennium Challenge Corporation (MCC) initiative. Malawi will now begin a consultative process to develop a five-year program before funding can begin. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program. The government faces many challenges including developing a market economy, improving educational facilities, facing up to environmental problems, dealing with the rapidly growing problem of HIV/AIDS, and satisfying foreign donors that fiscal discipline is being tightened. In 2005, President MUTHARIKA championed an anticorruption campaign. Since 2005 President MUTHARIKA'S government has exhibited improved financial discipline under the guidance of Finance Minister Goodall GONDWE and signed a three year Poverty Reduction and Growth Facility worth $56 million with the IMF. Improved relations with the IMF lead other international donors to resume aid as well."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$10.1 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$4.268 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "39.2%"
+      },
+      "industry": {
+        "text": "16.8%"
+      },
+      "services": {
+        "text": "44% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "5.747 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "90%"
+      },
+      "industry and services": {
+        "text": "10% (2003 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "53% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3%"
+      },
+      "highest 10%": {
+        "text": "31.9% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39 (2004)"
+    },
+    "Investment (gross fixed)": {
+      "text": "8.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.254 billion"
+      },
+      "expenditures": {
+        "text": "$1.351 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "228.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "15% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "27.72% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$361.5 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$250.4 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$406.2 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$587.2 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "tobacco, sugarcane, cotton, tea, corn, potatoes, cassava (tapioca), sorghum, pulses, groundnuts, Macadamia nuts; cattle, goats"
+    },
+    "Industries": {
+      "text": "tobacco, tea, sugar, sawmill products, cement, consumer goods"
+    },
+    "Industrial production growth rate": {
+      "text": "4% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "1.69 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.572 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "8,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "6,960 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$75 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$721 million (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "tobacco 53%, tea, sugar, cotton, coffee, peanuts, wood products, apparel"
+    },
+    "Exports - partners": {
+      "text": "South Africa 14.2%, Egypt 9.8%, Zimbabwe 8.6%, US 7.4%, Netherlands 7%, Russia 5.7%, Germany 5.7% (2008)"
+    },
+    "Imports": {
+      "text": "$1.323 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food, petroleum products, semimanufactures, consumer goods, transportation equipment"
+    },
+    "Imports - partners": {
+      "text": "South Africa 41.5%, China 7.3%, India 6.1%, Tanzania 5.4%, US 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$217.2 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$894 million (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$11.23 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Malawian kwachas (MWK) per US dollar - 142.41 (2008 est.), 141.12 (2007), 135.96 (2006), 108.894 (2005), 108.898 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "236,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.781 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "rudimentary"
+      },
+      "domestic": {
+        "text": "fixed-line subscribership about 2 per 100 persons; privatization of Malawi Telecommunications (MTL), a necessary step in bringing improvement to telecommunications services, completed in 2006; mobile-cellular services are expanding but cellular network coverage is limited and is based around the main urban areas; mobile cellular subscribership approaching 15 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 9, FM 5 (plus 15 repeater stations), shortwave 2 (plus one shortwave station on standby) (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (2001)"
+    },
+    "Internet country code": {
+      "text": ".mw"
+    },
+    "Internet hosts": {
+      "text": "741 (2009)"
+    },
+    "Internet users": {
+      "text": "316,100 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "32 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "26"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "15"
+      },
+      "under 914 m": {
+        "text": "10 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "797 km"
+      },
+      "narrow gauge": {
+        "text": "797 km 1.067-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "15,451 km"
+      },
+      "paved": {
+        "text": "6,956 km"
+      },
+      "unpaved": {
+        "text": "8,495 km (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "700 km (on Lake Nyasa (Lake Malawi) and Shire River) (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Malawi Armed Forces": {
+        "text": "Army (includes Air Wing and Naval Detachment) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; standard obligation is 2 years of active duty and 5 years of reserve service (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "3,050,444 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,732,621"
+      },
+      "females age 16-49": {
+        "text": "1,562,107 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "174,044"
+      },
+      "female": {
+        "text": "173,828 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.3% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "disputes with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River remain dormant"
+    }
+  }
+}

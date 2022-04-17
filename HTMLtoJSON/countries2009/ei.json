@@ -1,0 +1,724 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Celtic tribes arrived on the island between 600-150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. English invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. A failed 1916 Easter Monday Rebellion touched off several years of guerrilla warfare that in 1921 resulted in independence from the UK for 26 southern counties; six northern (Ulster) counties remained part of the UK. In 1949, Ireland withdrew from the British Commonwealth; it joined the European Community in 1973. Irish governments have sought the peaceful unification of Ireland and have cooperated with Britain against terrorist groups. A peace settlement for Northern Ireland is gradually being implemented despite some difficulties. In 2006, the Irish and British governments developed and began to implement the St. Andrews Agreement, building on the Good Friday Agreement approved in 1998."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain"
+    },
+    "Geographic coordinates": {
+      "text": "53 00 N, 8 00 W"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "70,273 sq km"
+      },
+      "land": {
+        "text": "68,883 sq km"
+      },
+      "water": {
+        "text": "1,390 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than West Virginia"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "360 km"
+      },
+      "border countries": {
+        "text": "UK 360 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,448 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time"
+    },
+    "Terrain": {
+      "text": "mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Carrauntoohil 1,041 m"
+      }
+    },
+    "Natural resources": {
+      "text": "natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "16.82%"
+      },
+      "permanent crops": {
+        "text": "0.03%"
+      },
+      "other": {
+        "text": "83.15% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "46.8 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.18  cu km/yr (23%/77%/0%)"
+      },
+      "per capita": {
+        "text": "284  cu m/yr (1994)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "water pollution, especially of lakes, from agricultural runoff"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Persistent Organic Pollutants, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,203,200 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "20.9% (male 454,571/female 424,022)"
+      },
+      "15-64 years": {
+        "text": "67.1% (male 1,411,336/female 1,409,760)"
+      },
+      "65 years and over": {
+        "text": "12% (male 224,850/female 278,661) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "35 years"
+      },
+      "male": {
+        "text": "34.2 years"
+      },
+      "female": {
+        "text": "35.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.12% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "14.23 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.75 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "4.71 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "61% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.07 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.07 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.81 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "5.05 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.53 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.54 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "78.24 years"
+      },
+      "male": {
+        "text": "75.6 years"
+      },
+      "female": {
+        "text": "81.06 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.85 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "5,500 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Irishman(men), Irishwoman(women), Irish (collective plural)"
+      },
+      "adjective": {
+        "text": "Irish"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Irish 87.4%, other white 7.5%, Asian 1.3%, black 1.1%, mixed 1.1%, unspecified 1.6% (2006 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 87.4%, Church of Ireland 2.9%, other Christian 1.9%, other 2.1%, unspecified 1.5%, none 4.2% (2006 census)"
+    },
+    "Languages": {
+      "text": "English (official) is the language generally used, Irish (Gaelic or Gaeilge) (official) spoken mainly in areas along the western coast"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "18 years"
+      },
+      "male": {
+        "text": "17 years"
+      },
+      "female": {
+        "text": "18 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.7% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Ireland"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Eire"
+      }
+    },
+    "Government type": {
+      "text": "republic, parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dublin"
+      },
+      "geographic coordinates": {
+        "text": "53 19 N, 6 14 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "29 counties and 5 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Limerick*, Longford, Louth, Mayo, Meath, Monaghan, North Tipperary, Offaly, Roscommon, Sligo, South Dublin, South Tipperary, Waterford, Waterford*, Westmeath, Wexford, Wicklow"
+    },
+    "Independence": {
+      "text": "6 December 1921 (from the UK by treaty)"
+    },
+    "National holiday": {
+      "text": "Saint Patrick's Day, 17 March"
+    },
+    "Constitution": {
+      "text": "adopted 1 July 1937 by plebiscite; effective 29 December 1937"
+    },
+    "Legal system": {
+      "text": "based on English common law substantially modified by indigenous concepts; judicial review of legislative acts in Supreme Court; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mary MCALEESE (since 11 November 1997)"
+      },
+      "head of government": {
+        "text": "Prime Minister Brian COWEN (since 7 May 2008)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president with previous nomination by the prime minister and approval of the House of Representatives"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (eligible for a second term); election last held 31 October 1997 (next scheduled for October 2011); note - Mary MCALEESE appointed to a second term when no other candidate qualified for the 2004 presidential election; prime minister (taoiseach) nominated by the House of Representatives and appointed by the president"
+      },
+      "election results": {
+        "text": "Mary MCALEESE elected president; percent of vote - Mary MCALEESE 44.8%, Mary BANOTTI 29.6%"
+      },
+      "note": "government coalition - Fianna Fail, the Green Party, the Progressive Democrats (disbanding), and independent members of Parliament"
+    },
+    "note": "on 8 November 2008, delegates voted to disband the party, but as of January 2009, the party was still operating",
+    "Legislative branch": {
+      "text": "bicameral Parliament or Oireachtas consists of the Senate or Seanad Eireann (60 seats; 49 members elected by the universities and from candidates put forward by five vocational panels, 11 are nominated by the prime minister; members serve five-year terms) and the House of Representatives or Dail Eireann (166 seats; members are elected by popular vote on the basis of proportional representation to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held in July 2007 (next to be held by July 2012); House of Representatives - last held 24 May 2007 (next to be held by May 2012)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - Fianna Fail 28, Fine Gael 14, Labor Party 6, Progressive Democrats 2, Green Party 2, Sein Fein 1, independents 7; House of Representatives - percent of vote by party - Fianna Fail 41.6%, Fine Gael 27.3%, Labor Party 10.1%, Sinn Fein 6.9%, Green Party 4.7%, Progressive Democrats 2.7%, other 6.7%; seats by party - Fianna Fail 78, Fine Gael 51, Labor Party 20, Sinn Fein 4, Green Party 6, Progressive Democrats 2, independents 4, Speaker of the Dail 1"
+      },
+      "note": "on 8 November 2008, delegates voted to disband the party, but as of January 2009, the party was still operating"
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges appointed by the president on the advice of the prime minister and cabinet)"
+    },
+    "Political parties and leaders": {
+      "text": "Fianna Fail [Brian COWEN]; Fine Gael [Enda KENNY]; Green Party [John GORMLEY]; Labor Party [Eamon GILMORE]; Progressive Democrats [Ciaran CANNON] (disbanding); Sinn Fein [Gerry ADAMS]; Socialist Party [Joe HIGGINS]; The Workers' Party [Mick FINNEGAN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Families Acting for Innocent Relatives or FAIR [Brian McCONNELL] (seek compensation for victims of violence); Families Against Intimidation and Terror or FAIT (oppose terrorism); Gaeltacht Civil Rights Campaign (Coiste Cearta Sibhialta na Gaeilge) or CCSG (encourages the use of the Irish language and campaigns for greater civil rights in Irish speaking areas); Irish Republican Army or IRA (terrorist group); Keep Ireland Open (environmental group); Midland Railway Action Group or MRAG [Willie ALLEN] (transportation promoters); Rail Users Ireland (formerly the Platform 11 - transportation promoters); 32 Country Sovereignty Movement or 32CSM (supports a fully sovereign Ireland); Ulster Defence Association or UDA (terrorist group)"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), Australia Group, BIS, CE, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUC, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UPU, WCO, WEU (observer), WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Michael COLLINS"
+      },
+      "chancery": {
+        "text": "2234 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 462-3939"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-5993"
+      },
+      "consulate(s) general": {
+        "text": "Boston, Chicago, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Daniel ROONEY; note - has not yet presented his credentials to Ireland"
+      },
+      "embassy": {
+        "text": "42 Elgin Road, Ballsbridge, Dublin 4"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[353] (1) 668-8777"
+      },
+      "FAX": {
+        "text": "[353] (1) 668-9946"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), white, and orange; similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Ireland is a small, modern, trade-dependent economy. GDP growth averaged 6% in 1995-2007, but economic activity dropped sharply in 2008 and Ireland entered into a recession for the first time in more than a decade with the onset of the world financial crisis and subsequent severe slowdown in the property and construction markets. Agriculture, once the most important sector, is now dwarfed by industry and services. Although the export sector, dominated by foreign multinationals, remains a key component of Ireland's economy, construction most recently fueled economic growth along with strong consumer spending and business investment. Property prices rose more rapidly in Ireland in the decade up to 2006 than in any other developed world economy. Per capita GDP also surged during Ireland's high-growth years, and in 2007 surpassed that of the United States. The Irish Government has implemented a series of national economic programs designed to curb price and wage inflation, invest in infrastructure, increase labor force skills, and promote foreign investment. In 2008 the COWEN government moved to guarantee all bank deposits, recapitalize the banking system, and establish partly-public venture capital funds in response to the country's economic downturn. Ireland joined in circulating the euro on 1 January 2002 along with 11 other EU nations."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$183.9 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$267.6 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$45,300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "5%"
+      },
+      "industry": {
+        "text": "46%"
+      },
+      "services": {
+        "text": "49% (2002 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.241 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "6%"
+      },
+      "industry": {
+        "text": "27%"
+      },
+      "services": {
+        "text": "67% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.6% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "7% (2005 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.9%"
+      },
+      "highest 10%": {
+        "text": "27.2% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.9 (1987)"
+    },
+    "Investment (gross fixed)": {
+      "text": "21.2% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$92.57 billion"
+      },
+      "expenditures": {
+        "text": "$109.9 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "31.2% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2007)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.52% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders"
+    },
+    "Stock of quasi money": {
+      "text": "$NA"
+    },
+    "Stock of domestic credit": {
+      "text": "$545.2 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$163.4 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "turnips, barley, potatoes, sugar beets, wheat; beef, dairy products"
+    },
+    "Industries": {
+      "text": "steel, lead, zinc, silver, aluminum, barite, and gypsum mining processing; food products, brewing, textiles, clothing; chemicals, pharmaceuticals; machinery, rail transportation equipment; glass and crystal; software, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "5% (2007 est.)"
+    },
+    "Electricity - production": {
+      "text": "26.06 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "25.12 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "303 million kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "753 million kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "188,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "22,710 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "190,800 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "438 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "5.217 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "4.798 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "9.911 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$14.12 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$115.5 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, computers, chemicals, pharmaceuticals; live animals, animal products"
+    },
+    "Exports - partners": {
+      "text": "UK 18.6%, US 18.6%, Belgium 14.7%, Germany 7%, France 5.9%, Spain 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$84.76 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing"
+    },
+    "Imports - partners": {
+      "text": "UK 37.7%, US 11.6%, Germany 8.7%, Netherlands 5.6% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$926.2 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$2.263 trillion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$179 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$139.6 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6827 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "2.202 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.048 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern digital system using cable and microwave radio relay"
+      },
+      "domestic": {
+        "text": "system privatized but dominated by former state monopoly operator; increasing levels of broadband access"
+      },
+      "international": {
+        "text": "country code - 353; landing point for the Hibernia-Atlantic submarine cable with links to the US, Canada, and UK; satellite earth station - 1 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 9, FM 106, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "4 (many repeaters); (projected digital broadcasting scheduled to be launched in 2009) (2008)"
+    },
+    "Internet country code": {
+      "text": ".ie"
+    },
+    "Internet hosts": {
+      "text": "1.303 million (2009)"
+    },
+    "Internet users": {
+      "text": "2.83 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "39 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "6 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "22"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "20 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 1,550 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,237 km"
+      },
+      "broad gauge": {
+        "text": "1,872 km 1.600-m gauge (37 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "96,602 km"
+      },
+      "paved": {
+        "text": "96,602 km (includes 200 km of expressways) (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "956 km (pleasure craft only) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "29"
+      },
+      "by type": {
+        "text": "cargo 25, chemical tanker 2, container 1, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "2 (US 2)"
+      },
+      "registered in other countries": {
+        "text": "21 (Bahamas 2, Bermuda 1, Bulgaria 1, Cyprus 3, Isle of Man 1, Marshall Islands 1, Netherlands 10, Slovakia 1, UK 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cork, Dublin, Shannon Foynes"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Irish Defense Forces (Oglaigh na h-Eireann)": {
+        "text": "Army (includes Naval Service and Air Corps (Aer-Chor na h-Eireann)) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17-25 years of age for male or female voluntary military service (17-27 years of age for the Naval Service); enlistees 16 years of age can be recruited for apprentice specialist positions; maximum obligation 12 years; 17-35 years of age for the Reserve Defense Forces; EU citizenship or 5-year residence in Ireland required (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,024,635"
+      },
+      "females age 16-49": {
+        "text": "1,024,276 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "857,162"
+      },
+      "females age 16-49": {
+        "text": "854,416 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "28,072"
+      },
+      "female": {
+        "text": "26,400 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.9% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern\r\n"
+    }
+  }
+}

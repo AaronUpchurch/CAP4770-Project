@@ -1,0 +1,717 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian empires until it won independence from notional British control in 1919. A brief experiment in democracy ended in a 1973 coup and a 1978 Communist counter-coup. The Soviet Union invaded in 1979 to support the tottering Afghan Communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-Communist mujahedin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks in New York City, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Osama BIN LADIN. The UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and the National Assembly was inaugurated the following December. Despite gains toward building a stable central government, a resurgent Taliban and continuing provincial instability - particularly in the south and the east - remain serious challenges for the Afghan Government."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, north and west of Pakistan, east of Iran"
+    },
+    "Geographic coordinates": {
+      "text": "33 00 N, 65 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "652,230 sq km"
+      },
+      "land": {
+        "text": "652,230 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,529 km"
+      },
+      "border countries": {
+        "text": "China 76 km, Iran 936 km, Pakistan 2,430 km, Tajikistan 1,206 km, Turkmenistan 744 km, Uzbekistan 137 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "arid to semiarid; cold winters and hot summers"
+    },
+    "Terrain": {
+      "text": "mostly rugged mountains; plains in north and southwest"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Amu Darya 258 m"
+      },
+      "highest point": {
+        "text": "Nowshak 7,485 m"
+      }
+    },
+    "Natural resources": {
+      "text": "natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stones"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "12.13%"
+      },
+      "permanent crops": {
+        "text": "0.21%"
+      },
+      "other": {
+        "text": "87.66% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "27,200 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "65 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "23.26  cu km/yr (2%/0%/98%)"
+      },
+      "per capita": {
+        "text": "779  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "damaging earthquakes occur in Hindu Kush mountains; flooding; droughts"
+    },
+    "Environment - current issues": {
+      "text": "limited natural fresh water resources; inadequate supplies of potable water; soil degradation; overgrazing; deforestation (much of the remaining forests are being cut down for fuel and building materials); desertification; air and water pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "Hazardous Wastes, Law of the Sea, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "28.396 million (July 2009 est.)",
+      "note": "this is a significantly revised figure; the previous estimate of 33,609,937 was extrapolated from the last Afghan census held in 1979, which was never completed because of the Soviet invasion; a new Afghan census is scheduled to take place in 2010"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "44.5% (male 7,664,670/female 7,300,446)"
+      },
+      "15-64 years": {
+        "text": "53% (male 9,147,846/female 8,679,800)"
+      },
+      "65 years and over": {
+        "text": "2.4% (male 394,572/female 422,603) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "17.6 years"
+      },
+      "male": {
+        "text": "17.6 years"
+      },
+      "female": {
+        "text": "17.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.629% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "45.46 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "19.18 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "21 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "24% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "5.4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.93 male(s)/female"
+      },
+      "total population": {
+        "text": "1.05 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "151.95 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "156.01 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "147.7 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "44.64 years"
+      },
+      "male": {
+        "text": "44.47 years"
+      },
+      "female": {
+        "text": "44.81 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "6.53 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.01% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Afghan(s)"
+      },
+      "adjective": {
+        "text": "Afghan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Pashtun 42%, Tajik 27%, Hazara 9%, Uzbek 9%, Aimak 4%, Turkmen 3%, Baloch 2%, other 4%"
+    },
+    "Religions": {
+      "text": "Sunni Muslim 80%, Shia Muslim 19%, other 1%"
+    },
+    "Languages": {
+      "text": "Afghan Persian or Dari (official) 50%, Pashto (official) 35%, Turkic languages (primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%, much bilingualism"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "28.1%"
+      },
+      "male": {
+        "text": "43.1%"
+      },
+      "female": {
+        "text": "12.6% (2000 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "8 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "4 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Islamic Republic of Afghanistan "
+      },
+      "conventional short form": {
+        "text": "Afghanistan"
+      },
+      "local long form": {
+        "text": "Jomhuri-ye Eslami-ye Afghanestan"
+      },
+      "local short form": {
+        "text": "Afghanestan"
+      },
+      "former": {
+        "text": "Republic of Afghanistan"
+      }
+    },
+    "Government type": {
+      "text": "Islamic republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kabul"
+      },
+      "geographic coordinates": {
+        "text": "34 31 N, 69 11 E"
+      },
+      "time difference": {
+        "text": "UTC+4.5 (9.5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "34 provinces (welayat, singular - welayat); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul"
+    },
+    "Independence": {
+      "text": "19 August 1919 (from UK control over Afghan foreign affairs)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 19 August (1919)"
+    },
+    "Constitution": {
+      "text": "new constitution drafted 14 December 2003-4 January 2004; signed 16 January 2004; ratified 26 January 2004"
+    },
+    "Legal system": {
+      "text": "based on mixed civil and Sharia law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President of the Islamic Republic of Afghanistan Hamid KARZAI (since 7 December 2004); First Vice President Ahmad Zia MASOOD; Second Vice President Abdul Karim KHALILI (since 7 December 2004); note - the president is both the chief of state and head of government; former King ZAHIR Shah held the honorific, \"Father of the Country,\" and presided symbolically over certain occasions but lacked any governing authority; the honorific is not hereditary; King ZAHIR Shah died on 23 July 2007"
+      },
+      "head of government": {
+        "text": "President of the Islamic Republic of Afghanistan Hamid KARZAI (since 7 December 2004); First Vice President Ahmad Zia MASOOD; Second Vice President Abdul Karim KHALILI (since 7 December 2004)"
+      },
+      "cabinet": {
+        "text": "25 ministers; note - under the new constitution, ministers are appointed by the president and approved by the National Assembly"
+      },
+      "elections": {
+        "text": "the president and two vice presidents are elected by direct vote for a five-year term (eligible for a second term); if no candidate receives 50% or more of the vote in the first round of voting, the two candidates with the most votes will participate in a second round; a president can only be elected for two terms; election last held 20 August 2009 (next to be held in 2014)"
+      },
+      "election results": {
+        "text": "Hamid KARZAI reelected president; percent of vote - Hamid KARZAI 54.6%, Abdullah ABDULLAH 27.8%, Ramazan BASHARDOST 9.2%, Ashraf GHANI 2.7% (as reported by the Independent Election Commission of Afghanistan on 16 September 2009)"
+      },
+      "note": "on 2 November 2009, following the cancellation of the planned 7 November election runoff, the UN-backed Electoral Complaints Commission officially declared Hamid KARZAI the winner of the 20 August presidential election"
+    },
+    "note": "on rare occasions the government may convene a Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it can amend the provisions of the constitution and prosecute the president; it is made up of members of the National Assembly and chairpersons of the provincial and district councils",
+    "Legislative branch": {
+      "text": "the bicameral National Assembly consists of the Meshrano Jirga or House of Elders (102 seats, one-third elected from provincial councils for four-year terms, one-third elected from local district councils for three-year terms, and one-third nominated by the president for five-year terms) and the Wolesi Jirga or House of People (no more than 249 seats), directly elected for five-year terms",
+      "note": "on rare occasions the government may convene a Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it can amend the provisions of the constitution and prosecute the president; it is made up of members of the National Assembly and chairpersons of the provincial and district councils",
+      "elections": {
+        "text": "last held 18 September 2005 (next election expected in 2010)"
+      },
+      "election results": {
+        "text": "the single non-transferable vote (SNTV) system used in the election did not make use of political party slates; most candidates ran as independents"
+      }
+    },
+    "Judicial branch": {
+      "text": "the constitution establishes a nine-member Stera Mahkama or Supreme Court (its nine justices are appointed for 10-year terms by the president with approval of the Wolesi Jirga) and subordinate High Courts and Appeals Courts; there is also a minister of justice; a separate Afghan Independent Human Rights Commission established by the Bonn Agreement is charged with investigating human rights abuses and war crimes"
+    },
+    "Political parties and leaders": {
+      "text": "United Afghanistan Party [Mohammad Wasil RAHIMEE]; United Islamic Party of Afghanistan [Wahidullah SABAWOON]; Young Afghanistan's Islamic Organization [Sayed Jawad HUSSINEE]; Youth Solidarity Party of Afghanistan [Mohammad Jamil KARZAI]; note - includes only political parties approved by the Ministry of Justice"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "religious groups; tribal leaders; ethnically based groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, CP, ECO, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (guest), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Said Tayeb JAWAD"
+      },
+      "chancery": {
+        "text": "2341 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 483-6410"
+      },
+      "FAX": {
+        "text": "[1] (202) 483-6488"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Deputy Ambassador Francis J. RICCIARDONE, Jr."
+      },
+      "embassy": {
+        "text": "The Great Masood Road, Kabul"
+      },
+      "mailing address": {
+        "text": "U.S. Embassy Kabul, APO, AE 09806"
+      },
+      "telephone": {
+        "text": "[93] 0700 108 001"
+      },
+      "FAX": {
+        "text": "[93] 0700 108 564"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other two bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning \"God is great\"), and at bottom center is a scroll bearing the name Afghanistan"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "Afghanistan's economy is recovering from decades of conflict. The economy has improved significantly since the fall of the Taliban regime in 2001 largely because of the infusion of international assistance, the recovery of the agricultural sector, and service sector growth. Real GDP growth fell from the 10% level in 2006-07 to a little more than 3% in 2008. Despite the progress of the past few years, Afghanistan is extremely poor, landlocked, and highly dependent on foreign aid, agriculture, and trade with neighboring countries. Much of the population continues to suffer from shortages of housing, clean water, electricity, medical care, and jobs. Criminality, insecurity, and the Afghan Government's inability to extend rule of law to all parts of the country pose challenges to future economic growth. It will probably take the remainder of the decade and continuing donor aid and attention to significantly raise Afghanistan's living standards from its current level, among the lowest in the world. International pledges made by more than 60 countries and international financial institutions at the Berlin Donors Conference for Afghan reconstruction in March 2004 reached $8.9 billion for 2004-09. While the international community remains committed to Afghanistan's development, pledging over $57 billion at three donors' conferences since 2002, Kabul will need to overcome a number of challenges. Expanding poppy cultivation and a growing opium trade generate roughly $3 billion in illicit economic activity and looms as one of Kabul's most serious policy concerns. Other long-term challenges include": {
+        "text": "budget sustainability, job creation, corruption, government capacity, and rebuilding war torn infrastructure."
+      }
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$19.25 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "Afghanistan has also received $2.6 billion from the Reconstruction Trust Fund and $63 million from the Law and Order Trust Fund (2007 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$11.71 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "31%"
+      },
+      "industry": {
+        "text": "26%"
+      },
+      "services": {
+        "text": "43%"
+      },
+      "note": "data exclude opium production (2008 est.)"
+    },
+    "Labor force": {
+      "text": "15 million (2004 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "80%"
+      },
+      "industry": {
+        "text": "10%"
+      },
+      "services": {
+        "text": "10% (2004 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "40% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "53% (2003)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$890 million"
+      },
+      "expenditures": {
+        "text": "$2.7 billion"
+      },
+      "note": "Afghanistan has also received $2.6 billion from the Reconstruction Trust Fund and $63 million from the Law and Order Trust Fund (2007 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "13% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "18.14% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.426 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$958.6 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$12.04 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "opium, wheat, fruits, nuts; wool, mutton, sheepskins, lambskins"
+    },
+    "Industries": {
+      "text": "small-scale production of textiles, soap, furniture, shoes, fertilizer, cement; handwoven carpets; natural gas, coal, copper"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "839 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.01 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "230 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "5,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,404 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "30 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "30 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "49.55 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$67 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$274 million (2006); note - not including illicit exports or reexports"
+    },
+    "Exports - commodities": {
+      "text": "opium, fruits and nuts, handwoven carpets, wool, cotton, hides and pelts, precious and semi-precious gems"
+    },
+    "Exports - partners": {
+      "text": "India 20.5%, Pakistan 18.5%, US 17.2%, Tajikistan 13.3%, Netherlands 7.2% (2008)"
+    },
+    "Imports": {
+      "text": "$3.823 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "capital goods, food, textiles, petroleum products"
+    },
+    "Imports - partners": {
+      "text": "Pakistan 36.9%, US 9.5%, Germany 7.7%, India 5.2% (2008)"
+    },
+    "Debt - external": {
+      "text": "$8 billion (2004)"
+    },
+    "Exchange rates": {
+      "text": "afghanis (AFA) per US dollar - 50 (2007), 46 (2006), 47.7 (2005), 48 (2004), 49 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "460,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "8.45 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "limited landline telephone service; an increasing number of Afghans utilize mobile-cellular phone networks in major cities"
+      },
+      "domestic": {
+        "text": "aided by the presence of multiple providers, mobile-cellular telephone service is improving rapidly"
+      },
+      "international": {
+        "text": "country code - 93; five VSAT's installed in Kabul, Herat, Mazar-e-Sharif, Kandahar, and Jalalabad provide international and domestic voice and data connectivity (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 21, FM 5, shortwave 1 (broadcasts in Pashto, Dari (Afghan Persian), Urdu, and English) (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "at least 7 (1 government-run central television station in Kabul and regional stations in 6 of the 34 provinces) (2006)"
+    },
+    "Internet country code": {
+      "text": ".af"
+    },
+    "Internet hosts": {
+      "text": "47 (2009)"
+    },
+    "Internet users": {
+      "text": "500,000 (2008)"
+    },
+    "Communications - note": {
+      "text": "Internet access is growing through Internet cafes as well as public \"telekiosks\" in Kabul (2005)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "51 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "35"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "16"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "9 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "11 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 466 km (2008)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "42,150 km"
+      },
+      "paved": {
+        "text": "12,350 km"
+      },
+      "unpaved": {
+        "text": "29,800 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "1,200 km (chiefly Amu Darya, which handles vessels up to 500 DWT) (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Kheyrabad, Shir Khan"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Afghan Armed Forces": {
+        "text": "Afghan National Army (ANA, includes Afghan National Army Air Corps) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "22 years of age; inductees are contracted into service for a 4-year term (2005)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "7,431,147"
+      },
+      "females age 16-49": {
+        "text": "7,004,819 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,371,193"
+      },
+      "females age 16-49": {
+        "text": "4,072,945 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "382,720"
+      },
+      "female": {
+        "text": "361,733 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.9% of GDP (2006 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to foreign terrorists and other illegal activities"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "132,246 (mostly Pashtuns and Kuchis displaced in south and west due to drought and instability) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "world's largest producer of opium; poppy cultivation decreased 22% to 157,000 hectares in 2008 but remains at a historically high level; less favorable growing conditions in 2008 reduced potential opium production to 5,500 metric tons, down 31 percent from 2007; if the entire opium crop were processed, 648 metric tons of pure heroin potentially could be produced; the Taliban and other antigovernment groups participate in and profit from the opiate trade, which is a key source of revenue for the Taliban inside Afghanistan; widespread corruption and instability impede counterdrug efforts; most of the heroin consumed in Europe and Eurasia is derived from Afghan opium; vulnerable to drug money laundering through informal financial networks; regional source of hashish (2008)"
+    }
+  }
+}

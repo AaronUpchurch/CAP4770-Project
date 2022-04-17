@@ -1,0 +1,825 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Close ties to France since independence in 1960, the development of cocoa production for export, and foreign investment made Cote d'Ivoire one of the most prosperous of the West African states but did not protect it from political turmoil. In December 1999, a military coup - the first ever in Cote d'Ivoire's history - overthrew the government. Junta leader Robert GUEI blatantly rigged elections held in late 2000 and declared himself the winner. Popular protest forced him to step aside and brought Laurent GBAGBO into power. Ivorian dissidents and disaffected members of the military launched a failed coup attempt in September 2002 that developed into a rebellion and then a civil war. The war ended in 2003 with a cease fire that left the country divided with the rebels holding the north, the government the south, and peacekeeping forces in a buffer zone between the two. In March 2007, President GBAGBO and former New Forces rebel leader Guillaume SORO signed an agreement in which SORO joined GBAGBO's government as prime minister and the two agreed to reunite the country by dismantling the buffer zone, integrating rebel forces into the national armed forces, and holding elections. Difficulties in preparing electoral registers delayed balloting until 2010. In November 2010, Alassane Dramane OUATTARA won the presidential election over GBAGBO, but GBAGBO refused to hand over power, resulting in a five-month stand-off. In April 2011, after widespread fighting, GBAGBO was formally forced from office by armed OUATTARA supporters with the help of UN and French forces. Several thousand UN peacekeepers and several hundred French troops remain in Cote d'Ivoire to support the transition process. OUATTARA is focused on rebuilding the country's infrastructure and military after the five months of post-electoral fighting, and faces ongoing threats from GBAGBO supporters many of whom have sought shelter in Ghana. GBAGBO is in The Hague awaiting trial for crimes against humanity."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia"
+    },
+    "Geographic coordinates": {
+      "text": "8 00 N, 5 00 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "322,463 sq km"
+      },
+      "land": {
+        "text": "318,003 sq km "
+      },
+      "water": {
+        "text": "4,460 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than New Mexico"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,110 km"
+      },
+      "border countries": {
+        "text": "Burkina Faso 584 km, Ghana 668 km, Guinea 610 km, Liberia 716 km, Mali 532 km "
+      }
+    },
+    "Coastline": {
+      "text": "515 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      },
+      "continental shelf": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)"
+    },
+    "Terrain": {
+      "text": "mostly flat to undulating plains; mountains in northwest"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Gulf of Guinea 0 m"
+      },
+      "highest point": {
+        "text": "Monts Nimba 1,752 m "
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, gold, nickel, tantalum, silica sand, clay, cocoa beans, coffee, palm oil, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10.23%"
+      },
+      "permanent crops": {
+        "text": "11.16% "
+      },
+      "other": {
+        "text": "78.61% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "730 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "81 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.93  cu km/yr (24%/12%/65%)"
+      },
+      "per capita": {
+        "text": "51  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "coast has heavy surf and no natural harbors; during the rainy season torrential flooding is possible"
+    },
+    "Environment - current issues": {
+      "text": "deforestation (most of the country's forests - once the largest in West Africa - have been heavily logged); water pollution from sewage and industrial and agricultural effluents"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "most of the inhabitants live along the sandy coastal region; apart from the capital area, the forested interior is sparsely populated"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Ivoirian(s) "
+      },
+      "adjective": {
+        "text": "Ivoirian "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Akan 42.1%, Voltaiques or Gur 17.6%, Northern Mandes 16.5%, Krous 11%, Southern Mandes 10%, other 2.8% (includes 130,000 Lebanese and 14,000 French) (1998)"
+    },
+    "Languages": {
+      "text": "French (official), 60 native dialects of which Dioula is the most widely spoken"
+    },
+    "Religions": {
+      "text": "Muslim 38.6%, Christian 32.8%, indigenous 11.9%, none 16.7% (2008 est.)",
+      "note": "the majority of foreigners (migratory workers) are Muslim (70%) and Christian (20%) "
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) ",
+    "Population": {
+      "text": "21,952,093 (July 2012 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected "
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "39.3% (male 4,354,420/ female 4,282,080)"
+      },
+      "15-64 years": {
+        "text": "57.6% (male 6,429,565/ female 6,205,777) "
+      },
+      "65 years and over": {
+        "text": "3.1% (male 333,630/ female 346,621) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "19.8 years"
+      },
+      "male": {
+        "text": "19.9 years "
+      },
+      "female": {
+        "text": "19.7 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "2.044% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "30.4 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "9.96 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "51% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "3.7% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "ABIDJAN (seat of government) 4.009 million; YAMOUSSOUKRO (capital) 808,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "1.04 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.96 male(s)/female "
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "400 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "63.2 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "69.77 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "56.42 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "57.25 years"
+      },
+      "male": {
+        "text": "56.21 years "
+      },
+      "female": {
+        "text": "58.33 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.82 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "5.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.144 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "0.4 beds/1,000 population (2006)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "64% of population "
+      },
+      "rural": {
+        "text": "89% of population "
+      },
+      "total": {
+        "text": "77% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "3.4% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "450,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "36,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever "
+      },
+      "vectorborne diseases": {
+        "text": "malaria and yellow fever "
+      },
+      "water contact": {
+        "text": "schistosomiasis "
+      },
+      "animal contact disease": {
+        "text": "rabies "
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) "
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "16.7% (2006)"
+    },
+    "Education expenditures": {
+      "text": "4.6% of GDP (2008)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "56.2% "
+      },
+      "male": {
+        "text": "65.2% "
+      },
+      "female": {
+        "text": "46.6% (2010 est.) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "6 years"
+      },
+      "male": {
+        "text": "8 years "
+      },
+      "female": {
+        "text": "5 years (2000) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Cote d'Ivoire "
+      },
+      "conventional short form": {
+        "text": "Cote d'Ivoire "
+      },
+      "local long form": {
+        "text": "Republique de Cote d'Ivoire "
+      },
+      "local short form": {
+        "text": "Cote d'Ivoire "
+      },
+      "note": "pronounced coat-div-whar ",
+      "former": {
+        "text": "Ivory Coast "
+      }
+    },
+    "note": "adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital ",
+    "Government type": {
+      "text": "republic; multiparty presidential regime established 1960"
+    },
+    "Capital": {
+      "name": {
+        "text": "Yamoussoukro"
+      },
+      "geographic coordinates": {
+        "text": "6 49 N, 5 16 W "
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time) "
+      },
+      "note": "although Yamoussoukro has been the official capital since 1983, Abidjan remains the commercial and administrative center; the US, like other countries, maintains its Embassy in Abidjan "
+    },
+    "Administrative divisions": {
+      "text": "19 regions; Agneby, Bafing, Bas-Sassandra, Denguele, Dix-Huit Montagnes, Fromager, Haut-Sassandra, Lacs, Lagunes, Marahoue, Moyen-Cavally, Moyen-Comoe, N'zi-Comoe, Savanes, Sud-Bandama, Sud-Comoe, Vallee du Bandama, Worodougou, Zanzan"
+    },
+    "Independence": {
+      "text": "7 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 7 August (1960)"
+    },
+    "Constitution": {
+      "text": "approved by referendum 23 July 2000"
+    },
+    "Legal system": {
+      "text": "civil law system based on the French civil code; judicial review in the Constitutional Chamber of the Supreme Court"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction under Article 12(3)of the Rome Statute"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Alassane Dramane OUATTARA (since 4 December 2010)"
+      },
+      "head of government": {
+        "text": "Prime Minister Daniel Kablan DUNCAN (since 21 November 2012) "
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president "
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (no term limits); election last held on 31 October and 28 November 2010 (next to be held in 2015); prime minister appointed by the president "
+      },
+      "election results": {
+        "text": "Alassane OUATTARA elected president; percent of vote - Alassane OUATTARA 54.1%, Laurent GBAGBO 45.9%; note - President OUATTARA was declared winner by the election commission and took the oath of office on 4 December, Prime Minister SORO resigned from the incumbent administration and was subsequently appointed to the same position by OUATTARA; former president GBAGBO refused to cede resulting in a 5-month stand-off, he was finally forced to stand down in April 2011 "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Assemblee Nationale (225 seats; members elected in single- and multi-district elections by direct popular vote to serve five-year terms)",
+      "elections": {
+        "text": "elections last held on 11 December 2011 (next to be held in 2016) "
+      },
+      "election results": {
+        "text": "percent of vote by party - RDR 42.1%, PDCI 28.6% UDPCI 3.1%, RDP 1.7%, other 24.5% ; seats by party - RDR 127, PDCI 76, UPDCI 7, RDP 4, other 4, independents 39 "
+      }
+    },
+    "Judicial branch": {
+      "Supreme Court or Cour Supreme consists of four chambers": {
+        "text": "Judicial Chamber for criminal cases, Audit Chamber for financial cases, Constitutional Chamber for judicial review cases, and Administrative Chamber for civil cases; there is no legal limit to the number of members"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Citizen's Democratic Union or UDCY [Theodore MEL EG]; Democratic Liberty for the Republic or LIDER [Mamadou KOULIBALY]; Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]; Freedom and Democracy for the Republic or LIBRE [Mamadou KOULIBALY]; Ivorian Popular Front or FPI [Miaka OURETO]; Ivorian Worker's Party or PIT [Francois KOUABLAN]; Opposition Movement of the Future or MFA [Innocent Augustin ANAKY]; Rally of the Republicans or RDR [Alassane OUATTARA]; Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Toikeuse MABRI]; over 144 smaller registered parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Federation of University and High School Students of Cote d'Ivoire or FESCI [Serges KOFFI]; National Congress for the Resistance and Democracy or CNRD [Bernard DADIE]; Rally of Houphouetists for Democracy and Peace or RHDP [Alphonse DJEDJE MADY]; Young Patriots [Charles BLE GOUDE]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, ECOWAS, EITI (candidate country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Daouda DIABATE"
+      },
+      "chancery": {
+        "text": "2424 Massachusetts Avenue NW, Washington, DC 20008 "
+      },
+      "telephone": {
+        "text": "[1] (202) 797-0300 "
+      },
+      "FAX": {
+        "text": "[1] (202) 244-3088 "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Philip CARTER III"
+      },
+      "embassy": {
+        "text": "Cocody Riviera Golf 01, Abidjan "
+      },
+      "mailing address": {
+        "text": "B. P. 1712, Abidjan 01 "
+      },
+      "telephone": {
+        "text": "[225] 22 49 40 00 "
+      },
+      "FAX": {
+        "text": "[225] 22 49 43 32 "
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future",
+      "note": "similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France "
+    },
+    "National symbol(s)": {
+      "text": "elephant"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"L'Abidjanaise\" (Song of Abidjan)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO "
+      },
+      "note": "adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly 68% of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products, and, to a lesser extent, in climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country is also producing gold. Since the end of the civil war in 2003, political turmoil has continued to damage the economy, resulting in the loss of foreign investment and slow economic growth. In late 2011, Cote D'Ivoire's economy began to recover from a severe downturn of the first quarter of the year that was caused by widespread post-election fighting. In June 2012 the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative. Cote d'Ivoire's long term challenges include political instability and degrading infrastructure."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$38.47 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "data are in 2012 US dollars ",
+    "GDP (official exchange rate)": {
+      "text": "$24.27 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.4% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,700 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "28.8%"
+      },
+      "industry": {
+        "text": "21.8% "
+      },
+      "services": {
+        "text": "49.4% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "8.97 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "68%"
+      },
+      "industry and services": {
+        "text": "(2007 est.) (2007 est.) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "42% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.2%"
+      },
+      "highest 10%": {
+        "text": "31.8% (2008) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "36.7 (1995) "
+    },
+    "Investment (gross fixed)": {
+      "text": "12.1% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.391 billion"
+      },
+      "expenditures": {
+        "text": "$6.129 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "18.1% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-7.2% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "65% of GDP (2011 est.) "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.1% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2009 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.3% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$6.198 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$9.065 billion (31 December 2011 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$5.671 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$6.141 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "coffee, cocoa beans, bananas, palm kernels, corn, rice, cassava (manioc), sweet potatoes, sugar, cotton, rubber; timber"
+    },
+    "Industrial production growth rate": {
+      "text": "4.5% (2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$257.3 million (2011 est.) "
+    },
+    "Exports": {
+      "text": "$11.4 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "cocoa, coffee, timber, petroleum, cotton, bananas, pineapples, palm oil, fish"
+    },
+    "Exports - partners": {
+      "text": "Netherlands 11.3%, US 11.2%, Germany 7.2%, Nigeria 5.9%, Canada 5.8%, France 5.8%, South Africa 5.3% (2011)"
+    },
+    "Imports": {
+      "text": "$7.911 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "fuel, capital equipment, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Nigeria 35.1%, France 10%, China 5.6%, Colombia 4.8% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.316 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$8.539 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "447.81 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "5.533 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "3.576 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "484 million kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.222 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "50.6% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "49.4% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "45,000 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "46,340 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "70,610 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "250 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "70,870 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "24,630 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "49,810 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "3,101 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1.6 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.6 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "28.32 billion cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "5.936 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "268,200 (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "17.344 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "well developed by African standards; telecommunications sector privatized in late 1990s and operational fixed-lines have increased since that time with two fixed-line providers operating over open-wire lines, microwave radio relay, and fiber-optics; 90% digitalized"
+      },
+      "domestic": {
+        "text": "with multiple mobile-cellular service providers competing in the market, usage has increased sharply to roughly 80 per 100 persons "
+      },
+      "international": {
+        "text": "country code - 225; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2011) "
+      }
+    },
+    "Broadcast media": {
+      "text": "2 state-owned TV stations; no private terrestrial TV stations, but satellite TV subscription service is available; 2 state-owned radio stations; some private radio stations; transmissions of several international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".ci"
+    },
+    "Internet hosts": {
+      "text": "9,115 (2012)"
+    },
+    "Internet users": {
+      "text": "967,300 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "27 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "7"
+      },
+      "over 3,047 m": {
+        "text": "1 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "2 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "4 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "20"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6 "
+      },
+      "914 to 1,523 m": {
+        "text": "11 "
+      },
+      "under 914 m": {
+        "text": "3 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "1 (2012)"
+    },
+    "Pipelines": {
+      "text": "condensate 86 km; gas 180 km; oil 92 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "660 km"
+      },
+      "narrow gauge": {
+        "text": "660 km 1.000-m gauge "
+      },
+      "note": "an additional 622 km of this railroad extends into Burkina Faso (2008) "
+    },
+    "note": "includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable (2006) ",
+    "Roadways": {
+      "total": {
+        "text": "80,000 km"
+      },
+      "paved": {
+        "text": "6,500 km "
+      },
+      "unpaved": {
+        "text": "73,500 km "
+      },
+      "note": "includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable (2006) "
+    },
+    "Waterways": {
+      "text": "980 km (navigable rivers, canals, and numerous coastal lagoons) (2011)"
+    },
+    "Ports and terminals": {
+      "text": "Abidjan, Espoir, San-Pedro"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Republican Forces of Cote d'Ivoire (Force Republiques de Cote d'Ivoire, FRCI)": {
+        "text": "Army, Navy, Cote d'Ivoire Air Force (Force Aerienne de la Cote d'Ivoire)"
+      },
+      "note": "FRCI is the former Armed Forces of the New Forces (FAFN) (2011) "
+    },
+    "note": "FRCI is the former Armed Forces of the New Forces (FAFN) (2011) ",
+    "Military service age and obligation": {
+      "text": "18-25 years of age for compulsory and voluntary male and female military service; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29 (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,247,522"
+      },
+      "females age 16-49": {
+        "text": "5,047,901 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "3,360,087"
+      },
+      "females age 16-49": {
+        "text": "3,196,033 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "247,011"
+      },
+      "female": {
+        "text": "242,958 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "1.5% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "disputed maritime border between Cote d'Ivoire and Ghana"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "23,650 (Liberia) (2011)"
+      },
+      "IDPs": {
+        "text": "40,000 - 80,000 (post-election conflict in 2010-2011, as well as civil war from 2002-2004; most pronounced in western and southwestern regions) (2011) "
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis, mostly for local consumption; utility as a narcotic transshipment point to Europe reduced by ongoing political instability; while rampant corruption and inadequate supervision leave the banking system vulnerable to money laundering, the lack of a developed financial system limits the country's utility as a major money-laundering center (2008)"
+    }
+  }
+}

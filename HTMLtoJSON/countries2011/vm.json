@@ -1,0 +1,854 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The conquest of Vietnam by France began in 1858 and was completed by 1884. It became part of French Indochina in 1887. Vietnam declared independence after World War II, but France continued to rule until its 1954 defeat by Communist forces under Ho Chi MINH. Under the Geneva Accords of 1954, Vietnam was divided into the Communist North and anti-Communist South. US economic and military aid to South Vietnam grew through the 1960s in an attempt to bolster the government, but US armed forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South reuniting the country under Communist rule. Despite the return of peace, for over a decade the country experienced little economic growth because of conservative leadership policies, the persecution and mass exodus of individuals - many of them successful South Vietnamese merchants - and growing international isolation. However, since the enactment of Vietnam's \"doi moi\" (renovation) policy in 1986, Vietnamese authorities have committed to increased economic liberalization and enacted structural reforms needed to modernize the economy and to produce more competitive, export-driven industries. The Communist leaders, however, maintain control on political expression and have resisted outside calls to improve human rights. The country continues to experience small-scale protests from various groups, the vast majority connected to land-use issues, calls for increased political space and the lack of equitable mechanisms for resolving disputes. Various ethnic minorities, such as the Montagnards of the Central Highlands and the Khmer Krom in the southern delta region, have also held protests."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, bordering the Gulf of Thailand, Gulf of Tonkin, and South China Sea, as well as China, Laos, and Cambodia"
+    },
+    "Geographic coordinates": {
+      "text": "16 10 N, 107 50 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "331,210 sq km"
+      },
+      "land": {
+        "text": "310,070 sq km"
+      },
+      "water": {
+        "text": "21,140 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than New Mexico"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,639 km"
+      },
+      "border countries": {
+        "text": "Cambodia 1,228 km, China 1,281 km, Laos 2,130 km"
+      }
+    },
+    "Coastline": {
+      "text": "3,444 km (excludes islands)"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)"
+    },
+    "Terrain": {
+      "text": "low, flat delta in south and north; central highlands; hilly, mountainous in far north and northwest"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "South China Sea 0 m"
+      },
+      "highest point": {
+        "text": "Fan Si Pan 3,144 m"
+      }
+    },
+    "Natural resources": {
+      "text": "phosphates, coal, manganese, rare earth elements, bauxite, chromate, offshore oil and gas deposits, timber, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "20.14%"
+      },
+      "permanent crops": {
+        "text": "6.93%"
+      },
+      "other": {
+        "text": "72.93% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "46,000 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "891.2 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "71.39  cu km/yr (8%/24%/68%)"
+      },
+      "per capita": {
+        "text": "847  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "occasional typhoons (May to January) with extensive flooding, especially in the Mekong River delta"
+    },
+    "Environment - current issues": {
+      "text": "logging and slash-and-burn agricultural practices contribute to deforestation and soil degradation; water pollution and overfishing threaten marine life populations; groundwater contamination limits potable water supply; growing urban industrialization and population migration are rapidly degrading environment in Hanoi and Ho Chi Minh City"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "extending 1,650 km north to south, the country is only 50 km across at its narrowest point"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Vietnamese (singular and plural) "
+      },
+      "adjective": {
+        "text": "Vietnamese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Kinh (Viet) 85.7%, Tay 1.9%, Thai 1.8%, Muong 1.5%, Khmer 1.5%, Mong 1.2%, Nung 1.1%, others 5.3% (2009 census)"
+    },
+    "Languages": {
+      "text": "Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)"
+    },
+    "Religions": {
+      "text": "Buddhist 9.3%, Catholic 6.7%, Hoa Hao 1.5%, Cao Dai 1.1%, Protestant 0.5%, Muslim 0.1%, none 80.8% (1999 census)"
+    },
+    "Population": {
+      "text": "90,549,390 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "25.2% (male 11,945,354/female 10,868,610)"
+      },
+      "15-64 years": {
+        "text": "69.3% (male 31,301,879/female 31,419,306)"
+      },
+      "65 years and over": {
+        "text": "5.5% (male 1,921,652/female 3,092,589) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "27.8 years"
+      },
+      "male": {
+        "text": "26.8 years"
+      },
+      "female": {
+        "text": "28.9 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.077% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "17.07 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "5.96 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.35 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "30% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "3% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "Ho Chi Minh City 5.976 million; HANOI (capital) 2.668 million; Haiphong 1.941 million; Da Nang 807,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.117 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.1 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.62 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "56 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "20.9 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "21.27 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "20.48 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "72.18 years"
+      },
+      "male": {
+        "text": "69.72 years"
+      },
+      "female": {
+        "text": "74.92 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.91 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "7.2% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "1.224 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "2.87 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "1% of population"
+      },
+      "rural": {
+        "text": "8% of population"
+      },
+      "total": {
+        "text": "6% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "6% of population"
+      },
+      "rural": {
+        "text": "33% of population"
+      },
+      "total": {
+        "text": "25% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.4% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "280,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "14,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever, malaria, Japanese encephalitis, and plague"
+      },
+      "water contact disease": {
+        "text": "leptospirosis"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Obesity - adult prevalence rate": {
+      "text": "0.5% (2000)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "20.2% (2008)"
+    },
+    "Education expenditures": {
+      "text": "5.3% of GDP (2008)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "94%"
+      },
+      "male": {
+        "text": "96.1%"
+      },
+      "female": {
+        "text": "92% (2009 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "10 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "10 years (2001)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "4.6%"
+      },
+      "male": {
+        "text": "4.4%"
+      },
+      "female": {
+        "text": "4.9% (2004)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Socialist Republic of Vietnam "
+      },
+      "conventional short form": {
+        "text": "Vietnam"
+      },
+      "local long form": {
+        "text": "Cong Hoa Xa Hoi Chu Nghia Viet Nam"
+      },
+      "local short form": {
+        "text": "Viet Nam"
+      },
+      "abbreviation": {
+        "text": "SRV"
+      }
+    },
+    "Government type": {
+      "text": "Communist state"
+    },
+    "Capital": {
+      "name": {
+        "text": "Hanoi (Ha Noi)"
+      },
+      "geographic coordinates": {
+        "text": "21 02 N, 105 51 E"
+      },
+      "time difference": {
+        "text": "UTC+7 (12 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural)",
+      "provinces": {
+        "text": "An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dac Lak, Dac Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai"
+      },
+      "municipalities": {
+        "text": "Can Tho, Da Nang, Ha Noi, Hai Phong, Ho Chi Minh City"
+      }
+    },
+    "Independence": {
+      "text": "2 September 1945 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 2 September (1945)"
+    },
+    "Constitution": {
+      "text": "15 April 1992"
+    },
+    "Legal system": {
+      "text": "civil law system; note - the civil code of 2005 reflects a European style civil law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Trong Tan SANG (since 25 June 2011); Vice President Nguyen Thi DOAN (25 July 2007)"
+      },
+      "head of government": {
+        "text": "Prime Minister Nguyen Tan DUNG (since 27 June 2006); Deputy Prime Minister Hoang Trung HAI (since 2 August 2007), Deputy Prime Minister Nguyen Thien NHAN (since 2 August 2007), Deputy Prime Minister Vu Van NINH (since 3 August 2011), and Deputy Prime Minister Nguyen Xuan PHUC (since 3 August 2011)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by president based on proposal of prime minister and confirmed by National Assembly"
+      },
+      "elections": {
+        "text": "president elected by the National Assembly from among its members for five-year term; last election held 27 June 2006 (next to be held in July 2011); prime minister appointed by the president from among the members of the National Assembly; deputy prime ministers appointed by the prime minister; appointment of prime minister and deputy prime ministers confirmed by National Assembly"
+      },
+      "election results": {
+        "text": "Nguyen Minh TRIET elected president; percent of National Assembly vote - 94%; Nguyen Tan DUNG elected prime minister; percent of National Assembly vote - 92%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Quoc Hoi (500 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 22 May 2011 (next to be held in May 2016)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - CPV 458, non-party CPV-approved 38, self-nominated 4; note - 500 candidates were elected; CPV and non-party CPV-approved delegates were members of the Vietnamese Fatherland Front"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme People's Court (chief justice is elected by the National Assembly on the recommendation of the president for a five-year term)"
+    },
+    "Political parties and leaders": {
+      "text": "Communist Party of Vietnam or CPV [Nguyen Phu TRONG]; other parties proscribed"
+    },
+    "Political pressure groups and leaders": {
+      "text": "8406 Bloc; Democratic Party of Vietnam or DPV; People's Democratic Party Vietnam or PDP-VN; Alliance for Democracy",
+      "note": "these groups advocate democracy but are not recognized by the government"
+    },
+    "note": "adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; although it consists of two verses, only the first is used as the official anthem",
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Nguyen Quoc CUONG"
+      },
+      "chancery": {
+        "text": "1233 20th Street NW, Suite 400, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 861-0737"
+      },
+      "FAX": {
+        "text": "[1] (202) 861-0917"
+      },
+      "consulate(s) general": {
+        "text": "Houston, San Francisco"
+      },
+      "consulate": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador David B. SHEAR"
+      },
+      "embassy": {
+        "text": "7 Lang Ha Street, Ba Dinh District, Hanoi"
+      },
+      "mailing address": {
+        "text": "PSC 461, Box 400, FPO AP 96521-0002"
+      },
+      "telephone": {
+        "text": "[84] (4) 3850-5000"
+      },
+      "FAX": {
+        "text": "[84] (4) 3850-5010"
+      },
+      "consulate(s) general": {
+        "text": "Ho Chi Minh City"
+      }
+    },
+    "Flag description": {
+      "text": "red field with a large yellow five-pointed star in the center; red symbolizes revolution and blood, the five-pointed star represents the five elements of the populace - peasants, workers, intellectuals, traders, and soldiers - that unite to build socialism"
+    },
+    "National symbol(s)": {
+      "text": "yellow, five-pointed star on red field"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Tien quan ca\" (The Song of the Marching Troops)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Nguyen Van CAO"
+      },
+      "note": "adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; although it consists of two verses, only the first is used as the official anthem"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Vietnam is a densely-populated developing country that in the last 30 years has had to recover from the ravages of war, the loss of financial support from the old Soviet Bloc, and the rigidities of a centrally-planned economy. While Vietnam's economy remains dominated by state-owned enterprises (SOEs), which still produce about 40% of GDP, Vietnamese authorities have reaffirmed their commitment to economic liberalization and international integration. They have moved to implement the structural reforms needed to modernize the economy and to produce more competitive export-driven industries. Vietnam joined the WTO in January 2007 following more than a decade-long negotiation process. Vietnam became an official negotiating partner in the developing Trans-Pacific Partnership trade agreement in 2010. Agriculture's share of economic output has continued to shrink from about 25% in 2000 to about 20% in 2010, while industry's share increased from 36% to 41% in the same period. Deep poverty has declined significantly and Vietnam is working to create jobs to meet the challenge of a labor force that is growing by more than one million people every year. The global recession has hurt Vietnam's export-oriented economy, with GDP in 2009-10 growing less than the 7% per annum average achieved during the last decade. In 2010, exports increased by more than 25%, year-on-year, but the trade deficit remained high, prompting the government to consider administrative measures to limit the trade deficit. Vietnam's managed currency, the dong, continues to face downward pressure due to a persistent trade imbalance, and, since 2008, the government devalued it by 20% through a series of small devaluations. Foreign donors pledged nearly $8 billion in new development assistance for 2011. However, the government's strong growth-oriented economic policies have caused it to struggle to control one of the region's highest inflation rates, which reached 11.8% in 2010. Vietnam's economy also faces challenges from falling foreign exchange reserves, an undercapitalized banking sector, and high borrowing costs. The near-bankruptcy and subsequent default of the SOE Vinashin, a leading shipbuilder, led to a ratings downgrade of Vietnam's sovereign debt, exacerbating Vietnam's borrowing difficulties."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$245.9 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$103.6 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.3% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,800 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "20.6%"
+      },
+      "industry": {
+        "text": "41.1%"
+      },
+      "services": {
+        "text": "38.3% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "47.37 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "53.9%"
+      },
+      "industry": {
+        "text": "20.3%"
+      },
+      "services": {
+        "text": "25.8% (2009)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.6% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "10.6% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.2%"
+      },
+      "highest 10%": {
+        "text": "30.2% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "36.1 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "33.9% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$29.23 billion"
+      },
+      "expenditures": {
+        "text": "$34.95 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "28.2% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.5% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "49.8% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "8% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.068% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$30.6 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$103.4 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$110.4 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$9.589 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "paddy rice, coffee, rubber, cotton, tea, pepper, soybeans, cashews, sugar cane, peanuts, bananas; poultry; fish, seafood"
+    },
+    "Industries": {
+      "text": "food processing, garments, shoes, machine-building; mining, coal, steel; cement, chemical fertilizer, glass, tires, oil, paper"
+    },
+    "Industrial production growth rate": {
+      "text": "14% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "97.3 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "85.6 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "535 million kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "3.85 billion kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "343,200 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "320,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "277,300 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "182,300 bbl/day (2010 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "600 million bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "9.4 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "10.3 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "905,800 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "192.5 billion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$6.117 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$57.1 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "clothes, shoes, marine products, crude oil, electronics, wooden products, rice, machinery"
+    },
+    "Exports - partners": {
+      "text": "US 20%, Japan 10.7%, China 9.8%, South Korea 4.3% (2010 est.)"
+    },
+    "Imports": {
+      "text": "$65.4 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, petroleum products, steel products, raw materials for the clothing and shoe industries, electronics, plastics, automobiles"
+    },
+    "Imports - partners": {
+      "text": "China 23.8%, South Korea 11.6%, Japan 10.8%, Taiwan 8.4%, Thailand 6.7%, Singapore 4.9% (2010 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$16.8 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$28.67 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$66.95 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$5.3 billion (31 December 2008)"
+    },
+    "Exchange rates": {
+      "text": "15,983 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "16.4 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "154 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Vietnam is putting considerable effort into modernization and expansion of its telecommunication system"
+      },
+      "domestic": {
+        "text": "all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly"
+      },
+      "international": {
+        "text": "country code - 84; a landing point for the SEA-ME-WE-3, the C2C, and Thailand-Vietnam-Hong Kong submarine cable systems; the Asia-America Gateway submarine cable system, scheduled for completion by the end of 2008, will provide new access links to Asia and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government controls all broadcast media exercising oversight through the Ministry of Information and Communication (MIC); government-controlled national television provider, Vietnam Television (VTV), operates a network of 9 channels with several regional broadcasting centers; programming is relayed nationwide via a network of provincial and municipal TV stations; law limits access to satellite TV but many households are able to access foreign programming via home satellite equipment; government-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on 6 channels and is repeated on AM, FM, and shortwave stations throughout Vietnam (2008)"
+    },
+    "Internet country code": {
+      "text": ".vn"
+    },
+    "Internet hosts": {
+      "text": "129,318 (2010)"
+    },
+    "Internet users": {
+      "text": "23.382 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "44 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "37"
+      },
+      "over 3,047 m": {
+        "text": "9"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "14"
+      },
+      "914 to 1,523 m": {
+        "text": "9 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "3 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2010)"
+    },
+    "Pipelines": {
+      "text": "condensate 28 km; condensate/gas 10 km; gas 216 km; refined products 206 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,347 km"
+      },
+      "standard gauge": {
+        "text": "178 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "2,169 km 1.000-m gauge (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "171,392 km"
+      },
+      "paved": {
+        "text": "125,789 km"
+      },
+      "unpaved": {
+        "text": "45,603 km (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "17,702 km (5,000 km are navigable by vessels up to 1.8 m draft) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "537"
+      },
+      "by type": {
+        "text": "barge carrier 1, bulk carrier 103, cargo 330, chemical tanker 24, container 20, liquefied gas 7, passenger 1, passenger/cargo 1, petroleum tanker 46, refrigerated cargo 2, roll on/roll off 1, specialized tanker 1"
+      },
+      "registered in other countries": {
+        "text": "84 (Cambodia 1, Honduras 1, Liberia 3, Mongolia 34, Panama 37, Taiwan 1, Tuvalu 6, unknown 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cam Pha Port, Da Nang, Hai Phong, Ho Chi Minh City, Phu My, Quy Nhon"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "People's Armed Forces": {
+        "text": "People's Army of Vietnam (PAVN; includes People's Navy Command (with Naval Infantry, Coast Guard), Air and Air Defense Force (Khong Quan Nhan Dan), Border Defense Command), People's Public Security Forces, Militia Force, Self-Defense Forces (2010)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for male compulsory military service; females may volunteer for active duty military service; conscript service obligation - 2 years (3 to 4 years in the navy); 18-45 years of age (male) or 18-40 years of age (female) for Militia Force or Self Defense Forces (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "25,649,738"
+      },
+      "females age 16-49": {
+        "text": "24,995,692 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "20,405,847"
+      },
+      "females age 16-49": {
+        "text": "21,098,102 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "847,743"
+      },
+      "female": {
+        "text": "787,341 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.5% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "southeast Asian states have enhanced border surveillance to check the spread of avian flu; Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; Progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; an estimated 300,000 Vietnamese refugees reside in China; establishment of a maritime boundary with Cambodia is hampered by unresolved dispute over the sovereignty of offshore islands; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; China occupies the Paracel Islands also claimed by Vietnam and Taiwan; Brunei claims a maritime boundary extending beyond as far as a median with Vietnam, thus asserting an implicit claim to Lousia Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" has eased tensions but falls short of a legally binding \"code of conduct\" desired by several of the disputants; Vietnam continues to expand construction of facilities in the Spratly Islands; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Vietnam is a source and, to a lesser extent, a destination country for men, women, and children subjected to sex trafficking and conditions of forced labor; Vietnam is a source country for men and women who migrate abroad for work in the construction, fishing, agriculture, mining, logging, and manufacturing sectors, primarily in Taiwan, Malaysia, South Korea, Laos, the United Arab Emirates, and Japan, as well as in China, Thailand, Saudi Arabia, Libya, Indonesia, the United Kingdom, the Czech Republic, Cyprus, Sweden, Trinidad and Tobago, Costa Rica, Russia, and elsewhere in the Middle East, and some of these workers subsequently face conditions of forced labor; Vietnamese women and children are subjected to forced prostitution throughout Asia"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - the government passed new anti-trafficking legislation and a new five-year national action plan on trafficking; nevertheless, while a number of structural reforms were carried out during the year, there remained a lack of tangible progress in the prosecution of trafficking offenders and protection of trafficking victims; the government also did not take steps to increase its efforts to address the problem of internal trafficking (2011)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "minor producer of opium poppy; probable minor transit point for Southeast Asian heroin; government continues to face domestic opium/heroin/methamphetamine addiction problems despite longstanding crackdowns\r\n"
+    }
+  }
+}

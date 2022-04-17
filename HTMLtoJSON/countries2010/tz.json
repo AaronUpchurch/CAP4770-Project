@@ -1,0 +1,747 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the nation of Tanzania in 1964. One-party rule came to an end in 1995 with the first democratic elections held in the country since the 1970s. Zanzibar's semi-autonomous status and popular opposition have led to two contentious elections since 1995, which the ruling party won despite international observers' claims of voting irregularities."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique"
+    },
+    "Geographic coordinates": {
+      "text": "6 00 S, 35 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "947,300 sq km"
+      },
+      "land": {
+        "text": "885,800 sq km"
+      },
+      "water": {
+        "text": "61,500 sq km"
+      },
+      "note": "includes the islands of Mafia, Pemba, and Zanzibar"
+    },
+    "note": "includes the islands of Mafia, Pemba, and Zanzibar",
+    "Area - comparative": {
+      "text": "slightly larger than twice the size of California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,861 km"
+      },
+      "border countries": {
+        "text": "Burundi 451 km, Democratic Republic of the Congo 459 km, Kenya 769 km, Malawi 475 km, Mozambique 756 km, Rwanda 217 km, Uganda 396 km, Zambia 338 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,424 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "varies from tropical along coast to temperate in highlands"
+    },
+    "Terrain": {
+      "text": "plains along coast; central plateau; highlands in north, south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Kilimanjaro 5,895 m"
+      }
+    },
+    "Natural resources": {
+      "text": "hydropower, tin, phosphates, iron ore, coal, diamonds, gemstones, gold, natural gas, nickel"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "4.23%"
+      },
+      "permanent crops": {
+        "text": "1.16%"
+      },
+      "other": {
+        "text": "94.61% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,840 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "91 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "5.18  cu km/yr (10%/0%/89%)"
+      },
+      "per capita": {
+        "text": "135  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flooding on the central plateau during the rainy season; drought",
+      "volcanism": {
+        "text": "Tanzania experiences limited volcanic activity; Ol Doinyo Lengai (elev. 2,962 m, 9,718 ft) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru"
+      }
+    },
+    "Environment - current issues": {
+      "text": "soil degradation; deforestation; desertification; destruction of coral reefs threatens marine habitats; recent droughts affected marginal agriculture; wildlife threatened by illegal hunting and trade, especially for ivory"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "Kilimanjaro is highest point in Africa; bordered by three of the largest lakes on the continent": {
+        "text": "Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa in the southwest"
+      }
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "41,892,895",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2010 est.)"
+    },
+    "note": "Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources including Arabic and English; it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages",
+    "Age structure": {
+      "0-14 years": {
+        "text": "43% (male 8,853,529/female 8,805,810)"
+      },
+      "15-64 years": {
+        "text": "54.1% (male 10,956,133/female 11,255,868)"
+      },
+      "65 years and over": {
+        "text": "2.9% (male 513,959/female 663,233) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.3 years"
+      },
+      "male": {
+        "text": "18 years"
+      },
+      "female": {
+        "text": "18.5 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.032% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "33.44 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "12.31 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.81 migrant(s)/1,000 population (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "25% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.77 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "68.13 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "75 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "61.05 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "52.49 years"
+      },
+      "male": {
+        "text": "50.99 years"
+      },
+      "female": {
+        "text": "54.03 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "4.31 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "6.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1.4 million (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "96,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria and plague"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Tanzanian(s)"
+      },
+      "adjective": {
+        "text": "Tanzanian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mainland - African 99% (of which 95% are Bantu consisting of more than 130 tribes), other 1% (consisting of Asian, European, and Arab); Zanzibar - Arab, African, mixed Arab and African"
+    },
+    "Religions": {
+      "text": "mainland - Christian 30%, Muslim 35%, indigenous beliefs 35%; Zanzibar - more than 99% Muslim"
+    },
+    "Languages": {
+      "text": "Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages",
+      "note": "Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources including Arabic and English; it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write Kiswahili (Swahili), English, or Arabic"
+      },
+      "total population": {
+        "text": "69.4%"
+      },
+      "male": {
+        "text": "77.5%"
+      },
+      "female": {
+        "text": "62.2% (2002 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "5 years"
+      },
+      "male": {
+        "text": "5 years"
+      },
+      "female": {
+        "text": "5 years (1999)"
+      }
+    },
+    "Education expenditures": {
+      "text": "6.8% of GDP (2008)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "United Republic of Tanzania "
+      },
+      "conventional short form": {
+        "text": "Tanzania"
+      },
+      "local long form": {
+        "text": "Jamhuri ya Muungano wa Tanzania"
+      },
+      "local short form": {
+        "text": "Tanzania"
+      },
+      "former": {
+        "text": "United Republic of Tanganyika and Zanzibar"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dar es Salaam"
+      },
+      "geographic coordinates": {
+        "text": "6 48 S, 39 17 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      },
+      "note": "legislative offices have been transferred to Dodoma, which is planned as the new national capital, and the National Assembly now meets there on a regular basis; the Executive Branch with all ministries and diplomatic representation remains located in Dar es Salaam"
+    },
+    "note": "adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia, but has different lyrics; the melody is also incorporated into South Africa's anthem",
+    "Administrative divisions": {
+      "text": "26 regions; Arusha, Dar es Salaam, Dodoma, Iringa, Kagera, Kigoma, Kilimanjaro, Lindi, Manyara, Mara, Mbeya, Morogoro, Mtwara, Mwanza, Pemba North, Pemba South, Pwani, Rukwa, Ruvuma, Shinyanga, Singida, Tabora, Tanga, Zanzibar Central/South, Zanzibar North, Zanzibar Urban/West"
+    },
+    "Independence": {
+      "text": "26 April 1964; Tanganyika became independent 9 December 1961 (from UK-administered UN trusteeship); Zanzibar became independent 19 December 1963 (from UK); Tanganyika united with Zanzibar 26 April 1964 to form the United Republic of Tanganyika and Zanzibar; renamed United Republic of Tanzania 29 October 1964"
+    },
+    "National holiday": {
+      "text": "Union Day (Tanganyika and Zanzibar), 26 April (1964)"
+    },
+    "Constitution": {
+      "text": "25 April 1977; major revisions October 1984"
+    },
+    "Legal system": {
+      "text": "based on English common law; judicial review of legislative acts limited to matters of interpretation; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jakaya KIKWETE (since 21 December 2005); Vice President Dr. Ali Mohammed SHEIN (since 5 July 2001); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Jakaya KIKWETE (since 21 December 2005); Vice President Dr. Ali Mohammed SHEIN (since 5 July 2001)"
+      },
+      "note": "Zanzibar elects a president who is head of government for matters internal to Zanzibar; Ali Mohamed SHEIN elected to that office on 31 October 2010, sworn in 3 November 2010",
+      "cabinet": {
+        "text": "Cabinet appointed by the president from among the members of the National Assembly"
+      },
+      "elections": {
+        "text": "president and vice president elected on the same ballot by popular vote for five-year terms (eligible for a second term); election last held on 31 October 2010 (next to be held in 2015); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Jakaya KIKWETE elected president; percent of vote - Jakaya KIKWETE 61.2%, Wilbrod SLAA 26.3%, Ibrahim LIPUMBA 8.1%, other 4.5%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Bunge (274 seats; 232 members elected by popular vote, 37 allocated to women nominated by the president, 5 to members of the Zanzibar House of Representatives; members serve five-year terms); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives to make laws especially for Zanzibar (the Zanzibar House of Representatives has 50 seats; members elected by universal suffrage to serve five-year terms)",
+      "elections": {
+        "text": "last held on 14 December 2005 (next to be held on 31 October 2010)"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - NA; seats by party - CCM 206, CUF 19, CHADEMA 5, other 2, women appointed by the president 37, Zanzibar representatives 5 Zanzibar House of Representatives - percent of vote by party - NA; seats by party - CCM 30, CUF 19; 1 seat was nullified with a rerun to take place soon"
+      }
+    },
+    "Judicial branch": {
+      "text": "Permanent Commission of Enquiry (official ombudsman); Court of Appeal (consists of a chief justice and four judges); High Court (consists of a Jaji Kiongozi and 29 judges appointed by the president; holds regular sessions in all regions); District Courts; Primary Courts (limited jurisdiction and appeals can be made to the higher courts)"
+    },
+    "Political parties and leaders": {
+      "text": "Chama Cha Demokrasia na Maendeleo (Party of Democracy and Development) or CHADEMA [Bob MAKANI]; Chama Cha Mapinduzi or CCM (Revolutionary Party) [Jakaya Mrisho KIKWETE]; Civic United Front or CUF [Ibrahim LIPUMBA]; Democratic Party [Christopher MTIKLA] (unregistered); Tanzania Labor Party or TLP [Augustine Lyatonga MREME]; United Democratic Party or UDP [John CHEYO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Economic and Social Research Foundation or ESRF; Free Zanzibar; Tanzania Media Women's Association or TAMWA"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, EAC, EADB, FAO, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIS, UNOCI, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mwandaidi Sinare MAAJAR"
+      },
+      "chancery": {
+        "text": "2139 R Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-6125"
+      },
+      "FAX": {
+        "text": "[1] (202) 797-7408"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Alfonso E. LENHARDT"
+      },
+      "embassy": {
+        "text": "686 Old Bagamoyo Road, Msasani, Dar es Salaam"
+      },
+      "mailing address": {
+        "text": "P. O. Box 9123, Dar es Salaam"
+      },
+      "telephone": {
+        "text": "[255] (22) 266-8001"
+      },
+      "FAX": {
+        "text": "[255] (22) 266-8238, 266-8373"
+      }
+    },
+    "Flag description": {
+      "text": "divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Mungu ibariki Afrika\" (God Bless Africa)"
+      },
+      "lyrics/music": {
+        "text": "collective/Enoch Mankayi SONTONGA"
+      },
+      "note": "adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia, but has different lyrics; the melody is also incorporated into South Africa's anthem"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Tanzania is one of the world's poorest economies in terms of per capita income, however, Tanzania average 7% GDP growth per year between 2000 and 2008 on strong gold production and tourism. The economy depends heavily on agriculture, which accounts for more than one-fourth of GDP, provides 85% of exports, and employs about 60% of the work force. The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging economic infrastructure, including rail and port infrastructure that are important trade links for inland countries. Recent banking reforms have helped increase private-sector growth and investment, and the government has increased spending on agriculture to 7% of its budget. Continued donor assistance and solid macroeconomic policies supported a positive growth rate, despite the world recession. In 2008, Tanzania received the world's largest Millennium Challenge Compact grant, worth $698 million. Dar es Salaam used fiscal stimulus and loosened monitary policy to ease the impact of the global recession. GDP growth in 2009-10 was a respectable 6% per year due to high gold prices and increased production."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$55.17 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "excludes gold",
+    "GDP (official exchange rate)": {
+      "text": "$22.43 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.4% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,400 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "41.6%"
+      },
+      "industry": {
+        "text": "18.1%"
+      },
+      "services": {
+        "text": "38.4% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "21.86 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "80%"
+      },
+      "industry and services": {
+        "text": "20% (2002 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "36% (2002 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.9%"
+      },
+      "highest 10%": {
+        "text": "26.9% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "38.2 (1993)"
+    },
+    "Investment (gross fixed)": {
+      "text": "17.4% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "21.4% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "12.1% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "15.99% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.98% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.972 billion (31 December 2009 est)"
+    },
+    "Stock of broad money": {
+      "text": "$6.65 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.878 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$541.1 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "coffee, sisal, tea, cotton, pyrethrum (insecticide made from chrysanthemums), cashew nuts, tobacco, cloves, corn, wheat, cassava (tapioca), bananas, fruits, vegetables; cattle, sheep, goats"
+    },
+    "Industries": {
+      "text": "agricultural processing (sugar, beer, cigarettes, sisal twine); diamond, gold, and iron mining, salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer"
+    },
+    "Industrial production growth rate": {
+      "text": "7% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "3.786 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "3.182 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "200 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "34,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "28,070 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "560.7 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "560.7 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "6.513 billion cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.746 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$3.365 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "gold, coffee, cashew nuts, manufactures, cotton"
+    },
+    "Exports - partners": {
+      "text": "India 8.51%, China 7.55%, Japan 7.12%, Netherlands 6.21%, UAE 5.71%, Germany 5.17% (2009)"
+    },
+    "Imports": {
+      "text": "$5.834 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "consumer goods, machinery and transportation equipment, industrial raw materials, crude oil"
+    },
+    "Imports - partners": {
+      "text": "India 13.97%, China 13.71%, South Africa 7.8%, Kenya 6.89%, UAE 4.65%, Japan 4.34% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.206 billion (31 December 2009 est.)",
+      "note": "excludes gold"
+    },
+    "Debt - external": {
+      "text": "$6.879 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Tanzanian shillings (TZS) per US dollar - 1,423.3 (2010), 1,320.3 (2009), 1,178.1 (2008), 1,255 (2007), 1,251.9 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "173,552 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "17.677 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications services are marginal; system operating below capacity and being modernized for better service; small aperture terminal (VSAT) system under construction"
+      },
+      "domestic": {
+        "text": "fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital"
+      },
+      "international": {
+        "text": "country code - 255; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)"
+      }
+    },
+    "Broadcast media": {
+      "text": "a state-owned TV station and multiple privately-owned TV stations; state-owned national radio station supplemented by more than 40 privately-owned radio stations; transmissions of several international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".tz"
+    },
+    "Internet hosts": {
+      "text": "24,182 (2010)"
+    },
+    "Internet users": {
+      "text": "678,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "124 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "9"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "115"
+      },
+      "1,524 to 2,437 m": {
+        "text": "19"
+      },
+      "914 to 1,523 m": {
+        "text": "63"
+      },
+      "under 914 m": {
+        "text": "33 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 254 km; oil 888 km; refined products 8 km (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,689 km"
+      },
+      "narrow gauge": {
+        "text": "969 km 1.067-m gauge; 2,720 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "78,892 km"
+      },
+      "paved": {
+        "text": "4,741 km"
+      },
+      "unpaved": {
+        "text": "74,151 km (2007)"
+      }
+    },
+    "Waterways": {
+      "text": "Lake Tanganyika, Lake Victoria, and Lake Nyasa are principal avenues of commerce with neighboring countries; rivers are not navigable (2009)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "72"
+      },
+      "by type": {
+        "text": "bulk carrier 4, cargo 43, carrier 4, chemical tanker 2, container 1, passenger 1, passenger/cargo 2, petroleum tanker 15"
+      },
+      "foreign-owned": {
+        "text": "1 (UAE 1)"
+      },
+      "registered in other countries": {
+        "text": "3 (Honduras 1, Panama 2) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Dar es Salaam, Zanzibar"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the Indian Ocean are high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Tanzanian People's Defense Force (Jeshi la Wananchi la Tanzania, JWTZ)": {
+        "text": "Army, Naval Wing (includes Coast Guard), Air Defense Command (includes Air Wing), National Service (2007)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "9,683,768 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "5,667,987"
+      },
+      "females age 16-49": {
+        "text": "5,690,331 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "498,815"
+      },
+      "female": {
+        "text": "500,941 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.2% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Tanzania still hosts more than a half-million refugees, more than any other African country, mainly from Burundi and the Democratic Republic of the Congo, despite the international community's efforts at repatriation; disputes with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River remain dormant"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "352,640 (Burundi); 127,973 (Democratic Republic of the Congo) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "targeted by traffickers moving hashish, Afghan heroin, and South American cocaine transported down the East African coastline, through airports, or overland through Central Africa; Zanzibar likely used by traffickers for drug smuggling; traffickers in the past have recruited Tanzanian couriers to move drugs through Iran into East Asia.\r\n"
+    }
+  }
+}

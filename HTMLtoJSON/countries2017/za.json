@@ -1,0 +1,848 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The territory of Northern Rhodesia was administered by the former British South Africa Company from 1891 until it was taken over by the UK in 1923. During the 1920s and 1930s, advances in mining spurred development and immigration. The name was changed to Zambia upon independence in 1964. In the 1980s and 1990s, declining copper prices, economic mismanagement, and a prolonged drought hurt the economy. Elections in 1991 brought an end to one-party rule and propelled the Movement for Multiparty Democracy (MMD) to government. The subsequent vote in 1996, however, saw increasing harassment of opposition parties and abuse of state media and other resources. The election in 2001 was marked by administrative problems, with three parties filing a legal petition challenging the election of ruling party candidate Levy MWANAWASA. MWANAWASA was reelected in 2006 in an election that was deemed free and fair. Upon his death in August 2008, he was succeeded by his vice president, Rupiah BANDA, who won a special presidential byelection later that year. The MMD and BANDA lost to the Patriotic Front (PF) and Michael SATA in the 2011 general elections. SATA, however, presided over a period of haphazard economic management and attempted to silence opposition to PF policies. SATA died in October 2014 and was succeeded by his vice president, Guy SCOTT, who served as interim president until January 2015, when Edgar LUNGU won the presidential byelection and completed SATA's term. LUNGU then won a full term in August 2016 presidential elections."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, east of Angola, south of the Democratic Republic of the Congo"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 S, 30 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "752,618 sq km"
+      },
+      "land": {
+        "text": "743,398 sq km"
+      },
+      "water": {
+        "text": "9,220 sq km"
+      },
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Area - comparative": {
+      "text": "almost five times the size of Georgia; slightly larger than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "6,043.15 km"
+      },
+      "border countries (8)": {
+        "text": "Angola 1,065 km, Botswana 0.15 km, Democratic Republic of the Congo 2,332 km, Malawi 847 km, Mozambique 439 km, Namibia 244 km, Tanzania 353 km, Zimbabwe 763 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; modified by altitude; rainy season (October to April)"
+    },
+    "Terrain": {
+      "text": "mostly high plateau with some hills and mountains"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,138 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: unnamed elevation in Mafinga Hills 2,301 m"
+    },
+    "Natural resources": {
+      "text": "copper, cobalt, zinc, lead, coal, emeralds, gold, silver, uranium, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "31.7%"
+      },
+      "text": "arable land 4.8%; permanent crops 0%; permanent pasture 26.9%",
+      "forest": {
+        "text": "66.3%"
+      },
+      "other": {
+        "text": "2% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,560 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira"
+    },
+    "Natural hazards": {
+      "text": "periodic drought; tropical storms (November to April)"
+    },
+    "Environment - current issues": {
+      "text": "air pollution and resulting acid rain in the mineral extraction and refining region; chemical runoff into watersheds; poaching seriously threatens rhinoceros, elephant, antelope, and large cat populations; deforestation; soil erosion; desertification; lack of adequate water treatment presents human health risks"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Zambia"
+      },
+      "conventional short form": {
+        "text": "Zambia"
+      },
+      "former": {
+        "text": "Northern Rhodesia"
+      },
+      "etymology": {
+        "text": "name derived from the Zambezi River, which flows through the western part of the country and forms its southern border with neighboring Zimbabwe"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lusaka; note - a proposal to build a new capital city in Ngabwe was announced in May 2017"
+      },
+      "geographic coordinates": {
+        "text": "15 25 S, 28 17 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western"
+    },
+    "Independence": {
+      "text": "24 October 1964 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 24 October (1964)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 24 August 1991, promulgated 30 August 1991"
+      },
+      "amendments": {
+        "text": "proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly in two separate readings at least 30 days apart; passage of amendments affecting fundamental rights and freedoms requires approval by at least one-half of votes cast in a referendum prior to consideration and voting by the Assembly; amended 1996, 2015, last in 2016 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "only if at least one parent is a citizen of Zambia"
+      },
+      "citizenship by descent": {
+        "text": "yes, if at least one parent was a citizen of Zambia"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years for those with an ancestor who was a citizen of Zambia, otherwise 10 years residency is required"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by president from among members of the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 August 2016 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2.0%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly (164 seats; 156 members directly elected in single-seat constituencies by simple majority vote, and 8 appointed by the president; members serve 5-year terms); note - 6 additional electoral seats were added for the 11 August 2016 election, up from 150 electoral seats in the 2011 election"
+      },
+      "elections": {
+        "text": "last held on 11 August 2016 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PF 42%, UPND 41.7%, MMD 2.7%, FDD 2.2%, other 1.9%,independent 9.5%; seats by party - PF 80, UPND 58, MMD 3, FDD 1, independent 14"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice and deputy chief justices, and at least 11 judges); Constitutional Court (consists of the court president, vice-president, and 11 judges); note - the Constitutional Court began operation in June 2016"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court and Constitutional Court judges appointed by the president upon the advice of the 9-member Judicial Service Commission headed by the chief justice, and ratified by the National Assembly; judges normally serve until age 65"
+      },
+      "subordinate courts": {
+        "text": "Court of Appeal; High Court; Industrial Relations Court; subordinate courts 3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Party for National Development or UPND [Hakainde HICHILEMA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Congress of Trade Unions or ZCTU; Federation of Free Trade Unions in Zambia ",
+      "other": {
+        "text": "other labor and trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Joseph CHILAIZYA (since 19 September 2016"
+      },
+      "chancery": {
+        "text": "2419 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-9717 through 9719"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-0826"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Eric T. SCHULTZ (since 12 December 2014)"
+      },
+      "embassy": {
+        "text": "Eastern end of Kabulonga Road, Ibex Hill, Lusaka"
+      },
+      "mailing address": {
+        "text": "P. O. Box 320065, Lusaka"
+      },
+      "telephone": {
+        "text": "[260] (211) 357-000"
+      },
+      "FAX": {
+        "text": "[260] ) (211) 357-224"
+      }
+    },
+    "Flag description": {
+      "text": "green field with a panel of three vertical bands of red (hoist side), black, and orange below a soaring orange eagle, on the outer edge of the flag; green stands for the country's natural resources and vegetation, red symbolizes the struggle for freedom, black the people of Zambia, and orange the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems"
+    },
+    "National symbol(s)": {
+      "text": "African fish eagle; national colors: green, red, black, orange"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Lumbanyeni Zambia\" (Stand and Sing of Zambia, Proud and Free)"
+      },
+      "lyrics/music": {
+        "text": "multiple/Enoch Mankayi SONTONGA"
+      },
+      "note": {
+        "text": "adopted 1964; the melody, from the popular song \"God Bless Africa,\" is the same as that of Tanzania but with different lyrics; the melody is also incorporated into South Africa's anthem"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Poor management of water resources has also contributed to a power generation shortage, which has hampered industrial productivity and contributed to an increase in year-on-year inflation to more than 20% in 2016. Zambia\u2019s currency, the kwacha, also depreciated sharply against the dollar through 2015 and 2016, leading the central bank to restrict lending. Rampant spending in recent years has increased the fiscal deficit\u2014over 8% in 2015\u2014and may encourage the government to seek external financing from the IMF to fund the shortfall."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$59.77 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$21.01 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.7% (2014 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,900 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Gross national saving": {
+      "text": "36.1% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "54%"
+      },
+      "government consumption": {
+        "text": "21.9%"
+      },
+      "investment in fixed capital": {
+        "text": "26.9%"
+      },
+      "investment in inventories": {
+        "text": "0.1%"
+      },
+      "exports of goods and services": {
+        "text": "45.5%"
+      },
+      "imports of goods and services": {
+        "text": "-48.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "5.4%"
+      },
+      "industry": {
+        "text": "35.7%"
+      },
+      "services": {
+        "text": "60% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "corn, sorghum, rice, peanuts, sunflower seeds, vegetables, flowers, tobacco, cotton, sugarcane, cassava (manioc, tapioca), coffee; cattle, goats, pigs, poultry, milk, eggs, hides"
+    },
+    "Industries": {
+      "text": "copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture"
+    },
+    "Industrial production growth rate": {
+      "text": "6.4% (2016 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Labor force": {
+      "text": "6.69 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "85%"
+      },
+      "industry": {
+        "text": "6%"
+      },
+      "services": {
+        "text": "9% (2004)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "50% (2000 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Population below poverty line": {
+      "text": "60.5% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.5%"
+      },
+      "highest 10%": {
+        "text": "47.4% (2010)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.8 (2004)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.654 billion"
+      },
+      "expenditures": {
+        "text": "$5.751 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "17.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-9.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Public debt": {
+      "text": "60.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "10.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "218"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "19% (31 December 2011)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "13.25% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.288 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$3.74 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$3.682 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.817 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Current account balance": {
+      "text": "$-767.5 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Exports": {
+      "text": "$7.362 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Exports - commodities": {
+      "text": "copper/cobalt, cobalt, electricity; tobacco, flowers, cotton"
+    },
+    "Exports - partners": {
+      "text": "Switzerland 39.4%, China 18%, Democratic Republic of the Congo 6.7%, South Africa 6.4%, UAE 6%, Singapore 5.6% (2016)"
+    },
+    "Imports": {
+      "text": "$7.436 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, transportation equipment, petroleum products, electricity, fertilizer, foodstuffs, clothing"
+    },
+    "Imports - partners": {
+      "text": "South Africa 31.2%, Democratic Republic of the Congo 12.3%, Kuwait 8.1%, China 7.6%, Mauritius 4.4%, UAE 4.2%, India 4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.968 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Debt - external": {
+      "text": "$8.785 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "5.1 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "10,700,000"
+      },
+      "electrification - total population": {
+        "text": "26%"
+      },
+      "electrification - urban areas": {
+        "text": "45%"
+      },
+      "electrification - rural areas": {
+        "text": "14% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "13.28 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "11.62 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Electricity - exports": {
+      "text": "1.176 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Electricity - imports": {
+      "text": "785 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "2.37 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "0.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "213"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "97.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "1.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "215"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "11,200 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "14,290 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "23,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "937.4 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "7,917 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "3.5 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "101,407"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "12,017,034"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "77 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "among the best in sub-Saharan Africa"
+      },
+      "domestic": {
+        "text": "high-capacity microwave radio relay connects most larger towns and cities; several cellular telephone services in operation and network coverage is improving; domestic satellite system being installed to improve telephone service in rural areas; Internet service is widely available; very small aperture terminal (VSAT) networks are operated by private firms"
+      },
+      "international": {
+        "text": "country code - 260; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean), 3 owned by Zamtel (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned Zambia National Broadcasting Corporation (ZNBC) operates 3 TV stations, is the principal local-content provider, and owns about 45% of multi-channel Zambia shares; several private TV stations and multi-channel subscription TV services are available; ZNBC operates 4 radio networks; 64 private radio stations are available (most regionally) and relays of at least 2 international broadcasters \u2014 including BBC and Radio France International \u2013 are accessible in Lusaka and Kitwe (2015)"
+    },
+    "Internet country code": {
+      "text": ".zm"
+    },
+    "Internet users": {
+      "total": {
+        "text": "3,956,252"
+      },
+      "percent of population": {
+        "text": "25.5% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "94"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "11,796"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "79,092,826 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9J (2016)"
+    },
+    "Airports": {
+      "text": "88 (2013)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "8"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "80"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "53"
+      },
+      "under 914 m": {
+        "text": "21 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "oil 771 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,126 km"
+      },
+      "narrow gauge": {
+        "text": "3,126 km 1.067-m gauge"
+      },
+      "note": {
+        "text": "includes 1,860 km of the Tanzania-Zambia Railway Authority (TAZARA) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "40,454 km"
+      },
+      "paved": {
+        "text": "9,403 km"
+      },
+      "unpaved": {
+        "text": "31,051 km (2005)"
+      },
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Waterways": {
+      "text": "2,250 km (includes Lake Tanganyika and the Zambezi and Luapula Rivers) (2010)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Ports and terminals": {
+      "river port(s)": {
+        "text": "Mpulungu (Zambezi)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.36% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Military branches": {
+      "text": "Zambian Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization) (2015)"
+    },
+    "Military service age and obligation": {
+      "text": "national registration required at age 16; 18-25 years of age for male and female voluntary military service (16 years of age with parental consent); no conscription; Zambian citizenship required; grade 12 certification required; mandatory HIV testing on enlistment; mandatory retirement for officers at age 65 (Army, Air Force) (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "25,063 (Democratic Republic of the Congo) (2017)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis"
+    }
+  }
+}

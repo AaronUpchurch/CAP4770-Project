@@ -1,0 +1,574 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Settled by both Britain and France during the first half of the 19th century, the island was made a French possession in 1853. It served as a penal colony for four decades after 1864. Agitation for independence during the 1980s and early 1990s ended in the 1998 Noumea Accord, which over a period of 15 to 20 years will transfer an increasing amount of governing responsibility from France to New Caledonia. The agreement also commits France to conduct as many as three referenda between 2013 and 2018, to decide whether New Caledonia should assume full sovereignty and independence."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, islands in the South Pacific Ocean, east of Australia"
+    },
+    "Geographic coordinates": {
+      "text": "21 30 S, 165 30 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "18,575 sq km"
+      },
+      "land": {
+        "text": "18,275 sq km"
+      },
+      "water": {
+        "text": "300 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than New Jersey"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "2,254 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; modified by southeast trade winds; hot, humid"
+    },
+    "Terrain": {
+      "text": "coastal plains with interior mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mont Panie 1,628 m"
+      }
+    },
+    "Natural resources": {
+      "text": "nickel, chrome, iron, cobalt, manganese, silver, gold, lead, copper"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.32%"
+      },
+      "permanent crops": {
+        "text": "0.22%"
+      },
+      "other": {
+        "text": "99.46% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "100 sq km (2003)"
+    },
+    "Natural hazards": {
+      "text": "cyclones, most frequent from November to March"
+    },
+    "Environment - current issues": {
+      "text": "erosion caused by mining exploitation and forest fires"
+    },
+    "Geography - note": {
+      "text": "consists of the main island of New Caledonia (one of the largest in the Pacific Ocean), the archipelago of Iles Loyaute, and numerous small, sparsely populated islands and atolls"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "227,436 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "26.8% (male 31,191/female 29,870)"
+      },
+      "15-64 years": {
+        "text": "65.8% (male 75,189/female 74,552)"
+      },
+      "65 years and over": {
+        "text": "7.3% (male 7,681/female 8,953) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "28.7 years"
+      },
+      "male": {
+        "text": "28.2 years"
+      },
+      "female": {
+        "text": "29.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.136% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.04 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.68 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA",
+      "note": "there has been steady emigration from Wallis and Futuna to New Caledonia (2009 est.)"
+    },
+    "note": "there has been steady emigration from Wallis and Futuna to New Caledonia (2009 est.)",
+    "Urbanization": {
+      "urban population": {
+        "text": "65% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.86 male(s)/female"
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "7.05 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "7.7 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "6.36 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "74.98 years"
+      },
+      "male": {
+        "text": "71.99 years"
+      },
+      "female": {
+        "text": "78.12 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.18 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "New Caledonian(s)"
+      },
+      "adjective": {
+        "text": "New Caledonian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Melanesian 44.1%, European 34.1%, Wallisian & Futunian 9%, Tahitian 2.6%, Indonesian 2.5%, Vietnamese 1.4%, Ni-Vanuatu 1.1%, other 5.2% (1996 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 60%, Protestant 30%, other 10%"
+    },
+    "Languages": {
+      "text": "French (official), 33 Melanesian-Polynesian dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "96.2%"
+      },
+      "male": {
+        "text": "96.8%"
+      },
+      "female": {
+        "text": "95.5% (1996 census)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Territory of New Caledonia and Dependencies "
+      },
+      "conventional short form": {
+        "text": "New Caledonia"
+      },
+      "local long form": {
+        "text": "Territoire des Nouvelle-Caledonie et Dependances"
+      },
+      "local short form": {
+        "text": "Nouvelle-Caledonie"
+      }
+    },
+    "Dependency status": {
+      "text": "territorial collectivity of France since 1998"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Noumea"
+      },
+      "geographic coordinates": {
+        "text": "22 16 S, 166 27 E"
+      },
+      "time difference": {
+        "text": "UTC+11 (16 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (overseas territory of France); there are no first-order administrative divisions as defined by the US Government, but there are 3 provinces named Province des Iles, Province Nord, and Province Sud"
+    },
+    "Independence": {
+      "text": "none (overseas territory of France); note - a referendum on independence was held in 1998 but did not pass; a new referendum is scheduled for 2014"
+    },
+    "National holiday": {
+      "text": "Bastille Day, 14 July (1789)"
+    },
+    "Constitution": {
+      "text": "4 October 1958 (French Constitution)"
+    },
+    "Legal system": {
+      "text": "based on French civil law; the 1988 Matignon Accords grant substantial autonomy to the islands"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Nicolas SARKOZY (since 16 May 2007); represented by High Commissioner Yves DASSONVILLE (since 9 November 2007)"
+      },
+      "head of government": {
+        "text": "President of the Government Philippe GOMES (since 5 June 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet consisting of 11 members elected from and by the Territorial Congress"
+      },
+      "elections": {
+        "text": "French president elected by popular vote for a five-year term; high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of the government elected by the members of the Territorial Congress for a five-year term (no term limits); note - last election held 7 August 2007 when Harold MARTIN was elected following the resignation of Marie-Noelle THEMEREAU as president on 24 July 2007 (next to be held in 2012)"
+      }
+    },
+    "Legislative branch": {
+      "elections": {
+        "text": "unicameral Territorial Congress or Congres du territoire (54 seats; members belong to the three Provincial Assemblies or Assemblees Provinciales elected by popular vote to serve five-year terms) last held 9 May 2009 (next to be held in 10 May 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - UMP 13, Caledonia Together 10, UC 8, UNI 8, AE 6, FLNKS 3, Labor Party 3, other 3"
+      },
+      "note": "New Caledonia holds two seats in the French Senate; elections last held 21 September 2008 (next to be held not later than September 2014); results - percent of vote by party - NA; seats by party - UMP 2; New Caledonia also elects two seats to the French National Assembly; elections last held 10 and 17 June 2007 (next to be held on June 2012); results - percent of vote by party - NA; seats by party - UMP 2"
+    },
+    "note": "New Caledonia holds two seats in the French Senate; elections last held 21 September 2008 (next to be held not later than September 2014); results - percent of vote by party - NA; seats by party - UMP 2; New Caledonia also elects two seats to the French National Assembly; elections last held 10 and 17 June 2007 (next to be held on June 2012); results - percent of vote by party - NA; seats by party - UMP 2",
+    "Judicial branch": {
+      "text": "Court of Appeal or Cour d'Appel; County Courts; Joint Commerce Tribunal Court; Children's Court"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance pour la Caledonie or APLC [Didier LE ROUX]; Caledonia Together [Philippe GOMES]; Caledonian Union or UC [Charles PIDJOT]; Federation des Comites de Coordination des Independantistes or FCCI [Francois BURCK]; Front National or FN [Jean-Marie LE PEN]; Front Uni de Liberation Kanak or FULK [Ernest UNE]; Labor Party or PT [Louis Kora UREGEI]; Kanak Socialist Front for National Liberation or FLNKS (includes PALIKA, UNI, UC, and UPM); Parti de Liberation Kanak or PALIKA [Paul NEAOUTYINE]; Rally for Caledonia or RPC [Jacques LAFLEUR]; The Future Together or AE [Didier LEROUX]; The Rally or UMP [Pierre FROGIER]; Union Nationale pour l'Independance or UNI; Union Progressiste Melanesienne or UPM [Victor TUTUGORO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ITUC, PIF (associate member), SPC, UPU, WFTU, WMO"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas territory of France)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (overseas territory of France)"
+    },
+    "Flag description": {
+      "text": "the flag of France is used"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "New Caledonia has about 25% of the world's known nickel resources. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy. Substantial new investment in the nickel industry, combined with the recovery of global nickel prices, brightens the economic outlook for the next several years."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.158 billion (2003 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$3.3 billion (2003 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "NA%"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$15,000 (2003 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "15%"
+      },
+      "industry": {
+        "text": "8.8%"
+      },
+      "services": {
+        "text": "76.2% (2003)"
+      }
+    },
+    "Labor force": {
+      "text": "102,600 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "20%"
+      },
+      "industry": {
+        "text": "20%"
+      },
+      "services": {
+        "text": "60% (2002)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "17.1% (2004)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$996 million"
+      },
+      "expenditures": {
+        "text": "$1.072 billion (2001 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.4% (2000 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "vegetables; beef, deer, other livestock products; fish"
+    },
+    "Industries": {
+      "text": "nickel mining and smelting"
+    },
+    "Electricity - production": {
+      "text": "1.825 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.697 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "13,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "645.3 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "14,430 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$1.341 billion (2006)"
+    },
+    "Exports - commodities": {
+      "text": "ferronickels, nickel ore, fish"
+    },
+    "Exports - partners": {
+      "text": "France 18.9%, Japan 18.3%, Spain 7.3%, China 6.5%, Belgium 5.4%, Australia 4.6% (2008)"
+    },
+    "Imports": {
+      "text": "$1.998 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, fuels, chemicals, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "France 36.6%, Singapore 17.7%, Australia 11.5%, NZ 4.7% (2008)"
+    },
+    "Debt - external": {
+      "text": "$79 million (1998 est.)"
+    },
+    "Exchange rates": {
+      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - 87.59 (2007), 94.97 (2006), 95.89 (2005), 96.04 (2004), 105.66 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "63,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "196,500 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "a submarine cable network connection between New Caledonia and Australia, completed in 2007, is expected to significantly increase network capacity and improve high-speed connectivity and access to international networks"
+      },
+      "domestic": {
+        "text": "combined fixed and mobile-cellular telephone subscribership exceeds 100 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 687; satellite earth station - 1 Intelsat (Pacific Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 5, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "6 (plus 25 repeaters) (1997)"
+    },
+    "Internet country code": {
+      "text": ".nc"
+    },
+    "Internet hosts": {
+      "text": "22,448 (2009)"
+    },
+    "Internet users": {
+      "text": "85,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "25 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "12"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "13"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "8 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "8 (2009)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "5,622 km (2006)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "2"
+      },
+      "by type": {
+        "text": "cargo 1, passenger/cargo 1 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Noumea"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; French police and gendarmerie (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "57,738 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "48,288"
+      },
+      "females age 16-49": {
+        "text": "48,959 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "2,160"
+      },
+      "female": {
+        "text": "2,087 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of France"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Matthew and Hunter Islands east of New Caledonia claimed by France and Vanuatu"
+    }
+  }
+}

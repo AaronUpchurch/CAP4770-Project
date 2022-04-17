@@ -1,0 +1,832 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The Tajik people came under Russian rule in the 1860s and 1870s, but Russia's hold on Central Asia weakened following the Revolution of 1917. Bands of indigenous guerrillas (called \"basmachi\") fiercely contested Bolshevik control of the area, which was not fully reestablished until 1925. Tajikistan was first created as an autonomous republic within Uzbekistan in 1924, but the USSR designated Tajikistan a separate republic in 1929 and transferred to it much of present-day Sughd province. Ethnic Uzbeks form a substantial minority in Tajikistan, and ethnic Tajiks an even larger minority in Uzbekistan. Tajikistan became independent in 1991 following the breakup of the Soviet Union, and experienced a civil war between regional factions from 1992 to 1997. Tajikistan has endured several domestic security incidents since 2010, including armed conflict between government forces and local strongmen in the Rasht Valley and between government forces and criminal groups in Gorno-Badakhshan Autonomous Oblast. In September 2015, government security forces rebuffed attacks by the Ministry of Interior led by a former high-ranking official in the Ministry of Defense. President Emomali RAHMON, who came to power during the civil war, used the attacks to ban the main opposition political party in Tajikistan. In May 2016, RAHMON further strengthened his position by having himself designated \u201cLeader of the Nation\u201d with limitless terms and lifelong immunity through constitutional amendments ratified in a referendum. The country remains the poorest in the former Soviet sphere. Tajikistan became a member of the World Trade Organization in March 2013. However, its economy continues to face major challenges, including dependence on remittances from Tajiks working in Russia, pervasive corruption, and the opiate trade in neighboring Afghanistan."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Central Asia, west of China, south of Kyrgyzstan"
+    },
+    "Geographic coordinates": {
+      "text": "39 00 N, 71 00 E"
+    },
+    "Map references": {
+      "text": "Asia"
+    },
+    "Area": {
+      "total": {
+        "text": "144,100 sq km"
+      },
+      "land": {
+        "text": "141,510 sq km"
+      },
+      "water": {
+        "text": "2,590 sq km"
+      },
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Wisconsin"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,130 km"
+      },
+      "border countries (4)": {
+        "text": "Afghanistan 1,357 km, China 477 km, Kyrgyzstan 984 km, Uzbekistan 1,312 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains"
+    },
+    "Terrain": {
+      "text": "mountainous region dominated by the Trans-Alay Range in the north and the Pamirs in the southeast; western Fergana Valley in north, Kofarnihon and Vakhsh Valleys in southwest"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "3,186 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Qullai Ismoili Somoni 7,495 m"
+    },
+    "Natural resources": {
+      "text": "hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "34.7%"
+      },
+      "text": "arable land 6.1%; permanent crops 0.9%; permanent pasture 27.7%",
+      "forest": {
+        "text": "2.9%"
+      },
+      "other": {
+        "text": "62.4% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "7,420 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west"
+    },
+    "Natural hazards": {
+      "text": "earthquakes; floods"
+    },
+    "Environment - current issues": {
+      "text": "inadequate sanitation facilities; increasing levels of soil salinity; industrial pollution; excessive pesticides"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was the tallest mountain in the former USSR"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Tajikistan"
+      },
+      "conventional short form": {
+        "text": "Tajikistan"
+      },
+      "local long form": {
+        "text": "Jumhurii Tojikiston"
+      },
+      "local short form": {
+        "text": "Tojikiston"
+      },
+      "former": {
+        "text": "Tajik Soviet Socialist Republic"
+      },
+      "etymology": {
+        "text": "the Persian suffix \"-stan\" means \"place of\" or \"country,\" so the word Tajikistan literally means \"Land of the Tajik [people]\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dushanbe"
+      },
+      "geographic coordinates": {
+        "text": "38 33 N, 68 46 E"
+      },
+      "time difference": {
+        "text": "UTC+5 (10 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Qurghonteppa), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)",
+      "note": {
+        "text": "the administrative center name follows in parentheses"
+      }
+    },
+    "Independence": {
+      "text": "9 September 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day (or National Day), 9 September (1991)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 6 November 1994"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic or by at least one-third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval by the president or approval by at least at least two-thirds of the Assembly of Representatives membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; note \u2013 constitutional articles including Tajikistan\u2019s form of government, its territory, and its democratic nature cannot be amended; amended several times, last in 2016 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Tajikistan"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years or 3 years of continuous residence prior to application"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)"
+      },
+      "head of government": {
+        "text": "Prime Minister Qohir RASULZODA (since 23 November 2013)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president, approved by the Supreme Assembly"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by simple majority popular vote for a 7-year term (eligible for 2 terms); election last held on 6 November 2013 (next to be held in November 2020); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 83.9%, Ismoil TALBAKOV (CPT) 5%, other 11.1%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Supreme Assembly or Majlisi Oli consists of the National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for the former president; members serve 5-year terms) and the Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "National Assembly - last held on 1 March 2015 (next to be held in 2020); Assembly of Representatives - last held on 1 March 2015 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - NA; seats by party - NA; Assembly of Representatives - percent of vote by party - PDPT 65.4%, APT 11.7%, PERT 7.5%, SPT 5.5%, CPT 2.2%, DPT 1.7%, other 6%; seats by party - PDPT 51, APT 5, PERT 3, CPT 2, SPT 1, DPT 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, criminal, and military chambers); Constitutional Court (consists of the court chairman, vice president, and 5 judges); High Economic Court (consists of 16 judicial positions)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president of the republic and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no limit on terms, but last appointment must occur before the age of 65"
+      },
+      "subordinate courts": {
+        "text": "regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Socialist Party of Tajikistan or SPT [Abduhalim GHAFFOROV]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Islamic Renaissance Party of Tajikistan or IRPT [Muhiddin KABIRI - in exile] (banned)"
+    },
+    "International organization participation": {
+      "text": "ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Farhod SALIM (since 21 May 2014)"
+      },
+      "chancery": {
+        "text": "1005 New Hampshire Avenue NW, Washington, DC 20037"
+      },
+      "telephone": {
+        "text": "[1] (202) 223-6090"
+      },
+      "FAX": {
+        "text": "[1] (202) 223-6091"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Kevin COVERT (since 31 August 2017)"
+      },
+      "embassy": {
+        "text": "109-A Ismoili Somoni Avenue, Dushanbe 734019"
+      },
+      "mailing address": {
+        "text": "7090 Dushanbe Place, Dulles, VA 20189"
+      },
+      "telephone": {
+        "text": "[992] (37) 229-20-00"
+      },
+      "FAX": {
+        "text": "[992] (37) 229-20-50"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number \"seven\" - a symbol of perfection and the embodiment of happiness"
+    },
+    "National symbol(s)": {
+      "text": "crown surmounted by an arc of seven, five-pointed stars; national colors: red, white, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Surudi milli\" (National Anthem)"
+      },
+      "lyrics/music": {
+        "text": "Gulnazar KELDI/Sulaimon YUDAKOV"
+      },
+      "note": {
+        "text": "adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Recent slowdowns in the Russian and Chinese economies, low commodity prices, and currency fluctuations are hampering economic growth in Tajikistan. By some estimates, the dollar value of remittances from Russia to Tajikistan dropped by more than 65% in 2015. The government faces challenges financing the public debt, which is equivalent to 35% of GDP, and the National Bank of Tajikistan has aggressively spent its reserves to bolster the weakening somoni, leaving little space for fiscal or monetary measures to counter any additional economic shocks."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$22.43 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$6.922 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.7% (2014 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,800 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Gross national saving": {
+      "text": "13% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "101.8%"
+      },
+      "government consumption": {
+        "text": "16.6%"
+      },
+      "investment in fixed capital": {
+        "text": "12.1%"
+      },
+      "investment in inventories": {
+        "text": "3.4%"
+      },
+      "exports of goods and services": {
+        "text": "11.3%"
+      },
+      "imports of goods and services": {
+        "text": "-45.3% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "27.8%"
+      },
+      "industry": {
+        "text": "25.9%"
+      },
+      "services": {
+        "text": "46.3% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cotton, grain, fruits, grapes, vegetables; cattle, sheep, goats"
+    },
+    "Industries": {
+      "text": "aluminum, cement, vegetable oil"
+    },
+    "Industrial production growth rate": {
+      "text": "-3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "181"
+      }
+    },
+    "Labor force": {
+      "text": "2.295 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "43%"
+      },
+      "industry": {
+        "text": "10.6%"
+      },
+      "services": {
+        "text": "46.4% (2016 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.5% (2015 est.)",
+      "note": {
+        "text": "official rates; actual unemployment is much higher"
+      },
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Population below poverty line": {
+      "text": "31.5% (2016 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.7 (1998)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.231 billion"
+      },
+      "expenditures": {
+        "text": "$2.352 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "32.2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.7% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Public debt": {
+      "text": "43.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "10.8% (2015 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2012)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "25.84% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$773 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$934.9 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.401 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-471.8 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Exports": {
+      "text": "$572 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Exports - commodities": {
+      "text": "aluminum, electricity, cotton, fruits, vegetable oil, textiles"
+    },
+    "Exports - partners": {
+      "text": "Turkey 27.8%, Russia 15.6%, China 14.7%, Switzerland 9.8%, Iran 6.5%, Algeria 6.5%, Italy 5.8% (2016)"
+    },
+    "Imports": {
+      "text": "$2.826 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, aluminum oxide, machinery and equipment, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Russia 31.2%, China 13.9%, Kazakhstan 12.8%, Uzbekistan 5.2%, Iran 5.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$494.3 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Debt - external": {
+      "text": "$5.1 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$2.272 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$16.3 billion (31 December 2009)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Exchange rates": {
+      "text": "4.76 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "16.98 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "12.94 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Electricity - exports": {
+      "text": "NA kWh (2015 est.)"
+    },
+    "Electricity - imports": {
+      "text": "63 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "5.5 million kW (2016 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "7% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "189"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "93% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Crude oil - production": {
+      "text": "180 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "78.6 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "12 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "445.8 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "23,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "21,980 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Natural gas - production": {
+      "text": "20 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "189 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "212 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "5.663 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "3.7 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "468,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "6 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "9.4 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "113 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "foreign investment in the telephone system has resulted in major improvements; conversion of the existing fixed network from analogue to digital was completed in 2012"
+      },
+      "domestic": {
+        "text": "fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded rapidly; coverage now extends to all major cities and towns"
+      },
+      "international": {
+        "text": "country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); satellite earth stations - 3 (2 Intelsat and 1 Orbita); established a single gateway for Internet traffic in December 2015, which is expected to limit the connectivity of nonstate-owned telecom, Internet, and mobile companies (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and regionally on 4 stations; 31 independent TV and 20 radio stations broadcast locally and regionally; many households are able to receive Russian and other foreign stations via cable and satellite (2016)"
+    },
+    "Internet country code": {
+      "text": ".tj"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1,705,345"
+      },
+      "percent of population": {
+        "text": "20.5% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "118"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "10"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "802,470"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "105,376 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "EY (2016)"
+    },
+    "Airports": {
+      "text": "24 (2013)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "3 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "5 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 549 km; oil 38 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "680 km"
+      },
+      "broad gauge": {
+        "text": "680 km 1.520-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "27,767 km (2000)"
+      },
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Waterways": {
+      "text": "200 km (along Vakhsh River) (2011)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.09% of GDP (2011)"
+    },
+    "Military branches": {
+      "text": "Ground Forces, Air and Air Defense Forces, Mobile Forces (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for compulsory or voluntary military service; 2-year conscript service obligation; males required to undergo compulsory military training between ages 16 and 55; males can enroll in military schools from at least age 15 (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; talks continue with Uzbekistan to delimit border and remove minefields; disputes in Isfara Valley delay delimitation with Kyrgyzstan"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "17,002 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "Tajikistan sits on one of the world's highest volume illicit drug trafficking routes, between Afghan opiate production to the south and the illicit drug markets of Russia and Eastern Europe to the north; limited illicit cultivation of opium poppy for domestic consumption; significant consumer of opiates"
+    }
+  }
+}

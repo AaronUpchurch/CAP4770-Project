@@ -1,0 +1,828 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "During the late 18th and 19th centuries, Great Britain established colonies and protectorates in the area of current Malaysia; these were occupied by Japan from 1942 to 1945. In 1948, the British-ruled territories on the Malay Peninsula except Singapore formed the Federation of Malaya, which became independent in 1957. Malaysia was formed in 1963 when the former British colonies of Singapore, as well as Sabah and Sarawak on the northern coast of Borneo, joined the Federation. The first several years of the country's independence were marred by a communist insurgency, Indonesian confrontation with Malaysia, Philippine claims to Sabah, and Singapore's withdrawal in 1965. During the 22-year term of Prime Minister MAHATHIR bin Mohamad (1981-2003), Malaysia was successful in diversifying its economy from dependence on exports of raw materials to the development of manufacturing, services, and tourism. Prime Minister Mohamed NAJIB bin Abdul Razak (in office since April 2009) has continued these pro-business policies."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Malaysia"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Malaysia"
+      },
+      "former": {
+        "text": "Federation of Malaya"
+      },
+      "etymology": {
+        "text": "the name means \"Land of the Malays\""
+      }
+    },
+    "Government type": {
+      "text": "federal parliamentary constitutional monarchy",
+      "note": {
+        "text": "all Peninsular Malaysian states have hereditary rulers (commonly referred to as sultans) except Melaka (Malacca) and Pulau Pinang (Penang); those two states along with Sabah and Sarawak in East Malaysia have governors appointed by government; powers of state governments are limited by federal constitution; under terms of federation, Sabah and Sarawak retain certain constitutional prerogatives (e.g., right to maintain their own immigration controls)"
+      }
+    },
+    "Capital": {
+      "name": {
+        "text": "Kuala Lumpur; note - nearby Putrajaya is referred to as a federal government administrative center but not the capital; Parliament meets in Kuala Lumpur"
+      },
+      "geographic coordinates": {
+        "text": "3 10 N, 101 42 E"
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "13 states (negeri-negeri, singular - negeri); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya"
+    },
+    "Independence": {
+      "text": "31 August 1957 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (or Merdeka Day), 31 August (1957) (independence of Malaya); Malaysia Day, 16 September (1963) (formation of Malaysia)"
+    },
+    "Constitution": {
+      "text": "previous 1948; latest drafted 21 February 1957, effective 27 August 1957; amended many times, last in 2010 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law, Islamic law, and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Malaysia"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 out 12 years preceding application"
+      }
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King MUHAMMAD V (formerly known as Tuanku Muhammad Faris Petra) (selected on 14 October 2016; installed on 13 December 2016); note - the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister"
+      },
+      "head of government": {
+        "text": "Prime Minister Mohamed NAJIB bin Abdul Najib Razak (since 3 April 2009); Deputy Prime Minister Ahmad ZAHID Hamidi (since 29 July 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the prime minister from among members of Parliament with the consent of the king"
+      },
+      "elections/appointments": {
+        "text": "king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 14 October 2016 (next to be held in 2021); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister"
+      },
+      "election results": {
+        "text": "Mohamed NAJIB bin Abdul Najib Razak (UMNO) sworn in as prime minister for second term on 3 April 2009"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlimen consists of the Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms) and the House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "House of Representatives - last held on 5 May 2013 (next to be held by 24 August 2018)"
+      },
+      "election results": {
+        "text": "House of Representatives - percent of vote by party/coalition - BN 47.4%, People's Alliance (DAP, PAS, PKR) 50.9%, other 1.7%; seats by party/coalition - BN 133, People's Alliance (DAP, PAS, PKR) 89"
+      },
+      "note": {
+        "text": "seats by party/coalition as of October 2016 - BN 132, PH 72 (DAP 37, PKR 28, AMANAH 6, PPBM 1), PAS 14, WARISAN 2, PSM 1, independent 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak and 7 judges); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts"
+      },
+      "judge selection and term of office": {
+        "text": "Federal Court justices appointed by the monarch on advice of the prime minister; judges serve until mandatory retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "Court of Appeal; High Court; Sessions Court; Magistrates' Court"
+      }
+    },
+    "Political parties and leaders": {
+      "National Front (Barisan Nasional) or BN": {
+        "text": "Gerakan Rakyat Malaysia Party or GERAKAN [MAH Siew Keong]"
+      },
+      "text": "Socialist Party of Malaysia (Parti Sosialis Malaysia) or PSM [Mohd Nasir HASHIM]",
+      "Coalition of Hope (Pakatan Harapan) or PH (formerly the People's Alliance)": {
+        "text": ""
+      },
+      "Other": {
+        "text": "Islamic Party of Malaysia (Parti Islam se Malaysia) or PAS [Abdul HADI Awang]"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "PERKASA (defense of Malay rights)",
+      "other": {
+        "text": "religious groups; women's groups; youth groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador ZULHASNAN Rafique (since 9 January 2017)"
+      },
+      "chancery": {
+        "text": "3516 International Court NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 572-9700"
+      },
+      "FAX": {
+        "text": "[1] (202) 572-9882"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Kamala Shirin LAKHDIR (since 21 February 2017)"
+      },
+      "embassy": {
+        "text": "376 Jalan Tun Razak, 50400 Kuala Lumpur"
+      },
+      "mailing address": {
+        "text": "US Embassy Kuala Lumpur, APO AP 96535-8152"
+      },
+      "telephone": {
+        "text": "[60] (3) 2168-5000"
+      },
+      "FAX": {
+        "text": "[60] (3) 2142-2207"
+      }
+    },
+    "Flag description": {
+      "text": "14 equal horizontal stripes of red (top) alternating with white (bottom); there is a dark blue rectangle in the upper hoist-side corner bearing a yellow crescent and a yellow 14-pointed star; the flag is often referred to as Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status in the federation of the 13 member states and the federal government; the 14 points on the star represent the unity between these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people and yellow is the royal color of Malay rulers",
+      "note": {
+        "text": "the design is based on the flag of the US"
+      }
+    },
+    "National symbol(s)": {
+      "text": "tiger, hibiscus; national colors: red, white, blue, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Negaraku\" (My Country)"
+      },
+      "lyrics/music": {
+        "text": "collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER"
+      },
+      "note": {
+        "text": "adopted 1957; full version only performed in the presence of the king; the tune, which was adopted from a popular French melody titled \"La Rosalie,\" was originally the anthem of Perak, one of Malaysia's 13 states"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Malaysia signed the 12-nation Trans-Pacific Partnership (TPP) free trade agreement in February 2016, although the future of the TPP remains unclear following the US withdrawal from the agreement. Along with nine other ASEAN members, Malaysia established the ASEAN Economic Community in 2015, which aims to advance regional economic integration."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$770.4 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$296.5 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$25,700 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Gross national saving": {
+      "text": "29.4% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "54.9%"
+      },
+      "government consumption": {
+        "text": "12.6%"
+      },
+      "investment in fixed capital": {
+        "text": "25.8%"
+      },
+      "investment in inventories": {
+        "text": "0.1%"
+      },
+      "exports of goods and services": {
+        "text": "67.7%"
+      },
+      "imports of goods and services": {
+        "text": "-61% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "8.7%"
+      },
+      "industry": {
+        "text": "37%"
+      },
+      "services": {
+        "text": "54.4% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "Peninsular Malaysia - palm oil, rubber, cocoa, rice; Sabah - palm oil, subsistence crops; rubber, timber; Sarawak - palm oil, rubber, timber; pepper"
+    },
+    "Industries": {
+      "text": "Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production; Sarawak - agriculture processing, petroleum and natural gas production, logging"
+    },
+    "Industrial production growth rate": {
+      "text": "4.5% (2016 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Labor force": {
+      "text": "14.7 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "11%"
+      },
+      "industry": {
+        "text": "36%"
+      },
+      "services": {
+        "text": "53% (2012 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Population below poverty line": {
+      "text": "3.8% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.8%"
+      },
+      "highest 10%": {
+        "text": "34.7% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "49.2 (1997)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$51.21 billion"
+      },
+      "expenditures": {
+        "text": "$60.46 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "17.3% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Public debt": {
+      "text": "54.5% of GDP (2015 est.)",
+      "note": {
+        "text": "this figure is based on the amount of federal government debt, RM501.6 billion ($167.2 billion) in 2012; this includes Malaysian Treasury bills and other government securities, as well as loans raised externally and bonds and notes issued overseas; this figure excludes debt issued by non-financial public enterprises and guaranteed by the federal government, which was an additional $47.7 billion in 2012"
+      },
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.1% (2015 est.)",
+      "note": {
+        "text": "approximately 30% of goods are price-controlled"
+      },
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "2.83% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.57% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$83.98 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$370.1 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$390.4 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$500.4 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Current account balance": {
+      "text": "$9.068 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Exports": {
+      "text": "$174.6 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Exports - commodities": {
+      "text": "semiconductors and electronic equipment, palm oil, petroleum and liquefied natural gas, wood and wood products, palm oil, rubber, textiles, chemicals, solar panels"
+    },
+    "Exports - partners": {
+      "text": "Singapore 14.7%, China 12.6%, US 10.3%, Japan 8.1%, Thailand 5.7%, Hong Kong 4.8%, India 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$146.7 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Imports - commodities": {
+      "text": "electronics, machinery, petroleum products, plastics, vehicles, iron and steel products, chemicals"
+    },
+    "Imports - partners": {
+      "text": "China 19.4%, Singapore 9.8%, Japan 7.7%, US 7.6%, Thailand 5.8%, South Korea 5%, Indonesia 4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$95.29 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Debt - external": {
+      "text": "$191 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$117.6 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$136.9 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Exchange rates": {
+      "text": "3.09 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "100,000"
+      },
+      "electrification - total population": {
+        "text": "99.5%"
+      },
+      "electrification - urban areas": {
+        "text": "99.8%"
+      },
+      "electrification - rural areas": {
+        "text": "98.7% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "141.9 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "133 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Electricity - exports": {
+      "text": "3 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Electricity - imports": {
+      "text": "13 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "33.34 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "82.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "14% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Crude oil - production": {
+      "text": "666,900 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "310,900 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "194,400 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "3.6 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "512,900 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "760,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "231,400 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "409,500 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Natural gas - production": {
+      "text": "63.43 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "40.67 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "34.99 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "3.27 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "1.183 trillion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "208 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "4,510,200"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "15 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "43,912,600"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "142 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system featuring good intercity service on Peninsular Malaysia provided mainly by microwave radio relay and an adequate intercity microwave radio relay network between Sabah and Sarawak via Brunei; international service excellent"
+      },
+      "domestic": {
+        "text": "domestic satellite system with 2 earth stations; combined fixed-line and mobile-cellular teledensity exceeds 155 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 60; landing point for several major international submarine cable networks that provide connectivity to Asia, Middle East, and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned TV broadcaster operates 2 TV networks with relays throughout the country, and the leading private commercial media group operates 4 TV stations with numerous relays throughout the country; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2012)"
+    },
+    "Internet country code": {
+      "text": ".my"
+    },
+    "Internet users": {
+      "total": {
+        "text": "24,384,952"
+      },
+      "percent of population": {
+        "text": "78.8% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "40"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "263"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "50,347,149"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,005,979,379 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9M (2016)"
+    },
+    "Airports": {
+      "text": "114 (2013)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "39"
+      },
+      "over 3,047 m": {
+        "text": "8"
+      },
+      "2,438 to 3,047 m": {
+        "text": "8"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "8"
+      },
+      "under 914 m": {
+        "text": "8 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "75"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "69 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "4 (2013)"
+    },
+    "Pipelines": {
+      "text": "condensate 354 km; gas 6,439 km; liquid petroleum gas 155 km; oil 1,937 km; oil/gas/water 43 km; refined products 114 km; water 26 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,851 km"
+      },
+      "standard gauge": {
+        "text": "59 km 1.435-m gauge (59 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "1,792 km 1.000-m gauge (339 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "144,403 km (excludes local roads)"
+      },
+      "paved": {
+        "text": "116,169 km (includes 1,821 km of expressways)"
+      },
+      "unpaved": {
+        "text": "28,234 km (2010)"
+      },
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Waterways": {
+      "text": "7,200 km (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km) (2011)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "315"
+      },
+      "by type": {
+        "text": "bulk carrier 11, cargo 83, carrier 2, chemical tanker 47, container 41, liquefied gas 34, passenger/cargo 4, petroleum tanker 86, roll on/roll off 2, vehicle carrier 5"
+      },
+      "foreign-owned": {
+        "text": "26 (Denmark 1, Hong Kong 8, Japan 2, Russia 2, Singapore 13)"
+      },
+      "registered in other countries": {
+        "text": "82 (Bahamas 13, India 1, Indonesia 1, Isle of Man 6, Malta 1, Marshall Islands 11, Panama 12, Papua New Guinea 1, Philippines 1, Saint Kitts and Nevis 1, Singapore 27, Thailand 3, US 2, unknown 2) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas"
+      },
+      "container port(s) (TEUs)": {
+        "text": "George Town (Penang) (1,317,000), Port Kelang (Port Klang) (11,887,000), Tanjung Pelepas (8,797,000) (2015)"
+      },
+      "LNG terminal(s) (export)": {
+        "text": "Bintulu (Sarawak)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Sungei Udang"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.43% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Military branches": {
+      "text": "Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2013)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau reports that the territorial and offshore waters in the Strait of Malacca and South China Sea remain high risk for piracy and armed robbery against ships; in the past, commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; seven attacks were reported in 2016 including five ships boarded, two hijacked, and 47 crew taken hostage, this is down from 13 attacks in 2015; during the first half of 2017, three attacks were reported including two ships that were boarded and one that was hijacked"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "while the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" has eased tensions over the Spratly Islands, it is not the legally binding \"code of conduct\" sought by some parties; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands; disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; separatist violence in Thailand's predominantly Muslim southern provinces prompts measures to close and monitor border with Malaysia to stem terrorist activities; Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo; per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei; piracy remains a problem in the Malacca Strait"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "87,036 (Burma) (2016)"
+      },
+      "stateless persons": {
+        "text": "10,931 (2016); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped \"foreigner\" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Malaysia is a destination and, to a lesser extent, a source and transit country for men, women, and children subjected to forced labor and women and children subjected to sex trafficking; Malaysia is mainly a destination country for foreign workers who migrate willingly from countries, including Indonesia, Bangladesh, the Philippines, Nepal, Burma, and other Southeast Asian countries, but subsequently encounter forced labor or debt bondage in agriculture, construction, factories, and domestic service at the hands of employers, employment agents, and labor recruiters; women from Southeast Asia and, to a much lesser extent, Africa, are recruited for legal work in restaurants, hotels, and salons but are forced into prostitution; refugees, including Rohingya adults and children, are not legally permitted to work and are vulnerable to trafficking; a small number of Malaysians are trafficked internally and subjected to sex trafficking abroad"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch list - Malaysia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, amendments to strengthen existing anti-trafficking laws, including enabling victims to move freely and to work and for NGOs to run protective facilities, were drafted by the government and are pending approval from Parliament; authorities more than doubled investigations and prosecutions but convicted only three traffickers for forced labor and none for sex trafficking, a decline from 2013 and a disproportionately small number compared to the scale of the country\u2019s trafficking problem; NGOs provided the majority of victim rehabilitation and counseling services with no financial support from the government (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "drug trafficking prosecuted vigorously, including enforcement of the death penalty; heroin still primary drug of abuse, but synthetic drug demand remains strong; continued ecstasy and methamphetamine producer for domestic users and, to a lesser extent, the regional drug market"
+    }
+  }
+}

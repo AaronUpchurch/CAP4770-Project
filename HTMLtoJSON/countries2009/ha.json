@@ -1,0 +1,684 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The native Taino Amerindians - who inhabited the island of Hispaniola when it was discovered by COLUMBUS in 1492 - were virtually annihilated by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but only through the heavy importation of African slaves and considerable environmental degradation. In the late 18th century, Haiti's nearly half million slaves revolted under Toussaint L'OUVERTURE. After a prolonged struggle, Haiti became the first black republic to declare independence in 1804. The poorest country in the Western Hemisphere, Haiti has been plagued by political violence for most of its history. After an armed rebellion led to the forced resignation and exile of President Jean-Bertrand ARISTIDE in February 2004, an interim government took office to organize new elections under the auspices of the United Nations Stabilization Mission in Haiti (MINUSTAH). Continued violence and technical delays prompted repeated postponements, but Haiti finally did inaugurate a democratically elected president and parliament in May of 2006."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, western one-third of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, west of the Dominican Republic"
+    },
+    "Geographic coordinates": {
+      "text": "19 00 N, 72 25 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "27,750 sq km"
+      },
+      "land": {
+        "text": "27,560 sq km"
+      },
+      "water": {
+        "text": "190 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "360 km"
+      },
+      "border countries": {
+        "text": "Dominican Republic 360 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,771 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "to depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical; semiarid where mountains in east cut off trade winds"
+    },
+    "Terrain": {
+      "text": "mostly rough and mountainous"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Chaine de la Selle 2,680 m"
+      }
+    },
+    "Natural resources": {
+      "text": "bauxite, copper, calcium carbonate, gold, marble, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "28.11%"
+      },
+      "permanent crops": {
+        "text": "11.53%"
+      },
+      "other": {
+        "text": "60.36% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "920 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "14 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.99  cu km/yr (5%/1%/94%)"
+      },
+      "per capita": {
+        "text": "116  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding and earthquakes; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel); soil erosion; inadequate supplies of potable water"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "Hazardous Wastes"
+      }
+    },
+    "Geography - note": {
+      "text": "shares island of Hispaniola with Dominican Republic (western one-third is Haiti, eastern two-thirds is the Dominican Republic)"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "9,035,536",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "roughly half of the population practices voodoo",
+    "Age structure": {
+      "0-14 years": {
+        "text": "38.1% (male 1,735,917/female 1,704,383)"
+      },
+      "15-64 years": {
+        "text": "58.5% (male 2,621,059/female 2,665,447)"
+      },
+      "65 years and over": {
+        "text": "3.4% (male 120,040/female 188,690) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "20.2 years"
+      },
+      "male": {
+        "text": "19.8 years"
+      },
+      "female": {
+        "text": "20.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.838% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "29.1 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.65 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.07 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "47% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.64 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "59.69 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "66.18 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "53.01 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "60.78 years"
+      },
+      "male": {
+        "text": "59.13 years"
+      },
+      "female": {
+        "text": "62.48 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.81 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "2.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "120,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "7,200 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Haitian(s)"
+      },
+      "adjective": {
+        "text": "Haitian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 95%, mulatto and white 5%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 80%, Protestant 16% (Baptist 10%, Pentecostal 4%, Adventist 1%, other 1%), none 1%, other 3%",
+      "note": "roughly half of the population practices voodoo"
+    },
+    "Languages": {
+      "text": "French (official), Creole (official)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "52.9%"
+      },
+      "male": {
+        "text": "54.8%"
+      },
+      "female": {
+        "text": "51.2% (2003 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "1.4% of GDP (1991)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Haiti "
+      },
+      "conventional short form": {
+        "text": "Haiti"
+      },
+      "local long form": {
+        "text": "Republique d'Haiti/Repiblik d' Ayiti"
+      },
+      "local short form": {
+        "text": "Haiti/Ayiti"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Port-au-Prince"
+      },
+      "geographic coordinates": {
+        "text": "18 32 N, 72 20 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in April; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 departments (departements, singular - departement); Artibonite, Centre, Grand 'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est"
+    },
+    "Independence": {
+      "text": "1 January 1804 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 January (1804)"
+    },
+    "Constitution": {
+      "text": "approved March 1987",
+      "note": "suspended June 1988 with most articles reinstated March 1989; constitutional government ousted in a military coup in September 1991, although in October 1991 military government claimed to be observing the constitution; returned to constitutional rule in October 1994; constitution, while technically in force between 2004-2006, was not enforced; returned to constitutional rule in May 2006"
+    },
+    "note": "suspended June 1988 with most articles reinstated March 1989; constitutional government ousted in a military coup in September 1991, although in October 1991 military government claimed to be observing the constitution; returned to constitutional rule in October 1994; constitution, while technically in force between 2004-2006, was not enforced; returned to constitutional rule in May 2006",
+    "Legal system": {
+      "text": "based on Roman civil law system; accepts compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Rene PREVAL (since 14 May 2006)"
+      },
+      "head of government": {
+        "text": "Prime Minister Jean-Max BELLERIVE (since 7 November 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet chosen by the prime minister in consultation with the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (may not serve consecutive terms); election last held 7 February 2006 (next to be held in 2011); prime minister appointed by the president, ratified by the National Assembly"
+      },
+      "election results": {
+        "text": "Rene PREVAL elected president; percent of vote - Rene PREVAL 51%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral National Assembly or Assemblee Nationale consists of the Senate (30 seats; members elected by popular vote to serve six-year terms; one-third elected every two years) and the Chamber of Deputies (99 seats; members are elected by popular vote to serve four-year terms); note - in reestablishing the Senate, the candidate in each department receiving the most votes in the last election serves six years, the candidate with the second most votes serves four years, and the candidate with the third most votes serves two years",
+      "elections": {
+        "text": "Senate - last held 21 April 2006 with run-off elections on 3 December 2006 (next regular election, for one third of seats, to be held in 2008); Chamber of Deputies - last held 21 April 2006 with run-off elections on 3 December 2006 and 29 April 2007 (next regular election to be held in 2010)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - L'ESPWA 11, FUSION 5, OPL 4, FL 3, LAAA 2, UNCRH 2, PONT 2, ALYANS 1; Chamber of Deputies - percent of vote by party - NA; seats by party - L'ESPWA 23, FUSION 17, FRN 12, OPL 10, ALYANS 10, LAAA 5, MPH 3, MOCHRENA 3, other 10; results for six other seats contested on 3 December 2006 remain unknown"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour de Cassation"
+    },
+    "Political parties and leaders": {
+      "text": "Artibonite in Action or LAAA [Youri LATORTUE]; Assembly of Progressive National Democrats or RDNP [Leslie MANIGAT]; Convention for Democratic Unity or KID [Evans PAUL]; Cooperative Action to Build Haiti or KONBA [Evans LESCOUFALIR]; Democratic Alliance or ALYANS [Evans PAUL] (coalition composed of KID and PPRH); Effort and Solidarity to Create an Alternative for the People or ESKAMP [Joseph JASME]; For Us All or PONT [Jean-Marie CHERESTAL]; Front for Hope or L'ESPWA [Rene PREVAL] (alliance of ESKAMP, PLB, and grass-roots organizations Grand-Anse Resistance Committee, the Central Plateau Peasants' Group, and Kombit Sudest); Haitian Christian Democratic Party or PDCH [Osner FEVRY and Marie-Denise CLAUDE]; Haitian Democratic and Reform Movement or MODEREH [Dany TOUSSAINT and Pierre Soncon PRINCE]; Heads Together or Tet-Ansanm [Dr. Gerard BLOT]; Independent Movement for National Reconciliation or MIRN [Luc FLEURINORD]; Justice for Peace and National Development or JPDN [Rigaud DUPLAN]; Fanmi Lavalas or FL [Rudy HERIVEAUX]; Liberal Party of Haiti or PLH [Gehy MICHEL]; Merging of Haitian Social Democratic Parties or FUSION or FPSDH [Serge GILLES] (coalition of Ayiti Capable, Haitian National Revolutionary Party, and National Congress of Democratic Movements); Mobilization for Haiti's Development or MPH [Samir MOURRA]; Mobilization for National Development or MDN [Hubert de RONCERAY]; Movement for National Reconstruction or MRN [Jean Henold BUTEAU]; Movement for the Installation of Democracy in Haiti or MIDH [Marc BAZIN]; National Christian Union for the Reconstruction of Haiti or UNCRH [Marie Claude GERMAIN]; National Front for the Reconstruction of Haiti or FRN [Guy PHILIPPE]; New Christian Movement for a New Haiti or MOCHRENA [Luc MESADIEU]; Open the Gate Party or PLB [Anes LUBIN]; Popular Party for the Renewal of Haiti or PPRH [Claude ROMAIN]; Struggling People's Organization or OPL [Edgard LEBLANC]; Union of Nationalist and Progressive Haitians or UNITE [Edouard FRANCISQUE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Autonomous Organizations of Haitian Workers or CATH [Fignole ST-CYR]; Confederation of Haitian Workers or CTH; Federation of Workers Trade Unions or FOS; General Organization of Independent Haitian Workers [Patrick NUMAS]; Grand-Anse Resistance Committee, or KOREGA; National Popular Assembly or APN; Papaye Peasants Movement or MPP [Chavannes JEAN-BAPTISTE]; Popular Organizations Gathering Power or PROP; Protestant Federation of Haiti; Roman Catholic Church"
+    },
+    "International organization participation": {
+      "text": "ACP, Caricom, CDB, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITSO, ITU, ITUC, LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Raymond JOSEPH"
+      },
+      "chancery": {
+        "text": "2311 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-4090"
+      },
+      "FAX": {
+        "text": "[1] (202) 745-7215"
+      },
+      "consulate(s) general": {
+        "text": "Boston, Chicago, Miami, New York, San Juan (Puerto Rico)"
+      },
+      "consulate(s)": {
+        "text": "Orlando (Florida)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Janet A. SANDERSON"
+      },
+      "embassy": {
+        "text": "Tabarre 41, Route de Tabarre, Port-au-Prince"
+      },
+      "mailing address": {
+        "text": "use mailing address"
+      },
+      "telephone": {
+        "text": "[509] 229-8000"
+      },
+      "FAX": {
+        "text": "[509] 229-8028"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Haiti is the poorest country in the Western Hemisphere with 80% of the population living under the poverty line and 54% in abject poverty. Two-thirds of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, and remain vulnerable to damage from frequent natural disasters, exacerbated by the country's widespread deforestation. While the economy has recovered in recent years, registering positive growth since 2005, four tropical storms in 2008 severely damaged the transportation infrastructure and agricultural sector. US economic engagement under the Haitian Hemispheric Opportunity through Partnership Encouragement (HOPE) Act, passed in December 2006, has boosted apparel exports and investment by providing tariff-free access to the US. HOPE II, passed in October 2008, has further improved the export environment for the apparel sector by extending preferences to 2018; the apparel sector accounts for two-thirds of Haitian exports and nearly one-tenth of GDP. Remittances are the primary source of foreign exchange, equaling nearly a quarter of GDP and more than twice the earnings from exports. Haiti suffers from high inflation, a lack of investment because of insecurity and limited infrastructure, and a severe trade deficit. In 2005, Haiti paid its arrears to the World Bank, paving the way for reengagement with the Bank. Haiti is expected to receive debt forgiveness for about $525 million of its debt through the Highly-Indebted Poor Country (HIPC) initiative by mid-2009. The government relies on formal international economic assistance for fiscal sustainability."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$11 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs",
+    "GDP (official exchange rate)": {
+      "text": "$6.943 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.3% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "28%"
+      },
+      "industry": {
+        "text": "20%"
+      },
+      "services": {
+        "text": "52% (2004 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "3.643 million",
+      "note": "shortage of skilled labor, unskilled labor abundant (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "66%"
+      },
+      "industry": {
+        "text": "9%"
+      },
+      "services": {
+        "text": "25% (1995)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%",
+      "note": "widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs"
+    },
+    "Population below poverty line": {
+      "text": "80% (2003 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "0.7%"
+      },
+      "highest 10%": {
+        "text": "47.7% (2001)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "59.2 (2001)"
+    },
+    "Investment (gross fixed)": {
+      "text": "28.9% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$967.5 million"
+      },
+      "expenditures": {
+        "text": "$1.162 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.5% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "46.99% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$704.7 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$1.561 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.537 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "coffee, mangoes, sugarcane, rice, corn, sorghum; wood"
+    },
+    "Industries": {
+      "text": "sugar refining, flour milling, textiles, cement, light assembly based on imported parts"
+    },
+    "Industrial production growth rate": {
+      "text": "0% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "448 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "273 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "12,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "12,280 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$407 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$522 million (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "apparel, manufactures, oils, cocoa, mangoes, coffee"
+    },
+    "Exports - partners": {
+      "text": "US 70.7%, Dominican Republic 8.9%, Canada 3.1% (2008)"
+    },
+    "Imports": {
+      "text": "$1.618 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food, manufactured goods, machinery and transport equipment, fuels, raw materials"
+    },
+    "Imports - partners": {
+      "text": "US 34%, Dominican Republic 23.1%, Netherlands Antilles 10.6%, China 4.5% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$555 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.475 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "gourdes (HTG) per US dollar - 39.216 (2008 est.), 37.138 (2007), 40.232 (2006), 40.449 (2005), 38.352 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "108,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.2 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications infrastructure is among the least developed in Latin America and the Caribbean; domestic facilities barely adequate; international facilities slightly better; mobile-cellular telephone services are expanding rapidly due, in part, to the introduction of low-cost GSM phones in 2006"
+      },
+      "domestic": {
+        "text": "coaxial cable and microwave radio relay trunk service"
+      },
+      "international": {
+        "text": "country code - 509; satellite earth station - 1 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 41, FM 26, shortwave 0 (1999)"
+    },
+    "Television broadcast stations": {
+      "text": "2 (plus a cable TV service) (1997)"
+    },
+    "Internet country code": {
+      "text": ".ht"
+    },
+    "Internet hosts": {
+      "text": "9 (2009)"
+    },
+    "Internet users": {
+      "text": "1 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "14 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "10"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "8 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "4,160 km"
+      },
+      "paved": {
+        "text": "1,011 km"
+      },
+      "unpaved": {
+        "text": "3,149 km (2000)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cap-Haitien"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces - small Coast Guard; the regular Haitian Armed Forces (FAdH) - Army, Navy, and Air Force - have been demobilized but still exist on paper until or unless they are constitutionally abolished (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,047,083"
+      },
+      "females age 16-49": {
+        "text": "2,047,953 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,518,840"
+      },
+      "females age 16-49": {
+        "text": "1,530,043 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "108,444"
+      },
+      "female": {
+        "text": "106,243 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.4% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "since 2004, about 8,000 peacekeepers from the UN Stabilization Mission in Haiti (MINUSTAH) maintain civil order in Haiti; despite efforts to control illegal migration, Haitians cross into the Dominican Republic and sail to neighboring countries; Haiti claims US-administered Navassa Island"
+    },
+    "Illicit drugs": {
+      "text": "Caribbean transshipment point for cocaine en route to the US and Europe; substantial bulk cash smuggling activity; Colombian narcotics traffickers favor Haiti for illicit financial transactions; pervasive corruption; significant consumer of cannabis\r\n"
+    }
+  }
+}

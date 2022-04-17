@@ -1,0 +1,907 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The post-independence AL government faced daunting challenges and in 1975 was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL alternated in power between 1991 and 2013, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted, extending HASINA's term as prime minister. With the help of international development assistance, Bangladesh has reduced the poverty rate from over half of the population to less than a third, achieved Millennium Development Goals for maternal and child health, and made great progress in food security since independence. The economy has grown at an annual average of about 6% over the last two decades and the country reached World Bank lower-middle income status in 2015."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Asia, bordering the Bay of Bengal, between Burma and India"
+    },
+    "Geographic coordinates": {
+      "text": "24 00 N, 90 00 E"
+    },
+    "Map references": {
+      "text": "Asia"
+    },
+    "Area": {
+      "total": {
+        "text": "148,460 sq km"
+      },
+      "land": {
+        "text": "130,170 sq km"
+      },
+      "water": {
+        "text": "18,290 sq km"
+      },
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Pennsylvania and New Jersey combined; slightly smaller than Iowa"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,413 km"
+      },
+      "border countries (2)": {
+        "text": "Burma 271 km, India 4,142 km"
+      }
+    },
+    "Coastline": {
+      "text": "580 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "18 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "to the outer limits of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)"
+    },
+    "Terrain": {
+      "text": "mostly flat alluvial plain; hilly in southeast"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "85 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Keokradong 1,230 m"
+    },
+    "Natural resources": {
+      "text": "natural gas, arable land, timber, coal"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "70.1%"
+      },
+      "text": "arable land 59%; permanent crops 6.5%; permanent pasture 4.6%",
+      "forest": {
+        "text": "11.1%"
+      },
+      "other": {
+        "text": "18.8% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "53,000 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "droughts; cyclones; much of the country routinely inundated during the summer monsoon season"
+    },
+    "Environment - current issues": {
+      "text": "many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; severe overpopulation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "People's Republic of Bangladesh"
+      },
+      "conventional short form": {
+        "text": "Bangladesh"
+      },
+      "local long form": {
+        "text": "Gana Prajatantri Bangladesh"
+      },
+      "local short form": {
+        "text": "Bangladesh"
+      },
+      "former": {
+        "text": "East Bengal, East Pakistan"
+      },
+      "etymology": {
+        "text": "the name - a compound of the Bengali words \"Bangla\" (Bengal) and \"desh\" (country) - means \"Country of Bengal\""
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dhaka"
+      },
+      "geographic coordinates": {
+        "text": "23 43 N, 90 24 E"
+      },
+      "time difference": {
+        "text": "UTC+6 (11 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 divisions; Barisal, Chittagong, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet"
+    },
+    "Independence": {
+      "text": "16 December 1971 (from West Pakistan)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - 26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December (Victory Day) memorializes the military victory over Pakistan and the official creation of the state of Bangladesh"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1935, 1956, 1962 (pre-independence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986"
+      },
+      "amendments": {
+        "text": "proposed by the House of the Nation; approval requires at least a two-thirds majority vote by the House membership, assented to by the president of the republic, and approved in a referendum by a majority of voters; amended many times, last in 2014 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of mostly English common law and Islamic law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Bangladesh"
+      },
+      "dual citizenship recognized": {
+        "text": "yes, but limited to select countries"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently indirectly elected by the National Parliament and sworn in 24 April 2013"
+      },
+      "head of government": {
+        "text": "Prime Minister Sheikh HASINA (since 6 January 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet selected by the prime minister, appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 22 April 2013 (next to be held by 2018); the president appoints as prime minister the majority party leader in the National Parliament"
+      },
+      "election results": {
+        "text": "President Abdul HAMID (AL) elected by the National Parliament unopposed; Sheikh HASINA reappointed prime minister as leader of the majority AL party"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority popular vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using the single transferable vote method; all members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 5 January 2014 (next to be held by January 2019); note - the 5 January 2014 poll was marred by widespread violence, boycotts, general strikes, and low voter turnout"
+      },
+      "election results": {
+        "text": "percent of vote by party - AL 79.1%, JP (Ershad) 11.3%, WP 2.1%, JSD 1.8%, other 1%, independent 4.8%; seats by party - AL 234, JP 34, WP 6, JSD 5, other 5, independent 15; 1 seat repolled"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)"
+      },
+      "judge selection and term of office": {
+        "text": "chief justice and justices appointed by the president; justices serve until retirement at age 67"
+      },
+      "subordinate courts": {
+        "text": "subordinate courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Workers Party or WP [Rashed Khan MENON]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Odikhar [Dr. C.R. ABRAR (human rights group)",
+      "other": {
+        "text": "associations of madrassa teachers; business associations, including those intended to promote international trade; development and advocacy NGOs associated with the Grameen Bank; environmentalists; Islamist groups; labor rights advocacy groups; NGOs focused on poverty alleviation, and international trade; religious leaders; tribal groups and advocacy organizations; union leaders"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mohammad ZIAUDDIN (since 18 September 2014)"
+      },
+      "chancery": {
+        "text": "3510 International Drive NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 244-0183"
+      },
+      "FAX": {
+        "text": "[1] (202) 244-2771"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Marcia BERNICAT (since 4 February 2015)"
+      },
+      "embassy": {
+        "text": "Madani Avenue, Baridhara, Dhaka 1212"
+      },
+      "mailing address": {
+        "text": "G. P. O. Box 323, Dhaka 1000"
+      },
+      "telephone": {
+        "text": "[880] (2) 5566-2000"
+      },
+      "FAX": {
+        "text": "[880] (2) 5566-2915"
+      }
+    },
+    "Flag description": {
+      "text": "green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh"
+    },
+    "National symbol(s)": {
+      "text": "Bengal tiger, water lily; national colors: green, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Amar Shonar Bangla\" (My Golden Bengal)"
+      },
+      "lyrics/music": {
+        "text": "Rabindranath TAGORE"
+      },
+      "note": {
+        "text": "adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Garment exports, the backbone of Bangladesh's industrial sector, accounted for more than 80% of total exports and surpassed $25 billion in 2016. The sector continues to grow, despite a series of high-profile factory accidents that have killed more than 1,000 workers and crippling strikes, including a nationwide transportation blockade orchestrated by the political opposition during the first several months of 2015. Steady export growth in the garment sector combined with remittances from overseas Bangladeshis - which totaled about $15 billion and 8% of GDP in 2015 - are key contributors to Bangladesh's sustained economic growth and rising foreign exchange reserves."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$537.3 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$228.4 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,500 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "178"
+      }
+    },
+    "Gross national saving": {
+      "text": "29.1% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "69.1%"
+      },
+      "government consumption": {
+        "text": "5.9%"
+      },
+      "investment in fixed capital": {
+        "text": "29.7%"
+      },
+      "investment in inventories": {
+        "text": "3%"
+      },
+      "exports of goods and services": {
+        "text": "16.7%"
+      },
+      "imports of goods and services": {
+        "text": "-21.3% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "14.8%"
+      },
+      "industry": {
+        "text": "28.8%"
+      },
+      "services": {
+        "text": "56.5% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rice, jute, tea, wheat, sugarcane, potatoes, tobacco, pulses, oilseeds, spices, fruit; beef, milk, poultry"
+    },
+    "Industries": {
+      "text": "jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petroleum products, tobacco, pharmaceuticals, ceramics, tea, salt, sugar, edible oils, soap and detergent, fabricated metal products, electricity, natural gas"
+    },
+    "Industrial production growth rate": {
+      "text": "11.1% (2016 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Labor force": {
+      "text": "72.05 million",
+      "note": {
+        "text": "extensive migration of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "47%"
+      },
+      "industry": {
+        "text": "13%"
+      },
+      "services": {
+        "text": "40% (2010 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.1% (2015 est.)",
+      "note": {
+        "text": "about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages"
+      },
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Population below poverty line": {
+      "text": "31.5% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4%"
+      },
+      "highest 10%": {
+        "text": "27% (2010 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "33.6 (1996)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$22.61 billion"
+      },
+      "expenditures": {
+        "text": "$33.72 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "9.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "213"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Public debt": {
+      "text": "26.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "178"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "5% (30 October 2015)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "11.71% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$21.44 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$106.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$115.3 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$23.55 billion (31 December 2011 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Current account balance": {
+      "text": "$2.58 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Exports": {
+      "text": "$31.74 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Exports - commodities": {
+      "text": "garments, knitwear, agricultural products, frozen food (fish and seafood), jute and jute goods, leather"
+    },
+    "Exports - partners": {
+      "text": "US 13.1%, Germany 12.7%, UK 8.6%, France 5.1%, Spain 5% (2016)"
+    },
+    "Imports": {
+      "text": "$37.86 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Imports - commodities": {
+      "text": "cotton, machinery and equipment, chemicals, iron and steel, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 24.3%, India 13.4%, Singapore 5.1%, Japan 4.5% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$27.49 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Debt - external": {
+      "text": "$38.64 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$12.91 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$188 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Exchange rates": {
+      "text": "81.86 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "60,300,000"
+      },
+      "electrification - total population": {
+        "text": "60%"
+      },
+      "electrification - urban areas": {
+        "text": "90%"
+      },
+      "electrification - rural areas": {
+        "text": "49% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "55.5 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "48.98 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "11.7 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "96.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "1.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Crude oil - production": {
+      "text": "4,000 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "313 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "26,160 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "28 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "25,720 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "107,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "1,802 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "85,990 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Natural gas - production": {
+      "text": "26.86 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "39.88 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "205.4 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "66 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "772,369"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "126,391,269"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "81 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate for a modern country; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 80 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 880; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned Bangladesh Television (BTV) operates 1 terrestrial TV station, 3 radio networks, and about 10 local stations; 8 private satellite TV stations and 3 private radio stations also broadcasting; foreign satellite TV stations are gaining audience share in the large cities; several international radio broadcasters are available (2009)"
+    },
+    "Internet country code": {
+      "text": ".bd"
+    },
+    "Internet users": {
+      "total": {
+        "text": "28,499,324"
+      },
+      "percent of population": {
+        "text": "18.2% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "42"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "30"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "2,906,799"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "182,692,553 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "S2 (2016)"
+    },
+    "Airports": {
+      "text": "18 (2013)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "5 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "3 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 2,950 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,460 km"
+      },
+      "broad gauge": {
+        "text": "659 km 1.676-m gauge"
+      },
+      "narrow gauge": {
+        "text": "1,801 km 1.000-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "21,269 km"
+      },
+      "paved": {
+        "text": "2,021 km"
+      },
+      "unpaved": {
+        "text": "19,248 km (2010)"
+      },
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Waterways": {
+      "text": "8,370 km (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season) (2011)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "62"
+      },
+      "by type": {
+        "text": "bulk carrier 25, cargo 28, chemical tanker 1, container 5, petroleum tanker 3"
+      },
+      "foreign-owned": {
+        "text": "8 (China 1, Singapore 7)"
+      },
+      "registered in other countries": {
+        "text": "10 (Comoros 1, Hong Kong 1, Panama 5, Saint Vincent and the Grenadines 1, Sierra Leone 1, Singapore 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Chittagong"
+      },
+      "river port(s)": {
+        "text": "Mongla Port (Sela River)"
+      },
+      "container port(s)": {
+        "text": "Chittagong (1,392,104) (2011)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.41% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Military branches": {
+      "text": "Bangladesh Defense Force: Bangladesh Army (Sena Bahini), Bangladesh Navy (Noh Bahini, BN), Bangladesh Air Force (Biman Bahini, BAF) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "16-19 years of age for voluntary military service; Bangladeshi birth and 10th grade education required; initial obligation 15 years (2012)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; in 2016, the number of attacks against commercial vessels decreased to three over 11 such incidents in 2015"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 32,000 Rohingya, Burmese Muslim minority from Arakan State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "891,200 (Burma) (2017) (includes an estimated 615,000 Rohingya refugees who have fled conflict since 25 August 2017)"
+      },
+      "IDPs": {
+        "text": "426,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit country for illegal drugs produced in neighboring countries"
+    }
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French administered the area as Syria until granting it independence in 1946. The new country lacked political stability, however, and experienced a series of military coups during its first decades. Syria united with Egypt in February 1958 to form the United Arab Republic. In September 1961, the two entities separated, and the Syrian Arab Republic was reestablished. In November 1970, Hafiz al-ASAD, a member of the Socialist Ba'th Party and the minority Alawite sect, seized power in a bloodless coup and brought political stability to the country. In the 1967 Arab-Israeli War, Syria lost the Golan Heights to Israel. During the 1990s, Syria and Israel held occasional peace talks over its return. Following the death of President al-ASAD, his son, Bashar al-ASAD, was approved as president by popular referendum in July 2000. Syrian troops - stationed in Lebanon since 1976 in an ostensible peacekeeping role - were withdrawn in April 2005. During the July-August 2006 conflict between Israel and Hizballah, Syria placed its military forces on alert but did not intervene directly on behalf of its ally Hizballah. In May 2007 Bashar al-ASAD was elected to his second term as president."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey"
+    },
+    "Geographic coordinates": {
+      "text": "35 00 N, 38 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "185,180 sq km"
+      },
+      "land": {
+        "text": "183,630 sq km"
+      },
+      "water": {
+        "text": "1,550 sq km"
+      },
+      "note": "includes 1,295 sq km of Israeli-occupied territory"
+    },
+    "note": "includes 1,295 sq km of Israeli-occupied territory",
+    "Area - comparative": {
+      "text": "slightly larger than North Dakota"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,253 km"
+      },
+      "border countries": {
+        "text": "Iraq 605 km, Israel 76 km, Jordan 375 km, Lebanon 375 km, Turkey 822 km"
+      }
+    },
+    "Coastline": {
+      "text": "193 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      }
+    },
+    "Climate": {
+      "text": "mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus"
+    },
+    "Terrain": {
+      "text": "primarily semiarid and desert plateau; narrow coastal plain; mountains in west"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "unnamed location near Lake Tiberias -200 m"
+      },
+      "highest point": {
+        "text": "Mount Hermon 2,814 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "24.8%"
+      },
+      "permanent crops": {
+        "text": "4.47%"
+      },
+      "other": {
+        "text": "70.73% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "13,330 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "46.1 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "19.95  cu km/yr (3%/2%/95%)"
+      },
+      "per capita": {
+        "text": "1,048  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "dust storms, sandstorms",
+      "volcanism": {
+        "text": "Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries"
+      }
+    },
+    "Environment - current issues": {
+      "text": "deforestation; overgrazing; soil erosion; desertification; water pollution from raw sewage and petroleum refining wastes; inadequate potable water"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "there are 41 Israeli settlements and civilian land use sites in the Israeli-occupied Golan Heights (2010 est.)"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "22,198,110 (July 2010 est.)",
+      "note": "approximately 19,100 Israeli settlers live in the Golan Heights (2008 est.)"
+    },
+    "note": "approximately 19,100 Israeli settlers live in the Golan Heights (2008 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "36.4% (male 4,063,367/female 3,864,099)"
+      },
+      "15-64 years": {
+        "text": "59.9% (male 6,628,644/female 6,406,864)"
+      },
+      "65 years and over": {
+        "text": "3.7% (male 372,172/female 427,832) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "21.5 years"
+      },
+      "male": {
+        "text": "21.3 years"
+      },
+      "female": {
+        "text": "21.7 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.954% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "24.44 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "3.7 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.2 migrant(s)/1,000 population"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "54% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "3.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.86 male(s)/female"
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "16.14 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "18.55 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "13.57 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "74.46 years"
+      },
+      "male": {
+        "text": "72.1 years"
+      },
+      "female": {
+        "text": "76.96 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.02 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 500 (2003 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2003 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Syrian(s)"
+      },
+      "adjective": {
+        "text": "Syrian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Arab 90.3%, Kurds, Armenians, and other 9.7%"
+    },
+    "Religions": {
+      "text": "Sunni Muslim 74%, other Muslim (includes Alawite, Druze) 16%, Christian (various denominations) 10%, Jewish (tiny communities in Damascus, Al Qamishli, and Aleppo)"
+    },
+    "Languages": {
+      "text": "Arabic (official); Kurdish, Armenian, Aramaic, Circassian widely understood; French, English somewhat understood"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "79.6%"
+      },
+      "male": {
+        "text": "86%"
+      },
+      "female": {
+        "text": "73.6% (2004 census)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.9% of GDP (2007)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Syrian Arab Republic "
+      },
+      "conventional short form": {
+        "text": "Syria"
+      },
+      "local long form": {
+        "text": "Al Jumhuriyah al Arabiyah as Suriyah"
+      },
+      "local short form": {
+        "text": "Suriyah"
+      },
+      "former": {
+        "text": "United Arab Republic (with Egypt)"
+      }
+    },
+    "Government type": {
+      "text": "republic under an authoritarian regime"
+    },
+    "Capital": {
+      "name": {
+        "text": "Damascus"
+      },
+      "geographic coordinates": {
+        "text": "33 30 N, 36 18 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Friday in April; ends last Friday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq, Halab, Hamah, Hims, Idlib, Rif Dimashq (Damascus), Tartus"
+    },
+    "Independence": {
+      "text": "17 April 1946 (from League of Nations mandate under French administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 17 April (1946)"
+    },
+    "Constitution": {
+      "text": "13 March 1973"
+    },
+    "Legal system": {
+      "text": "based on a combination of French and Ottoman civil law; Islamic law is used in the family court system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Bashar al-ASAD (since 17 July 2000); Vice President Farouk al-SHARA (since 11 February 2006) oversees foreign policy; Vice President Najah al-ATTAR (since 23 March 2006) oversees cultural policy"
+      },
+      "head of government": {
+        "text": "Prime Minister Muhammad Naji al-UTRI (since 10 September 2003); Deputy Prime Minister for Economic Affairs Abdallah al-DARDARI (since 14 June 2005)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections": {
+        "text": "president approved by popular referendum for a second seven-year term (no term limits); referendum last held on 27 May 2007 (next to be held in May 2014); the president appoints the vice presidents, prime minister, and deputy prime ministers"
+      },
+      "election results": {
+        "text": "Bashar al-ASAD approved as president; percent of vote - Bashar al-ASAD 97.6%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral People's Council or Majlis al-Shaab (250 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held on 22-23 April 2007 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - NPF 172, independents 78"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Judicial Council (appoints and dismisses judges; headed by the president); national level - Supreme Constitutional Court (adjudicates electoral disputes and rules on constitutionality of laws and decrees; justices appointed for four-year terms by the president); Court of Cassation; Appeals Courts (Appeals Courts represent an intermediate level between the Court of Cassation and local level courts); local level - Magistrate Courts; Courts of First Instance; Juvenile Courts; Customs Courts; specialized courts - Economic Security Courts (hear cases related to economic crimes); Supreme State Security Court (hear cases related to national security); Personal Status Courts (religious; hear cases related to marriage and divorce)"
+    },
+    "Political parties and leaders": {
+      "legal parties": {
+        "text": "National Progressive Front or NPF [President Bashar al-ASAD, Dr. Suleiman QADDAH] (includes Arab Socialist Renaissance (Ba'th) Party [President Bashar al-ASAD]; Socialist Unionist Democratic Party [Fadlallah Nasr Al-DIN]; Syrian Arab Socialist Union or ASU [Safwan al-QUDSI]; Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL]; Syrian Social Nationalist Party [As'ad HARDAN]; Unionist Socialist Party [Fayez ISMAIL])"
+      },
+      "opposition parties not legally recognized": {
+        "text": "Communist Action Party [Fateh al-JAMOUS]; National Democratic Rally [Hasan ABDUL-AZIM, spokesman] (includes five parties - Arab Democratic Socialist Union Party [Hasan ABDUL-AZIM], Arab Socialist Movement, Democratic Ba'th Party [Ibrahim MAKHOS], Democratic People's Party [Riad al TURK], Revolutionary Workers' Party [Abdul Hafez al HAFEZ])"
+      },
+      "Kurdish parties (considered illegal)": {
+        "text": "Azadi Party [Kheirudin MURAD]; Future Party [Masha'l TAMMO]; Kurdish Democratic Alliance (includes four parties); Kurdish Democratic Front (includes three parties); Yekiti Party [Fu'ad ALEYKO]"
+      },
+      "other parties": {
+        "text": "Syrian Democratic Party [Mustafa QALAAJI]"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Arab Human Rights Organization in Syria or AHRO; Damascus Declaration Group (a broad alliance of secular, religious, and Kurdish opposition groups); National Salvation Front (alliance between former Vice President Abd al-Halim KHADDAM and other small opposition groups in exile; formerly included the Syrian Muslim Brotherhood); Syrian Center for Media and Freedom of Expression [Mazin DARWISH]; Syrian Human Rights Organization [Muhanad al-HASANI]; Syrian Human Rights Society or HRAS [Fayez FAWAZ]; Syrian Muslim Brotherhood or SMB [Muhammad Riyad al-SHAQFAH] (operates in exile in London)"
+    },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Imad MOUSTAPHA"
+      },
+      "chancery": {
+        "text": "2215 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 232-6313"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-4585"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Charles (Chuck) F. HUNTER"
+      },
+      "embassy": {
+        "text": "Abou Roumaneh, Al-Mansour Street, No. 2, Damascus"
+      },
+      "mailing address": {
+        "text": "P. O. Box 29, Damascus"
+      },
+      "telephone": {
+        "text": "[963] (11) 3391-4444"
+      },
+      "FAX": {
+        "text": "[963] (11) 3391-3999"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980",
+      "note": "similar to the flag of Yemen, which has a plain white band, Iraq, which has an Arabic inscription centered in the white band, and that of Egypt, which has a gold Eagle of Saladin centered in the white band"
+    },
+    "note": "adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem",
+    "National anthem": {
+      "name": {
+        "text": "\"Humat ad-Diyar\" (Guardians of the Homeland)"
+      },
+      "lyrics/music": {
+        "text": "Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL"
+      },
+      "note": "adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Syrian economic growth slowed to 1.8% in 2009 as the global economic crisis affected oil prices and the economies of Syria's key export partners and sources of investment. Damascus has implemented modest economic reforms in the past few years, including cutting lending interest rates, opening private banks, consolidating all of the multiple exchange rates, raising prices on some subsidized items, most notably gasoline and cement, and establishing the Damascus Stock Exchange - which began operations in 2009. In addition, President ASAD signed legislative decrees to encourage corporate ownership reform, and to allow the Central Bank to issue Treasury bills and bonds for government debt. Nevertheless, the economy remains highly controlled by the government. Long-run economic constraints include declining oil production, high unemployment, rising budget deficits, and increasing pressure on water supplies caused by heavy use in agriculture, rapid population growth, industrial expansion, and water pollution."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$97.48 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$59.63 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.3% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,600 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "17.6%"
+      },
+      "industry": {
+        "text": "26.8%"
+      },
+      "services": {
+        "text": "55.6% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "5.527 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "17%"
+      },
+      "industry": {
+        "text": "16%"
+      },
+      "services": {
+        "text": "67% (2008 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.5% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "11.9% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "16.6% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "28.1% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.6% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.19% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$19.53 billion (31 December 2009 est)"
+    },
+    "Stock of broad money": {
+      "text": "$147.5 billion (31 December 2008)"
+    },
+    "Stock of domestic credit": {
+      "text": "$23.58 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, cotton, lentils, chickpeas, olives, sugar beets; beef, mutton, eggs, poultry, milk"
+    },
+    "Industries": {
+      "text": "petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, car assembly"
+    },
+    "Industrial production growth rate": {
+      "text": "6% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "36.5 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "27.35 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "1.4 billion kWh (2007)"
+    },
+    "Oil - production": {
+      "text": "400,400 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "252,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "155,000 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "58,710 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "2.5 billion bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "6.04 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "6.18 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "140 million cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "240.7 billion cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "$394 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$11.76 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil, minerals, petroleum products, fruits and vegetables, cotton fiber, textiles, clothing, meat and live animals, wheat"
+    },
+    "Exports - partners": {
+      "text": "Iraq 30.22%, Lebanon 12.21%, Germany 8.89%, Egypt 6.8%, Saudi Arabia 5.04%, Italy 4.55% (2009)"
+    },
+    "Imports": {
+      "text": "$12.62 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, electric power machinery, food and livestock, metal and metal products, chemicals and chemical products, plastics, yarn, paper"
+    },
+    "Imports - partners": {
+      "text": "Saudi Arabia 10.1%, China 9.95%, Turkey 6.97%, Egypt 6.44%, UAE 4.97%, Italy 4.93%, Russia 4.92%, Germany 4.38%, Lebanon 4.12% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$17.44 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$7.359 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "Syrian pounds (SYP) per US dollar - 46.456 (2010), 46.7082 (2009), 46.5281 (2008), 50.0085 (2007), 51.689 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.871 million (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "9.697 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fair system currently undergoing significant improvement and digital upgrades, including fiber-optic technology and expansion of the network to rural areas"
+      },
+      "domestic": {
+        "text": "the number of fixed-line connections has increased markedly since 2000; mobile-cellular service growing with telephone subscribership reaching nearly 50 per 100 persons in 2009"
+      },
+      "international": {
+        "text": "country code - 963; submarine cable connection to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run television and radio broadcast networks; state operates 2 TV networks and a satellite channel; roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2007)"
+    },
+    "Internet country code": {
+      "text": ".sy"
+    },
+    "Internet hosts": {
+      "text": "8,114 (2010)"
+    },
+    "Internet users": {
+      "text": "4.469 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "104 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "29"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "15"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "5 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "75"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "15"
+      },
+      "under 914 m": {
+        "text": "59 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "7 (2010)"
+    },
+    "Pipelines": {
+      "text": "gas 3,101 km; oil 1,997 km (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,052 km"
+      },
+      "standard gauge": {
+        "text": "1,801 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "251 km 1.050-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "97,401 km"
+      },
+      "paved": {
+        "text": "19,490 km (includes 1,103 km of expressways)"
+      },
+      "unpaved": {
+        "text": "77,911 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "900 km (navigable not economically significant) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "41"
+      },
+      "by type": {
+        "text": "bulk carrier 7, cargo 30, carrier 3, container 1"
+      },
+      "foreign-owned": {
+        "text": "5 (Jordan 2, Lebanon 2, Romania 1)"
+      },
+      "registered in other countries": {
+        "text": "199 (Barbados 1, Belize 2, Bolivia 4, Cambodia 22, Comoros 6, Cyprus 1, Dominica 2, Georgia 35, Lebanon 3, Liberia 1, Libya 2, Malta 5, Moldova 3, North Korea 6, Panama 42, Saint Kitts and Nevis 5, Saint Vincent and the Grenadines 13, Sierra Leone 20, Togo 5, unknown 8) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Baniyas, Latakia, Tartus"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Syrian Armed Forces": {
+        "text": "Syrian Arab Army, Syrian Arab Navy, Syrian Arab Air and Air Defense Forces (includes Air Defense Command) (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory military service; conscript service obligation - 21 months (18 months in the Syrian Arab Navy); women are not conscripted but may volunteer to serve (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,766,853"
+      },
+      "females age 16-49": {
+        "text": "5,540,828 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,948,802"
+      },
+      "females age 16-49": {
+        "text": "4,786,596 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "253,578"
+      },
+      "female": {
+        "text": "241,777 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "5.9% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Golan Heights is Israeli-occupied with the almost 1,000-strong UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1964; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation settles border dispute with Jordan; approximately two million Iraqis have fled the conflict in Iraq with the majority taking refuge in Syria and Jordan"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "1-1.4 million (Iraq); 522,100 (Palestinian Refugees (UNRWA))"
+      },
+      "IDPs": {
+        "text": "305,000 (most displaced from Golan Heights during 1967 Arab-Israeli War) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Syria is a destination and transit country for women and children trafficked for commercial sexual exploitation and forced labor; a significant number of women and children in the large and expanding Iraqi refugee community in Syria are reportedly forced into commercial sexual exploitation by Iraqi gangs or, in some cases, their families; women from Indonesia, Sri Lanka, the Philippines, Ethiopia, and Sierra Leone are recruited for work in Syria as domestic servants, but some face conditions of involuntary servitude, including long hours, non-payment of wages, withholding of passports, restrictions on movement, threats, and physical or sexual abuse"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Syria again failed to report any law enforcement efforts to punish trafficking offenses in 2007; in addition, the government did not offer protection services to victims of trafficking and may have arrested, prosecuted, or deported some victims for prostitution or immigration violations; Syria has not ratified the 2000 UN TIP Protocol (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "a transit point for opiates, hashish, and cocaine bound for regional and Western markets; weak anti-money-laundering controls and bank privatization may leave it vulnerable to money laundering"
+    }
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Modern Turkey was founded in 1923 from the Anatolian remnants of the defeated Ottoman Empire by national hero Mustafa KEMAL, who was later honored with the title Ataturk or \"Father of the Turks.\" Under his authoritarian leadership, the country adopted wide-ranging social, legal, and political reforms. After a period of one-party rule, an experiment with multi-party politics led to the 1950 election victory of the opposition Democratic Party and the peaceful transfer of power. Since then, Turkish political parties have multiplied, but democracy has been fractured by periods of instability and intermittent military coups (1960, 1971, 1980), which in each case eventually resulted in a return of political power to civilians. In 1997, the military again helped engineer the ouster - popularly dubbed a \"post-modern coup\" - of the then Islamic-oriented government. Turkey intervened militarily on Cyprus in 1974 to prevent a Greek takeover of the island and has since acted as patron state to the \"Turkish Republic of Northern Cyprus,\" which only Turkey recognizes. A separatist insurgency begun in 1984 by the Kurdistan Workers' Party (PKK) - now known as the People's Congress of Kurdistan or Kongra-Gel (KGK) - has dominated the Turkish military's attention and claimed more than 30,000 lives. After the capture of the group's leader in 1999, the insurgents largely withdrew from Turkey mainly to northern Iraq. In 2004, KGK announced an end to its ceasefire and attacks attributed to the KGK increased. Turkey joined the UN in 1945 and in 1952 it became a member of NATO; it holds a non-permanent seat on the UN Security Council from 2009-10. In 1964, Turkey became an associate member of the European Community. Over the past decade, it has undertaken many reforms to strengthen its democracy and economy; it began accession membership talks with the European Union in 2005."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bosporus is geographically part of Europe), bordering the Black Sea, between Bulgaria and Georgia, and bordering the Aegean Sea and the Mediterranean Sea, between Greece and Syria"
+    },
+    "Geographic coordinates": {
+      "text": "39 00 N, 35 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "783,562 sq km"
+      },
+      "land": {
+        "text": "769,632 sq km"
+      },
+      "water": {
+        "text": "13,930 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,648 km"
+      },
+      "border countries": {
+        "text": "Armenia 268 km, Azerbaijan 9 km, Bulgaria 240 km, Georgia 252 km, Greece 206 km, Iran 499 km, Iraq 352 km, Syria 822 km"
+      }
+    },
+    "Coastline": {
+      "text": "7,200 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "6 nm in the Aegean Sea; 12 nm in Black Sea and in Mediterranean Sea"
+      },
+      "exclusive economic zone": {
+        "text": "in Black Sea only"
+      }
+    },
+    "Climate": {
+      "text": "temperate; hot, dry summers with mild, wet winters; harsher in interior"
+    },
+    "Terrain": {
+      "text": "high central plateau (Anatolia); narrow coastal plain; several mountain ranges"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Mediterranean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Mount Ararat 5,166 m"
+      }
+    },
+    "Natural resources": {
+      "text": "coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celestite (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "29.81%"
+      },
+      "permanent crops": {
+        "text": "3.39%"
+      },
+      "other": {
+        "text": "66.8% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "52,150 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "234 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "39.78  cu km/yr (15%/11%/74%)"
+      },
+      "per capita": {
+        "text": "544  cu m/yr (2001)"
+      }
+    },
+    "Natural hazards": {
+      "text": "severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Van"
+    },
+    "Environment - current issues": {
+      "text": "water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; concern for oil spills from increasing Bosporus ship traffic"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link Black and Aegean Seas; Mount Ararat, the legendary landing place of Noah's ark, is in the far eastern portion of the country"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "76,805,524 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "27.2% (male 10,701,631/female 10,223,260)"
+      },
+      "15-64 years": {
+        "text": "66.7% (male 25,896,326/female 25,327,403)"
+      },
+      "65 years and over": {
+        "text": "6.1% (male 2,130,360/female 2,526,544) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "27.7 years"
+      },
+      "male": {
+        "text": "27.4 years"
+      },
+      "female": {
+        "text": "28.1 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.312% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "18.66 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.1 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.56 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "69% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.84 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "25.78 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "26.84 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "24.67 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "71.96 years"
+      },
+      "male": {
+        "text": "70.12 years"
+      },
+      "female": {
+        "text": "73.89 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.21 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1%; note - no country specific models provided (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Turk(s)"
+      },
+      "adjective": {
+        "text": "Turkish"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Turkish 70-75%, Kurdish 18%, other minorities 7-12% (2008 est.)"
+    },
+    "Religions": {
+      "text": "Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)"
+    },
+    "Languages": {
+      "text": "Turkish (official), Kurdish, other minority languages"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "87.4%"
+      },
+      "male": {
+        "text": "95.3%"
+      },
+      "female": {
+        "text": "79.6% (2004 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "11 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Turkey "
+      },
+      "conventional short form": {
+        "text": "Turkey"
+      },
+      "local long form": {
+        "text": "Turkiye Cumhuriyeti"
+      },
+      "local short form": {
+        "text": "Turkiye"
+      }
+    },
+    "Government type": {
+      "text": "republican parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ankara"
+      },
+      "geographic coordinates": {
+        "text": "39 56 N, 32 52 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin (Icel), Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak"
+    },
+    "Independence": {
+      "text": "29 October 1923 (successor state to the Ottoman Empire)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 29 October (1923)"
+    },
+    "Constitution": {
+      "text": "7 November 1982; amended 17 May 1987, 1995, 2001, and 2007; note - amendment passed by referendum concerning presidential elections on 21 October 2007"
+    },
+    "Legal system": {
+      "text": "civil law system derived from various European continental legal systems; note - member of the European Court of Human Rights (ECHR), although Turkey claims limited derogations on the ratified European Convention on Human Rights; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Abdullah GUL (since 28 August 2007)"
+      },
+      "head of government": {
+        "text": "Prime Minister Recep Tayyip ERDOGAN (since 14 March 2003); Deputy Prime Minister Cemil CICEK (since 29 August 2007); Deputy Prime Minister Ali BABACAN (since 1 May 2009); Deputy Prime Minister Bulent ARINC (since 1 May 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the nomination of the prime minister"
+      },
+      "elections": {
+        "text": "president elected directly for a five-year term (eligible for a second term); prime minister appointed by the president from among members of parliament"
+      },
+      "election results": {
+        "text": "on 28 August 2007 the National Assembly elected Abdullah GUL president on the third ballot; National Assembly vote - 339"
+      },
+      "note": "in October 2007 Turkish voters approved a referendum package of constitutional amendments including a provision for direct presidential elections"
+    },
+    "note": "the parties listed above are some of the more significant of the 49 parties that Turkey had as of 31 January 2009",
+    "Legislative branch": {
+      "text": "unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (550 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 22 July 2007 (next to be held in November 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - AKP 46.7%, CHP 20.8%, MHP 14.3%, independents 5.2%, and other 13.0%; seats by party - AKP 341, CHP 112, MHP 71, independents 26; note - seats by party as of 31 January 2009 - AKP 340, CHP 97, MHP 70, DTP 21, DSP 13, ODP 1, BBP 1, independents 5, vacant 2 (DTP entered parliament as independents; DSP entered parliament on CHP's party list); only parties surpassing the 10% threshold are entitled to parliamentary seats"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; High Court of Appeals (Yargitay); Council of State (Danistay); Court of Accounts (Sayistay); Military High Court of Appeals; Military High Administrative Court"
+    },
+    "Political parties and leaders": {
+      "text": "Anavatan Partisi (Motherland Party) or Anavatan [Erkan MUMCU]; note - True Path Party or DYP has merged with the Motherland Party; Democratic Party or DP [Husamettin CINDORUK]; Democratic Left Party or DSP [Masum TURKER]; Democratic Society Party or DTP [Ahmet TURK]; Felicity Party or SP [Numan KURTULMUS] (sometimes translated as Contentment Party); Freedom and Solidarity Party or ODP [Hayri KOZANOGLU]; Grand Unity Party or BBP; note - Mushin YAZICIOGLU, former leader of the Grand Unity Party was killed in an March 2009 helicopter crash; Justice and Development Party or AKP [Recep Tayyip ERDOGAN]; Nationalist Movement Party or MHP [Devlet BAHCELI] (sometimes translated as Nationalist Action Party); People's Rise Party (Halkin Yukselisi Partisi) or HYP [Yasar Nuri OZTURK]; Republican People's Party or CHP [Deniz BAYKAL]; Social Democratic People's Party or SHP [Ugur CILASUN (acting)]; Young Party or GP [Cem Cengiz UZAN]",
+      "note": "the parties listed above are some of the more significant of the 49 parties that Turkey had as of 31 January 2009"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Confederation of Public Sector Unions or KESK [Sami EVREN]; Confederation of Revolutionary Workers Unions or DISK [Suleyman CELEBI]; Independent Industrialists' and Businessmen's Association or MUSIAD [Omer Cihad VARDAN]; Moral Rights Workers Union or Hak-Is [Salim USLU]; Turkish Confederation of Employers' Unions or TISK [Tugurl KUDATGOBILIK]; Turkish Confederation of Labor or Turk-Is [Mustafa KUMLU]; Turkish Confederation of Tradesmen and Craftsmen or TESK [Dervis GUNDAY]; Turkish Industrialists' and Businessmen's Association or TUSIAD [Arzuhan Dogan YALCINDAG]; Turkish Union of Chambers of Commerce and Commodity Exchanges or TOBB [M. Rifat HISARCIKLIOGLU]"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), Australia Group, BIS, BSEC, CE, CERN (observer), EAPC, EBRD, ECO, EU (applicant), FAO, G-20, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, PCA, SECI, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIS, UNOCI, UNOMIG, UNRWA, UNWTO, UPU, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Nabi SENSOY"
+      },
+      "chancery": {
+        "text": "2525 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 612-6700"
+      },
+      "FAX": {
+        "text": "[1] (202) 612-6744"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Houston, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador James F. JEFFREY"
+      },
+      "embassy": {
+        "text": "110 Ataturk Boulevard, Kavaklidere, 06100 Ankara"
+      },
+      "mailing address": {
+        "text": "PSC 93, Box 5000, APO AE 09823"
+      },
+      "telephone": {
+        "text": "[90] (312) 455-5555"
+      },
+      "FAX": {
+        "text": "[90] (312) 467-0019"
+      },
+      "consulate(s) general": {
+        "text": "Istanbul"
+      },
+      "consulate(s)": {
+        "text": "Adana; note - there is a Consular Agent in Izmir"
+      }
+    },
+    "Flag description": {
+      "text": "red with a vertical white crescent (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Turkey's dynamic economy is a complex mix of modern industry and commerce along with a traditional agriculture sector that still accounts for about 30% of employment. It has a strong and rapidly growing private sector, yet the state remains a major participant in basic industry, banking, transport, and communication. The largest industrial sector is textiles and clothing, which accounts for one-third of industrial employment; it faces stiff competition in international markets with the end of the global quota system. However, other sectors, notably the automotive and electronics industries, are rising in importance within Turkey's export mix. Real GDP growth has exceeded 6% in many years, but this strong expansion has been interrupted by sharp declines in output in 1994, 1999, and 2001. Due to global contractions, annual growth is estimated to have fallen to 1.1% in 2008. Inflation fell to 7.7% in 2005 - a 30-year low - but climbed to over 10% in 2008. Despite the strong economic gains from 2002-07, which were largely due to renewed investor interest in emerging markets, IMF backing, and tighter fiscal policy, the economy is still burdened by a high current account deficit and high external debt. Further economic and judicial reforms and prospective EU membership are expected to boost foreign direct investment. The stock value of FDI stood at nearly $130 billion at year-end 2008. Privatization sales are currently approaching $21 billion. Oil began to flow through the Baku-Tblisi-Ceyhan pipeline in May 2006, marking a major milestone that will bring up to 1 million barrels per day from the Caspian to market. In 2007 and 2008, Turkish financial markets weathered significant domestic political turmoil, including turbulence sparked by controversy over the selection of former Foreign Minister Abdullah GUL as Turkey's 11th president and the possible closure of the Justice and Development Party (AKP). Economic fundamentals are sound, marked by moderate economic growth and foreign direct investment. Nevertheless, the Turkish economy may be faced with more negative economic indicators in 2009 as a result of the global economic slowdown. In addition, Turkey's high current account deficit leaves the economy vulnerable to destabilizing shifts in investor confidence."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$855.6 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "on 1 January 2005, the old Turkish lira (TRL) was converted to new Turkish lira (TRY) at a rate of 1,000,000 old to 1 new Turkish lira; on 1 January 2009, the Turkish government dropped the word \"new\" and the currency is now called simply the Turkish lira",
+    "GDP (official exchange rate)": {
+      "text": "$730 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$11,600 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "8.8%"
+      },
+      "industry": {
+        "text": "27.5%"
+      },
+      "services": {
+        "text": "63.8% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "24.06 million",
+      "note": "about 1.2 million Turks work abroad (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "29.5%"
+      },
+      "industry": {
+        "text": "24.7%"
+      },
+      "services": {
+        "text": "45.8% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.9% (2007 est.)",
+      "note": "underemployment amounted to 4% in 2008"
+    },
+    "Population below poverty line": {
+      "text": "20% (2002)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.9%"
+      },
+      "highest 10%": {
+        "text": "33.2% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "43.6 (2003)"
+    },
+    "Investment (gross fixed)": {
+      "text": "20.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$160.5 billion"
+      },
+      "expenditures": {
+        "text": "$173.6 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "74.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "25% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$63.88 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$252.1 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$355 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$162.4 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "tobacco, cotton, grain, olives, sugar beets, hazelnuts, pulse, citrus; livestock"
+    },
+    "Industries": {
+      "text": "textiles, food processing, autos, electronics, mining (coal, chromite, copper, boron), steel, petroleum, construction, lumber, paper"
+    },
+    "Industrial production growth rate": {
+      "text": "-0.6% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "181.9 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "153.7 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.063 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "790 million kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "46,120 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "675,500 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "141,700 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "783,800 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "300 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1.013 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "37.18 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "435 million cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "36.72 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "8.495 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$37.7 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$115.4 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "apparel, foodstuffs, textiles, metal manufactures, transport equipment"
+    },
+    "Exports - partners": {
+      "text": "Germany 9.8%, UK 6.2%, UAE 6%, Italy 5.9%, France 5%, Russia 4.9% (2008)"
+    },
+    "Imports": {
+      "text": "$162 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery, chemicals, semi-finished goods, fuels, transport equipment"
+    },
+    "Imports - partners": {
+      "text": "Russia 15.5%, Germany 9.3%, China 7.8%, US 5.9%, Italy 5.5%, France 4.5%, Iran 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$76.51 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$249.4 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$110.5 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$10.97 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Turkish liras (TRY) per US dollar - 1.3179 (2008 est.), 1.319 (2007), 1.4286 (2006), 1.3436 (2005), 1.4255 (2004)",
+      "note": "on 1 January 2005, the old Turkish lira (TRL) was converted to new Turkish lira (TRY) at a rate of 1,000,000 old to 1 new Turkish lira; on 1 January 2009, the Turkish government dropped the word \"new\" and the currency is now called simply the Turkish lira"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "17.502 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "65.824 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "comprehensive telecommunications network undergoing rapid modernization and expansion especially in mobile-cellular services"
+      },
+      "domestic": {
+        "text": "additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; the number of subscribers to mobile-cellular telephone service is growing rapidly"
+      },
+      "international": {
+        "text": "country code - 90; international service is provided by the SEA-ME-WE-3 submarine cable and by submarine fiber-optic cables in the Mediterranean and Black Seas that link Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2002)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 16, FM 107, shortwave 6 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "635 (plus 2,934 repeaters) (1995)"
+    },
+    "Internet country code": {
+      "text": ".tr"
+    },
+    "Internet hosts": {
+      "text": "2.961 million (2009)"
+    },
+    "Internet users": {
+      "text": "24.483 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "102 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "90"
+      },
+      "over 3,047 m": {
+        "text": "16"
+      },
+      "2,438 to 3,047 m": {
+        "text": "33"
+      },
+      "1,524 to 2,437 m": {
+        "text": "20"
+      },
+      "914 to 1,523 m": {
+        "text": "17"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "12"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "7"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "21 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 7,555 km; oil 3,636 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "8,697 km"
+      },
+      "standard gauge": {
+        "text": "8,697 km 1.435-m gauge (1,920 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "426,951 km (includes 1,987 km of expressways) (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "1,200 km (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "612"
+      },
+      "by type": {
+        "text": "bulk carrier 101, cargo 281, chemical tanker 70, combination ore/oil 1, container 35, liquefied gas 7, passenger 4, passenger/cargo 51, petroleum tanker 31, refrigerated cargo 1, roll on/roll off 28, specialized tanker 2"
+      },
+      "foreign-owned": {
+        "text": "8 (Cyprus 2, Germany 1, Greece 1, Italy 3, UAE 1)"
+      },
+      "registered in other countries": {
+        "text": "595 (Albania 1, Antigua and Barbuda 6, Bahamas 8, Belize 15, Cambodia 26, Comoros 8, Dominica 5, Georgia 14, Greece 1, Isle of Man 2, Italy 1, Kiribati 1, Liberia 7, Malta 176, Marshall Islands 50, Moldova 3, Netherlands 1, Netherlands Antilles 10, Panama 94, Russia 80, Saint Kitts and Nevis 35, Saint Vincent and the Grenadines 20, Sierra Leone 15, Slovakia 10, Tuvalu 2, UK 2, unknown 2) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Aliaga, Diliskelesi, Izmir, Kocaeli (Izmit), Mercin Limani, Nemrut Limani"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Turkish Armed Forces (TSK)": {
+        "text": "Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Force (Turk Hava Kuvvetleri) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "20 years of age (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "20,213,205"
+      },
+      "females age 16-49": {
+        "text": "19,432,688 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "17,223,506"
+      },
+      "females age 16-49": {
+        "text": "16,995,299 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "692,592"
+      },
+      "female": {
+        "text": "663,689 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "5.3% of GDP (2005 est.)"
+    },
+    "Military - note": {
+      "text": "a \"National Security Policy Document\" adopted in October 2005 increases the Turkish Armed Forces (TSK) role in internal security, augmenting the General Directorate of Security and Gendarmerie General Command (Jandarma); the TSK leadership continues to play a key role in politics and considers itself guardian of Turkey's secular state; in April 2007, it warned the ruling party about any pro-Islamic appointments; despite on-going negotiations on EU accession since October 2005, progress has been limited in establishing required civilian supremacy over the military; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (the Kurdish problem), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the \"Force 2014\" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities, and took charge of a NATO International Security Assistance Force (ISAF) command in Afghanistan in April 2007; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an \"Aerospace and Missile Defense Concept\" in 2002 and has initiated project work on an integrated missile defense system; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system (2008)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Syria and Iraq protest Turkish hydrological projects to control upper Euphrates waters; Turkey has expressed concern over the status of Kurds in Iraq; border with Armenia remains closed over Nagorno-Karabakh"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "1-1.2 million (fighting 1984-99 between Kurdish PKK and Turkish military; most IDPs in southeastern provinces) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "key transit route for Southwest Asian heroin to Western Europe and, to a lesser extent, the US - via air, land, and sea routes; major Turkish and other international trafficking organizations operate out of Istanbul; laboratories to convert imported morphine base into heroin exist in remote regions of Turkey and near Istanbul; government maintains strict controls over areas of legal opium poppy cultivation and over output of poppy straw concentrate; lax enforcement of money-laundering controls"
+    }
+  }
+}

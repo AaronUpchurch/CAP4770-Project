@@ -1,0 +1,735 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The first Sinhalese arrived in Sri Lanka late in the 6th century B.C. probably from northern India. Buddhism was introduced in about the mid-third century B.C., and a great civilization developed at the cities of Anuradhapura (kingdom from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The coastal areas of the island were controlled by the Portuguese in the 16th century and by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Tensions between the Sinhalese majority and Tamil separatists erupted into war in 1983. Tens of thousands have died in the ethnic conflict that continues to fester. After two decades of fighting, the government and Liberation Tigers of Tamil Eelam (LTTE) formalized a cease-fire in February 2002 with Norway brokering peace negotiations. Violence between the LTTE and government forces intensified in 2006 and the government regained control of the Eastern Province in 2007. In May 2009, the government announced that its military had finally defeated the remnants of the LTTE and that its leader, Velupillai PRABHAKARAN, had been killed."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, island in the Indian Ocean, south of India"
+    },
+    "Geographic coordinates": {
+      "text": "7 00 N, 81 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "65,610 sq km"
+      },
+      "land": {
+        "text": "64,630 sq km"
+      },
+      "water": {
+        "text": "980 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than West Virginia"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,340 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)"
+    },
+    "Terrain": {
+      "text": "mostly low, flat to rolling plain; mountains in south-central interior"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Pidurutalagala 2,524 m"
+      }
+    },
+    "Natural resources": {
+      "text": "limestone, graphite, mineral sands, gems, phosphates, clay, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "13.96%"
+      },
+      "permanent crops": {
+        "text": "15.24%"
+      },
+      "other": {
+        "text": "70.8% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "7,430 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "50 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "12.61  cu km/yr (2%/2%/95%)"
+      },
+      "per capita": {
+        "text": "608  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "occasional cyclones and tornadoes"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; wildlife populations threatened by poaching and urbanization; coastal degradation from mining activities and increased pollution; freshwater resources being polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location near major Indian Ocean sea lanes"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "21,324,791",
+      "note": "since the outbreak of hostilities between the government and armed Tamil separatists in the mid-1980s, several hundred thousand Tamil civilians have fled the island and more than 200,000 Tamils have sought refuge in the West (July 2009 est.)"
+    },
+    "note": "English is commonly used in government and is spoken competently by about 10% of the population",
+    "Age structure": {
+      "0-14 years": {
+        "text": "23.9% (male 2,594,815/female 2,493,002)"
+      },
+      "15-64 years": {
+        "text": "68% (male 7,089,307/female 7,418,123)"
+      },
+      "65 years and over": {
+        "text": "8.1% (male 803,172/female 926,372) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "30.9 years"
+      },
+      "male": {
+        "text": "29.9 years"
+      },
+      "female": {
+        "text": "31.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.904% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "16.26 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.13 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.09 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "15% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.87 male(s)/female"
+      },
+      "total population": {
+        "text": "0.97 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "18.57 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "20.33 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "16.73 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.14 years"
+      },
+      "male": {
+        "text": "73.08 years"
+      },
+      "female": {
+        "text": "77.28 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.99 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "3,800 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2003 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea and hepatitis A"
+      },
+      "vectorborne disease": {
+        "text": "dengue fever and chikungunya"
+      },
+      "water contact disease": {
+        "text": "leptospirosis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Sri Lankan(s)"
+      },
+      "adjective": {
+        "text": "Sri Lankan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Sinhalese 73.8%, Sri Lankan Moors 7.2%, Indian Tamil 4.6%, Sri Lankan Tamil 3.9%, other 0.5%, unspecified 10% (2001 census provisional data)"
+    },
+    "Religions": {
+      "text": "Buddhist 69.1%, Muslim 7.6%, Hindu 7.1%, Christian 6.2%, unspecified 10% (2001 census provisional data)"
+    },
+    "Languages": {
+      "text": "Sinhala (official and national language) 74%, Tamil (national language) 18%, other 8%",
+      "note": "English is commonly used in government and is spoken competently by about 10% of the population"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "90.7%"
+      },
+      "male": {
+        "text": "92.3%"
+      },
+      "female": {
+        "text": "89.1% (2001 census)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Democratic Socialist Republic of Sri Lanka "
+      },
+      "conventional short form": {
+        "text": "Sri Lanka"
+      },
+      "local long form": {
+        "text": "Shri Lamka Prajatantrika Samajaya di Janarajaya/Ilankai Jananayaka Choshalichak Kutiyarachu"
+      },
+      "local short form": {
+        "text": "Shri Lamka/Ilankai"
+      },
+      "former": {
+        "text": "Serendib, Ceylon"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Colombo"
+      },
+      "geographic coordinates": {
+        "text": "6 56 N, 79 51 E"
+      },
+      "time difference": {
+        "text": "UTC+5.5 (10.5 hours ahead of Washington, DC during Standard Time)"
+      },
+      "note": "Sri Jayewardenepura Kotte (legislative capital)"
+    },
+    "note": "in October 2006, a Sri Lankan Supreme Court ruling voided a presidential directive merging the North and Eastern Provinces; many have defended the merger as a prerequisite for a negotiated settlement to the ethnic conflict; a parliamentary decision on the issue is pending \r\n\r\n",
+    "Administrative divisions": {
+      "text": "8 provinces; Central, North Central, North Eastern, North Western, Sabaragamuwa, Southern, Uva, Western",
+      "note": "in October 2006, a Sri Lankan Supreme Court ruling voided a presidential directive merging the North and Eastern Provinces; many have defended the merger as a prerequisite for a negotiated settlement to the ethnic conflict; a parliamentary decision on the issue is pending \r\n\r\n"
+    },
+    "Independence": {
+      "text": "4 February 1948 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 4 February (1948)"
+    },
+    "Constitution": {
+      "text": "adopted 16 August 1978, certified 31 August 1978; amended 20 December 2000"
+    },
+    "Legal system": {
+      "text": "a highly complex mixture of English common law, Roman-Dutch, Kandyan, and Jaffna Tamil law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mahinda Percy RAJAPAKSA (since 19 November 2005); note - the president is both the chief of state and head of government; Ratnasiri WICKREMANAYAKE (since 21 November 2005) holds the largely ceremonial title of prime minister"
+      },
+      "head of government": {
+        "text": "President Mahinda Percy RAJAPAKSA (since 19 November 2005)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president in consultation with the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a six-year term (eligible for a second term); election last held on 17 November 2005 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "Mahinda RAJAPAKSA elected president; percent of vote - Mahinda RAJAPAKSA 50.3%, Ranil WICKREMESINGHE 48.4%, other 1.3%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament (225 seats; members elected by popular vote on the basis of an open-list, proportional representation system by electoral district to serve six-year terms)",
+      "elections": {
+        "text": "last held on 2 April 2004 (next to be held by 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party or electoral alliance - SLFP and JVP (no longer in United People's Freedom Alliance) 45.6%, UNP 37.8%, TNA 6.8%, JHU 6%, SLMC 2%, UPF 0.5%, EPDP 0.3%, other 1%; seats by party - UNP 68, SLFP 57, JVP 39, TNA 22, CWC 8, JHU 7, SLMC 6, SLMC dissidents 4, Communist Party 2, JHU dissidents 2, LSSP 2, MEP 2, NUA 2, UPF 2, EPDP 1, UNP dissident 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Court of Appeals; judges for both courts are appointed by the president"
+    },
+    "Political parties and leaders": {
+      "text": "All Ceylon Tamil Congress or ACTC [G.PONNAMBALAM]; Ceylon Workers Congress or CWC [Arumugam THONDAMAN]; Communist Party or CP [D. GUNASEKERA]; Eelam People's Democratic Party or EPDP [Douglas DEVANANDA]; Eelam People's Revolutionary Liberation Front or EPRLF [Suresh PREMACHANDRAN]; Janatha Vimukthi Peramuna or JVP [Somawansa AMARASINGHE]; Lanka Sama Samaja Party or LSSP [Tissa VITHARANA]; Mahajana Eksath Peramuna (People's United Front) or MEP [D. GUNAWARDENE]; National Heritage Party or JHU [Ellawala METHANANDA]; National Unity Alliance or NUA [Ferial ASHRAFF]; People's Liberation Organization of Tamil Eelam or PLOTE [D. SIDHARTHAN]; Sri Lanka Freedom Party or SLFP [Mahinda RAJAPAKSA]; Sri Lanka Muslim Congress or SLMC [Rauff HAKEEM]; Tamil Eelam Liberation Organization or TELO [Selvam ADAIKALANATHAN]; Tamil National Alliance or TNA [R. SAMPANTHAN]; Tamil United Liberation Front or TULF [V. ANANDASANGAREE]; United National Party or UNP [Ranil WICKREMASINGHE]; Up-country People's Front or UPF [P. CHANDRASEKARAN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Liberation Tigers of Tamil Eelam or LTTE [Velupillai PRABHAKARAN](insurgent group fighting for a separate state); Tamil Makkal Viduthalai Pulikal (TMVP) or Karuna Faction [Vinayagamurthi MURALITHARAN] (paramilitary breakaway from LTTE and fighting LTTE)",
+      "other": {
+        "text": "Buddhist clergy; labor unions; radical chauvinist Sinhalese groups such as the National Movement Against Terrorism; Sinhalese Buddhist lay groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, BIMSTEC, C, CP, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MINUSTAH, MONUC, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNMIS, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Jaliya Chitran WICKRAMASURIYA\r\n"
+      },
+      "chancery": {
+        "text": "2148 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 483-4025 through 4028"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-7181"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Robert O. BLAKE, Jr."
+      },
+      "embassy": {
+        "text": "210 Galle Road, Colombo 3"
+      },
+      "mailing address": {
+        "text": "P. O. Box 106, Colombo"
+      },
+      "telephone": {
+        "text": "[94] (11) 249-8500"
+      },
+      "FAX": {
+        "text": "[94] (11) 243-7345"
+      }
+    },
+    "Flag description": {
+      "text": "yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the other panel is a large dark red rectangle with a yellow lion holding a sword, and there is a yellow bo leaf in each corner; the yellow field appears as a border around the entire flag and extends between the two panels"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "In 1977, Colombo abandoned statist economic policies and its import substitution trade policy for more market-oriented policies, export-oriented trade, and encouragement of foreign investment. Recent changes in government, however, have brought some policy reversals. Currently, the ruling Sri Lanka Freedom Party has a more statist economic approach, which seeks to reduce poverty by steering investment to disadvantaged areas, developing small and medium enterprises, promoting agriculture, and expanding the already enormous civil service. The government has halted privatizations. Although suffering a brutal civil war that began in 1983, Sri Lanka saw GDP growth average 4.5% in the last 10 years with the exception of a recession in 2001. In late December 2004, a major tsunami took about 31,000 lives, left more than 6,300 missing and 443,000 displaced, and destroyed an estimated $1.5 billion worth of property. Government spending on development and fighting the LTTE drove GDP growth to about 7% per year in 2006-07 before the global recession slow growth in 2008, but high government spending and high oil and commodity prices also raised inflation to around 15% in 2008. Sri Lanka's most dynamic sectors now are food processing, textiles and apparel, food and beverages, port construction, telecommunications, and insurance and banking. In 2008, plantation crops made up only about 20% of exports (compared with more than 90% in 1970), while textiles and garments accounted for more than 40%. About 1.5 million Sri Lankans work abroad, 90% of them in the Middle East. They send home more than $2.5 billion a year. The 25-year civil conflict between LTTE and the government of Sri Lanka has been a serious impediment to economic activities. By mid February 2009, the LTTE remained in control of small and shrinking area in the North. The conflict continues to cast a shadow over the economy."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$81.35 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "excludes northern and eastern provinces (2008 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$39.6 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.7% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "13.4%"
+      },
+      "industry": {
+        "text": "29.4%"
+      },
+      "services": {
+        "text": "57.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "7.569 million",
+      "note": "excludes northern and eastern provinces (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "34.7%"
+      },
+      "industry": {
+        "text": "26.1%"
+      },
+      "services": {
+        "text": "39.2% (30 September 2008 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "22% (2002 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.1%"
+      },
+      "highest 10%": {
+        "text": "39.7% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.4 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "24.5% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$7.8 billion"
+      },
+      "expenditures": {
+        "text": "$11 billion (2009 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "104.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "15.8% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "15% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "18.89% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$2.465 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$10.46 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$14.82 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$7.769 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "rice, sugarcane, grains, pulses, oilseed, spices, tea, rubber, coconuts; milk, eggs, hides, beef; fish"
+    },
+    "Industries": {
+      "text": "processing of rubber, tea, coconuts, tobacco and other agricultural commodities; telecommunications, insurance, banking; clothing, textiles; cement, petroleum refining, information technology services"
+    },
+    "Industrial production growth rate": {
+      "text": "5.9% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "9.507 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "7.946 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "89,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "968.4 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "87,690 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.464 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$7.741 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "textiles and apparel, tea and spices; diamonds, emeralds, rubies; coconut products, rubber manufactures, fish"
+    },
+    "Exports - partners": {
+      "text": "US 21.6%, UK 11.9%, India 6.8%, Germany 5.1%, Belgium 4.8%, Italy 4.7% (2008)"
+    },
+    "Imports": {
+      "text": "$10.17 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "textile fabrics, mineral products, petroleum, foodstuffs, machinery and transportation equipment"
+    },
+    "Imports - partners": {
+      "text": "India 20.3%, China 12.2%, Iran 7.6%, Singapore 7.4%, South Korea 4.7% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.644 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$12.2 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$250.2 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Sri Lankan rupees (LKR) per US dollar - 108.33 (2008), 110.78 (2007), 103.99 (2006), 100.498 (2005), 101.194 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.446 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "11.082 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telephone services have improved significantly and are available in most parts of the country"
+      },
+      "domestic": {
+        "text": "national trunk network consists mostly of digital microwave radio relay; fiber-optic links now in use in Colombo area and fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing"
+      },
+      "international": {
+        "text": "country code - 94; the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cables provide connectivity to Asia, Australia, Middle East, Europe, US; satellite earth stations - 2 Intelsat (Indian Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 15, FM 52, shortwave 4 (2007)"
+    },
+    "Television broadcast stations": {
+      "text": "14 (2006)"
+    },
+    "Internet country code": {
+      "text": ".lk"
+    },
+    "Internet hosts": {
+      "text": "6,090 (2009)"
+    },
+    "Internet users": {
+      "text": "1.164 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "18 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "14"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "7 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "1,449 km"
+      },
+      "broad gauge": {
+        "text": "1,449 km 1.676-m gauge (2007)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "97,286 km"
+      },
+      "paved": {
+        "text": "78,802 km"
+      },
+      "unpaved": {
+        "text": "18,484 km (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "160 km (primarily on rivers in southwest) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "26"
+      },
+      "by type": {
+        "text": "bulk carrier 4, cargo 18, chemical tanker 1, container 1, petroleum tanker 2"
+      },
+      "foreign-owned": {
+        "text": "5 (Germany 5)"
+      },
+      "registered in other countries": {
+        "text": "1 (Panama 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Colombo"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Sri Lanka Army, Sri Lanka Navy, Sri Lanka Air Force (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; 5-year service obligation (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,458,720"
+      },
+      "females age 16-49": {
+        "text": "5,594,006 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,498,667"
+      },
+      "females age 16-49": {
+        "text": "4,693,895 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "173,256"
+      },
+      "female": {
+        "text": "167,645 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.6% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "460,000 (both Tamils and non-Tamils displaced due to long-term civil war between the government and the separatist Liberation Tigers of Tamil Eelam (LTTE)) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Sri Lanka is a source and destination country for men and women trafficked for the purposes of involuntary servitude and commercial sexual exploitation; Sri Lankan men and women migrate willingly to the Persian Gulf, Middle East, and East Asia to work as construction workers, domestic servants, or garment factory workers, where some find themselves in situations of involuntary servitude when faced with restrictions on movement, withholding of passports, threats, physical or sexual abuse, and debt bondage; children are trafficked internally for commercial sexual exploitation and, less frequently, for forced labor"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - for a second consecutive year, Sri Lanka is on the Tier 2 Watch List for failing to provide evidence of increasing efforts to combat severe forms of human trafficking, particularly in the area of law enforcement; the government failed to arrest, prosecute, or convict any person for trafficking offenses and continued to punish some victims of trafficking for crimes committed as a result of being trafficked; Sri Lanka has not ratified the 2000 UN TIP Protocol (2008)"
+      }
+    }
+  }
+}

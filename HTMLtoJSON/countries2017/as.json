@@ -1,0 +1,787 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10 per cent of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Commonwealth of Australia"
+      },
+      "conventional short form": {
+        "text": "Australia"
+      },
+      "etymology": {
+        "text": "the name Australia derives from the Latin \"australis\" meaning \"southern\"; the Australian landmass was long referred to as \"Terra Australis\" or the Southern Land"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy (Federal Parliament) under a constitutional monarchy; a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Canberra"
+      },
+      "geographic coordinates": {
+        "text": "35 16 S, 149 08 E"
+      },
+      "time difference": {
+        "text": "UTC+10 (15 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in October; ends first Sunday in April"
+      },
+      "note": {
+        "text": "Australia has three time zones"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia"
+    },
+    "Dependent areas": {
+      "text": "Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island"
+    },
+    "Independence": {
+      "text": "1 January 1901 (from the federation of UK colonies)"
+    },
+    "National holiday": {
+      "text": "Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915)"
+    },
+    "Constitution": {
+      "text": "9 July 1900; effective 1 January 1901; amended several times, last in 1977; note - a referendum to amend the constitution to reflect the Aboriginal and Torres Strait Islander Peoples Recognition Act 2013 held in 2017 was rejected (2017)"
+    },
+    "Legal system": {
+      "text": "common law system based on the English model"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen or permanent resident of Australia"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "4 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen of Australia ELIZABETH II (since 6 February 1952); represented by Governor Gen. Sir Peter COSGROVE (since 28 March 2014)"
+      },
+      "head of government": {
+        "text": "Prime Minister Malcolm TURNBULL (since 15 September 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Federal Parliament consists of the Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years) and the House of Representatives (150 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)"
+      },
+      "elections": {
+        "text": "Senate - last held on 2 July 2016 (next to be held in 2019); House of Representatives - last held on 2 July 2016; this election represents a rare double dissolution where all 226 seats in both the Senate and House of Representatives are up for reelection"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - Liberal/National Coalition 35.2%, ALP 29.8%, the Greens 8.7%, Pauline Hanson's One Nation 4.3%, Nick Xenophon Team 3.3%, other 18.7%; seats by party - Liberal/National Coalition 30, ALP 26, The Greens 9, Pauline Hanson's One Nation 4, Nick Xenophon Team 3, other 4; House of Representatives - percent of vote by party - Liberal/National Coalition 42%, ALP 34.7%, The Greens 10.2%, Nick Xenophon Team 1.9%. Katter's Australian Party 0.5%, independent 2.8%, other 7.8%; seats by party - Liberal/National Coalition 76, ALP 69, The Greens 1, Katter's Australian Party 1, Nick Xenophon Team 1, independent 2"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts"
+      },
+      "judge selection and term of office": {
+        "text": "justices appointed by the governor-general in council for life with mandatory retirement at age 70"
+      },
+      "subordinate courts": {
+        "text": "subordinate courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Palmer United Party or PUP [Clive PALMER]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "business groups, environmental groups, social groups, trade unions"
+    },
+    "International organization participation": {
+      "text": "ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Joseph Benedict HOCKEY (since 28 January 2016)"
+      },
+      "chancery": {
+        "text": "1601 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 797-3000"
+      },
+      "FAX": {
+        "text": "[1] (202) 797-3168"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires James CAROUSO (since September 2016)"
+      },
+      "embassy": {
+        "text": "Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600"
+      },
+      "mailing address": {
+        "text": "APO AP 96549"
+      },
+      "telephone": {
+        "text": "[61] (02) 6214-5600"
+      },
+      "FAX": {
+        "text": "[61] (02) 6214-5970"
+      },
+      "consulate(s) general": {
+        "text": "Melbourne, Perth, Sydney"
+      }
+    },
+    "Flag description": {
+      "text": "blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars"
+    },
+    "National symbol(s)": {
+      "text": "Southern Cross constellation (composed of five stars: four large seven-pointed stars, one small five-pointed star), kangaroo, emu; national colors: green, gold"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Advance Australia Fair\""
+      },
+      "lyrics/music": {
+        "text": "Peter Dodds McCORMICK"
+      },
+      "note": {
+        "text": "adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" is also played at Royal functions (see United Kingdom)"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia\u2019s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with India and Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand and India."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.105 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.262 trillion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$47,800 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Gross national saving": {
+      "text": "23.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "57.3%"
+      },
+      "government consumption": {
+        "text": "18.9%"
+      },
+      "investment in fixed capital": {
+        "text": "24.9%"
+      },
+      "investment in inventories": {
+        "text": "-0.4%"
+      },
+      "exports of goods and services": {
+        "text": "19.5%"
+      },
+      "imports of goods and services": {
+        "text": "-20.2% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "3.6%"
+      },
+      "industry": {
+        "text": "26.5%"
+      },
+      "services": {
+        "text": "69.9% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, sugarcane, fruits; cattle, sheep, poultry"
+    },
+    "Industries": {
+      "text": "mining, industrial and transportation equipment, food processing, chemicals, steel"
+    },
+    "Industrial production growth rate": {
+      "text": "0.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Labor force": {
+      "text": "12.74 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "3.6%"
+      },
+      "industry": {
+        "text": "21.1%"
+      },
+      "services": {
+        "text": "75.3% (2009 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.7% (2015 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2%"
+      },
+      "highest 10%": {
+        "text": "25.4% (1994)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.2 (1994)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$432.4 billion"
+      },
+      "expenditures": {
+        "text": "$457.7 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "34.3% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Public debt": {
+      "text": "44.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4.35% (31 December 2010)",
+      "note": {
+        "text": "this is the Reserve Bank of Australia's \"cash rate target,\" or policy rate"
+      },
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.58% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$229.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.337 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.985 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.366 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Current account balance": {
+      "text": "$-58.06 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Exports": {
+      "text": "$188.3 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Exports - commodities": {
+      "text": "coal, iron ore, gold, meat, wool, alumina, wheat, machinery and transport equipment"
+    },
+    "Exports - partners": {
+      "text": "China 30.5%, Japan 12.4%, US 6.5%, South Korea 6.1% (2016)"
+    },
+    "Imports": {
+      "text": "$207.2 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, computers and office machines, telecommunication equipment and parts; crude oil and petroleum products"
+    },
+    "Imports - partners": {
+      "text": "China 23.4%, US 11.5%, Japan 7.8%, Thailand 5.6%, Germany 5.3%, South Korea 4.3% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$49.27 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.538 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$582.6 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$434.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.9695 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "237.9 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "223.6 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "67.03 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "72.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "10.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "16.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Crude oil - production": {
+      "text": "289,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "213,600 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "339,500 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "1.821 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "472,100 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "1.1 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "60,290 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "564,300 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Natural gas - production": {
+      "text": "67.2 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "46.99 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "34.06 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "6.373 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "1.989 trillion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "385 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "8.18 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "36 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "26.55 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "115 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent domestic and international service"
+      },
+      "domestic": {
+        "text": "domestic satellite system; significant use of radiotelephone in areas of low population density; rapid growth of mobile telephones"
+      },
+      "international": {
+        "text": "country code - 61; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the Southern Cross fiber-optic submarine cable provides links to NZ and the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2009)"
+    },
+    "Internet country code": {
+      "text": ".au"
+    },
+    "Internet users": {
+      "total": {
+        "text": "20,288,409"
+      },
+      "percent of population": {
+        "text": "88.2% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "28"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "11"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "175"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "69,294,187"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,887,295,820 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "VH (2016)"
+    },
+    "Airports": {
+      "text": "480 (2013)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "349"
+      },
+      "over 3,047 m": {
+        "text": "11"
+      },
+      "2,438 to 3,047 m": {
+        "text": "14"
+      },
+      "1,524 to 2,437 m": {
+        "text": "155"
+      },
+      "914 to 1,523 m": {
+        "text": "155"
+      },
+      "under 914 m": {
+        "text": "14 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "131"
+      },
+      "1,524 to 2,437 m": {
+        "text": "16"
+      },
+      "914 to 1,523 m": {
+        "text": "101"
+      },
+      "under 914 m": {
+        "text": "14 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "condensate/gas 637 km; gas 30,054 km; liquid petroleum gas 240 km; oil 3,609 km; oil/gas/water 110 km; refined products 72 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "36,967.5 km"
+      },
+      "broad gauge": {
+        "text": "3,727 km 1.600-m gauge (372 km electrified)"
+      },
+      "standard gauge": {
+        "text": "18,727 km 1.435-m gauge (650 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "14,513.5 km 1.067-m gauge (2,075.5 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "823,217 km"
+      },
+      "paved": {
+        "text": "356,343 km"
+      },
+      "unpaved": {
+        "text": "466,874 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Waterways": {
+      "text": "2,000 km (mainly used for recreation on Murray and Murray-Darling River systems) (2011)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "41"
+      },
+      "by type": {
+        "text": "bulk carrier 8, cargo 7, liquefied gas 4, passenger 6, passenger/cargo 6, petroleum tanker 5, roll on/roll off 5"
+      },
+      "foreign-owned": {
+        "text": "17 (Canada 5, Germany 2, Singapore 2, South Africa 1, UK 5, US 2)"
+      },
+      "registered in other countries": {
+        "text": "25 (Bahamas 1, Dominica 1, Fiji 2, Liberia 1, Netherlands 1, Panama 4, Singapore 12, Tonga 1, UK 1, US 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney"
+      },
+      "dry bulk cargo port(s)": {
+        "text": "Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Brisbane (1,152,000), Melbourne (2,638,000), Sydney (2,330,000)(2015)"
+      },
+      "LNG terminal(s) (export)": {
+        "text": "Darwin, Karratha, Burrup, Curtis Island"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.7% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Military branches": {
+      "text": "Australian Defense Force (ADF): Australian Army, Royal Australian Navy (includes Naval Aviation Force), Royal Australian Air Force, Joint Operations Command (JOC) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "17 years of age for voluntary military service (with parental consent); no conscription; women allowed to serve in most combat roles, except the Army special forces (2013)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "9,217 (Afghanistan); 6,128 (Iran) (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines"
+    }
+  }
+}

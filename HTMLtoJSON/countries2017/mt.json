@@ -1,0 +1,836 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta\u2019s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans,"
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)"
+    },
+    "Geographic coordinates": {
+      "text": "35 50 N, 14 35 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "316 sq km"
+      },
+      "land": {
+        "text": "316 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "country comparison to the world": {
+        "text": "209"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "196.8 km (excludes 56 km for the island of Gozo)"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      },
+      "exclusive fishing zone": {
+        "text": "25 nm"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean; mild, rainy winters; hot, dry summers"
+    },
+    "Terrain": {
+      "text": "mostly low, rocky, flat to dissected plains; many coastal cliffs"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Ta'Dmejrek on Dingli Cliffs 253 m"
+    },
+    "Natural resources": {
+      "text": "limestone, salt, arable land"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "32.3%"
+      },
+      "text": "arable land 28.4%; permanent crops 3.9%; permanent pasture 0%",
+      "forest": {
+        "text": "0.9%"
+      },
+      "other": {
+        "text": "66.8% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "35 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands"
+    },
+    "Natural hazards": {
+      "text": "occasional droughts"
+    },
+    "Environment - current issues": {
+      "text": "limited natural freshwater resources; increasing reliance on desalination"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Malta"
+      },
+      "conventional short form": {
+        "text": "Malta"
+      },
+      "local long form": {
+        "text": "Repubblika ta' Malta"
+      },
+      "local short form": {
+        "text": "Malta"
+      },
+      "etymology": {
+        "text": "the ancient Greeks called the island \"Melite\" meaning \"honey-sweet\" from the Greek word \"meli\" meaning \"honey\" and referring to the island's honey production"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Valletta"
+      },
+      "geographic coordinates": {
+        "text": "35 53 N, 14 30 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq"
+    },
+    "Independence": {
+      "text": "21 September 1964 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 21 September (1964); Republic Day, 13 December (1974)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "many previous; latest adopted 21 September 1964"
+      },
+      "amendments": {
+        "text": "proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of \"Acts\" requires majority vote by referendum, followed by final majority vote by the House and assent by the president of the republic; amended many times, last in 2016 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Malta"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age (16 in local council elections); universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Marie-Louise Coleiro PRECA (since 4 April 2014)"
+      },
+      "head of government": {
+        "text": "Prime Minister Joseph MUSCAT (since 11 March 2013)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president on the advice of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by the House of Representatives for a 5-year term (1-term limit); election last held on 4 April 2014 (next to be held by April 2019); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister"
+      },
+      "election results": {
+        "text": "Marie-Louise Coleiro PRECA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process"
+      },
+      "elections": {
+        "text": "last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations"
+      },
+      "election results": {
+        "text": "percent of vote by party - PL 55.0%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65"
+      },
+      "subordinate courts": {
+        "text": "Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino}"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Nationalist Party or PN [Adrian DELIA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Together for a Better Environment (Flimkien Ghal-Ambjent Ahjar) or FAA",
+      "other": {
+        "text": "environmental groups"
+      }
+    },
+    "International organization participation": {
+      "text": "Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Pierre Clive AGIUS (since 2 March 2016)"
+      },
+      "chancery": {
+        "text": "2017 Connecticut Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 462-3611 through 3612"
+      },
+      "FAX": {
+        "text": "[1] (202) 387-5470"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador G. Kathleen HILL (since 25 February 2016)"
+      },
+      "embassy": {
+        "text": "Ta' Qali National Park, Attard, ATD 4000"
+      },
+      "mailing address": {
+        "text": "5800 Valletta Place, Dulles, VA 20189"
+      },
+      "telephone": {
+        "text": "[356] 2561 4000"
+      },
+      "FAX": {
+        "text": "[356] 2124 3229"
+      }
+    },
+    "Flag description": {
+      "text": "two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field"
+    },
+    "National symbol(s)": {
+      "text": "Maltese eight-pointed cross; national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"L-Innu Malti\" (The Maltese Anthem)"
+      },
+      "lyrics/music": {
+        "text": "Dun Karm PSAILA/Robert SAMMUT"
+      },
+      "note": {
+        "text": "adopted 1945; written in the form of a prayer"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Malta\u2019s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$14.98 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$11 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.2% (2014 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$36,100 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Gross national saving": {
+      "text": "27.3% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "49%"
+      },
+      "government consumption": {
+        "text": "16.8%"
+      },
+      "investment in fixed capital": {
+        "text": "23.3%"
+      },
+      "investment in inventories": {
+        "text": "-1%"
+      },
+      "exports of goods and services": {
+        "text": "141.4%"
+      },
+      "imports of goods and services": {
+        "text": "-129.5% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "1.3%"
+      },
+      "industry": {
+        "text": "10.6%"
+      },
+      "services": {
+        "text": "88.1% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "potatoes, cauliflower, grapes, wheat, barley, tomatoes, citrus, cut flowers, green peppers; pork, milk, poultry, eggs"
+    },
+    "Industries": {
+      "text": "tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services"
+    },
+    "Industrial production growth rate": {
+      "text": "-3.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Labor force": {
+      "text": "201,300 (2016 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1.6%"
+      },
+      "industry": {
+        "text": "20.7%"
+      },
+      "services": {
+        "text": "77.7% (2016 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Population below poverty line": {
+      "text": "16.3% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "27.7 (2014)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.272 billion"
+      },
+      "expenditures": {
+        "text": "$4.34 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "39% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-0.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Public debt": {
+      "text": "60.6% of GDP (2015 est.)",
+      "note": {
+        "text": "Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95)"
+      },
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "-0.2% (31 December 2015)",
+      "note": {
+        "text": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+      },
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "3.4% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$13.4 billion (31 December 2015 est.)",
+      "note": {
+        "text": "see entry for the EU for money supply for the entire euro area; the European Central Bank controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+      },
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$18.09 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$18.33 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.353 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Current account balance": {
+      "text": "$539 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Exports": {
+      "text": "$3.003 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Exports - commodities": {
+      "text": "machinery and mechanical appliances; mineral fuels, oils and petroleum products; pharmaceutical products; books and newspapers; aircraft/spacecraft and parts; toys, games, and sports equipment"
+    },
+    "Exports - partners": {
+      "text": "US 27.3%, Germany 13.9%, France 8.3%, Singapore 5.6%, Japan 5.2%, Hong Kong 4.3%, Italy 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$5.057 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Imports - commodities": {
+      "text": "mineral fuels, oils and products; electrical machinery; aircraft/spacecraft and parts thereof; machinery and mechanical appliances; plastic and other semi-manufactured goods; vehicles and parts"
+    },
+    "Imports - partners": {
+      "text": "Italy 20.9%, Canada 10.4%, Germany 6.3%, UK 5.9%, France 4.4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$571.7 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Debt - external": {
+      "text": "$99.02 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$155.5 million (1 June 2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$64.77 million (June 2014 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.7752 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "1.228 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "2.103 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.054 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "670,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "88.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "12.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "42,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "4,031 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "43,950 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "887,700 Mt (2014 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "234,383"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "56 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "539,589"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "130 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "automatic system featuring submarine cable and microwave radio relay between islands"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular subscribership exceeds 185 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 356; submarine cable connects to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2017)"
+    },
+    "Internet country code": {
+      "text": ".mt"
+    },
+    "Internet users": {
+      "total": {
+        "text": "320,902"
+      },
+      "percent of population": {
+        "text": "77.3% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "160"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "9"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "28"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,583,046"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "3.352 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9H (2016)"
+    },
+    "Airports": {
+      "text": "1 (2013)",
+      "country comparison to the world": {
+        "text": "225"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "3,096 km"
+      },
+      "paved": {
+        "text": "2,704 km"
+      },
+      "unpaved": {
+        "text": "392 km (2008)"
+      },
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,650"
+      },
+      "by type": {
+        "text": "bulk carrier 544, cargo 351, carrier 1, chemical tanker 324, container 117, liquefied gas 36, passenger 50, passenger/cargo 18, petroleum tanker 160, refrigerated cargo 7, roll on/roll off 22, specialized tanker 2, vehicle carrier 18"
+      },
+      "foreign-owned": {
+        "text": "1,437 (Angola 7, Azerbaijan 1, Belgium 7, Bermuda 15, Bulgaria 8, Canada 5, China 6, Croatia 6, Cyprus 32, Denmark 34, Egypt 1, Estonia 16, Finland 3,  France 8, Germany 135, Greece 469, Hong Kong 4, India 3, Iran 48, Ireland 4, Israel 3, Italy 45, Japan 5, Kuwait 3, Latvia 8, Lebanon 6, Libya 5, Luxembourg 3, Malaysia 1, Monaco 3, Netherlands 3, Norway 96, Oman 5, Poland 21, Portugal 3, Romania 7, Russia 45, Saudi Arabia 2, Singapore 4, Slovenia 4, South Korea 2, Spain 8, Sweden 1, Switzerland 20, Syria 4, Turkey 233, UAE 1, UK 21, Ukraine 29, US 34)"
+      },
+      "registered in other countries": {
+        "text": "2 (Panama 2) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Marsaxlokk (Malta Freeport), Valletta"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Marsaxlokk (2,360,000)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "0.54% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Military branches": {
+      "text": "Armed Forces of Malta (AFM, includes land, maritime, and air elements) (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2017)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "minor transshipment point for hashish from North Africa to Western Europe"
+    }
+  }
+}

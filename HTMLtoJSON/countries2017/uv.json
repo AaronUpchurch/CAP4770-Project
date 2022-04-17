@@ -1,0 +1,828 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Burkina Faso (formerly Upper Volta) achieved independence from France in 1960. Repeated military coups during the 1970s and 1980s were followed by multiparty elections in the early 1990s. Former President Blaise COMPAORE (1987-2014) resigned in late October 2014 following popular protests against his efforts to amend the Constitution's two-term presidential limit. By mid-November, a framework for an interim government was adopted under the terms of the National Transition Charter. An interim administration, led by President Michel KAFANDO and Prime Minister Yacouba Isaac ZIDA, began organizing presidential and legislative elections planned for October 2015, but these were postponed during a weeklong failed coup in September. The rescheduled elections were held on 29 November, and Roch Marc Christian KABORE was elected president in the first round. Burkina Faso's high population growth and limited natural resources result in poor economic prospects for the majority of its citizens."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Western Africa, north of Ghana"
+    },
+    "Geographic coordinates": {
+      "text": "13 00 N, 2 00 W"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "274,200 sq km"
+      },
+      "land": {
+        "text": "273,800 sq km"
+      },
+      "water": {
+        "text": "400 sq km"
+      },
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Colorado"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,611 km"
+      },
+      "border countries (6)": {
+        "text": "Benin 386 km, Cote d'Ivoire 545 km, Ghana 602 km, Mali 1,325 km, Niger 622 km, Togo 131 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; warm, dry winters; hot, wet summers"
+    },
+    "Terrain": {
+      "text": "mostly flat to dissected, undulating plains; hills in west and southeast"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "297 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Tena Kourou 749 m"
+    },
+    "Natural resources": {
+      "text": "manganese, limestone, marble; small deposits of gold, phosphates, pumice, salt"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "43%"
+      },
+      "text": "arable land 20.8%; permanent crops 0.3%; permanent pasture 21.9%",
+      "forest": {
+        "text": "20.4%"
+      },
+      "other": {
+        "text": "36.6% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "550 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "the population is concentrated in the central and southern parts of the country; the east, north, and southwest are less populated"
+    },
+    "Natural hazards": {
+      "text": "recurring droughts"
+    },
+    "Environment - current issues": {
+      "text": "recent droughts and desertification severely affecting agricultural activities, population distribution, and the economy; overgrazing; soil degradation; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked savanna cut by the three principal rivers of the Black, Red, and White Voltas"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Burkina Faso"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Burkina Faso"
+      },
+      "former": {
+        "text": "Upper Volta, Republic of Upper Volta"
+      },
+      "etymology": {
+        "text": "name translates as \"Land of the Honest (Incorruptible) Men\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ouagadougou"
+      },
+      "geographic coordinates": {
+        "text": "12 22 N, 1 31 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest"
+    },
+    "Independence": {
+      "text": "5 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest approved by referendum 2 June 1991, adopted 11 June 1991, temporarily suspended late October to mid-November 2014"
+      },
+      "amendments": {
+        "text": "proposed by the president, by a majority of National Assembly membership, or by petition of at least 30,000 eligible voters submitted to the Assembly; passage requires at least three-fourths majority vote in the Assembly; failure to meet that threshold requires majority voter approval in a referendum; constitutional provisions on the form of government, the multiparty system, and national sovereignty cannot be amended; amended several times, last in 2012 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law based on the French model and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Burkina Faso"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Roch Marc Christian KABORE (since 29 December 2015)"
+      },
+      "head of government": {
+        "text": "Prime Minister Paul Kaba THIEBA (since 6 January 2016)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the recommendation of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second); election last held on 29 November 2015 (next scheduled for November 2020); prime minister appointed by the president with consent of the National Assembly"
+      },
+      "election results": {
+        "text": "Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%. Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly (127 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 29 November 2015 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - MPP 55, UPC 33, CDP 18, Union for Rebirth/Sankarist Party 5, ADF/RDA 3, NTD 3, other 10"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judge appointments mostly controlled by the president of Burkina Faso; judges have no term limits; Council of State judge appointment and tenure NA; Constitutional Council judges appointed by the president of Burkina Faso upon the proposal of the minister of justice and the president of the National Assembly; judges appointed for 9-year terms with one-third of membership renewed every 3 years"
+      },
+      "subordinate courts": {
+        "text": "Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Youth Alliance for the Republic and Independence or AJIR [Adama KANAZOE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Union for Primary Education Teachers or SYNATEB",
+      "other": {
+        "text": "watchdog/political action groups throughout the country"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Seydou KABORE (since 18 January 2017)"
+      },
+      "chancery": {
+        "text": "2340 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-5577"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-1882"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Andrew YOUNG (since 1 December 2016)"
+      },
+      "embassy": {
+        "text": "Rue 15.873, Avenue Sembene Ousmane, Ouaga 2000, Secteur 15"
+      },
+      "mailing address": {
+        "text": "01 B. P. 35, Ouagadougou 01; pouch mail - US Department of State, 2440 Ouagadougou Place, Washington, DC 20521-2440"
+      },
+      "telephone": {
+        "text": "[226] 25-49-53-00"
+      },
+      "FAX": {
+        "text": "[226] 25-49-56-28"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth",
+      "note": {
+        "text": "uses the popular Pan-African colors of Ethiopia"
+      }
+    },
+    "National symbol(s)": {
+      "text": "white stallion; national colors: red, yellow, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Le Ditanye\" (Anthem of Victory)"
+      },
+      "lyrics/music": {
+        "text": "Thomas SANKARA"
+      },
+      "note": {
+        "text": "adopted 1974; also known as \"Une Seule Nuit\" (One Single Night); written by the country's president, an avid guitar player"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Burkina Faso experienced a number of public protests over the high cost of living, corruption, and other socioeconomic issues in 2013, while the fall of the COMPAORE government in 2014 and failed coup in September 2015 disrupted economic activity and strained government finances. A new three-year IMF program, approved in 2013, was recently completed. Discussions are currently underway on a new program. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$29.24 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$12.12 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.2% (2014 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,700 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "210"
+      }
+    },
+    "Gross national saving": {
+      "text": "12.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "56.5%"
+      },
+      "government consumption": {
+        "text": "22.4%"
+      },
+      "investment in fixed capital": {
+        "text": "29.3%"
+      },
+      "investment in inventories": {
+        "text": "4%"
+      },
+      "exports of goods and services": {
+        "text": "25.2%"
+      },
+      "imports of goods and services": {
+        "text": "-37.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "32.6%"
+      },
+      "industry": {
+        "text": "22.2%"
+      },
+      "services": {
+        "text": "45.2% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cotton, peanuts, shea nuts, sesame, sorghum, millet, corn, rice; livestock"
+    },
+    "Industries": {
+      "text": "cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold"
+    },
+    "Industrial production growth rate": {
+      "text": "5.5% (2016 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Labor force": {
+      "text": "8.501 million",
+      "note": {
+        "text": "a large part of the male labor force migrates annually to neighboring countries for seasonal employment (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "90%"
+      },
+      "industry and services": {
+        "text": "10% (2000 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "77% (2004)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Population below poverty line": {
+      "text": "40.1% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.9%"
+      },
+      "highest 10%": {
+        "text": "32.2% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "48.2 (1994)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.379 billion"
+      },
+      "expenditures": {
+        "text": "$2.759 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "20% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Public debt": {
+      "text": "32.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.15% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$2.124 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$4 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$3.192 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-890.2 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Exports": {
+      "text": "$2.364 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Exports - commodities": {
+      "text": "gold, cotton, livestock"
+    },
+    "Exports - partners": {
+      "text": "Switzerland 65.7%, India 6.3%, South Africa 5.2%, Singapore 4.6% (2016)"
+    },
+    "Imports": {
+      "text": "$2.606 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Imports - commodities": {
+      "text": "capital goods, foodstuffs, petroleum"
+    },
+    "Imports - partners": {
+      "text": "China 12.2%, Cote dIvoire 8.2%, Japan 7.8%, France 7.1%, Netherlands 4.5%, Spain 4.2%, India 4.1%, Russia 4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$67.3 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Debt - external": {
+      "text": "$2.627 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Exchange rates": {
+      "text": "510.53 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "14,100,000"
+      },
+      "electrification - total population": {
+        "text": "17%"
+      },
+      "electrification - urban areas": {
+        "text": "56%"
+      },
+      "electrification - rural areas": {
+        "text": "1% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "944 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "1.321 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "210"
+      }
+    },
+    "Electricity - imports": {
+      "text": "443 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "306,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "86.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "10.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "3.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "22,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "209"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "20,890 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "64,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "15,404,040"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "79 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "system includes microwave radio relay, open-wire, and radiotelephone communication stations"
+      },
+      "domestic": {
+        "text": "fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage, fostered by multiple providers, is increasing steadily from a low base"
+      },
+      "international": {
+        "text": "country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 TV stations - 1 state-owned and 1 privately owned; state-owned radio runs a national and regional network; substantial number of privately owned radio stations; transmissions of several international broadcasters available in Ouagadougou (2007)"
+    },
+    "Internet country code": {
+      "text": ".bf"
+    },
+    "Internet users": {
+      "total": {
+        "text": "2,723,950"
+      },
+      "percent of population": {
+        "text": "14.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "125"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "3"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "122,589"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "55,868 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "XT (2016)"
+    },
+    "Airports": {
+      "text": "23 (2013)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "21"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "13"
+      },
+      "under 914 m": {
+        "text": "5 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "622 km"
+      },
+      "narrow gauge": {
+        "text": "622 km 1.000-m gauge"
+      },
+      "note": {
+        "text": "another 660 km of this railway extends into Cote d'Ivoire (2014)"
+      },
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "15,272 km"
+      },
+      "note": {
+        "text": "does not include urban roads (2010)"
+      },
+      "country comparison to the world": {
+        "text": "122"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.32% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Military branches": {
+      "text": "Army, Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2013)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualou"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "24,083 (Mali) (2017)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Burkina Faso is a source, transit, and destination country for women and children subjected to forced labor and sex trafficking; Burkinabe children are forced to work as farm hands, gold panners and washers, street vendors, domestic servants, and beggars or in the commercial sex trade, with some transported to nearby countries; to a lesser extent, Burkinabe women are recruited for legitimate jobs in the Middle East or Europe and subsequently forced into prostitution; women from other West African countries are also lured to Burkina Faso for work and subjected to forced prostitution, forced labor in restaurants, or domestic servitude"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Burkina Faso does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; law enforcement efforts decreased in 2014, with a significant decline in trafficking prosecutions (none for forced begging involving Koranic school teachers \u2013 a prevalent form of trafficking) and no convictions, a 2014 law criminalizing the sale of children, child prostitution, and child pornography is undermined by a provision allowing offenders to pay a fine in lieu of serving prison time proportionate to the crime; the government sustained efforts to identify and protect a large number of child victims, relying on support from NGOs and international organizations; nationwide awareness-raising activities were sustained, but little was done to stop forced begging (2015)"
+      }
+    }
+  }
+}

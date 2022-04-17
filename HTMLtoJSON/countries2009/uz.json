@@ -1,0 +1,701 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Russia conquered Uzbekistan in the late 19th century. Stiff resistance to the Red Army after World War I was eventually suppressed and a socialist republic set up in 1924. During the Soviet era, intensive production of \"white gold\" (cotton) and grain led to overuse of agrochemicals and the depletion of water supplies, which have left the land poisoned and the Aral Sea and certain rivers half dry. Independent since 1991, the country seeks to gradually lessen its dependence on agriculture while developing its mineral and petroleum reserves. Current concerns include terrorism by Islamic militants, economic stagnation, and the curtailment of human rights and democratization."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Asia, north of Afghanistan"
+    },
+    "Geographic coordinates": {
+      "text": "41 00 N, 64 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "447,400 sq km"
+      },
+      "land": {
+        "text": "425,400 sq km"
+      },
+      "water": {
+        "text": "22,000 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "6,221 km"
+      },
+      "border countries": {
+        "text": "Afghanistan 137 km, Kazakhstan 2,203 km, Kyrgyzstan 1,099 km, Tajikistan 1,161 km, Turkmenistan 1,621 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline"
+    },
+    "Maritime claims": {
+      "text": "none (doubly landlocked)"
+    },
+    "Climate": {
+      "text": "mostly midlatitude desert, long, hot summers, mild winters; semiarid grassland in east"
+    },
+    "Terrain": {
+      "text": "mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zarafshon; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Sariqarnish Kuli -12 m"
+      },
+      "highest point": {
+        "text": "Adelunga Toghi 4,301 m"
+      }
+    },
+    "Natural resources": {
+      "text": "natural gas, petroleum, coal, gold, uranium, silver, copper, lead and zinc, tungsten, molybdenum"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10.51%"
+      },
+      "permanent crops": {
+        "text": "0.76%"
+      },
+      "other": {
+        "text": "88.73% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "42,810 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "72.2 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "58.34  cu km/yr (5%/2%/93%)"
+      },
+      "per capita": {
+        "text": "2,194  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "shrinkage of the Aral Sea is resulting in growing concentrations of chemical pesticides and natural salts; these substances are then blown from the increasingly exposed lake bed and contribute to desertification; water pollution from industrial wastes and the heavy use of fertilizers and pesticides is the cause of many human health disorders; increasing soil salination; soil contamination from buried nuclear processing and agricultural chemicals, including DDT"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "along with Liechtenstein, one of the only two doubly landlocked countries in the world"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "27,606,007 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.1% (male 3,970,386/female 3,787,371)"
+      },
+      "15-64 years": {
+        "text": "67% (male 9,191,439/female 9,309,791)"
+      },
+      "65 years and over": {
+        "text": "4.9% (male 576,191/female 770,829) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "24.7 years"
+      },
+      "male": {
+        "text": "24.2 years"
+      },
+      "female": {
+        "text": "25.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.935% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.58 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.29 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.94 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "37% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.75 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "23.43 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "27.7 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "18.9 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "71.96 years"
+      },
+      "male": {
+        "text": "68.95 years"
+      },
+      "female": {
+        "text": "75.15 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.95 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "16,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Uzbekistani"
+      },
+      "adjective": {
+        "text": "Uzbekistani"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Uzbek 80%, Russian 5.5%, Tajik 5%, Kazakh 3%, Karakalpak 2.5%, Tatar 1.5%, other 2.5% (1996 est.)"
+    },
+    "Religions": {
+      "text": "Muslim 88% (mostly Sunnis), Eastern Orthodox 9%, other 3%"
+    },
+    "Languages": {
+      "text": "Uzbek 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.3%"
+      },
+      "male": {
+        "text": "99.6%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "11 years (2007)"
+      }
+    },
+    "Education expenditures": {
+      "text": "9.4% of GDP (1991)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Uzbekistan "
+      },
+      "conventional short form": {
+        "text": "Uzbekistan"
+      },
+      "local long form": {
+        "text": "Ozbekiston Respublikasi"
+      },
+      "local short form": {
+        "text": "Ozbekiston"
+      },
+      "former": {
+        "text": "Uzbek Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic; authoritarian presidential rule, with little power outside the executive branch"
+    },
+    "Capital": {
+      "name": {
+        "text": "Tashkent (Toshkent)"
+      },
+      "geographic coordinates": {
+        "text": "41 20 N, 69 18 E"
+      },
+      "time difference": {
+        "text": "UTC+5 (10 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (respublika), and 1 city** (shahar); Andijon Viloyati, Buxoro Viloyati, Farg'ona Viloyati, Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan]* (Nukus), Samarqand Viloyati, Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri**, Toshkent Viloyati, Xorazm Viloyati (Urganch)",
+      "note": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
+    },
+    "note": "all parties in the Supreme Assembly support President KARIMOV",
+    "Independence": {
+      "text": "1 September 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 September (1991)"
+    },
+    "Constitution": {
+      "text": "adopted 8 December 1992"
+    },
+    "Legal system": {
+      "text": "based on civil law system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Islom KARIMOV (since 24 March 1990, when he was elected president by the then Supreme Soviet)"
+      },
+      "head of government": {
+        "text": "Prime Minister Shavkat MIRZIYOYEV (since 11 December 2003); First Deputy Prime Minister Rustam AZIMOV (since 2 January 2008)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers appointed by the president with approval of the Supreme Assembly"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (eligible for a second term; previously was a five-year term, extended by constitutional amendment in 2002); election last held 23 December 2007 (next to be held in 2014); prime minister, ministers, and deputy ministers appointed by the president"
+      },
+      "election results": {
+        "text": "Islom KARIMOV reelected president; percent of vote - Islom KARIMOV 88.1%, Asliddin RUSTAMOV 3.2%, Dilorom T0SHMUHAMEDOVA 2.9%, Akmal SAIDOV 2.6%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Supreme Assembly or Oliy Majlis consists of an upper house or Senate (100 seats; 84 members are elected by regional governing councils and 16 appointed by the president; to serve five-year terms) and a lower house or Legislative Chamber (120 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 26 December 2004 and 9 January 2005 (next to be held in December 2009)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - NA; Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 41, NDP 32, Fidokorlar 17, MTP 11, Adolat 9, unaffiliated 10"
+      },
+      "note": "all parties in the Supreme Assembly support President KARIMOV"
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are nominated by the president and confirmed by the Supreme Assembly)"
+    },
+    "Political parties and leaders": {
+      "text": "Adolat (Justice) Social Democratic Party [Dilorom TOSHMUHAMEDOVA]; Democratic National Rebirth Party (Milliy Tiklanish) or MTP [Hurshid DOSMUHAMMEDOV]; Fidokorlar National Democratic Party (Self-Sacrificers) [Ahtam TURSUNOV]; Liberal Democratic Party of Uzbekistan or LDPU [Adham SHADMANOV; People's Democratic Party or NDP (formerly Communist Party) [Asliddin RUSTAMOV]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Agrarian and Entrepreneurs' Party [Marat ZAHIDOV]; Birlik (Unity) Movement [Abdurahim POLAT, chairman]; Committee for the Protection of Human Rights [Marat ZAHIDOV]; Erk (Freedom) Democratic Party [Muhammad SOLIH, chairman] (was banned 9 December 1992); Ezgulik Human Rights Society [Vasila INOYATOVA]; Free Farmers' Party or Ozod Dehqonlar [Nigora HIDOYATOVA]; Human Rights Society of Uzbekistan [Talib YAKUBOV, chairman]; Independent Human Rights Organization of Uzbekistan [Mikhail ARDZINOV, chairman]; Mazlum; Sunshine Coalition [Sanjar UMAROV, chairman]"
+    },
+    "International organization participation": {
+      "text": "ADB, CIS, CSTO, EAEC, EAPC, EBRD, ECO, FAO, GCTU, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Abdulaziz KAMILOV"
+      },
+      "chancery": {
+        "text": "1746 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 887-5300"
+      },
+      "FAX": {
+        "text": "[1] (202) 293-6804"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Richard B. NORLAND"
+      },
+      "embassy": {
+        "text": "3 Moyqo'rq'on, 5th Block, Yunusobod District, Tashkent 100093"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[998] (71) 120-5450"
+      },
+      "FAX": {
+        "text": "[998] (71) 120-6335"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a white crescent moon and 12 white stars in the upper hoist-side quadrant"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Uzbekistan is a dry, landlocked country of which 11% consists of intensely cultivated, irrigated river valleys. More than 60% of its population lives in densely populated rural communities. Uzbekistan is now the world's second-largest cotton exporter and fifth largest producer; it relies heavily on cotton production as the major source of export earnings and has come under increasing international criticism for the use of child labor in its annual cotton harvest. Other major export earners include gold, natural gas, and oil. Following independence in September 1991, the government sought to prop up its Soviet-style command economy with subsidies and tight controls on production and prices. While aware of the need to improve the investment climate, the government still sponsors measures that often increase, not decrease, its control over business decisions. A sharp increase in the inequality of income distribution has hurt the lower ranks of society since independence. In 2003, the government accepted Article VIII obligations under the IMF, providing for full currency convertibility. However, strict currency controls and tightening of borders have lessened the effects of convertibility and have also led to some shortages that have further stifled economic activity. The Central Bank often delays or restricts convertibility, especially for consumer goods. Potential investment by Russia and China in Uzbekistan's gas and oil industry, as well as increased cooperation with South Korea in the realm of civil aviation, may boost growth prospects. In November 2005, Russian President Vladimir PUTIN and Uzbekistan President KARIMOV signed an \"alliance,\" which included provisions for economic and business cooperation. Russian businesses have shown increased interest in Uzbekistan, especially in mining, telecom, and oil and gas. In 2006, Uzbekistan took steps to rejoin the Collective Security Treaty Organization (CSTO) and the Eurasian Economic Community (EurASEC), which it subsequently left in 2008, both organizations dominated by Russia. Uzbek authorities have accused US and other foreign companies operating in Uzbekistan of violating Uzbek tax laws and have frozen their assets. \r\n\r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$60.19 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "official data; based on independent analysis of consumer prices, inflation reached 38% in 2008",
+    "GDP (official exchange rate)": {
+      "text": "$27.92 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.3% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "25.8%"
+      },
+      "industry": {
+        "text": "31.4%"
+      },
+      "services": {
+        "text": "42.8% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "15.37 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "44%"
+      },
+      "industry": {
+        "text": "20%"
+      },
+      "services": {
+        "text": "36% (1995)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "0.8% (2007 est.)",
+      "note": "officially measured by the Ministry of Labor, plus another 20% underemployed"
+    },
+    "Population below poverty line": {
+      "text": "33% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.8%"
+      },
+      "highest 10%": {
+        "text": "29.6% (2003)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "44.7 (1998)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.884 billion"
+      },
+      "expenditures": {
+        "text": "$8.474 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "41.5% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "12% (2007 est.)",
+      "note": "official data; based on independent analysis of consumer prices, inflation reached 38% in 2008"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$715.3 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "cotton, vegetables, fruits, grain; livestock"
+    },
+    "Industries": {
+      "text": "textiles, food processing, machine building, metallurgy, gold, petroleum, natural gas, chemicals"
+    },
+    "Industrial production growth rate": {
+      "text": "12.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "46.33 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "41.94 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "11.44 billion kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "11.36 billion kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "83,820 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "148,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "6,104 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "35,810 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "594 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "67.6 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "52.6 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "15 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "1.841 trillion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$4.267 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$8.026 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "cotton, gold, energy products, mineral fertilizers, ferrous and non-ferrous metals, textiles, food products, machinery, automobiles"
+    },
+    "Exports - partners": {
+      "text": "Ukraine 27.3%, Russia 19.6%, Turkey 7.5%, Kazakhstan 5.9%, Bangladesh 5%, China 4.3%, Japan 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$5.73 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, foodstuffs, chemicals, ferrous and non-ferrous metals"
+    },
+    "Imports - partners": {
+      "text": "Russia 24.7%, China 15.4%, South Korea 13.6%, Ukraine 7.2%, Germany 5.5%, Kazakhstan 4.9%, Turkey 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$7.413 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.927 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Uzbekistani soum (UZS) per US dollar - 1,317 (2008 est.), 1,263.8 (2007), 1,219.8 (2006), 1,020 (2005), 971.265 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.85 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "12.734 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "antiquated and inadequate; in serious need of modernization"
+      },
+      "domestic": {
+        "text": "the main line telecommunications system is dilapidated and telephone density is low; the state-owned telecommunications company, Uzbektelecom, is using loans from the Japanese government and the China Development Bank to improve mainline services; completion of conversion to digital exchanges planned for 2010; mobile services are growing rapidly, with the subscriber base reaching 12.7 million in 2008"
+      },
+      "international": {
+        "text": "country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; after the completion of the Uzbek link to the Trans-Asia-Europe (TAE) fiber-optic cable, Uzbekistan plans to establish a fiber-optic connection to Afghanistan (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 4, FM 12, shortwave 3 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "28 (includes 1 cable rebroadcaster in Tashkent and approximately 20 stations in regional capitals) (2006)"
+    },
+    "Internet country code": {
+      "text": ".uz"
+    },
+    "Internet hosts": {
+      "text": "50,228 (2009)"
+    },
+    "Internet users": {
+      "text": "2.469 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "54 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "33"
+      },
+      "over 3,047 m": {
+        "text": "6"
+      },
+      "2,438 to 3,047 m": {
+        "text": "13"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "21"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "19 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 9,706 km; oil 868 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,645 km"
+      },
+      "broad gauge": {
+        "text": "3,645 km 1.520-m gauge (620 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "86,496 km"
+      },
+      "paved": {
+        "text": "75,511 km"
+      },
+      "unpaved": {
+        "text": "10,985 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "1,100 km (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Termiz (Amu Darya)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Air and Air Defense Forces, National Guard"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory military service; 1-year conscript service obligation; moving toward a professional military, but conscription will continue; the military cannot accommodate everyone who wishes to enlist, and competition for entrance into the military is similar to the competition for admission to universities (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "7,480,484"
+      },
+      "females age 16-49": {
+        "text": "7,542,017 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "6,340,446"
+      },
+      "females age 16-49": {
+        "text": "6,559,769 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "313,131"
+      },
+      "female": {
+        "text": "310,442 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; field demarcation of the boundaries with Kazakhstan commenced in 2004; border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "39,202 (Tajikistan); 1,060 (Afghanistan)"
+      },
+      "IDPs": {
+        "text": "3,400 (forced population transfers by government from villages near Tajikistan border) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Uzbekistan is a source country for women and girls trafficked to Kazakhstan, Russia, Middle East, and Asia for the purpose of commercial sexual exploitation; men are trafficked to Kazakhstan and Russia for purposes of forced labor in the construction, cotton, and tobacco industries; men and women are also trafficked internally for the purposes of domestic servitude, forced labor in the agricultural and construction industries, and for commercial sexual exploitation"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Uzbekistan is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat severe forms of trafficking in 2007; the government did not amend its criminal code to increase penalties for convicted traffickers; in March 2008, Uzbekistan adopted ILO Conventions on minimum age of employment and on the elimination of the worst forms of child labor and is working with the ILO on implementation; the government also demonstrated its increasing commitment to combat trafficking in March 2008 by adopting a comprehensive anti-trafficking law; Uzbekistan has not ratified the 2000 UN TIP Protocol (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit country for Afghan narcotics bound for Russian and, to a lesser extent, Western European markets; limited illicit cultivation of cannabis and small amounts of opium poppy for domestic consumption; poppy cultivation almost wiped out by government crop eradication program; transit point for heroin precursor chemicals bound for Afghanistan"
+    }
+  }
+}

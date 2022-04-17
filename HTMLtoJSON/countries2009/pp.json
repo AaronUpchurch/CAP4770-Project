@@ -1,0 +1,727 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The eastern half of the island of New Guinea - second largest in the world - was divided between Germany (north) and the UK (south) in 1885. The latter area was transferred to Australia in 1902, which occupied the northern portion during World War I and continued to administer the combined areas until independence in 1975. A nine-year secessionist revolt on the island of Bougainville ended in 1997 after claiming some 20,000 lives."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, group of islands including the eastern half of the island of New Guinea between the Coral Sea and the South Pacific Ocean, east of Indonesia"
+    },
+    "Geographic coordinates": {
+      "text": "6 00 S, 147 00 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "462,840 sq km"
+      },
+      "land": {
+        "text": "452,860 sq km"
+      },
+      "water": {
+        "text": "9,980 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "820 km"
+      },
+      "border countries": {
+        "text": "Indonesia 820 km"
+      }
+    },
+    "Coastline": {
+      "text": "5,152 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "mostly mountains with coastal lowlands and rolling foothills"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mount Wilhelm 4,509 m"
+      }
+    },
+    "Natural resources": {
+      "text": "gold, copper, silver, natural gas, timber, oil, fisheries"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.49%"
+      },
+      "permanent crops": {
+        "text": "1.4%"
+      },
+      "other": {
+        "text": "98.11% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "801 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.1  cu km/yr (56%/43%/1%)"
+      },
+      "per capita": {
+        "text": "17  cu m/yr (1987)"
+      }
+    },
+    "Natural hazards": {
+      "text": "active volcanism; situated along the Pacific \"Ring of Fire\"; the country is subject to frequent and sometimes severe earthquakes; mud slides; tsunamis"
+    },
+    "Environment - current issues": {
+      "text": "rain forest subject to deforestation as a result of growing commercial demand for tropical timber; pollution from mining projects; severe drought"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "shares island of New Guinea with Indonesia; one of world's largest swamps along southwest coast"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "6,057,263 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "36.9% (male 1,137,796/female 1,099,365)"
+      },
+      "15-64 years": {
+        "text": "59% (male 1,836,272/female 1,735,298)"
+      },
+      "65 years and over": {
+        "text": "4.1% (male 114,789/female 133,743) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "21.7 years"
+      },
+      "male": {
+        "text": "21.8 years"
+      },
+      "female": {
+        "text": "21.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.069% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "27.55 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.86 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "12% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.86 male(s)/female"
+      },
+      "total population": {
+        "text": "1.04 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "45.23 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "49.17 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "41.09 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "66.34 years"
+      },
+      "male": {
+        "text": "64.08 years"
+      },
+      "female": {
+        "text": "68.72 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.62 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.5% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "54,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 1,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Papua New Guinean(s)"
+      },
+      "adjective": {
+        "text": "Papua New Guinean"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Melanesian, Papuan, Negrito, Micronesian, Polynesian"
+    },
+    "Religions": {
+      "text": "Roman Catholic 27%, Evangelical Lutheran 19.5%, United Church 11.5%, Seventh-Day Adventist 10%, Pentecostal 8.6%, Evangelical Alliance 5.2%, Anglican 3.2%, Baptist 2.5%, other Protestant 8.9%, Bahai 0.3%, indigenous beliefs and other 3.3% (2000 census)"
+    },
+    "Languages": {
+      "text": "Tok Pisin, English, and Hiri Motu are official languages; some 860 indigenous languages spoken (over one-tenth of the world's total)",
+      "note": "Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%"
+    },
+    "note": "Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%",
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "57.3%"
+      },
+      "male": {
+        "text": "63.4%"
+      },
+      "female": {
+        "text": "50.9% (2000 census)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "People - note": {
+      "text": "the indigenous population of Papua New Guinea is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Independent State of Papua New Guinea "
+      },
+      "conventional short form": {
+        "text": "Papua New Guinea"
+      },
+      "local short form": {
+        "text": "Papuaniugini"
+      },
+      "former": {
+        "text": "Territory of Papua and New Guinea"
+      },
+      "abbreviation": {
+        "text": "PNG"
+      }
+    },
+    "Government type": {
+      "text": "constitutional parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Port Moresby"
+      },
+      "geographic coordinates": {
+        "text": "9 30 S, 147 10 E"
+      },
+      "time difference": {
+        "text": "UTC+10 (15 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "20 provinces; Bougainville (autonomous region), Central, Chimbu, Eastern Highlands, East New Britain, East Sepik, Enga, Gulf, Madang, Manus, Milne Bay, Morobe, National Capital, New Ireland, Northern, Sandaun, Southern Highlands, Western, Western Highlands, West New Britain"
+    },
+    "Independence": {
+      "text": "16 September 1975 (from the Australian-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 16 September (1975)"
+    },
+    "Constitution": {
+      "text": "16 September 1975"
+    },
+    "Legal system": {
+      "text": "based on English common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by governor general Sir Paulius MATANE (since 29 June 2004)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sir Michael SOMARE (since 2 August 2002); Deputy Prime Minister Puka TEMU (since 29 August 2007)"
+      },
+      "cabinet": {
+        "text": "National Executive Council appointed by the governor general on the recommendation of the prime minister"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; the governor general is nominated by parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or leader of the majority coalition usually is appointed prime minister by the governor general acting in accordance with a decision of the parliament"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Parliament (109 seats, 89 filled from open electorates and 20 from provinces and national capital district; members elected by popular vote to serve five-year terms); constitution allows up to 126 seats",
+      "elections": {
+        "text": "last held from 30 June to 10 July 2007; next to be held in June 2012"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - National Alliance 27, PNGP 8, PAP 6, URP 6, PANGU 5, PDM 5, independents 19, others 33; note - election to 1 seat was nullified"
+      },
+      "note": "15 other parties won 4 or fewer seats; association with political parties is fluid"
+    },
+    "note": "15 other parties won 4 or fewer seats; association with political parties is fluid",
+    "Judicial branch": {
+      "text": "Supreme Court (the chief justice is appointed by the governor general on the proposal of the National Executive Council after consultation with the minister responsible for justice; other judges are appointed by the Judicial and Legal Services Commission)"
+    },
+    "Political parties and leaders": {
+      "text": "National Alliance Party or NA [Michael SOMARE]; Papua and Niugini Union Party or PANGU PATI [Andrew KUMBAKOR]; Papua New Guinea Party or PNGP [Sir Mekere MORAUTA]; People's Democratic Movement or PDM [Michael OGIO]; People's Action Party or PAP [Gabriel KAPRIS]; United Resources Party or URP [William DUMA] (2007)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Ahora [Andrew MAMOKO] (represents local tribes); Centre for Environment Law and Community Rights or Celcor [Damien ASE]; Community Coalition Against Corruption"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, APEC, ARF, ASEAN (observer), C, CP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Evan Jeremy PAKI"
+      },
+      "chancery": {
+        "text": "1779 Massachusetts Avenue NW, Suite 805, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 745-3680"
+      },
+      "FAX": {
+        "text": "[1] (202) 745-3679"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Teddy B. TAYLOR"
+      },
+      "embassy": {
+        "text": "Douglas Street, Port Moresby, N.C.D."
+      },
+      "mailing address": {
+        "text": "4240 Port Moresby PI, US Department of State, Washington DC 20521-4240"
+      },
+      "telephone": {
+        "text": "[675] 321-1455"
+      },
+      "FAX": {
+        "text": "[675] 321-3423"
+      }
+    },
+    "Flag description": {
+      "text": "divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Papua New Guinea is richly endowed with natural resources, but exploitation has been hampered by rugged terrain and the high cost of developing infrastructure. Agriculture provides a subsistence livelihood for 75% of the population. Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. The government of Prime Minister SOMARE has expended much of its energy remaining in power. He was the first prime minister ever to serve a full five-year term. The government also brought stability to the national budget, largely through expenditure control; however, it relaxed spending constraints in 2006 and 2007 as elections approached. Numerous challenges still face the government including regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and balancing relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including a worsening HIV/AIDS epidemic, currently the highest rate in all of East Asia and the Pacific, and chronic law and order and land tenure issues. Australia supplied more than $300 million in aid in FY07/08, which accounts for nearly 20% of the national budget. A consortium led by a major American oil company hopes to begin the commercialization of the country's estimated 227 billion cubic meters of natural gas reserves through the construction of a liquefied natural gas (LNG) production facility by 2010. The project has the potential to double the GDP of Papua New Guinea."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$11.65 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$8.092 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.3% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "33.3%"
+      },
+      "industry": {
+        "text": "36.3%"
+      },
+      "services": {
+        "text": "30.4% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "3.639 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "85%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1.9% (2004)"
+    },
+    "Population below poverty line": {
+      "text": "37% (2002 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.7%"
+      },
+      "highest 10%": {
+        "text": "40.5% (1996)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.9 (1996)"
+    },
+    "Investment (gross fixed)": {
+      "text": "19.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.62 billion"
+      },
+      "expenditures": {
+        "text": "$2.797 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "59.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "7.38% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.78% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.685 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$1.482 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.486 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$6.632 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "coffee, cocoa, copra, palm kernels, tea, sugar, rubber, sweet potatoes, fruit, vegetables, vanilla; shell fish, poultry, pork"
+    },
+    "Industries": {
+      "text": "copra crushing, palm oil processing, plywood production, wood chip production; mining of gold, silver, and copper; crude oil production, petroleum refining; construction, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "5.6% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "2.885 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "2.683 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "38,100 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "33,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "32,490 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "14,380 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "88 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "100 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "100 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "226.5 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$193.6 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$4.748 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "oil, gold, copper ore, logs, palm oil, coffee, cocoa, crayfish, prawns"
+    },
+    "Exports - partners": {
+      "text": "Australia 27.2%, Japan 9.2%, China 5.1% (2008)"
+    },
+    "Imports": {
+      "text": "$2.629 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods, food, fuels, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Australia 42.6%, Singapore 15.6%, China 11%, Japan 5.8%, Malaysia 4.3% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.087 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.646 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "kina (PGK) per US dollar - 2.6956 (2008 est.), 3.03 (2007), 3.0643 (2006), 3.08 (2005), 3.2225 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "60,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "600,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "services are minimal; facilities provide radiotelephone and telegraph, coastal radio, aeronautical radio, and international radio communication services"
+      },
+      "domestic": {
+        "text": "access to telephone services is not widely available; combined fixed-line and mobile-cellular teledensity is 11 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 675; submarine cables to Australia and Guam; satellite earth station - 1 Intelsat (Pacific Ocean); international radio communication service (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 8, FM 19, shortwave 28 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (all in the Port Moresby area; stations at Mt. Hagen, Goroka, Lae, and Rabaul are planned) (2004)"
+    },
+    "Internet country code": {
+      "text": ".pg"
+    },
+    "Internet hosts": {
+      "text": "3,432 (2009)"
+    },
+    "Internet users": {
+      "text": "120,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "560 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "21"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "14"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "539"
+      },
+      "1,524 to 2,437 m": {
+        "text": "9"
+      },
+      "914 to 1,523 m": {
+        "text": "63"
+      },
+      "under 914 m": {
+        "text": "467 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2009)"
+    },
+    "Pipelines": {
+      "text": "oil 195 km (2008)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "19,600 km"
+      },
+      "paved": {
+        "text": "686 km"
+      },
+      "unpaved": {
+        "text": "18,914 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "11,000 km (2006)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "21"
+      },
+      "by type": {
+        "text": "bulk carrier 2, cargo 17, petroleum tanker 2"
+      },
+      "foreign-owned": {
+        "text": "6 (UAE 6) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Kimbe, Lae, Madang, Rabaul, Wewak"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Papua New Guinea Defense Force (PNGDF; includes Maritime Operations Element, Air Operations Element) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "16 years of age for voluntary military service (with parental consent); no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,481,417"
+      },
+      "females age 16-49": {
+        "text": "1,385,040 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,110,175"
+      },
+      "females age 16-49": {
+        "text": "1,127,758 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "64,636"
+      },
+      "female": {
+        "text": "62,803 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "10,177 (Indonesia) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Papua New Guinea is a country of destination for women and children from Malaysia, the Philippines, Thailand, and China trafficked for the purpose of commercial sexual exploitation; internal trafficking of women and children for the purposes of sexual exploitation and involuntary domestic servitude occurs as well"
+      },
+      "tier rating": {
+        "text": "Tier 3 - Papua New Guinea does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the current legal framework does not contain elements of crimes that characterize trafficking; the government lacks victim protection services or a systematic procedure to identify victims of trafficking; the government did not prosecute anyone in 2007 for trafficking; Papua New Guinea has not ratified the 2000 UN TIP Protocol (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "major consumer of cannabis"
+    }
+  }
+}

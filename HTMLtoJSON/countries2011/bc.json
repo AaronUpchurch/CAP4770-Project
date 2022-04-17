@@ -1,0 +1,760 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Formerly the British protectorate of Bechuanaland, Botswana adopted its new name upon independence in 1966. Four decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most dynamic economies in Africa. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest known rates of HIV/AIDS infection, but also one of Africa's most progressive and comprehensive programs for dealing with the disease."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, north of South Africa"
+    },
+    "Geographic coordinates": {
+      "text": "22 00 S, 24 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "581,730 sq km"
+      },
+      "land": {
+        "text": "566,730 sq km"
+      },
+      "water": {
+        "text": "15,000 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,013 km"
+      },
+      "border countries": {
+        "text": "Namibia 1,360 km, South Africa 1,840 km, Zimbabwe 813 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "semiarid; warm winters and hot summers"
+    },
+    "Terrain": {
+      "text": "predominantly flat to gently rolling tableland; Kalahari Desert in southwest"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "junction of the Limpopo and Shashe Rivers 513 m"
+      },
+      "highest point": {
+        "text": "Tsodilo Hills 1,489 m"
+      }
+    },
+    "Natural resources": {
+      "text": "diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.65%"
+      },
+      "permanent crops": {
+        "text": "0.01%"
+      },
+      "other": {
+        "text": "99.34% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "20 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "14.7 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.19  cu km/yr (41%/18%/41%)"
+      },
+      "per capita": {
+        "text": "107  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "periodic droughts; seasonal August winds blow from the west, carrying sand and dust across the country, which can obscure visibility"
+    },
+    "Environment - current issues": {
+      "text": "overgrazing; desertification; limited freshwater resources"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; population concentrated in eastern part of the country"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Motswana (singular), Batswana (plural) "
+      },
+      "adjective": {
+        "text": "Motswana (singular), Batswana (plural)"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Tswana (or Setswana) 79%, Kalanga 11%, Basarwa 3%, other, including Kgalagadi and white 7%"
+    },
+    "Languages": {
+      "text": "Setswana 78.2%, Kalanga 7.9%, Sekgalagadi 2.8%, English (official) 2.1%, other 8.6%, unspecified 0.4% (2001 census)"
+    },
+    "Religions": {
+      "text": "Christian 71.6%, Badimo 6%, other 1.4%, unspecified 0.4%, none 20.6% (2001 census)"
+    },
+    "Population": {
+      "text": "2,065,398 (July 2011 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
+    },
+    "note": "there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2011 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "33.9% (male 356,346/female 343,452)"
+      },
+      "15-64 years": {
+        "text": "62.2% (male 649,931/female 634,998)"
+      },
+      "65 years and over": {
+        "text": "3.9% (male 32,542/female 48,129) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "22.3 years"
+      },
+      "male": {
+        "text": "22.2 years"
+      },
+      "female": {
+        "text": "22.4 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.656% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "22.31 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "10.57 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "4.82 migrant(s)/1,000 population",
+      "note": "there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "61% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "2.3% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "GABORONE (capital) 196,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.68 male(s)/female"
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "190 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "11.14 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "11.76 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "10.51 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "58.05 years"
+      },
+      "male": {
+        "text": "58.78 years"
+      },
+      "female": {
+        "text": "57.3 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.5 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "10.3% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.336 physicians/1,000 population (2006)"
+    },
+    "Hospital bed density": {
+      "text": "1.81 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "1% of population"
+      },
+      "rural": {
+        "text": "10% of population"
+      },
+      "total": {
+        "text": "5% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "26% of population"
+      },
+      "rural": {
+        "text": "61% of population"
+      },
+      "total": {
+        "text": "40% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "24.8% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "320,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "5,800 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria (2009)"
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "10.7% (2000)"
+    },
+    "Education expenditures": {
+      "text": "8.9% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "81.2%"
+      },
+      "male": {
+        "text": "80.4%"
+      },
+      "female": {
+        "text": "81.8% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "12 years (2007)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Botswana "
+      },
+      "conventional short form": {
+        "text": "Botswana"
+      },
+      "local long form": {
+        "text": "Republic of Botswana"
+      },
+      "local short form": {
+        "text": "Botswana"
+      },
+      "former": {
+        "text": "Bechuanaland"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Gaborone"
+      },
+      "geographic coordinates": {
+        "text": "24 45 S, 25 55 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 districts and 5 town councils*; Central, Francistown*, Gaborone*, Ghanzi, Jwaneng*, Kgalagadi, Kgatleng, Kweneng, Lobatse*, Northeast, Northwest, Selebi-Pikwe*, Southeast, Southern"
+    },
+    "Independence": {
+      "text": "30 September 1966 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (Botswana Day), 30 September (1966)"
+    },
+    "Constitution": {
+      "text": "March 1965; effective 30 September 1966"
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Seretse Khama Ian KHAMA (since 1 April 2008); Vice President Mompati MERAFHE (since 1 April 2008); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Seretse Khama Ian KHAMA (since 1 April 2008); Vice President Mompati MERAFHE (since 1 April 2008)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "president indirectly elected for a five-year term (eligible for a second term); election last held on 20 October 2009 (next to be held in October 2014); vice president appointed by the president"
+      },
+      "election results": {
+        "text": "Seretse Khama Ian KHAMA elected president; percent of National Assembly vote - NA"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of the House of Chiefs (a largely advisory 35-member body with 8 ex-officio members consisting of the chiefs of the principal tribes, and 27 non-permanent members serving 5-year terms, of which 22 are indirectly elected with the remaining 5 appointed by the President) and the National Assembly (63 seats; 57 members directly elected by popular vote, 4 appointed by the majority party, and 2, the President and Attorney General, serve as ex-officio members; members serve five-year terms)",
+      "elections": {
+        "text": "National Assembly elections last held on 16 October 2009 (next to be held in 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - BDP 53.3%, BNF 21.9%, BCP 19.2%, 2.3%, other 3.3%; seats by party - BDP 45, BNF 6, BCP 4, BAM 1, other 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "High Court; Court of Appeal; Magistrates' Courts (one in each district)"
+    },
+    "Political parties and leaders": {
+      "text": "Botswana Alliance Movement or BAM [Ephraim Lepetu SETSHWAELO]; Botswana Congress Party or BCP [Gilson SALESHANDO]; Botswana Democratic Party or BDP [Daniel KWELAGOBE]; Botswana Movement for Democracy or BMD [Gomolemo MOTSWALEDI]; Botswana National Front or BNF [Otswoletse MOUPO]; Botswana Peoples Party or BPP [Bernard BALIKANI]; MELS Movement of Botswana or MELS [Themba JOINA]; New Democratic Front or NDF [Dick BAYFORD]",
+      "note": "a number of minor parties joined forces in 1999 to form the BAM but did not capture any parliamentary seats - includes the United Action Party [Ephraim Lepetu SETSHWAELO]; the Independence Freedom Party or IFP [Motsamai MPHO]; the Botswana Progressive Union [D. K. KWELE]"
+    },
+    "note": "adopted 1966",
+    "Political pressure groups and leaders": {
+      "text": "First People of the Kalahari (Bushman organization); Pitso Ya Ba Tswana; Society for the Promotion of Ikalanga Language (Kalanga elites)",
+      "other": {
+        "text": "diamond mining companies"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Tabelelo Mazile SERETSE"
+      },
+      "chancery": {
+        "text": "1531-1533 New Hampshire Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 244-4990"
+      },
+      "FAX": {
+        "text": "[1] (202) 244-4164"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Michelle D. GAVIN"
+      },
+      "embassy": {
+        "text": "Embassy Enclave (off Khama Crescent), Gaborone"
+      },
+      "mailing address": {
+        "text": "Embassy Enclave, P. O. Box 90, Gaborone"
+      },
+      "telephone": {
+        "text": "[267] 395-3982"
+      },
+      "FAX": {
+        "text": "[267] 395-6947"
+      }
+    },
+    "Flag description": {
+      "text": "light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony"
+    },
+    "National symbol(s)": {
+      "text": "zebra"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Fatshe leno la rona\" (Our Land)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Kgalemang Tumedisco MOTSETE"
+      },
+      "note": "adopted 1966"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Botswana has maintained one of the world's highest economic growth rates since independence in 1966, though growth fell below 5% in 2007-08, and turned sharply negative in 2009, with industry falling nearly 30%. Through fiscal discipline and sound management, Botswana transformed itself from one of the poorest countries in the world to a middle-income country with a per capita GDP of $13,100 in 2010. Two major investment services rank Botswana as the best credit risk in Africa. Diamond mining has fueled much of the expansion and currently accounts for more than one-third of GDP, 70-80% of export earnings, and about half of the government's revenues. Botswana's heavy reliance on a single luxury export was a critical factor in the sharp economic contraction of 2009. Tourism, financial services, subsistence farming, and cattle raising are other key sectors. Although unemployment was 7.5% in 2007 according to official reports, unofficial estimates place it closer to 40%. The prevalence of HIV/AIDS is second highest in the world and threatens Botswana's impressive economic gains. An expected leveling off in diamond mining production within the next two decades overshadows long-term prospects."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$27.24 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$14.03 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$14,000 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.1%"
+      },
+      "industry": {
+        "text": "45.8%"
+      },
+      "services": {
+        "text": "52% (2009 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "1.225 million formal sector employees (2009 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.5% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30.3% (2003)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "63 (1993)"
+    },
+    "Investment (gross fixed)": {
+      "text": "25.8% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.656 billion"
+      },
+      "expenditures": {
+        "text": "$5.638 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "33.2% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-7% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "17.6% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.1% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "13.76% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.065 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$5.802 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$122.6 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.556 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "livestock, sorghum, maize, millet, beans, sunflowers, groundnuts"
+    },
+    "Industries": {
+      "text": "diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; livestock processing; textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "7.9% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "593 million kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "2.85 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "1.959 billion kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "15,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "15,590 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$543 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$3.435 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "diamonds, copper, nickel, soda ash, meat, textiles"
+    },
+    "Imports": {
+      "text": "$3.998 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery, electrical goods, transport equipment, textiles, fuel and petroleum products, wood and paper products, metal and metal products"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$8.704 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.617 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "5.8447 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "137,400 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.363 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Botswana is participating in regional development efforts; expanding fully digital system with fiber-optic cables linking the major population centers in the east as well as a system of open-wire lines, microwave radio relays links, and radiotelephone communication stations"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity has declined in recent years and now stands at roughly 7 telephones per 100 persons; mobile-cellular teledensity now exceeds 100 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean) (2010)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 TV stations - 1 state-owned and 1 privately-owned; privately-owned satellite TV subscription service is available; 2 state-owned national radio stations; 3 privately-owned radio stations broadcast locally (2007)"
+    },
+    "Internet country code": {
+      "text": ".bw"
+    },
+    "Internet hosts": {
+      "text": "2,739 (2010)"
+    },
+    "Internet users": {
+      "text": "120,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "78 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "9"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "69"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "52"
+      },
+      "under 914 m": {
+        "text": "13 (2010)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "888 km"
+      },
+      "narrow gauge": {
+        "text": "888 km 1.067-m gauge (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "25,798 km"
+      },
+      "paved": {
+        "text": "8,410 km"
+      },
+      "unpaved": {
+        "text": "17,388 km (2005)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Botswana Defense Force (BDF)": {
+        "text": "Ground Forces Command, Air Arm Command, Defense Logistics Command, Special Forces Group (2011)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 is the apparent age of voluntary military service; official minimum age is unknown (2001)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "557,647"
+      },
+      "females age 16-49": {
+        "text": "531,095 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "340,949"
+      },
+      "females age 16-49": {
+        "text": "302,332 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "23,649"
+      },
+      "female": {
+        "text": "23,063 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.3% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

@@ -1,0 +1,757 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 1895, military defeat forced China's Qing Dynasty to cede Taiwan to Japan. Taiwan came under Chinese Nationalist control after World War II. Following the Communist victory on the mainland in 1949, 2 million Nationalists fled to Taiwan and established a government using the 1947 constitution drawn up for all of China. Beginning in the 1950s, the ruling authorities gradually democratized and incorporated the local population within the governing structure. This process expanded rapidly in the 1980s. In 2000, Taiwan underwent its first peaceful transfer of power from the Nationalist to the Democratic Progressive Party. Throughout this period, the island prospered and became one of East Asia's economic \"Tigers.\" The dominant political issues continue to be the relationship between Taiwan and China - specifically the question of Taiwan's eventual status - as well as domestic political and economic reform."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Asia, islands bordering the East China Sea, Philippine Sea, South China Sea, and Taiwan Strait, north of the Philippines, off the southeastern coast of China"
+    },
+    "Geographic coordinates": {
+      "text": "23 30 N, 121 00 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "35,980 sq km"
+      },
+      "land": {
+        "text": "32,260 sq km "
+      },
+      "water": {
+        "text": "3,720 sq km "
+      },
+      "note": "includes the Pescadores, Matsu, and Quemoy islands "
+    },
+    "note": "includes the Pescadores, Matsu, and Quemoy islands ",
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland and Delaware combined"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,566.3 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "tropical; marine; rainy season during southwest monsoon (June to August); cloudiness is persistent and extensive all year"
+    },
+    "Terrain": {
+      "text": "eastern two-thirds mostly rugged mountains; flat to gently rolling plains in west"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "South China Sea 0 m"
+      },
+      "highest point": {
+        "text": "Yu Shan 3,952 m "
+      }
+    },
+    "Natural resources": {
+      "text": "small deposits of coal, natural gas, limestone, marble, and asbestos"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "24%"
+      },
+      "permanent crops": {
+        "text": "1% "
+      },
+      "other": {
+        "text": "75% (2001) "
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "67 cu km (2000)"
+    },
+    "Natural hazards": {
+      "text": "earthquakes; typhoons",
+      "volcanism": {
+        "text": "Kueishantao Island (elev. 401 m), east of Taiwan, is its only historically active volcano, although it has not erupted in centuries "
+      }
+    },
+    "Environment - current issues": {
+      "text": "air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "none of the selected agreements because of Taiwan's international status"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location adjacent to both the Taiwan Strait and the Luzon Strait"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Taiwan (singular and plural) "
+      },
+      "note": "example - he or she is from Taiwan; they are from Taiwan ",
+      "adjective": {
+        "text": "Taiwan (or Taiwanese) "
+      }
+    },
+    "note": "example - he or she is from Taiwan; they are from Taiwan ",
+    "Ethnic groups": {
+      "text": "Taiwanese (including Hakka) 84%, mainland Chinese 14%, indigenous 2%"
+    },
+    "Languages": {
+      "text": "Mandarin Chinese (official), Taiwanese (Min), Hakka dialects"
+    },
+    "Religions": {
+      "text": "mixture of Buddhist and Taoist 93%, Christian 4.5%, other 2.5%"
+    },
+    "Population": {
+      "text": "23,234,936 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "14.7% (male 1,771,850/ female 1,652,808)"
+      },
+      "15-64 years": {
+        "text": "74% (male 8,620,591/ female 8,564,624) "
+      },
+      "65 years and over": {
+        "text": "11.3% (male 1,235,020/ female 1,390,043) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "38.1 years"
+      },
+      "male": {
+        "text": "37.4 years "
+      },
+      "female": {
+        "text": "38.8 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "0.29% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "8.7 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "6.7 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.03 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.08 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.08 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "1.01 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.9 male(s)/female "
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2011 est.) "
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.6 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "4.2 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "78.48 years"
+      },
+      "male": {
+        "text": "75.66 years "
+      },
+      "female": {
+        "text": "81.53 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.1 children born/woman (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "96.1% "
+      },
+      "male": {
+        "text": "NA "
+      },
+      "female": {
+        "text": "NA (2003) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Taiwan "
+      },
+      "local long form": {
+        "text": "none "
+      },
+      "local short form": {
+        "text": "Taiwan "
+      },
+      "former": {
+        "text": "Formosa "
+      }
+    },
+    "Government type": {
+      "text": "multiparty democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Taipei"
+      },
+      "geographic coordinates": {
+        "text": "25 02 N, 121 31 E "
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 18 counties (hsien, singular and plural), 3 municipalities (shih, singular and plural), and 4 special municipalities (chih-hsia-shih, singular and plural)",
+      "note": "Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems; names for administrative divisions that follow are taken from the Taiwan Yearbook 2007 published by the Government Information Office in Taipei. ",
+      "counties": {
+        "text": "Changhua, Chiayi (county), Hsinchu (county), Hualien, Kaohsiung (county), Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taichung, Tainan (county), Taipei (county), Taitung (county), Taoyuan, Yilan, Yunlin "
+      },
+      "municipalities": {
+        "text": "Chiayi (city), Hsinchu (city), Keelung "
+      },
+      "special municipalities": {
+        "text": "Kaohsiung (city), Taichung (city), Tainan (city), Taipei (city) "
+      }
+    },
+    "note": "adopted 1930; the anthem is also the song of the Kuomintang Party; it is informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the \"National Banner Song\" has gained popularity in Taiwan and is commonly used during flag raisings ",
+    "National holiday": {
+      "text": "Republic Day (Anniversary of the Chinese Revolution), 10 October (1911)"
+    },
+    "Constitution": {
+      "text": "adopted 25 December 1946; promulgated 1 January 1947; effective 25 December 1947; amended many times"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "20 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President MA Ying-jeou (since 20 May 2008); Vice President WU Den-yih (since 20 May 2012)"
+      },
+      "head of government": {
+        "text": "Premier Sean C. CHEN (President of the Executive Yuan) (since 6 February 2012); Vice Premier JIANG Yi-huah (since 6 February 2012) "
+      },
+      "cabinet": {
+        "text": "Executive Yuan - ministers appointed by president on recommendation of premier "
+      },
+      "elections": {
+        "text": "president and vice president elected on the same ticket by popular vote for four-year terms (eligible for a second term); election last held on 14 January 2012 (next to be held in January 2016); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier "
+      },
+      "election results": {
+        "text": "MA Ying-jeou elected president; percent of vote - MA Ying-jeou 51.6%, TSAI Ing-wen 45.6%, James SONG Chu-ye 2.8% "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Legislative Yuan (113 seats - 73 district members elected by popular vote, 34 at-large members elected on basis of proportion of islandwide votes received by participating political parties, 6 elected by popular vote among aboriginal populations; members to serve four-year terms); parties must receive 5% of vote to qualify for at-large seats",
+      "elections": {
+        "text": "Legislative Yuan - last held on 14 January 2011 (next to be held in January 2016) "
+      },
+      "election results": {
+        "text": "Legislative Yuan - percent of vote by party - KMT 44.6%, DPP 34.6%, TSU 9.0%, PFP 5.5%, others 6.3%; seats by party - KMT 64, DPP 40, PFP 3, TSU 3, NPSU 2, independent 1 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Judicial Yuan (justices appointed by the president with consent of the Legislative Yuan)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Progressive Party or DPP [SU Tseng-chang]; Kuomintang or KMT (Nationalist Party) [MA Ying-jeou]; Non-Partisan Solidarity Union or NPSU [LIN Pin-kuan]; People First Party or PFP [James SOONG]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "environmental groups; independence movement; various business groups",
+      "note": "debate on Taiwan independence has become acceptable within the mainstream of domestic politics on Taiwan; public opinion polls consistently show a substantial majority of Taiwan people supports maintaining Taiwan's status quo for the foreseeable future; advocates of Taiwan independence oppose the stand that the island will eventually unify with mainland China; advocates of eventual unification predicate their goal on the democratic transformation of the mainland "
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, BCIE, ICC (national committees), IOC, ITUC (NGOs), WTO"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none; commercial and cultural relations with the people in the United States are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts",
+      "representative": {
+        "text": "KING Pu-tsung "
+      },
+      "office": {
+        "text": "4201 Wisconsin Avenue NW, Washington, DC 20016 "
+      },
+      "telephone": {
+        "text": "[1] 202 895-1800 "
+      },
+      "Taipei Economic and Cultural Offices (branch offices)": {
+        "text": "Atlanta, Boston, Chicago, Guam, Houston, Honolulu, Kansas City, Los Angeles, Miami, New York, San Francisco, Seattle "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "none; commercial and cultural relations with the people on Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts",
+      "director": {
+        "text": "Christopher J. MARUT "
+      },
+      "office": {
+        "text": "#7 Lane 134, Hsin Yi Road, Section 3, Taipei, Taiwan "
+      },
+      "telephone": {
+        "text": "[1] [886] (02) 2162-2000 "
+      },
+      "FAX": {
+        "text": "[1] [886] (07) 238-7744 "
+      },
+      "other offices": {
+        "text": "Kaohsiung "
+      }
+    },
+    "Flag description": {
+      "text": "red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy; red stands for fraternity, sacrifice, and nationalism, white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours)"
+    },
+    "National symbol(s)": {
+      "text": "white, 12-rayed sun on blue field"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Zhonghua Minguo guoge\" (National Anthem of the Republic of China)"
+      },
+      "lyrics/music": {
+        "text": "HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun "
+      },
+      "note": "adopted 1930; the anthem is also the song of the Kuomintang Party; it is informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); because of political pressure from China, \"Guo Qi Ge\" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the \"National Banner Song\" has gained popularity in Taiwan and is commonly used during flag raisings "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Taiwan has a dynamic capitalist economy with gradually decreasing government guidance of investment and foreign trade. Exports, led by electronics, machinery, and petrochemicals have provided the primary impetus for economic development. This heavy dependence on exports exposes the economy to fluctuations in world demand. In 2009, Taiwan's GDP contracted 1.9%, due primarily to a 20% year-on-year decline in exports. In 2010 GDP grew 10.9%, as exports returned to the level of previous years, and in 2011, grew 4%. However, 2012 growth fell to just 1.3%, because of softening global demand. Taiwan's diplomatic isolation, low birth rate, and rapidly aging population are major long-term challenges. Free trade agreements have proliferated in East Asia over the past several years, but so far Taiwan has been excluded from this greater economic integration - with the exception of the landmark Economic Cooperation Framework Agreement (ECFA) signed with China in June 2010 - in part because of its diplomatic status. Follow-on components of ECFA, including deals on trade in goods and services, have yet to be completed. The MA administration has said that the ECFA will serve as a stepping stone toward trade pacts with other key trade partners, and talks with Singapore on a deal began in 2010. Taiwan's Total Fertility rate of just over one child per woman is among the lowest in the world, raising the prospect of future labor shortages, falling domestic demand, and declining tax revenues. Taiwan's population is aging quickly, with the number of people over 65 accounting for 10.9% of the island's total population as of 2011. The island runs a large trade surplus largely because of its surplus with China, and its foreign reserves are the world's fourth largest, behind China, Japan, and Russia. In 2006 China overtook the US to become Taiwan's second-largest source of imports after Japan. China is also the island's number one destination for foreign direct investment. Three financial memorandums of understanding, covering banking, securities, and insurance, took effect in mid-January 2010, opening the island to greater investments from the mainland's financial firms and institutional investors, and providing new opportunities for Taiwan financial firms to operate in China. Closer economic links with the mainland bring greater opportunities for the Taiwan economy, but also poses new challenges as the island becomes more economically dependent on China while political differences remain unresolved."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$855.7 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "data are in 2012 US dollars ",
+    "GDP (official exchange rate)": {
+      "text": "$466.1 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "10.7% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$36,900 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1.8%"
+      },
+      "industry": {
+        "text": "29.6% "
+      },
+      "services": {
+        "text": "68.6% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "11.3 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "5.2%"
+      },
+      "industry": {
+        "text": "35.9% "
+      },
+      "services": {
+        "text": "58.8% (2010 est.) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.4% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "1.16% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "6.4%"
+      },
+      "highest 10%": {
+        "text": "40.3% (2010) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": " "
+    },
+    "Investment (gross fixed)": {
+      "text": "20.1% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$78.97 billion"
+      },
+      "expenditures": {
+        "text": "$92.44 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "16.9% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.9% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "34.7% of GDP (2011 est.) "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.4% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "1.25% (February 2009) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2.88% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$366.4 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$1.008 trillion (31 December 2011 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$698.3 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$354.7 billion (31 December 2008) "
+    },
+    "Agriculture - products": {
+      "text": "rice, vegetables, fruit, tea, flowers; pigs, poultry; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "5% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$41.6 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$307 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "electronics, flat panels, machinery; metals; textiles, plastics, chemicals; optical, photographic, measuring, and medical instruments"
+    },
+    "Exports - partners": {
+      "text": "China 28.1%, Hong Kong 13.8%, US 11.5%, Japan 6.6%, Singapore 4.4% (2010 est.)"
+    },
+    "Imports": {
+      "text": "$279.2 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "electronics, machinery, crude petroleum, precision instruments, organic chemicals, metals"
+    },
+    "Imports - partners": {
+      "text": "Japan 20.7%, China 14.2%, US 10%, South Korea 6.4%, Saudi Arabia 4.7% (2010 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$390.6 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$125.7 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$56.15 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$213.1 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "31.53 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "213.2 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "203.8 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "41 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "73.6% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "12.5% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "4.7% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "2.7% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "830 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "952,800 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.8 million bbl (1 January 2013 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "923,900 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "1.036 million bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "344,500 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "297,500 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "260 million cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "15.16 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "14.9 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "6.229 billion cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "305.4 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "16.907 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "28.865 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "provides telecommunications service for every business and private need"
+      },
+      "domestic": {
+        "text": "thoroughly modern; completely digitalized "
+      },
+      "international": {
+        "text": "country code - 886; roughly 15 submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, and the US; satellite earth stations - 2 "
+      }
+    },
+    "Broadcast media": {
+      "text": "5 nationwide television networks operating roughly 75 TV stations; about 85% of households utilize multi-channel cable TV; national and regional radio networks with about 170 radio stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".tw"
+    },
+    "Internet hosts": {
+      "text": "6.272 million (2012)"
+    },
+    "Internet users": {
+      "text": "16.147 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "40 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "37"
+      },
+      "over 3,047 m": {
+        "text": "8 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "7 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "11 "
+      },
+      "914 to 1,523 m": {
+        "text": "9 "
+      },
+      "under 914 m": {
+        "text": "2 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2 "
+      },
+      "under 914 m": {
+        "text": "1 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "32 (2012)"
+    },
+    "Pipelines": {
+      "text": "gas 412 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,580 km"
+      },
+      "standard gauge": {
+        "text": "345 km 1.435-m gauge (345 km electrified) "
+      },
+      "narrow gauge": {
+        "text": "1,085 km 1.067-m gauge (685 km electrified); 150 km 0.762-m gauge "
+      },
+      "note": "the 0.762 gauge track belongs to three entities, the Forestry Bureau, Taiwan Cement, and TaiPower (2009) "
+    },
+    "note": "the 0.762 gauge track belongs to three entities, the Forestry Bureau, Taiwan Cement, and TaiPower (2009) ",
+    "Roadways": {
+      "total": {
+        "text": "41,475 km"
+      },
+      "paved": {
+        "text": "41,033 km (includes 720 km of expressways) "
+      },
+      "unpaved": {
+        "text": "442 km (2009) "
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "112"
+      },
+      "by type": {
+        "text": "bulk carrier 35, cargo 20, chemical tanker 1, container 31, passenger/cargo 4, petroleum tanker 12, refrigerated cargo 7, roll on/roll off 2 "
+      },
+      "foreign-owned": {
+        "text": "3 (France 2, Vietnam 1) "
+      },
+      "registered in other countries": {
+        "text": "579 (Argentina 2, Cambodia 1, Honduras 1, Hong Kong 25, Indonesia 1, Italy 10, Kiribati 2, Liberia 94, Marshall Islands 8, Panama 328, Philippines 1, Sierra Leone 7, Singapore 77, South Korea 1, Thailand 1, UK 11, Vanuatu 1, unknown 8) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Chilung (Keelung), Kaohsiung, Hualian, Taichung"
+    },
+    "Shipyards and Ship Building": {
+      "Shipyards": {
+        "text": "6"
+      },
+      "Ships Built": {
+        "text": "18 (2009) "
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy (includes Marine Corps), Air Force, Coast Guard Administration, Armed Forces Reserve Command, Combined Service Forces Command, Armed Forces Police Command"
+    },
+    "Military service age and obligation": {
+      "text": "19-35 years of age for male compulsory military service; service obligation - 2 years; women may enlist; women in Air Force service are restricted to noncombat roles; reserve obligation to age 30 (Army); the Ministry of Defense is in the process of implementing a voluntary enlistment system over the period 2010-2015, although nonvolunteers will still be required to perform alternative service or go through 4 months of military training (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "6,183,567"
+      },
+      "females age 16-49": {
+        "text": "6,006,676 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "5,074,173"
+      },
+      "females age 16-49": {
+        "text": "4,951,088 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "166,190"
+      },
+      "female": {
+        "text": "155,306 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "2.2% of GDP; note - in 2009, the Taiwanese president pledged to maintain defense spending at 3.0% or higher; projected 2.73% for 2011 (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "involved in complex dispute with Brunei, China, Malaysia, the Philippines, and Vietnam over the Spratly Islands, and with China and the Philippines over Scarborough Reef; the 2002 \"Declaration on the Conduct of Parties in the South China Sea\" has eased tensions but falls short of a legally binding \"code of conduct\" desired by several of the disputants; Paracel Islands are occupied by China, but claimed by Taiwan and Vietnam; in 2003, China and Taiwan became more vocal in rejecting both Japan's claims to the uninhabited islands of the Senkaku-shoto (Diaoyu Tai) and Japan's unilaterally declared exclusive economic zone in the East China Sea where all parties engage in hydrocarbon prospecting"
+    },
+    "Illicit drugs": {
+      "text": "regional transit point for heroin, methamphetamine, and precursor chemicals; transshipment point for drugs to Japan; major problem with domestic consumption of methamphetamine and heroin; rising problems with use of ketamine and club drugs"
+    }
+  }
+}

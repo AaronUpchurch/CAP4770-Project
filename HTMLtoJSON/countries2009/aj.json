@@ -1,0 +1,746 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Azerbaijan - a nation with a majority-Turkic and majority-Muslim population - was briefly independent from 1918 to 1920; it regained its independence after the collapse of the Soviet Union in 1991. Despite a 1994 cease-fire, Azerbaijan has yet to resolve its conflict with Armenia over the Azerbaijani Nagorno-Karabakh region (largely Armenian populated). Azerbaijan has lost 16% of its territory and must support some 600,000 internally displaced persons as a result of the conflict. Corruption is ubiquitous, and the government has been accused of authoritarianism. Although the poverty rate has been reduced in recent years, the promise of widespread wealth from development of Azerbaijan's energy sector remains largely unfulfilled."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southwestern Asia, bordering the Caspian Sea, between Iran and Russia, with a small European portion north of the Caucasus range"
+    },
+    "Geographic coordinates": {
+      "text": "40 30 N, 47 30 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "86,600 sq km"
+      },
+      "land": {
+        "text": "82,629 sq km"
+      },
+      "water": {
+        "text": "3,971 sq km"
+      },
+      "note": "includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the region's autonomy was abolished by Azerbaijani Supreme Soviet on 26 November 1991"
+    },
+    "note": "includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the region's autonomy was abolished by Azerbaijani Supreme Soviet on 26 November 1991",
+    "Area - comparative": {
+      "text": "slightly smaller than Maine"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,013 km"
+      },
+      "border countries": {
+        "text": "Armenia (with Azerbaijan-proper) 566 km, Armenia (with Azerbaijan-Naxcivan exclave) 221 km, Georgia 322 km, Iran (with Azerbaijan-proper) 432 km, Iran (with Azerbaijan-Naxcivan exclave) 179 km, Russia 284 km, Turkey 9 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked); note - Azerbaijan borders the Caspian Sea (713 km)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "dry, semiarid steppe"
+    },
+    "Terrain": {
+      "text": "large, flat Kur-Araz Ovaligi (Kura-Araks Lowland) (much of it below sea level) with Great Caucasus Mountains to the north, Qarabag Yaylasi (Karabakh Upland) in west; Baku lies on Abseron Yasaqligi (Apsheron Peninsula) that juts into Caspian Sea"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caspian Sea -28 m"
+      },
+      "highest point": {
+        "text": "Bazarduzu Dagi 4,485 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, iron ore, nonferrous metals, bauxite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "20.62%"
+      },
+      "permanent crops": {
+        "text": "2.61%"
+      },
+      "other": {
+        "text": "76.77% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "14,550 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "30.3 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "17.25  cu km/yr (5%/28%/68%)"
+      },
+      "per capita": {
+        "text": "2,051  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "droughts"
+    },
+    "Environment - current issues": {
+      "text": "local scientists consider the Abseron Yasaqligi (Apsheron Peninsula) (including Baku and Sumqayit) and the Caspian Sea to be the ecologically most devastated area in the world because of severe air, soil, and water pollution; soil pollution results from oil spills, from the use of DDT pesticide, and from toxic defoliants used in the production of cotton"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "both the main area of the country and the Naxcivan exclave are landlocked"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "8,238,672 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "23.9% (male 1,042,132/female 926,495)"
+      },
+      "15-64 years": {
+        "text": "69.4% (male 2,807,717/female 2,908,221)"
+      },
+      "65 years and over": {
+        "text": "6.7% (male 204,410/female 349,697) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "28.2 years"
+      },
+      "male": {
+        "text": "26.6 years"
+      },
+      "female": {
+        "text": "30 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.762% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.62 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.3 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.69 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "52% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.13 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.12 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.58 male(s)/female"
+      },
+      "total population": {
+        "text": "0.97 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "54.6 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "60.2 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "48.27 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "66.66 years"
+      },
+      "male": {
+        "text": "62.53 years"
+      },
+      "female": {
+        "text": "71.34 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.04 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "7,800 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Azerbaijani(s)"
+      },
+      "adjective": {
+        "text": "Azerbaijani"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Azeri 90.6%, Dagestani 2.2%, Russian 1.8%, Armenian 1.5%, other 3.9% (1999 census)",
+      "note": "almost all Armenians live in the separatist Nagorno-Karabakh region"
+    },
+    "note": "religious affiliation is still nominal in Azerbaijan; percentages for actual practicing adherents are much lower",
+    "Religions": {
+      "text": "Muslim 93.4%, Russian Orthodox 2.5%, Armenian Orthodox 2.3%, other 1.8% (1995 est.)",
+      "note": "religious affiliation is still nominal in Azerbaijan; percentages for actual practicing adherents are much lower"
+    },
+    "Languages": {
+      "text": "Azerbaijani (Azeri) 90.3%, Lezgi 2.2%, Russian 1.8%, Armenian 1.5%, other 3.3%, unspecified 1% (1999 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "98.8%"
+      },
+      "male": {
+        "text": "99.5%"
+      },
+      "female": {
+        "text": "98.2% (1999 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "11 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.1% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Azerbaijan "
+      },
+      "conventional short form": {
+        "text": "Azerbaijan"
+      },
+      "local long form": {
+        "text": "Azarbaycan Respublikasi"
+      },
+      "local short form": {
+        "text": "Azarbaycan"
+      },
+      "former": {
+        "text": "Azerbaijan Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Baku (Baki, Baky)"
+      },
+      "geographic coordinates": {
+        "text": "40 23 N, 49 52 E"
+      },
+      "time difference": {
+        "text": "UTC+4 (9 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "59 rayons (rayonlar; rayon - singular), 11 cities (saharlar; sahar - singular), 1 autonomous republic (muxtar respublika)",
+      "rayons": {
+        "text": "Abseron Rayonu, Agcabadi Rayonu, Agdam Rayonu, Agdas Rayonu, Agstafa Rayonu, Agsu Rayonu, Astara Rayonu, Balakan Rayonu, Barda Rayonu, Beylaqan Rayonu, Bilasuvar Rayonu, Cabrayil Rayonu, Calilabad Rayonu, Daskasan Rayonu, Davaci Rayonu, Fuzuli Rayonu, Gadabay Rayonu, Goranboy Rayonu, Goycay Rayonu, Haciqabul Rayonu, Imisli Rayonu, Ismayilli Rayonu, Kalbacar Rayonu, Kurdamir Rayonu, Lacin Rayonu, Lankaran Rayonu, Lerik Rayonu, Masalli Rayonu, Neftcala Rayonu, Oguz Rayonu, Qabala Rayonu, Qax Rayonu, Qazax Rayonu, Qobustan Rayonu, Quba Rayonu, Qubadli Rayonu, Qusar Rayonu, Saatli Rayonu, Sabirabad Rayonu, Saki Rayonu, Salyan Rayonu, Samaxi Rayonu, Samkir Rayonu, Samux Rayonu, Siyazan Rayonu, Susa Rayonu, Tartar Rayonu, Tovuz Rayonu, Ucar Rayonu, Xacmaz Rayonu, Xanlar Rayonu, Xizi Rayonu, Xocali Rayonu, Xocavand Rayonu, Yardimli Rayonu, Yevlax Rayonu, Zangilan Rayonu, Zaqatala Rayonu, Zardab Rayonu"
+      },
+      "cities": {
+        "text": "Ali Bayramli Sahari, Baki Sahari, Ganca Sahari, Lankaran Sahari, Mingacevir Sahari, Naftalan Sahari, Saki Sahari, Sumqayit Sahari, Susa Sahari, Xankandi Sahari, Yevlax Sahari"
+      },
+      "autonomous republic": {
+        "text": "Naxcivan Muxtar Respublikasi (Nakhichevan)"
+      }
+    },
+    "Independence": {
+      "text": "30 August 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Founding of the Democratic Republic of Azerbaijan, 28 May (1918)"
+    },
+    "Constitution": {
+      "text": "adopted 12 November 1995; modified by referendum 24 August 2002"
+    },
+    "Legal system": {
+      "text": "based on civil law system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ilham ALIYEV (since 31 October 2003)"
+      },
+      "head of government": {
+        "text": "Prime Minister Artur RASIZADE (since 4 November 2003); First Deputy Prime Minister Yaqub EYYUBOV (since June 2006)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president and confirmed by the National Assembly"
+      },
+      "elections": {
+        "text": "president elected by popular vote to a five-year term (eligible for a second term); election last held 15 October 2008 (next to be held in October 2013); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly"
+      },
+      "election results": {
+        "text": "Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV 89%, Igbal AGHAZADE 2.9%, five other candidates with smaller percentages"
+      },
+      "note": "several political parties boycotted the election due to unfair conditions; OSCE observers concluded that the election did not meet international standards"
+    },
+    "note": "opposition parties regularly factionalize and form new parties;",
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Milli Mejlis (125 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 6 November 2005 (next to be held in November 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - Yeni 58, Azadliq coalition 8, CSP 2, Motherland 2, other parties with single seats 9, independents 42, undetermined 4"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court"
+    },
+    "Political parties and leaders": {
+      "text": "Azadliq (Freedom) coalition (Popular Front Party, Liberal Party, Citizens' Development Party); Azerbaijan Democratic Party or ADP [Sardar JALALOGLU]; Azerbaijan Democratic Reforms Party (ADRP) Youth Movement [Ramin HAJILI]; Azerbaijan Popular Front or APF, now split in two [Ali KARIMLI, leader of \"Reform\" APF party; Mirmahmud MIRALI-OGLU, leader of \"Classic\" APF party]; Azerbaijan Public Forum [Eldar NAMAZOV]; Citizens' Development Party [Ali ALIYEV]; Civil Solidarity Party or CSP [Sabir RUSTAMKHANLY]; Dalga Youth Movement [Vafa JAFAROVA]; Green Party [Mais GULALIYEV and Tarana MAMMADOVA]; Hope (Umid) Party [Iqbal AGAZADE]; Ireli Youth Movement [Jeyhun OSMANLI, Roya TALIBOVA, Farhad MAMMADOV, Elnara GARIBOVA, Elnur MAMMADOV, Ziya ALIYEV]; Justice Party [Ilyas ISMAILOV]; Liberal Party of Azerbaijan [Lala Shovkat HACIYEVA]; Magam Youth Movement [Emin HUSEYNOV]; Motherland Party [Fazail AGAMALI]; Musavat (Equality) [Isa GAMBAR, chairman]; Musavat Party Youth Movement [Elnur MAMMADLI]; National Democratic Party or Grey Wolves (Nationalist, Pan-Turkic) [Iskender HAMIDOV]; Open Society Party [Rasul GULIYEV, in exile in the US]; Party for National Independence of Azerbaijan or PNIA [Ayaz RUSTAMOV]; Popular Front Party Youth Movement [Seymur KHAZIYEV]; Social Democratic Party of Azerbaijan or SDP [Araz ALIZADE and Ayaz MUTALIBOV (in exile)]; Turkish Nationalist Party [Vugar BAYTURAN]; United Azerbaijan Party [Karrar ABILOV]; United Azerbaijan National Unity Party [Hajibaba AZIMOV]; United Party [Tahir KARIMLI]; Yeni (New) Azerbaijan Party [President Ilham ALIYEV]; Yeni Azerbaijan Party Youth Movement [Ramil HASANOV]; Yox (No) Youth Movement [Ali ISMAYILOV]",
+      "note": "opposition parties regularly factionalize and form new parties;"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Armenian Nagorno-Karabakh Republic (self-proclaimed); Karabakh Liberation Organization; Sadval, Lezgin movement; Talysh independence movement; Union of Pro-Azerbaijani Forces or UPAF"
+    },
+    "International organization participation": {
+      "text": "ADB, BSEC, CE, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM (observer), OAS (observer), OIC, OPCW, OSCE, PFP, SECI (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Yashar ALIYEV"
+      },
+      "chancery": {
+        "text": "2741 34th Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 337-3500"
+      },
+      "FAX": {
+        "text": "[1] (202) 337-5911"
+      },
+      "Consulate(s) general": {
+        "text": "Los Angeles"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Anne E. DERSE"
+      },
+      "embassy": {
+        "text": "83 Azadlig Prospecti, Baku AZ1007"
+      },
+      "mailing address": {
+        "text": "American Embassy Baku, US Department of State, 7050 Baku Place, Washington, DC 20521-7050"
+      },
+      "telephone": {
+        "text": "[994] (12) 4980-335 through 337"
+      },
+      "FAX": {
+        "text": "[994] (12) 4656-671"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of blue (top), red, and green; a crescent and eight-pointed star in white are centered in red band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "Azerbaijan's high economic growth during 2006-08 is attributable to large and growing oil exports, but the non-energy sector also featured double-digit growth in 2008, spurred by growth in the construction, banking, and real estate sectors. However, the current global economic slowdown presents some challenges for the Azerbaijani economy as oil prices have plummeted since mid-2008 and local banks face a more uncertain international financial environment. Azerbaijan's oil production declined through 1997, but has registered an increase every year since. Negotiation of production-sharing arrangements (PSAs) with foreign firms, which have committed $60 billion to long-term oilfield development, should generate the funds needed to spur future industrial development. Oil production under the first of these PSAs, with the Azerbaijan International Operating Company, began in November 1997. A consortium of Western oil companies built a $4 billion pipeline from Baku to Turkey's Mediterranean port of Ceyhan which will pump 1.2 million barrels a day from a large offshore field when at full capacity. Azerbaijan shares all the formidable problems of the former Soviet republics in making the transition from a command to a market economy, but its considerable energy resources brighten its medium-term prospects. Baku has only recently begun making progress on economic reform, and old economic ties and structures are slowly being replaced. Several other obstacles impede Azerbaijan's economic progress": {
+        "text": "the need for stepped up foreign investment in the non-energy sector, the continuing conflict with Armenia over the Nagorno-Karabakh region, pervasive corruption, and potential for a sharp downturn in the construction and real estate sectors. Trade with Russia and the other former Soviet republics is declining in importance, while trade is building with Turkey and the nations of Europe. Long-term prospects will depend on world oil prices, the location of new oil and gas pipelines in the region, and Azerbaijan's ability to manage its energy wealth to promote sustainable growth in non-energy sectors of the economy and spur employment."
+      }
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$56.17 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "on 1 January 2006 Azerbaijan revalued its currency, with 5,000 old manats equal to 1 new manat",
+    "GDP (official exchange rate)": {
+      "text": "$46.38 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "34.5% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,000 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "6%"
+      },
+      "industry": {
+        "text": "60.5%"
+      },
+      "services": {
+        "text": "33.5% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "5.782 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "39.3%"
+      },
+      "industry": {
+        "text": "12.1%"
+      },
+      "services": {
+        "text": "48.6% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "24% (2005 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "6.1%"
+      },
+      "highest 10%": {
+        "text": "17.5% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "36 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "21.2% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$12.69 billion"
+      },
+      "expenditures": {
+        "text": "$15.67 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "18.9% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "16.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "13% (31 December 2007)",
+      "note": "this is the Refinancing Rate, the key policy rate for the National Bank of Azerbaijan"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "19.13% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$4.261 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$2.593 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$5.726 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cotton, grain, rice, grapes, fruit, vegetables, tea, tobacco; cattle, pigs, sheep, goats"
+    },
+    "Industries": {
+      "text": "petroleum and natural gas, petroleum products, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "6% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "19.35 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "15.68 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "786 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "548 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "875,200 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "126,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "528,900 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "2,848 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "7 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "16.2 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "10.64 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "5.564 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "849.5 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$9.019 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$21.27 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "oil and gas 90%, machinery, cotton, foodstuffs"
+    },
+    "Exports - partners": {
+      "text": "Italy 40.2%, US 12.6%, Israel 7.6%, India 5.1%, France 4.9% (2008)"
+    },
+    "Imports": {
+      "text": "$6.045 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, oil products, foodstuffs, metals, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Russia 18.8%, Turkey 11.3%, Germany 8.4%, Ukraine 7.9%, China 6.7%, UK 5.4% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.273 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$2.439 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$7.829 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$4.677 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Azerbaijani manats (AZN) per US dollar - 0.8219 (2008 est.), 0.8581 (2007), 0.8934 (2006), 4,727.1 (2005), 4,913.48 (2004)",
+      "note": "on 1 January 2006 Azerbaijan revalued its currency, with 5,000 old manats equal to 1 new manat"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.311 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "6.548 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate; requires considerable expansion and modernization; teledensity of 15 main lines per 100 persons is low; mobile-cellular penetration has increased rapidly and is currently about 80 telephones per 100 persons"
+      },
+      "domestic": {
+        "text": "fixed-line telephony and a broad range of other telecom services are controlled by a state-owned telecommunications monopoly and growth has been stagnant; more competition exists in the mobile-cellular market with three providers in 2006; satellite service connects Baku to a modern switch in its exclave of Naxcivan"
+      },
+      "international": {
+        "text": "country code - 994; the Trans-Asia-Europe (TAE) fiber-optic link transits Azerbaijan providing international connectivity to neighboring countries; the old Soviet system of cable and microwave is still serviceable; satellite earth stations - 2 (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 10, FM 17, shortwave 1 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "2 (1997)"
+    },
+    "Internet country code": {
+      "text": ".az"
+    },
+    "Internet hosts": {
+      "text": "7,045 (2009)"
+    },
+    "Internet users": {
+      "text": "1.485 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "34 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "27"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "13"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "under 914 m": {
+        "text": "7 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "condensate 1 km; gas 3,361 km; oil 1,424 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,122 km"
+      },
+      "broad gauge": {
+        "text": "2,122 km 1.520-m gauge (1,278 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "59,141 km"
+      },
+      "paved": {
+        "text": "29,210 km"
+      },
+      "unpaved": {
+        "text": "29,931 km (2004)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "89"
+      },
+      "by type": {
+        "text": "cargo 26, passenger 2, passenger/cargo 9, petroleum tanker 46, roll on/roll off 3, specialized tanker 3"
+      },
+      "registered in other countries": {
+        "text": "3 (Malta 2, Panama 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Baku (Baki)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy, Air and Air Defense Forces (2008)"
+    },
+    "Military service age and obligation": {
+      "text": "men between 18 and 35 are liable for military service; 18 years of age for voluntary military service; length of military service is 18 months and 12 months for university graduates (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,278,888"
+      },
+      "females age 16-49": {
+        "text": "2,291,770 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,727,464"
+      },
+      "females age 16-49": {
+        "text": "1,944,260 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "90,416"
+      },
+      "female": {
+        "text": "85,344 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.6% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Armenia supports ethnic Armenian secessionists in Nagorno-Karabakh and since the early 1990s has militarily occupied 16% of Azerbaijan; over 800,000 mostly ethnic Azerbaijanis were driven from the occupied lands and Armenia; about 230,000 ethnic Armenians were driven from their homes in Azerbaijan into Armenia and Nagorno-Karabakh; Azerbaijan seeks transit route through Armenia to connect to Naxcivan exclave; Organization for Security and Cooperation in Europe (OSCE) continues to mediate dispute; Azerbaijan, Kazakhstan, and Russia have ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on an even one-fifth allocation and challenges Azerbaijan's hydrocarbon exploration in disputed waters; bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian; Azerbaijan and Georgia continue to discuss the alignment of their boundary at certain crossing areas\r\n"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "2,400 (Russia)"
+      },
+      "IDPs": {
+        "text": "580,000-690,000 (conflict with Armenia over Nagorno-Karabakh) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Azerbaijan is primarily a source and transit country for men, women, and children trafficked for the purposes of commercial sexual exploitation and forced labor; women and some children from Azerbaijan are trafficked to Turkey and the UAE for the purpose of sexual exploitation; men and boys are trafficked to Russia for the purpose of forced labor; Azerbaijan serves as a transit country for victims from Uzbekistan, Kyrgyzstan, Kazakhstan, and Moldova trafficked to Turkey and the UAE for sexual exploitation"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Azerbaijan is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat trafficking in persons, particularly efforts to investigate, prosecute, and punish traffickers; to address complicity among law enforcement personnel; and to adequately identify and protect victims in Azerbaijan; the government has yet to develop a much-needed mechanism to identify potential trafficking victims and refer them to safety and care; poor treatment of trafficking victims in courtrooms continues to be a problem (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "limited illicit cultivation of cannabis and opium poppy, mostly for CIS consumption; small government eradication program; transit point for Southwest Asian opiates bound for Russia and to a lesser extent the rest of Europe"
+    }
+  }
+}

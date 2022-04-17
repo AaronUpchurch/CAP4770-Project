@@ -1,0 +1,734 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Montevideo, founded by the Spanish in 1726 as a military stronghold, soon took advantage of its natural harbor to become an important commercial center. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence four years later and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century established widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros, launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was not restored until 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and Blanco parties. Uruguay's political and labor conditions are among the freest on the continent."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern South America, bordering the South Atlantic Ocean, between Argentina and Brazil"
+    },
+    "Geographic coordinates": {
+      "text": "33 00 S, 56 00 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "176,215 sq km"
+      },
+      "land": {
+        "text": "175,015 sq km"
+      },
+      "water": {
+        "text": "1,200 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than the state of Washington"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,648 km"
+      },
+      "border countries": {
+        "text": "Argentina 580 km, Brazil 1,068 km"
+      }
+    },
+    "Coastline": {
+      "text": "660 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or edge of continental margin"
+      }
+    },
+    "Climate": {
+      "text": "warm temperate; freezing temperatures almost unknown"
+    },
+    "Terrain": {
+      "text": "mostly rolling plains and low hills; fertile coastal lowland"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Cerro Catedral 514 m"
+      }
+    },
+    "Natural resources": {
+      "text": "arable land, hydropower, minor minerals, fisheries"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "7.77%"
+      },
+      "permanent crops": {
+        "text": "0.24%"
+      },
+      "other": {
+        "text": "91.99% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "2,100 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "139 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "3.15  cu km/yr (2%/1%/96%)"
+      },
+      "per capita": {
+        "text": "910  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods; because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts"
+    },
+    "Environment - current issues": {
+      "text": "water pollution from meat packing/tannery industry; inadequate solid/hazardous waste disposal"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Dumping, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "3,494,382 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "22.4% (male 397,942/female 385,253)"
+      },
+      "15-64 years": {
+        "text": "64.3% (male 1,115,963/female 1,129,478)"
+      },
+      "65 years and over": {
+        "text": "13.3% (male 187,176/female 278,570) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "33.4 years"
+      },
+      "male": {
+        "text": "32 years"
+      },
+      "female": {
+        "text": "34.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.466% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "13.91 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.09 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.16 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "92% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.67 male(s)/female"
+      },
+      "total population": {
+        "text": "0.95 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "11.32 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "12.73 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "9.87 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "76.35 years"
+      },
+      "male": {
+        "text": "73.1 years"
+      },
+      "female": {
+        "text": "79.72 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.92 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.6% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "10,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Uruguayan(s)"
+      },
+      "adjective": {
+        "text": "Uruguayan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "white 88%, mestizo 8%, black 4%, Amerindian (practically nonexistent)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 47.1%, non-Catholic Christians 11.1%, nondenominational 23.2%, Jewish 0.3%, atheist or agnostic 17.2%, other 1.1% (2006)"
+    },
+    "Languages": {
+      "text": "Spanish, Portunol, or Brazilero (Portuguese-Spanish mix on the Brazilian frontier)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "98%"
+      },
+      "male": {
+        "text": "97.6%"
+      },
+      "female": {
+        "text": "98.4% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "16 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.9% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Oriental Republic of Uruguay "
+      },
+      "conventional short form": {
+        "text": "Uruguay"
+      },
+      "local long form": {
+        "text": "Republica Oriental del Uruguay"
+      },
+      "local short form": {
+        "text": "Uruguay"
+      },
+      "former": {
+        "text": "Banda Oriental, Cisplatine Province"
+      }
+    },
+    "Government type": {
+      "text": "constitutional republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Montevideo"
+      },
+      "geographic coordinates": {
+        "text": "34 53 S, 56 11 W"
+      },
+      "time difference": {
+        "text": "UTC-3 (2 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins second Sunday in October; ends second Sunday in March"
+      }
+    },
+    "Administrative divisions": {
+      "text": "19 departments (departamentos, singular - departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San Jose, Soriano, Tacuarembo, Treinta y Tres"
+    },
+    "Independence": {
+      "text": "25 August 1825 (from Brazil)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 August (1825)"
+    },
+    "Constitution": {
+      "text": "27 November 1966; effective 15 February 1967; suspended 27 June 1973; revised 26 November 1989 and 7 January 1997"
+    },
+    "Legal system": {
+      "text": "based on Spanish civil law system; accepts compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Tabare VAZQUEZ Rosas (since 1 March 2005); Vice President Rodolfo NIN NOVOA (since 1 March 2005); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Tabare VAZQUEZ Rosas (since 1 March 2005); Vice President Rodolfo NIN NOVOA (since 1 March 2005)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president with parliamentary approval"
+      },
+      "elections": {
+        "text": "president and vice president elected on the same ticket by popular vote for five-year terms (may not serve consecutive terms); election last held 25 October 2009, with a runoff election scheduled for 29 November 2009 (next to be held in October 2014)"
+      },
+      "election results": {
+        "text": "Jose MUJICA wins first round; percent of vote - Jose MUJICA 48.5%, Luis Alberto LACALLE 29.2%, Pedro BORDABERRY 17%; other 5.3%; note - a runoff election will be held on 29 November 2009"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral General Assembly or Asamblea General consists of Chamber of Senators or Camara de Senadores (30 seats; members are elected by popular vote to serve five-year terms; vice president has one vote in the Senate) and Chamber of Representatives or Camara de Representantes (99 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "Chamber of Senators - last held 25 October 2009 (next to be held in October 2014); Chamber of Representatives - last held 25 October 2009 (next to be held in October 2014)"
+      },
+      "election results": {
+        "text": "Chamber of Senators - percent of vote by party - NA; seats by party - Frente Amplio 16, Blanco 9, Colorado Party 5; Chamber of Representatives - percent of vote by party - NA; seats by party - Frente Amplio 50, Blanco 30, Colorado Party 17, Independent Party 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are nominated by the president and elected for 10-year terms by the General Assembly)"
+    },
+    "Political parties and leaders": {
+      "text": "Broad Front (Frente Amplio) - formerly known as the Progressive Encounter/Broad Front Coalition or EP-FA [Jorge BROVETTO] (a broad governing coalition that includes Movement of the Popular Participation or MPP [Jose MUJICA], New Space Party (Nuevo Espacio) [Rafael MICHELINI], Progressive Alliance (Alianza Progresista) [Rodolfo NIN NOVOA], Socialist Party [Eduardo FERNANDEZ], the Communist Party [Marina ARISMENDI], Uruguayan Assembly (Asamblea Uruguay) [Danilo ASTORI], and Vertiente Artiguista [Mariano ARANA]); Colorado Party (Foro Batllista) [Julio Maria SANGUINETTI]; National Party or Blanco [Luis Alberto LACALLE and Jorge LARRANAGA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Architect's Society of Uruguay (professional organization); Chamber of Uruguayan Industries (manufacturer's association); Chemist and Pharmaceutical Association (professional organization); PIT/CNT (powerful federation of Uruguayan Unions - umbrella labor organization); Rural Association of Uruguay (rancher's association); Uruguayan Construction League; Uruguayan Network of Political Women",
+      "other": {
+        "text": "Catholic Church; students"
+      }
+    },
+    "International organization participation": {
+      "text": "CAN (associate), FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUC, NAM (observer), OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNMIS, UNMOGIP, UNOCI, UNOMIG, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Carlos Alberto GIANELLI Derois"
+      },
+      "chancery": {
+        "text": "1913 I Street NW, Washington, DC 20006"
+      },
+      "telephone": {
+        "text": "[1] (202) 331-1313 through 1316"
+      },
+      "FAX": {
+        "text": "[1] (202) 331-8142"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, Miami, New York"
+      },
+      "consulate(s)": {
+        "text": "San Juan (Puerto Rico)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Robin H. MATTHEWMAN"
+      },
+      "embassy": {
+        "text": "Lauro Muller 1776, Montevideo 11200"
+      },
+      "mailing address": {
+        "text": "APO AA 34035"
+      },
+      "telephone": {
+        "text": "[598] (2) 418-7777"
+      },
+      "FAX": {
+        "text": "[598] (2) 418-8611"
+      }
+    },
+    "Flag description": {
+      "text": "nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face known as the Sun of May with 16 rays that alternate between triangular and wavy"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Uruguay's economy is characterized by an export-oriented agricultural sector, a well-educated work force, and high levels of social spending. After averaging growth of 5% annually during 1996-98, in 1999-2002 the economy suffered a major downturn, stemming largely from the spillover effects of the economic problems of its large neighbors, Argentina and Brazil. In 2001-02, Argentine citizens made massive withdrawals of dollars deposited in Uruguayan banks after bank deposits in Argentina were frozen, which led to a plunge in the Uruguayan peso, a banking crisis, and a sharp economic contraction. Real GDP fell in four years by nearly 20%, with 2002 the worst year. The unemployment rate rose, inflation surged, and the burden of external debt doubled. Financial assistance from the IMF helped stem the damage. Uruguay restructured its external debt in 2003 without asking creditors to accept a reduction on the principal. Economic growth for Uruguay resumed, and averaged 8% annually during the period 2004-08."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$36.99 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$32.19 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "9.5%"
+      },
+      "industry": {
+        "text": "23.4%"
+      },
+      "services": {
+        "text": "67.1% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "1.641 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "9%"
+      },
+      "industry": {
+        "text": "15%"
+      },
+      "services": {
+        "text": "76% (2007 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.2% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "27.4% of households (2006)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.7%"
+      },
+      "highest 10%": {
+        "text": "34.8% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "44.8 (1999)"
+    },
+    "Investment (gross fixed)": {
+      "text": "18.7% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.16 billion"
+      },
+      "expenditures": {
+        "text": "$8.555 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "64.8% of GDP (2007 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.1% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.25% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$2.145 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$7.919 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$6.396 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$125.1 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "rice, wheat, soybeans, barley; livestock, beef; fish; forestry"
+    },
+    "Industries": {
+      "text": "food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "9.265 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "7.14 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "996 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "789 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "946.1 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "41,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "7,100 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "52,730 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "70 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "70 million cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$82.7 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$5.043 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "meat, rice, leather products, wool, fish, dairy products"
+    },
+    "Exports - partners": {
+      "text": "Brazil 18.7%, China 8.5%, Argentina 7.3%, Germany 6.5%, Mexico 4.9%, Netherlands 4.5%, Russia 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$5.598 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "crude petroleum and petroleum products, machinery, chemicals, road vehicles, paper, plastics"
+    },
+    "Imports - partners": {
+      "text": "Argentina 19.9%, Brazil 16.5%, China 11.2%, US 9.9%, Paraguay 6.6%, Nigeria 4.6% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.121 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$11.07 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$4.19 billion (2007)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$156 million (2007)"
+    },
+    "Exchange rates": {
+      "text": "Uruguayan pesos (UYU) per US dollar - 20.936 (2008 est.), 23.947 (2007), 24.048 (2006), 24.479 (2005), 28.704 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "959,300 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.508 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fully digitalized"
+      },
+      "domestic": {
+        "text": "most modern facilities concentrated in Montevideo; new nationwide microwave radio relay network; overall fixed-line and mobile-cellular teledensity is 130 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 598; the UNISOR submarine cable system provides direct connectivity to Brazil and Argentina; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2002)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 93, FM 191, shortwave 7 (2005)"
+    },
+    "Television broadcast stations": {
+      "text": "62 (2005)"
+    },
+    "Internet country code": {
+      "text": ".uy"
+    },
+    "Internet hosts": {
+      "text": "498,232 (2009)"
+    },
+    "Internet users": {
+      "text": "1.34 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "57 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "9"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "48"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "20"
+      },
+      "under 914 m": {
+        "text": "25 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 226 km; oil 155 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,641 km"
+      },
+      "standard gauge": {
+        "text": "1,641 km 1.435-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "77,732 km"
+      },
+      "paved": {
+        "text": "7,743 km"
+      },
+      "unpaved": {
+        "text": "69,989 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "1,600 km (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "17"
+      },
+      "by type": {
+        "text": "cargo 3, chemical tanker 2, passenger/cargo 9, petroleum tanker 2, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "10 (Argentina 3, Greece 1, Spain 6)"
+      },
+      "registered in other countries": {
+        "text": "3 (Liberia 3) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Montevideo"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Uruguayan Armed Forces": {
+        "text": "Army (Ejercito), National Navy (Armada Nacional; includes naval air arm, Marine Corps (Cuerpo de Fusileros Navales, FUSNA), Maritime Prefecture in wartime), Air Force (Fuerza Aerea Uruguaya, FAU) (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary and compulsory military service; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "837,252"
+      },
+      "females age 16-49": {
+        "text": "824,096 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "708,545"
+      },
+      "females age 16-49": {
+        "text": "693,622 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "27,452"
+      },
+      "female": {
+        "text": "26,479 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.6% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in Jan 2007, ICJ provisionally ruled Uruguay may begin construction of two paper mills on the Uruguay River, which forms the border with Argentina, while the court examines further whether Argentina has the legal right to stop such construction with potential environmental implications to both countries; uncontested dispute with Brazil over certain islands in the Quarai/Cuareim and Invernada streams and the resulting tripoint with Argentina"
+    },
+    "Illicit drugs": {
+      "text": "small-scale transit country for drugs mainly bound for Europe, often through sea-borne containers; law enforcement corruption; money laundering because of strict banking secrecy laws; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs"
+    }
+  }
+}

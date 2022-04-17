@@ -1,0 +1,731 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the Gulf of Fonseca (North Pacific Ocean), between El Salvador and Nicaragua"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 N, 86 30 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "112,090 sq km"
+      },
+      "land": {
+        "text": "111,890 sq km"
+      },
+      "water": {
+        "text": "200 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Tennessee"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,520 km"
+      },
+      "border countries": {
+        "text": "Guatemala 256 km, El Salvador 342 km, Nicaragua 922 km"
+      }
+    },
+    "Coastline": {
+      "text": "820 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "natural extension of territory or to 200 nm"
+      }
+    },
+    "Climate": {
+      "text": "subtropical in lowlands, temperate in mountains"
+    },
+    "Terrain": {
+      "text": "mostly mountains in interior, narrow coastal plains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Cerro Las Minas 2,870 m"
+      }
+    },
+    "Natural resources": {
+      "text": "timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "9.53%"
+      },
+      "permanent crops": {
+        "text": "3.21%"
+      },
+      "other": {
+        "text": "87.26% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "800 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "95.9 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.86  cu km/yr (8%/12%/80%)"
+      },
+      "per capita": {
+        "text": "119  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "frequent, but generally mild, earthquakes; extremely susceptible to damaging hurricanes and floods along the Caribbean coast"
+    },
+    "Environment - current issues": {
+      "text": "urban population expanding; deforestation results from logging and the clearing of land for agricultural purposes; further land degradation and soil erosion hastened by uncontrolled development and improper land use practices such as farming of marginal lands; mining activities polluting Lago de Yojoa (the country's largest source of fresh water), as well as several rivers and streams, with heavy metals"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "has only a short Pacific coast but a long Caribbean shoreline, including the virtually uninhabited eastern Mosquito Coast"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "7,792,854",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "38.1% (male 1,514,544/female 1,451,862)"
+      },
+      "15-64 years": {
+        "text": "58.3% (male 2,278,508/female 2,267,527)"
+      },
+      "65 years and over": {
+        "text": "3.6% (male 125,991/female 154,422) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "20.3 years"
+      },
+      "male": {
+        "text": "20 years"
+      },
+      "female": {
+        "text": "20.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.956% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "26.27 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.41 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.3 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "48% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.82 male(s)/female"
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "24.03 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "26.97 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "20.94 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "69.4 years"
+      },
+      "male": {
+        "text": "67.86 years"
+      },
+      "female": {
+        "text": "71.02 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.27 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.7% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "28,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "1,900 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Honduran(s)"
+      },
+      "adjective": {
+        "text": "Honduran"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mestizo (mixed Amerindian and European) 90%, Amerindian 7%, black 2%, white 1%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 97%, Protestant 3%"
+    },
+    "Languages": {
+      "text": "Spanish, Amerindian dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "80%"
+      },
+      "male": {
+        "text": "79.8%"
+      },
+      "female": {
+        "text": "80.2% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "12 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.8% of GDP (1991)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Honduras "
+      },
+      "conventional short form": {
+        "text": "Honduras"
+      },
+      "local long form": {
+        "text": "Republica de Honduras"
+      },
+      "local short form": {
+        "text": "Honduras"
+      }
+    },
+    "Government type": {
+      "text": "democratic constitutional republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Tegucigalpa"
+      },
+      "geographic coordinates": {
+        "text": "14 06 N, 87 13 W"
+      },
+      "time difference": {
+        "text": "UTC-6 (1 hour behind Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 departments (departamentos, singular - departamento); Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro"
+    },
+    "Independence": {
+      "text": "15 September 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 15 September (1821)"
+    },
+    "Constitution": {
+      "text": "11 January 1982, effective 20 January 1982; amended many times"
+    },
+    "Legal system": {
+      "text": "rooted in Roman and Spanish civil law with increasing influence of English common law; recent judicial reforms include abandoning Napoleonic legal codes in favor of the oral adversarial system; accepts ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jose Manuel ZELAYA Rosales (since 27 January 2006); Vice President Commissioner Aristides MEJIA Carranza (since 1 February 2009); note - the president is both the chief of state and head of government; because the president and vice president are elected on the same ticket, the position of \"vice president commissioner\" was created after Vice President Elvin SANTOS resigned in late 2008 to run for president in the November 2009 election"
+      },
+      "head of government": {
+        "text": "President Jose Manuel ZELAYA Rosales (since 27 January 2006); Vice President Commissioner Aristides MEJIA Carranza (since 1 February 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a four-year term; election last held 27 November 2005 (next to be held in November 2009)"
+      },
+      "election results": {
+        "text": "Jose Manuel ZELAYA Rosales elected president - 49.8%, Porfirio \"Pepe\" LOBO Sosa 46.1%, other 4.1%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Congress or Congreso Nacional (128 seats; members are elected proportionally by department to serve four-year terms)",
+      "elections": {
+        "text": "last held 27 November 2005 (next to be held in November 2009)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - PL 62, PN 55, PUD 5, PDC 4, PINU 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Justice or Corte Suprema de Justicia (15 judges are elected for seven-year terms by the National Congress)"
+    },
+    "Political parties and leaders": {
+      "text": "Christian Democratic Party or PDC [Felicito AVILA]; Democratic Unification Party or PUD [Cesar HAM]; Liberal Party or PL [Patricia RODAS]; National Innovation and Unity Party or PINU [Jorge AQUILAR Paredes]; National Party of Honduras or PN [Porfirio LOBO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Committee for the Defense of Human Rights in Honduras or CODEH; Confederation of Honduran Workers or CTH; Coordinating Committee of Popular Organizations or CCOP; General Workers Confederation or CGT; Honduran Council of Private Enterprise or COHEP; National Association of Honduran Campesinos or ANACH; National Union of Campesinos or UNC; Popular Bloc or BP; United Confederation of Honduran Workers or CUTH"
+    },
+    "International organization participation": {
+      "text": "BCIE, CACM, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, MINURSO, NAM, OAS, OPANAL, OPCW, PCA, RG, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Eduardo Enrique REINA Garcia"
+      },
+      "chancery": {
+        "text": "Suite 4-M, 3007 Tilden Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 966-2604"
+      },
+      "FAX": {
+        "text": "[1] (202) 966-9751"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, Phoenix, San Francisco"
+      },
+      "honorary consulate(s)": {
+        "text": "Jacksonville"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Hugo LLORENS"
+      },
+      "embassy": {
+        "text": "Avenida La Paz, Apartado Postal No. 3453, Tegucigalpa"
+      },
+      "mailing address": {
+        "text": "American Embassy, APO AA 34022, Tegucigalpa"
+      },
+      "telephone": {
+        "text": "[504] 236-9320, 238-5114"
+      },
+      "FAX": {
+        "text": "[504] 238-4357"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of blue (top), white, and blue, with five blue, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America - Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the word REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Honduras, the second poorest country in Central America, has an extraordinarily unequal distribution of income and high unemployment. The economy relies heavily on a narrow range of exports, notably bananas and coffee, making it vulnerable to natural disasters and shifts in commodity prices; however, investments in the maquila and non-traditional export sectors are slowly diversifying the economy. Economic growth remains dependent on the US economy its largest trading partner, and will decline in 2009 as a result of reduction in export demand and tightening global credit markets. Remittances represent over a quarter of GDP or nearly three-quarters of exports. The US-Central America Free Trade Agreement (CAFTA) came into force in 2006 and has helped foster investment. Despite improvements in tax collections, the government's fiscal deficit is growing due to increases in current expenditures and financial losses from the state energy and telephone companies."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$30.57 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "high level of underemployment with up to a third of the labor force seeking more work.",
+    "GDP (official exchange rate)": {
+      "text": "$14 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "13.1%"
+      },
+      "industry": {
+        "text": "30%"
+      },
+      "services": {
+        "text": "56.9% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.991 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "39.2%"
+      },
+      "industry": {
+        "text": "20.9%"
+      },
+      "services": {
+        "text": "39.8% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.5% (2008 est.)",
+      "note": "high level of underemployment with up to a third of the labor force seeking more work."
+    },
+    "Population below poverty line": {
+      "text": "50.7% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "0.7%"
+      },
+      "highest 10%": {
+        "text": "42.2% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "56.3 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "33.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.754 billion"
+      },
+      "expenditures": {
+        "text": "$3.09 billion; including capital expenditures of $106 million (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "74.1% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16.61% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.6 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$5.239 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$6.298 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "bananas, coffee, citrus; beef; timber; shrimp, tilapia, lobster; corn, African palm"
+    },
+    "Industries": {
+      "text": "sugar, coffee, textiles, clothing, wood products"
+    },
+    "Industrial production growth rate": {
+      "text": "4.4% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "6.05 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.696 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "11.8 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "52,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "46,130 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.274 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$5.642 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coffee, shrimp, bananas, gold, palm oil, fruit, lobster, lumber"
+    },
+    "Exports - partners": {
+      "text": "US 62.1%, Guatemala 5.2%, El Salvador 5%, Mexico 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$8.82 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, industrial raw materials, chemical products, fuels, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "US 50%, Guatemala 7.6%, El Salvador 5.3%, Mexico 4.7%, Costa Rica 4.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.546 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.411 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "lempiras (HNL) per US dollar - 18.983 (2008 est.), 18.9 (2007), 18.895 (2006), 18.92 (2005), 18.206 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "825,800 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "6.211 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the number of fixed-line connections are increasing but still limited; competition among multiple providers of mobile-cellular services is contributing to a sharp increase in the number of subscribers"
+      },
+      "domestic": {
+        "text": "beginning in 2003, private sub-operators allowed to provide fixed-lines in order to expand telephone coverage contributing to an increase in fixed-line teledensity to roughly 10 per 100 persons; mobile-cellular subscribership exceeded 80 per 100 persons in 2008"
+      },
+      "international": {
+        "text": "country code - 504; landing point for both the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 fiber optic submarine cable system that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 241, FM 53, shortwave 12 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "11 (plus 17 repeaters) (1997)"
+    },
+    "Internet country code": {
+      "text": ".hn"
+    },
+    "Internet hosts": {
+      "text": "15,691 (2009)"
+    },
+    "Internet users": {
+      "text": "658,500 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "106 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "12"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "94"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "15"
+      },
+      "under 914 m": {
+        "text": "77 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "699 km"
+      },
+      "narrow gauge": {
+        "text": "279 km 1.067-m gauge; 420 km 0.914-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "13,600 km"
+      },
+      "paved": {
+        "text": "2,775 km"
+      },
+      "unpaved": {
+        "text": "10,825 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "465 km (most navigable only by small craft) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "123"
+      },
+      "by type": {
+        "text": "bulk carrier 10, cargo 57, chemical tanker 6, container 1, liquefied gas 1, passenger 4, passenger/cargo 7, petroleum tanker 25, refrigerated cargo 7, roll on/roll off 4, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "42 (Bangladesh 1, Canada 1, China 3, Egypt 3, Greece 4, Hong Kong 1, Israel 1, Japan 4, South Korea 6, Lebanon 1, Mexico 1, Singapore 12, Taiwan 2, Tanzania 1, Vietnam 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "La Ceiba, Puerto Cortes, San Lorenzo, Tela"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy (includes Naval Infantry), Honduran Air Force (Fuerza Aerea Hondurena, FAH) (2008)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary 2 to 3-year military service (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,868,940"
+      },
+      "females age 16-49": {
+        "text": "1,825,770 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,397,938"
+      },
+      "females age 16-49": {
+        "text": "1,402,398 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "92,638"
+      },
+      "female": {
+        "text": "88,993 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.6% of GDP (2006 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "International Court of Justice (ICJ) ruled on the delimitation of \"bolsones\" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States (OAS) survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca; Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum; memorials and countermemorials were filed by the parties in Nicaragua's 1999 and 2001 proceedings against Honduras and Colombia at the ICJ over the maritime boundary and territorial claims in the western Caribbean Sea - final public hearings are scheduled for 2007"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for drugs and narcotics; illicit producer of cannabis, cultivated on small plots and used principally for local consumption; corruption is a major problem; some money-laundering activity"
+    }
+  }
+}

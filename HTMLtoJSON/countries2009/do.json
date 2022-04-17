@@ -1,0 +1,625 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Dominica was the last of the Caribbean islands to be colonized by Europeans due chiefly to the fierce resistance of the native Caribs. France ceded possession to Great Britain in 1763, which made the island a colony in 1805. In 1980, two years after independence, Dominica's fortunes improved when a corrupt and tyrannical administration was replaced by that of Mary Eugenia CHARLES, the first female prime minister in the Caribbean, who remained in office for 15 years. Some 3,000 Carib Indians still living on Dominica are the only pre-Columbian population remaining in the eastern Caribbean."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, about half way between Puerto Rico and Trinidad and Tobago"
+    },
+    "Geographic coordinates": {
+      "text": "15 25 N, 61 20 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "751 sq km"
+      },
+      "land": {
+        "text": "751 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than four times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "148 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; moderated by northeast trade winds; heavy rainfall"
+    },
+    "Terrain": {
+      "text": "rugged mountains of volcanic origin"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Morne Diablatins 1,447 m"
+      }
+    },
+    "Natural resources": {
+      "text": "timber, hydropower, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "6.67%"
+      },
+      "permanent crops": {
+        "text": "21.33%"
+      },
+      "other": {
+        "text": "72% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "NA"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.02  cu km/yr"
+      },
+      "per capita": {
+        "text": "213  cu m/yr (1996)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flash floods are a constant threat; destructive hurricanes can be expected during the late summer months"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "known as \"The Nature Island of the Caribbean\" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest, thermally active lake in the world"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "72,660 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "24% (male 8,910/female 8,518)"
+      },
+      "15-64 years": {
+        "text": "65.8% (male 24,532/female 23,301)"
+      },
+      "65 years and over": {
+        "text": "10.2% (male 3,187/female 4,212) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "29.8 years"
+      },
+      "male": {
+        "text": "29.4 years"
+      },
+      "female": {
+        "text": "30.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.208% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "15.73 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.2 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-5.45 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "74% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.76 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "13.65 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "18.34 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "8.73 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.55 years"
+      },
+      "male": {
+        "text": "72.61 years"
+      },
+      "female": {
+        "text": "78.64 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.09 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Dominican(s)"
+      },
+      "adjective": {
+        "text": "Dominican"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 86.8%, mixed 8.9%, Carib Amerindian 2.9%, white 0.8%, other 0.7% (2001 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 61.4%, Seventh Day Adventist 6%, Pentecostal 5.6%, Baptist 4.1%, Methodist 3.7%, Church of God 1.2%, Jehovah's Witnesses 1.2%, other Christian 7.7%, Rastafarian 1.3%, other or unspecified 1.6%, none 6.1% (2001 census)"
+    },
+    "Languages": {
+      "text": "English (official), French patois"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has ever attended school"
+      },
+      "total population": {
+        "text": "94%"
+      },
+      "male": {
+        "text": "94%"
+      },
+      "female": {
+        "text": "94% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "14 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5% of GDP (1999)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Commonwealth of Dominica "
+      },
+      "conventional short form": {
+        "text": "Dominica"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Roseau"
+      },
+      "geographic coordinates": {
+        "text": "15 18 N, 61 24 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 parishes; Saint Andrew, Saint David, Saint George, Saint John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint Peter"
+    },
+    "Independence": {
+      "text": "3 November 1978 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 3 November (1978)"
+    },
+    "Constitution": {
+      "text": "3 November 1978"
+    },
+    "Legal system": {
+      "text": "based on English common law; accepts ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Nicholas J. O. LIVERPOOL (since October 2003)"
+      },
+      "head of government": {
+        "text": "Prime Minister Roosevelt SKERRIT (since 8 January 2004)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president on the advice of the prime minister"
+      },
+      "elections": {
+        "text": "president elected by the House of Assembly for a five-year term; election last held 1 October 2003 (next to be held in 2013); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Nicholas LIVERPOOL consented to a second term in 2008 at the request of the prime minister and leader of the opposition"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral House of Assembly (30 seats; 9 members appointed, 21 elected by popular vote; to serve five-year terms)",
+      "elections": {
+        "text": "last held 5 May 2005 (next to be held by 5 August 2010); note - tradition dictates that the election will be held within five years of the last election, but technically it is five years from the first seating of parliament (12 May 2005) plus a 90-day grace period"
+      },
+      "election results": {
+        "text": "percent of vote by party - DLP 52.1%, UWP 43.6%, DFP 3.2%, other 1.1%; seats by party - DLP 12, UWP 8, independent 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Eastern Caribbean Supreme Court, consisting of the Court of Appeal and the High Court (located in Saint Lucia; one of the six judges must reside in Dominica and preside over the Court of Summary Jurisdiction)"
+    },
+    "Political parties and leaders": {
+      "text": "Dominica Freedom Party or DFP [Charles SAVARIN]; Dominica Labor Party or DLP [Roosevelt SKERRIT]; Dominica United Workers Party or UWP [Earl WILLIAMS]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Dominica Liberation Movement or DLM (a small leftist party)"
+    },
+    "International organization participation": {
+      "text": "ACCT, ACP, C, Caricom, CDB, FAO, G-77, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (subscriber), ITU, ITUC, MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Judith Ann ROLLE"
+      },
+      "chancery": {
+        "text": "3216 New Mexico Avenue NW, Washington, DC 20016"
+      },
+      "telephone": {
+        "text": "[1] (202) 364-6781"
+      },
+      "FAX": {
+        "text": "[1] (202) 364-6791"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica"
+    },
+    "Flag description": {
+      "text": "green, with a centered cross of three equal bands - the vertical part is yellow (hoist side), black, and white and the horizontal part is yellow (top), black, and white; superimposed in the center of the cross is a red disk bearing a sisserou parrot encircled by 10 green, five-pointed stars edged in yellow; the 10 stars represent the 10 administrative divisions (parishes)"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Dominican economy depends on agriculture, primarily bananas, and remains highly vulnerable to climatic conditions and international economic developments. Tourism has increased as the government seeks to promote Dominica as an \"ecotourism\" destination and has developed a new tourism development plan with assistance from the EU. Hurricane Dean struck the island in August 2007 causing damages equivalent to 20% of GDP. In 2003, the government began a comprehensive restructuring of the economy - including elimination of price controls, privatization of the state banana company, and tax increases - to address Dominica's economic and financial crisis of 2001-02 and to meet IMF targets. This restructuring paved the way for the current economic recovery - real growth for 2006 reached a two-decade high - and will help to reduce the debt burden, which remains at about 100% of GDP. In order to diversify the island's production base, the government is attempting to develop an offshore financial sector and has signed an agreement with the EU to develop geothermal energy resources."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$691.4 million (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$364 million (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$9,600 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "17.7%"
+      },
+      "industry": {
+        "text": "32.8%"
+      },
+      "services": {
+        "text": "49.5% (2004 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "25,000 (2000 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "40%"
+      },
+      "industry": {
+        "text": "32%"
+      },
+      "services": {
+        "text": "28% (2000 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "23% (2000 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30% (2002 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$73.9 million"
+      },
+      "expenditures": {
+        "text": "$84.4 million (2001)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.17% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$73.71 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$269.1 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$193.1 million (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, citrus, mangoes, root crops, coconuts, cocoa; forest and fishery potential not exploited"
+    },
+    "Industries": {
+      "text": "soap, coconut oil, tourism, copra, furniture, cement blocks, shoes"
+    },
+    "Industrial production growth rate": {
+      "text": "NA"
+    },
+    "Electricity - production": {
+      "text": "85 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "79.05 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "1,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "838.2 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$72 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$94 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "bananas, soap, bay oil, vegetables, grapefruit, oranges"
+    },
+    "Exports - partners": {
+      "text": "Japan 33.5%, China 17.8%, Antigua and Barbuda 6.7%, Guyana 5.7%, Jamaica 4.7%, UK 4.7% (2008)"
+    },
+    "Imports": {
+      "text": "$296 million (2006)"
+    },
+    "Imports - commodities": {
+      "text": "manufactured goods, machinery and equipment, food, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Japan 43.2%, US 17%, China 12.1%, Trinidad and Tobago 8.4% (2008)"
+    },
+    "Debt - external": {
+      "text": "$213 million (2004)"
+    },
+    "Exchange rates": {
+      "text": "East Caribbean dollars (XCD) per US dollar - 2.7 (2007), 2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "17,500 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "100,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "NA"
+      },
+      "domestic": {
+        "text": "fully automatic network"
+      },
+      "international": {
+        "text": "country code - 1-767; landing point for the East Caribbean Fiber Optic System (ECFS) submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 4, shortwave 0 (2003)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (2004)"
+    },
+    "Internet country code": {
+      "text": ".dm"
+    },
+    "Internet hosts": {
+      "text": "485 (2009)"
+    },
+    "Internet users": {
+      "text": "27,500 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "2 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "780 km"
+      },
+      "paved": {
+        "text": "393 km"
+      },
+      "unpaved": {
+        "text": "387 km (2000)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "53"
+      },
+      "by type": {
+        "text": "bulk carrier 14, cargo 27, chemical tanker 3, petroleum tanker 5, refrigerated cargo 2, roll on/roll off 1, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "47 (Australia 2, Estonia 7, Greece 10, India 2, Latvia 1, Norway 1, Russia 3, Saudi Arabia 2, Singapore 7, Syria 2, Turkey 5, Ukraine 4, UAE 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Portsmouth, Roseau"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "18,584 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "15,821"
+      },
+      "females age 16-49": {
+        "text": "15,291 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "776"
+      },
+      "female": {
+        "text": "731 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Dominica is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island and joins the other island nations in challenging whether the feature sustains human habitation, a criterion under the UN Convention on the Law of the Sea (UNCLOS), which permits Venezuela to extend its Exclusive Economic Zone (EEZ) and continental shelf claims over a large portion of the eastern Caribbean Sea"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for narcotics bound for the US and Europe; minor cannabis producer (2008)"
+    }
+  }
+}

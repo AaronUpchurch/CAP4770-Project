@@ -1,0 +1,717 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than any of the other former Soviet republics. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place. Since his election in July 1994 as the country's first president, Aleksandr LUKASHENKO has steadily consolidated his power through authoritarian means. Government restrictions on freedom of speech and the press, peaceful assembly, and religion remain in place."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Europe, east of Poland"
+    },
+    "Geographic coordinates": {
+      "text": "53 00 N, 28 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "207,600 sq km"
+      },
+      "land": {
+        "text": "202,900 sq km"
+      },
+      "water": {
+        "text": "4,700 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Kansas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,306 km"
+      },
+      "border countries": {
+        "text": "Latvia 171 km, Lithuania 680 km, Poland 605 km, Russia 959 km, Ukraine 891 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "cold winters, cool and moist summers; transitional between continental and maritime"
+    },
+    "Terrain": {
+      "text": "generally flat and contains much marshland"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Nyoman River 90 m"
+      },
+      "highest point": {
+        "text": "Dzyarzhynskaya Hara 346 m"
+      }
+    },
+    "Natural resources": {
+      "text": "forests, peat deposits, small quantities of oil and natural gas, granite, dolomitic limestone, marl, chalk, sand, gravel, clay"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "26.77%"
+      },
+      "permanent crops": {
+        "text": "0.6%"
+      },
+      "other": {
+        "text": "72.63% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,310 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "58 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.79  cu km/yr (23%/47%/30%)"
+      },
+      "per capita": {
+        "text": "286  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "soil pollution from pesticide use; southern part of the country contaminated with fallout from 1986 nuclear reactor accident at Chornobyl' in northern Ukraine"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 85, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; glacial scouring accounts for the flatness of Belarusian terrain and for its 11,000 lakes"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "9,648,533 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "14.3% (male 707,550/female 667,560)"
+      },
+      "15-64 years": {
+        "text": "71.3% (male 3,337,253/female 3,540,916)"
+      },
+      "65 years and over": {
+        "text": "14.5% (male 446,746/female 948,508) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "38.6 years"
+      },
+      "male": {
+        "text": "35.6 years"
+      },
+      "female": {
+        "text": "41.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.378% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "9.71 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "13.86 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.38 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "73% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.94 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.47 male(s)/female"
+      },
+      "total population": {
+        "text": "0.87 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "6.43 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "7.45 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "5.36 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "70.63 years"
+      },
+      "male": {
+        "text": "64.95 years"
+      },
+      "female": {
+        "text": "76.67 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.24 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "13,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "1,100 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Belarusian(s)"
+      },
+      "adjective": {
+        "text": "Belarusian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Belarusian 81.2%, Russian 11.4%, Polish 3.9%, Ukrainian 2.4%, other 1.1% (1999 census)"
+    },
+    "Religions": {
+      "text": "Eastern Orthodox 80%, other (including Roman Catholic, Protestant, Jewish, and Muslim) 20% (1997 est.)"
+    },
+    "Languages": {
+      "text": "Belarusian, Russian, other"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.6%"
+      },
+      "male": {
+        "text": "99.8%"
+      },
+      "female": {
+        "text": "99.4% (1999 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "15 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "6.1% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Belarus "
+      },
+      "conventional short form": {
+        "text": "Belarus"
+      },
+      "local long form": {
+        "text": "Respublika Byelarus'"
+      },
+      "local short form": {
+        "text": "Byelarus'"
+      },
+      "former": {
+        "text": "Belorussian (Byelorussian) Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic in name, although in fact a dictatorship"
+    },
+    "Capital": {
+      "name": {
+        "text": "Minsk"
+      },
+      "geographic coordinates": {
+        "text": "53 54 N, 27 34 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 provinces (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel', Horad Minsk*, Hrodna, Mahilyow, Minsk, Vitsyebsk",
+      "note": "administrative divisions have the same names as their administrative centers"
+    },
+    "note": "administrative divisions have the same names as their administrative centers",
+    "Independence": {
+      "text": "25 August 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union"
+    },
+    "Constitution": {
+      "text": "15 March 1994; revised by national referendum of 24 November 1996 giving the presidency greatly expanded powers and became effective 27 November 1996; revised again 17 October 2004 removing presidential term limits"
+    },
+    "Legal system": {
+      "text": "based on civil law system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Aleksandr LUKASHENKO (since 20 July 1994)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sergey SIDORSKIY (since 19 December 2003); First Deputy Prime Minister Vladimir SEMASHKO (since December 2003)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term; first election took place 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999, however, Aleksandr LUKASHENKO extended his term to 2001 via a November 1996 referendum; subsequent election held 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the president to run in a third election, which was held on 19 March 2006; prime minister and deputy prime ministers appointed by the president"
+      },
+      "election results": {
+        "text": "Aleksandr LUKASHENKO reelected president; percent of vote - Aleksandr LUKASHENKO 82.6%, Aleksandr MILINKEVICH 6%, Aleksandr KOZULIN 2.3%; note - election marred by electoral fraud"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral National Assembly or Natsionalnoye Sobranie consists of the Council of the Republic or Soviet Respubliki (64 seats; 56 members elected by regional councils and eight members appointed by the president, to serve four-year terms) and the Chamber of Representatives or Palata Predstaviteley (110 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "Palata Predstaviteley - last held 28 September and 3 October 2008 (next to be held fall of 2012); international observers determined that despite minor improvements the election ultimately fell short of democratic standards; pro-LUKASHENKO candidates won every seat"
+      },
+      "election results": {
+        "text": "Soviet Respubliki - percent of vote by party - NA; seats by party - NA; Palata Predstaviteley - percent of vote by party - NA; seats by party - NA"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed by the president); Constitutional Court (half of the judges appointed by the president and half appointed by the Chamber of Representatives)"
+    },
+    "Political parties and leaders": {
+      "pro-government parties": {
+        "text": "Agrarian Party or AP [Mikhail SHIMANSKY]; Communist Party of Belarus or KPB; Belarusian Patriotic Movement (Belarusian Patriotic Party) or BPR [Nikolay ULAKHOVICH, chairman]; Liberal Democratic Party [Sergey GAYDUKEVICH]; Republican Party of Labor and Justice [Viktor SOKOLOV]; Social-Sports Party [Vladimir ALEXANDROVICH]"
+      },
+      "opposition parties": {
+        "text": "Belarusian Christian Democracy Party (unregistered) [Pavel SEVERINETS]; Belarusian Party of Communists or PKB [Sergey KALYAKIN]; Belarusian Party of Labor (unregistered) [Aleksandr BUKHVOSTOV, Leonid LEMESHONAK]; Belarusian Popular Front or BPF [Levon BARSHCHEVSKIY]; Belarusian Social-Democratic Gramada [Stanislav SHUSHKEVICH]; Belarusian Social Democratic Party Hramada (People's Assembly) or BSDPH [Anatoliy LEVKOVICH]; European Coalition [Nikolay STATKEVICH]; Green Party [Oleg GROMYKO]; Party of Freedom and Progress (unregistered) [Vladimir NOVOSYAD]; United Civic Party or UCP [Anatoliy LEBEDKO]; Women's Party Hope (Nadezhda) [Valentina MATUSEVICH, chairperson]"
+      },
+      "other opposition includes": {
+        "text": "Christian Conservative BPF [Zyanon PAZNIAK]; Ecological Party of Greens [Mikhail KARTASH]; Party of Popular Accord [Sergey YERMAKK]; Republican Party [Vladimir BELAZOR]"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Assembly of Pro-Democratic NGOs [Sergey MATSKEVICH]; Belarusian Congress of Democratic Trade Unions [Aleksandr YAROSHUK]; Belarusian Helsinki Committee [Tatiana PROTKO]; Belarusian Organization of Working Women [Irina ZHIKHAR]; BPF-Youth [Franak VYACHORKA]; Charter 97 [Andrey SANNIKOV]; For Freedom [Aleksandr MILINKEVICH]; Lenin Communist Union of Youth (youth wing of the Belarusian Party of Communists or PKB); National Strike Committee of Entrepreneurs [Aleksandr VASILYEV, Valery LEVONEVSKY]; Partnership NGO [Nikolay ASTREYKA]; Perspektiva kiosk watchdog NGO [Anatol SHUMCHENKO]; Vyasna [Ales BYALATSKY]; Women's Independent Democratic Movement [Ludmila PETINA]; Young Belarus (Malady Belarus) [Artur FINKEVICH]; Youth Front (Malady Front) [Dmitriy DASHKEVICH]; Zubr youth group [Vladimir KOBETS]"
+    },
+    "International organization participation": {
+      "text": "BSEC (observer), CEI, CIS, CSTO, EAEC, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC, MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge D'Affaires Oleg KRAVCHENKO"
+      },
+      "chancery": {
+        "text": "1619 New Hampshire Avenue NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 986-1604"
+      },
+      "FAX": {
+        "text": "[1] (202) 986-1805"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Jonathan MOORE"
+      },
+      "embassy": {
+        "text": "46 Starovilenskaya Street, Minsk 220002"
+      },
+      "mailing address": {
+        "text": "PSC 78, Box B Minsk, APO 09723"
+      },
+      "telephone": {
+        "text": "[375] (17) 210-12-83, 217-7347 through 7348"
+      },
+      "FAX": {
+        "text": "[375] (17) 234-7853"
+      }
+    },
+    "Flag description": {
+      "text": "red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Belarus has seen little structural reform since 1995, when President LUKASHENKO launched the country on the path of \"market socialism.\" In keeping with this policy, LUKASHENKO reimposed administrative controls over prices and currency exchange rates and expanded the state's right to intervene in the management of private enterprises. Since 2005, the government has re-nationalized a number of private companies. In addition, businesses have been subject to pressure by central and local governments, e.g., arbitrary changes in regulations, numerous rigorous inspections, retroactive application of new business regulations, and arrests of \"disruptive\" businessmen and factory owners. A wide range of redistributive policies has helped those at the bottom of the ladder; the Gini coefficient is among the lowest in the world. Because of these restrictive economic policies, Belarus has had trouble attracting foreign investment. Nevertheless, government statistics indicate GDP growth has been strong in recent years, reaching 10% in 2008, despite the roadblocks of a tough, centrally directed economy with a high rate of inflation. Belarus receives discounted oil and natural gas from Russia and much of Belarus' growth can be attributed to the re-export of Russian oil at market prices. Trade with Russia - by far its largest single trade partner - decreased in 2007-08, largely as a result of a change in the way the Value Added Tax (VAT) on trade was collected. Russia has introduced an export duty on oil shipped to Belarus, which will increase gradually through 2009, and a requirement that Belarusian duties on re-exported Russian oil be shared with Russia - 80% was slated to go to Russia in 2008, and 85% in 2009. Russia also increased Belarusian natural gas prices from $47 per thousand cubic meters (tcm)in 2006 to $100 per tcm in 2007, and to $128 per tcm in 2008, and plans to increase prices gradually to world levels by 2011. Russia's recent policy of bringing energy prices for Belarus to world market levels may result in a slowdown in economic growth in Belarus over the next few years. Some policy measures, including improving energy efficiency and diversifying exports, have been introduced, but external borrowing has been the main mechanism used to manage the growing pressures on the economy. Belarus felt the effects of the global financial crisis in late 2008 and reached agreement with Russia in November for a $2 billion stabilization loan and with the IMF for a $2.5 billion stand-by agreement in January 2009. In line with IMF conditionality, Belarus devalued the ruble approximately 20% in January 2009 and has tightened some fiscal and monetary policies. Belarus's economic growth is likely to slow in 2009 as it faces decreasing demand for its exports, and will find it difficult to increase external borrowing if the credit markets continue to tighten."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$96.06 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "officially registered unemployed; large number of underemployed workers",
+    "GDP (official exchange rate)": {
+      "text": "$60.3 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "9.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$9,800 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "8.5%"
+      },
+      "industry": {
+        "text": "41.2%"
+      },
+      "services": {
+        "text": "50.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.869 million (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "14%"
+      },
+      "industry": {
+        "text": "34.7%"
+      },
+      "services": {
+        "text": "51.3% (2003 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1.6% (2005)",
+      "note": "officially registered unemployed; large number of underemployed workers"
+    },
+    "Population below poverty line": {
+      "text": "27.1% (2003 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.6%"
+      },
+      "highest 10%": {
+        "text": "22% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "21.7 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "31.9% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$25.15 billion"
+      },
+      "expenditures": {
+        "text": "$25.97 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.58% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$4.065 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$6.823 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$12.16 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "grain, potatoes, vegetables, sugar beets, flax; beef, milk"
+    },
+    "Industries": {
+      "text": "metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, televisions, synthetic fibers, fertilizer, textiles, radios, refrigerators"
+    },
+    "Industrial production growth rate": {
+      "text": "12% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "29.92 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "30.54 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "5.062 billion kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "9.406 billion kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "32,950 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "184,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "303,900 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "444,800 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "198 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "152 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "21.75 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "21.6 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "2.832 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$3.042 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$24.33 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, mineral products, chemicals, metals, textiles, foodstuffs"
+    },
+    "Exports - partners": {
+      "text": "Russia 32.2%, Netherlands 16.9%, Ukraine 8.5%, Latvia 6.6%, Poland 5.5%, UK 4.4% (2008)"
+    },
+    "Imports": {
+      "text": "$28.4 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "mineral products, machinery and equipment, chemicals, foodstuffs, metals"
+    },
+    "Imports - partners": {
+      "text": "Russia 59.8%, Germany 7.1%, Ukraine 5.4% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.952 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$12.49 billion (31 December 2007)"
+    },
+    "Exchange rates": {
+      "text": "Belarusian rubles (BYB/BYR) per US dollar - 2,130 (2008 est.), 2,145 (2007), 2,144.6 (2006), 2,150 (2005), 2,160.26 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.718 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "8.693 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Belarus lags behind its neighbors in upgrading telecommunications infrastructure; state-owned Beltelcom is the sole provider of fixed-line local and long distance service; fixed-line teledensity of roughly 35 per 100 persons; mobile-cellular telephone density of about 90 per 100 persons; modernization of the network progressing with roughly two-thirds of switching equipment now digital"
+      },
+      "domestic": {
+        "text": "fixed-line penetration is improving although rural areas continue to be underserved; 3 GSM wireless networks are experiencing rapid growth; strict government controls on telecommunications technologies"
+      },
+      "international": {
+        "text": "country code - 375; Belarus is a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 28, FM 37, shortwave 11 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "47 (plus 27 repeaters) (1995)"
+    },
+    "Internet country code": {
+      "text": ".by"
+    },
+    "Internet hosts": {
+      "text": "113,115 (2009)"
+    },
+    "Internet users": {
+      "text": "3.107 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "65 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "35"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "22"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "7 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "30"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "25 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 5,250 km; oil 1,528 km; refined products 1,730 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "5,538 km"
+      },
+      "broad gauge": {
+        "text": "5,512 km 1.520-m gauge (874 km electrified)"
+      },
+      "standard gauge": {
+        "text": "25 km 1.435-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "94,797 km"
+      },
+      "paved": {
+        "text": "84,028 km"
+      },
+      "unpaved": {
+        "text": "10,769 km (2005)"
+      }
+    },
+    "Waterways": {
+      "text": "2,500 km (use limited by location on perimeter of country and by shallowness) (2003)"
+    },
+    "Ports and terminals": {
+      "text": "Mazyr"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Belarus Armed Forces": {
+        "text": "Land Force, Air and Air Defense Force (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for compulsory military service; conscript service obligation - 18 months (2005)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,491,643"
+      },
+      "females age 16-49": {
+        "text": "2,528,779 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,720,049"
+      },
+      "females age 16-49": {
+        "text": "2,069,898 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "60,009"
+      },
+      "female": {
+        "text": "56,834 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Boundary demarcated with Latvia and Lithuania in 2006; 1997 boundary delimitation treaty with Ukraine remains unratified over unresolved financial claims, preventing demarcation and diminishing border security"
+    },
+    "Illicit drugs": {
+      "text": "limited cultivation of opium poppy and cannabis, mostly for the domestic market; transshipment point for illicit drugs to and via Russia, and to the Baltics and Western Europe; a small and lightly regulated financial center; anti-money-laundering legislation does not meet international standards and was weakened further when know-your-customer requirements were curtailed in 2008; few investigations or prosecutions of money-laundering activities (2008)"
+    }
+  }
+}

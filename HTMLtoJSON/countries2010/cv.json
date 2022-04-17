@@ -1,0 +1,670 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cape Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cape Verde continues to exhibit one of Africa's most stable democratic governments. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cape Verde's expatriate population is greater than its domestic one. Most Cape Verdeans have both African and Portuguese antecedents."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, group of islands in the North Atlantic Ocean, west of Senegal"
+    },
+    "Geographic coordinates": {
+      "text": "16 00 N, 24 00 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "4,033 sq km"
+      },
+      "land": {
+        "text": "4,033 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Rhode Island"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "965 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "temperate; warm, dry summer; precipitation meager and erratic"
+    },
+    "Terrain": {
+      "text": "steep, rugged, rocky, volcanic"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mt. Fogo 2,829 m (a volcano on Fogo Island)"
+      }
+    },
+    "Natural resources": {
+      "text": "salt, basalt rock, limestone, kaolin, fish, clay, gypsum"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "11.41%"
+      },
+      "permanent crops": {
+        "text": "0.74%"
+      },
+      "other": {
+        "text": "87.85% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "30 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "0.3 cu km (1990)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.02  cu km/yr (7%/2%/91%)"
+      },
+      "per capita": {
+        "text": "39  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically active",
+      "volcanism": {
+        "text": "Fogo (elev. 2,829 m, 9,281 ft), which last erupted in 1995, is Cape Verde's only active volcano"
+      }
+    },
+    "Environment - current issues": {
+      "text": "soil erosion; deforestation due to demand for wood used as fuel; water shortages; desertification; environmental damage has threatened several species of birds and reptiles; illegal beach sand extraction; overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location 500 km from west coast of Africa near major north-south sea routes; important communications station; important sea and air refueling site"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "508,659 (July 2010 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "35.2% (male 76,012/female 74,993)"
+      },
+      "15-64 years": {
+        "text": "58.5% (male 123,376/female 127,653)"
+      },
+      "65 years and over": {
+        "text": "6.4% (male 10,040/female 17,400) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "22.3 years"
+      },
+      "male": {
+        "text": "21.4 years"
+      },
+      "female": {
+        "text": "23.1 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.459% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "21.67 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "6.41 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.67 migrant(s)/1,000 population (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "60% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "3.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.94 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.61 male(s)/female"
+      },
+      "total population": {
+        "text": "0.94 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "27.89 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "31.86 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "23.79 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "70.41 years"
+      },
+      "male": {
+        "text": "68.24 years"
+      },
+      "female": {
+        "text": "72.64 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.54 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.04% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "775 (2001)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "225 (as of 2001)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Cape Verdean(s)"
+      },
+      "adjective": {
+        "text": "Cape Verdean"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Creole (mulatto) 71%, African 28%, European 1%"
+    },
+    "Religions": {
+      "text": "Roman Catholic (infused with indigenous beliefs), Protestant (mostly Church of the Nazarene)"
+    },
+    "Languages": {
+      "text": "Portuguese (official), Crioulo (a blend of Portuguese and West African words)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "76.6%"
+      },
+      "male": {
+        "text": "85.8%"
+      },
+      "female": {
+        "text": "69.2% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "12 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.7% of GDP (2008)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Cape Verde "
+      },
+      "conventional short form": {
+        "text": "Cape Verde"
+      },
+      "local long form": {
+        "text": "Republica de Cabo Verde"
+      },
+      "local short form": {
+        "text": "Cabo Verde"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Praia"
+      },
+      "geographic coordinates": {
+        "text": "14 55 N, 23 31 W"
+      },
+      "time difference": {
+        "text": "UTC-1 (4 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "17 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Praia, Porto Novo, Ribeira Grande, Sal, Santa Catarina, Santa Cruz, Sao Domingos, Sao Filipe, Sao Miguel, Sao Nicolau, Sao Vicente, Tarrafal"
+    },
+    "Independence": {
+      "text": "5 July 1975 (from Portugal)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 5 July (1975)"
+    },
+    "Constitution": {
+      "text": "25 September 1992; a major revision on 23 November 1995 substantially increased the powers of the president; a 1999 revision created the position of national ombudsman (Provedor de Justica)"
+    },
+    "Legal system": {
+      "text": "based on the legal system of Portugal; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Pedro Verona Rodrigues PIRES (since 22 March 2001)"
+      },
+      "head of government": {
+        "text": "Prime Minister Jose Maria Pereira NEVES (since 1 February 2001)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the recommendation of the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 12 February 2006 (next to be held in 2011); prime minister nominated by the National Assembly and appointed by the president"
+      },
+      "election results": {
+        "text": "Pedro PIRES reelected president; percent of vote - Pedro PIRES (PAICV) 51.2%, Carlos VIEGA (MPD) 48.8%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Assembleia Nacional (72 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 22 January 2006 (next to be held on 6 February 2011)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PAICV 52.3%, MPD 44%, UCID 2.7%; seats by party - PAICV 41, MPD 29, UCID 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Tribunal of Justice or Supremo Tribunal de Justia"
+    },
+    "Political parties and leaders": {
+      "text": "African Party for Independence of Cape Verde or PAICV [Jose Maria Pereira NEVES, chairman]; Democratic and Independent Cape Verdean Union or UCID [Antonio MONTEIRO]; Democratic Christian Party or PDC [Manuel RODRIGUES]; Democratic Renovation Party or PRD [Victor FIDALGO]; Movement for Democracy or MPD [Jorge SANTOS]; Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]; Party of Work and Solidarity or PTS [Isaias RODRIGUES]; Social Democratic Party or PSD [Joao ALEM]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "environmentalists; political pressure groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC, MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Fatima Lima VEIGA"
+      },
+      "chancery": {
+        "text": "3415 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 965-6820"
+      },
+      "FAX": {
+        "text": "[1] (202) 965-1207"
+      },
+      "consulate(s) general": {
+        "text": "Boston"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Dana BROWN"
+      },
+      "embassy": {
+        "text": "Rua Abilio Macedo n6, Praia"
+      },
+      "mailing address": {
+        "text": "C. P. 201, Praia"
+      },
+      "telephone": {
+        "text": "[238] 2-60-89-00"
+      },
+      "FAX": {
+        "text": "[238] 2-61-13-55"
+      }
+    },
+    "Flag description": {
+      "text": "five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10, yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side; blue stands for the sea and the sky, the circle of stars represents the 10 major islands united into a nation, the stripes symbolize the road to formation of the country through peace (white) and effort (red)"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Cantico da Liberdade\" (Song of Freedom)"
+      },
+      "lyrics/music": {
+        "text": "Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA"
+      },
+      "note": "adopted 1996"
+    },
+    "note": "adopted 1996"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "This island economy suffers from a poor natural resource base, including serious water shortages exacerbated by cycles of long-term drought and poor soil for agriculture on several of the islands. The economy is service oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Although nearly 70% of the population lives in rural areas, the share of food production in GDP is low. About 82% of food must be imported. The fishing potential, mostly lobster and tuna, is not fully exploited. Cape Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances supplement GDP by more than 20%. Despite the lack of resources, sound economic management has produced steadily improving incomes. Continued economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy. Future prospects depend heavily on the maintenance of aid flows, the encouragement of tourism, remittances, and the momentum of the government's development program. Cape Verde became a member of the WTO in July 2008."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.749 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$1.573 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.9% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "9%"
+      },
+      "industry": {
+        "text": "16.2%"
+      },
+      "services": {
+        "text": "74.8% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "196,100 (2007)"
+    },
+    "Unemployment rate": {
+      "text": "21% (2000 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30% (2000)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.9%"
+      },
+      "highest 10%": {
+        "text": "40.6% (2000)"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "36.9% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "7.5% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.99% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$628.4 million (31 December 2009 est)"
+    },
+    "Stock of broad money": {
+      "text": "$1.399 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.256 billion (31 December 2009 est.)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, corn, beans, sweet potatoes, sugarcane, coffee, peanuts; fish"
+    },
+    "Industries": {
+      "text": "food and beverages, fish processing, shoes and garments, salt mining, ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "4% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "250 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "232.5 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "1,619 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$319 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$105 million (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "fuel, shoes, garments, fish, hides"
+    },
+    "Exports - partners": {
+      "text": "Spain 53.98%, Portugal 22.23%, Morocco 7.13% (2009)"
+    },
+    "Imports": {
+      "text": "$835 million (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, industrial products, transport equipment, fuels"
+    },
+    "Imports - partners": {
+      "text": "Portugal 44.86%, Netherlands 15.51%, Spain 6.1%, Italy 4.46%, Brazil 4.21% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$284 million (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$325 million (2002)"
+    },
+    "Exchange rates": {
+      "text": "Cape Verdean escudos (CVE) per US dollar - 88.58 (2010), 79.377 (2009), 73.84 (2008), 81.235 (2007), 87.946 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "72,200 (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "392,000 (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "effective system, extensive modernization from 1996-2000 following partial privatization in 1995"
+      },
+      "domestic": {
+        "text": "major service provider is Cabo Verde Telecom (CVT); fiber-optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998; broadband services launched in 2004"
+      },
+      "international": {
+        "text": "country code - 238; landing point for the Atlantis-2 fiber-optic transatlantic telephone cable that provides links to South America, Senegal, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2007)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run TV and radio broadcast network plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are obtainable (2007)"
+    },
+    "Internet country code": {
+      "text": ".cv"
+    },
+    "Internet hosts": {
+      "text": "26 (2010)"
+    },
+    "Internet users": {
+      "text": "150,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "10 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "9"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "2 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,350 km"
+      },
+      "paved": {
+        "text": "932 km"
+      },
+      "unpaved": {
+        "text": "418 km (2000)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "13"
+      },
+      "by type": {
+        "text": "cargo 3, chemical tanker 3, passenger/cargo 7"
+      },
+      "foreign-owned": {
+        "text": "3 (Spain 1, UK 2) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Porto Grande"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "People's Revolutionary Armed Forces (FARP)": {
+        "text": "Army, Coast Guard (includes maritime air wing) (2007)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age (est.) for selective compulsory military service; 14-month conscript service obligation (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "128,858"
+      },
+      "females age 16-49": {
+        "text": "133,581 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "103,894"
+      },
+      "females age 16-49": {
+        "text": "114,721 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "6,077"
+      },
+      "female": {
+        "text": "6,075 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.5% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "used as a transshipment point for Latin American cocaine destined for Western Europe, particularly because of Lusophone links to Brazil, Portugal, and Guinea-Bissau; has taken steps to deter drug money laundering, including a 2002 anti-money laundering reform that criminalizes laundering the proceeds of narcotics trafficking and other crimes and the establishment in 2008 of a Financial Intelligence Unit (2008)"
+    }
+  }
+}

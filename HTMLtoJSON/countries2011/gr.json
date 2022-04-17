@@ -1,0 +1,817 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Greece achieved independence from the Ottoman Empire in 1829. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-Communists and Communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union in 2001. In 2010, the prospect of a Greek default on its euro-denominated debt created severe strains within the EMU and raised the question of whether a member country might voluntarily leave the common currency or be removed."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Europe, bordering the Aegean Sea, Ionian Sea, and the Mediterranean Sea, between Albania and Turkey"
+    },
+    "Geographic coordinates": {
+      "text": "39 00 N, 22 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "131,957 sq km"
+      },
+      "land": {
+        "text": "130,647 sq km"
+      },
+      "water": {
+        "text": "1,310 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Alabama"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,228 km"
+      },
+      "border countries": {
+        "text": "Albania 282 km, Bulgaria 494 km, Turkey 206 km, Macedonia 246 km"
+      }
+    },
+    "Coastline": {
+      "text": "13,676 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "temperate; mild, wet winters; hot, dry summers"
+    },
+    "Terrain": {
+      "text": "mostly mountains with ranges extending into the sea as peninsulas or chains of islands"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Mediterranean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Mount Olympus 2,917 m"
+      }
+    },
+    "Natural resources": {
+      "text": "lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "20.45%"
+      },
+      "permanent crops": {
+        "text": "8.59%"
+      },
+      "other": {
+        "text": "70.96% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "15,500 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "72 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "8.7  cu km/yr (16%/3%/81%)"
+      },
+      "per capita": {
+        "text": "782  cu m/yr (1997)"
+      }
+    },
+    "Natural hazards": {
+      "text": "severe earthquakes",
+      "volcanism": {
+        "text": "Santorini (elev. 367 m) has been deemed a \"Decade Volcano\" by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active"
+      }
+    },
+    "Environment - current issues": {
+      "text": "air pollution; water pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Greek(s) "
+      },
+      "adjective": {
+        "text": "Greek"
+      }
+    },
+    "Ethnic groups": {
+      "population": {
+        "text": "Greek 93%, other (foreign citizens) 7% (2001 census)"
+      },
+      "note": "percents represent citizenship, since Greece does not collect data on ethnicity"
+    },
+    "note": "percents represent citizenship, since Greece does not collect data on ethnicity",
+    "Languages": {
+      "text": "Greek (official) 99%, other (includes English and French) 1%"
+    },
+    "Religions": {
+      "text": "Greek Orthodox (official) 98%, Muslim 1.3%, other 0.7%"
+    },
+    "Population": {
+      "text": "10,760,136 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "14.2% (male 787,143/female 741,356)"
+      },
+      "15-64 years": {
+        "text": "66.2% (male 3,555,447/female 3,567,383)"
+      },
+      "65 years and over": {
+        "text": "19.6% (male 923,177/female 1,185,630) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "42.5 years"
+      },
+      "male": {
+        "text": "41.4 years"
+      },
+      "female": {
+        "text": "43.6 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.083% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "9.21 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "10.7 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "2.32 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "61% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.6% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "ATHENS (capital) 3.252 million; Thessaloniki 834,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.064 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "2 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "5 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.49 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.48 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.92 years"
+      },
+      "male": {
+        "text": "77.36 years"
+      },
+      "female": {
+        "text": "82.65 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.38 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "7.4% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "6.043 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "4.77 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "0% of population"
+      },
+      "rural": {
+        "text": "1% of population"
+      },
+      "total": {
+        "text": "0% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "1% of population"
+      },
+      "rural": {
+        "text": "3% of population"
+      },
+      "total": {
+        "text": "2% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "8,800 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "22.5% (2003)"
+    },
+    "Education expenditures": {
+      "text": "4% of GDP (2005)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "96%"
+      },
+      "male": {
+        "text": "97.8%"
+      },
+      "female": {
+        "text": "94.2% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "17 years"
+      },
+      "male": {
+        "text": "16 years"
+      },
+      "female": {
+        "text": "17 years (2007)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "25.8%"
+      },
+      "male": {
+        "text": "19.4%"
+      },
+      "female": {
+        "text": "33.9% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Hellenic Republic "
+      },
+      "conventional short form": {
+        "text": "Greece"
+      },
+      "local long form": {
+        "text": "Elliniki Dhimokratia"
+      },
+      "local short form": {
+        "text": "Ellas or Ellada"
+      },
+      "former": {
+        "text": "Kingdom of Greece"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Athens"
+      },
+      "geographic coordinates": {
+        "text": "37 59 N, 23 44 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (Western Greece), Dytiki Makedonia (Western Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)"
+    },
+    "Independence": {
+      "text": "1829 (from the Ottoman Empire)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 March (1821)"
+    },
+    "Constitution": {
+      "text": "11 June 1975; amended March 1986 and April 2001"
+    },
+    "Legal system": {
+      "text": "civil legal system based on Roman law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Karolos PAPOULIAS (since 12 March 2005)"
+      },
+      "head of government": {
+        "text": "Interim Prime Minister Lukas PAPADEMOS(since 10 November 2011)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president on the recommendation of the prime minister"
+      },
+      "elections": {
+        "text": "president elected by parliament for a five-year term (eligible for a second term); election last held on 3 February 2010 (next to be held by February 2015); president appoints leader of the party securing plurality of vote in election to become prime minister and form a government"
+      },
+      "election results": {
+        "text": "Karolos PAPOULIAS reelected president; number of parliamentary votes, 266 out of 300"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Vouli ton Ellinon (300 seats; members elected by direct popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held on 4 October 2009 (next to be held by 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PASOK 43.9%, ND 33.5%, KKE 7.5%, LAOS 5.6%, SYRIZA 4.6%, other 4.9%; seats by party - PASOK 160, ND 91, KKE 21, LAOS 15, SYRIZA 13; note - seats by party as of 15 December 2010 - PASOK 156, ND 86, KKE 21 LAOS 15, SYRIZA 9, DISY 5, Democratic Left 4, independents 4 (DISY and Democratic Left entered parliament as members of ND and SYRIZA, respectively, and the independents entered parliament as members of PASOK); only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups, but can retain that status if the party participated in the last election and received the minimum 3% threshold"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Civil and Criminal Court; all judges are appointed for life by the president after consultation with a judicial council; Supreme Administrative Court and Court of Auditors; Courts of Appeal; Courts of First Instance"
+    },
+    "Political parties and leaders": {
+      "text": "Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [Petros KONSTANTINOU]; Coalition of the Radical Left or SYRIZA [Alexis TSIPRAS]; Communist Party of Greece or KKE [Aleka PAPARIGA]; Democratic Left [Fotis KOUVELIS]; Democratic Alliance or DISY [Theodora BAKOGIANNI]; Ecologist Greens [Nikos CHRYSOGELOS]; Golden Dawn [Nikolaos MICHALOLIAKOS]; New Democracy or ND [Antonis SAMARAS]; Panhellenic Socialist Movement or PASOK [Georgios PAPANDREOU]; Popular Orthodox Rally or LAOS [Georgios KARATZAFERIS]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Civil Servants Confederation or ADEDY [Spyros PAPASPYROS]; Federation of Greek Industries or SEV [Dimitris DASKALOPOULOS]; General Confederation of Greek Workers or GSEE [Ioannis PANAGOPOULOS]"
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SECI, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIS, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Vassilis KASKARELIS"
+      },
+      "chancery": {
+        "text": "2217 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-1300"
+      },
+      "FAX": {
+        "text": "[1] (202) 939-1324"
+      },
+      "consulate(s) general": {
+        "text": "Boston, Chicago, Los Angeles, New York, San Francisco, Tampa"
+      },
+      "consulate(s)": {
+        "text": "Atlanta, Houston, New Orleans"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Daniel Bennett SMITH"
+      },
+      "embassy": {
+        "text": "91 Vasilisis Sophias Avenue, 10160 Athens"
+      },
+      "mailing address": {
+        "text": "PSC 108, APO AE 09842-0108"
+      },
+      "telephone": {
+        "text": "[30] (210) 721-2951"
+      },
+      "FAX": {
+        "text": "[30] (210) 645-6282"
+      },
+      "consulate(s) general": {
+        "text": "Thessaloniki"
+      }
+    },
+    "Flag description": {
+      "text": "nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors; the exact shade of blue has never been set by law and has varied from a light to a dark blue over time"
+    },
+    "National symbol(s)": {
+      "text": "Greek cross (white cross on blue field; arms equal length)"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Ymnos eis tin Eleftherian\" (Hymn to Liberty)"
+      },
+      "lyrics/music": {
+        "text": "Dionysios SOLOMOS/Nikolaos MANTZAROS"
+      },
+      "note": "adopted 1864; the anthem is based on a 158 verse poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans; Cyprus also uses \"Hymn to Liberty\" as its anthem"
+    },
+    "note": "adopted 1864; the anthem is based on a 158 verse poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans; Cyprus also uses \"Hymn to Liberty\" as its anthem"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Greece has a capitalist economy with the public sector accounting for about 40% of GDP and with per capita GDP about two-thirds that of the leading euro-zone economies. Tourism provides 15% of GDP. Immigrants make up nearly one-fifth of the work force, mainly in agricultural and unskilled jobs. Greece is a major beneficiary of EU aid, equal to about 3.3% of annual GDP. The Greek economy grew by nearly 4.0% per year between 2003 and 2007, due partly to infrastructural spending related to the 2004 Athens Olympic Games, and in part to an increased availability of credit, which has sustained record levels of consumer spending. But the economy went into recession in 2009 as a result of the world financial crisis, tightening credit conditions, and Athens' failure to address a growing budget deficit, which was triggered by falling state revenues, and increased government expenditures. The economy contracted by 2% in 2009, and 4.8% in 2010. Greece violated the EU's Growth and Stability Pact budget deficit criterion of no more than 3% of GDP from 2001 to 2006, but finally met that criterion in 2007-08, before exceeding it again in 2009, with the deficit reaching 15.4% of GDP. Austerity measures reduced the deficit to 10.5% of GDP in 2010. Public debt, inflation, and unemployment are above the euro-zone average while per capita income is below; unemployment rose to 12% in 2010. Eroding public finances, a credibility gap stemming from inaccurate and misreported statistics, and consistent underperformance on following through with reforms prompted major credit rating agencies in late 2009 to downgrade Greece's international debt rating, and has led the country into a financial crisis. Under intense pressure by the EU and international market participants, the government has adopted a medium-term austerity program that includes cutting government spending, reducing the size of the public sector, decreasing tax evasion, reforming the health care and pension systems, and improving competitiveness through structural reforms to the labor and product markets. Athens, however, faces long-term challenges to push through unpopular reforms in the face of often vocal opposition from the country's powerful labor unions and the general public. Greek labor unions are striking over new austerity measures, but the strikes so far have had a limited impact on the government's will to adopt reforms. An uptick in widespread unrest, however, could challenge the government's ability to implement reforms and meet budget targets, and could also lead to rioting or violence. In April 2010 a leading credit agency assigned Greek debt its lowest possible credit rating; in May, the International Monetary Fund and Eurozone governments provided Greece emergency short- and medium-term loans worth $147 billion so that the country could make debt repayments to creditors. In exchange for the largest bailout ever assembled, the government announced combined spending cuts and tax increases totaling $40 billion over three years, on top of the tough austerity measures already taken. Greece, however, struggled to boost revenues and cut spending to meet 2010 targets set by the EU and the IMF, especially after Eurostat - the EU's statistical office - revised upward Greece's deficit and debt numbers for 2009 and 2010. Greece's lenders are calling on Athens to step up efforts in 2011 to increase tax collection, shore up public enterprises, and rein in health spending, and are planning to give Greece more time to repay its EU-IMF loan. Greece responded by introducing major structural reforms, but investors still question whether Greece can sustain fiscal efforts in the face of a bleak economic outlook and public discontent."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$340.1 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$305.4 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$31,700 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.3%"
+      },
+      "industry": {
+        "text": "17.9%"
+      },
+      "services": {
+        "text": "78.8% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "5.013 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "12.4%"
+      },
+      "industry": {
+        "text": "22.4%"
+      },
+      "services": {
+        "text": "65.1% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.4% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "20% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.5%"
+      },
+      "highest 10%": {
+        "text": "26% (2000 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.4 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "14.7% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$119.6 billion"
+      },
+      "expenditures": {
+        "text": "$151.5 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "39.2% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-10.4% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "127.5% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.2% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "1.75% (31 December 2009)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.055% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$177.8 billion (31 December 2009 est.)",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$379 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$383.7 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$90.4 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, corn, barley, sugar beets, olives, tomatoes, wine, tobacco, potatoes; beef, dairy products"
+    },
+    "Industries": {
+      "text": "tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum"
+    },
+    "Industrial production growth rate": {
+      "text": "-5.7% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "51.5 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "59.53 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "3.233 billion kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "4.368 billion kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "7,946 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "371,300 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "181,600 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "496,600 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "10 million bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1 million cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "3.824 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "3.815 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "991.1 million cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$35.97 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$21.34 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "food and beverages, manufactured goods, petroleum products, chemicals, textiles"
+    },
+    "Exports - partners": {
+      "text": "Germany 10.9%, Italy 10.9%, Cyprus 7.3%, Bulgaria 6.5%, Turkey 5.4%, UK 5.3%, Belgium 5.1%, China 4.8%, Switzerland 4.5%, Poland 4.2% (2010)"
+    },
+    "Imports": {
+      "text": "$64.21 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery, transport equipment, fuels, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Germany 10.6%, Italy 9.9%, Russia 9.6%, China 6.1%, Netherlands 5.3%, France 4.9%, Austria 4.5% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$5.546 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$532.9 billion (30 June 2010)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$42.1 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$39.45 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "0.7964 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "5.203 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "12.293 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate, modern networks reach all areas; good mobile telephone and international service"
+      },
+      "domestic": {
+        "text": "microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands"
+      },
+      "international": {
+        "text": "country code - 30; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable that provides links to Europe, Middle East, and Asia; a number of smaller submarine cables provide connectivity to various parts of Europe, the Middle East, and Cyprus; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region)"
+      }
+    },
+    "Broadcast media": {
+      "text": "broadcast media dominated by the private sector; roughly 150 private TV channels, about a dozen of the private channels broadcast at the national or regional level; 3 publicly-owned terrestrial TV channels with national coverage, 1 publicly-owned satellite channel, and 3 stations designed for digital terrestrial transmissions; multi-channel satellite and cable TV services obtainable; upwards of 1,500 radio stations broadcasting, nearly all of them privately-owned; state-run broadcaster has 7 national stations, 2 international stations, and 19 regional stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".gr"
+    },
+    "Internet hosts": {
+      "text": "2.574 million (2010)"
+    },
+    "Internet users": {
+      "text": "4.971 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "81 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "67"
+      },
+      "over 3,047 m": {
+        "text": "6"
+      },
+      "2,438 to 3,047 m": {
+        "text": "14"
+      },
+      "1,524 to 2,437 m": {
+        "text": "20"
+      },
+      "914 to 1,523 m": {
+        "text": "18"
+      },
+      "under 914 m": {
+        "text": "9 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "14"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "12 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "9 (2010)"
+    },
+    "Pipelines": {
+      "text": "gas 1,240 km; oil 75 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,548 km"
+      },
+      "standard gauge": {
+        "text": "1,565 km 1.435-m gauge (764 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "961 km 1.000-m gauge; 22 km 0.750-m gauge (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "116,711 km (includes 948 km of expressways) (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "6 km (the 6 km long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "886"
+      },
+      "by type": {
+        "text": "bulk carrier 263, cargo 53, carrier 1, chemical tanker 72, container 34, liquefied gas 13, passenger 8, passenger/cargo 116, petroleum tanker 312, roll on/roll off 13, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "62 (Belgium 16, Bermuda 3, Cyprus 4, Italy 5, UK 27, US 7)"
+      },
+      "registered in other countries": {
+        "text": "2,391 (Antigua and Barbuda 5, Bahamas 209, Barbados 14, Belize 2, Bermuda 2, Brazil 1, Cambodia 2, Cayman Islands 11, Comoros 3, Cyprus 216, Denmark 1, Dominica 9, Egypt 8, Georgia 3, Germany 1, Gibraltar 7, Honduras 4, Hong Kong 22, Indonesia 1, Isle of Man 57, Italy 8, Jamaica 8, Liberia 454, Malta 458, Marshall Islands 358, Mexico 1, Moldova 4, Panama 402, Philippines 4, Portugal 5, Saint Vincent and the Grenadines 63, Sao Tome and Principe 1, Saudi Arabia 4, Singapore 19, Slovakia 1, Togo 1, UAE 3, UK 1, Uruguay 1, Vanuatu 4, Venezuela 4, unknown 8) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Agioi Theodoroi, Aspropyrgos, Pachi, Piraeus, Thessaloniki"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Hellenic Army (Ellinikos Stratos, ES), Hellenic Navy (Ellinikos Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA) (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "19-45 years of age for compulsory military service; during wartime the law allows for recruitment beginning January of the year of inductee's 18th birthday, thus including 17 year olds; 17 years of age for volunteers; conscript service obligation - 1 year for all services; women are eligible for voluntary military service (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,485,389"
+      },
+      "females age 16-49": {
+        "text": "2,469,854 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,032,378"
+      },
+      "females age 16-49": {
+        "text": "2,016,552 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "52,754"
+      },
+      "female": {
+        "text": "49,485 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "4.3% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; Cyprus question with Turkey; Greece rejects the use of the name Macedonia or Republic of Macedonia; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy"
+    },
+    "Illicit drugs": {
+      "text": "a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime"
+    }
+  }
+}

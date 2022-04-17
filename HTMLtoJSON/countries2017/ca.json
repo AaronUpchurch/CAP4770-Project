@@ -1,0 +1,919 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada repatriated its constitution from the UK in 1982, severing a final colonial tie. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Northern North America, bordering the North Atlantic Ocean on the east, North Pacific Ocean on the west, and the Arctic Ocean on the north, north of the conterminous US"
+    },
+    "Geographic coordinates": {
+      "text": "60 00 N, 95 00 W"
+    },
+    "Map references": {
+      "text": "North America"
+    },
+    "Area": {
+      "total": {
+        "text": "9,984,670 sq km"
+      },
+      "land": {
+        "text": "9,093,507 sq km"
+      },
+      "water": {
+        "text": "891,163 sq km"
+      },
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than the US"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "8,893 km"
+      },
+      "border countries (1)": {
+        "text": "US 8,893 km (includes 2,477 km with Alaska)"
+      },
+      "note": {
+        "text": "Canada is the world's largest country that borders only one country"
+      }
+    },
+    "Coastline": {
+      "text": "202,080 km",
+      "note": {
+        "text": "the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
+      }
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "varies from temperate in south to subarctic and arctic in north"
+    },
+    "Terrain": {
+      "text": "mostly plains with mountains in west, lowlands in southeast"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "487 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Mount Logan 5,959 m"
+    },
+    "Natural resources": {
+      "text": "iron ore, nickel, zinc, copper, gold, lead, rare earth elements, molybdenum, potash, diamonds, silver, fish, timber, wildlife, coal, petroleum, natural gas, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "6.8%"
+      },
+      "text": "arable land 4.7%; permanent crops 0.5%; permanent pasture 1.6%",
+      "forest": {
+        "text": "34.1%"
+      },
+      "other": {
+        "text": "59.1% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "8,700 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km (180 mi) of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia"
+    },
+    "Natural hazards": {
+      "text": "continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains",
+      "volcanism": {
+        "text": "the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant"
+      }
+    },
+    "Environment - current issues": {
+      "text": "metal smelting, coal-burning utilities, and vehicle emissions impacting agricultural and forest productivity; air pollution and resulting acid rain severely affecting lakes and damaging forests; ocean waters becoming contaminated due to agricultural, industrial, mining, and forestry activities"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Volatile Organic Compounds, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border; Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Canada"
+      },
+      "etymology": {
+        "text": "the country name derives from the St. Lawrence Iroquoian word \"kanata\" meaning village or settlement"
+      }
+    },
+    "Government type": {
+      "text": "federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ottawa"
+      },
+      "geographic coordinates": {
+        "text": "45 25 N, 75 42 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
+      },
+      "note": {
+        "text": "Canada has six time zones"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon*"
+    },
+    "Independence": {
+      "text": "1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster)"
+    },
+    "National holiday": {
+      "text": "Canada Day, 1 July (1867)"
+    },
+    "Constitution": {
+      "text": "made up of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982; several amendments to the 1982 Constitution Act, last in 2011 (2016)"
+    },
+    "Legal system": {
+      "text": "common law system except in Quebec, where civil law based on the French civil code prevails"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "3 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "head of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Julie PAYETTE (since 2 October 2017)"
+      },
+      "head of government": {
+        "text": "Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)"
+      },
+      "cabinet": {
+        "text": "Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general"
+      },
+      "note": {
+        "text": "Julie PAYETTE, a former space shuttle astronaut, is Canada's fourth female governor general but the first to have flown in space"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of the Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75) and the House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)"
+      },
+      "elections": {
+        "text": "House of Commons - last held on 19 October 2015 (next to be held in 2019)"
+      },
+      "election results": {
+        "text": "House of Commons - percent of vote by party - Liberal Party 39.5%, CPC 31.9%, NDP 19.7%, Bloc Quebecois 4.7%, Greens 3.4%, other .8%; seats by party - Liberal Party 184, CPC 99, NDP 44, Bloc Quebecois 10, Greens 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)"
+      },
+      "judge selection and term of office": {
+        "text": "chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75"
+      },
+      "subordinate courts": {
+        "text": "federal level"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "New Democratic Party or NDP [Jagmeet SINGH]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "agricultural sector; automobile industry; business groups; chemical industry; commercial banks; communications sector; energy industry; environmentalists; First Nations organizations; public administration groups; steel industry; trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador David Brookes MACNAUGHTON (since 2 March 2016)"
+      },
+      "chancery": {
+        "text": "501 Pennsylvania Avenue NW, Washington, DC 20001"
+      },
+      "telephone": {
+        "text": "[1] (202) 682-1740"
+      },
+      "FAX": {
+        "text": "[1] (202) 682-7726"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle"
+      },
+      "trade office(s)": {
+        "text": "Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Kelly CRAFT (since 23 October 2017)"
+      },
+      "embassy": {
+        "text": "490 Sussex Drive, Ottawa, Ontario K1N 1G8"
+      },
+      "mailing address": {
+        "text": "P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1"
+      },
+      "telephone": {
+        "text": "[1] (613) 688-5335"
+      },
+      "FAX": {
+        "text": "[1] (613) 688-3082"
+      },
+      "consulate(s) general": {
+        "text": "Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver"
+      },
+      "consulate(s)": {
+        "text": "Winnipeg"
+      }
+    },
+    "Flag description": {
+      "text": "two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol"
+    },
+    "National symbol(s)": {
+      "text": "maple leaf, beaver; national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"O Canada\""
+      },
+      "lyrics/music": {
+        "text": "Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE"
+      },
+      "note": {
+        "text": "adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Since the fall in world oil prices in 2014, Canada has achieved modest economic growth."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.605 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.53 trillion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$46,300 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Gross national saving": {
+      "text": "22.2% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "58.3%"
+      },
+      "government consumption": {
+        "text": "21.2%"
+      },
+      "investment in fixed capital": {
+        "text": "23%"
+      },
+      "investment in inventories": {
+        "text": "-0.1%"
+      },
+      "exports of goods and services": {
+        "text": "31%"
+      },
+      "imports of goods and services": {
+        "text": "-33.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "1.7%"
+      },
+      "industry": {
+        "text": "27.5%"
+      },
+      "services": {
+        "text": "70.8% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, oilseed, tobacco, fruits, vegetables; dairy products; fish; forest products"
+    },
+    "Industries": {
+      "text": "transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas"
+    },
+    "Industrial production growth rate": {
+      "text": "-1.1% (2016 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Labor force": {
+      "text": "19.44 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2%"
+      },
+      "manufacturing": {
+        "text": "13%"
+      },
+      "construction": {
+        "text": "6%"
+      },
+      "services": {
+        "text": "76%"
+      },
+      "other": {
+        "text": "3% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Population below poverty line": {
+      "text": "9.4%",
+      "note": {
+        "text": "this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line (2008 est.)"
+      }
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "24.8% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "31.5 (1994)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$593.5 billion"
+      },
+      "expenditures": {
+        "text": "$623.3 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "38.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Public debt": {
+      "text": "98.4% of GDP (2015 est.)",
+      "note": {
+        "text": "figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
+      },
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.25% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2.78% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$568.9 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.238 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$2.574 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.114 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Current account balance": {
+      "text": "$-53.08 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Exports": {
+      "text": "$410.7 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Exports - commodities": {
+      "text": "motor vehicles and parts, industrial machinery, aircraft, telecommunications equipment; chemicals, plastics, fertilizers; wood pulp, timber, crude petroleum, natural gas, electricity, aluminum"
+    },
+    "Exports - partners": {
+      "text": "US 76.4%, China 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$428.8 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, motor vehicles and parts, crude oil, chemicals, electricity, durable consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 52.2%, China 12.1%, Mexico 6.2% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$79.75 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.55 trillion (31 March 2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$818.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.132 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.9992 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "643.2 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "516.6 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Electricity - exports": {
+      "text": "73.35 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Electricity - imports": {
+      "text": "9.303 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "147.6 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "26.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "9.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "53.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "11.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Crude oil - production": {
+      "text": "3.679 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "2.671 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "892,500 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "169.7 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "1.883 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2.379 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "991,600 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "381,200 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Natural gas - production": {
+      "text": "149.9 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "114.8 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "78.25 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "19.63 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "2.182 trillion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "564 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "14,987,520"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "42 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "30.45 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "86 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent service provided by modern technology"
+      },
+      "domestic": {
+        "text": "comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations"
+      },
+      "international": {
+        "text": "country code - 1; submarine cables provide links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)"
+    },
+    "Internet country code": {
+      "text": ".ca"
+    },
+    "Internet users": {
+      "total": {
+        "text": "31,770,034"
+      },
+      "percent of population": {
+        "text": "89.8% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "21"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "51"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "879"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "80,228,301"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,074,830,881 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "C (2016)"
+    },
+    "Airports": {
+      "text": "1,467 (2013)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "523"
+      },
+      "over 3,047 m": {
+        "text": "21"
+      },
+      "2,438 to 3,047 m": {
+        "text": "19"
+      },
+      "1,524 to 2,437 m": {
+        "text": "147"
+      },
+      "914 to 1,523 m": {
+        "text": "257"
+      },
+      "under 914 m": {
+        "text": "79 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "944"
+      },
+      "1,524 to 2,437 m": {
+        "text": "75"
+      },
+      "914 to 1,523 m": {
+        "text": "385"
+      },
+      "under 914 m": {
+        "text": "484 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "26 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas and liquid petroleum 110,000 km (2017)"
+    },
+    "Railways": {
+      "total": {
+        "text": "77,932 km"
+      },
+      "standard gauge": {
+        "text": "77,932 km 1.435-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,042,300 km"
+      },
+      "paved": {
+        "text": "415,600 km (includes 17,000 km of expressways)"
+      },
+      "unpaved": {
+        "text": "626,700 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Waterways": {
+      "text": "636 km (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States) (2011)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "181"
+      },
+      "by type": {
+        "text": "bulk carrier 62, cargo 15, carrier 1, chemical tanker 15, combination ore/oil 1, container 2, passenger 5, passenger/cargo 63, petroleum tanker 11, roll on/roll off 6"
+      },
+      "foreign-owned": {
+        "text": "19 (Estonia 1, France 1, Netherlands 1, Norway 4, Sweden 2, US 10)"
+      },
+      "registered in other countries": {
+        "text": "225 (Australia 5, Bahamas 96, Barbados 11, Cambodia 2, Cyprus 2, Honduras 1, Hong Kong 77, Liberia 2, Malta 5, Marshall Islands 8, Norway 1, Panama 6, Spain 4, Vanuatu 5) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Halifax, Saint John (New Brunswick), Vancouver"
+      },
+      "river and lake port(s)": {
+        "text": "Montreal, Quebec City, Sept-Isles (St. Lawrence); Fraser River Port (Fraser); Hamilton (Lake Ontario)"
+      },
+      "oil terminal(s)": {
+        "text": "Lower Lakes terminal"
+      },
+      "dry bulk cargo port(s)": {
+        "text": "Port-Cartier (iron ore and grain),"
+      },
+      "container port(s)": {
+        "text": "Montreal (1,446,000), Vancouver (3,054,000)(2015)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Saint John"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.12% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Military branches": {
+      "text": "Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command (2015)"
+    },
+    "Military service age and obligation": {
+      "text": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "8,228 (Colombia); 7,356 (China); 6,774 (Haiti) (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis for the domestic drug market and export to US; use of hydroponics technology permits growers to plant large quantities of high-quality marijuana indoors; increasing ecstasy production, some of which is destined for the US; vulnerable to narcotics money laundering because of its mature financial services sector"
+    }
+  }
+}

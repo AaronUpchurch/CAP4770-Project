@@ -1,0 +1,735 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under Communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called \"Goulash Communism.\" Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU in 2004."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Europe, northwest of Romania"
+    },
+    "Geographic coordinates": {
+      "text": "47 00 N, 20 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "93,028 sq km"
+      },
+      "land": {
+        "text": "89,608 sq km"
+      },
+      "water": {
+        "text": "3,420 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Indiana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,185 km"
+      },
+      "border countries": {
+        "text": "Austria 366 km, Croatia 329 km, Romania 443 km, Serbia 166 km, Slovakia 676 km, Slovenia 102 km, Ukraine 103 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "temperate; cold, cloudy, humid winters; warm summers"
+    },
+    "Terrain": {
+      "text": "mostly flat to rolling plains; hills and low mountains on the Slovakian border"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Tisza River 78 m"
+      },
+      "highest point": {
+        "text": "Kekes 1,014 m"
+      }
+    },
+    "Natural resources": {
+      "text": "bauxite, coal, natural gas, fertile soils, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "49.58%"
+      },
+      "permanent crops": {
+        "text": "2.06%"
+      },
+      "other": {
+        "text": "48.36% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "2,300 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "120 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "21.03  cu km/yr (9%/59%/32%)"
+      },
+      "per capita": {
+        "text": "2,082  cu m/yr (2001)"
+      }
+    },
+    "Environment - current issues": {
+      "text": "the upgrading of Hungary's standards in waste management, energy efficiency, and air, soil, and water pollution to meet EU requirements will require large investments"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "9,905,596 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "15% (male 763,553/female 720,112)"
+      },
+      "15-64 years": {
+        "text": "69.3% (male 3,384,961/female 3,475,135)"
+      },
+      "65 years and over": {
+        "text": "15.8% (male 566,067/female 995,768) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "39.4 years"
+      },
+      "male": {
+        "text": "37.1 years"
+      },
+      "female": {
+        "text": "42 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.257% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "9.51 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "12.94 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.87 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "68% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.57 male(s)/female"
+      },
+      "total population": {
+        "text": "0.91 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "7.86 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "8.57 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "7.12 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.44 years"
+      },
+      "male": {
+        "text": "69.27 years"
+      },
+      "female": {
+        "text": "77.87 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.35 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "3,300 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2001 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea and hepatitis A"
+      },
+      "vectorborne diseases": {
+        "text": "tickborne encephalitis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Hungarian(s)"
+      },
+      "adjective": {
+        "text": "Hungarian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Hungarian 92.3%, Roma 1.9%, other or unknown 5.8% (2001 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 51.9%, Calvinist 15.9%, Lutheran 3%, Greek Catholic 2.6%, other Christian 1%, other or unspecified 11.1%, unaffiliated 14.5% (2001 census)"
+    },
+    "Languages": {
+      "text": "Hungarian 93.6%, other or unspecified 6.4% (2001 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.4%"
+      },
+      "male": {
+        "text": "99.5%"
+      },
+      "female": {
+        "text": "99.3% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "15 years"
+      },
+      "female": {
+        "text": "16 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.5% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Hungary "
+      },
+      "conventional short form": {
+        "text": "Hungary"
+      },
+      "local long form": {
+        "text": "Magyar Koztarsasag"
+      },
+      "local short form": {
+        "text": "Magyarorszag"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Budapest"
+      },
+      "geographic coordinates": {
+        "text": "47 30 N, 19 05 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "19 counties (megyek, singular - megye), 23 urban counties (singular - megyei varos), and 1 capital city (fovaros)",
+      "counties": {
+        "text": "Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala"
+      },
+      "urban counties": {
+        "text": "Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg"
+      },
+      "capital city": {
+        "text": "Budapest"
+      }
+    },
+    "Independence": {
+      "text": "25 December 1000 (crowning of King STEPHEN I, traditional founding date)"
+    },
+    "National holiday": {
+      "text": "Saint Stephen's Day, 20 August"
+    },
+    "Constitution": {
+      "text": "18 August 1949, effective 20 August 1949; revised 19 April 1972; 18 October 1989; and 1997",
+      "note": "18 October 1989 revision ensured legal rights for individuals and constitutional checks on the authority of the prime minister and also established the principle of parliamentary oversight; 1997 amendment streamlined the judicial system"
+    },
+    "note": "to be elected, the president must win two-thirds of legislative vote in the first two rounds or a simple majority in the third round",
+    "Legal system": {
+      "text": "based on the German-Austrian legal system; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Laszlo SOLYOM (since 5 August 2005)"
+      },
+      "head of government": {
+        "text": "Prime Minister Gordon BAJNAI (since 20 April 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers prime minister elected by the National Assembly on the recommendation of the president; other ministers proposed by the prime minister and appointed and relieved of their duties by the president"
+      },
+      "elections": {
+        "text": "president elected by the National Assembly for a five-year term (eligible for a second term); election last held 6-7 June 2005 (next to be held by June 2010); prime minister elected by the National Assembly on the recommendation of the president; election last held 14 April 2009"
+      },
+      "election results": {
+        "text": "Laszlo SOLYOM elected president by a simple majority in the third round of voting, 185 to 182; Gordon BAJNAI elected prime minister; result of legislative vote - 204 to 0"
+      },
+      "note": "to be elected, the president must win two-thirds of legislative vote in the first two rounds or a simple majority in the third round"
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Orszaggyules (386 seats; members are elected by popular vote under a system of proportional and direct representation to serve four-year terms)",
+      "elections": {
+        "text": "last held 9 and 23 April 2006 (next to be held in April 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party (5% or more of the vote required for parliamentary representation in the first round) - MSzP 43.2%, Fidesz-KDNP 42%, SzDSz 6.5%, MDF 5%, other 3.3%; seats by party - MSzP 190, Fidesz-KDNP 164, SzDSz 20, MDF 11, independent 1; seats by party as of January 2009 - MSzP 190, Fidesz-KDNP 161, SzDSz 19, MDF 10, independent 5, vacant 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court (judges are elected by the National Assembly for nine-year terms)"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance of Free Democrats or SzDSz [Gabor FODOR]; Christian Democratic People's Party or KDNP [Zsolt SEMJEN]; Hungarian Civic Alliance or Fidesz [Viktor ORBAN, chairman]; Hungarian Democratic Forum or MDF [Ibolya DAVID]; Hungarian Socialist Party or MSzP [Ildiko LENDVAI]"
+    },
+    "Political pressure groups and leaders": {
+      "Air Work Group (works to reduce air pollution in towns and cities); Company For Freedom Rights (Tarsasag a Szabadsagjogokert) or TASZ (personal data protection); Danube Circle (protests the building of the Gabchikovo-Nagymaros dam); Green Future (protests the impact of lead contamination of local factory on health of the people); environmentalists": {
+        "text": "Hungarian Ornithological and Nature Conservation Society (Magyar Madartani Egyesulet)or MME; Green Alternative (Zold Alternativa)"
+      }
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, CE, CEI, CERN, EAPC, EBRD, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SECI, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOMIG, UNWTO, UPU, WCL, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Bela SZOMBATI"
+      },
+      "chancery": {
+        "text": "3910 Shoemaker Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 362-6730"
+      },
+      "FAX": {
+        "text": "[1] (202) 966-8135"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador April H. FOLEY"
+      },
+      "embassy": {
+        "text": "Szabadsag ter 12, H-1054 Budapest"
+      },
+      "mailing address": {
+        "text": "pouch"
+      },
+      "telephone": {
+        "text": "[36] (1) 475-4400"
+      },
+      "FAX": {
+        "text": "[36] (1) 475-4764"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and green"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Hungary has made the transition from a centrally planned to a market economy, with a per capita income nearly two-thirds that of the EU-25 average. The private sector accounts for more than 80% of GDP. Foreign ownership of and investment in Hungarian firms is widespread, with cumulative foreign direct investment totaling more than $200 billion since 1989. The government's IMF-mandated austerity measures, imposed since late 2006, have reduced the budget deficit from over 9% of GDP in 2006 to 3.3% in 2008. Hungary's impending inability to service its short-term debt - brought on by the global credit crunch in late 2008 - led Budapest to seek and receive an IMF-arranged financial assistance package worth over $25 billion. The global financial crisis, declining exports, and low domestic consumption and fixed asset accumulation, dampened by government austerity measures, will result in a negative growth rate of about -1.5% to -2.5% in 2009."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$193.2 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$155.9 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$19,400 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.9%"
+      },
+      "industry": {
+        "text": "36.9%"
+      },
+      "services": {
+        "text": "60.2% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.2 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "5%"
+      },
+      "industry": {
+        "text": "32.4%"
+      },
+      "services": {
+        "text": "62.6% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.3% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "8.6% (1993 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.5%"
+      },
+      "highest 10%": {
+        "text": "24.1% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "24.4 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "20.2% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$67.7 billion"
+      },
+      "expenditures": {
+        "text": "$73 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "58.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "7.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.18% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$36.78 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$43.07 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$109.5 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$41.93 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, corn, sunflower seed, potatoes, sugar beets; pigs, cattle, poultry, dairy products"
+    },
+    "Industries": {
+      "text": "mining, metallurgy, construction materials, processed foods, textiles, chemicals (especially pharmaceuticals), motor vehicles"
+    },
+    "Industrial production growth rate": {
+      "text": "-1% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "37.74 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "37.77 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "8.871 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "12.77 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "37,830 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "162,100 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "72,050 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "195,400 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "20.18 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "2.643 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "13.17 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "21 million cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "11.47 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "8.098 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$8.922 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$93.86 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment 61.1%, other manufactures 28.7%, food products 6.5%, raw materials 2%, fuels and electricity 1.6% (2003)"
+    },
+    "Exports - partners": {
+      "text": "Germany 26.5%, Italy 5.4%, Romania 5.3%, Austria 4.9%, Slovakia 4.7%, France 4.7%, UK 4.5%, Czech Republic 4% (2008)"
+    },
+    "Imports": {
+      "text": "$93.4 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment 51.6%, other manufactures 35.7%, fuels and electricity 7.7%, food products 3.1%, raw materials 2.0% (2003)"
+    },
+    "Imports - partners": {
+      "text": "Germany 25.4%, Russia 9%, China 7.6%, Austria 6.1%, Netherlands 4.4%, France 4.4%, Italy 4.3% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$24.05 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$167.7 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$164.7 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$97.42 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "forints (HUF) per US dollar - 171.8 (2008), 183.83 (2007), 210.39 (2006), 199.58 (2005), 202.75 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.094 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "12.224 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the telephone system has been modernized and is capable of satisfying all requests for telecommunication service"
+      },
+      "domestic": {
+        "text": "the system is digitalized and highly automated; trunk services are carried by fiber-optic cable and digital microwave radio relay; a program for fiber-optic subscriber connections was initiated in 1996; competition among mobile-cellular service providers has led to a sharp increase in the use of mobile cellular phones since 2000 and a decrease in the number of fixed-line connections"
+      },
+      "international": {
+        "text": "country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground terminals"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 5, FM 90, shortwave 1 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "95 (2008)"
+    },
+    "Internet country code": {
+      "text": ".hu"
+    },
+    "Internet hosts": {
+      "text": "2.261 million (2009)"
+    },
+    "Internet users": {
+      "text": "5.873 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "46 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "20"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "8"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "26"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "11 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "5 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 4,407 km; oil 987 km; refined products 335 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "8,057 km"
+      },
+      "broad gauge": {
+        "text": "36 km 1.524-m gauge"
+      },
+      "standard gauge": {
+        "text": "7,802 km 1.435-m gauge (2,628 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "219 km 0.760-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "159,568 km"
+      },
+      "paved": {
+        "text": "70,050 km (30,874 km of interurban roads including 626 km of expressways)"
+      },
+      "unpaved": {
+        "text": "89,518 km (2005)"
+      }
+    },
+    "Waterways": {
+      "text": "1,622 km (most on Danube River) (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Budapest, Dunaujvaros, Gyor-Gonyu, Csepel, Baja, Mohacs"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Ground Forces, Hungarian Air Force (Magyar Legiero, ML) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18-50 years of age for voluntary military service; no conscription; 6-month service obligation (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,391,400"
+      },
+      "females age 16-49": {
+        "text": "2,337,240 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,887,755"
+      },
+      "females age 16-49": {
+        "text": "1,934,019 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "60,248"
+      },
+      "female": {
+        "text": "57,280 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.75% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking, are improving, but remain vulnerable; significant consumer of ecstasy\r\n"
+    }
+  }
+}

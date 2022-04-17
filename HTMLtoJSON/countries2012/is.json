@@ -1,0 +1,816 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Following World War II, the British withdrew from their mandate of Palestine, and the UN partitioned the area into Arab and Jewish states, an arrangement rejected by the Arabs. Subsequently, the Israelis defeated the Arabs in a series of wars without ending the deep tensions between the two sides. The territories Israel occupied since the 1967 war are not included in the Israel country profile, unless otherwise noted. On 25 April 1982, Israel withdrew from the Sinai pursuant to the 1979 Israel-Egypt Peace Treaty. In keeping with the framework established at the Madrid Conference in October 1991, bilateral negotiations were conducted between Israel and Palestinian representatives and Syria to achieve a permanent settlement. Israel and Palestinian officials signed on 13 September 1993 a Declaration of Principles (also known as the \"Oslo Accords\") guiding an interim period of Palestinian self-rule. Outstanding territorial and other disputes with Jordan were resolved in the 26 October 1994 Israel-Jordan Treaty of Peace. Progress toward a permanent status agreement was undermined by Israeli-Palestinian violence between September 2003 and February 2005. Israel in 2005 unilaterally disengaged from the Gaza Strip, evacuating settlers and its military while retaining control over most points of entry into the Gaza Strip. The election of HAMAS to head the Palestinian Legislative Council in 2006 froze relations between Israel and the Palestinian Authority (PA). In 2006 Israel engaged in a 34-day conflict with Hizballah in Lebanon in June-August 2006 and a 23-day conflict with HAMAS in the Gaza Strip during December 2008 and January 2009. Prime Minister Binyamin NETANYAHU formed a coalition in March 2009 following a February 2009 general election. Direct talks with the PA launched in September 2010 collapsed following the expiration of Israel's 10-month partial settlement construction moratorium in the West Bank."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Mediterranean Sea, between Egypt and Lebanon"
+    },
+    "Geographic coordinates": {
+      "text": "31 30 N, 34 45 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "20,770 sq km"
+      },
+      "land": {
+        "text": "20,330 sq km "
+      },
+      "water": {
+        "text": "440 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than New Jersey"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,017 km"
+      },
+      "border countries": {
+        "text": "Egypt 266 km, Gaza Strip 51 km, Jordan 238 km, Lebanon 79 km, Syria 76 km, West Bank 307 km "
+      }
+    },
+    "Coastline": {
+      "text": "273 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "to depth of exploitation "
+      }
+    },
+    "Climate": {
+      "text": "temperate; hot and dry in southern and eastern desert areas"
+    },
+    "Terrain": {
+      "text": "Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Dead Sea -408 m"
+      },
+      "highest point": {
+        "text": "Har Meron 1,208 m "
+      }
+    },
+    "Natural resources": {
+      "text": "timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "15.45%"
+      },
+      "permanent crops": {
+        "text": "3.88% "
+      },
+      "other": {
+        "text": "80.67% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "2,250 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "1.7 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.05  cu km/yr (31%/7%/62%)"
+      },
+      "per capita": {
+        "text": "305  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "sandstorms may occur during spring and summer; droughts; periodic earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "limited arable land and natural freshwater resources pose serious constraints; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation "
+      }
+    },
+    "Geography - note": {
+      "text": "Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti); there are about 355 Israeli civilian sites including about 145 small outpost communities in the West Bank, 41 sites in the Golan Heights, and 32 in East Jerusalem (2010 est.)"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Israeli(s) "
+      },
+      "adjective": {
+        "text": "Israeli "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Jewish 76.4% (of which Israel-born 67.1%, Europe/America-born 22.6%, Africa-born 5.9%, Asia-born 4.2%), non-Jewish 23.6% (mostly Arab) (2004)"
+    },
+    "Languages": {
+      "text": "Hebrew (official), Arabic (used officially for Arab minority), English (most commonly used foreign language)"
+    },
+    "Religions": {
+      "text": "Jewish 75.6%, Muslim 16.9%, Christian 2%, Druze 1.7%, other 3.8% (2008)"
+    },
+    "Population": {
+      "text": "7,590,758 (July 2012 est.)",
+      "note": "approximately 325,500 Israeli settlers live in the West Bank (2011); approximately 18,700 Israeli settlers live in the Golan Heights (2011); approximately 186,929 Israeli settlers live in East Jerusalem (2010) "
+    },
+    "note": "approximately 325,500 Israeli settlers live in the West Bank (2011); approximately 18,700 Israeli settlers live in the Golan Heights (2011); approximately 186,929 Israeli settlers live in East Jerusalem (2010) ",
+    "Age structure": {
+      "0-14 years": {
+        "text": "27.5% (male 1,067,967/ female 1,019,451)"
+      },
+      "15-64 years": {
+        "text": "62.2% (male 2,395,998/ female 2,326,884) "
+      },
+      "65 years and over": {
+        "text": "10.3% (male 342,620/ female 437,838) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "29.5 years"
+      },
+      "male": {
+        "text": "28.9 years "
+      },
+      "female": {
+        "text": "30.3 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "1.541% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "18.97 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "5.5 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.94 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "92% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.5% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "Tel Aviv-Yafo 3.219 million; Haifa 1.027 million; JERUSALEM (capital) 768,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female "
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "7 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.07 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "4.25 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "3.89 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "81.07 years"
+      },
+      "male": {
+        "text": "78.88 years "
+      },
+      "female": {
+        "text": "83.36 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.67 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "9.5% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.633 physicians/1,000 population (2007)"
+    },
+    "Hospital bed density": {
+      "text": "5.83 beds/1,000 population (2007)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population "
+      },
+      "rural": {
+        "text": "100% of population "
+      },
+      "total": {
+        "text": "100% of population "
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "7,500 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "22.9% (2001)"
+    },
+    "Education expenditures": {
+      "text": "5.9% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "97.1% "
+      },
+      "male": {
+        "text": "98.5% "
+      },
+      "female": {
+        "text": "95.9% (2004 est.) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "15 years "
+      },
+      "female": {
+        "text": "16 years (2008) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "14.7%"
+      },
+      "male": {
+        "text": "15.7% "
+      },
+      "female": {
+        "text": "13.9% (2009) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "State of Israel "
+      },
+      "conventional short form": {
+        "text": "Israel "
+      },
+      "local long form": {
+        "text": "Medinat Yisra'el "
+      },
+      "local short form": {
+        "text": "Yisra'el "
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Jerusalem"
+      },
+      "geographic coordinates": {
+        "text": "31 46 N, 35 14 E "
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time) "
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Friday in April; ends the Sunday between the holidays of Rosh Hashana and Yom Kippur "
+      },
+      "note": "Israel proclaimed Jerusalem as its capital in 1950, but the US, like all other countries, maintains its Embassy in Tel Aviv "
+    },
+    "note": "adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song \"Carul cu boi\" (The Ox Driven Cart) ",
+    "Administrative divisions": {
+      "text": "6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv"
+    },
+    "Independence": {
+      "text": "14 May 1948 (from League of Nations mandate under British administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May"
+    },
+    "Constitution": {
+      "text": "no formal constitution; some of the functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws of the parliament (Knesset), and the Israeli citizenship law; note - since May 2003 the Constitution, Law, and Justice Committee of the Knesset has been working on a draft constitution"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Shimon PERES (since 15 July 2007)"
+      },
+      "head of government": {
+        "text": "Prime Minister Binyamin NETANYAHU (since 31 March 2009) "
+      },
+      "cabinet": {
+        "text": "Cabinet selected by prime minister and approved by the Knesset "
+      },
+      "elections": {
+        "text": "president largely a ceremonial role and is elected by the Knesset for a seven-year term (one-term limit); election last held 13 June 2007 (next to be held in 2014 but can be called earlier); following legislative elections, the president, in consultation with party leaders, assigns the task of forming a governing coalition to a Knesset member who he or she determines is most likely to accomplish that task "
+      },
+      "election results": {
+        "text": "Shimon PERES elected president; number of votes in first round - Shimon PERES 58, Reuven RIVLIN 37, Colette AVITAL 21; PERES elected president in second round with 86 votes (unopposed) "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Knesset (120 seats; political parties are elected by popular vote and assigned seats for members on a proportional basis; members serve four-year terms)",
+      "elections": {
+        "text": "last held on 22 January 2013 (next to be held in 2017) "
+      },
+      "election results": {
+        "text": "percent of vote by party - Likud-Ahi 23.3%, Yesh Atid 14.3%, Labor 11.4%, The Jewish Home 9.1%, SHAS 8.7%, United Torah Judaism 5.2%, The Movement 5%, Meretz 4.5%, United Arab List 3.6%, Hadash 3%, Balad 2.6%, Kadima 2.1%; other 2.5%; seats by party - Likud-Ahi 31, Yesh Atid 19, Labor 15, The Jewish Home 12, SHAS 11, United Torah Judaism 7, The Movement 6, Meretz 6, United Arab List 4, HADASH 4, Balad 3, Kadima 2 "
+      },
+      "note": "Ehud BARAK and four others on 17 January 2011 split from the Labor Party and formed the Atzmaut (Independence) Party; the Labor Party holds 8 seats in the Knesset and the Independence Party holds 5 seats; Aztmaut did not submit a candidate list for the election on 22 January 2013\r\n "
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (justices appointed by Judicial Selection Committee - made up of all three branches of the government; mandatory retirement age is 70)"
+    },
+    "Political parties and leaders": {
+      "text": "Atzmaut (Independence) Party [Ehud BARAK]; Balad [Jamal ZAHALKA]; Democratic Front for Peace and Equality (HADASH) [Muhammad BARAKEH]; Kadima [Shaul MOFAZ]; Labor Party [Shelly YECHIMOVICH]; Likud [Binyamin NETANYAHU]; National Union Uri ARIEL]; SHAS [Eliyahu YISHAI]; The Jewish Home (HaBayit HaYehudi) [Naftali BENNETT]; The Movement (Hatnuah) [Tzipora \"Tzipi\" LIVNI]; The New Movement-Meretz [Haim ORON]; United Arab List-Ta'al [Ibrahim SARSUR]; United Torah Judaism or UTJ [Yaakov LITZMAN]; Yesh Atid [Yair LAPID]; Yisrael Beiteinu or YB [Avigdor LIEBERMAN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "B'Tselem [Jessica MONTELL, Executive Director] monitors human rights abuses; Peace Now [Yariv OPPENHEIMER, Secretary General] supports territorial concessions in the West Bank and Gaza Strip; YESHA Council of Settlements [Danny DAYAN, Chairman] promotes settler interests and opposes territorial compromise; Breaking the Silence [Yehuda SHAUL, Executive Director] collects testimonies from soldiers who served in the West Bank and Gaza Strip"
+    },
+    "International organization participation": {
+      "text": "BIS, BSEC (observer), CE (observer), CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Paris Club (associate), PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Michael B. OREN"
+      },
+      "chancery": {
+        "text": "3514 International Drive NW, Washington, DC 20008 "
+      },
+      "telephone": {
+        "text": "[1] (202) 364-5500 "
+      },
+      "FAX": {
+        "text": "[1] (202) 364-5607 "
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Daniel B. SHAPIRO"
+      },
+      "embassy": {
+        "text": "71 Hayarkon Street, Tel Aviv 63903 "
+      },
+      "telephone": {
+        "text": "[972] (3) 519-7575 "
+      },
+      "FAX": {
+        "text": "[972] (3) 516-4390 "
+      },
+      "consulate(s) general": {
+        "text": "Jerusalem; note - an independent US mission, established in 1928, whose members are not accredited to a foreign government "
+      }
+    },
+    "Flag description": {
+      "text": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times"
+    },
+    "National symbol(s)": {
+      "text": "Star of David"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Hatikvah\" (The Hope)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Naftali Herz IMBER/traditional, arranged by Samuel COHEN "
+      },
+      "note": "adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song \"Carul cu boi\" (The Ox Driven Cart) "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Israel has a technologically advanced market economy. Its major imports include crude oil, grains, raw materials, and military equipment. Cut diamonds, high-technology equipment, and pharmaceuticals are among the leading exports. Israel usually posts sizable trade deficits, which are covered by tourism and other service exports, as well as significant foreign investment inflows. The global financial crisis of 2008-09 spurred a brief recession in Israel, but the country entered the crisis with solid fundamentals - following years of prudent fiscal policy and a resilient banking sector. The economy has recovered better than most advanced, comparably sized economies. In 2010, Israel formally acceded to the OECD. Israel's economy also has weathered the Arab Spring because strong trade ties outside the Middle East have insulated the economy from spillover effects. Natural gasfields discovered off Israel's coast during the past two years have brightened Israel's energy security outlook. The Leviathan field was one of the world's largest offshore natural gas finds this past decade, and production from the Tama field is expected to meet all of Israel's natural gas demand beginning mid-2013. In mid-2011, public protests arose around income inequality and rising housing and commodity prices. The government formed committees to address some of the grievances but has maintained that it will not engage in deficit spending to satisfy populist demands."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$230.2 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "Israel's poverty line is $7.30 per person per day (2007) ",
+    "GDP (official exchange rate)": {
+      "text": "$246.8 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.7% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$31,200 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.5%"
+      },
+      "industry": {
+        "text": "31.4% "
+      },
+      "services": {
+        "text": "66.1% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "3.269 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2%"
+      },
+      "industry": {
+        "text": "16% "
+      },
+      "services": {
+        "text": "82% (September 2008) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.6% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "23.6%",
+      "note": "Israel's poverty line is $7.30 per person per day (2007) "
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.5%"
+      },
+      "highest 10%": {
+        "text": "24.3% (2008) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.5 (2001) "
+    },
+    "Investment (gross fixed)": {
+      "text": "19.5% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$62.64 billion"
+      },
+      "expenditures": {
+        "text": "$72 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "25.4% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.8% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "72.6% of GDP (2011 est.) "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.5% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "2.02% (31 December 2010 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.54% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$30.21 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$195.7 billion (31 December 2008 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$178 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$182.1 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "citrus, vegetables, cotton; beef, poultry, dairy products"
+    },
+    "Industrial production growth rate": {
+      "text": "2% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$1.873 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$64.19 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, software, cut diamonds, agricultural products, chemicals, textiles and apparel"
+    },
+    "Exports - partners": {
+      "text": "US 28.8%, Hong Kong 7.9%, Belgium 5.6%, UK 5%, India 4.5%, China 4% (2011)"
+    },
+    "Imports": {
+      "text": "$72.03 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "raw materials, military equipment, investment goods, rough diamonds, fuels, grain, consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 11.8%, China 7.4%, Germany 6.2%, Belgium 6.1%, Switzerland 5.4%, Italy 4.2% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$74.87 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$102.6 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$66.57 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$69.83 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "3.588 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "53.55 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "45.59 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "3.783 billion kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "12.07 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "99.7% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0.1% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.3% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "100 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "224,400 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "11.8 million bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "242,100 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "238,400 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "71,100 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "50,490 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1.55 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "3.65 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "2.1 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "270.7 billion cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "70.32 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.5 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "9.2 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "most highly developed system in the Middle East"
+      },
+      "domestic": {
+        "text": "good system of coaxial cable and microwave radio relay; all systems are digital; four privately-owned mobile-cellular service providers with countrywide coverage "
+      },
+      "international": {
+        "text": "country code - 972; submarine cables provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) "
+      }
+    },
+    "Broadcast media": {
+      "text": "state broadcasting network, operated by the Israel Broadcasting Authority (IBA), broadcasts on 2 channels, one in Hebrew and the other in Arabic; 5 commercial channels including a channel broadcasting in Russian, a channel broadcasting Knesset proceedings, and a music channel supervised by a public body; multi-channel satellite and cable TV packages provide access to foreign channels; IBA broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately-owned radio stations; overall more than 100 stations and repeater stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".il"
+    },
+    "Internet hosts": {
+      "text": "2.483 million (2012)"
+    },
+    "Internet users": {
+      "text": "4.525 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "47 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "29"
+      },
+      "over 3,047 m": {
+        "text": "2 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "5 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "6 "
+      },
+      "914 to 1,523 m": {
+        "text": "11 "
+      },
+      "under 914 m": {
+        "text": "5 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "18"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 "
+      },
+      "914 to 1,523 m": {
+        "text": "3 "
+      },
+      "under 914 m": {
+        "text": "14 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "3 (2012)"
+    },
+    "Pipelines": {
+      "text": "gas 211 km; oil 442 km; refined products 261 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "975 km"
+      },
+      "standard gauge": {
+        "text": "975 km 1.435-m gauge (2008) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "18,290 km"
+      },
+      "paved": {
+        "text": "18,290 km (includes 146 km of expressways) (2008) "
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "8"
+      },
+      "by type": {
+        "text": "cargo 1, container 7 "
+      },
+      "registered in other countries": {
+        "text": "48 (Bermuda 3, Georgia 1, Honduras 1, Liberia 34, Malta 3, Moldova 2, Panama 1, Saint Vincent and the Grenadines 3) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Ashdod, Elat (Eilat), Hadera, Haifa"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Israel Defense Forces (IDF), Israel Naval Force (IN), Israel Air Force (IAF) (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory (Jews, Druzes) and voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 36 months for enlisted men, 21 months for enlisted women, 48 months for officers; pilots commit to 9 years service; reserve obligation to age 41-51 (men), 24 (women) \r\n (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,797,960"
+      },
+      "females age 16-49": {
+        "text": "1,713,230 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,517,510"
+      },
+      "females age 16-49": {
+        "text": "1,446,132 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "62,304"
+      },
+      "female": {
+        "text": "59,418 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "7.3% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; Israel continues construction of a \"seam line\" separation barrier along parts of the Green Line and within the West Bank; Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005; Golan Heights is Israeli-occupied (Lebanon claims the Shab'a Farms area of Golan Heights); since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "31,119 (Eritrea); 9,000 (Sudan) (2011)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center"
+    }
+  }
+}

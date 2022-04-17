@@ -1,0 +1,690 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Niger became independent from France in 1960 and experienced single-party and military rule until 1991, when Gen. Ali SAIBOU was forced by public pressure to allow multiparty elections, which resulted in a democratic government in 1993. Political infighting brought the government to a standstill and in 1996 led to a coup by Col. Ibrahim BARE. In 1999, BARE was killed in a coup by military officers who promptly restored democratic rule and held elections that brought Mamadou TANDJA to power in December of that year. TANDJA was reelected in 2004. Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. A predominately Tuareg ethnic group emerged in February 2007, the Nigerien Movement for Justice (MNJ), and attacked several military targets in Niger's northern region throughout 2007 and 2008. Events have since evolved into a fledging insurgency."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, southeast of Algeria"
+    },
+    "Geographic coordinates": {
+      "text": "16 00 N, 8 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "1.267 million sq km"
+      },
+      "land": {
+        "text": "1,266,700 sq km"
+      },
+      "water": {
+        "text": "300 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,697 km"
+      },
+      "border countries": {
+        "text": "Algeria 956 km, Benin 266 km, Burkina Faso 628 km, Chad 1,175 km, Libya 354 km, Mali 821 km, Nigeria 1,497 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "desert; mostly hot, dry, dusty; tropical in extreme south"
+    },
+    "Terrain": {
+      "text": "predominately desert plains and sand dunes; flat to rolling plains in south; hills in north"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Niger River 200 m"
+      },
+      "highest point": {
+        "text": "Mont Bagzane 2,022 m"
+      }
+    },
+    "Natural resources": {
+      "text": "uranium, coal, iron ore, tin, phosphates, gold, molybdenum, gypsum, salt, petroleum"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "11.43%"
+      },
+      "permanent crops": {
+        "text": "0.01%"
+      },
+      "other": {
+        "text": "88.56% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "730 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "33.7 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.18  cu km/yr (4%/0%/95%)"
+      },
+      "per capita": {
+        "text": "156  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "recurring droughts"
+    },
+    "Environment - current issues": {
+      "text": "overgrazing; soil erosion; deforestation; desertification; wildlife populations (such as elephant, hippopotamus, giraffe, and lion) threatened because of poaching and habitat destruction"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "15,306,252 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "49.6% (male 3,840,379/female 3,758,674)"
+      },
+      "15-64 years": {
+        "text": "48% (male 3,658,361/female 3,690,373)"
+      },
+      "65 years and over": {
+        "text": "2.3% (male 159,984/female 198,481) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "15.2 years"
+      },
+      "male": {
+        "text": "14.9 years"
+      },
+      "female": {
+        "text": "15.4 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.677% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "51.6 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "14.83 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.57 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "16% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.81 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "116.66 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "121.72 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "111.45 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "52.6 years"
+      },
+      "male": {
+        "text": "51.39 years"
+      },
+      "female": {
+        "text": "53.85 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "7.75 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.8% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "60,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "4,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "respiratory disease": {
+        "text": "meningococcal meningitis"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Nationality": {
+      "noun": {
+        "text": "Nigerien(s)"
+      },
+      "adjective": {
+        "text": "Nigerien"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Haoussa 55.4%, Djerma Sonrai 21%, Tuareg 9.3%, Peuhl 8.5%, Kanouri Manga 4.7%, other 1.2% (2001 census)"
+    },
+    "Religions": {
+      "text": "Muslim 80%, other (includes indigenous beliefs and Christian) 20%"
+    },
+    "Languages": {
+      "text": "French (official), Hausa, Djerma"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "28.7%"
+      },
+      "male": {
+        "text": "42.9%"
+      },
+      "female": {
+        "text": "15.1% (2005 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "4 years"
+      },
+      "male": {
+        "text": "5 years"
+      },
+      "female": {
+        "text": "3 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.4% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Niger "
+      },
+      "conventional short form": {
+        "text": "Niger"
+      },
+      "local long form": {
+        "text": "Republique du Niger"
+      },
+      "local short form": {
+        "text": "Niger"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Niamey"
+      },
+      "geographic coordinates": {
+        "text": "13 31 N, 2 07 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 regions (regions, singular - region) includes 1 capital district* (communite urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder"
+    },
+    "Independence": {
+      "text": "3 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 18 December (1958)"
+    },
+    "Constitution": {
+      "text": "adopted 18 July 1999"
+    },
+    "Legal system": {
+      "text": "based on French civil law system and customary law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mamadou TANDJA (since 22 December 1999)"
+      },
+      "head of government": {
+        "text": "Prime Minister Ali Badjo GAMATIE (since 2 October 2009); appointed by the president and shares some executive responsibilities with the president"
+      },
+      "cabinet": {
+        "text": "26-member Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); second round of election last held 4 December 2004 (next to be held December 2009)"
+      },
+      "election results": {
+        "text": "Mamadou TANDJA reelected president; percent of vote - Mamadou TANDJA 65.5%, Mahamadou ISSOUFOU 34.5%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly (113 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 20 October 2009 (next to be held in 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - MNSD 76, RSD 15, RDP 7, PNA-Alouma 1, Alkalami 1, Nigerien Party of the Masses for Labor 1, independents 12"
+      }
+    },
+    "Judicial branch": {
+      "text": "State Court or Cour d'Etat; Court of Appeals or Cour d'Appel"
+    },
+    "Political parties and leaders": {
+      "text": "Alkalama; Democratic and Social Convention-Rahama or CDS-Rahama [Mahamane OUSMANE]; National Movement for a Developing Society-Nassara or MNSD-Nassara [Hama AMADOU]; Niger Social Democratic Party or PSDN; Nigerien Alliance for Democracy and Social Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moumouni DJERMAKOYE]; Nigerien Party for Autonomy or PNA-Alouma [Sanousi JACKOU]; Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Issifou MAHAMADOU]; Nigerien Party of the Masses for Labor; Nigerien Progressive Party or PPN-RDA; Rally for Democracy and Progress or RDP-jama'a [Hamid ALGABID]; Social and Democratic Rally or RSD-Gaskiyya [Cheiffou AMADOU]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "The Nigerien Movement for Justice or MNJ, a predominantly Tuareg rebel group"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC, MONUC, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Aminata Djibrilla Maiga TOURE"
+      },
+      "chancery": {
+        "text": "2204 R Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 483-4224 through 4227"
+      },
+      "FAX": {
+        "text": "[1] (202)483-3169"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Bernadette M. ALLEN"
+      },
+      "embassy": {
+        "text": "Rue Des Ambassades, Niamey"
+      },
+      "mailing address": {
+        "text": "B. P. 11201, Niamey"
+      },
+      "telephone": {
+        "text": "[227] 20-72-26-61 thru 64"
+      },
+      "FAX": {
+        "text": "[227] 20-73-31-67"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of orange (top), white, and green with a small orange disk (representing the sun) centered in the white band; similar to the flag of India, which has a blue spoked wheel centered in the white band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Niger is one of the poorest countries in the world, ranking near last on the United Nations Development Fund index of human development. It is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Drought cycles, desertification, and strong population growth have undercut the economy. Niger shares a common currency, the CFA franc, and a common central bank, the Central Bank of West African States (BCEAO), with seven other members of the West African Monetary Union. In December 2000, Niger qualified for enhanced debt relief under the International Monetary Fund program for Highly Indebted Poor Countries (HIPC) and concluded an agreement with the Fund on a Poverty Reduction and Growth Facility (PRGF). Debt relief provided under the enhanced HIPC initiative significantly reduces Niger's annual debt service obligations, freeing funds for expenditures on basic health care, primary education, HIV/AIDS prevention, rural infrastructure, and other programs geared at poverty reduction. In December 2005, Niger received 100% multilateral debt relief from the IMF, which translates into the forgiveness of approximately US $86 million in debts to the IMF, excluding the remaining assistance under HIPC. Nearly half of the government's budget is derived from foreign donor resources. Future growth may be sustained by exploitation of oil, gold, coal, and other mineral resources. Uranium prices have increased sharply in the last few years. A drought and locust infestation in 2005 led to food shortages for as many as 2.5 million Nigeriens.\r\n\r\n\r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$9.097 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "since 1 January 1999, the West African CFA franc (XOF) has been pegged to the euro at a rate of 655.957 CFA francs per euro; West African CFA franc (XOF) coins and banknotes are not accepted in countries using Central African CFA francs (XAF), and vice versa, even though the two currencies trade at par",
+    "GDP (official exchange rate)": {
+      "text": "$5.382 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "39%"
+      },
+      "industry": {
+        "text": "17%"
+      },
+      "services": {
+        "text": "44% (2001)"
+      }
+    },
+    "Labor force": {
+      "text": "4.688 million (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "90%"
+      },
+      "industry": {
+        "text": "6%"
+      },
+      "services": {
+        "text": "4% (1995)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "63% (1993 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.3%"
+      },
+      "highest 10%": {
+        "text": "35.7% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.5 (1995)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$320 million (includes $134 million from foreign sources)"
+      },
+      "expenditures": {
+        "text": "$320 million (2002 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.1% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA%"
+    },
+    "Stock of money": {
+      "text": "$604.5 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$193.7 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$318.9 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cowpeas, cotton, peanuts, millet, sorghum, cassava (tapioca), rice; cattle, sheep, goats, camels, donkeys, horses, poultry"
+    },
+    "Industries": {
+      "text": "uranium mining, cement, brick, soap, textiles, food processing, chemicals, slaughterhouses"
+    },
+    "Industrial production growth rate": {
+      "text": "5.1% (2003 est.)"
+    },
+    "Electricity - production": {
+      "text": "150 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "589.5 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "450 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "6,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "5,367 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$321 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$428 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "uranium ore, livestock, cowpeas, onions"
+    },
+    "Exports - partners": {
+      "text": "Japan 80.4%, Nigeria 8.5%, France 2.9% (2008)"
+    },
+    "Imports": {
+      "text": "$800 million (2006)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery, vehicles and parts, petroleum, cereals"
+    },
+    "Imports - partners": {
+      "text": "France 16.6%, China 10.9%, Algeria 9.6%, Nigeria 7.4%, French Polynesia 6.5%, Belgium 4.2%, Cote d'Ivoire 4.2% (2008)"
+    },
+    "Debt - external": {
+      "text": "$2.1 billion (2003 est.)"
+    },
+    "Exchange rates": {
+      "text": "Communaute Financiere Africaine francs (XOF) per US dollar - 447.81 (2008 est.), 493.51 (2007), 522.59 (2006), 527.47 (2005), 528.29 (2004)",
+      "note": "since 1 January 1999, the West African CFA franc (XOF) has been pegged to the euro at a rate of 655.957 CFA francs per euro; West African CFA franc (XOF) coins and banknotes are not accepted in countries using Central African CFA francs (XAF), and vice versa, even though the two currencies trade at par"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "24,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.677 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate; small system of wire, radio telephone communications, and microwave radio relay links concentrated in the southwestern area of Niger"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity only 13 per 100 persons with cellular subscribership increasing rapidly from a small base; domestic satellite system with 3 earth stations and 1 planned"
+      },
+      "international": {
+        "text": "country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 5, FM 6, shortwave 4 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "5 (2007)"
+    },
+    "Internet country code": {
+      "text": ".ne"
+    },
+    "Internet hosts": {
+      "text": "253 (2009)"
+    },
+    "Internet users": {
+      "text": "80,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "28 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "18"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "14"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "18,550 km"
+      },
+      "paved": {
+        "text": "3,803 km"
+      },
+      "unpaved": {
+        "text": "14,747 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "300 km (the Niger, the only major river, is navigable to Gaya between September and March) (2008)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Nigerien Armed Forces (Forces Armees Nigeriennes, FAN)": {
+        "text": "Army, Niger Air Force (Force Aerienne du Niger) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17-21 years of age for selective compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,871,868"
+      },
+      "females age 16-49": {
+        "text": "2,696,966 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,019,553"
+      },
+      "females age 16-49": {
+        "text": "2,046,906 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "170,060"
+      },
+      "female": {
+        "text": "163,996 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.3% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; much of Benin-Niger boundary, including tripoint with Nigeria, remains undemarcated; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Niger is a source, transit, and destination country for children and women trafficked for forced labor and sexual exploitation; caste-based slavery practices, rooted in ancestral master-slave relationships, continue in isolated areas of the country - an estimated 8,800 to 43,000 Nigeriens live under conditions of traditional slavery; children are trafficked within Niger for forced begging, forced labor in gold mines, domestic servitude, sexual exploitation, and possibly for forced labor in agriculture and stone quarries; women and children from neighboring states are trafficked to and through Niger for domestic servitude, sexual exploitation, forced labor in mines and on farms, and as mechanics and welders"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Niger is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to eliminate trafficking in 2007; in particular, measures to combat and eliminate traditional slavery practices were weak; the government's overall law enforcement efforts have stalled from 2006; while efforts to protect child trafficking victims were steady, the government failed to provide services to or rescue adult victims subjected to traditional slavery practices, and made poor efforts to educate the public about traditional slavery practices in general (2008)"
+      }
+    }
+  }
+}

@@ -1,0 +1,886 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state under the strong hand of Marshal TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Serb armies were mostly cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southeastern Europe, bordering the Adriatic Sea, between Bosnia and Herzegovina and Slovenia"
+    },
+    "Geographic coordinates": {
+      "text": "45 10 N, 15 30 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "56,594 sq km"
+      },
+      "land": {
+        "text": "55,974 sq km"
+      },
+      "water": {
+        "text": "620 sq km"
+      },
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than West Virginia"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,237 km"
+      },
+      "border countries (5)": {
+        "text": "Bosnia and Herzegovina 956 km, Hungary 348 km, Montenegro 19 km, Serbia 314 km, Slovenia 600 km"
+      }
+    },
+    "Coastline": {
+      "text": "5,835 km (mainland 1,777 km, islands 4,058 km)"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast"
+    },
+    "Terrain": {
+      "text": "geographically diverse; flat plains along Hungarian border, low mountains and highlands near Adriatic coastline and islands"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "331 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Dinara 1,831 m"
+    },
+    "Natural resources": {
+      "text": "oil, some coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, silica, mica, clays, salt, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "23.7%"
+      },
+      "text": "arable land 16%; permanent crops 1.5%; permanent pasture 6.2%",
+      "forest": {
+        "text": "34.4%"
+      },
+      "other": {
+        "text": "41.9% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "240 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "air pollution improving but still a concern in urban settings and in emissions arriving from neighboring countries; surface water pollution in the Danube River Basin"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Croatia"
+      },
+      "conventional short form": {
+        "text": "Croatia"
+      },
+      "local long form": {
+        "text": "Republika Hrvatska"
+      },
+      "local short form": {
+        "text": "Hrvatska"
+      },
+      "former": {
+        "text": "People's Republic of Croatia, Socialist Republic of Croatia"
+      },
+      "etymology": {
+        "text": "name derives from the Croats, a Slavic tribe who migrated to the Balkans in the 7th century A.D."
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Zagreb"
+      },
+      "geographic coordinates": {
+        "text": "45 48 N, 16 00 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska(Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)"
+    },
+    "Independence": {
+      "text": "25 June 1991 (from Yugoslavia)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 8 October (1991) and Statehood Day, 25 June (1991); note - 25 June 1991 was the day the Croatian parliament voted for independence; following a three-month moratorium to allow the European Community to solve the Yugoslav crisis peacefully, parliament adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 22 December 1990"
+      },
+      "amendments": {
+        "text": "proposed by at least one-fifth of the Assembly membership, by the president of the republic, by the Government of Croatia, or through petition by at least 10% of the total electorate; proceedings to amend require majority vote by the Assembly; passage requires two-thirds majority vote by the Assembly; passage by petition requires a majority vote in a referendum, and promulgation by the Assembly; amended several times, last in 2014 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Croatia"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age, 16 if employed; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Kolinda GRABAR-KITAROVIC (since 19 February 2015)"
+      },
+      "head of government": {
+        "text": "Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Damir KRSTICEVIC (since 19 October 2016), Martina DALIC (since 19 October 2016), Predrag STROMAR (since 9 June 2017), and Marija Pejcinovic BURIC (since 19 June 2017)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers named by the prime minister and approved by the Assembly"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 December 2014 and 11 January 2015 (next to be held in 2019); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly"
+      },
+      "election results": {
+        "text": "Kolinda GRABAR-KITAROVIC elected president; percent of vote in the second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms"
+      },
+      "elections": {
+        "text": "last held on 11 September 2016 (next to be held by December 2020) - Assembly voted on 20 June 2016 to dissolve on 15 July 2016, resulting in snap elections"
+      },
+      "election results": {
+        "text": "percent of vote by party/coalition - NA; number of seats by party/coalition - HDZ coalition 61, People's Coalition 54, Most-NL 13, Only Option 8, minorities 8 (includes SDSS 3), other 7"
+      },
+      "note": {
+        "text": "as of August 2017, seats by party - HDZ 55, SDP 37, MOST-NL 12, HNS 5, HSS 5, GLAS 4, IDS 3, SDSS 3, Human Blockade 3, HDS 2, PH 2, other 7, independent 13"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)"
+      },
+      "judge selection and term of office": {
+        "text": "president of Supreme Court nominated by president of Croatia and elected by Croatian Sabor for a 4-year term; other Supreme Court justices appointed by National Judicial Council; all judges serve until age 70"
+      },
+      "subordinate courts": {
+        "text": "Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside Croatia's judicial system"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social Democratic Party of Croatia or SDP [Davor BERNARDIC]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "human rights groups"
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Pjer SIMUNOVIC (since 8 September 2017)"
+      },
+      "chancery": {
+        "text": "2343 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 588-5899"
+      },
+      "FAX": {
+        "text": "[1] (202) 588-8936"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Julieta Valls NOYES (since 5 October 2015)"
+      },
+      "embassy": {
+        "text": "2 Thomas Jefferson Street, 10010 Zagreb"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[385] (1) 661-2200"
+      },
+      "FAX": {
+        "text": "[385] (1) 661-2373"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia",
+      "note": {
+        "text": "the Pan-Slav colors were inspired by the 19th-century flag of Russia"
+      }
+    },
+    "National symbol(s)": {
+      "text": "red-white checkerboard; national colors: red, white, blue"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Lijepa nasa domovino\" (Our Beautiful Homeland)"
+      },
+      "lyrics/music": {
+        "text": "Antun MIHANOVIC/Josip RUNJANIN"
+      },
+      "note": {
+        "text": "adopted 1972; \"Lijepa nasa domovino,\" whose lyrics were written in 1835, served as an unofficial anthem beginning in 1891"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "On 1 July 2013, Croatia joined the EU, following a decade-long application process. Croatia will be a member of the European Exchange Rate Mechanism, with its currency effectively pegged to the euro, until it meets the criteria for joining the Economic and Monetary Union and adopts the euro as its currency. EU accession has increased pressure on the government to reduce Croatia\u2019s relatively high public debt, which triggered the EU\u2019s excessive deficit procedure for fiscal consolidation. Zagreb has cut spending since 2012, and the government also raised additional revenues through more stringent tax collection and by raising the value-added tax. The government has also sought to accelerate privatization of non-strategic assets, with mixed success."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$88.74 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$50.73 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$21,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Gross national saving": {
+      "text": "20.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "57.9%"
+      },
+      "government consumption": {
+        "text": "19.2%"
+      },
+      "investment in fixed capital": {
+        "text": "20.1%"
+      },
+      "investment in inventories": {
+        "text": "-0.3%"
+      },
+      "exports of goods and services": {
+        "text": "49.7%"
+      },
+      "imports of goods and services": {
+        "text": "-46.6% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "4.1%"
+      },
+      "industry": {
+        "text": "26.5%"
+      },
+      "services": {
+        "text": "69.4% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "arable crops (wheat, corn, barley, sugar beet, sunflower, rapeseed, alfalfa, clover); vegetables (potatoes, cabbage, onion, tomato, pepper); fruits (apples, plum, mandarins, olives), grapes for wine; livestock (cattle, cows, pigs); dairy products"
+    },
+    "Industries": {
+      "text": "chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "4.6% (2016 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Labor force": {
+      "text": "1.617 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1.9%"
+      },
+      "industry": {
+        "text": "27.6%"
+      },
+      "services": {
+        "text": "70.4% (2014)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "17.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Population below poverty line": {
+      "text": "19.5% (2014 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.3%"
+      },
+      "highest 10%": {
+        "text": "27.5% (2008 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "29 (1998)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$23.99 billion"
+      },
+      "expenditures": {
+        "text": "$24.39 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "47.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-0.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Public debt": {
+      "text": "86.3% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "7% (31 December 2012)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.83% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$10.11 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$41.1 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$42.41 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$33.44 billion (31 December 2012 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Current account balance": {
+      "text": "$2.284 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Exports": {
+      "text": "$11.32 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Exports - commodities": {
+      "text": "transport equipment, machinery, textiles, chemicals, foodstuffs, fuels"
+    },
+    "Exports - partners": {
+      "text": "Italy 13.5%, Slovenia 12.3%, Germany 11.6%, Bosnia and Herzegovina 9.2%, Austria 6.3%, Serbia 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$19.06 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, transport and electrical equipment; chemicals, fuels and lubricants; foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Germany 16.1%, Italy 12.6%, Slovenia 10.9%, Austria 7.9%, Hungary 7.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$14.97 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Debt - external": {
+      "text": "$49.33 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$39.76 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$8.032 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Exchange rates": {
+      "text": "5.85 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "10.82 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "15.8 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Electricity - exports": {
+      "text": "1.858 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Electricity - imports": {
+      "text": "8.64 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "4.915 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "43.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "39% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "12% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Crude oil - production": {
+      "text": "13,580 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "47,200 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "71 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "65,860 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "69,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "33,660 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "31,840 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Natural gas - production": {
+      "text": "1.829 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "3.59 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "422 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "1.072 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "24.92 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "19 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "1,435,977"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "33 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "4,414,347"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "102 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the telecommunications network has improved steadily since the mid-1990s, covering much of what were once inaccessible areas; local lines are digital"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity has dropped somewhat to about 33 per 100 persons; mobile-cellular telephone subscriptions now even with the population"
+      },
+      "international": {
+        "text": "country code - 385; digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik; the ADRIA-1 submarine cable provides connectivity to Albania and Greece (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks; roughly 25 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates 3 national radio networks and 9 regional radio stations; 2 privately owned national radio networks and more than 170 regional, county, city, and community radio stations (2012)"
+    },
+    "Internet country code": {
+      "text": ".hr"
+    },
+    "Internet users": {
+      "total": {
+        "text": "3,135,949"
+      },
+      "percent of population": {
+        "text": "72.7% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "86"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "46"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,782,666"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "775,320 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9A (2016)"
+    },
+    "Airports": {
+      "text": "69 (2013)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "24"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "10 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "45"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "38 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 2,410 km; oil 610 km (2011)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,722 km"
+      },
+      "standard gauge": {
+        "text": "2,722 km 1.435-m gauge (985 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "26,958 km (includes 1,416 km of expressways) (2015)"
+      },
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Waterways": {
+      "text": "785 km (2009)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "77"
+      },
+      "by type": {
+        "text": "bulk carrier 24, cargo 7, chemical tanker 8, passenger/cargo 27, petroleum tanker 10, refrigerated cargo 1"
+      },
+      "foreign-owned": {
+        "text": "2 (Norway 2)"
+      },
+      "registered in other countries": {
+        "text": "31 (Bahamas 1, Belize 1, Liberia 1, Malta 6, Marshall Islands 12, Panama 2, Saint Vincent and the Grenadines 8) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Ploce, Rijeka, Sibernik, Split"
+      },
+      "river port(s)": {
+        "text": "Vukovar (Danube)"
+      },
+      "oil terminal(s)": {
+        "text": "Omisalj"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.69% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Military branches": {
+      "text": "Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH) consists of five major commands directly subordinate to a General Staff: Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes coast guard), Air Force and Air Defense Command (Hrvatsko Ratno Zrakoplovstvo I Protuzracna Obrana), Joint Education and Training Command, Logistics Command; Military Police Force supports each of the three Croatian military forces (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for voluntary military service; conscription abolished in 2008 (2017)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "2,873 (2016)"
+      },
+      "note": {
+        "text": "659,105 estimated refugee and migrant arrivals (January 2015 - December 2016); flows have slowed considerably in 2017; Croatia is predominantly a transit country and hosts fewer than 600 asylum seekers as of September 2017"
+      }
+    },
+    "Illicit drugs": {
+      "text": "primarily a transit country along the Balkan route for maritime shipments of South American cocaine bound for Western Europe and other illicit drugs and chemical precursors to and from Western Europe; no significant domestic production of illicit drugs"
+    }
+  }
+}

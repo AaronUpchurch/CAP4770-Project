@@ -1,0 +1,746 @@
+{
+  "Introduction": {
+    "Background": {
+      "As Europe's largest economy and second most populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating World Wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949": {
+        "text": "the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key Western economic and security organizations, the EC, which became the EU, and NATO, while the Communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German unification in 1990. Since then, Germany has expended considerable funds to bring Eastern productivity and wages up to Western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro. In January 2011, Germany assumed a nonpermanent seat on the UN Security Council for the 2011-12 term."
+      }
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Europe, bordering the Baltic Sea and the North Sea, between the Netherlands and Poland, south of Denmark"
+    },
+    "Geographic coordinates": {
+      "text": "51 00 N, 9 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "357,022 sq km"
+      },
+      "land": {
+        "text": "348,672 sq km"
+      },
+      "water": {
+        "text": "8,350 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Montana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,621 km"
+      },
+      "border countries": {
+        "text": "Austria 784 km, Belgium 167 km, Czech Republic 646 km, Denmark 68 km, France 451 km, Luxembourg 138 km, Netherlands 577 km, Poland 456 km, Switzerland 334 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,389 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind"
+    },
+    "Terrain": {
+      "text": "lowlands in north, uplands in center, Bavarian Alps in south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Neuendorf bei Wilster -3.54 m"
+      },
+      "highest point": {
+        "text": "Zugspitze 2,963 m"
+      }
+    },
+    "Natural resources": {
+      "text": "coal, lignite, natural gas, iron ore, copper, nickel, uranium, potash, salt, construction materials, timber, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "33.13%"
+      },
+      "permanent crops": {
+        "text": "0.6%"
+      },
+      "other": {
+        "text": "66.27% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "4,850 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "188 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "38.01  cu km/yr (12%/68%/20%)"
+      },
+      "per capita": {
+        "text": "460  cu m/yr (2001)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flooding"
+    },
+    "Environment - current issues": {
+      "text": "emissions from coal-burning utilities and industries contribute to air pollution; acid rain, resulting from sulfur dioxide emissions, is damaging forests; pollution in the Baltic Sea from raw sewage and industrial effluents from rivers in eastern Germany; hazardous waste disposal; government established a mechanism for ending the use of nuclear power over the next 15 years; government working to meet EU commitment to identify nature preservation areas in line with the EU's Flora, Fauna, and Habitat directive"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on North European Plain and along the entrance to the Baltic Sea"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "82,282,988 (July 2010 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "13.7% (male 5,768,366/female 5,470,516)"
+      },
+      "15-64 years": {
+        "text": "66.1% (male 27,707,761/female 26,676,759)"
+      },
+      "65 years and over": {
+        "text": "20.3% (male 7,004,805/female 9,701,551) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "44.3 years"
+      },
+      "male": {
+        "text": "43 years"
+      },
+      "female": {
+        "text": "45.6 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.061% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "8.21 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "11 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "2.19 migrant(s)/1,000 population (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "74% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.055 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.72 male(s)/female"
+      },
+      "total population": {
+        "text": "0.97 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "3.95 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "4.36 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.51 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.41 years"
+      },
+      "male": {
+        "text": "76.41 years"
+      },
+      "female": {
+        "text": "82.57 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.42 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "53,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "German(s)"
+      },
+      "adjective": {
+        "text": "German"
+      }
+    },
+    "Ethnic groups": {
+      "text": "German 91.5%, Turkish 2.4%, other 6.1% (made up largely of Greek, Italian, Polish, Russian, Serbo-Croatian, Spanish)"
+    },
+    "Religions": {
+      "text": "Protestant 34%, Roman Catholic 34%, Muslim 3.7%, unaffiliated or other 28.3%"
+    },
+    "Languages": {
+      "text": "German"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "16 years"
+      },
+      "male": {
+        "text": "16 years"
+      },
+      "female": {
+        "text": "16 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.4% of GDP (2006)"
+    },
+    "People - note": {
+      "text": "second most populous country in Europe after Russia"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federal Republic of Germany "
+      },
+      "conventional short form": {
+        "text": "Germany"
+      },
+      "local long form": {
+        "text": "Bundesrepublik Deutschland"
+      },
+      "local short form": {
+        "text": "Deutschland"
+      },
+      "former": {
+        "text": "German Empire, German Republic, German Reich"
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Berlin"
+      },
+      "geographic coordinates": {
+        "text": "52 31 N, 13 24 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "16 states (Laender, singular - Land); Baden-Wurttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat)"
+    },
+    "Independence": {
+      "18 January 1871 (German Empire unification); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed 7 October 1949 and included the former USSR zone; West Germany and East Germany unified 3 October 1990; all four powers formally relinquished rights 15 March 1991; notable earlier dates": {
+        "text": "10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)"
+      }
+    },
+    "National holiday": {
+      "text": "Unity Day, 3 October (1990)"
+    },
+    "Constitution": {
+      "text": "23 May 1949, known as Basic Law; became constitution of the united Germany 3 October 1990"
+    },
+    "Legal system": {
+      "text": "civil law system with indigenous concepts; judicial review of legislative acts in the Federal Constitutional Court; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Christian WULFF (since 30 June 2010)"
+      },
+      "head of government": {
+        "text": "Chancellor Angela MERKEL (since 22 November 2005)"
+      },
+      "cabinet": {
+        "text": "Cabinet or Bundesminister (Federal Ministers) appointed by the president on the recommendation of the chancellor"
+      },
+      "elections": {
+        "text": "president elected for a five-year term (eligible for a second term) by a Federal Assembly, including all members of the Federal Diet and an equal number of delegates elected by the state parliaments; election last held on 30 June 2010 (next to be held by June 2015); chancellor elected by an absolute majority of the Federal Diet for a four-year term; Bundestag vote for Chancellor last held after 27 September 2009 (next to follow the legislative election to be held no later than 2013)"
+      },
+      "election results": {
+        "text": "Christian WULFF elected president; received 625 votes of the Federal Assembly against 494 for GAUCK and 121 abstentions; Angela MERKEL reelected chancellor; vote by Federal Diet 323 to 285 with four abstentions"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the Federal Council or Bundesrat (69 votes; state governments sit in the Council; each has three to six votes in proportion to population and is required to vote as a block) and the Federal Diet or Bundestag (622 seats; members elected by popular vote for a four-year term under a system of personalized proportional representation; a party must win 5% of the national vote or three direct mandates to gain proportional representation and caucus recognition)",
+      "elections": {
+        "text": "Bundestag - last held on 27 September 2009 (next to be held no later than autumn 2013); note - there are no elections for the Bundesrat; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election"
+      },
+      "election results": {
+        "text": "Bundestag - percent of vote by party - CDU/CSU 33.8%, SPD 23%, FDP 14.6%, Left 11.9%, Greens 10.7%, other 6%; seats by party - CDU/CSU 239, SPD 146, FDP 93, Left 76, Greens 68"
+      }
+    },
+    "Judicial branch": {
+      "text": "Federal Constitutional Court or Bundesverfassungsgericht (half the judges are elected by the Bundestag and half by the Bundesrat)"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance '90/Greens [Claudia ROTH and Cem OZDEMIR]; Christian Democratic Union or CDU [Angela MERKEL]; Christian Social Union or CSU [Horst SEEHOFER]; Free Democratic Party or FDP [Guido WESTERWELLE]; Left Party or Die Linke [Klaus ERNST and Gesine LOETZSCH]; Social Democratic Party or SPD [Sigmar GABRIEL]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "business associations and employers' organizations; trade unions; religious, immigrant, expellee, and veterans groups"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CDB, CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, FATF, G-20, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, SECI (observer), SICA (observer), UN, UN Security Council (temporary), UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMIS, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Klaus SCHARIOTH"
+      },
+      "chancery": {
+        "text": "4645 Reservoir Road NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 298-4000"
+      },
+      "FAX": {
+        "text": "[1] (202) 298-4249"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Philip D. MURPHY"
+      },
+      "embassy": {
+        "text": "Pariser Platz 2, 14191 Berlin; note - new embassy opened 4 July 2008"
+      },
+      "mailing address": {
+        "text": "PSC 120, Box 1000, APO AE 09265, Clayallee 170, 14195 Berlin"
+      },
+      "telephone": {
+        "text": "[49] (030) 2385174"
+      },
+      "FAX": {
+        "text": "[49] (030) 8305-1215"
+      },
+      "consulate(s) general": {
+        "text": "Duesseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Lied der Deutschen\" (Song of the Germans)"
+      },
+      "lyrics/music": {
+        "text": "August Heinrich HOFFMANN VON FALLERSLEBE/Franz Joseph HAYDN"
+      },
+      "note": "adopted 1922, restored 1990; the anthem, also known as \"Deutschlandlied\" (Song of Germany), was abolished in 1945 because of the Nazi's use of the first verse, specifically the phrase, \"Deutschland, Deutschland uber alles\" (Germany, Germany above all) to promote nationalism; since restoration in 1990, only the third verse is sung"
+    },
+    "note": "adopted 1922, restored 1990; the anthem, also known as \"Deutschlandlied\" (Song of Germany), was abolished in 1945 because of the Nazi's use of the first verse, specifically the phrase, \"Deutschland, Deutschland uber alles\" (Germany, Germany above all) to promote nationalism; since restoration in 1990, only the third verse is sung"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The German economy - the fifth largest economy in the world in PPP terms and Europe's largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment and benefits from a highly skilled labor force. Like its western European neighbors, Germany faces significant demographic challenges to sustained long-term growth. Low fertility rates and declining net immigration are increasing pressure on the country's social welfare system and necessitate structural reforms. The modernization and integration of the eastern German economy - where unemployment can exceed 20% in some municipalities - continues to be a costly long-term process, with annual transfers from west to east amounting in 2008 alone to roughly $12 billion. Reforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, contributed to strong growth in 2006 and 2007 and falling unemployment, which in 2008 reached a new post-reunification low of 7.8%. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II - and its healthy decrease in 2010. GDP contracted nearly 5% in 2009 but grew by 3.3% in 2010. Germany crept out of recession thanks largely to rebounding manufacturing orders and exports - primarily outside the Euro Zone - and relatively steady consumer demand. Stimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL's second term increased Germany's budget deficit to 3.3% in 2009 and to 3.6% in 2010. The EU has given Germany until 2013 to get its consolidated budget deficit below 3% of GDP. A new constitutional amendment likewise limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016.\r\n \r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.998 trillion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$3.306 trillion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$36,400 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.8%"
+      },
+      "industry": {
+        "text": "27.9%"
+      },
+      "services": {
+        "text": "71.3% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "43.35 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.4%"
+      },
+      "industry": {
+        "text": "29.7%"
+      },
+      "services": {
+        "text": "67.8% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.5% (2009 est.)",
+      "note": "this is the International Labor Organization's estimated rate for international comparisons; Germany's Federal Employment Office estimated a seasonally adjusted rate of 10.8%"
+    },
+    "Population below poverty line": {
+      "text": "11% (2001 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.6%"
+      },
+      "highest 10%": {
+        "text": "24% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "30 (1994)"
+    },
+    "Investment (gross fixed)": {
+      "text": "18% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "73.2% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.3% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3% (31 December 2008)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.97% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.681 trillion (31 December 2009 est)",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$4.202 trillion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$5.019 trillion (31 December 2008 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$2.106 trillion (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "potatoes, wheat, barley, sugar beets, fruit, cabbages; cattle, pigs, poultry"
+    },
+    "Industries": {
+      "text": "among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, food and beverages, shipbuilding, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "9% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "593.4 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "547.3 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "61.7 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "41.67 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "156,800 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2.437 million bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "536,600 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "2.862 million bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "276 million bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "15.29 billion cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "96.26 billion cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "12.64 billion cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "94.57 billion cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "175.6 billion cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "$168.1 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$1.145 trillion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery, vehicles, chemicals, metals and manufactures, foodstuffs, textiles"
+    },
+    "Exports - partners": {
+      "text": "France 10.2%, US 6.7%, Netherlands 6.7%, UK 6.6%, Italy 6.3%, Austria 6%, China 4.5%, Switzerland 4.4% (2009)"
+    },
+    "Imports": {
+      "text": "$956.7 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery, vehicles, chemicals, foodstuffs, textiles, metals"
+    },
+    "Imports - partners": {
+      "text": "Netherlands 8.5%, China 8.2%, France 8.2%, US 5.9%, Italy 5.9%, UK 4.9%, Belgium 4.3%, Austria 4.3%, Switzerland 4.2% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$180.8 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.158 trillion (31 December 2008)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.054 trillion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.46 trillion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.7715 (2010), 0.7179 (2009), 0.6827 (2008), 0.7345 (2007), 0.7964 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "48.7 million (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "105 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Germany has one of the world's most technologically advanced telecommunications systems; as a result of intensive capital expenditures since reunification, the formerly backward system of the eastern part of the country, dating back to World War II, has been modernized and integrated with that of the western part"
+      },
+      "domestic": {
+        "text": "Germany is served by an extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries"
+      },
+      "international": {
+        "text": "country code - 49; Germany's international service is excellent worldwide, consisting of extensive land and undersea cable facilities as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2001)"
+      }
+    },
+    "Broadcast media": {
+      "text": "a mixture of publicly-operated and privately-owned TV and radio stations; national and regional public broadcasters compete with nearly 400 privately-owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations broadcasting including multiple national radio networks, regional radio networks, and a large number of local radio stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".de"
+    },
+    "Internet hosts": {
+      "text": "21.729 million (2010)"
+    },
+    "Internet users": {
+      "text": "65.125 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "549 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "330"
+      },
+      "over 3,047 m": {
+        "text": "13"
+      },
+      "2,438 to 3,047 m": {
+        "text": "53"
+      },
+      "1,524 to 2,437 m": {
+        "text": "59"
+      },
+      "914 to 1,523 m": {
+        "text": "70"
+      },
+      "under 914 m": {
+        "text": "135 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "219"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "33"
+      },
+      "under 914 m": {
+        "text": "184 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "25 (2010)"
+    },
+    "Pipelines": {
+      "text": "gas 24,364 km; oil 3,379 km; refined products 3,843 km (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "41,896 km"
+      },
+      "standard gauge": {
+        "text": "41,641 km 1.435-m gauge (20,053 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "75 km 1.000-m gauge (75 km electrified); 180 km 0.750-m gauge (24 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "644,480 km"
+      },
+      "paved": {
+        "text": "644,480 km (includes 12,645 km of expressways)"
+      },
+      "note": "includes local roads (2008)"
+    },
+    "note": "Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea (2008)",
+    "Waterways": {
+      "text": "7,467 km",
+      "note": "Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "421"
+      },
+      "by type": {
+        "text": "barge carrier 2, bulk carrier 7, cargo 44, carrier 1, chemical tanker 15, container 293, liquefied gas 7, passenger 4, passenger/cargo 27, petroleum tanker 10, refrigerated cargo 1, roll on/roll off 9, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "10 (China 2, Finland 5, Greece 1, Sweden 1, Switzerland 1)"
+      },
+      "registered in other countries": {
+        "text": "3,287 (Antigua and Barbuda 1050, Australia 2, Bahamas 39, Belize 1, Bermuda 15, Brazil 6, Bulgaria 25, Burma 1, Cayman Islands 6, China 1, Cook Islands 1, Cyprus 189, Denmark 10, Dominica 2, Estonia 1, France 1, Georgia 4, Gibraltar 125, Hong Kong 10, Isle of Man 56, Italy 1, Jamaica 10, Liberia 1049, Luxembourg 9, Malta 127, Marshall Islands 247, Morocco 2, Netherlands 92, former Netherlands Antilles 32, NZ 2, Panama 27, Portugal 13, Saint Vincent and the Grenadines 2, Singapore 30, Slovakia 4, Spain 5, Sri Lanka 5, Sweden 3, Turkey 1, UK 77, US 3, Venezuela 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bremen, Bremerhaven, Duisburg, Hamburg, Karlsruhe, Lubeck, Neuss-Dusseldorf, Rostock, Wilhemshaven"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Federal Armed Forces (Bundeswehr)": {
+        "text": "Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe), Joint Support Services (Streitkraeftbasis), Central Medical Service (Zentraler Sanitaetsdienst) (2010)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age (conscripts serve a 9-month tour of compulsory military service) (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "19,195,804"
+      },
+      "females age 16-49": {
+        "text": "18,159,851 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "15,564,748"
+      },
+      "females age 16-49": {
+        "text": "14,723,200 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "421,227"
+      },
+      "female": {
+        "text": "398,809 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.5% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs; major financial center"
+    }
+  }
+}

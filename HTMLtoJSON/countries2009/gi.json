@@ -1,0 +1,562 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Strategically important, Gibraltar was reluctantly ceded to Great Britain by Spain in the 1713 Treaty of Utrecht; the British garrison was formally declared a colony in 1830. In a referendum held in 1967, Gibraltarians voted overwhelmingly to remain a British dependency. The subsequent granting of autonomy in 1969 by the UK led to Spain closing the border and severing all communication links. A series of talks were held by the UK and Spain between 1997 and 2002 on establishing temporary joint sovereignty over Gibraltar. In response to these talks, the Gibraltar Government called a referendum in late 2002 in which the majority of citizens voted overwhelmingly against any sharing of sovereignty with Spain. Since the referendum, tripartite talks on other issues have been held with Spain, the UK, and Gibraltar, and in September 2006 a three-way agreement was signed. Spain agreed to remove restrictions on air movements, to speed up customs procedures, to implement international telephone dialing, and to allow mobile roaming agreements. Britain agreed to pay increased pensions to Spaniards who had been employed in Gibraltar before the border closed. Spain will be allowed to open a cultural institute from which the Spanish flag will fly. A new noncolonial constitution came into effect in 2007, but the UK retains responsibility for defense, foreign relations, internal security, and financial stability."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southwestern Europe, bordering the Strait of Gibraltar, which links the Mediterranean Sea and the North Atlantic Ocean, on the southern coast of Spain"
+    },
+    "Geographic coordinates": {
+      "text": "36 08 N, 5 21 W"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "6.5 sq km"
+      },
+      "land": {
+        "text": "6.5 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than one-half the size of Rhode Island"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1.2 km"
+      },
+      "border countries": {
+        "text": "Spain 1.2 km"
+      }
+    },
+    "Coastline": {
+      "text": "12 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "3 nm"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean with mild winters and warm summers"
+    },
+    "Terrain": {
+      "text": "a narrow coastal lowland borders the Rock of Gibraltar"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Mediterranean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Rock of Gibraltar 426 m"
+      }
+    },
+    "Natural resources": {
+      "text": "none"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "100% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "limited natural freshwater resources": {
+        "text": "large concrete or natural rock water catchments collect rainwater (no longer used for drinking water) and adequate desalination plant"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "28,034 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "16.7% (male 2,393/female 2,276)"
+      },
+      "15-64 years": {
+        "text": "66.9% (male 9,532/female 9,219)"
+      },
+      "65 years and over": {
+        "text": "16.5% (male 2,125/female 2,489) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "40.5 years"
+      },
+      "male": {
+        "text": "39.9 years"
+      },
+      "female": {
+        "text": "41 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.111% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "10.67 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.56 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "100% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.85 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.83 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.37 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.27 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "80.19 years"
+      },
+      "male": {
+        "text": "77.3 years"
+      },
+      "female": {
+        "text": "83.22 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.65 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Gibraltarian(s)"
+      },
+      "adjective": {
+        "text": "Gibraltar"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Spanish, Italian, English, Maltese, Portuguese, German, North Africans"
+    },
+    "Religions": {
+      "text": "Roman Catholic 78.1%, Church of England 7%, other Christian 3.2%, Muslim 4%, Jewish 2.1%, Hindu 1.8%, other or unspecified 0.9%, none 2.9% (2001 census)"
+    },
+    "Languages": {
+      "text": "English (used in schools and for official purposes), Spanish, Italian, Portuguese"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "NA"
+      },
+      "total population": {
+        "text": "above 80%"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Gibraltar"
+      }
+    },
+    "Dependency status": {
+      "text": "overseas territory of the UK"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Gibraltar"
+      },
+      "geographic coordinates": {
+        "text": "36 08 N, 5 21 W"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Independence": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "National holiday": {
+      "text": "National Day, 10 September (1967); note - day of the national referendum to decide whether to remain with the UK or go with Spain"
+    },
+    "Constitution": {
+      "text": "5 June 2006; came into force 2 January 2007"
+    },
+    "Legal system": {
+      "text": "the laws of the UK, where applicable, apply"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal; and British citizens who have been residents six months or more"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Sir Robert FULTON (since 27 October 2006)"
+      },
+      "head of government": {
+        "text": "Chief Minister Peter CARUANA (since 17 May 1996)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed from among the 17 elected members of the Parliament by the governor in consultation with the chief minister"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or the leader of the majority coalition is usually appointed chief minister by the governor"
+      }
+    },
+    "Legislative branch": {
+      "unicameral Parliament (18 seats": {
+        "text": "17 members elected by popular vote, 1 for the Speaker appointed by Parliament; members serve four-year terms)"
+      },
+      "elections": {
+        "text": "last held 11 October 2007 (next to be held not later than October 2011)"
+      },
+      "election results": {
+        "text": "percent of vote by party - GSD 49.3%, GSLP 31.8%, Gibraltar Liberal Party 13.6%; seats by party - GSD 10, GSLP 4, Gibraltar Liberal Party 3"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Court of Appeal"
+    },
+    "Political parties and leaders": {
+      "text": "Gibraltar Liberal Party [Joseph GARCIA]; Gibraltar Social Democrats or GSD [Peter CARUANA]; Gibraltar Socialist Labor Party or GSLP [Joseph John BOSSANO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Chamber of Commerce; Gibraltar Representatives Organization; Women's Association"
+    },
+    "International organization participation": {
+      "text": "Interpol (subbureau), UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Flag description": {
+      "text": "two horizontal bands of white (top, double width) and red with a three-towered red castle in the center of the white band; hanging from the castle gate is a gold key centered in the red band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. The financial sector, tourism (almost 5 million visitors in 1998), shipping services fees, and duties on consumer goods also generate revenue. The financial sector, the shipping sector, and tourism each contribute 25%-30% of GDP. Telecommunications accounts for another 10%. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$769 million (2000 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.066 billion (2005 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7% (2005 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$27,900 (2000 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "12,690 (including non-Gibraltar laborers) (2001)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "negligible"
+      },
+      "industry": {
+        "text": "40%"
+      },
+      "services": {
+        "text": "60% (2001)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$455.1 million"
+      },
+      "expenditures": {
+        "text": "$423.6 million (2005 est.)"
+      }
+    },
+    "Public debt": {
+      "text": ""
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.9% (2005)"
+    },
+    "Agriculture - products": {
+      "text": "none"
+    },
+    "Industries": {
+      "text": "tourism, banking and finance, ship repairing, tobacco"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "146 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "146 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "24,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "25,610 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$271 million (2004 est.)"
+    },
+    "Exports - commodities": {
+      "text": "(principally reexports) petroleum 51%, manufactured goods 41%, other 8%"
+    },
+    "Imports": {
+      "text": "$2.967 billion (2004 est.)"
+    },
+    "Imports - commodities": {
+      "text": "fuels, manufactured goods, and foodstuffs"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Gibraltar pounds (GIP) per US dollar - 0.4993 (2007), 0.5434 (2006), 0.5504 (2005), 0.5462 (2004), 0.6125 (2003)",
+      "note": "the Gibraltar pound is at par with the British pound"
+    },
+    "note": "the Gibraltar pound is at par with the British pound"
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "24,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "18,400 (2004)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate, automatic domestic system and adequate international facilities"
+      },
+      "domestic": {
+        "text": "automatic exchange facilities"
+      },
+      "international": {
+        "text": "country code - 350; radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 5, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (plus 3 repeaters) (1997)"
+    },
+    "Internet country code": {
+      "text": ".gi"
+    },
+    "Internet hosts": {
+      "text": "1,955 (2009)"
+    },
+    "Internet users": {
+      "text": "6,500 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "29 km"
+      },
+      "paved": {
+        "text": "29 km (2007)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "240"
+      },
+      "by type": {
+        "text": "bulk carrier 5, cargo 125, chemical tanker 51, container 43, passenger 1, petroleum tanker 10, roll on/roll off 5"
+      },
+      "foreign-owned": {
+        "text": "225 (Belgium 2, Cyprus 1, Denmark 7, Finland 3, Germany 129, Greece 6, Iceland 1, Morocco 4, Netherlands 21, Norway 33, Sweden 13, UAE 3, UK 2)"
+      },
+      "registered in other countries": {
+        "text": "7 (Liberia 5, Panama 1, Saint Vincent and the Grenadines 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Gibraltar"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Royal Gibraltar Regiment (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "6,308 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "5,234"
+      },
+      "females age 16-49": {
+        "text": "5,242 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "186"
+      },
+      "female": {
+        "text": "179 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the UK; the Royal Gibraltar Regiment replaced the last British regular infantry forces in 1992"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement; the government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar even greater autonomy"
+    }
+  }
+}

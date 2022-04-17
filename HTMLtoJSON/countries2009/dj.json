@@ -1,0 +1,688 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The French Territory of the Afars and the Issas became Djibouti in 1977. Hassan Gouled APTIDON installed an authoritarian one-party state and proceeded to serve as president until 1999. Unrest among the Afars minority during the 1990s led to a civil war that ended in 2001 following the conclusion of a peace accord between Afar rebels and the Issa-dominated government. In 1999, Djibouti's first multi-party presidential elections resulted in the election of Ismail Omar GUELLEH; he was re-elected to a second and final term in 2005. Djibouti occupies a strategic geographic location at the mouth of the Red Sea and serves as an important transshipment location for goods entering and leaving the east African highlands. The present leadership favors close ties to France, which maintains a significant military presence in the country, but also has strong ties with the US. Djibouti hosts the only US military base in sub-Saharan Africa and is a front-line state in the global war on terrorism."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and Somalia"
+    },
+    "Geographic coordinates": {
+      "text": "11 30 N, 43 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "23,200 sq km"
+      },
+      "land": {
+        "text": "23,180 sq km"
+      },
+      "water": {
+        "text": "20 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Massachusetts"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "516 km"
+      },
+      "border countries": {
+        "text": "Eritrea 109 km, Ethiopia 349 km, Somalia 58 km"
+      }
+    },
+    "Coastline": {
+      "text": "314 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "desert; torrid, dry"
+    },
+    "Terrain": {
+      "text": "coastal plain and plateau separated by central mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Lac Assal -155 m"
+      },
+      "highest point": {
+        "text": "Moussa Ali 2,028 m"
+      }
+    },
+    "Natural resources": {
+      "text": "geothermal areas, gold, clay, granite, limestone, marble, salt, diatomite, gypsum, pumice, petroleum"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.04%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "99.96% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "0.3 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.02  cu km/yr (84%/0%/16%)"
+      },
+      "per capita": {
+        "text": "25  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "earthquakes; droughts; occasional cyclonic disturbances from the Indian Ocean bring heavy rains and flash floods"
+    },
+    "Environment - current issues": {
+      "text": "inadequate supplies of potable water; limited arable land; desertification; endangered species"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location near world's busiest shipping lanes and close to Arabian oilfields; terminus of rail traffic into Ethiopia; mostly wasteland; Lac Assal (Lake Assal) is the lowest point in Africa"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "516,055 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.3% (male 112,135/female 111,343)"
+      },
+      "15-64 years": {
+        "text": "53% (male 141,298/female 132,360)"
+      },
+      "65 years and over": {
+        "text": "3.7% (male 9,502/female 9,417) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.1 years"
+      },
+      "male": {
+        "text": "18.5 years"
+      },
+      "female": {
+        "text": "17.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.903% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "38.13 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "19.1 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "87% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.07 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.01 male(s)/female"
+      },
+      "total population": {
+        "text": "1.04 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "97.51 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "104.98 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "89.82 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "43.37 years"
+      },
+      "male": {
+        "text": "41.89 years"
+      },
+      "female": {
+        "text": "44.89 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.06 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "3.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "16,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "1,100 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Nationality": {
+      "noun": {
+        "text": "Djiboutian(s)"
+      },
+      "adjective": {
+        "text": "Djiboutian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Somali 60%, Afar 35%, other 5% (includes French, Arab, Ethiopian, and Italian)"
+    },
+    "Religions": {
+      "text": "Muslim 94%, Christian 6%"
+    },
+    "Languages": {
+      "text": "French (official), Arabic (official), Somali, Afar"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "67.9%"
+      },
+      "male": {
+        "text": "78%"
+      },
+      "female": {
+        "text": "58.4% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "4 years"
+      },
+      "male": {
+        "text": "5 years"
+      },
+      "female": {
+        "text": "4 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "8.4% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Djibouti "
+      },
+      "conventional short form": {
+        "text": "Djibouti"
+      },
+      "local long form": {
+        "text": "Republique de Djibouti/Jumhuriyat Jibuti"
+      },
+      "local short form": {
+        "text": "Djibouti/Jibuti"
+      },
+      "former": {
+        "text": "French Territory of the Afars and Issas, French Somaliland"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Djibouti"
+      },
+      "geographic coordinates": {
+        "text": "11 35 N, 43 09 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 districts (cercles, singular - cercle); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah"
+    },
+    "Independence": {
+      "text": "27 June 1977 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 June (1977)"
+    },
+    "Constitution": {
+      "text": "approved by referendum 4 September 1992; note - constitution allows for multiparties"
+    },
+    "Legal system": {
+      "text": "based on French civil law system, traditional practices, and Islamic law; accepts ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ismail Omar GUELLEH (since 8 May 1999)"
+      },
+      "head of government": {
+        "text": "Prime Minister Mohamed Dileita DILEITA (since 4 March 2001)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers responsible to the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a six-year term (eligible for a second term); election last held 8 April 2005 (next to be held by April 2011); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Ismail Omar GUELLEH reelected president; percent of vote - Ismail Omar GUELLEH 100%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Chamber of Deputies or Chambre des Deputes (65 seats; members elected by popular vote for five-year terms)",
+      "elections": {
+        "text": "last held 8 February 2008 (next to be held 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats - UMP (coalition of parties associated with President Ismail Omar GUELLAH) 65"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour Supreme"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic National Party or PND [ADEN Robleh Awaleh]; Democratic Renewal Party or PRD [Abdillahi HAMARITEH]; Djibouti Development Party or PDD [Mohamed Daoud CHEHEM]; Front pour la Restauration de l'Unite Democratique or FRUD [Ali Mohamed DAOUD]; People's Progress Assembly or RPP [Ismail Omar GUELLEH] (governing party); Peoples Social Democratic Party or PPSD [Moumin Bahdon FARAH]; Republican Alliance for Democracy or ARD [Ahmed YOUSSOUF]; Union for a Presidential Majority or UMP (a coalition of parties including RPP, FRUD, PND, and PPSD) [Mohamed Dileita DILEITA]; Union for Democracy and Justice or UDJ"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Union for Presidential Majority UMP (coalition includes RPP, FRUD, PPSD and PND); Union for Democratic Changeover or UAD (opposition coalition includes ARD, MRDD, and UDJ)"
+    },
+    "International organization participation": {
+      "text": "ACCT, ACP, AfDB, AFESD, AMF, AU, COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Roble OLHAYE Oudine"
+      },
+      "chancery": {
+        "text": "Suite 515, 1156 15th Street NW, Washington, DC 20005"
+      },
+      "telephone": {
+        "text": "[1] (202) 331-0270"
+      },
+      "FAX": {
+        "text": "[1] (202) 331-0302"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador James C. SWAN"
+      },
+      "embassy": {
+        "text": "Plateau du Serpent, Boulevard Marechal Joffre, Djibouti"
+      },
+      "mailing address": {
+        "text": "B. P. 185, Djibouti"
+      },
+      "telephone": {
+        "text": "[253] 35 39 95"
+      },
+      "FAX": {
+        "text": "[253] 35 39 40"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy is based on service activities connected with the country's strategic location and status as a free trade zone in the Horn of Africa. Two-thirds of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scanty rainfall limits crop production to fruits and vegetables, and most food must be imported. Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports and exports from landlocked neighbor Ethiopia represent 85% of port activity at Djibouti's container terminal. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to help support its balance of payments and to finance development projects. An unemployment rate of nearly 60% in urban areas continues to be a major problem. While inflation is not a concern, due to the fixed tie of the Djiboutian franc to the US dollar, the artificially high value of the Djiboutian franc adversely affects Djibouti's balance of payments. Per capita consumption dropped an estimated 35% between 1999 and 2006 because of recession, civil war, and a high population growth rate (including immigrants and refugees). Faced with a multitude of economic difficulties, the government has fallen in arrears on long-term external debt and has been struggling to meet the stipulations of foreign aid donors."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.696 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are for urban areas, 83% in rural areas",
+    "GDP (official exchange rate)": {
+      "text": "$982 million (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,500 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.2%"
+      },
+      "industry": {
+        "text": "14.9%"
+      },
+      "services": {
+        "text": "81.9% (2006 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "351,700 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "59% (2007 est.)",
+      "note": "data are for urban areas, 83% in rural areas"
+    },
+    "Population below poverty line": {
+      "text": "42% (2007 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$135 million"
+      },
+      "expenditures": {
+        "text": "$182 million (1999 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA"
+    },
+    "Stock of money": {
+      "text": "$380 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$284.1 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$224.7 million (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "fruits, vegetables; goats, sheep, camels, animal hides"
+    },
+    "Industries": {
+      "text": "construction, agricultural processing"
+    },
+    "Electricity - production": {
+      "text": "280 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "260.4 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "13,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "19.18 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "8,476 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$212 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$340 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "reexports, hides and skins, coffee (in transit)"
+    },
+    "Exports - partners": {
+      "text": "Somalia 79.9%, UAE 4.1%, Yemen 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$1.555 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "foods, beverages, transport equipment, chemicals, petroleum products"
+    },
+    "Imports - partners": {
+      "text": "Saudi Arabia 20.5%, India 20.5%, China 10.6%, US 6%, Malaysia 6% (2008)"
+    },
+    "Debt - external": {
+      "text": "$428 million (2006)"
+    },
+    "Exchange rates": {
+      "text": "Djiboutian francs (DJF) per US dollar - 177.71 (2007), 174.75 (2006), 177.72 (2005), 177.72 (2004), 177.72 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "10,800 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "44,100 (2005)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telephone facilities in the city of Djibouti are adequate, as are the microwave radio relay connections to outlying areas of the country"
+      },
+      "domestic": {
+        "text": "microwave radio relay network; mobile cellular coverage is primarily limited to the area in and around Djibouti city"
+      },
+      "international": {
+        "text": "country code - 253; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat); Medarabtel regional microwave radio relay telephone network (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 2, shortwave 0 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (2001)"
+    },
+    "Internet country code": {
+      "text": ".dj"
+    },
+    "Internet hosts": {
+      "text": "199 (2009)"
+    },
+    "Internet users": {
+      "text": "13,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "13 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "3"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "100 km (Djibouti segment of the 781 km Addis Ababa-Djibouti railway)"
+      },
+      "narrow gauge": {
+        "text": "100 km 1.000-m gauge"
+      },
+      "note": "railway is under joint control of Djibouti and Ethiopia but is largely inoperable (2008)"
+    },
+    "note": "railway is under joint control of Djibouti and Ethiopia but is largely inoperable (2008)",
+    "Roadways": {
+      "total": {
+        "text": "3,065 km"
+      },
+      "paved": {
+        "text": "1,226 km"
+      },
+      "unpaved": {
+        "text": "1,839 km (2000)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Djibouti"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports offshore waters in the Gulf of Aden are high risk for piracy; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crew, passengers, and cargo are held for ransom"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Djibouti National Army (includes Navy and Air Force)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; 16-25 years of age for voluntary military training; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "111,274"
+      },
+      "females age 16-49": {
+        "text": "105,168 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "55,173"
+      },
+      "females age 16-49": {
+        "text": "52,825 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "5,778"
+      },
+      "female": {
+        "text": "5,771 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.8% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Djibouti maintains economic ties and border accords with \"Somaliland\" leadership while maintaining some political ties to various factions in Somalia; Kuwait is chief investor in the 2008 restoration and upgrade of the Ethiopian-Djibouti rail link"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "8,642 (Somalia) (2007)"
+      }
+    }
+  }
+}

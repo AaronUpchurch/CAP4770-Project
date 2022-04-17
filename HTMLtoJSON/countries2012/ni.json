@@ -1,0 +1,842 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "British influence and control over what would become Nigeria and Africa's most populous country grew through the 19th century. A series of constitutions after World War II granted Nigeria greater autonomy; independence came in 1960. Following nearly 16 years of military rule, a new constitution was adopted in 1999, and a peaceful transition to civilian government was completed. The government continues to face the daunting task of reforming a petroleum-based economy, whose revenues have been squandered through corruption and mismanagement, and institutionalizing democracy. In addition, Nigeria continues to experience longstanding ethnic and religious tensions. Although both the 2003 and 2007 presidential elections were marred by significant irregularities and violence, Nigeria is currently experiencing its longest period of civilian rule since independence. The general elections of April 2007 marked the first civilian-to-civilian transfer of power in the country's history."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon"
+    },
+    "Geographic coordinates": {
+      "text": "10 00 N, 8 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "923,768 sq km"
+      },
+      "land": {
+        "text": "910,768 sq km "
+      },
+      "water": {
+        "text": "13,000 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,047 km"
+      },
+      "border countries": {
+        "text": "Benin 773 km, Cameroon 1,690 km, Chad 87 km, Niger 1,497 km "
+      }
+    },
+    "Coastline": {
+      "text": "853 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation "
+      }
+    },
+    "Climate": {
+      "text": "varies; equatorial in south, tropical in center, arid in north"
+    },
+    "Terrain": {
+      "text": "southern lowlands merge into central hills and plateaus; mountains in southeast, plains in north"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Chappal Waddi 2,419 m "
+      }
+    },
+    "Natural resources": {
+      "text": "natural gas, petroleum, tin, iron ore, coal, limestone, niobium, lead, zinc, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "33.02%"
+      },
+      "permanent crops": {
+        "text": "3.14% "
+      },
+      "other": {
+        "text": "63.84% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "2,930 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "286.2 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "8.01  cu km/yr (21%/10%/69%)"
+      },
+      "per capita": {
+        "text": "61  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "periodic droughts; flooding"
+    },
+    "Environment - current issues": {
+      "text": "soil degradation; rapid deforestation; urban air and water pollution; desertification; oil pollution - water, air, and soil; has suffered serious damage from oil spills; loss of arable land; rapid urbanization"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "the Niger enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Nigerian(s) "
+      },
+      "adjective": {
+        "text": "Nigerian "
+      }
+    },
+    "Ethnic groups": {
+      "Nigeria, Africa's most populous country, is composed of more than 250 ethnic groups; the following are the most populous and politically influential": {
+        "text": "Hausa and Fulani 29%, Yoruba 21%, Igbo (Ibo) 18%, Ijaw 10%, Kanuri 4%, Ibibio 3.5%, Tiv 2.5%"
+      }
+    },
+    "Languages": {
+      "text": "English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages"
+    },
+    "Religions": {
+      "text": "Muslim 50%, Christian 40%, indigenous beliefs 10%"
+    },
+    "Population": {
+      "text": "170,123,740 (July 2012 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected "
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) ",
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.9% (male 38,232,053/ female 36,483,243)"
+      },
+      "15-64 years": {
+        "text": "53.1% (male 44,862,457/ female 45,484,314) "
+      },
+      "65 years and over": {
+        "text": "3% (male 2,325,682/ female 2,735,991) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "17.9 years"
+      },
+      "male": {
+        "text": "17.5 years "
+      },
+      "female": {
+        "text": "18.4 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "2.553% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "39.23 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "13.48 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.22 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "50% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "3.5% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "Lagos 10.203 million; Kano 3.304 million; Ibadan 2.762 million; ABUJA (capital) 1.857 million; Kaduna 1.519 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.85 male(s)/female "
+      },
+      "total population": {
+        "text": "1.01 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "630 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "74.36 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "79.44 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "68.97 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "52.05 years"
+      },
+      "male": {
+        "text": "48.95 years "
+      },
+      "female": {
+        "text": "55.33 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.38 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "5.8% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.395 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "0.53 beds/1,000 population (2004)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "67% of population "
+      },
+      "rural": {
+        "text": "72% of population "
+      },
+      "total": {
+        "text": "68% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "3.6% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "3.3 million (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "220,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever "
+      },
+      "vectorborne disease": {
+        "text": "malaria and yellow fever "
+      },
+      "respiratory disease": {
+        "text": "meningococcal meningitis "
+      },
+      "aerosolized dust or soil contact disease": {
+        "text": "one of the most highly endemic areas for Lassa fever "
+      },
+      "water contact disease": {
+        "text": "leptospirosis and shistosomiasis "
+      },
+      "animal contact disease": {
+        "text": "rabies "
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009) "
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "26.7% (2008)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "61.3% "
+      },
+      "male": {
+        "text": "72.1% "
+      },
+      "female": {
+        "text": "50.4% (2010 est.) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "9 years"
+      },
+      "male": {
+        "text": "10 years "
+      },
+      "female": {
+        "text": "8 years (2005) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federal Republic of Nigeria "
+      },
+      "conventional short form": {
+        "text": "Nigeria "
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Abuja"
+      },
+      "geographic coordinates": {
+        "text": "9 05 N, 7 32 E "
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "36 states and 1 territory*; Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nassarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara"
+    },
+    "Independence": {
+      "text": "1 October 1960 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (National Day), 1 October (1960)"
+    },
+    "Constitution": {
+      "text": "adopted 5 May 1999; effective 29 May 1999"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law, Islamic law (in 12 northern states), and traditional law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Goodluck JONATHAN (since 5 May 2010, acting since 9 February 2010); Vice President Mohammed Namadi SAMBO (since 19 May 2010); note - the president is both the chief of state and head of government; JONATHAN assumed the presidency on 5 May 2010 following the death of President YAR'ADUA; JONATHAN was declared Acting President on 9 February 2010 by the National Assembly during the extended illness of the former president"
+      },
+      "head of government": {
+        "text": "President Goodluck JONATHAN (since 5 May 2010, acting since 9 February 2010); Vice President Mohammed Namadi SAMBO (since 19 May 2010) "
+      },
+      "cabinet": {
+        "text": "Federal Executive Council "
+      },
+      "elections": {
+        "text": "president elected by popular vote for a four-year term (eligible for a second term); election last held on 16 April 2011 (next to be held in April 2015) "
+      },
+      "election results": {
+        "text": "Goodluck JONATHAN elected president; percent of vote - Goodluck JONATHAN 58.9%, Muhammadu BUHARI 32.0%, Nuhu RIBADU 5.4%, Ibrahim SHEKARAU 2.4%, other 1.3% "
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral National Assembly consists of the Senate (109 seats, 3 from each state plus 1 from Abuja; members elected by popular vote to serve four-year terms) and House of Representatives (360 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "Senate - last held on 9 and 26 April 2011 (next to be held in 2015); House of Representatives - last held on 9 and 26 April 2011 (next to be held in 2015) "
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PDP 73, ACN 17, ANPP 7, CPC 6, LP 4, other 2; House of Representatives - percent of vote by party - NA; seats by party - PDP 205, ACN 69, CPC 36, ANPP 28, LP 9, APGA 6, ACC 5, other 2; note - due to logistical problems elections in a number of constituencies were held on 26 April 2011 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges recommended by the National Judicial Council and appointed by the president); Federal Court of Appeal (judges are appointed by the federal government from a pool of judges recommended by the National Judicial Council)"
+    },
+    "Political parties and leaders": {
+      "text": "Accord Party [Mohammad Lawal MALADO]; Action Congress of Nigeria or ACN [Adebisi Bamidele AKANDE]; All Nigeria Peoples Party or ANPP [Ogbonnaya C. ONU]; All Progressives Grand Alliance or APGA [Victor C. UMEH]; Congress for Progressive Change or CPC [Tony MOMOH]; Democratic Peoples Party or DPP [Jeremiah USENI]; Labor Party [Umar MUSTAPHA]; Peoples Democratic Party or PDP [Bamanga TUKUR]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Academic Staff Union for Universities or ASUU; Campaign for Democracy or CD; Civil Liberties Organization or CLO; Committee for the Defense of Human Rights or CDHR; Constitutional Right Project or CRP; Human Right Africa; National Association of Democratic Lawyers or NADL; National Association of Nigerian Students or NANS; Nigerian Bar Association or NBA; Nigerian Labor Congress or NLC; Nigerian Medical Association or NMA; the press; Universal Defenders of Democracy or UDD"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Adebowale Ibidapo ADEFUYE"
+      },
+      "chancery": {
+        "text": "3519 International Court NW, Washington, DC 20008 "
+      },
+      "telephone": {
+        "text": "[1] (202) 986-8400 "
+      },
+      "FAX": {
+        "text": "[1] (202) 775-1385 "
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, New York "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Terence P. MCCULLEY"
+      },
+      "embassy": {
+        "text": "1075 Diplomatic Drive, Central District Area, Abuja "
+      },
+      "mailing address": {
+        "text": "P. O. Box 5760, Garki, Abuja "
+      },
+      "telephone": {
+        "text": "[234] (9) 461-4000 "
+      },
+      "FAX": {
+        "text": "[234] (9) 461-4036 "
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), white, and green; the color green represents the forests and abundant natural wealth of the country, white stands for peace and unity"
+    },
+    "National symbol(s)": {
+      "text": "eagle"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Arise Oh Compatriots, Nigeria's Call Obey\""
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "John A. ILECHUKWU, Eme Etim AKPAN, B. A. OGUNNAIKE, Sotu OMOIGUI and P. O. ADERIBIGBE/Benedict Elide ODIASE "
+      },
+      "note": "adopted 1978; the lyrics are a mixture of five of the top entries in a national contest "
+    },
+    "note": "adopted 1978; the lyrics are a mixture of five of the top entries in a national contest "
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Oil-rich Nigeria has been hobbled by political instability, corruption, inadequate infrastructure, and poor macroeconomic management, but in 2008 began pursuing economic reforms. Nigeria's former military rulers failed to diversify the economy away from its overdependence on the capital-intensive oil sector, which provides 95% of foreign exchange earnings and about 80% of budgetary revenues. Following the signing of an IMF stand-by agreement in August 2000, Nigeria received a debt-restructuring deal from the Paris Club and a $1 billion credit from the IMF, both contingent on economic reforms. Nigeria pulled out of its IMF program in April 2002, after failing to meet spending and exchange rate targets, making it ineligible for additional debt forgiveness from the Paris Club. In November 2005, Abuja won Paris Club approval for a debt-relief deal that eliminated $18 billion of debt in exchange for $12 billion in payments - a total package worth $30 billion of Nigeria's total $37 billion external debt. Since 2008 the government has begun to show the political will to implement the market-oriented reforms urged by the IMF, such as modernizing the banking system, removing subsidies, and resolving regional disputes over the distribution of earnings from the oil industry. GDP rose strongly in 2007-11 because of growth in non-oil sectors and robust global crude oil prices. President JONATHAN has established an economic team that includes experienced and reputable members and has announced plans to increase transparency, diversify economic growth, and improve fiscal management. Lack of infrastructure and slow implementation of reforms are key impediments to growth. The government is working toward developing stronger public-private partnerships for roads, agriculture, and power. Nigeria's financial sector was hurt by the global financial and economic crises, but the Central Bank governor has taken measures to restructure and strengthen the sector to include imposing mandatory higher minimum capital requirements."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$391.9 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "data are in 2012 US dollars ",
+    "GDP (official exchange rate)": {
+      "text": "$272.6 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,500 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "30.9%"
+      },
+      "industry": {
+        "text": "43% "
+      },
+      "services": {
+        "text": "26% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "53.83 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "70%"
+      },
+      "industry": {
+        "text": "10% "
+      },
+      "services": {
+        "text": "20% (1999 est.) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.9% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "70% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.8%"
+      },
+      "highest 10%": {
+        "text": "38.2% (2010 est.) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.6 (1997) "
+    },
+    "Investment (gross fixed)": {
+      "text": "18.8% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$23.48 billion"
+      },
+      "expenditures": {
+        "text": "$31.61 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "8.6% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "17.8% of GDP (2011 est.) "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "10.8% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "6% (31 December 2009 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16.02% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$38.87 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$74.08 billion (31 December 2010 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$89.37 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$33.32 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "cocoa, peanuts, cotton, palm oil, corn, rice, sorghum, millet, cassava (tapioca), yams, rubber; cattle, sheep, goats, pigs; timber; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "2.5% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$8.686 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$92.47 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "petroleum and petroleum products 95%, cocoa, rubber"
+    },
+    "Exports - partners": {
+      "text": "US 29.1%, India 11.6%, Brazil 7.8%, Spain 7.1%, France 5%, Netherlands 4.3% (2011)"
+    },
+    "Imports": {
+      "text": "$61.63 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "machinery, chemicals, transport equipment, manufactured goods, food and live animals"
+    },
+    "Imports - partners": {
+      "text": "China 17.3%, US 9.1%, India 5%, Netherlands 4.9%, South Korea 4.7% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$35.21 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$9.64 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$78.22 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$10.34 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "117.8 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "18.82 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "17.66 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "5.898 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "67.1% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "32.9% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "2.525 million bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "2.051 million bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "38.5 billion bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "102,100 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "271,600 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "15,470 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "133,400 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "29 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "4.97 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "24.02 billion cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "5.11 trillion cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "80.51 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "719,400 (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "95.167 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "further expansion and modernization of the fixed-line telephone network is needed; network quality remains a problem"
+      },
+      "domestic": {
+        "text": "the addition of a second fixed-line provider in 2002 resulted in faster growth but subscribership remains only about 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base approaching 60 per 100 persons "
+      },
+      "international": {
+        "text": "country code - 234; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) "
+      }
+    },
+    "Broadcast media": {
+      "text": "nearly 70 federal-government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available; network of federal-government-controlled national, regional, and state radio stations; roughly 40 state-government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".ng"
+    },
+    "Internet hosts": {
+      "text": "1,234 (2012)"
+    },
+    "Internet users": {
+      "text": "43.989 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "53 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "40"
+      },
+      "over 3,047 m": {
+        "text": "10 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "12 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "9 "
+      },
+      "914 to 1,523 m": {
+        "text": "6 "
+      },
+      "under 914 m": {
+        "text": "3 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "13"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3 "
+      },
+      "914 to 1,523 m": {
+        "text": "8 "
+      },
+      "under 914 m": {
+        "text": "2 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "5 (2012)"
+    },
+    "Pipelines": {
+      "text": "condensate 26 km; gas 2,756 km; liquid petroleum gas 97 km; oil 3,441 km; refined products 4,090 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,505 km"
+      },
+      "narrow gauge": {
+        "text": "3,505 km 1.067-m gauge (2008) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "193,200 km"
+      },
+      "paved": {
+        "text": "28,980 km "
+      },
+      "unpaved": {
+        "text": "164,220 km (2004) "
+      }
+    },
+    "Waterways": {
+      "text": "8,600 km (Niger and Benue rivers and smaller rivers and creeks) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "89"
+      },
+      "by type": {
+        "text": "cargo 2, chemical tanker 28, liquefied gas 1, passenger/cargo 1, petroleum tanker 56, specialized tanker 1 "
+      },
+      "foreign-owned": {
+        "text": "3 (India 1, UK 2) "
+      },
+      "registered in other countries": {
+        "text": "33 (Bahamas 2, Bermuda 11, Comoros 1, Italy 1, Liberia 4, North Korea 1, Panama 6, Seychelles 1, unknown 6) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bonny Inshore Terminal, Calabar, Lagos"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea as high risk for piracy and armed robbery against ships; in 2010, 19 commercial vessels were boarded or attacked with most occurring in the vicinity of the port of Lagos; crews were robbed and stores or cargoes stolen"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Nigerian Armed Forces (Forces Armees Nigeriennes, FAN)": {
+        "text": "Army, Nigerien Air Force (Force Aerienne du Niger) (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "37,087,711"
+      },
+      "females age 16-49": {
+        "text": "35,232,127 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "20,839,976"
+      },
+      "females age 16-49": {
+        "text": "19,867,683 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,767,428"
+      },
+      "female": {
+        "text": "1,687,719 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "1.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately cedes sovereignty of the Bakassi Peninsula to Cameroon with a phase-out of Nigerian control within two years while resolving patriation issues; the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries; location of Benin-Niger-Nigeria tripoint is unresolved"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "5,299 (Liberia) (2011)"
+      },
+      "IDPs": {
+        "text": "undetermined (communal violence between Christians and Muslims, political violence; flooding; forced evictions; competition for resources; displacement is mostly short-term) (2012) "
+      }
+    },
+    "Illicit drugs": {
+      "text": "a transit point for heroin and cocaine intended for European, East Asian, and North American markets; consumer of amphetamines; safe haven for Nigerian narcotraffickers operating worldwide; major money-laundering center; massive corruption and criminal activity; Nigeria has improved some anti-money-laundering controls, resulting in its removal from the Financial Action Task Force's (FATF's) Noncooperative Countries and Territories List in June 2006; Nigeria's anti-money-laundering regime continues to be monitored by FATF\r\n"
+    }
+  }
+}

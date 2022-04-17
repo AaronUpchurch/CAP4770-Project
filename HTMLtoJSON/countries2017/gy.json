@@ -1,0 +1,840 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER"
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela"
+    },
+    "Geographic coordinates": {
+      "text": "5 00 N, 59 00 W"
+    },
+    "Map references": {
+      "text": "South America"
+    },
+    "Area": {
+      "total": {
+        "text": "214,969 sq km"
+      },
+      "land": {
+        "text": "196,849 sq km"
+      },
+      "water": {
+        "text": "18,120 sq km"
+      },
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Idaho"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,933 km"
+      },
+      "border countries (3)": {
+        "text": "Brazil 1,308 km, Suriname 836 km, Venezuela 789 km"
+      }
+    },
+    "Coastline": {
+      "text": "459 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the outer edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)"
+    },
+    "Terrain": {
+      "text": "mostly rolling highlands; low coastal plain; savanna in south"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "207 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Laberintos del Norte on Mount Roraima 2,775 m"
+    },
+    "Natural resources": {
+      "text": "bauxite, gold, diamonds, hardwood timber, shrimp, fish"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "8.4%"
+      },
+      "text": "arable land 2.1%; permanent crops 0.1%; permanent pasture 6.2%",
+      "forest": {
+        "text": "77.4%"
+      },
+      "other": {
+        "text": "14.2% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,430 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "population is heavily concentrated in the northeast in and around Georgetown, with notable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated"
+    },
+    "Natural hazards": {
+      "text": "flash flood threat during rainy seasons"
+    },
+    "Environment - current issues": {
+      "text": "water pollution from sewage and agricultural and industrial chemicals; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Cooperative Republic of Guyana"
+      },
+      "conventional short form": {
+        "text": "Guyana"
+      },
+      "former": {
+        "text": "British Guiana"
+      },
+      "etymology": {
+        "text": "the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an indigenous Amerindian language and means \"Land of Many Waters\" (referring to the area's multitude of rivers and streams)"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Georgetown"
+      },
+      "geographic coordinates": {
+        "text": "6 48 N, 58 09 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo"
+    },
+    "Independence": {
+      "text": "26 May 1966 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 23 February (1970)"
+    },
+    "Constitution": {
+      "text": "several previous; latest promulgated 6 October 1980; amended many times, last in 2009 (2017)"
+    },
+    "Legal system": {
+      "text": "common law system, based on the English model, with some Roman-Dutch civil law influence"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "na"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President David GRANGER (since 16 May 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President David GRANGER (since 16 May 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers appointed by the president, responsible to the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 11 May 2015 (next to be held no later than 2020); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly (65 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 11 May 2015 (next to be held by May 2020)"
+      },
+      "election results": {
+        "text": "percent of vote by party - APNU-AFC 50.3%, PPP/C 49.2%, other 0.5%; seats by party - APNU-AFC 33, PPP/C 32"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana ceased final appeals in civil and criminal cases to the Judicial Committee of the Privy Council (in London), replacing it with the Caribbean Court of Justice, the judicial organ of the Caribbean Community"
+      },
+      "judge selection and term of office": {
+        "text": "Court of Appeal and High Court chief justices appointed by the president; other judges of both courts appointed by the Judicial Service Commission, a body appointed by the president; judges appointed for life with retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "Land Court; magistrates' courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Republican Party or URP [Vishnu BANDHU]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Trades Union Congress"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Riyad David INSANALLY (since 16 Sept 2016)"
+      },
+      "chancery": {
+        "text": "2490 Tracy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-6900"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-1297"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Perry L. HOLLOWAY (since 2 October 2015)"
+      },
+      "embassy": {
+        "text": "US Embassy, 100 Young and Duke Streets, Kingston, Georgetown"
+      },
+      "mailing address": {
+        "text": "P. O. Box 10507, Georgetown; US Embassy, 3170 Georgetown Place, Washington DC 20521-3170"
+      },
+      "telephone": {
+        "text": "[592] 225-4900 through 4909"
+      },
+      "FAX": {
+        "text": "[592] 225-8497"
+      }
+    },
+    "Flag description": {
+      "text": "green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana's rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance"
+    },
+    "National symbol(s)": {
+      "text": "Canje pheasant (hoatzin), jaguar, Victoria Regia water lily; national colors: red, yellow, green, black, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Dear Land of Guyana, of Rivers and Plains\""
+      },
+      "lyrics/music": {
+        "text": "Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER"
+      },
+      "note": {
+        "text": "adopted 1966"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Guyana's entrance into the Caricom Single Market and Economy in January 2006 broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite recent improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 67% in 2015. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Chronic problems include a shortage of skilled labor and a deficient infrastructure."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$5.542 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$3.437 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Gross national saving": {
+      "text": "6.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "71.9%"
+      },
+      "government consumption": {
+        "text": "18.4%"
+      },
+      "investment in fixed capital": {
+        "text": "22.6%"
+      },
+      "investment in inventories": {
+        "text": "2.4%"
+      },
+      "exports of goods and services": {
+        "text": "51.1%"
+      },
+      "imports of goods and services": {
+        "text": "-66.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "17.4%"
+      },
+      "industry": {
+        "text": "35.9%"
+      },
+      "services": {
+        "text": "46.8% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, rice, edible oils; beef, pork, poultry; shrimp, fish"
+    },
+    "Industries": {
+      "text": "bauxite, sugar, rice milling, timber, textiles, gold mining"
+    },
+    "Industrial production growth rate": {
+      "text": "23.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Labor force": {
+      "text": "313,800 (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "11.3% (2012)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Population below poverty line": {
+      "text": "35% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.3%"
+      },
+      "highest 10%": {
+        "text": "33.8% (1999)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "43.2 (1999)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$896.7 million"
+      },
+      "expenditures": {
+        "text": "$1.05 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Public debt": {
+      "text": "48.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-1.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.83% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$631 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.62 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.492 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$339.8 million (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Current account balance": {
+      "text": "$-144.2 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Exports": {
+      "text": "$1.17 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Exports - commodities": {
+      "text": "sugar, gold, bauxite, alumina, rice, shrimp, molasses, rum, timber"
+    },
+    "Exports - partners": {
+      "text": "Canada 30.6%, US 20.7%, Trinidad and Tobago 11.4% (2016)"
+    },
+    "Imports": {
+      "text": "$1.475 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Imports - commodities": {
+      "text": "manufactures, machinery, petroleum, food"
+    },
+    "Imports - partners": {
+      "text": "Trinidad and Tobago 29%, US 27.5%, China 7.3%, Suriname 5.5% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$531.9 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.639 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Exchange rates": {
+      "text": "204.36 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "154,540"
+      },
+      "electrification - total population": {
+        "text": "79%"
+      },
+      "electrification - urban areas": {
+        "text": "91%"
+      },
+      "electrification - rural areas": {
+        "text": "75% (2012)"
+      }
+    },
+    "Electricity - production": {
+      "text": "1 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "800 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "438,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "86.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "13% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.5 billion bbl (1 January 2017 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "13,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "13,250 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.7 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "153,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "21 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "539,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "73 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "reliable international long distance service; 100% digital network; national transmission supported by fiber optic cable and rural network by microwaves; more than 150,000 lines; many areas still lack fixed-line telephone services"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity is about 20 per 100 persons; mobile-cellular teledensity about 75 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 592; SIP trunking to most providers; international calls via diverse fiber optic cables; satellite earth station - 1 Intelsat (Atlantic Ocean) (2017)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations has constrained competition in broadcast media (2017)"
+    },
+    "Internet country code": {
+      "text": ".gy"
+    },
+    "Internet users": {
+      "total": {
+        "text": "262,425"
+      },
+      "percent of population": {
+        "text": "35.7% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "149"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "43,835"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "8R (2016)"
+    },
+    "Airports": {
+      "text": "117 (2013)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "11"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "8 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "106"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "16"
+      },
+      "under 914 m": {
+        "text": "89 (2013)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "7,970 km"
+      },
+      "paved": {
+        "text": "590 km"
+      },
+      "unpaved": {
+        "text": "7,380 km (2001)"
+      },
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Waterways": {
+      "text": "330 km (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively) (2012)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "10"
+      },
+      "by type": {
+        "text": "cargo 7, petroleum tanker 2, refrigerated cargo 1"
+      },
+      "registered in other countries": {
+        "text": "3 (Saint Vincent and the Grenadines 2, unknown 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Georgetown"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.18% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Military branches": {
+      "text": "Guyana Defense Force: Army (includes Air Corps, Coast Guard) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age or older for voluntary military service; no conscription (2014)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Guyana is a source and destination country for men, women, and children subjected to sex trafficking and forced labor \u2013 children are particularly vulnerable; women and girls from Guyana, Venezuela, Suriname, Brazil, and the Dominican Republic are forced into prostitution in Guyana\u2019s interior mining communities and urban areas; forced labor is reported in mining, agriculture, forestry, domestic service, and shops; Guyanese nationals are also trafficked to Suriname, Jamaica, and other Caribbean countries for sexual exploitation and forced labor"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Guyana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guyana was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government released its anti-trafficking action plan in June 2014 but made uneven efforts to implement it; law enforcement was weak, investigating seven trafficking cases, prosecuting four alleged traffickers, and convicting one trafficker \u2013 a police officer \u2013 who was released on bail pending appeal; in 2014, as in previous years, Guyanese courts dismissed the majority of ongoing trafficking prosecutions; the government referred some victims to care services, which were provided by NGOs with little or no government support (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for narcotics from South America - primarily Venezuela - to Europe and the US; producer of cannabis; rising money laundering related to drug trafficking and human smuggling"
+    }
+  }
+}

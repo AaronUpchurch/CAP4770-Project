@@ -1,0 +1,715 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The inhabitants of the area of Oman have long prospered on Indian Ocean trade. In the late 18th century, a newly established sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, but it never became a British colony. In 1970, QABOOS bin Said al-Said overthrew the restrictive rule of his father; he has ruled as sultan ever since. His extensive modernization program has opened the country to the outside world while preserving the longstanding close ties with the UK. Oman's moderate, independent foreign policy has sought to maintain good relations with all Middle Eastern countries."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and UAE"
+    },
+    "Geographic coordinates": {
+      "text": "21 00 N, 57 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "309,500 sq km"
+      },
+      "land": {
+        "text": "309,500 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Kansas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,374 km"
+      },
+      "border countries": {
+        "text": "Saudi Arabia 676 km, UAE 410 km, Yemen 288 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,092 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south"
+    },
+    "Terrain": {
+      "text": "central desert plain, rugged mountains in north and south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Arabian Sea 0 m"
+      },
+      "highest point": {
+        "text": "Jabal Shams 2,980 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, copper, asbestos, some marble, limestone, chromium, gypsum, natural gas"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.12%"
+      },
+      "permanent crops": {
+        "text": "0.14%"
+      },
+      "other": {
+        "text": "99.74% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "720 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "1 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.36  cu km/yr (7%/2%/90%)"
+      },
+      "per capita": {
+        "text": "529  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "summer winds often raise large sandstorms and dust storms in interior; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "rising soil salinity; beach pollution from oil spills; limited natural fresh water resources"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on Musandam Peninsula adjacent to Strait of Hormuz, a vital transit point for world crude oil"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "3,418,085",
+      "note": "includes 577,293 non-nationals (July 2009 est.)"
+    },
+    "note": "includes 577,293 non-nationals (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "42.7% (male 744,265/female 714,116)"
+      },
+      "15-64 years": {
+        "text": "54.5% (male 1,079,511/female 783,243)"
+      },
+      "65 years and over": {
+        "text": "2.8% (male 55,180/female 41,770) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.8 years"
+      },
+      "male": {
+        "text": "21.1 years"
+      },
+      "female": {
+        "text": "16.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.138% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "34.79 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "3.65 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.24 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "72% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.38 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.32 male(s)/female"
+      },
+      "total population": {
+        "text": "1.22 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "16.88 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "19.29 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "14.35 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "74.16 years"
+      },
+      "male": {
+        "text": "71.87 years"
+      },
+      "female": {
+        "text": "76.55 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.53 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1,300 (2001 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2003 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Omani(s)"
+      },
+      "adjective": {
+        "text": "Omani"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Arab, Baluchi, South Asian (Indian, Pakistani, Sri Lankan, Bangladeshi), African"
+    },
+    "Religions": {
+      "text": "Ibadhi Muslim 75%, other (includes Sunni Muslim, Shia Muslim, Hindu) 25%"
+    },
+    "Languages": {
+      "text": "Arabic (official), English, Baluchi, Urdu, Indian dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "NA"
+      },
+      "total population": {
+        "text": "81.4%"
+      },
+      "male": {
+        "text": "86.8%"
+      },
+      "female": {
+        "text": "73.5% (2003 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "11 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Sultanate of Oman "
+      },
+      "conventional short form": {
+        "text": "Oman"
+      },
+      "local long form": {
+        "text": "Saltanat Uman"
+      },
+      "local short form": {
+        "text": "Uman"
+      },
+      "former": {
+        "text": "Muscat and Oman"
+      }
+    },
+    "Government type": {
+      "text": "monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Muscat"
+      },
+      "geographic coordinates": {
+        "text": "23 37 N, 58 35 E"
+      },
+      "time difference": {
+        "text": "UTC+4 (9 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "5 regions (manatiq, singular - mintaqat) and 4 governorates* (muhafazat, singular - muhafazat) Ad Dakhiliyah, Al Batinah, Al Buraymi*, Al Wusta, Ash Sharqiyah, Az Zahirah, Masqat (Muscat)*, Musandam*, Zufar (Dhofar)*"
+    },
+    "Independence": {
+      "text": "1650 (expulsion of the Portuguese)"
+    },
+    "National holiday": {
+      "text": "Birthday of Sultan QABOOS, 18 November (1940)"
+    },
+    "Constitution": {
+      "text": "none; note - on 6 November 1996, Sultan QABOOS issued a royal decree promulgating a basic law considered by the government to be a constitution which, among other things, clarifies the royal succession, provides for a prime minister, bars ministers from holding interests in companies doing business with the government, establishes a bicameral legislature, and guarantees basic civil liberties for Omani citizens"
+    },
+    "Legal system": {
+      "text": "based on English common law and Islamic law; ultimate appeal to the monarch; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal; note - members of the military and security forces are not allowed to vote"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Sultan and Prime Minister QABOOS bin Said al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972); note - the monarch is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "Sultan and Prime Minister QABOOS bin Said al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the monarch"
+      },
+      "elections": {
+        "text": "the monarch is hereditary"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Majlis Oman consists of Majlis al-Dawla or upper chamber (71 seats; members appointed by the monarch; has advisory powers only) and Majlis al-Shura or lower chamber (84 seats; members elected by popular vote to serve four-year terms; body has only advisory powers)",
+      "elections": {
+        "text": "last held 27 October 2007 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "new candidates won 46 seats and 38 members of the outgoing Majlis kept their positions; none of the 20 female candidates were elected"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court",
+      "note": "the nascent civil court system, administered by region, has judges who practice secular and Sharia law"
+    },
+    "note": "the nascent civil court system, administered by region, has judges who practice secular and Sharia law",
+    "Political parties and leaders": {
+      "text": "none"
+    },
+    "Political pressure groups and leaders": {
+      "text": "none"
+    },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, FAO, G-77, GCC, IBRD, ICAO, ICCt (signatory), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Hunaina bint Sultan bin Ahmad al-MUGHAIRI"
+      },
+      "chancery": {
+        "text": "2535 Belmont Road, NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 387-1980"
+      },
+      "FAX": {
+        "text": "[1] (202) 745-4933"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Gary A. GRAPPO"
+      },
+      "embassy": {
+        "text": "Jameat A'Duwal Al Arabiya Street, Al Khuwair area, Muscat"
+      },
+      "mailing address": {
+        "text": "P. O. Box 202, P.C. 115, Madinat Sultan Qaboos, Muscat"
+      },
+      "telephone": {
+        "text": "[968] 24-643-400"
+      },
+      "FAX": {
+        "text": "[968] 24-699771"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of white, red, and green of equal width with a broad, vertical, red band on the hoist side; the national emblem (a khanjar dagger in its sheath superimposed on two crossed swords in scabbards) in white is centered near the top of the vertical band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Oman is a middle-income economy that is heavily dependent on dwindling oil resources, but sustained high oil prices in recent years have helped build Oman's budget and trade surpluses and foreign reserves. As a result of its dwindling oil resources, Oman is actively pursuing a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP to 9% by 2020. Some of these projects may be in jeopardy, however, because Muscat overestimated its ability to produce or secure the natural gas needed to power them. Oman actively seeks private foreign investors, especially in the industrial, information technology, tourism, and higher education fields. Industrial development plans focus on gas resources, metal manufacturing, petrochemicals, and international transshipment ports. The drop in oil prices and the global financial crisis in 2008 will affect Oman's fiscal position and it may post a deficit in 2009 if oil prices stay low. In addition, the global credit crisis is slowing the pace of investment and development projects - a trend that probably will continue into 2009."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$59.4 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "about 60% of the labor force is non-national (2007)",
+    "GDP (official exchange rate)": {
+      "text": "$59.95 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.5% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$19,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.1%"
+      },
+      "industry": {
+        "text": "36.1%"
+      },
+      "services": {
+        "text": "61.8% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "968,800",
+      "note": "about 60% of the labor force is non-national (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "15% (2004 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "27.2% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$18.13 billion"
+      },
+      "expenditures": {
+        "text": "$15.95 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "10.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "1.98% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.29% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$5.044 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$11.04 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$13.88 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$16.16 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "dates, limes, bananas, alfalfa, vegetables; camels, cattle; fish"
+    },
+    "Industries": {
+      "text": "crude oil production and refining, natural and liquefied natural gas (LNG) production; construction, cement, copper, steel, chemicals, optic fiber"
+    },
+    "Industrial production growth rate": {
+      "text": "3.5% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "13.58 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "11.36 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "761,000 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "81,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "593,700 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "17,290 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "5.5 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "24 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "13.46 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "10.89 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "350 million cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "849.5 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$1.933 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$24.72 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum, reexports, fish, metals, textiles"
+    },
+    "Exports - partners": {
+      "text": "China 31.7%, South Korea 17%, UAE 11.7%, Japan 11%, Thailand 7.1% (2008)"
+    },
+    "Imports": {
+      "text": "$14.34 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods, food, livestock, lubricants"
+    },
+    "Imports - partners": {
+      "text": "UAE 27.2%, Japan 15.6%, US 5.7%, China 4.6%, India 4.5%, South Korea 4.2%, Germany 4.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$9.524 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.297 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Omani rials (OMR) per US dollar - 0.3845 (2008 est.), 0.3845 (2007), 0.3845 (2006), 0.3845 (2005), 0.3845 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "274,200 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.219 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system consisting of open-wire, microwave, and radiotelephone communication stations; limited coaxial cable"
+      },
+      "domestic": {
+        "text": "fixed-line phone service gradually being introduced to remote villages using wireless local loop systems; fixed-line and mobile-cellular subscribership both increasing; open-wire, microwave, radiotelephone communications, and a domestic satellite system with 8 earth stations"
+      },
+      "international": {
+        "text": "country code - 968; the Fiber-Optic Link Around the Globe (FLAG) and the SEA-ME-WE-3 submarine cable provide connectivity to Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean), 1 Arabsat (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3, FM 9, shortwave 2 (1999)"
+    },
+    "Television broadcast stations": {
+      "text": "13 (plus 25 repeaters) (1999)"
+    },
+    "Internet country code": {
+      "text": ".om"
+    },
+    "Internet hosts": {
+      "text": "6,346 (2009)"
+    },
+    "Internet users": {
+      "text": "465,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "128 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "118"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "52"
+      },
+      "914 to 1,523 m": {
+        "text": "33"
+      },
+      "under 914 m": {
+        "text": "25 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "3 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 4,126 km; oil 3,558 km; refined products 263 km (2008)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "42,300 km"
+      },
+      "paved": {
+        "text": "16,500 km (includes 550 km of expressways)"
+      },
+      "unpaved": {
+        "text": "25,800 km (2005)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "3"
+      },
+      "by type": {
+        "text": "chemical tanker 1, passenger 1, passenger/cargo 1"
+      },
+      "registered in other countries": {
+        "text": "2 (Panama 2) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Mina' Qabus, Salalah"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Sultan's Armed Forces (SAF)": {
+        "text": "Royal Army of Oman, Royal Navy of Oman, Royal Air Force of Oman (al-Quwwat al-Jawwiya al-Sultanat) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for voluntary military service; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "802,455"
+      },
+      "females age 16-49": {
+        "text": "626,841 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "675,454"
+      },
+      "females age 16-49": {
+        "text": "563,890 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "35,647"
+      },
+      "female": {
+        "text": "34,407 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "11.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "boundary agreement reportedly signed and ratified with UAE in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah exclave, but details of the alignment have not been made public"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Oman is a destination country for men and women primarily from Bangladesh, India, Sri Lanka, and Pakistan who migrate willingly, but some of whom become victims of trafficking when subjected to conditions of involuntary servitude as domestic workers and laborers; mistreatment includes non-payment of wages, restrictions on movement and withholding of passports, threats, and physical or sexual abuse; Oman may also be a destination country for women from Asia, Eastern Europe, and North Africa for commercial sexual exploitation"
+      },
+      "tier rating": {
+        "text": "Tier 3 - Oman was rated as Tier 3 for the second consecutive year because it did not report any law enforcement efforts to prosecute and punish trafficking offenses in 2007 and continues to lack victim protection services or a systematic procedure to identify victims of trafficking (2008)"
+      }
+    }
+  }
+}

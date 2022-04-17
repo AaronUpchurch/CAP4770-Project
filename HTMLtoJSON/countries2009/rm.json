@@ -1,0 +1,588 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "After almost four decades under US administration as the easternmost part of the UN Trust Territory of the Pacific Islands, the Marshall Islands attained independence in 1986 under a Compact of Free Association. Compensation claims continue as a result of US nuclear testing on some of the atolls between 1947 and 1962. The Marshall Islands hosts the US Army Kwajalein Atoll (USAKA) Reagan Missile Test Site, a key installation in the US missile defense network."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, two archipelagic island chains of 29 atolls, each made up of many small islets, and five single islands in the North Pacific Ocean, about half way between Hawaii and Australia"
+    },
+    "Geographic coordinates": {
+      "text": "9 00 N, 168 00 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "181 sq km"
+      },
+      "land": {
+        "text": "181 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "note": "the archipelago includes 11,673 sq km of lagoon waters and includes the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik"
+    },
+    "note": "the archipelago includes 11,673 sq km of lagoon waters and includes the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik",
+    "Area - comparative": {
+      "text": "about the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "370.4 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot and humid; wet season May to November; islands border typhoon belt"
+    },
+    "Terrain": {
+      "text": "low coral limestone and sand islands"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "unnamed location on Likiep 10 m"
+      }
+    },
+    "Natural resources": {
+      "text": "coconut products, marine products, deep seabed minerals"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "11.11%"
+      },
+      "permanent crops": {
+        "text": "44.44%"
+      },
+      "other": {
+        "text": "44.45% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "0 sq km"
+    },
+    "Natural hazards": {
+      "text": "infrequent typhoons"
+    },
+    "Environment - current issues": {
+      "text": "inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "64,522 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "38.6% (male 12,683/female 12,217)"
+      },
+      "15-64 years": {
+        "text": "58.5% (male 19,302/female 18,459)"
+      },
+      "65 years and over": {
+        "text": "2.9% (male 902/female 959) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "21.2 years"
+      },
+      "male": {
+        "text": "21.3 years"
+      },
+      "female": {
+        "text": "21.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.08% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "30.7 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.49 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-5.41 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "71% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.7% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.94 male(s)/female"
+      },
+      "total population": {
+        "text": "1.04 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "25.45 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "28.58 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "22.17 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "71.19 years"
+      },
+      "male": {
+        "text": "69.15 years"
+      },
+      "female": {
+        "text": "73.34 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.59 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Marshallese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Marshallese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Marshallese 92.1%, mixed Marshallese 5.9%, other 2% (2006)"
+    },
+    "Religions": {
+      "text": "Protestant 54.8%, Assembly of God 25.8%, Roman Catholic 8.4%, Bukot nan Jesus 2.8%, Mormon 2.1%, other Christian 3.6%, other 1%, none 1.5% (1999 census)"
+    },
+    "Languages": {
+      "text": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
+      "note": "English (official), widely spoken as a second language"
+    },
+    "note": "English (official), widely spoken as a second language",
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "93.7%"
+      },
+      "male": {
+        "text": "93.6%"
+      },
+      "female": {
+        "text": "93.7% (1999)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2003)"
+      }
+    },
+    "Education expenditures": {
+      "text": "11.8% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of the Marshall Islands "
+      },
+      "conventional short form": {
+        "text": "Marshall Islands"
+      },
+      "local long form": {
+        "text": "Republic of the Marshall Islands"
+      },
+      "local short form": {
+        "text": "Marshall Islands"
+      },
+      "abbreviation": {
+        "text": "RMI"
+      },
+      "former": {
+        "text": "Trust Territory of the Pacific Islands, Marshall Islands District"
+      }
+    },
+    "Government type": {
+      "text": "constitutional government in free association with the US; the Compact of Free Association entered into force 21 October 1986 and the Amended Compact entered into force in May 2004"
+    },
+    "Capital": {
+      "name": {
+        "text": "Majuro"
+      },
+      "geographic coordinates": {
+        "text": "7 06 N, 171 23 E"
+      },
+      "time difference": {
+        "text": "UTC+12 (17 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "33 municipalities; Ailinginae, Ailinglaplap, Ailuk, Arno, Aur, Bikar, Bikini, Bokak, Ebon, Enewetak, Erikub, Jabat, Jaluit, Jemo, Kili, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Rongrik, Toke, Ujae, Ujelang, Utirik, Wotho, Wotje"
+    },
+    "Independence": {
+      "text": "21 October 1986 (from the US-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 1 May (1979)"
+    },
+    "Constitution": {
+      "text": "1 May 1979"
+    },
+    "Legal system": {
+      "text": "based on adapted Trust Territory laws, acts of the legislature, municipal, common, and customary laws; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jurelang ZEDKAIA (since 2 November 2009); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Jurelang ZEDKAIA (since 2 November 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet selected by the president from among the members of the legislature"
+      },
+      "elections": {
+        "text": "president elected by Nitijela (legislature) from among its members for a four-year term; election last held 7 January 2008 (next to be held in 2012)"
+      },
+      "election results": {
+        "text": "Litokwa TOMEING removed as president by no confidence vote on 21 October 2009; legislature elects ZEDKAIA president on 26 October 2009"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral legislature or Nitijela (33 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held 19 November 2007 (next to be held by November 2011)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - independents 4"
+      },
+      "note": "the Council of Chiefs or Ironij is a 12-member body comprised of tribal chiefs that advises on matters affecting customary law and practice"
+    },
+    "note": "the Council of Chiefs or Ironij is a 12-member body comprised of tribal chiefs that advises on matters affecting customary law and practice",
+    "Judicial branch": {
+      "text": "Supreme Court; High Court; Traditional Rights Court"
+    },
+    "Political parties and leaders": {
+      "text": "traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures; the following two \"groupings\" have competed in legislative balloting in recent years - Aelon Kein Ad Party [Michael KABUA] and United Democratic Party or UDP [Litokwa TOMEING]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Charles A. PAUL"
+      },
+      "chancery": {
+        "text": "2433 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-5414"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-3236"
+      },
+      "consulate(s) general": {
+        "text": "Honolulu"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Clyde BISHOP"
+      },
+      "embassy": {
+        "text": "Oceanside, Mejen Weto, Long Island, Majuro"
+      },
+      "mailing address": {
+        "text": "P. O. Box 1379, Majuro, Republic of the Marshall Islands 96960-1379"
+      },
+      "telephone": {
+        "text": "[692] 247-4011"
+      },
+      "FAX": {
+        "text": "[692] 247-4012"
+      }
+    },
+    "Flag description": {
+      "text": "blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; there is a white star with four large rays and 20 small rays on the hoist side above the two stripes"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "US Government assistance is the mainstay of this tiny island economy. The Marshall Islands received more than $1 billion in aid from the US from 1986-2002. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Small-scale industry is limited to handicrafts, tuna processing, and copra. The tourist industry, now a small source of foreign exchange employing less than 10% of the labor force, remains the best hope for future added income. The islands have few natural resources, and imports far exceed exports. Under the terms of the Amended Compact of Free Association, the US will provide millions of dollars per year to the Marshall Islands (RMI) through 2023, at which time a Trust Fund made up of US and RMI contributions will begin perpetual annual payouts. Government downsizing, drought, a drop in construction, the decline in tourism, and less income from the renewal of fishing vessel licenses have held GDP growth to an average of 1% over the past decade."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$115 million (2001 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$161.7 million (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.5% (2005 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,900 (2005 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "31.7%"
+      },
+      "industry": {
+        "text": "14.9%"
+      },
+      "services": {
+        "text": "53.4% (2004 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "14,680 (2000)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "21.4%"
+      },
+      "industry": {
+        "text": "20.9%"
+      },
+      "services": {
+        "text": "57.7% (2000)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "30.9% (2000 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$123.3 million"
+      },
+      "expenditures": {
+        "text": "$1.213 billion (2008)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3% (2005 est.)"
+    },
+    "Agriculture - products": {
+      "text": "coconuts, tomatoes, melons, taro, breadfruit, fruits; pigs, chickens"
+    },
+    "Industries": {
+      "text": "copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Exports": {
+      "text": "$9.1 million (2000 est.)"
+    },
+    "Exports - commodities": {
+      "text": "copra cake, coconut oil, handicrafts, fish"
+    },
+    "Imports": {
+      "text": "$54.7 million (2000 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and equipment, fuels, beverages and tobacco"
+    },
+    "Debt - external": {
+      "text": "$86.5 million (FY99/00 est.)"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "4,400 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "digital switching equipment; modern services include telex, cellular, Internet, international calling, caller ID, and leased data circuits"
+      },
+      "domestic": {
+        "text": "Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones"
+      },
+      "international": {
+        "text": "country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein (2005)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 3, shortwave 0 (additionally, the American Armed Forces Radio and Television Service (Central Pacific Network) operates one FM and one AM station on Kwajalein Island) (2005)"
+    },
+    "Television broadcast stations": {
+      "text": "2 (both are US military stations; Marshalls Broadcasting Service, a cable company, operates on Majuro) (2005)"
+    },
+    "Internet country code": {
+      "text": ".mh"
+    },
+    "Internet hosts": {
+      "text": "6 (2009)"
+    },
+    "Internet users": {
+      "text": "2,200 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "15 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "11"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "2,028 km (includes 75 km of expressways) (2007)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,049"
+      },
+      "by type": {
+        "text": "barge carrier 1, bulk carrier 284, cargo 71, carrier 1, chemical tanker 191, combination ore/oil 4, container 188, liquefied gas 47, passenger 5, passenger/cargo 1, petroleum tanker 221, refrigerated cargo 13, roll on/roll off 14, specialized tanker 2, vehicle carrier 6"
+      },
+      "foreign-owned": {
+        "text": "990 (Australia 1, Bermuda 4, Brazil 1, Canada 6, Chile 4, China 7, Croatia 6, Cyprus 37, Denmark 10, Germany 235, Greece 269, Hong Kong 4, Iceland 3, India 1, Ireland 1, Isle of Man 1, Italy 3, Japan 17, South Korea 10, Latvia 16, Malaysia 3, Mexico 4, Monaco 13, Netherlands 8, Norway 66, Pakistan 1, Panama 1, Romania 1, Russia 9, Saudi Arabia 5, Singapore 18, Slovenia 4, Spain 1, Sweden 1, Switzerland 12, Taiwan 1, Turkey 50, UAE 15, UK 10, US 123) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Majuro"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; under the 1983 Compact of Free Association, the US has full authority and responsibility for security and defense of the Marshall Islands; Marshall Islands Police (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "15,708 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "13,041"
+      },
+      "females age 16-49": {
+        "text": "13,199 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "540"
+      },
+      "female": {
+        "text": "521 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "claims US territory of Wake Island"
+    }
+  }
+}

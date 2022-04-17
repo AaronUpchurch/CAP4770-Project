@@ -1,0 +1,797 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Until recently, only two autocratic presidents had ruled Gabon since its independence from France in 1960. The recent president of Gabon, El Hadj Omar BONGO Ondimba - one of the longest-serving heads of state in the world - had dominated the country's political scene for four decades. President BONGO introduced a nominal multiparty system and a new constitution in the early 1990s. However, allegations of electoral fraud during local elections in 2002-03 and the presidential elections in 2005 exposed the weaknesses of formal political structures in Gabon. President BONGO died in June 2009. New elections in August 2009 brought Ali Ben BONGO, son of the former president, to power. Despite political conditions, a small population, abundant natural resources, and considerable foreign support have helped make Gabon one of the more prosperous and stable African countries. In January 2010, Gabon assumed a nonpermanent seat on the UN Security Council for the 2010-11 term."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the Atlantic Ocean at the Equator, between Republic of the Congo and Equatorial Guinea"
+    },
+    "Geographic coordinates": {
+      "text": "1 00 S, 11 45 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "267,667 sq km"
+      },
+      "land": {
+        "text": "257,667 sq km"
+      },
+      "water": {
+        "text": "10,000 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Colorado"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,551 km"
+      },
+      "border countries": {
+        "text": "Cameroon 298 km, Republic of the Congo 1,903 km, Equatorial Guinea 350 km"
+      }
+    },
+    "Coastline": {
+      "text": "885 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; always hot, humid"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain; hilly interior; savanna in east and south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mont Iboundji 1,575 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron ore, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "1.21%"
+      },
+      "permanent crops": {
+        "text": "0.64%"
+      },
+      "other": {
+        "text": "98.15% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "40 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "164 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.12  cu km/yr (50%/8%/42%)"
+      },
+      "per capita": {
+        "text": "87  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; poaching"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Gabonese (singular and plural) "
+      },
+      "adjective": {
+        "text": "Gabonese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Bantu tribes, including four major tribal groupings (Fang, Bapounou, Nzebi, Obamba); other Africans and Europeans, 154,000, including 10,700 French and 11,000 persons of dual nationality"
+    },
+    "Languages": {
+      "text": "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi"
+    },
+    "Religions": {
+      "text": "Christian 55%-75%, animist, Muslim less than 1%"
+    },
+    "Population": {
+      "text": "1,576,665 (July 2011 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected",
+    "Age structure": {
+      "0-14 years": {
+        "text": "42.2% (male 333,746/female 330,959)"
+      },
+      "15-64 years": {
+        "text": "54% (male 424,392/female 426,478)"
+      },
+      "65 years and over": {
+        "text": "3.9% (male 25,687/female 35,403) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.6 years"
+      },
+      "male": {
+        "text": "18.4 years"
+      },
+      "female": {
+        "text": "18.9 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.999% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "35.19 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "13 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.2 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "86% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "2.1% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "LIBREVILLE (capital) 619,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.72 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "260 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "49.95 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "57.87 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "41.8 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "52.49 years"
+      },
+      "male": {
+        "text": "51.78 years"
+      },
+      "female": {
+        "text": "53.22 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "4.59 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "6% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.29 physicians/1,000 population (2004)"
+    },
+    "Hospital bed density": {
+      "text": "1.25 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "5% of population"
+      },
+      "rural": {
+        "text": "59% of population"
+      },
+      "total": {
+        "text": "13% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "27% of population"
+      },
+      "rural": {
+        "text": "30% of population"
+      },
+      "total": {
+        "text": "27% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "5.2% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "46,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "2,400 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria and chikungunya"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "8.8% (2001)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "63.2%"
+      },
+      "male": {
+        "text": "73.7%"
+      },
+      "female": {
+        "text": "53.3% (1995 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "12 years (2002)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Gabonese Republic "
+      },
+      "conventional short form": {
+        "text": "Gabon"
+      },
+      "local long form": {
+        "text": "Republique Gabonaise"
+      },
+      "local short form": {
+        "text": "Gabon"
+      }
+    },
+    "Government type": {
+      "text": "republic; multiparty presidential regime"
+    },
+    "Capital": {
+      "name": {
+        "text": "Libreville"
+      },
+      "geographic coordinates": {
+        "text": "0 23 N, 9 27 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem"
+    },
+    "Independence": {
+      "text": "17 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 17 August (1960)"
+    },
+    "Constitution": {
+      "text": "adopted 14 March 1991"
+    },
+    "Legal system": {
+      "text": "mixed legal system of French civil law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ali Ben BONGO Ondimba (since 16 October 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Paul BIYOGHE MBA (since 15 July 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister in consultation with the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (no term limits); election last held on 30 August 2009 (next to be held in 2016); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "President Ali Ben BONGO Ondimba elected; percent of vote - Ali Ben BONGO Ondimba 41.7%, Andre MBA OBAME 25.9%, Pierre MAMBOUNDOU 25.2%, Zacharie MYBOTO 3.9%, other 3.3%"
+      },
+      "note": "President BONGO died on 8 June 2009 after serving as president for 32 years; in accordance with the constitution he was replaced on an interim basis by the president of the Senate, Rose Francine ROGOMBE on 10 June 2009; new elections were held on 30 August 2009 and the son of the former president, Ali Ben BONGO Ondimba, was elected president"
+    },
+    "note": "adopted 1960",
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the Senate (102 seats; members elected by members of municipal councils and departmental assemblies to serve six-year terms) and the National Assembly or Assemblee Nationale (120 seats; members are elected by direct, popular vote to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held on 18 January 2009 (next to be held in January 2015); National Assembly - last held on 17 and 24 December 2006 (next to be held in December 2011)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PDG 75, RPG 6, UGDD 3, CLR 2, PGCI 2, PSD 2, UPG 2, ADERE 1, independents 9; National Assembly - percent of vote by party - NA; seats by party - PDG 82, RPG 8, UPG 8, UGDD 4, ADERE 3, CLR 2, PGP-Ndaot 2, PSD 2, independents 4, others 5"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour Supreme consisting of three chambers - Judicial, Administrative, and Accounts; Constitutional Court; Courts of Appeal; Court of State Security; county courts"
+    },
+    "Political parties and leaders": {
+      "text": "Circle of Liberal Reformers or CLR [General Jean Boniface ASSELE]; Congress for Democracy and Justice or CDJ [Jules Aristide Bourdes OGOULIGUENDE]; Democratic and Republican Alliance or ADERE [Divungui-di-Ndinge DIDJOB]; Gabonese Democratic Party or PDG [Simplice Nguedet MANZELA] (former sole party); Gabonese Party for Progress or PGP [Benoit Mouity NZAMBA]; Gabonese Union for Democracy and Development or UGDD [Zacherie MYBOTO]; National Rally of Woodcutters or RNB; National Rally of Woodcutters-Rally for Gabon or RNB-RPG (Bucherons) [Fr. Paul M'BA-ABESSOLE]; Party of Development and Social Solidarity or PDS [Seraphin Ndoat REMBOGO]; People's Unity Party or PUP [Louis Gaston MAYILA]; Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]; Union for Democracy and Social Integration or UDIS; Union of Gabonese Patriots or UPG [Pierre MAMBOUNDOU]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, NAM, OIC, OIF, OPCW, UN, UN Security Council (temporary), UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Michael MOUSSA-ADAMO"
+      },
+      "chancery": {
+        "text": "Suite 200, 2034 20th Street NW, Washington, DC 20009"
+      },
+      "note": "temporary address",
+      "telephone": {
+        "text": "[1] (202) 797-1000"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-0668"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Erik D. BENJAMINSON"
+      },
+      "embassy": {
+        "text": "Boulevard du Bord de Mer, Libreville"
+      },
+      "mailing address": {
+        "text": "Centre Ville, B. P. 4000, Libreville; pouch"
+      },
+      "telephone": {
+        "text": "[241] 76 20 03 through 76 20 04, after hours - 07380171"
+      },
+      "FAX": {
+        "text": "[241] 74 55 07"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), yellow, and blue; green represents the country's forests and natural resources, gold represents the equator (which transects Gabon) as well as the sun, blue represents the sea"
+    },
+    "National symbol(s)": {
+      "text": "black panther"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"La Concorde\" (The Concorde)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Georges Aleka DAMAS"
+      },
+      "note": "adopted 1960"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Gabon enjoys a per capita income four times that of most sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon depended on timber and manganese until oil was discovered offshore in the early 1970s. The oil sector now accounts for more than 50% of GDP although the industry is in decline as fields pass their peak production. Gabon continues to face fluctuating prices for its oil, timber, and manganese exports and the global recession led to a GDP contraction of 1.4% in 2009. Despite the abundance of natural wealth, poor fiscal management hobbles the economy. In 1997, an IMF mission to Gabon criticized the government for overspending on off-budget items, overborrowing from the central bank, and slipping on its schedule for privatization and administrative reform. The rebound of oil prices from 1999 to 2008 helped growth, but drops in production have hampered Gabon from fully realizing potential gains. Gabon signed a 14-month Stand-By Arrangement with the IMF in May 2007, and later that year issued a $1 billion sovereign bond to buy back a sizable portion of its Paris Club debt."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$21.57 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$13.06 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.3% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$14,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "5.2%"
+      },
+      "industry": {
+        "text": "53.7%"
+      },
+      "services": {
+        "text": "41.1% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "714,500 (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "60%"
+      },
+      "industry": {
+        "text": "15%"
+      },
+      "services": {
+        "text": "25% (2000 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "21% (2006 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.5%"
+      },
+      "highest 10%": {
+        "text": "32.7% (2005)"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "23.3% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.223 billion"
+      },
+      "expenditures": {
+        "text": "$3.628 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "32.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "4.6% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "26.7% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.9% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.683 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$2.559 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$857.4 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cocoa, coffee, sugar, palm oil, rubber; cattle; okoume (a tropical softwood); fish"
+    },
+    "Industries": {
+      "text": "petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement"
+    },
+    "Industrial production growth rate": {
+      "text": "4.8% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "1.963 billion kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.6 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "227,900 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "18,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "213,500 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,822 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "2 billion bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "80 million cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "80 million cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "28.32 billion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$788.1 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$5.941 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil 70%, timber, manganese, uranium"
+    },
+    "Exports - partners": {
+      "text": "US 30.4%, China 12.7%, Australia 5.5%, Malaysia 5.3%, Trinidad and Tobago 4.4%, Spain 4.4% (2010)"
+    },
+    "Imports": {
+      "text": "$2.298 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, foodstuffs, chemicals, construction materials"
+    },
+    "Imports - partners": {
+      "text": "France 29.4%, US 9.9%, China 9.2%, Belgium 5.2%, Cameroon 5.1%, Netherlands 4.2% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.993 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$2.13 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "522.89 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "30,400 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.61 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate system of cable, microwave radio relay, tropospheric scatter, radiotelephone communication stations, and a domestic satellite system with 12 earth stations"
+      },
+      "domestic": {
+        "text": "a growing mobile-cellular network with multiple providers is making telephone service more widely available; subscribership reached 90 per 100 persons in 2009"
+      },
+      "international": {
+        "text": "country code - 241; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state owns and operates 2 TV stations and 2 radio broadcast stations; a few private radio and TV stations are operational; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".ga"
+    },
+    "Internet hosts": {
+      "text": "90 (2010)"
+    },
+    "Internet users": {
+      "text": "98,800 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "44 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "13"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "9"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "31"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "14 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 294 km; oil 893 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "649 km"
+      },
+      "standard gauge": {
+        "text": "649 km 1.435-m gauge (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "9,170 km"
+      },
+      "paved": {
+        "text": "937 km"
+      },
+      "unpaved": {
+        "text": "8,233 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "1,600 km (310 km on Ogooue River) (2010)"
+    },
+    "Merchant marine": {
+      "registered in other countries": {
+        "text": "2 (Cambodia 1, Panama 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Gamba, Libreville, Lucinda, Owendo, Port-Gentil"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy, Air Force, National Gendarmerie, National Police"
+    },
+    "Military service age and obligation": {
+      "text": "20 years of age for voluntary military service; no conscription (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "350,640"
+      },
+      "females age 16-49": {
+        "text": "351,718 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "202,404"
+      },
+      "females age 16-49": {
+        "text": "195,389 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "17,638"
+      },
+      "female": {
+        "text": "17,614 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.9% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "UN urges Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane Island and lesser islands and to establish a maritime boundary in hydrocarbon-rich Corisco Bay"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "7,178 (Republic of Congo) (2007)"
+      }
+    }
+  }
+}

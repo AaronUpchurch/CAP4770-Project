@@ -1,0 +1,712 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Slovene lands were part of the Austro-Hungarian Empire until the latter's dissolution at the end of World War I. In 1918, the Slovenes joined the Serbs and Croats in forming a new multinational state, which was named Yugoslavia in 1929. After World War II, Slovenia became a republic of the renewed Yugoslavia, which though Communist, distanced itself from Moscow's rule. Dissatisfied with the exercise of power by the majority Serbs, the Slovenes succeeded in establishing their independence in 1991 after a short 10-day war. Historical ties to Western Europe, a strong economy, and a stable democracy have assisted in Slovenia's transformation to a modern state. Slovenia acceded to both NATO and the EU in the spring of 2004; it joined the eurozone in 2007."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Europe, eastern Alps bordering the Adriatic Sea, between Austria and Croatia"
+    },
+    "Geographic coordinates": {
+      "text": "46 07 N, 14 49 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "20,273 sq km"
+      },
+      "land": {
+        "text": "20,151 sq km"
+      },
+      "water": {
+        "text": "122 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than New Jersey"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,086 km"
+      },
+      "border countries": {
+        "text": "Austria 330 km, Croatia 455 km, Hungary 102 km, Italy 199 km"
+      }
+    },
+    "Coastline": {
+      "text": "46.6 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east"
+    },
+    "Terrain": {
+      "text": "a short coastal strip on the Adriatic, an alpine mountain region adjacent to Italy and Austria, mixed mountains and valleys with numerous rivers to the east"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Adriatic Sea 0 m"
+      },
+      "highest point": {
+        "text": "Triglav 2,864 m"
+      }
+    },
+    "Natural resources": {
+      "text": "lignite coal, lead, zinc, building stone, hydropower, forests"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "8.53%"
+      },
+      "permanent crops": {
+        "text": "1.43%"
+      },
+      "other": {
+        "text": "90.04% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "30 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "32.1 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.9"
+      },
+      "per capita": {
+        "text": "457  cu m/yr (2002)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flooding; earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "Sava River polluted with domestic and industrial waste; pollution of coastal waters with heavy metals and toxic chemicals; forest damage near Koper from air pollution (originating at metallurgical and chemical plants) and resulting acid rain"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "despite its small size, this eastern Alpine country controls some of Europe's major transit routes"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "2,003,136 (July 2010 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "13.5% (male 139,880/female 131,826)"
+      },
+      "15-64 years": {
+        "text": "69.9% (male 707,219/female 695,470)"
+      },
+      "65 years and over": {
+        "text": "16.5% (male 129,662/female 201,635) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "42.1 years"
+      },
+      "male": {
+        "text": "40.4 years"
+      },
+      "female": {
+        "text": "43.7 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.142% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "8.92 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "10.74 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.4 migrant(s)/1,000 population (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "48% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "-0.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.066 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.65 male(s)/female"
+      },
+      "total population": {
+        "text": "0.95 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.21 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "4.76 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.62 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "77.12 years"
+      },
+      "male": {
+        "text": "73.45 years"
+      },
+      "female": {
+        "text": "81.03 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.29 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "280 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Slovene(s)"
+      },
+      "adjective": {
+        "text": "Slovenian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Slovene 83.1%, Serb 2%, Croat 1.8%, Bosniak 1.1%, other or unspecified 12% (2002 census)"
+    },
+    "Religions": {
+      "text": "Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 0.9%, unaffiliated 3.5%, other or unspecified 23%, none 10.1% (2002 census)"
+    },
+    "Languages": {
+      "text": "Slovenian (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official) Only in municipalities where Hungarian national communities reside, Hungarian (official) Only in municipalities where Hungarian national communities reside (2002 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "NA"
+      },
+      "total population": {
+        "text": "99.7%"
+      },
+      "male": {
+        "text": "99.7%"
+      },
+      "female": {
+        "text": "99.6%"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "17 years"
+      },
+      "male": {
+        "text": "16 years"
+      },
+      "female": {
+        "text": "18 years (2008)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.2% of GDP (2007)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Slovenia "
+      },
+      "conventional short form": {
+        "text": "Slovenia"
+      },
+      "local long form": {
+        "text": "Republika Slovenija"
+      },
+      "local short form": {
+        "text": "Slovenija"
+      },
+      "former": {
+        "text": "People's Republic of Slovenia, Socialist Republic of Slovenia"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ljubljana"
+      },
+      "geographic coordinates": {
+        "text": "46 03 N, 14 31 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "210 municipalities (obcine, singular - obcina) including 11 urban municipalities* (mestne obcine, singular - mestna obcina) Ajdovscina, Apace, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Celje*, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Cirkulane, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Polhov Gradec, Dobrovnik/Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gorje, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola/Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Koper-Capodistria*, Kosanjevica na Krki, Kostel, Kozje, Kranj*, Kranjska Gora, Krizevci, Krsko, Kungota, Kuzma, Lasko, Lenart, Lendava/Lendva, Litija, Ljubljana*, Ljubno, Ljutomer, Log-Dragomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Makole, Maribor*, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna Pec, Mislinja, Mokronog-Trebelno, Moravce, Moravske Toplice, Mozirje, Murska Sobota*, Muta, Naklo, Nazarje, Nova Gorica*, Novo Mesto*, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran/Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Poljcane, Polzela, Postojna, Prebold, Preddvor, Prevalje, Ptuj*, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Recica ob Savinji, Rence-Vogrsko, Ribnica, Ribnica na Pohorju, Rogaska Slatina, Rogasovci, Rogatec, Ruse, Selnica ob Dravi, Semic, Sevnica, Sezana, Slovenj Gradec*, Slovenska Bistrica, Slovenske Konjice, Sodrazica, Solcava, Sredisce ob Dravi, Starse, Straza, Sveta Ana, Sveta Trojica v Slovenskih Goricah, Sveti Andraz v Slovenskih Goricah, Sveti Jurij, Sveti Jurij v Slovenskih Goricah, Sveti Tomaz, Salovci, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur, Sentrupert, Skocjan, Skofja Loka, Skofljica, Smarje pri Jelsah, Smarjeske Toplice, Smartno ob Paki, Smartno pri Litiji, Sostanj, Store, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velenje*, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zrece, Zuzemberk"
+    },
+    "Independence": {
+      "text": "25 June 1991 (from Yugoslavia)"
+    },
+    "National holiday": {
+      "text": "Independence Day/Statehood Day, 25 June (1991)"
+    },
+    "Constitution": {
+      "text": "adopted 23 December 1991, amended 14 July 1997 and 25 July 2000"
+    },
+    "Legal system": {
+      "text": "based on civil law system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age, 16 if employed; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Danilo TURK (since 22 December 2007)"
+      },
+      "head of government": {
+        "text": "Prime Minister Borut PAHOR (since 7 November 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers nominated by the prime minister and elected by the National Assembly"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 21 October and 11 November 2007 (next to be held on 8 October 2012); following National Assembly elections, the leader of the majority party or the leader of a majority coalition usually nominated to become prime minister by the president and elected by the National Assembly; election last held on 21 September 2008 (next National Assembly elections to be held in 8 October 2012)"
+      },
+      "election results": {
+        "text": "Danilo TURK elected president; percent of vote - Danilo TURK 68.2%, Alojze PETERLE 31.8%; Borut PAHOR elected prime minister by National Assembly vote"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of a National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve five-year terms; note - this is primarily an advisory body with limited legislative powers; it may propose laws, ask to review any National Assembly decision, and call national referenda) and the National Assembly or Drzavni Zbor (90 seats; 40 members directly elected and 50 are elected on a proportional basis; note - the number of directly elected and proportionally elected seats varies with each election; the constitution mandates 1 seat each for Slovenia's Hungarian and Italian minorities; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "National Assembly - last held on 21 September 2008 (next to be held on 8 October 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - SD 30.5%, SDS 29.3%, ZARES 9.4%, DeSUS 7.5%, SNS 5.5%, SLS+SMS 5.2%, LDS 5.2%, other 7.4%; seats by party - SD 29, SDS 28, ZARES 9, DeSUS 7, SNS 5, SLS+SMS 5, LDS 5, Hungarian minority 1, Italian minority 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are elected by the National Assembly on the recommendation of the Judicial Council); Constitutional Court (judges elected for nine-year terms by the National Assembly and nominated by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party of Pensioners of Slovenia or DeSUS [Karl ERJAVEC]; Liberal Democracy of Slovenia or LDS [Katarina KRESAL]; New Slovenia or NSi [Ljudmila NOVAK (acting)]; Slovene National Party or SNS [Zmago JELINCIC]; Slovene People's Party or SLS [Radovan ZERJAV]; Slovene Youth Party or SMS [Darko KRANJC]; Slovenian Democratic Party or SDS [Janez JANSA]; Social Democrats or SD [Borut PAHOR] (formerly ZLSD); ZARES [Gregor GOLOBIC]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Slovenian Roma Association [Jozek Horvat MUC]",
+      "other": {
+        "text": "Catholic Church"
+      }
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, CE, CEI, EAPC, EBRD, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SECI, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Roman KIRN"
+      },
+      "chancery": {
+        "text": "2410 California Street N.W., Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 386-6601"
+      },
+      "FAX": {
+        "text": "[1] (202) 386-6633"
+      },
+      "consulate(s) general": {
+        "text": "Cleveland, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Bradley FREDEN"
+      },
+      "embassy": {
+        "text": "Presernova 31, 1000 Ljubljana"
+      },
+      "mailing address": {
+        "text": "American Embassy Ljubljana, US Department of State, 7140 Ljubljana Place, Washington, DC 20521-7140"
+      },
+      "telephone": {
+        "text": "[386] (1) 200-5500"
+      },
+      "FAX": {
+        "text": "[386] (1) 200-5555"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the great Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Zdravljica\" (A Toast)"
+      },
+      "lyrics/music": {
+        "text": "France PRESEREN/Stanko PREMRL"
+      },
+      "note": "adopted 1989; the anthem was originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism"
+    },
+    "note": "adopted 1989; the anthem was originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Slovenia became the first 2004 European Union entrant to adopt the euro (on 1 January 2007) and has become a model of economic success and stability for the region. With the highest per capita GDP in Central Europe, Slovenia has excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe. Privatization has lagged since 2002, and the economy has one of highest levels of state control in the EU. Structural reforms to improve the business environment have allowed for somewhat greater foreign participation in Slovenia's economy and have helped to lower unemployment. In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In December 2007, Slovenia was invited to begin the accession process for joining the OECD. Despite its economic success, foreign direct investment (FDI) in Slovenia has lagged behind the region average, and taxes remain relatively high. Furthermore, the labor market is often seen as inflexible, and legacy industries are losing sales to more competitive firms in China, India, and elsewhere. In 2009, the world recession caused the economy to contract - through falling exports and industrial production - by more than 8%, and unemployment to rise above 9%. Although growth resumed in 2010, the unemployment rate continued to rise, topping 10%."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$61.2 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "the figure for 2006 represents the US dollar value of tolars in circulation prior to Slovenia joining the Economic and Monetary Union (EMU); see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$46.44 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.7% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$30,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.4%"
+      },
+      "industry": {
+        "text": "31%"
+      },
+      "services": {
+        "text": "66.6% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "930,000 (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.2%"
+      },
+      "industry": {
+        "text": "35%"
+      },
+      "services": {
+        "text": "62.8% (2009)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.2% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "12.3% (2008)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.4%"
+      },
+      "highest 10%": {
+        "text": "24.6% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "23.8 (2004)"
+    },
+    "Investment (gross fixed)": {
+      "text": "18.7% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "31.3% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.9% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3% (31 December 2008)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.41% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$10.33 billion (31 December 2009 est)",
+      "note": "the figure for 2006 represents the US dollar value of tolars in circulation prior to Slovenia joining the Economic and Monetary Union (EMU); see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$25.65 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$50.46 billion (31 December 2008 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$28.96 billion (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "potatoes, hops, wheat, sugar beets, corn, grapes; cattle, sheep, poultry"
+    },
+    "Industries": {
+      "text": "ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools"
+    },
+    "Industrial production growth rate": {
+      "text": "1% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "13 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "14.7 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "7.82 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "6.218 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "5 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "60,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "57,000 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.05 billion cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "1.05 billion cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$732.4 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$22.53 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "manufactured goods, machinery and transport equipment, chemicals, food"
+    },
+    "Exports - partners": {
+      "text": "Germany 19.36%, Italy 11.31%, Croatia 7.75%, Austria 7.42%, France 7.35% (2009)"
+    },
+    "Imports": {
+      "text": "$23.5 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods, chemicals, fuels and lubricants, food"
+    },
+    "Imports - partners": {
+      "text": "Germany 16.46%, Italy 15.89%, Austria 11.81%, France 4.98%, Croatia 4.32% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.08 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$54.61 billion (31 December 2008)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$15.13 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$7.901 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.77399 (2010), 0.72 (2009), 0.6827 (2008), 0.7345 (2007)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.034 million (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.1 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "well-developed telecommunications infrastructure"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity roughly 150 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 386"
+      }
+    },
+    "Broadcast media": {
+      "text": "public television broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial television stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV systems; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".si"
+    },
+    "Internet hosts": {
+      "text": "137,494 (2010)"
+    },
+    "Internet users": {
+      "text": "1.298 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "16 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "7"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "5 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 840 km; oil 11 km (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,228 km"
+      },
+      "standard gauge": {
+        "text": "1,228 km 1.435-m gauge (503 km electrified) (2007)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "38,873 km"
+      },
+      "paved": {
+        "text": "38,873 km (includes 696 km of expressways) (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "some transport on Drava River (2010)"
+    },
+    "Merchant marine": {
+      "registered in other countries": {
+        "text": "25 (Antigua and Barbuda 1, Bahamas 1, Cyprus 4, Liberia 5, Malta 4, Marshall Islands 6, Saint Vincent and the Grenadines 2, Singapore 1, Slovakia 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Koper"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Slovenian Army (includes air and naval forces)"
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for voluntary military service; conscription abolished in 2003 (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "483,488"
+      },
+      "females age 16-49": {
+        "text": "470,325 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "397,440"
+      },
+      "females age 16-49": {
+        "text": "385,505 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "9,979"
+      },
+      "female": {
+        "text": "9,610 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.7% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "the Croatia-Slovenia land and maritime boundary agreement, which would have ceded most of Piran Bay and maritime access to Slovenia and several villages to Croatia, remains unratified and in dispute; Slovenia also protests Croatia's 2003 claim to an exclusive economic zone in the Adriatic; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia"
+    },
+    "Illicit drugs": {
+      "text": "minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals"
+    }
+  }
+}

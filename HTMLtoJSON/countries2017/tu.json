@@ -1,0 +1,795 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "From 2015 and continuing through 2016, Turkey witnessed an uptick in terrorist violence, including major attacks in Ankara, Istanbul, and throughout the predominantly Kurdish southeastern region of Turkey. On 15 July 2016, elements of the Turkish Armed forces attempted a coup that ultimately failed following widespread popular resistance. More than 240 people were killed and over 2,000 injured when Turkish citizens took to the streets en masse to confront the coup forces. In response, Turkish Government authorities arrested, suspended, or dismissed more than 100,000 security personnel, journalists, judges, academics, and civil servants due to their alleged connection with the attempted coup. The government accused followers of an Islamic transnational religious and social movement for allegedly instigating the failed coup and designates the followers as terrorists. Following the failed coup, the Turkish Government instituted a State of Emergency in July 2016 that has been extended to July 2017. The Turkish Government conducted a referendum on 16 April 2017 that will, when implemented, change Turkey from a parliamentary to a presidential system."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Turkey"
+      },
+      "conventional short form": {
+        "text": "Turkey"
+      },
+      "local long form": {
+        "text": "Turkiye Cumhuriyeti"
+      },
+      "local short form": {
+        "text": "Turkiye"
+      },
+      "etymology": {
+        "text": "the name means \"Land of the Turks\""
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ankara"
+      },
+      "geographic coordinates": {
+        "text": "39 56 N, 32 52 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak"
+    },
+    "Independence": {
+      "text": "29 October 1923 (republic proclaimed succeeding the Ottoman Empire)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 29 October (1923)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest ratified 9 November 1982"
+      },
+      "amendments": {
+        "text": "proposed by written consent of at least one-third of Grand National Assembly (GNA) members; adoption of draft amendments requires two debates in plenary GNA session and three-fifths majority vote of all GNA members; the president of the republic can request GNA reconsideration of the amendment and, if readopted by two-thirds majority GNA vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system based on various European legal systems, notably the Swiss civil code"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Turkey"
+      },
+      "dual citizenship recognized": {
+        "text": "yes, but requires prior permission from the government"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Recep Tayyip ERDOGAN (since 10 August 2014)"
+      },
+      "head of government": {
+        "text": "Prime Minister Binali YILDIRIM (since 22 May 2016); Deputy Prime Ministers Nurettin CANIKLI (since 24 May 2016), Veysi KAYNAK (since 24 May 2016), Mehmet SIMSEK (since 24 November 2015), Tugrul TURKES (since 29 August 2014), Numan KURTULMUS (since 29 August 2014)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers nominated by the prime minister, appointed by the president (until the next parliamentary or presidential election following the April 2017 referendum)"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prime minister appointed by the president from among members of parliament; note - a 2007 constitutional amendment changed the presidential electoral process to direct popular vote; prime minister appointed by the president from among members of the Grand National Assembly of Turkey"
+      },
+      "election results": {
+        "text": "Recep Tayyip ERDOGAN elected president; Recep Tayyip ERDOGAN (AKP) 51.8%, Ekmeleddin IHSANOGLU (independent) 38.4%, Selahattin DEMIRTAS (HDP) 9.8%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (550 seats (will increase to 600 with next election following the April 2017 referendum); members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 1 November 2015 (next to be held on 3 November 2019)"
+      },
+      "election results": {
+        "text": "percent of vote by party - AKP 49.5%, CHP 25.3%, MHP 11.9%, HDP 10.8%, other 2.5%; seats by party - AKP 317, CHP 134, HDP 59, MHP 40, ; note - only parties surpassing the 10% threshold can win parliamentary seats"
+      }
+    },
+    "Judicial branch": {
+      "highest court": {
+        "text": "Constitutional Court or Anayasa Mahkemesi (consists of 17 members); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Constitutional Court members - 3 appointed by the Grand National Assembly and 14 by the president of the republic from among candidates nominated by the plenary assemblies of the high courts (with the exception of the Court of High Accounts), the Higher Education Council, and from among senior government administrators, lawyers, judges and prosecutors, and Constitutional Court rapporteurs; court president and 2 deputy presidents appointed from among its members for 4-year terms; judges appointed for 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Supreme Council of Judges and Public Prosecutors (SCJP), a 22-member body of judicial officials; Court of Cassation judges appointed until retirement at age 65; Council of State members appointed by the SCJP and by the president of the republic; members appointed for renewable, 4-year terms"
+      },
+      "subordinate courts": {
+        "text": "regional appeals courts; basic (first instance) courts, peace courts; military courts; state security courts; specialized courts, including administrative and audit"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "True Path Party or DYP [Cetin OZACIRGOZ]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Turkish Union of Chambers of Commerce and Commodity Exchanges or TOBB [M. Rifat HISARCIKLIOGLU]"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Serdar KILIC (since 21 May 2014)"
+      },
+      "chancery": {
+        "text": "2525 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 612-6700"
+      },
+      "FAX": {
+        "text": "[1] (202) 612-6744"
+      },
+      "consulate(s) general": {
+        "text": "Boston, Chicago, Houston, Los Angeles, Miami, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affairs Philip KOSNETT (since October 2017)"
+      },
+      "embassy": {
+        "text": "110 Ataturk Boulevard, Kavaklidere, 06100 Ankara"
+      },
+      "mailing address": {
+        "text": "PSC 93, Box 5000, APO AE 09823"
+      },
+      "telephone": {
+        "text": "[90] (312) 455-5555"
+      },
+      "FAX": {
+        "text": "[90] (312) 467-0019"
+      },
+      "consulate(s) general": {
+        "text": "Istanbul"
+      },
+      "consulate(s)": {
+        "text": "Adana"
+      }
+    },
+    "Flag description": {
+      "text": "red with a vertical white crescent moon (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening; the flag colors and designs closely resemble those on the banner of the Ottoman Empire, which preceded modern-day Turkey; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors"
+    },
+    "National symbol(s)": {
+      "text": "star and crescent; national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Istiklal Marsi\" (Independence March)"
+      },
+      "lyrics/music": {
+        "text": "Mehmet Akif ERSOY/Zeki UNGOR"
+      },
+      "note": {
+        "text": "lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Since 2014, productivity and growth has slowed to reveal persistent underlying imbalances in the Turkish economy. In particular, Turkey\u2019s low domestic savings and large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. The economy contracted in the third quarter of 2016 for the first time since 2009, in part due to a sharp decline in the tourism sector, and growth is likely to remain below potential in 2017. Other troublesome trends include rising unemployment and elevated inflation, which is likely to increase in 2017 given the Turkish lira\u2019s recent depreciation against the dollar. Although government debt remains low at about 32% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.78 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$863.4 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.2% (2014 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$23,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Gross national saving": {
+      "text": "24.4% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "59.5%"
+      },
+      "government consumption": {
+        "text": "14.8%"
+      },
+      "investment in fixed capital": {
+        "text": "29.8%"
+      },
+      "investment in inventories": {
+        "text": "-1.1%"
+      },
+      "exports of goods and services": {
+        "text": "22.1%"
+      },
+      "imports of goods and services": {
+        "text": "-25% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "6.9%"
+      },
+      "industry": {
+        "text": "32.3%"
+      },
+      "services": {
+        "text": "60.8% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "tobacco, cotton, grain, olives, sugar beets, hazelnuts, pulses, citrus; livestock"
+    },
+    "Industries": {
+      "text": "textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper"
+    },
+    "Industrial production growth rate": {
+      "text": "5.2% (2016 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Labor force": {
+      "text": "30.55 million",
+      "note": {
+        "text": "this number is for the domestic labor force only; number does not include about 1.2 million Turks working abroad, nor refugees (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "18.4%"
+      },
+      "industry": {
+        "text": "26.6%"
+      },
+      "services": {
+        "text": "54.9% (2016)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "10.3% (2015 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Population below poverty line": {
+      "text": "21.9% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.1%"
+      },
+      "highest 10%": {
+        "text": "30.3% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "43.6 (2003)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$183.6 billion"
+      },
+      "expenditures": {
+        "text": "$193.3 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "21.4% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Public debt": {
+      "text": "29.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.7% (2015 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "15% (22 December 2009)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "13.67% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$107.1 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$408.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$581.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$195.7 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Current account balance": {
+      "text": "$-32.12 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Exports": {
+      "text": "$152 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Exports - commodities": {
+      "text": "apparel, foodstuffs, textiles, metal manufactures, transport equipment"
+    },
+    "Exports - partners": {
+      "text": "Germany 9.8%, UK 8.2%, Iraq 5.4%, Italy 5.3%, US 4.7%, France 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$200.1 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, chemicals, semi-finished goods, fuels, transport equipment"
+    },
+    "Imports - partners": {
+      "text": "China 12.8%, Germany 10.8%, Russia 7.6%, US 5.5%, Italy 5.2% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$110.5 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Debt - external": {
+      "text": "$397.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$150.1 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$35.15 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Exchange rates": {
+      "text": "1.8 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "245.8 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "213.2 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Electricity - exports": {
+      "text": "1.442 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Electricity - imports": {
+      "text": "6.4 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "73.15 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "56.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "35.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "11.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Crude oil - production": {
+      "text": "49,500 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "506,300 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "388.5 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "618,300 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "943,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "134,900 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "527,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Natural gas - production": {
+      "text": "381 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "81.35 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "624 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "48.43 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "18.49 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "319 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "11,077,559"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "14 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "75,061,699"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "94 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "comprehensive telecommunications network undergoing rapid modernization and expansion, especially in mobile-cellular services"
+      },
+      "domestic": {
+        "text": "additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; combined fixed-line and mobile-cellular teledensity is roughly 105 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 90; international service is provided by the SEA-ME-WE-3 submarine cable and by submarine fiber-optic cables in the Mediterranean and Black Seas that link Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and up to 300 private regional and local television stations; multi-channel cable TV subscriptions available; more than 1,000 private radio broadcast stations (2009)"
+    },
+    "Internet country code": {
+      "text": ".tr"
+    },
+    "Internet users": {
+      "total": {
+        "text": "46,838,412"
+      },
+      "percent of population": {
+        "text": "58.3% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "19"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "15"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "531"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "96,604,665"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,882.162 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TC (2016)"
+    },
+    "Airports": {
+      "text": "98 (2013)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "91"
+      },
+      "over 3,047 m": {
+        "text": "16"
+      },
+      "2,438 to 3,047 m": {
+        "text": "38"
+      },
+      "1,524 to 2,437 m": {
+        "text": "17"
+      },
+      "914 to 1,523 m": {
+        "text": "16"
+      },
+      "under 914 m": {
+        "text": "4 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "20 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 12,603 km; oil 3,038 km (2016)"
+    },
+    "Railways": {
+      "total": {
+        "text": "12,008 km"
+      },
+      "standard gauge": {
+        "text": "12,008 km 1.435-m gauge (3,216 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "385,754 km"
+      },
+      "paved": {
+        "text": "352,268 km (includes 2,127 km of expressways)"
+      },
+      "unpaved": {
+        "text": "33,486 km (2012)"
+      },
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Waterways": {
+      "text": "1,200 km (2010)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "629"
+      },
+      "by type": {
+        "text": "bulk carrier 102, cargo 281, chemical tanker 80, container 42, liquefied gas 6, passenger 2, passenger/cargo 60, petroleum tanker 25, refrigerated cargo 1, roll on/roll off 29, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "1 (Italy 1)"
+      },
+      "registered in other countries": {
+        "text": "645 (Albania 1, Antigua and Barbuda 7, Azerbaijan 1, Bahamas 3, Barbados 1, Belize 16, Brazil 1, Cambodia 15, Comoros 8, Cook Islands 4, Curacao 5, Cyprus 1, Dominica 1, Georgia 14, Italy 4, Kazakhstan 1, Liberia 16, Malta 233, Marshall Islands 70, Moldova 18, Panama 62, Russia 101, Saint Kitts and Nevis 18, Saint Vincent and the Grenadines 13, Sierra Leone 9, Slovakia 1, Tanzania 13, Togo 4, Tuvalu 1, unknown 3) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Ambarli (3,062,000), Mersin (Icel) (1,428,000) (2015)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Izmir Aliaga, Marmara Ereglisi"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "2.05% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Military branches": {
+      "text": "Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "21-41 years of age for male compulsory military service (in case of mobilization, up to 65 years of age); 18 years of age for voluntary service; 12-month conscript obligation for non-university graduates, 6-12 months for university graduates (graduates of higher education may perform 6 months of military service as short-term privates, or 12 months as reserve officers); conscripts are called to register at age 20, for service at 21; women serve in the Turkish Armed Forces only as officers; reserve obligation to age 41; Turkish citizens with a residence or work permit who have worked abroad for at least 3 years (1095 days) can be exempt from military service in exchange for 6,000 EUR or its equivalent in foreign currencies; a law passed in December 2014 introduced a one-time payment scheme which exempted Turkish citizens 27 and older from conscription in exchange for a payment of $8,150 (2013)"
+    },
+    "Military - note": {
+      "text": "the ruling Justice and Development Party (AKP) has actively pursued the goal of asserting civilian control over the military since first taking power in 2002; the Turkish Armed Forces (TSK) role in internal security has been significantly reduced; the TSK leadership continues to be an influential institution within Turkey, but plays a much smaller role in politics; the Turkish military remains focused on the threats emanating from the Syrian civil war, Russia's actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the \"Force 2014\" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities including in Afghanistan; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an \"Aerospace and Missile Defense Concept\" in 2002 and has initiated project work on an integrated missile defense system; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense (2014)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "3,285,533 (Syria); 145,000 (Afghanistan); 140,000 (Iraq); 32,000 (Iran) (2017)"
+      },
+      "IDPs": {
+        "text": "1.108 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2016)"
+      },
+      "stateless persons": {
+        "text": "780 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "key transit route for Southwest Asian heroin to Western Europe and, to a lesser extent, the US - via air, land, and sea routes; major Turkish and other international trafficking organizations operate out of Istanbul; laboratories to convert imported morphine base into heroin exist in remote regions of Turkey and near Istanbul; government maintains strict controls over areas of legal opium poppy cultivation and over output of poppy straw concentrate; lax enforcement of money-laundering controls"
+    }
+  }
+}

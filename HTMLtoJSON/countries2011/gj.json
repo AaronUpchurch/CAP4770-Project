@@ -1,0 +1,685 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Carib Indians inhabited Grenada when COLUMBUS discovered the island in 1498, but it remained uncolonized for more than a century. The French settled Grenada in the 17th century, established sugar estates, and imported large numbers of African slaves. Britain took the island in 1762 and vigorously expanded sugar production. In the 19th century, cacao eventually surpassed sugar as the main export crop; in the 20th century, nutmeg became the leading export. In 1967, Britain gave Grenada autonomy over its internal affairs. Full independence was attained in 1974 making Grenada one of the smallest independent countries in the Western Hemisphere. Grenada was seized by a Marxist military council on 19 October 1983. Six days later the island was invaded by US forces and those of six other Caribbean nations, which quickly captured the ringleaders and their hundreds of Cuban advisers. Free elections were reinstituted the following year and have continued since that time. Hurricane Ivan struck Grenada in September of 2004 causing severe damage."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, island between the Caribbean Sea and Atlantic Ocean, north of Trinidad and Tobago"
+    },
+    "Geographic coordinates": {
+      "text": "12 07 N, 61 40 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "344 sq km"
+      },
+      "land": {
+        "text": "344 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "twice the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "121 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; tempered by northeast trade winds"
+    },
+    "Terrain": {
+      "text": "volcanic in origin with central mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Mount Saint Catherine 840 m"
+      }
+    },
+    "Natural resources": {
+      "text": "timber, tropical fruit, deepwater harbors"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "5.88%"
+      },
+      "permanent crops": {
+        "text": "29.41%"
+      },
+      "other": {
+        "text": "64.71% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "15 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "lies on edge of hurricane belt; hurricane season lasts from June to November"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Grenadian(s) "
+      },
+      "adjective": {
+        "text": "Grenadian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 82%, mixed black and European 13%, European and East Indian 5%, and trace of Arawak/Carib Amerindian"
+    },
+    "Languages": {
+      "text": "English (official), French patois"
+    },
+    "Religions": {
+      "text": "Roman Catholic 53%, Anglican 13.8%, other Protestant 33.2%"
+    },
+    "Population": {
+      "text": "108,419 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "25.4% (male 14,152/female 13,390)"
+      },
+      "15-64 years": {
+        "text": "65.7% (male 36,245/female 34,960)"
+      },
+      "65 years and over": {
+        "text": "8.9% (male 4,372/female 5,300) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "28.6 years"
+      },
+      "male": {
+        "text": "28.6 years"
+      },
+      "female": {
+        "text": "28.6 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.551% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "17.01 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "7.94 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.56 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "39% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.6% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "SAINT GEORGE'S (capital) 40,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.098 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.82 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2011 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "11.43 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "10.54 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "12.41 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.04 years"
+      },
+      "male": {
+        "text": "70.51 years"
+      },
+      "female": {
+        "text": "75.82 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.18 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "7.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.9756 physicians/1,000 population (1998)"
+    },
+    "Hospital bed density": {
+      "text": "2.4 beds/1,000 population (2009)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "3% of population"
+      },
+      "rural": {
+        "text": "7% of population"
+      },
+      "total": {
+        "text": "6% of population (2000)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "4% of population"
+      },
+      "rural": {
+        "text": "3% of population"
+      },
+      "total": {
+        "text": "3% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "4.9% of GDP (2003)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "96%"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "16 years"
+      },
+      "male": {
+        "text": "15 years"
+      },
+      "female": {
+        "text": "16 years (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Grenada"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Saint George's"
+      },
+      "geographic coordinates": {
+        "text": "12 03 N, 61 45 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 parishes and 1 dependency*; Carriacou and Petite Martinique*, Saint Andrew, Saint David, Saint George, Saint John, Saint Mark, Saint Patrick"
+    },
+    "Independence": {
+      "text": "7 February 1974 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 7 February (1974)"
+    },
+    "Constitution": {
+      "text": "19 December 1973"
+    },
+    "Legal system": {
+      "text": "common law based on English model"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Carlyle Arnold GLEAN (since 27 November 2008)"
+      },
+      "head of government": {
+        "text": "Prime Minister Tillman THOMAS (since 9 July 2008)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor general on the advice of the prime minister"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or the leader of the majority coalition is usually appointed prime minister by the governor general"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of the Senate (13 seats, 10 members appointed by the government and 3 by the leader of the opposition) and the House of Representatives (15 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 8 July 2008 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "House of Representatives - percent of vote by party - NA; seats by party - NDC 11, NNP 4"
+      }
+    },
+    "Judicial branch": {
+      "text": "Eastern Caribbean Supreme Court, consisting of a court of Appeal and a High Court of Justice (two High Court judges are assigned to and reside in Grenada); Itinerant Court of Appeal three judges; member of the Caribbean Court of Justice (CCJ)"
+    },
+    "Political parties and leaders": {
+      "text": "Grenada United Labor Party or GULP [Gloria Payne BANFIELD]; National Democratic Congress or NDC [Tillman THOMAS]; New National Party or NNP [Keith MITCHELL]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Committee for Human Rights in Grenada or CHRG; New Jewel Movement Support Group; The British Grenada Friendship Society; The New Jewel 19 Committee"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, C, Caricom, CDB, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, PetroCaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Gillian M.S. BRISTOL"
+      },
+      "chancery": {
+        "text": "1701 New Hampshire Avenue NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-2561"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-2468"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "the US Ambassador to Barbados is accredited to Grenada"
+      },
+      "embassy": {
+        "text": "Lance-aux-Epines Stretch, Saint George's"
+      },
+      "mailing address": {
+        "text": "P. O. Box 54, Saint George's"
+      },
+      "telephone": {
+        "text": "[1] (473) 444-1173 through 1177"
+      },
+      "FAX": {
+        "text": "[1] (473) 444-4820"
+      }
+    },
+    "Flag description": {
+      "text": "a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; there are seven yellow, five-pointed stars with three centered in the top red border, three centered in the bottom red border, and one on a red disk superimposed at the center of the flag; there is also a symbolic nutmeg pod on the hoist-side triangle (Grenada is the world's second-largest producer of nutmeg, after Indonesia); the seven stars stand for the seven administrative divisions, with the central star denoting the capital, St. George; yellow represents the sun and the warmth of the people, green stands for vegetation and agriculture, and red symbolizes harmony, unity, and courage"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Hail Grenada\""
+      },
+      "lyrics/music": {
+        "text": "Irva Merle BAPTISTE/Louis Arnold MASANTO"
+      },
+      "note": "adopted 1974"
+    },
+    "note": "adopted 1974"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Grenada relies on tourism as its main source of foreign exchange especially since the construction of an international airport in 1985. Hurricanes Ivan (2004) and Emily (2005) severely damaged the agricultural sector - particularly nutmeg and cocoa cultivation - which had been a key driver of economic growth. Grenada has rebounded from the devastating effects of the hurricanes but is now saddled with the debt burden from the rebuilding process. Public debt-to-GDP is nearly 110%, leaving the THOMAS administration limited room to engage in public investments and social spending. Strong performances in construction and manufacturing, together with the development of tourism and an offshore financial industry, have also contributed to growth in national output; however, economic growth was stagnant in 2010 after a sizeable contraction in 2009, because of the global economic slowdown's effects on tourism and remittances."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.204 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$674 million (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.2% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$11,300 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "10.2%"
+      },
+      "industry": {
+        "text": "28.8%"
+      },
+      "services": {
+        "text": "61% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "42,300 (1996)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "24%"
+      },
+      "industry": {
+        "text": "14%"
+      },
+      "services": {
+        "text": "62% (1999 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "12.5% (2000)"
+    },
+    "Population below poverty line": {
+      "text": "32% (2000)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "15.8% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$175.3 million"
+      },
+      "expenditures": {
+        "text": "$215.9 million (2009 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26% of GDP (2009 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.3% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.983% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$105.9 million (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$785.6 million (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$625.9 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "bananas, cocoa, nutmeg, mace, citrus, avocados, root crops, sugarcane, corn, vegetables"
+    },
+    "Industries": {
+      "text": "food and beverages, textiles, light assembly operations, tourism, construction"
+    },
+    "Electricity - production": {
+      "text": "195.4 million kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "177.4 million kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "3,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "1,913 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$174.8 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$38.69 million (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "bananas, cocoa, nutmeg, fruit and vegetables, clothing, mace"
+    },
+    "Exports - partners": {
+      "text": "St. Lucia 16.6%, Egypt 15.9%, Antigua and Barbuda 11.3%, US 11%, St. Kitts and Nevis 10.1%, Dominica 10.1% (2010)"
+    },
+    "Imports": {
+      "text": "$252.8 million (2006)"
+    },
+    "Imports - commodities": {
+      "text": "food, manufactured goods, machinery, chemicals, fuel"
+    },
+    "Imports - partners": {
+      "text": "Trinidad and Tobago 43.7%, US 18.8% (2010)"
+    },
+    "Debt - external": {
+      "text": "$347 million (2004)"
+    },
+    "Exchange rates": {
+      "text": "2.7 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "28,400 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "121,900 (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "automatic, island-wide telephone system"
+      },
+      "domestic": {
+        "text": "interisland VHF and UHF radiotelephone links"
+      },
+      "international": {
+        "text": "country code - 1-473; landing point for the East Caribbean Fiber Optic System (ECFS) submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad"
+      }
+    },
+    "Broadcast media": {
+      "text": "the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a television station and 2 radio stations; multi-channel cable TV subscription service is available; a dozen private radio stations also broadcast (2007)"
+    },
+    "Internet country code": {
+      "text": ".gd"
+    },
+    "Internet hosts": {
+      "text": "52 (2010)"
+    },
+    "Internet users": {
+      "text": "25,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "3 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,127 km"
+      },
+      "paved": {
+        "text": "687 km"
+      },
+      "unpaved": {
+        "text": "440 km (2001)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Saint George's"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Royal Grenada Police Force (includes Coast Guard) (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "27,468 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "22,596"
+      },
+      "females age 16-49": {
+        "text": "22,588 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "995"
+      },
+      "female": {
+        "text": "1,002 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "small-scale cannabis cultivation; lesser transshipment point for marijuana and cocaine to US"
+    }
+  }
+}

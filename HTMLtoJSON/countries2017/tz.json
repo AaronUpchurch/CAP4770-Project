@@ -1,0 +1,789 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the United Republic of Tanzania in 1964. One-party rule ended in 1995 with the first democratic elections held in the country since the 1970s. Zanzibar's semi-autonomous status and popular opposition led to two contentious elections since 1995, which the ruling party won despite international observers' claims of voting irregularities. The formation of a government of national unity between Zanzibar's two leading parties succeeded in minimizing electoral tension in 2010."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "United Republic of Tanzania"
+      },
+      "conventional short form": {
+        "text": "Tanzania"
+      },
+      "local long form": {
+        "text": "Jamhuri ya Muungano wa Tanzania"
+      },
+      "local short form": {
+        "text": "Tanzania"
+      },
+      "former": {
+        "text": "United Republic of Tanganyika and Zanzibar"
+      },
+      "etymology": {
+        "text": "the country's name is a combination of the first letters of Tanganyika and Zanzibar, the two states that merged to form Tanzania in 1964"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dodoma; note - officially changed in 1996; serves as the meeting place for the National Assembly; Dar es Salaam remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation"
+      },
+      "geographic coordinates": {
+        "text": "6 48 S, 39 17 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "30 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Tabora, Tanga"
+    },
+    "Independence": {
+      "text": "26 April 1964 (Tanganyika united with Zanzibar to form the United Republic of Tanganyika and Zanzibar); 29 October 1964 (renamed United Republic of Tanzania); notable earlier dates: 9 December 1961 (Tanganyika became independent from UK-administered UN trusteeship); 10 December 1963 (Zanzibar became independent from UK)"
+    },
+    "National holiday": {
+      "text": "Union Day (Tanganyika and Zanzibar), 26 April (1964)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 25 April 1977; note - progress enacting a new constitution drafted in 2014 by the Constituent Assembly has been stalled"
+      },
+      "amendments": {
+        "text": "proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "English common law; judicial review of legislative acts limited to matters of interpretation"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Tanzania; if a child is born abroad, the father must be a citizen of Tanzania"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President John MAGUFULI (since 5 November 2015); Vice President Samia SULUHU (since 5 November 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President John MAGUFULI, Dr. (since 5 November 2015); Vice President Samia SULUHU (since 5 November 2015); note - Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president from among members of the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held in October 2020); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%"
+      },
+      "note": {
+        "text": "Zanzibar elects a president as head of government for matters internal to Zanzibar; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women directly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)"
+      },
+      "elections": {
+        "text": "Tanzania National Assembly and Zanzibar House of Representatives elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election NA; note the Zanzibar Electoral Commission annulled the 2015 election; no date for repoll announced as of early November)"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 2.2%; seats by party - CCM 253, Chadema 70%, CUF 42%, other 2"
+      },
+      "text": "Zanzibar House of Representatives - election annulled"
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)"
+      },
+      "judge selection and term of office": {
+        "text": "Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges appointed until mandatory retirement at age 60 but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges may serve until mandatory retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Democratic Party or UDP [John Momose CHEYO]",
+      "note": {
+        "text": "in March 2014, four opposition parties (CUF, CHADEMA, NCCR-Mageuzi, and the National League for Democracy) united to form Umoja wa Katiba ya Wananchi (Coalition for the People's Constitution) or UKAWA; during local elections held in October, 2014, UKAWA entered one candidate representing the three parties united in the coalition"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Twaweza"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Wilson Mutagaywa MASILINGI (since 17 September 2015)"
+      },
+      "chancery": {
+        "text": "1232 22nd Street NW, Washington, DC 20037"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-6125"
+      },
+      "FAX": {
+        "text": "[1] (202) 797-7408"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Inmi PATTERSON (since 5 July 2017)"
+      },
+      "embassy": {
+        "text": "686 Old Bagamoyo Road, Msasani, Dar es Salaam"
+      },
+      "mailing address": {
+        "text": "P.O. Box 9123, Dar es Salaam"
+      },
+      "telephone": {
+        "text": "[255] (22) 229-4000"
+      },
+      "FAX": {
+        "text": "[255] (22) 229-4970 or 4971"
+      }
+    },
+    "Flag description": {
+      "text": "divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean"
+    },
+    "National symbol(s)": {
+      "text": "Uhuru (Freedom) torch, giraffe; national colors: green, yellow, blue, black"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Mungu ibariki Afrika\" (God Bless Africa)"
+      },
+      "lyrics/music": {
+        "text": "collective/Enoch Mankayi SONTONGA"
+      },
+      "note": {
+        "text": "adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia, but has different lyrics; the melody is also incorporated into South Africa's anthem"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Under the new government elected in 2015, Tanzania has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$128.3 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$47.65 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7% (2014 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,800 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Gross national saving": {
+      "text": "21.8% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "61.8%"
+      },
+      "government consumption": {
+        "text": "13.9%"
+      },
+      "investment in fixed capital": {
+        "text": "33.5%"
+      },
+      "investment in inventories": {
+        "text": "-6%"
+      },
+      "exports of goods and services": {
+        "text": "19.5%"
+      },
+      "imports of goods and services": {
+        "text": "-22.6% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "24.5%"
+      },
+      "industry": {
+        "text": "27.6%"
+      },
+      "services": {
+        "text": "47.3% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, sisal, tea, cotton, pyrethrum (insecticide made from chrysanthemums), cashew nuts, tobacco, cloves, corn, wheat, cassava (manioc, tapioca), bananas, fruits, vegetables; cattle, sheep, goats"
+    },
+    "Industries": {
+      "text": "agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer"
+    },
+    "Industrial production growth rate": {
+      "text": "10.9% (2016 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Labor force": {
+      "text": "24.05 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "66.9%"
+      },
+      "industry": {
+        "text": "6.4%"
+      },
+      "services": {
+        "text": "26.6% (2014 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "10.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Population below poverty line": {
+      "text": "22.8% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.8%"
+      },
+      "highest 10%": {
+        "text": "29.6% (2007)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.6 (2000)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$6.615 billion"
+      },
+      "expenditures": {
+        "text": "$8.158 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "14% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.3% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Public debt": {
+      "text": "34.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.6% (2015 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "3.7% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16.1% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$4.457 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$7.345 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$9.483 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.264 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Current account balance": {
+      "text": "$-4.12 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Exports": {
+      "text": "$5.402 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Exports - commodities": {
+      "text": "gold, coffee, cashew nuts, manufactures, cotton"
+    },
+    "Exports - partners": {
+      "text": "Switzerland 15.1%, India 13.8%, South Africa 12.4%, China 7%, Kenya 6.2%, Democratic Republic of the Congo 5.7%, Belgium 5.6% (2016)"
+    },
+    "Imports": {
+      "text": "$9.843 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Imports - commodities": {
+      "text": "consumer goods, machinery and transportation equipment, industrial raw materials, crude oil"
+    },
+    "Imports - partners": {
+      "text": "China 20.7%, India 18.1%, UAE 7.5%, South Africa 6%, Japan 4.7% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.073 billion (31 December 2015 est.)",
+      "note": {
+        "text": "excludes gold"
+      },
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Debt - external": {
+      "text": "$15.05 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "1,583 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "37,400,000"
+      },
+      "electrification - total population": {
+        "text": "24%"
+      },
+      "electrification - urban areas": {
+        "text": "71%"
+      },
+      "electrification - rural areas": {
+        "text": "4% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "6.025 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "4.976 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "209"
+      }
+    },
+    "Electricity - imports": {
+      "text": "71 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.187 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "46% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "47.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "6.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "203"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "60,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "58,700 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Natural gas - production": {
+      "text": "1.1 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "1.5 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "6.513 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "10 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "129,597"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "40,044,186"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "76 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications services are marginal; system operating below capacity and being modernized for better service"
+      },
+      "domestic": {
+        "text": "fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 75 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital"
+      },
+      "international": {
+        "text": "country code - 255; landing point for the EASSy fiber-optic submarine cable system linking East Africa with Europe and North America; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "a state-owned TV station and multiple privately owned TV stations; state-owned national radio station supplemented by more than 40 privately owned radio stations; transmissions of several international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".tz"
+    },
+    "Internet users": {
+      "total": {
+        "text": "6,822,754"
+      },
+      "percent of population": {
+        "text": "13.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "51"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "5"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "17"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,239,707"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,337,440 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "5H (2016)"
+    },
+    "Airports": {
+      "text": "166 (2013)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "156"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "24"
+      },
+      "914 to 1,523 m": {
+        "text": "98"
+      },
+      "under 914 m": {
+        "text": "33 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 311 km; oil 891 km; refined products 8 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "4,567 km"
+      },
+      "narrow gauge": {
+        "text": "1,860 km 1.067-m gauge; 2,707 km 1.000-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "86,472 km"
+      },
+      "paved": {
+        "text": "7,092 km"
+      },
+      "unpaved": {
+        "text": "79,380 km (2010)"
+      },
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Waterways": {
+      "text": "(Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "94"
+      },
+      "by type": {
+        "text": "bulk carrier 6, cargo 66, carrier 4, chemical tanker 1, container 1, passenger/cargo 2, petroleum tanker 10, refrigerated cargo 1, roll on/roll off 3"
+      },
+      "foreign-owned": {
+        "text": "42 (Japan 1, Romania 1, Saudi Arabia 1, Syria 23, Turkey 13, UAE 3)"
+      },
+      "registered in other countries": {
+        "text": "3 (Panama 2, UK 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Dar es Salaam, Zanzibar"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "0.93% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Military branches": {
+      "text": "Tanzania People's Defense Force (Jeshi la Wananchi la Tanzania, JWTZ): Army, Naval Wing (includes Coast Guard), Air Defense Command (includes Air Wing), National Service (2007)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2012)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships, especially as Somali-based pirates extend their activities south; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "278,801 (Burundi); 75,314 (Democratic Republic of the Congo) (2017)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania\u2019s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines and quarries, in the informal commercial sector, in factories, in the sex trade, and possibly on small fishing boats; Tanzanian children and adults are subjected to domestic servitude, other forms of forced labor, and sex trafficking in other African countries, the Middle East, Europe, and the US; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries with false offers of education or legitimate jobs; trafficking victims from Burundi, Kenya, South Asia, and Yemen are forced to work in Tanzania\u2019s agricultural, mining, and domestic service sectors or may be sex trafficked"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Tanzania does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Tanzania was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government adopted a three-year national action plan and implementing regulations for the 2008 anti-trafficking law; authorities somewhat increased their number of trafficking investigations and prosecutions and convicted one offender, but the penalty was a fine in lieu of prison, which was inadequate given the severity of the crime; the government did not operate any shelters for victims and relied on NGOs to provide protective services (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "targeted by traffickers moving hashish, Afghan heroin, and South American cocaine transported down the East African coastline, through airports, or overland through Central Africa; Zanzibar likely used by traffickers for drug smuggling; traffickers in the past have recruited Tanzanian couriers to move drugs through Iran into East Asia"
+    }
+  }
+}

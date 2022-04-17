@@ -1,0 +1,727 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Fiji became independent in 1970 after nearly a century as a British colony. Democratic rule was interrupted by two military coups in 1987 caused by concern over a government perceived as dominated by the Indian community (descendants of contract laborers brought to the islands by the British in the 19th century). The coups and a 1990 constitution that cemented native Melanesian control of Fiji led to heavy Indian emigration; the population loss resulted in economic difficulties, but ensured that Melanesians became the majority. A new constitution enacted in 1997 was more equitable. Free and peaceful elections in 1999 resulted in a government led by an Indo-Fijian, but a civilian-led coup in May 2000 ushered in a prolonged period of political turmoil. Parliamentary elections held in August 2001 provided Fiji with a democratically elected government led by Prime Minister Laisenia QARASE. Re-elected in May 2006, QARASE was ousted in a December 2006 military coup led by Commodore Voreqe BAINIMARAMA, who initially appointed himself acting president but in January 2007 became interim prime minister. Since taking power BAINIMARAMA has neutralized his opponents, crippled Fiji's democratic institutions, and refused to hold elections."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand"
+    },
+    "Geographic coordinates": {
+      "text": "18 00 S, 175 00 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "18,274 sq km"
+      },
+      "land": {
+        "text": "18,274 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than New Jersey"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,129 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic straight baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation; rectilinear shelf claim added"
+      }
+    },
+    "Climate": {
+      "text": "tropical marine; only slight seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "mostly mountains of volcanic origin"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Tomanivi 1,324 m"
+      }
+    },
+    "Natural resources": {
+      "text": "timber, fish, gold, copper, offshore oil potential, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10.95%"
+      },
+      "permanent crops": {
+        "text": "4.65%"
+      },
+      "other": {
+        "text": "84.4% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "30 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "28.6 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.07  cu km/yr (14%/14%/71%)"
+      },
+      "per capita": {
+        "text": "82  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "cyclonic storms can occur from November to January"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "includes 332 islands; approximately 110 are inhabited"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Fijian(s) "
+      },
+      "adjective": {
+        "text": "Fijian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Fijian 57.3% (predominantly Melanesian with a Polynesian admixture), Indian 37.6%, Rotuman 1.2%, other 3.9% (European, other Pacific Islanders, Chinese) (2007 census)"
+    },
+    "Languages": {
+      "text": "English (official), Fijian (official), Hindustani"
+    },
+    "Religions": {
+      "text": "Protestant 55.4% (Methodist 34.6%, Assembly of God 5.7%, Seventh-Day Adventist 3.9%, Anglican 0.8%, other 10.4%), Hindu 27.9%, Roman Catholic 9.1%, Muslim 6.3%, Sikh 0.3%, other or unspecified 0.3%, none 0.7% (2007 census)"
+    },
+    "Population": {
+      "text": "883,125 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.9% (male 130,409/female 124,870)"
+      },
+      "15-64 years": {
+        "text": "65.9% (male 297,071/female 284,643)"
+      },
+      "65 years and over": {
+        "text": "5.2% (male 21,187/female 24,945) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "26.9 years"
+      },
+      "male": {
+        "text": "26.7 years"
+      },
+      "female": {
+        "text": "27.1 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.798% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "21.11 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "5.9 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-7.24 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "52% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.3% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "SUVA (capital) 174,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.81 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "26 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "11 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "12.12 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "9.82 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "71.31 years"
+      },
+      "male": {
+        "text": "68.73 years"
+      },
+      "female": {
+        "text": "74.03 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.61 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "9.7% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.4529 physicians/1,000 population (2003)"
+    },
+    "Hospital bed density": {
+      "text": "2.08 beds/1,000 population (2008)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 1,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "23.9% (2004)"
+    },
+    "Education expenditures": {
+      "text": "6.2% of GDP (2004)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "93.7%"
+      },
+      "male": {
+        "text": "95.5%"
+      },
+      "female": {
+        "text": "91.9% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2005)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Fiji "
+      },
+      "conventional short form": {
+        "text": "Fiji"
+      },
+      "local long form": {
+        "text": "Republic of Fiji/Matanitu ko Viti"
+      },
+      "local short form": {
+        "text": "Fiji/Viti"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Suva (on Viti Levu)"
+      },
+      "geographic coordinates": {
+        "text": "18 08 S, 178 25 E"
+      },
+      "time difference": {
+        "text": "UTC+12 (17 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins fourth Sunday in October; ends first Sunday in March"
+      }
+    },
+    "Administrative divisions": {
+      "text": "4 divisions and 1 dependency*; Central, Eastern, Northern, Rotuma*, Western"
+    },
+    "Independence": {
+      "text": "10 October 1970 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, second Monday of October (1970)"
+    },
+    "Constitution": {
+      "text": "enacted 25 July 1997; effective 28 July 1998; note - constitution encourages multiculturalism and makes multiparty government mandatory"
+    },
+    "Legal system": {
+      "text": "common law system based on the English model"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ratu Epeli NAILATIKAU (since 30 July 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Laisenia QARASE (since 10 September 2000); note - although QARASE is still the legal prime minister, he has been confined to his home island; former President ILOILOVATU appointed Commodore Voreqe BAINIMARAMA interim prime minister under the military regime"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the prime minister from among the members of Parliament and responsible to Parliament; note - coup leader Commodore Voreqe BAINIMARAMA has appointed an interim cabinet"
+      },
+      "elections": {
+        "text": "under the constitution, president elected by the Great Council of Chiefs for a five-year term (eligible for a second term); in 2007 the Great Council of Chiefs was suspended from its role in electing the president; prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Ratu Epeli NAILATIKAU was appointed by Chief Justice Anthony GATES"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of the Senate (32 seats; 14 members appointed by the president on the advice of the Great Council of Chiefs, 9 appointed by the president on the advice of the Prime Minister, 8 on the advice of the opposition leader, and 1 appointed on the advice of the council of Rotuma) and the House of Representatives (71 seats; 23 members reserved for ethnic Fijians, 19 reserved for ethnic Indians, 3 reserved for other ethnic groups, 1 reserved for the council of Rotuma constituency encompassing the whole of Fiji, and 25 open seats; members serve five-year terms)",
+      "elections": {
+        "text": "House of Representatives - last held on 6-13 May 2006 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "House of Representatives - percent of vote by party - SDL 44.6%, FLP 39.2%, UPP 0.8%, independents 4.9%, other 10.5%; seats by party - SDL 36, FLP 31, UPP 2, independents 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed by the president); Court of Appeal; High Court; Magistrates' Courts"
+    },
+    "Political parties and leaders": {
+      "text": "Dodonu Ni Taukei Party or DNT [Fereti S. DEWA]; Fiji Democratic Party or FDP [Filipe BOLE] (a merger of the Christian Democrat Alliance or VLV [Poesci Waqalevu BUNE], Fijian Association Party or FAP, Fijian Political Party or SVT [Sitiveni RABUKA] (primarily Fijian), and New Labor Unity Party or NLUP [Ofa SWANN]); Fiji Labor Party or FLP [Mahendra CHAUDHRY]; General Voters Party or GVP (became part of United General Party); Girmit Heritage Party or GHP; Justice and Freedom Party or AIM; Lio 'On Famor Rotuma Party or LFR; National Federation Party or NFP [Pramond RAE] (primarily Indian); Nationalist Vanua Takolavo Party or NVTLP [Saula TELAWA]; Party of National Unity or PANU [Ponipate LESAVUA]; Party of the Truth or POTT; United Fiji Party/Sogosogo Duavata ni Lewenivanua or SDL [Laisenia QARASE]; United Peoples Party or UPP [Millis Mick BEDDOES]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Group Against Racial Discrimination or GARD [Dr. Anirudk SINGH] (for restoration of a democratic government); Viti Landowners Association"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, C (suspended), CP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC, MIGA, NAM, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNMIT, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Winston THOMPSON"
+      },
+      "chancery": {
+        "text": "2000 M Street, NW, Suite 710, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 466-8320"
+      },
+      "FAX": {
+        "text": "[1] (202) 466-8325"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador C. Steven MCGANN"
+      },
+      "embassy": {
+        "text": "31 Loftus Street, Suva"
+      },
+      "mailing address": {
+        "text": "P. O. Box 218, Suva"
+      },
+      "telephone": {
+        "text": "[679] 331-4466"
+      },
+      "FAX": {
+        "text": "[679] 330-0081"
+      }
+    },
+    "Flag description": {
+      "text": "light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, bananas, and a white dove"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"God Bless Fiji\""
+      },
+      "lyrics/music": {
+        "text": "Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)"
+      },
+      "note": "adopted 1970; the anthem is known in Fijian as \"Meda Dau Doka\" (Let Us Show Pride); adapted from the hymn, \"Dwelling in Beulah Land,\" the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics"
+    },
+    "note": "adopted 1970; the anthem is known in Fijian as \"Meda Dau Doka\" (Let Us Show Pride); adapted from the hymn, \"Dwelling in Beulah Land,\" the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Fiji, endowed with forest, mineral, and fish resources, is one of the most developed of the Pacific island economies though still with a large subsistence sector. Sugar exports, remittances from Fijians working abroad, and a growing tourist industry - with 400,000 to 500,000 tourists annually - are the major sources of foreign exchange. Fiji's sugar has special access to European Union markets but will be harmed by the EU's decision to cut sugar subsidies. Sugar processing makes up one-third of industrial activity but is not efficient. Fiji's tourism industry was damaged by the December 2006 coup and is facing an uncertain recovery time. In 2007 tourist arrivals were down almost 6%, with substantial job losses in the service sector, and GDP dipped. The coup has created a difficult business climate. The EU has suspended all aid until the interim government takes steps toward new elections. Long-term problems include low investment, uncertain land ownership rights, and the government's inability to manage its budget. Overseas remittances from Fijians working in Kuwait and Iraq have decreased significantly. Fiji's current account deficit reached 23% of GDP in 2006."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.983 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$3.131 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,600 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "16.1%"
+      },
+      "industry": {
+        "text": "24.4%"
+      },
+      "services": {
+        "text": "59.5% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "335,000 (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "70%"
+      },
+      "industry and services": {
+        "text": "30% (2001 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.6% (1999)"
+    },
+    "Population below poverty line": {
+      "text": "25.5% (FY90/91)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "21.8% of GDP (2020 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$781.7 million"
+      },
+      "expenditures": {
+        "text": "$885.9 million (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "25% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.3% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.7% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.9% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$663.2 million (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$1.741 billion"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.737 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$568.2 million (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, coconuts, cassava (tapioca), rice, sweet potatoes, bananas; cattle, pigs, horses, goats; fish"
+    },
+    "Industries": {
+      "text": "tourism, sugar, clothing, copra, gold, silver, lumber, small cottage industries"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "970 million kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "865.8 million kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "15,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "1,857 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "18,850 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$237.8 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$625.3 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "sugar, garments, gold, timber, fish, molasses, coconut oil"
+    },
+    "Exports - partners": {
+      "text": "US 15.7%, Australia 14.6%, Japan 6.1%, Samoa 5.7%, Tonga 5% (2010)"
+    },
+    "Imports": {
+      "text": "$1.3 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "manufactured goods, machinery and transport equipment, petroleum products, food, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Singapore 31.1%, Australia 19.1%, NZ 15.1%, China 8.6% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$567.3 million (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$127 million (2004 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "1.8958 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "137,000 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center"
+      },
+      "domestic": {
+        "text": "telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; combined fixed and mobile-cellular teledensity is about 80 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 679; access to important cable links between US and Canada as well as between NZ and Australia; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Fiji TV, a publicly-traded company, operates a free-to-air channel as well as the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available (2009)"
+    },
+    "Internet country code": {
+      "text": ".fj"
+    },
+    "Internet hosts": {
+      "text": "17,088 (2010)"
+    },
+    "Internet users": {
+      "text": "114,200 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "28 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "24"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "19 (2010)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "597 km"
+      },
+      "narrow gauge": {
+        "text": "597 km 0.600-m gauge"
+      },
+      "note": "belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December (2008)"
+    },
+    "note": "belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December (2008)",
+    "Roadways": {
+      "total": {
+        "text": "3,440 km"
+      },
+      "paved": {
+        "text": "1,692 km"
+      },
+      "unpaved": {
+        "text": "1,748 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "10"
+      },
+      "by type": {
+        "text": "passenger 4, passenger/cargo 4, roll on/roll off 2"
+      },
+      "foreign-owned": {
+        "text": "2 (Australia 2) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Lautoka, Levuka, Suva"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Republic of Fiji Military Forces (RFMF)": {
+        "text": "Land Forces, Naval Forces (2011)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "233,240"
+      },
+      "females age 16-49": {
+        "text": "222,587 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "183,730"
+      },
+      "females age 16-49": {
+        "text": "188,325 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "8,403"
+      },
+      "female": {
+        "text": "8,039 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.9% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

@@ -1,0 +1,644 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Tonga - unique among Pacific nations - never completely lost its indigenous governance. The archipelagos of \"The Friendly Islands\" were united into a Polynesian kingdom in 1845. Tonga became a constitutional monarchy in 1875 and a British protectorate in 1900; it withdrew from the protectorate and joined the Commonwealth of Nations in 1970. Tonga remains the only monarchy in the Pacific."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand"
+    },
+    "Geographic coordinates": {
+      "text": "20 00 S, 175 00 W"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "747 sq km"
+      },
+      "land": {
+        "text": "717 sq km"
+      },
+      "water": {
+        "text": "30 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "four times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "419 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical; modified by trade winds; warm season (December to May), cool season (May to December)"
+    },
+    "Terrain": {
+      "text": "most islands have limestone base formed from uplifted coral formation; others have limestone overlying volcanic base"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "unnamed location on Kao Island 1,033 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, fertile soil"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "20%"
+      },
+      "permanent crops": {
+        "text": "14.67%"
+      },
+      "other": {
+        "text": "65.33% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "cyclones (October to April); earthquakes and volcanic activity on Fonuafo'ou"
+    },
+    "Environment - current issues": {
+      "text": "deforestation results as more and more land is being cleared for agriculture and settlement; some damage to coral reefs from starfish and indiscriminate coral and shell collectors; overhunting threatens native sea turtle populations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "archipelago of 169 islands (36 inhabited)"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "120,898 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "32.8% (male 20,270/female 19,428)"
+      },
+      "15-64 years": {
+        "text": "62.9% (male 37,837/female 38,166)"
+      },
+      "65 years and over": {
+        "text": "4.3% (male 2,163/female 3,034) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "22.3 years"
+      },
+      "male": {
+        "text": "21.8 years"
+      },
+      "female": {
+        "text": "22.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.482% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "19.84 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.02 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "25% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.71 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "11.58 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "12.74 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "10.35 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "70.73 years"
+      },
+      "male": {
+        "text": "68.18 years"
+      },
+      "female": {
+        "text": "73.41 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.25 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Tongan(s)"
+      },
+      "adjective": {
+        "text": "Tongan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Polynesian, Europeans"
+    },
+    "Religions": {
+      "text": "Christian (Free Wesleyan Church claims over 30,000 adherents)"
+    },
+    "Languages": {
+      "text": "Tongan, English"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "can read and write Tongan and/or English"
+      },
+      "total population": {
+        "text": "98.9%"
+      },
+      "male": {
+        "text": "98.8%"
+      },
+      "female": {
+        "text": "99% (1999 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Tonga "
+      },
+      "conventional short form": {
+        "text": "Tonga"
+      },
+      "local long form": {
+        "text": "Pule'anga Tonga"
+      },
+      "local short form": {
+        "text": "Tonga"
+      },
+      "former": {
+        "text": "Friendly Islands"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Nuku'alofa"
+      },
+      "geographic coordinates": {
+        "text": "21 08 S, 175 12 W"
+      },
+      "time difference": {
+        "text": "UTC+13 (18 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "3 island groups; Ha'apai, Tongatapu, Vava'u"
+    },
+    "Independence": {
+      "text": "4 June 1970 (from UK protectorate)"
+    },
+    "National holiday": {
+      "text": "Emancipation Day, 4 June (1970)"
+    },
+    "Constitution": {
+      "text": "4 November 1875; revised 1 January 1967"
+    },
+    "Legal system": {
+      "text": "based on English common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King George TUPOU V (since 11 September 2006)"
+      },
+      "head of government": {
+        "text": "Prime Minister Dr. Feleti SEVELE (since 11 February 2006); Deputy Prime Minister Dr. Viliami TANGI (since 16 May 2006)"
+      },
+      "cabinet": {
+        "text": "Cabinet consists of 14 members, 10 appointed by the monarch for life; 4 appointed from among the elected members of the Legislative Assembly, including 2 each from the nobles' and peoples' representatives serving three-year terms"
+      },
+      "note": "there is also a Privy Council that consists of the monarch, the cabinet, and 2 governors",
+      "elections": {
+        "text": "the monarch is hereditary; prime minister and deputy prime minister appointed by the monarch"
+      }
+    },
+    "note": "there is also a Privy Council that consists of the monarch, the cabinet, and 2 governors",
+    "Legislative branch": {
+      "text": "unicameral Legislative Assembly or Fale Alea (32 seats - 14 reserved for cabinet ministers sitting ex officio, 9 for nobles selected by the country's 33 nobles, and 9 elected by popular vote; members serve three-year terms)",
+      "elections": {
+        "text": "last held on 23-24 April 2008 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "Peoples Representatives"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed by the monarch); Court of Appeal (Chief Justice and high court justices from overseas chosen and approved by Privy Council)"
+    },
+    "Political parties and leaders": {
+      "text": "Tonga Human Rights and Democracy Movement or THRDM [Uliti UATA]; People's Democratic Party or PDP [Tesina FUKO]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Human Rights and Democracy Movement Tonga or HRDMT [Rev. Simote VEA, chairman]; Public Servant's Association [Finau TUTONE]"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, ITU, ITUC, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Viliami MALOLO"
+      },
+      "chancery": {
+        "text": "250 East 51st Street, New York, NY 10022"
+      },
+      "telephone": {
+        "text": "[1] (917) 369-1025"
+      },
+      "FAX": {
+        "text": "[1] (917) 369-1024"
+      },
+      "consulate(s) general": {
+        "text": "San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Tonga; the ambassador to Fiji is accredited to Tonga"
+    },
+    "Flag description": {
+      "text": "red with a bold red cross on a white rectangle in the upper hoist-side corner"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Tonga has a small, open, South Pacific island economy. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. The country must import a high proportion of its food, mainly from New Zealand. The country remains dependent on external aid and remittances from Tongan communities overseas to offset its trade deficit. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 41,000 visitors in 2004. The government is emphasizing the development of the private sector, especially the encouragement of investment, and is committing increased funds for health and education. Tonga has a reasonably sound basic infrastructure and well developed social services. High unemployment among the young, a continuing upturn in inflation, pressures for democratic reform, and rising civil service expenditures are major issues facing the government."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$545.4 million (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$258 million (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,800 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "25%"
+      },
+      "industry": {
+        "text": "17%"
+      },
+      "services": {
+        "text": "57% (FY05/06 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "39,960 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "31.8%"
+      },
+      "industry": {
+        "text": "30.6%"
+      },
+      "services": {
+        "text": "37.6% (2003 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "13% (FY03/04 est.)"
+    },
+    "Population below poverty line": {
+      "text": "24% (FY03/04)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$80.48 million"
+      },
+      "expenditures": {
+        "text": "$109.8 million (FY07/08 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.9% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.16% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$46.38 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$106.8 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$163.1 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "squash, coconuts, copra, bananas, vanilla beans, cocoa, coffee, ginger, black pepper; fish"
+    },
+    "Industries": {
+      "text": "tourism, construction, fishing"
+    },
+    "Industrial production growth rate": {
+      "text": "1% (2003 est.)"
+    },
+    "Electricity - production": {
+      "text": "43 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "39.99 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "1,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "1,173 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$23 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$22 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "squash, fish, vanilla beans, root crops"
+    },
+    "Exports - partners": {
+      "text": "US 29.6%, Japan 12%, NZ 12%, Fiji 7.1%, Samoa 6%, Australia 4.8%, South Korea 4.4%, Hong Kong 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$139 million (2006)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and transport equipment, fuels, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Fiji 36.8%, NZ 23.9%, US 9.3%, Australia 8.8%, China 4.9% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$40.83 million (yearend, FY04/05)"
+    },
+    "Debt - external": {
+      "text": "$80.7 million (2004)"
+    },
+    "Exchange rates": {
+      "text": "pa'anga (TOP) per US dollar - NA (2007), 2.0277 (2006), 1.96 (2005), 1.9716 (2004), 2.142 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "25,500 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "50,500 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "competition between Tonga Telecommunications Corporation (TCC) and Shoreline Communications Tonga (SCT) is accelerating expansion of telecommunications; SCT granted approval to introduce high-speed digital service for telephone, Internet, and television while TCC has exclusive rights to operate the mobile-phone network; international telecom services are provided by government-owned Tonga Telecommunications International (TTI)"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity exceeds 60 telephones per 100 persons; fully automatic switched network"
+      },
+      "international": {
+        "text": "country code - 676; satellite earth station - 1 Intelsat (Pacific Ocean) (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 4, shortwave 1 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (2004)"
+    },
+    "Internet country code": {
+      "text": ".to"
+    },
+    "Internet hosts": {
+      "text": "20,107 (2009)"
+    },
+    "Internet users": {
+      "text": "8,400 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "6 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "680 km"
+      },
+      "paved": {
+        "text": "184 km"
+      },
+      "unpaved": {
+        "text": "496 km (2000)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "13"
+      },
+      "by type": {
+        "text": "bulk carrier 1, cargo 8, carrier 1, liquefied gas 1, passenger/cargo 1, refrigerated cargo 1"
+      },
+      "foreign-owned": {
+        "text": "4 (Australia 1, Cyprus 1, Switzerland 1, UK 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Nuku'alofa"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Tonga Defense Services (TDS)": {
+        "text": "Land Force (Royal Guard), Naval Force (includes Royal Marines, Air Wing) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age (est.); no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "32,053"
+      },
+      "females age 16-49": {
+        "text": "30,981 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "26,471"
+      },
+      "females age 16-49": {
+        "text": "27,715 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,458"
+      },
+      "female": {
+        "text": "1,403 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.9% of GDP (2006 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

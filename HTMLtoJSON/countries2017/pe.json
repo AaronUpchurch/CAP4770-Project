@@ -1,0 +1,811 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Ancient Peru was the seat of several prominent Andean civilizations, most notably that of the Incas whose empire was captured by Spanish conquistadors in 1533. Peru declared its independence in 1821, and remaining Spanish forces were defeated in 1824. After a dozen years of military rule, Peru returned to democratic leadership in 1980, but experienced economic problems and the growth of a violent insurgency. President Alberto FUJIMORI's election in 1990 ushered in a decade that saw a dramatic turnaround in the economy and significant progress in curtailing guerrilla activity. Nevertheless, the president's increasing reliance on authoritarian measures and an economic slump in the late 1990s generated mounting dissatisfaction with his regime, which led to his resignation in 2000. A caretaker government oversaw a new election in the spring of 2001, which installed Alejandro TOLEDO Manrique as the new head of government - Peru's first democratically elected president of indigenous ethnicity. The presidential election of 2006 saw the return of Alan GARCIA Perez who, after a disappointing presidential term from 1985 to 1990, oversaw a robust economic rebound. Former army officer Ollanta HUMALA Tasso was elected president in June 2011, and carried on the sound, market-oriented economic policies of the three preceding administrations. Poverty and unemployment levels have fallen dramatically in the last decade, and today Peru boasts one of the best performing economies in Latin America. Pedro Pablo KUCZYNSKI Godard won a very narrow presidential runoff election in June 2016."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Peru"
+      },
+      "conventional short form": {
+        "text": "Peru"
+      },
+      "local long form": {
+        "text": "Republica del Peru"
+      },
+      "local short form": {
+        "text": "Peru"
+      },
+      "etymology": {
+        "text": "exact meaning is obscure, but the name may derive from a native word \"biru\" meaning \"river\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lima"
+      },
+      "geographic coordinates": {
+        "text": "12 03 S, 77 03 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali",
+      "note": {
+        "text": "Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the Callao region"
+      }
+    },
+    "Independence": {
+      "text": "28 July 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28-29 July (1821)"
+    },
+    "Constitution": {
+      "text": "several previous; latest promulgated 29 December 1993, enacted 31 December 1993; amended several times, last in 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "2 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory until the age of 70"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Pedro Pablo KUCZYNSKI Godard (since 28 July 2016); First Vice President Martin Alberto VIZCARRA Cornejo (since 28 July 2016); Second Vice President Mercedes Rosalba ARAOZ Fernandez (since 28 July 2016); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Pedro Pablo KUCZYNSKI Godard (since 28 July 2016); First Vice President Martin Alberto VIZCARRA Cornejo (since 28 July 2016); Second Vice President Mercedes Rosalba ARAOZ Fernandez (since 28 July 2016)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 10 April 2016 with runoff on 5 June 2016 (next to be held in April 2021)"
+      },
+      "election results": {
+        "text": "Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Fuerza Popular) 39.9%, Pedro Pablo KUCZYNSKI Godard (Peruanos Por el Kambio) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%"
+      },
+      "note": {
+        "text": "Prime Minister Mercedes Rosalba ARAOZ Fernandez (since 17 September 2017) does not exercise executive power; this power rests with the president"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 10 April 2016 with run-off election on 6 June 2016 (next to be held in April 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party/coalition - Fuerza Popular 36.3%, PPK 16.5%, Frente Amplio 13.9%, APP 9.2%; APRA 8.3%; AP 7.2%, other 8.6%; seats by party/coalition - Fuerza Popular 73, Frente Amplio 20, PPK 18, APP 9; APRA 5; AP 5"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)"
+      },
+      "judge selection and term of office": {
+        "text": "justices proposed by the National Council of the Judiciary or National Judicial Council (a 7-member independent body), nominated by the president, and confirmed by the Congress (all appointments reviewed by the Council every 7 years); justices appointed for life or until age 70"
+      },
+      "subordinate courts": {
+        "text": "Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Popular Christian Party (Partido Popular Cristiano) or PPC [Lourdes FLORES Nano]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Shining Path (Sendero Luminoso) or SL [Abimael GUZMAN Reynoso - imprisoned), Jorge and Victor QUISPE Palomino - indicted in US] (communist guerrilla group)"
+    },
+    "International organization participation": {
+      "text": "APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Carlos Jose PAREJA Rios (since 16 September 2016)"
+      },
+      "chancery": {
+        "text": "1700 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 833-9860 through 9869"
+      },
+      "FAX": {
+        "text": "[1] (202) 659-8124"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Mark WELLS (since 13 October 2017)"
+      },
+      "embassy": {
+        "text": "Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33"
+      },
+      "mailing address": {
+        "text": "P. O. Box 1995, Lima 1; American Embassy (Lima), APO AA 34031-5000"
+      },
+      "telephone": {
+        "text": "[51] (1) 618-2000"
+      },
+      "FAX": {
+        "text": "[51] (1) 618-2397"
+      }
+    },
+    "Flag description": {
+      "text": "three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace"
+    },
+    "National symbol(s)": {
+      "text": "vicuna (a camelid related to the llama); national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional del Peru\" (National Anthem of Peru)"
+      },
+      "lyrics/music": {
+        "text": "Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO"
+      },
+      "note": {
+        "text": "adopted 1822; the song won a national anthem contest"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2017. However, 2016 economic performance fell short of initial projections depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm, which have lowered 2017 growth estimates. Massive flooding in early 2017 may also be a drag on growth, offset somewhat by additional public spending aimed at recovery efforts."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$369.6 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$195.3 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$12,300 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Gross national saving": {
+      "text": "20.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "65.2%"
+      },
+      "government consumption": {
+        "text": "12.1%"
+      },
+      "investment in fixed capital": {
+        "text": "22.6%"
+      },
+      "investment in inventories": {
+        "text": "0.2%"
+      },
+      "exports of goods and services": {
+        "text": "22.2%"
+      },
+      "imports of goods and services": {
+        "text": "-22.2% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "7.6%"
+      },
+      "industry": {
+        "text": "34.7%"
+      },
+      "services": {
+        "text": "57.7% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "artichokes, asparagus, avocados, blueberries, coffee, cocoa, cotton, sugarcane, rice, potatoes, corn, plantains, grapes, oranges, pineapples, guavas, bananas, apples, lemons, pears, coca, tomatoes, mangoes, barley, medicinal plants, quinoa, palm oil, marigolds, onions, wheat, dry beans; poultry, beef, pork, dairy products; guinea pigs; fish"
+    },
+    "Industries": {
+      "text": "mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture"
+    },
+    "Industrial production growth rate": {
+      "text": "9.6% (2016 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Labor force": {
+      "text": "16.8 million",
+      "note": {
+        "text": "individuals older than 14 years of age (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "25.8%"
+      },
+      "industry": {
+        "text": "17.4%"
+      },
+      "services": {
+        "text": "56.8% (2011)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.5% (2015 est.)",
+      "note": {
+        "text": "data are for metropolitan Lima; widespread underemployment"
+      },
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Population below poverty line": {
+      "text": "22.7% (2014 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.4%"
+      },
+      "highest 10%": {
+        "text": "36.1% (2010 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "51 (2005)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$52.44 billion"
+      },
+      "expenditures": {
+        "text": "$57.48 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Public debt": {
+      "text": "23.3% of GDP (2015 est.)",
+      "note": {
+        "text": "data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities"
+      },
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.5% (2015 est.)",
+      "note": {
+        "text": "data are for metropolitan Lima, annual average"
+      },
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "5.05% (31 December 2012)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16.1% (31 December 2015 est.)",
+      "note": {
+        "text": "domestic currency lending rate, 90 day maturity"
+      },
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$29.59 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$74.02 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$49.47 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$80.98 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Current account balance": {
+      "text": "$-9.169 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "Exports": {
+      "text": "$34.41 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Exports - commodities": {
+      "text": "copper, gold, lead, zinc, tin, iron ore, molybdenum, silver; crude petroleum and petroleum products, natural gas; coffee, asparagus and other vegetables, fruit, apparel and textiles, fishmeal, fish, chemicals, fabricated metal products and machinery, alloys"
+    },
+    "Exports - partners": {
+      "text": "China 23.5%, US 17.3%, Switzerland 7.1%, Canada 4.7% (2016)"
+    },
+    "Imports": {
+      "text": "$37.33 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum and petroleum products, chemicals, plastics, machinery, vehicles, TV sets, power shovels, front-end loaders, telephones and telecommunication equipment, iron and steel, wheat, corn, soybean products, paper, cotton, vaccines and medicines"
+    },
+    "Imports - partners": {
+      "text": "China 22.8%, US 20.2%, Brazil 5.8%, Mexico 4.5% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$61.59 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Debt - external": {
+      "text": "$65.94 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$84.62 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$2.815 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Exchange rates": {
+      "text": "2.64 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "2,900,000"
+      },
+      "electrification - total population": {
+        "text": "91%"
+      },
+      "electrification - urban areas": {
+        "text": "98%"
+      },
+      "electrification - rural areas": {
+        "text": "73% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "46.31 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "40.93 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Electricity - exports": {
+      "text": "55 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "12.26 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "62.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "33.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "4.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Crude oil - production": {
+      "text": "40,270 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "15,560 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "83,660 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "473 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "187,200 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "240,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "66,650 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "52,880 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Natural gas - production": {
+      "text": "12.62 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "10.88 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "4.83 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "399 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "41 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "3,074,464"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "10 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "36,933,161"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "120 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate for most requirements; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity is only about 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now 120 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 51; the South America-1 (SAM-1) and Pan American (PAN-AM) submarine cable systems provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 2,000 radio stations including a substantial number of indigenous language stations (2010)"
+    },
+    "Internet country code": {
+      "text": ".pe"
+    },
+    "Internet users": {
+      "total": {
+        "text": "13,975,422"
+      },
+      "percent of population": {
+        "text": "45.5% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "39"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "7"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "35"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "13,907,948"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "223,643,434 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "OB (2016)"
+    },
+    "Airports": {
+      "text": "191 (2013)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "59"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "21"
+      },
+      "1,524 to 2,437 m": {
+        "text": "16"
+      },
+      "914 to 1,523 m": {
+        "text": "12"
+      },
+      "under 914 m": {
+        "text": "5 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "132"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "19"
+      },
+      "914 to 1,523 m": {
+        "text": "30"
+      },
+      "under 914 m": {
+        "text": "82 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "5 (2013)"
+    },
+    "Pipelines": {
+      "text": "extra heavy crude 786 km; gas 1,526 km; liquid petroleum gas 679 km; oil 1,033 km; refined products 15 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,854.4 km"
+      },
+      "standard gauge": {
+        "text": "1,730.4 km 1.435-m gauge (34 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "124 km 0.914-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "140,672 km (18,699 km paved)"
+      },
+      "note": {
+        "text": "includes 24,593 km of national roads (14,748 km paved), 24,235 km of departmental roads (2,340 km paved), and 91,844 km of local roads (1,611 km paved) (2012)"
+      },
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Waterways": {
+      "text": "8,808 km (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca) (2011)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "22"
+      },
+      "by type": {
+        "text": "cargo 2, chemical tanker 5, liquefied gas 2, petroleum tanker 13"
+      },
+      "foreign-owned": {
+        "text": "8 (Chile 6, Ecuador 1, Spain 1)"
+      },
+      "registered in other countries": {
+        "text": "9 (Panama 9) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Callao, Matarani, Paita"
+      },
+      "river port(s)": {
+        "text": "Iquitos, Pucallpa, Yurimaguas (Amazon)"
+      },
+      "oil terminal(s)": {
+        "text": "Conchan oil terminal, La Pampilla oil terminal"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Callao (1,616,365)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.33% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Military branches": {
+      "text": "Peruvian Army (Ejercito Peruano), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval air, naval infantry, and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-50 years of age for male and 18-45 years of age for female voluntary military service; no conscription (2012)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2016, 11 attacks against commercial vessels were reported up from none in 2015; most of these occured in the main port of Callao"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru; organized illegal narcotics operations in Colombia have penetrated Peru's shared border; Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "62,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "until 1996 the world's largest coca leaf producer, Peru is now the world's second largest producer of coca leaf, though it lags far behind Colombia; cultivation of coca in Peru was estimated at 53,000 hectares in 2015, an increase of 14 per cent over 2014; second largest producer of cocaine, estimated at 380 metric tons of potential pure cocaine in 2015; finished cocaine is shipped out from Pacific ports to the international drug market; increasing amounts of base and finished cocaine, however, are being moved to Brazil, Chile, Argentina, and Bolivia for use in the Southern Cone or transshipment to Europe and Africa; increasing domestic drug consumption"
+    }
+  }
+}

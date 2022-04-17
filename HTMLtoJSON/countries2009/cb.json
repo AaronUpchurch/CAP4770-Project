@@ -1,0 +1,729 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries. Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863 and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In April 1975, after a five-year struggle, Communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A December 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off almost 13 years of civil war. The 1991 Paris Peace Accords mandated democratic elections and a ceasefire, which was not fully respected by the Khmer Rouge. UN-sponsored elections in 1993 helped restore some semblance of normalcy under a coalition government. Factional fighting in 1997 ended the first coalition government, but a second round of national elections in 1998 led to the formation of another coalition government and renewed political stability. The remaining elements of the Khmer Rouge surrendered in early 1999. Some of the surviving Khmer Rouge leaders are awaiting trial by a UN-sponsored tribunal for crimes against humanity. Elections in July 2003 were relatively peaceful, but it took one year of negotiations between contending political parties before a coalition government was formed. In October 2004, King Norodom SIHANOUK abdicated the throne and his son, Prince Norodom SIHAMONI, was selected to succeed him. Local elections were held in Cambodia in April 2007, and there was little in the way of pre-election violence that preceded prior elections. National elections in July 2008 were relatively peaceful."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, bordering the Gulf of Thailand, between Thailand, Vietnam, and Laos"
+    },
+    "Geographic coordinates": {
+      "text": "13 00 N, 105 00 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "181,035 sq km"
+      },
+      "land": {
+        "text": "176,515 sq km"
+      },
+      "water": {
+        "text": "4,520 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Oklahoma"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,572 km"
+      },
+      "border countries": {
+        "text": "Laos 541 km, Thailand 803 km, Vietnam 1,228 km"
+      }
+    },
+    "Coastline": {
+      "text": "443 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "mostly low, flat plains; mountains in southwest and north"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Gulf of Thailand 0 m"
+      },
+      "highest point": {
+        "text": "Phnum Aoral 1,810 m"
+      }
+    },
+    "Natural resources": {
+      "text": "oil and gas, timber, gemstones, iron ore, manganese, phosphates, hydropower potential"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "20.44%"
+      },
+      "permanent crops": {
+        "text": "0.59%"
+      },
+      "other": {
+        "text": "78.97% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "2,700 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "476.1 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "4.08  cu km/yr (1%/0%/98%)"
+      },
+      "per capita": {
+        "text": "290  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "monsoonal rains (June to November); flooding; occasional droughts"
+    },
+    "Environment - current issues": {
+      "text": "illegal logging activities throughout the country and strip mining for gems in the western region along the border with Thailand have resulted in habitat loss and declining biodiversity (in particular, destruction of mangrove swamps threatens natural fisheries); soil erosion; in rural areas, most of the population does not have access to potable water; declining fish stocks because of illegal fishing and overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "a land of paddies and forests dominated by the Mekong River and Tonle Sap"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "14,494,293",
+      "note": "estimates for this country take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "32.6% (male 2,388,922/female 2,336,439)"
+      },
+      "15-64 years": {
+        "text": "63.8% (male 4,498,568/female 4,743,677)"
+      },
+      "65 years and over": {
+        "text": "3.6% (male 197,649/female 329,038) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "22.1 years"
+      },
+      "male": {
+        "text": "21.4 years"
+      },
+      "female": {
+        "text": "22.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.765% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "25.73 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.08 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "22% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.95 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.6 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "54.79 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "61.84 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "47.42 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "62.1 years"
+      },
+      "male": {
+        "text": "60.03 years"
+      },
+      "female": {
+        "text": "64.27 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.04 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.8% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "75,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "6,900 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever, Japanese encephalitis, and malaria"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Cambodian(s)"
+      },
+      "adjective": {
+        "text": "Cambodian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Khmer 90%, Vietnamese 5%, Chinese 1%, other 4%"
+    },
+    "Religions": {
+      "text": "Buddhist 96.4%, Muslim 2.1%, other 1.3%, unspecified 0.2% (1998 census)"
+    },
+    "Languages": {
+      "text": "Khmer (official) 95%, French, English"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "73.6%"
+      },
+      "male": {
+        "text": "84.7%"
+      },
+      "female": {
+        "text": "64.1% (2004 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "10 years"
+      },
+      "male": {
+        "text": "10 years"
+      },
+      "female": {
+        "text": "9 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "1.7% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Cambodia "
+      },
+      "conventional short form": {
+        "text": "Cambodia"
+      },
+      "local long form": {
+        "text": "Preahreacheanachakr Kampuchea (phonetic pronunciation)"
+      },
+      "local short form": {
+        "text": "Kampuchea"
+      },
+      "former": {
+        "text": "Khmer Republic, Democratic Kampuchea, People's Republic of Kampuchea, State of Cambodia"
+      }
+    },
+    "Government type": {
+      "text": "multiparty democracy under a constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Phnom Penh"
+      },
+      "geographic coordinates": {
+        "text": "11 33 N, 104 55 E"
+      },
+      "time difference": {
+        "text": "UTC+7 (12 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "23 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural)",
+      "provinces": {
+        "text": "Banteay Mean Cheay, Batdambang, Kampong Cham, Kampong Chhnang, Kampong Spoe, Kampong Thum, Kampot, Kandal, Kaoh Kong, Keb, Krachen, Mondol Kiri, Otdar Mean Cheay, Pailin, Pouthisat, Preah Seihanu (Sihanoukville), Preah Vihear, Prey Veng, Rotanah Kiri, Siem Reab, Stoeng Treng, Svay Rieng, Takev"
+      },
+      "municipalities": {
+        "text": "Phnum Penh (Phnom Penh)"
+      }
+    },
+    "Independence": {
+      "text": "9 November 1953 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 9 November (1953)"
+    },
+    "Constitution": {
+      "text": "promulgated 21 September 1993"
+    },
+    "Legal system": {
+      "text": "primarily a civil law mixture of French-influenced codes from the United Nations Transitional Authority in Cambodia (UNTAC) period, royal decrees, and acts of the legislature, with influences of customary law and remnants of communist legal theory; increasing influence of common law; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King Norodom SIHAMONI (since 29 October 2004)"
+      },
+      "head of government": {
+        "text": "Prime Minister HUN SEN (since 14 January 1985) [co-prime minister from 1993 to 1997]; Permanent Deputy Prime Minister MEN SAM AN (since 25 September 2008); Deputy Prime Ministers SAR KHENG (since 3 February 1992); SOK AN, TEA BANH, HOR NAMHONG, NHEK BUNCHHAY (since 16 July 2004); BIN CHHIN (since 5 September 2007); KEAT CHHON, YIM CHHAI LY (since 24 September 2008); KE KIMYAN (since 12 March 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers named by the prime minister and appointed by the monarch"
+      },
+      "elections": {
+        "text": "the king is chosen by a Royal Throne Council from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition is named prime minister by the Chairman of the National Assembly and appointed by the king"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral, consists of the Senate (61 seats; 2 members appointed by the monarch, 2 elected by the National Assembly, and 57 elected by parliamentarians and commune councils; members serve five-year terms) and the National Assembly (123 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held 22 January 2006 (next to be held in January 2011); National Assembly - last held 27 July 2008 (next to be held in July 2013)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - CPP 69%, FUNCINPEC 21%, SRP 10%; seats by party - CPP 45, FUNCINPEC 10, SRP 2; National Assembly - percent of vote by party - CPP 58%, SRP 22%, HRP 7%; NRP 6%; FUNCINPEC 5%; others 2%; seats by party - CPP 90, SRP 26, HRP 3, FUNCINPEC 2, NRP 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Council of the Magistracy (provided for in the constitution and formed in December 1997); Supreme Court (and lower courts) exercises judicial authority"
+    },
+    "Political parties and leaders": {
+      "text": "Cambodian People's Party or CPP [CHEA SIM]; Human Rights Party or HRP [KHEM SOKHA, also spelled KEM SOKHA]; National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [KEV PUT REAKSMEI]; Norodom Ranariddh Party or NRP [CHHIM SEAK LENG]; Sam Rangsi Party or SRP [SAM RANGSI, also spelled SAM RAINSY]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Cambodian Freedom Fighters or CFF; Partnership for Transparency Fund or PTF (anti-corruption organization); Students Movement for Democracy; The Committee for Free and Fair Elections or Comfrel",
+      "other": {
+        "text": "human rights organizations; vendors"
+      }
+    },
+    "International organization participation": {
+      "text": "ACCT, ADB, APT, ARF, ASEAN, EAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNMIS, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador HENG HEM"
+      },
+      "chancery": {
+        "text": "4530 16th Street NW, Washington, DC 20011"
+      },
+      "telephone": {
+        "text": "[1] (202) 726-7742"
+      },
+      "FAX": {
+        "text": "[1] (202) 726-8381"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Carol A. RODLEY"
+      },
+      "embassy": {
+        "text": "#1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh"
+      },
+      "mailing address": {
+        "text": "Box P, APO AP 96546"
+      },
+      "telephone": {
+        "text": "[855] (23) 728-000"
+      },
+      "FAX": {
+        "text": "[855] (23) 728-600"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of blue (top), red (double width), and blue with a white three-towered temple representing Angkor Wat outlined in black in the center of the red band",
+      "note": "only national flag to incorporate an actual building in its design"
+    },
+    "note": "only national flag to incorporate an actual building in its design"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "From 2004 to 2007, the economy grew about 10% per year, driven largely by an expansion in the garment sector, construction, agriculture, and tourism. Growth dropped to below 7% in 2008 as a result of the global economic slowdown. With the January 2005 expiration of a WTO Agreement on Textiles and Clothing, Cambodian textile producers were forced to compete directly with lower-priced countries such as China, India, Vietnam, and Bangladesh. The garment industry currently employs more than 320,000 people and contributes more than 85% of Cambodia's exports. In 2005, exploitable oil deposits were found beneath Cambodia's territorial waters, representing a new revenue stream for the government if commercial extraction begins. Mining also is attracting significant investor interest, particularly in the northern parts of the country. The government has said opportunities exist for mining bauxite, gold, iron and gems. In 2006, a US-Cambodia bilateral Trade and Investment Framework Agreement (TIFA) was signed, and several rounds of discussions have been held since 2007. The tourism industry has continued to grow rapidly, with foreign arrivals exceeding 2 million per year in 2007-08, however, economic troubles abroad will dampen growth in 2009. Rubber exports declined more than 15% in 2008 due to falling world market prices. The global financial crisis is weakening demand for Cambodian exports, and construction is declining due to a shortage of credit. The long-term development of the economy remains a daunting challenge. The Cambodian government is working with bilateral and multilateral donors, including the World Bank and IMF, to address the country's many pressing needs. The major economic challenge for Cambodia over the next decade will be fashioning an economic environment in which the private sector can create enough jobs to handle Cambodia's demographic imbalance. More than 50% of the population is less than 21 years old. The population lacks education and productive skills, particularly in the poverty-ridden countryside, which suffers from an almost total lack of basic infrastructure."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$24.2 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$11.25 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "10.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,800 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "29%"
+      },
+      "industry": {
+        "text": "30%"
+      },
+      "services": {
+        "text": "41% (2007 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "8.6 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "75%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA% (2004 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.5% (2000 est.)"
+    },
+    "Population below poverty line": {
+      "text": "35% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3%"
+      },
+      "highest 10%": {
+        "text": "34.2% (2007)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "40 (2004 est.)"
+    },
+    "Investment (gross fixed)": {
+      "text": "22.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.274 billion"
+      },
+      "expenditures": {
+        "text": "$1.592 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.9% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16.18% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$513.6 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$2.309 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.131 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "rice, rubber, corn, vegetables, cashews, tapioca, silk"
+    },
+    "Industries": {
+      "text": "tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "1.273 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.272 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "167 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "4,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "30,970 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$506.3 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$4.089 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "clothing, timber, rubber, rice, fish, tobacco, footwear"
+    },
+    "Exports - partners": {
+      "text": "US 54.4%, Germany 7.7%, Canada 5.9%, UK 5.5%, Vietnam 4.5% (2008)"
+    },
+    "Imports": {
+      "text": "$5.424 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, cigarettes, gold, construction materials, machinery, motor vehicles, pharmaceutical products"
+    },
+    "Imports - partners": {
+      "text": "Thailand 26.8%, Vietnam 19%, China 14.5%, Hong Kong 8.1%, Singapore 6.9% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.143 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.89 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "riels (KHR) per US dollar - 4,070.94 (2008 est.), 4,006 (2007), 4,103 (2006), 4,092.5 (2005), 4,016.25 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "45,100 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "4.237 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "mobile-phone systems are widely used in urban areas to bypass deficiencies in the fixed-line network; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage, aided by increasing competition among service providers, is increasing and stands at 30 per 100 persons"
+      },
+      "domestic": {
+        "text": "adequate landline and/or cellular service in Phnom Penh and other provincial cities; mobile-phone coverage is rapidly expanding in rural areas"
+      },
+      "international": {
+        "text": "country code - 855; adequate but expensive landline and cellular service available to all countries from Phnom Penh and major provincial cities; satellite earth station - 1 Intersputnik (Indian Ocean region) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 50, shortwave NA (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "8 (including 2 TV relay stations with French and Vietnamese broadcasts); excludes 18 regional relay stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".kh"
+    },
+    "Internet hosts": {
+      "text": "2,480 (2009)"
+    },
+    "Internet users": {
+      "text": "74,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "17 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "11"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "9"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "602 km"
+      },
+      "narrow gauge": {
+        "text": "602 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "38,093 km"
+      },
+      "paved": {
+        "text": "2,977 km"
+      },
+      "unpaved": {
+        "text": "35,116 km (2007)"
+      }
+    },
+    "Waterways": {
+      "text": "2,400 km (mainly on Mekong River) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "626"
+      },
+      "by type": {
+        "text": "bulk carrier 41, cargo 530, carrier 3, chemical tanker 10, container 8, passenger/cargo 6, petroleum tanker 11, refrigerated cargo 15, roll on/roll off 1, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "467 (Canada 2, China 193, Cyprus 7, Egypt 13, Gabon 1, Greece 3, Hong Kong 8, Indonesia 2, Japan 1, South Korea 22, Latvia 1, Lebanon 8, Netherlands 1, Romania 1, Russia 83, Singapore 4, Syria 48, Taiwan 1, Turkey 26, Ukraine 34, UAE 2, US 6) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Phnom Penh, Kampong Saom (Sihanoukville)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Royal Cambodian Armed Forces": {
+        "text": "Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "conscription law of October 2006 requires all males between 18-30 to register for military service; 18-month service obligation (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "3,759,034"
+      },
+      "females age 16-49": {
+        "text": "3,784,333 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,673,383"
+      },
+      "females age 16-49": {
+        "text": "2,763,256 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "177,881"
+      },
+      "female": {
+        "text": "175,332 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Cambodia and Thailand dispute sections of boundary with missing boundary markers and claims of Thai encroachments into Cambodian territory; maritime boundary with Vietnam is hampered by unresolved dispute over sovereignty of offshore islands; Thailand accuses Cambodia of obstructing inclusion of Thai areas near Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962, as part of a planned UN World Heritage site"
+    },
+    "Illicit drugs": {
+      "text": "narcotics-related corruption reportedly involving some in the government, military, and police; limited methamphetamine production; vulnerable to money laundering due to its cash-based economy and porous borders\r\n"
+    }
+  }
+}

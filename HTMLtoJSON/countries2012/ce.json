@@ -1,0 +1,829 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced in about the mid-third century B.C., and a great civilization developed at the cities of Anuradhapura (kingdom from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The coastal areas of the island were controlled by the Portuguese in the 16th century and by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Tensions between the Sinhalese majority and Tamil separatists erupted into war in 1983. After two decades of fighting, the government and Liberation Tigers of Tamil Eelam (LTTE) formalized a cease-fire in February 2002 with Norway brokering peace negotiations. Violence between the LTTE and government forces intensified in 2006, but the government regained control of the Eastern Province in 2007. By May 2009, the government announced that its military had defeated the remnants of the LTTE. Since the end of the conflict, the government has enacted an ambitious program of economic development projects, many of which are financed by loans from the Government of China. In addition to efforts to reconstruct its economy, the government has resettled more than 95% of those civilians who were displaced during the final phase of the conflict and released the vast majority of former LTTE combatants captured by Government Security Forces. At the same time, there has been little progress on more contentious and politically difficult issues such as reaching a political settlement with Tamil elected representatives and holding accountable those alleged to have been involved in human rights violations at the end of the war."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, island in the Indian Ocean, south of India"
+    },
+    "Geographic coordinates": {
+      "text": "7 00 N, 81 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "65,610 sq km"
+      },
+      "land": {
+        "text": "64,630 sq km "
+      },
+      "water": {
+        "text": "980 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than West Virginia"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,340 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm "
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin "
+      }
+    },
+    "Climate": {
+      "text": "tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)"
+    },
+    "Terrain": {
+      "text": "mostly low, flat to rolling plain; mountains in south-central interior"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Pidurutalagala 2,524 m "
+      }
+    },
+    "Natural resources": {
+      "text": "limestone, graphite, mineral sands, gems, phosphates, clay, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "13.96%"
+      },
+      "permanent crops": {
+        "text": "15.24% "
+      },
+      "other": {
+        "text": "70.8% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "5,700 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "50 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "12.61  cu km/yr (2%/2%/95%)"
+      },
+      "per capita": {
+        "text": "608  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "occasional cyclones and tornadoes"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; wildlife populations threatened by poaching and urbanization; coastal degradation from mining activities and increased pollution; freshwater resources being polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation "
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location near major Indian Ocean sea lanes"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Sri Lankan(s) "
+      },
+      "adjective": {
+        "text": "Sri Lankan "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Sinhalese 73.8%, Sri Lankan Moors 7.2%, Indian Tamil 4.6%, Sri Lankan Tamil 3.9%, other 0.5%, unspecified 10% (2001 census provisional data)"
+    },
+    "Languages": {
+      "text": "Sinhala (official and national language) 74%, Tamil (national language) 18%, other 8%",
+      "note": "English, spoken competently by about 10% of the population, is commonly used in government and is referred to as the link language in the constitution "
+    },
+    "note": "English, spoken competently by about 10% of the population, is commonly used in government and is referred to as the link language in the constitution ",
+    "Religions": {
+      "text": "Buddhist (official) 69.1%, Muslim 7.6%, Hindu 7.1%, Christian 6.2%, unspecified 10% (2001 census provisional data)"
+    },
+    "Population": {
+      "text": "21,481,334 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "24.9% (male 2,723,657/ female 2,615,425)"
+      },
+      "15-64 years": {
+        "text": "67% (male 7,041,566/ female 7,358,891) "
+      },
+      "65 years and over": {
+        "text": "8.1% (male 747,433/ female 994,362) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "31.1 years"
+      },
+      "male": {
+        "text": "30.1 years "
+      },
+      "female": {
+        "text": "32.2 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "0.913% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "17.04 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "5.96 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.95 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "14% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.1% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "COLOMBO (capital) 681,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.75 male(s)/female "
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "35 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "9.47 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "10.44 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "8.45 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.94 years"
+      },
+      "male": {
+        "text": "72.43 years "
+      },
+      "female": {
+        "text": "79.59 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.17 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "4% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.492 physicians/1,000 population (2006)"
+    },
+    "Hospital bed density": {
+      "text": "3.1 beds/1,000 population (2004)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "12% of population "
+      },
+      "rural": {
+        "text": "8% of population "
+      },
+      "total": {
+        "text": "9% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "2,800 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea and hepatitis A "
+      },
+      "vectorborne disease": {
+        "text": "dengue fever and chikungunya "
+      },
+      "water contact disease": {
+        "text": "leptospirosis "
+      },
+      "animal contact disease": {
+        "text": "rabies (2009) "
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "21.1% (2007)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "91.2% "
+      },
+      "male": {
+        "text": "92.6% "
+      },
+      "female": {
+        "text": "90% (2010 census) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "12 years "
+      },
+      "female": {
+        "text": "13 years (2004) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "21.3%"
+      },
+      "male": {
+        "text": "17.1% "
+      },
+      "female": {
+        "text": "27.9% (2009) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Democratic Socialist Republic of Sri Lanka "
+      },
+      "conventional short form": {
+        "text": "Sri Lanka "
+      },
+      "local long form": {
+        "text": "Shri Lanka Prajatantrika Samajavadi Janarajaya/Ilankai Jananayaka Choshalichak Kutiyarachu "
+      },
+      "local short form": {
+        "text": "Shri Lanka/Ilankai "
+      },
+      "former": {
+        "text": "Serendib, Ceylon "
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Colombo"
+      },
+      "geographic coordinates": {
+        "text": "6 55 N, 79 50 E "
+      },
+      "time difference": {
+        "text": "UTC+5.5 (10.5 hours ahead of Washington, DC during Standard Time) "
+      },
+      "note": "Sri Jayewardenepura Kotte (legislative capital) "
+    },
+    "note": "adopted 1951 ",
+    "Administrative divisions": {
+      "text": "9 provinces; Central, Eastern, North Central, Northern, North Western, Sabaragamuwa, Southern, Uva, Western"
+    },
+    "Independence": {
+      "text": "4 February 1948 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 4 February (1948)"
+    },
+    "Constitution": {
+      "text": "adopted 16 August 1978, certified 31 August 1978; amended 20 December 2001"
+    },
+    "Legal system": {
+      "text": "mixed legal system of Roman-Dutch civil law, English common law, and Jaffna Tamil customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mahinda Percy RAJAPAKSA (since 19 November 2005); note - the president is both the chief of state and head of government; Dissanayake Mudiyanselage JAYARATNE holds the largely ceremonial title of prime minister (since 21 April 2010)"
+      },
+      "head of government": {
+        "text": "President Mahinda Percy RAJAPAKSA (since 19 November 2005) "
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president in consultation with the prime minister "
+      },
+      "elections": {
+        "text": "president elected by popular vote for a six-year term, eligible for a second term; election last held on 26 January 2010 (next to be held in 2016) "
+      },
+      "election results": {
+        "text": "Mahinda RAJAPAKSA reelected president for second term; percent of vote - Mahinda RAJAPAKSA 57.88%, Sarath FONSEKA 40.15%, other 1.97% "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament (225 seats; members elected by popular vote on the basis of an open-list, proportional representation system by electoral district to serve six-year terms)",
+      "elections": {
+        "text": "last held on 8 April 2010 with a repoll in two electorates held on 20 April 2010 (next to be held by April 2016) "
+      },
+      "election results": {
+        "text": "percent of vote by alliance or party - United People's Freedom Alliance 60.93%, United National Party 29.34%, Democratic National Alliance 5.49%, Tamil National Alliance 2.9%, other 1.94%; seats by alliance or party - United People's Freedom Alliance 144, United National Party 60, Tamil National Alliance 14, Democratic National Alliance 7 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Court of Appeals; judges for both courts are appointed by the president"
+    },
+    "Political parties and leaders": {
+      "Coalitions and leaders": {
+        "text": "Democratic National Alliance, led by General (Retired) Sarath FONSEKA; Janatha Vimukthi Peramuna or JVP [Somawansa AMARASINGHE]; Tamil National Alliance led by Illandai Tamil Arasu Kachchi [R. SAMPANTHAN]; United National Front led by United National Party [Ranil WICKREMESINGHE]; United People's Freedom Alliance led by Sri Lanka Freedom Party [Mahinda RAJAPAKSA]"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Liberation Tigers of Tamil Eelam or LTTE [P. SIVAPARAN, Chief of International Secretariat; V. RUDRAKUMARAN, legal advisor]; note - this insurgent group suffered military defeat in May 2009; some cadres remain scattered throughout country, but there have not been any incidents in Sri Lanka since May 2009",
+      "other": {
+        "text": "Buddhist clergy; labor unions; hard-line nationalist Sinhalese groups such as the National Movement Against Terrorism; Sinhalese Buddhist lay groups "
+      }
+    },
+    "International organization participation": {
+      "text": "ABEDA, ADB, ARF, BIMSTEC, C, CD, CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Jaliya Chitran WICKRAMASURIYA\r\n"
+      },
+      "chancery": {
+        "text": "2148 Wyoming Avenue NW, Washington, DC 20008 "
+      },
+      "telephone": {
+        "text": "[1] (202) 483-4025 through 4028 "
+      },
+      "FAX": {
+        "text": "[1] (202) 232-7181 "
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles "
+      },
+      "consulate(s)": {
+        "text": "New York "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Michele J. SISON"
+      },
+      "embassy": {
+        "text": "210 Galle Road, Colombo 3 "
+      },
+      "mailing address": {
+        "text": "P. O. Box 106, Colombo "
+      },
+      "telephone": {
+        "text": "[94] (11) 249-8500 "
+      },
+      "FAX": {
+        "text": "[94] (11) 243-7345 "
+      }
+    },
+    "Flag description": {
+      "text": "yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the other larger panel depicts a yellow lion holding a sword on a dark red rectangular field that also displays a yellow bo leaf in each corner; the yellow field appears as a border around the entire flag and extends between the two panels; the lion represents Sinhalese ethnicity, the strength of the nation, and bravery; the sword demonstrates the sovereignty of the nation; the four bo leaves - symbolizing Buddhism and its influence on the country - stand for the four virtues of kindness, friendliness, happiness, and equanimity; orange signifies Sri Lankan Tamils, green the Sri Lankan Moors; dark red represents the European Burghers, but also refers to the rich colonial background of the country; yellow denotes other ethnic groups; also referred to as the Lion Flag"
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Sri Lanka Matha\" (Mother Sri Lanka)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Ananda SAMARKONE "
+      },
+      "note": "adopted 1951 "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Sri Lanka continues to experience strong economic growth following the end of the 26-year conflict with the Liberation Tigers of Tamil Ellam (LTTE). The government has been pursuing large-scale reconstruction and development projects supplemented with private investment in its efforts to spur growth in war-torn and disadvantaged areas, develop small and medium enterprises and increase agricultural productivity. The government's high debt payments and bloated civil service have contributed to historically high budget deficits, but economic reforms in recent years in line with IMF recommendations have helped bring down the government's fiscal deficit. The 2008-09 global financial crisis and recession exposed Sri Lanka's economic vulnerabilities and nearly caused a balance of payments crisis. Growth slowed to 3.5% in 2009. Economic activity rebounded strongly with the end of the war and an IMF agreement, resulting in three straight years of high growth in 2010-12. Per capita income of $6,100 on a purchasing power parity basis is among the highest in the region."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$109.2 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "covers central government debt, and excludes debt instruments directly owned by government entities other than the treasury (e.g. commercial bank borrowings of a government corporation); the data includes treasury debt held by foreign entities as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement; sub-national entities are usually not permitted to sell debt instruments ",
+    "GDP (official exchange rate)": {
+      "text": "$59.77 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.8% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$5,400 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "12%"
+      },
+      "industry": {
+        "text": "30.1% "
+      },
+      "services": {
+        "text": "57.9% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "8.194 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "31.8%"
+      },
+      "industry": {
+        "text": "25.8% "
+      },
+      "services": {
+        "text": "42.4% (June 2012) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.2% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "8.9% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.7%"
+      },
+      "highest 10%": {
+        "text": "36.8% (2009) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "46 (1995) "
+    },
+    "Investment (gross fixed)": {
+      "text": "27.7% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.234 billion"
+      },
+      "expenditures": {
+        "text": "$12.39 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "13.8% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.9% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "79% of GDP (2011 est.) ",
+      "note": "covers central government debt, and excludes debt instruments directly owned by government entities other than the treasury (e.g. commercial bank borrowings of a government corporation); the data includes treasury debt held by foreign entities as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement; sub-national entities are usually not permitted to sell debt instruments "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "7% (31 December 2011 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.41% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$3.852 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$18.88 billion (31 December 2010 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$24.21 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$8.133 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "rice, sugarcane, grains, pulses, oilseed, spices, vegetables, fruit, tea, rubber, coconuts; milk, eggs, hides, beef; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "8.4% (2012 est.)"
+    },
+    "Current account balance": {
+      "text": "-$4.638 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$10.54 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "textiles and apparel, tea and spices; rubber manufactures; precious stones; coconut products, fish"
+    },
+    "Exports - partners": {
+      "text": "US 19.8%, UK 9.2%, India 6.5%, Italy 5%, Germany 5%, Belgium 4.4% (2011)"
+    },
+    "Imports": {
+      "text": "$20.27 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "petroleum, textiles, machinery and transportation equipment, building materials, mineral products, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "India 25.6%, China 15.9%, Singapore 7.1%, Iran 6.2%, Japan 5% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$7.9 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$22.66 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "108.33 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "10.71 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "9.268 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2012 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "3.088 million kW (2010 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "47.2% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "52.5% of total installed capacity (2010 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.3% of total installed capacity (2010 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2012 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2012 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "41,000 bbl/day (2012 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "50,000 bbl/day (2012 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "89,620 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "48,140 bbl/day (2012 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2012 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "14.09 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.608 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "18.319 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telephone services have improved significantly and are available in most parts of the country"
+      },
+      "domestic": {
+        "text": "national trunk network consists mostly of digital microwave radio relay; fiber-optic links now in use in Colombo area and fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing "
+      },
+      "international": {
+        "text": "country code - 94; the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cables provide connectivity to Asia, Australia, Middle East, Europe, US; satellite earth stations - 2 Intelsat (Indian Ocean) "
+      }
+    },
+    "Broadcast media": {
+      "text": "government operates 8 TV channels and a radio network; multi-channel satellite and cable TV subscription services available; 35 private TV stations and about 50 radio stations (2012)"
+    },
+    "Internet country code": {
+      "text": ".lk"
+    },
+    "Internet hosts": {
+      "text": "9,552 (2012)"
+    },
+    "Internet users": {
+      "text": "1.777 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "18 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "14"
+      },
+      "over 3,047 m": {
+        "text": "1 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "6 "
+      },
+      "914 to 1,523 m": {
+        "text": "7 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "1 "
+      },
+      "under 914 m": {
+        "text": "3 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "1 (2012)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,449 km"
+      },
+      "broad gauge": {
+        "text": "1,449 km 1.676-m gauge (2007) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "91,907 km (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "160 km (primarily on rivers in southwest) (2012)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "21"
+      },
+      "by type": {
+        "text": "bulk carrier 4, cargo 13, chemical tanker 1, container 1, petroleum tanker 2 "
+      },
+      "foreign-owned": {
+        "text": "8 (Germany 8) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Colombo"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Sri Lanka Army, Sri Lanka Navy, Sri Lanka Air Force (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "18-22 years of age for voluntary military service; 5-year service obligation (Air Force) (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,342,147"
+      },
+      "females age 16-49": {
+        "text": "5,466,409 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,177,432"
+      },
+      "females age 16-49": {
+        "text": "4,574,833 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "167,026"
+      },
+      "female": {
+        "text": "162,587 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "2.6% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "at least 115,000 (civil war; more than half displaced prior to 2008; many of the more than 470,000 IDPs registered as returnees had not reached durable solutions as of September 2012)"
+      }
+    }
+  }
+}

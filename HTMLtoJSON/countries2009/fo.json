@@ -1,0 +1,562 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The population of the Faroe Islands is largely descended from Viking settlers who arrived in the 9th century. The islands have been connected politically to Denmark since the 14th century. A high degree of self government was attained in 1948."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Europe, island group between the Norwegian Sea and the North Atlantic Ocean, about half way between Iceland and Norway"
+    },
+    "Geographic coordinates": {
+      "text": "62 00 N, 7 00 W"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "1,393 sq km"
+      },
+      "land": {
+        "text": "1,393 sq km"
+      },
+      "water": {
+        "text": "0 sq km (some lakes and streams)"
+      }
+    },
+    "Area - comparative": {
+      "text": "eight times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,117 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "3 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or agreed boundaries or median line"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm or agreed boundaries or median line"
+      }
+    },
+    "Climate": {
+      "text": "mild winters, cool summers; usually overcast; foggy, windy"
+    },
+    "Terrain": {
+      "text": "rugged, rocky, some low peaks; cliffs along most of coast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Slaettaratindur 882 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, whales, hydropower, possible oil and gas"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.14%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "97.86% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "0 sq km"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Marine Dumping - associate member to the London Convention and Ship Pollution"
+      }
+    },
+    "Geography - note": {
+      "text": "archipelago of 17 inhabited islands and one uninhabited island, and a few uninhabited islets; strategically located along important sea lanes in northeastern Atlantic; precipitous terrain limits habitation to small coastal lowlands"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "48,856 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "21.6% (male 5,451/female 5,108)"
+      },
+      "15-64 years": {
+        "text": "64% (male 16,708/female 14,544)"
+      },
+      "65 years and over": {
+        "text": "14.4% (male 3,324/female 3,721) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "36.9 years"
+      },
+      "male": {
+        "text": "36.3 years"
+      },
+      "female": {
+        "text": "37.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.397% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "13.04 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.66 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.41 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "41% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.07 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.07 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.15 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.89 male(s)/female"
+      },
+      "total population": {
+        "text": "1.09 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "6.32 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "6.56 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "6.06 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.44 years"
+      },
+      "male": {
+        "text": "77 years"
+      },
+      "female": {
+        "text": "82.05 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.44 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Faroese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Faroese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Scandinavian"
+    },
+    "Religions": {
+      "text": "Evangelical Lutheran 83.8%, other and unspecified 16.2% (2006 administrative data)"
+    },
+    "Languages": {
+      "text": "Faroese (derived from Old Norse), Danish"
+    },
+    "Literacy": {
+      "text": "NA; note - probably 99%, the same as Denmark proper"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Faroe Islands"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Foroyar"
+      }
+    },
+    "Dependency status": {
+      "text": "part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1948"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Torshavn"
+      },
+      "geographic coordinates": {
+        "text": "62 01 N, 6 46 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark); there are no first-order administrative divisions as defined by the US Government, but there are 34 municipalities"
+    },
+    "Independence": {
+      "text": "none (part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark)"
+    },
+    "National holiday": {
+      "text": "Olaifest (Olavasoka), 29 July"
+    },
+    "Constitution": {
+      "text": "5 June 1953 (Danish constitution)"
+    },
+    "Legal system": {
+      "text": "the laws of Denmark, where applicable, apply"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Birgit KLEIS, chief administrative officer (since 1 November 2001)"
+      },
+      "head of government": {
+        "text": "Prime Minister Kaj Leo JOHANNESSEN (since 26 September 2008)"
+      },
+      "cabinet": {
+        "text": "Landsstyri appointed by the prime minister"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or the leader of the majority coalition is usually elected prime minister by the Faroese Parliament; election last held 19 January 2008 (next to be held no later than January 2012)"
+      },
+      "election results": {
+        "text": "Joannes EIDESGAARD elected prime minister; governing coalition collapses in September 2008, Kaj Leo JOHANNESSEN becomes Prime Minister"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Faroese Parliament or Logting (33 seats; members are elected by popular vote on a proportional basis from the seven constituencies to serve four-year terms)",
+      "elections": {
+        "text": "last held 19 January 2008 (next to be held no later than January 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Union Party 21%, Social Democratic Party 19.4%, Republican Party 23.3%, People's Party 20.1%, Center Party 8.4%, Self-Government Party 7.2%, other 0.6%; seats by party - Republican Party 8, Union Party 7, Social Democratic Party 6, People's Party 7, Center Party 3, Independence Party 2"
+      },
+      "note": "election of two seats to the Danish Parliament was last held on 13 November 2007 (next to be held no later than November 2011); results - percent of vote by party - NA; seats by party - Republican Party 1, Union Party 1"
+    },
+    "note": "election of two seats to the Danish Parliament was last held on 13 November 2007 (next to be held no later than November 2011); results - percent of vote by party - NA; seats by party - Republican Party 1, Union Party 1",
+    "Judicial branch": {
+      "text": "none"
+    },
+    "Political parties and leaders": {
+      "text": "Center Party [Jenis A. RANA]; Independence Party [Kari P. HOJGAARD]; People's Party [Jorgen NICLASEN]; Republican Party [Hogni HOYDAL]; Social Democratic Party [Joannes EIDESGAARD]; Self-Government Party [Kari P. HOJGAARD]; Union Party [Kaj Leo JOHANNESEN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Sea Shepard [Paul WATSON] (preservation of small whales)",
+      "other": {
+        "text": "conservationists"
+      }
+    },
+    "International organization participation": {
+      "text": "Arctic Council, FAO, IMO (associate), NC, NIB, UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (self-governing overseas administrative division of Denmark)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (self-governing overseas administrative division of Denmark)"
+    },
+    "Flag description": {
+      "text": "white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Faroese economy is dependent on fishing, which makes the economy vulnerable to price swings. The sector accounts for 95% of exports and nearly half of GDP. Since 2003 the Faroese economy has picked up as a result of higher prices for fish and for housing. Unemployment is minimal and government finances are relatively sound. Oil finds close to the Islands give hope for economically recoverable deposits, which could eventually lay the basis for a more diversified economy and lessen dependence on Danish economic assistance. Aided by a substantial annual subsidy (about 15% of GDP) from Denmark, the Faroese have a standard of living not far below the Danes and other Scandinavians."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1 billion (2001 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.7 billion (2005 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.4% (2005 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$31,000 (2001 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "27%"
+      },
+      "industry": {
+        "text": "11%"
+      },
+      "services": {
+        "text": "62% (1999)"
+      }
+    },
+    "Labor force": {
+      "text": "24,250 (October 2000)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "11.2%"
+      },
+      "industry": {
+        "text": "21.9%"
+      },
+      "services": {
+        "text": "66.9% (2007)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.1% (2006)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$588 million"
+      },
+      "expenditures": {
+        "text": "$623 million (2005)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.8% (2005)"
+    },
+    "Agriculture - products": {
+      "text": "milk, potatoes, vegetables; sheep; salmon, other fish"
+    },
+    "Industries": {
+      "text": "fishing, fish processing, small ship repair and refurbishment, handicrafts"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (1999 est.)"
+    },
+    "Electricity - production": {
+      "text": "243.7 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "226.6 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "5,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,922 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$634 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "fish and fish products 94%, stamps, ships (1999)"
+    },
+    "Exports - partners": {
+      "text": "Denmark 27.3%, UK 18.6%, Croatia 12%, Norway 11.7%, Nigeria 10%, Netherlands 5.5% (2008)"
+    },
+    "Imports": {
+      "text": "$751 million (2006)"
+    },
+    "Imports - commodities": {
+      "text": "consumer goods 36%, raw materials and semi-manufactures 32%, machinery and transport equipment 29%, fuels, fish, salt (1999)"
+    },
+    "Imports - partners": {
+      "text": "Denmark 50.4%, Norway 20.2%, Sweden 6.4%, UK 4.2%, Iceland 4.1% (2008)"
+    },
+    "Debt - external": {
+      "text": "$64 million (1999)"
+    },
+    "Exchange rates": {
+      "text": "Danish kroner (DKK) per US dollar - 5.0236 (2008 est.), 5.4797 (2007), 5.9468 (2006), 5.9969 (2005), 5.9911 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "21,800 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "54,900 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "good international communications; good domestic facilities"
+      },
+      "domestic": {
+        "text": "digitalization was completed in 1998; both NMT (analog) and GSM (digital) mobile telephone systems are installed"
+      },
+      "international": {
+        "text": "country code - 298; satellite earth stations - 1 Orion; 1 fiber-optic submarine cable to the Shetland Islands, linking the Faroe Islands with Denmark and Iceland; fiber-optic submarine cable connection to Canada-Europe cable"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 13, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (plus 43 repeaters) (September 1995)"
+    },
+    "Internet country code": {
+      "text": ".fo"
+    },
+    "Internet hosts": {
+      "text": "8,833 (2009)"
+    },
+    "Internet users": {
+      "text": "37,500 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "463 km (2006)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "12"
+      },
+      "by type": {
+        "text": "cargo 9, passenger/cargo 3"
+      },
+      "foreign-owned": {
+        "text": "5 (Iceland 1, Norway 4) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Torshavn, Vagur"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "11,725 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "9,759"
+      },
+      "females age 16-49": {
+        "text": "8,311 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "386"
+      },
+      "female": {
+        "text": "375 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of Denmark"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+    }
+  }
+}

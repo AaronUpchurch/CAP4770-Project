@@ -1,0 +1,910 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Following its heyday as a global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of Brazil, its wealthiest colony, in 1822. A 1910 revolution deposed the monarchy; for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southwestern Europe, bordering the North Atlantic Ocean, west of Spain"
+    },
+    "Geographic coordinates": {
+      "text": "39 30 N, 8 00 W"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "92,090 sq km"
+      },
+      "land": {
+        "text": "91,470 sq km"
+      },
+      "water": {
+        "text": "620 sq km"
+      },
+      "note": {
+        "text": "includes Azores and Madeira Islands"
+      },
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Virginia"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,224 km"
+      },
+      "border countries (1)": {
+        "text": "Spain 1,224 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,793 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "maritime temperate; cool and rainy in north, warmer and drier in south"
+    },
+    "Terrain": {
+      "text": "the west-flowing Tagus River divides the country: the north is mountainous toward the interior, while the south is characterized by rolling plains"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "372 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m"
+    },
+    "Natural resources": {
+      "text": "fish, forests (cork), iron ore, copper, zinc, tin, tungsten, silver, gold, uranium, marble, clay, gypsum, salt, arable land, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "39.7%"
+      },
+      "text": "arable land 11.9%; permanent crops 7.8%; permanent pasture 20%",
+      "forest": {
+        "text": "37.8%"
+      },
+      "other": {
+        "text": "22.5% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "5,400 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities"
+    },
+    "Natural hazards": {
+      "text": "Azores subject to severe earthquakes",
+      "volcanism": {
+        "text": "limited volcanic activity in the Azores Islands; Fayal or Faial (1,043 m) last erupted in 1958; most volcanoes have not erupted in centuries; historically active volcanoes include Agua de Pau, Furnas, Pico, Picos Volcanic System, San Jorge, Sete Cidades, and Terceira"
+      }
+    },
+    "Environment - current issues": {
+      "text": "soil erosion; air pollution caused by industrial and vehicle emissions; water pollution, especially in coastal areas"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "Azores and Madeira Islands occupy strategic locations along western sea approaches to Strait of Gibraltar"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Portuguese Republic"
+      },
+      "conventional short form": {
+        "text": "Portugal"
+      },
+      "local long form": {
+        "text": "Republica Portuguesa"
+      },
+      "local short form": {
+        "text": "Portugal"
+      },
+      "etymology": {
+        "text": "name derives from the Roman designation \"Portus Cale\" meaning \"Port of Cale\"; Cale was an ancient Celtic town and port in present-day northern Portugal"
+      }
+    },
+    "Government type": {
+      "text": "semi-presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lisbon"
+      },
+      "geographic coordinates": {
+        "text": "38 43 N, 9 08 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu"
+    },
+    "Independence": {
+      "text": "1143 (Kingdom of Portugal recognized); 5 October 1910 (republic proclaimed)"
+    },
+    "National holiday": {
+      "text": "Portugal Day (Dia de Portugal), 10 June (1580); note - also called Camoes Day, the day that revered national poet Luis de Camoes (1524-80) died"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 2 April 1976, effective 25 April 1976"
+      },
+      "amendments": {
+        "text": "proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members; amended several times, last in 2005 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system; Constitutional Court review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Portugal"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years; 6 years if from a Portuguese-speaking country"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Marcelo REBELO DE SOUSA (since 9 March 2016)"
+      },
+      "head of government": {
+        "text": "Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the recommendation of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2016 (next to be held in January 2021); following legislative elections last held in October 2015, the leader of the majority party or majority coalition was appointed prime minister by the president"
+      },
+      "election results": {
+        "text": "Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, Antonio Sampaio da NOVA (independent) 22.9%, Marisa MATISA (BE) 10.1%, Maria de BELEM (independent) 4.2%, other 10.8%"
+      },
+      "note": {
+        "text": "there is also a Council of State that acts as a consultative body to the president"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 4 October 2015 (next to be held by October 2019)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PaF 36.9%, PS 32.3%, B.E. 10.2%, CDU 8.3%, PPD/PSD (Azores and Madeira) 1.5%, PAN 1.4%, other 9.4%; seats by party - PaF 102, PS 86, B.E. 19, CDU 17, PPD/PSD (Azores and Madeira) 5, PAN 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court justices nominated by the president and appointed by the Assembly of the Republic; judges appointed for life; Constitutional Court judges - 10 elected by the Assembly and 3 elected by the other Constitutional Court judges; judges elected for 6-year non-renewable terms"
+      },
+      "subordinate courts": {
+        "text": "Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Unitary Democratic Coalition or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "TugaLeaks (a website that has become a mouthpiece for publicizing diverse protest action)",
+      "other": {
+        "text": "media; labor unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Domingos T?eixeira de Abreu Fezas VITAL (since 28 January 2016)"
+      },
+      "chancery": {
+        "text": "2012 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 328-8610"
+      },
+      "FAX": {
+        "text": "[1] (202) 462-3726"
+      },
+      "consulate(s) general": {
+        "text": "Boston, New York, San Francisco"
+      },
+      "consulate(s)": {
+        "text": "New Bedford (MA), Newark (NJ), Providence (RI)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador George E. GLASS (since 25 August 2017)"
+      },
+      "embassy": {
+        "text": "Avenida das Forcas Armadas, 1600-081 Lisbon"
+      },
+      "mailing address": {
+        "text": "Apartado 43033, 1601-301 Lisboa; PSC 83, APO AE 09726"
+      },
+      "telephone": {
+        "text": "[351] (21) 727-3300"
+      },
+      "FAX": {
+        "text": "[351] (21) 726-9109"
+      },
+      "consulate(s)": {
+        "text": "Ponta Delgada (Azores)"
+      }
+    },
+    "Flag description": {
+      "text": "two vertical bands of green (hoist side, two-fifths) and red (three-fifths) with the national coat of arms (armillary sphere and Portuguese shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation"
+    },
+    "National symbol(s)": {
+      "text": "armillary sphere (a spherical astrolabe modeling objects in the sky and representing the Republic); national colors: red, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"A Portugesa\" (The Song of the Portuguese)"
+      },
+      "lyrics/music": {
+        "text": "Henrique LOPES DE MENDOCA/Alfredo KEIL"
+      },
+      "note": {
+        "text": "adopted 1910; \"A Portuguesa\" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the \"insult\" that resulted from the event"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 2.0% in 2016, the country\u2019s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal is expected to exit the EU\u2019s excessive deficit procedure by mid-2017."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$283.1 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$204.6 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$27,900 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Gross national saving": {
+      "text": "15.4% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "65.8%"
+      },
+      "government consumption": {
+        "text": "18%"
+      },
+      "investment in fixed capital": {
+        "text": "14.9%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "40.3%"
+      },
+      "imports of goods and services": {
+        "text": "-39.1% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "2.3%"
+      },
+      "industry": {
+        "text": "22.4%"
+      },
+      "services": {
+        "text": "75.4% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "grain, potatoes, tomatoes, olives, grapes; sheep, cattle, goats, pigs, poultry, dairy products; fish"
+    },
+    "Industries": {
+      "text": "textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics"
+    },
+    "Industrial production growth rate": {
+      "text": "0.7% (2016 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Labor force": {
+      "text": "5.178 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "8.6%"
+      },
+      "industry": {
+        "text": "23.9%"
+      },
+      "services": {
+        "text": "67.5% (2014 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "12.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Population below poverty line": {
+      "text": "19% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "25.9% (2015 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34 (2014 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$88.1 billion"
+      },
+      "expenditures": {
+        "text": "$92.22 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "43% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Public debt": {
+      "text": "129% of GDP (2015 est.)",
+      "note": {
+        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+      },
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.05% (2015)",
+      "note": {
+        "text": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+      },
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.49% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$72.29 billion (31 December 2015 est.)",
+      "note": {
+        "text": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+      },
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$163.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$326.2 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$79.18 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Current account balance": {
+      "text": "$138 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Exports": {
+      "text": "$54.47 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Exports - commodities": {
+      "text": "agricultural products, foodstuffs, wine, oil products, chemical products, plastics and rubber, hides, leather, wood and cork, wood pulp and paper, textile materials, clothing, footwear, machinery and tools, base metals"
+    },
+    "Exports - partners": {
+      "text": "Spain 26.2%, France 12.6%, Germany 11.7%, UK 7%, US 4.9% (2016)"
+    },
+    "Imports": {
+      "text": "$64.74 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Imports - commodities": {
+      "text": "agricultural products, chemical products, vehicles and other transport material, optical and precision instruments, computer accessories and parts, semiconductors and related devices, oil products, base metals, food products, textile materials"
+    },
+    "Imports - partners": {
+      "text": "Spain 32.8%, Germany 13.5%, France 7.8%, Italy 5.5%, Netherlands 5.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$19.4 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Debt - external": {
+      "text": "$447 billion (31 March 2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$143.5 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$83.3 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.7752 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "49.66 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "47.03 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Electricity - exports": {
+      "text": "9.701 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Electricity - imports": {
+      "text": "4.616 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "19.63 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "37.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "22.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "32.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "270,600 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "181"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "308,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "234,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "128,800 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "71,920 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "185"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "8.371 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "4.713 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "43.98 million Mt (2014 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "4,787,677"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "44 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "11,572,085"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "107 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Portugal's telephone system has a state-of-the-art network with broadband, high-speed capabilities"
+      },
+      "domestic": {
+        "text": "integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations"
+      },
+      "international": {
+        "text": "country code - 351; a combination of submarine cables provide connectivity to Europe, North and East Africa, South Africa, the Middle East, Asia, and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations (2014)"
+    },
+    "Internet country code": {
+      "text": ".pt"
+    },
+    "Internet users": {
+      "total": {
+        "text": "7,629,560"
+      },
+      "percent of population": {
+        "text": "70.4% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "52"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "122"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "12,635,233"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "343,971,094 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "CR, CS (2016)"
+    },
+    "Airports": {
+      "text": "64 (2013)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "43"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "8"
+      },
+      "914 to 1,523 m": {
+        "text": "15"
+      },
+      "under 914 m": {
+        "text": "8 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "21"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "20 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 1,344 km; oil 11 km; refined products 188 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,075.1 km"
+      },
+      "broad gauge": {
+        "text": "2,439 km 1.668-m gauge (1,633.4 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "108.1 km 1.000-m gauge"
+      },
+      "other": {
+        "text": "528 km (gauge unspecified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "82,900 km"
+      },
+      "paved": {
+        "text": "71,294 km (includes 2,613 km of expressways)"
+      },
+      "unpaved": {
+        "text": "11,606 km (2008)"
+      },
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Waterways": {
+      "text": "210 km (on Douro River from Porto) (2011)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "109"
+      },
+      "by type": {
+        "text": "bulk carrier 8, cargo 35, carrier 1, chemical tanker 21, container 7, liquefied gas 6, passenger 13, passenger/cargo 5, petroleum tanker 3, roll on/roll off 1, vehicle carrier 9"
+      },
+      "foreign-owned": {
+        "text": "81 (Belgium 8, Colombia 1, Denmark 4, Germany 14, Greece 2, Italy 12, Japan 9, Mexico 1, Norway 2, Spain 18, Sweden 3, Switzerland 3, US 4)"
+      },
+      "registered in other countries": {
+        "text": "15 (Cyprus 2, Malta 3, Panama 10) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Leixoes, Lisbon, Setubal, Sines"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Sines"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.91% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Military branches": {
+      "text": "Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for voluntary military service; no compulsory military service, but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1993, but are prohibited from serving in some combatant specialties; reserve obligation to age 35 (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "14 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "seizing record amounts of Latin American cocaine destined for Europe; a European gateway for Southwest Asian heroin; transshipment point for hashish from North Africa to Europe; consumer of Southwest Asian heroin"
+    }
+  }
+}

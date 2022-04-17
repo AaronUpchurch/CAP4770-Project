@@ -1,0 +1,586 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "El Salvador achieved independence from Spain in 1821 and from the Central American Federation in 1839. A 12-year civil war, which cost about 75,000 lives, was brought to a close in 1992 when the government and leftist rebels signed a treaty that provided for military and political reforms. El Salvador is beset by one of the world\u2019s highest homicide rates and pervasive criminal gangs."
+    }
+  },
+  "Geography ": {
+    "Economy - overview": {
+      "text": "The Salvadoran Government maintained fiscal discipline during post-war reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 61.1% of GDP in 2016, has been growing over the last several years. Total external debt was nearly 60% of GDP in 2016."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$51 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$26.8 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,300 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Gross national saving": {
+      "text": "8.8% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "88.8%"
+      },
+      "government consumption": {
+        "text": "12.1%"
+      },
+      "investment in fixed capital": {
+        "text": "13.6%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "24.9%"
+      },
+      "imports of goods and services": {
+        "text": "-39.3% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "10.6%"
+      },
+      "industry": {
+        "text": "24.6%"
+      },
+      "services": {
+        "text": "64.8% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, sugar, corn, rice, beans, oilseed, cotton, sorghum; beef, dairy products"
+    },
+    "Industries": {
+      "text": "food processing, beverages, petroleum, chemicals, fertilizer, textiles, furniture, light metals"
+    },
+    "Industrial production growth rate": {
+      "text": "2.2% (2016 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Labor force": {
+      "text": "2.76 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "21%"
+      },
+      "industry": {
+        "text": "20%"
+      },
+      "services": {
+        "text": "58% (2011 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.6% (2015 est.)",
+      "note": {
+        "text": "data are official rates; but underemployment is high"
+      },
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Population below poverty line": {
+      "text": "34.9% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.2%"
+      },
+      "highest 10%": {
+        "text": "32.3% (2014 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "38 (2014)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$5.525 billion"
+      },
+      "expenditures": {
+        "text": "$6.276 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "20.7% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Public debt": {
+      "text": "63.7% of GDP (2015 est.)",
+      "note": {
+        "text": "El Salvador's total public debt includes non-financial public sector debt, financial public sector debt, and central bank debt"
+      },
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.17% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$3.253 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$11.61 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$13.28 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.535 billion (December 2014 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Current account balance": {
+      "text": "$-926.1 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Exports": {
+      "text": "$4.381 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Exports - commodities": {
+      "text": "offshore assembly exports, coffee, sugar, textiles and apparel, ethanol, chemicals, electricity, iron and steel manufactures"
+    },
+    "Exports - partners": {
+      "text": "US 48.3%, Honduras 14.2%, Guatemala 13.5%, Nicaragua 6.5%, Costa Rica 4.7% (2016)"
+    },
+    "Imports": {
+      "text": "$9.384 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Imports - commodities": {
+      "text": "raw materials, consumer goods, capital goods, fuels, foodstuffs, petroleum, electricity"
+    },
+    "Imports - partners": {
+      "text": "US 37.9%, Guatemala 10.2%, China 8.8%, Mexico 7.6%, Honduras 6.3% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.787 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Debt - external": {
+      "text": "$15.03 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$10.03 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.026 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Exchange rates": {
+      "note": {
+        "text": "the US dollar is used as a medium of exchange and circulates freely in the economy"
+      }
+    }
+  },
+  "\nLocation": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "400,000"
+      },
+      "electrification - total population": {
+        "text": "94%"
+      },
+      "electrification - urban areas": {
+        "text": "98%"
+      },
+      "electrification - rural areas": {
+        "text": "86% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "5.482 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "6.351 billion kWh (2016)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Electricity - exports": {
+      "text": "74.3 million kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.066 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.792 million kW (2016 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "51.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "25.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "25.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "220 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "46,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "224.8 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "45,540 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "178"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "4.318 million Mt (2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    }
+  },
+  "People and Society ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "933,377"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "15 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "9,101,868"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "148 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "multiple mobile-cellular began rolling out Long Term Evolution (LTE) data services in late-2016; growth in fixed-line services has slowed in the face of mobile-cellular competition; Internet usage grew almost 400% between 2007 and 2015"
+      },
+      "domestic": {
+        "text": "nationwide microwave radio relay system"
+      },
+      "international": {
+        "text": "country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2017)"
+      }
+    },
+    "Broadcast media": {
+      "text": "multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and 1 government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T) (2017)"
+    },
+    "Internet country code": {
+      "text": ".sv"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1,785,254"
+      },
+      "percent of population": {
+        "text": "29.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "102"
+      }
+    }
+  },
+  "\nPopulation": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "36"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "2,597,649"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "13,873,884 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "YS (2016)"
+    },
+    "Airports": {
+      "text": "68 (2013)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "5"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "63"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "51 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "12.5 km"
+      },
+      "narrow gauge": {
+        "text": "12.5 km 0.914-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "6,979 km"
+      },
+      "paved": {
+        "text": "4,414 km (includes 341 km of expressways)"
+      },
+      "unpaved": {
+        "text": "2,565 km (2016)"
+      },
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Waterways": {
+      "text": "(Rio Lempa River is partially navigable by small craft) (2011)"
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Puerto Cutuco"
+      },
+      "oil terminal(s)": {
+        "text": "Acajutla offshore terminal"
+      }
+    }
+  },
+  "Government ": {
+    "Military expenditures": {
+      "text": "0.94% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Military branches": {
+      "text": "Salvadoran Armed Forces (Fuerza Armada de El Salvador, FAES): Salvadoran Army (Ejercito de El Salvador, ES), Salvadoran Navy (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS) (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)"
+    }
+  },
+  "\nCountry name": {
+    "Disputes - international": {
+      "text": "International Court of Justice (ICJ) ruled on the delimitation of \"bolsones\" (disputed areas) along the El Salvador-Honduras boundary, in 1992, with final agreement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca advocating Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not identified in the ICJ decision, off Honduras in the Gulf of Fonseca"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "220,000 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for cocaine; small amounts of marijuana produced for local consumption; significant use of cocaine"
+    }
+  }
+}

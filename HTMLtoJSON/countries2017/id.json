@@ -1,0 +1,814 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The Dutch began to colonize Indonesia in the early 17th century; Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted \"Guided Democracy.\" After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his \"New Order\" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999. Indonesia is now the world's third most populous democracy, the world's largest archipelagic state, and the world's largest Muslim-majority nation. Current issues include: alleviating poverty, improving education, preventing terrorism, consolidating democracy after four decades of authoritarianism, implementing economic and financial reforms, stemming corruption, reforming the criminal justice system, addressing climate change, and controlling infectious diseases, particularly those of global and regional importance. In 2005, Indonesia reached a historic peace agreement with armed separatists in Aceh, which led to democratic elections in Aceh in December 2006. Indonesia continues to face low intensity armed resistance in Papua by the separatist Free Papua Movement."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Indonesia"
+      },
+      "conventional short form": {
+        "text": "Indonesia"
+      },
+      "local long form": {
+        "text": "Republik Indonesia"
+      },
+      "local short form": {
+        "text": "Indonesia"
+      },
+      "former": {
+        "text": "Netherlands East Indies, Dutch East Indies"
+      },
+      "etymology": {
+        "text": "the name is an 18th-century construct of two Greek words, \"Indos\" (India) and \"nesoi\" (islands), meaning \"Indian islands\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Jakarta"
+      },
+      "geographic coordinates": {
+        "text": "6 10 S, 106 49 E"
+      },
+      "time difference": {
+        "text": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "note": {
+        "text": "Indonesia has three time zones"
+      }
+    },
+    "Administrative divisions": {
+      "text": "31 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah-daerah istimewa, singular - daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta Raya***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**",
+      "note": {
+        "text": "following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services"
+      }
+    },
+    "Independence": {
+      "text": "17 August 1945 (declared independence from the Netherlands)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 17 August (1945)"
+    },
+    "Constitution": {
+      "text": "drafted July to August 1945, effective 17 August 1945, abrogated by 1949 and 1950 constitutions, 1945 constitution restored 5 July 1959; amended several times, last in 2002; note - an amendment  on \"national character building and national consciousness awareness\" was pending parliamentary review in early 2016 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system based on the Roman-Dutch model and influenced by customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Indonesia"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 continuous years"
+      }
+    },
+    "Suffrage": {
+      "text": "17 years of age; universal and married persons regardless of age"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Joko WIDODO (since 20 October 2014); Vice President Jusuf KALLA (since 20 October 2014); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Joko WIDODO (since 20 October 2014); Vice President Jusuf KALLA (since 20 October 2014)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 9 July 2014 (next to be held in 2019)"
+      },
+      "election results": {
+        "text": "Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 53.2%, PRABOWO Subianto (GERINDRA) 46.8%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of the Regional Representative Council or Dewan Perwakilan Daerah (132 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 33 electoral districts - by proportional representation vote to serve 5-year terms) and the House of Representatives or Dewan Perwakilan Rakyat (560 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms); note - the Regional Council has no legislative authority"
+      },
+      "elections": {
+        "text": "last held on 9 April 2014 (next to be held in 2019)"
+      },
+      "election results": {
+        "text": "Regional Representative Council - all seats elected on a non-partisan basis; House of Representatives - percent of vote by party - PDI-P 19.0%, Golkar 14.8%, Gerindra 11.8%, PD 10.2%, PKB 9.0%, PAN 2.6%, PKS 6.8%, NasDem 6.7%, PPP 6.5%, Hanura 5.3%, other 7.9%; seats by party - PDI-P 109, Golkar 91, Gerindra 73, PD 61, PAN 48, PKB 47, PKS 40, PPP 39, NasDem 36, Hanura 16"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges nominated by Judicial Commission, appointed by president with concurrence of parliament; judges serve until retirement at age 65; Constitutional Court judges - 3 nominated by president, 3 by Supreme Court, and 3 by parliament; judges appointed by the president; judges serve until mandatory retirement at age 70"
+      },
+      "subordinate courts": {
+        "text": "High Courts of Appeal, district courts, religious courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Development Party or PPP [Muhammad ROMAHURMUZIY]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Indonesian Forum for the Environment or WALHI"
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Budi BOWOLEKSONO (since 21 May 2014)"
+      },
+      "chancery": {
+        "text": "2020 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 775-5200"
+      },
+      "FAX": {
+        "text": "[1] (202) 775-5365"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Houston, Los Angeles, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Joseph R. DONOVAN, Jr. (since 12 January 2017)"
+      },
+      "embassy": {
+        "text": "Jalan Medan Merdeka Selatan 3-5, Jakarta 10110"
+      },
+      "mailing address": {
+        "text": "Unit 8129, Box 1, FPO AP 96520"
+      },
+      "telephone": {
+        "text": "[62] (21) 3435-9000"
+      },
+      "FAX": {
+        "text": "[62] (21) 386-2259"
+      },
+      "consulate general": {
+        "text": "Surabaya"
+      },
+      "consulate": {
+        "text": "Medan"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, white represents purity",
+      "note": {
+        "text": "similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red"
+      }
+    },
+    "National symbol(s)": {
+      "text": "garuda (mythical bird); national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Indonesia Raya\" (Great Indonesia)"
+      },
+      "lyrics/music": {
+        "text": "Wage Rudolf SOEPRATMAN"
+      },
+      "note": {
+        "text": "adopted 1945"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Indonesia still struggles with poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions. President Joko WIDODO - elected in July 2014 \u2013 seeks to develop Indonesia\u2019s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.688 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$932.4 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,900 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Gross national saving": {
+      "text": "31.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "57.7%"
+      },
+      "government consumption": {
+        "text": "9.5%"
+      },
+      "investment in fixed capital": {
+        "text": "32.6%"
+      },
+      "investment in inventories": {
+        "text": "-0.5%"
+      },
+      "exports of goods and services": {
+        "text": "19.1%"
+      },
+      "imports of goods and services": {
+        "text": "-18.3% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "14%"
+      },
+      "industry": {
+        "text": "40.8%"
+      },
+      "services": {
+        "text": "45.3% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rubber and similar products, palm oil, poultry, beef, forest products, shrimp, cocoa, coffee, medicinal herbs, essential oil, fish and its similar products, and spices"
+    },
+    "Industries": {
+      "text": "petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "3.9% (2016 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Labor force": {
+      "text": "125.4 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "32%"
+      },
+      "industry": {
+        "text": "21%"
+      },
+      "services": {
+        "text": "47% (2016 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Population below poverty line": {
+      "text": "10.9% (2016 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.4%"
+      },
+      "highest 10%": {
+        "text": "28.2% (2010)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39.4 (2005)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$116.9 billion"
+      },
+      "expenditures": {
+        "text": "$140.1 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "12.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Public debt": {
+      "text": "29.4% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "6.46% (31 December 2009)",
+      "note": {
+        "text": "this figure represents the 3-month SBI rate; the Bank of Indonesia has not employed the one-month SBI since September 2010"
+      },
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.66% (31 December 2015 est.)",
+      "note": {
+        "text": "these figures represent the average annualized rate on working capital loans"
+      },
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$76.51 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$329.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$354.4 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$422.1 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Current account balance": {
+      "text": "$-17.52 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "189"
+      }
+    },
+    "Exports": {
+      "text": "$149.1 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Exports - commodities": {
+      "text": "mineral fuels, animal or vegetable fats (includes palm oil), electrical machinery, rubber, machinery and mechanical appliance parts"
+    },
+    "Exports - partners": {
+      "text": "China 11.6%, US 11.2%, Japan 11.1%, Singapore 7.8%, India 7%, Malaysia 4.9%, South Korea 4.8% (2016)"
+    },
+    "Imports": {
+      "text": "$135.1 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Imports - commodities": {
+      "text": "mineral fuels, boilers, machinery, and mechanical parts, electric machinery, iron and steel, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 22.9%, Singapore 10.8%, Japan 9.6%, Thailand 6.4%, US 5.4%, Malaysia 5.4%, South Korea 5% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$105.9 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Debt - external": {
+      "text": "$308.5 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$224.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$30.17 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Exchange rates": {
+      "text": "9,386.63 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "48,700,000"
+      },
+      "electrification - total population": {
+        "text": "81%"
+      },
+      "electrification - urban areas": {
+        "text": "94%"
+      },
+      "electrification - rural areas": {
+        "text": "66% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "221.3 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "199.3 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Electricity - imports": {
+      "text": "13 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "57.35 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "85.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "9.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "5.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Crude oil - production": {
+      "text": "831,100 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "289,300 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "507,900 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "3.23 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "990,700 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "1.708 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "98,780 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "668,500 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Natural gas - production": {
+      "text": "72.8 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "53.15 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "30.29 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "1.8 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "2.775 trillion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "442 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "10,372,912"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "4 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "385,573,398"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "149 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "domestic service includes an interisland microwave system, an HF radio police net, and a domestic satellite communications system; international service good"
+      },
+      "domestic": {
+        "text": "coverage provided by existing network has been expanded by use of over 200,000 telephone kiosks many located in remote areas; mobile-cellular subscribership growing rapidly"
+      },
+      "international": {
+        "text": "country code - 62; landing point for both the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable networks that provide links throughout Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "mixture of about a dozen national TV networks - 2 public broadcasters, the remainder private broadcasters - each with multiple transmitters; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; overall, more than 700 radio stations with more than 650 privately operated (2008)"
+    },
+    "Internet country code": {
+      "text": ".id"
+    },
+    "Internet users": {
+      "total": {
+        "text": "65,525,226"
+      },
+      "percent of population": {
+        "text": "25.4% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "29"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "550"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "88,685,767"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "747,473,207 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "PK (2016)"
+    },
+    "Airports": {
+      "text": "673 (2013)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "186"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "21"
+      },
+      "1,524 to 2,437 m": {
+        "text": "51"
+      },
+      "914 to 1,523 m": {
+        "text": "72"
+      },
+      "under 914 m": {
+        "text": "37 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "487"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "23"
+      },
+      "under 914 m": {
+        "text": "460 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "76 (2013)"
+    },
+    "Pipelines": {
+      "text": "condensate 1,064 km; condensate/gas 150 km; gas 11,702 km; liquid petroleum gas 119 km; oil 7,767 km; oil/gas/water 77 km; refined products 728 km; unknown 53 km; water 44 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "8,159 km"
+      },
+      "narrow gauge": {
+        "text": "8,159 km 1.067-m gauge (565 km electrified)"
+      },
+      "note": {
+        "text": "4,816 km operational (2014)"
+      },
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "496,607 km"
+      },
+      "paved": {
+        "text": "283,102 km"
+      },
+      "unpaved": {
+        "text": "213,505 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Waterways": {
+      "text": "21,579 km (2011)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,340"
+      },
+      "by type": {
+        "text": "bulk carrier 105, cargo 618, chemical tanker 69, container 120, liquefied gas 28, passenger 49, passenger/cargo 77, petroleum tanker 244, refrigerated cargo 6, roll on/roll off 12, specialized tanker 1, vehicle carrier 11"
+      },
+      "foreign-owned": {
+        "text": "69 (China 1, France 1, Greece 1, Japan 8, Jordan 1, Malaysia 1, Norway 3, Singapore 46, South Korea 2, Taiwan 1, UK 2, US 2)"
+      },
+      "registered in other countries": {
+        "text": "95 (Bahamas 2, Cambodia 2, China 2, Hong Kong 10, Liberia 4, Marshall Islands 1, Mongolia 2, Panama 10, Singapore 60, Tuvalu 1, unknown 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Belawan (1,197,000), Tanjung Priok (5,154,000) (2015)"
+      },
+      "LNG terminal(s) (export)": {
+        "text": "Bontang, Tangguh"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Arun, Lampung, West Java"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "0.71% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Military branches": {
+      "text": "Indonesian Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes marines (Korps Marinir, KorMar), naval air arm), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Kommando Pertahanan Udara Nasional (Kohanudnas)) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-45 years of age for voluntary military service, with selective conscription authorized; 2-year service obligation, with reserve obligation to age 45 (officers); Indonesian citizens only (2012)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; attacks declined dramatically from 108 incidents in 2015 to 49 in 2016, although Indonesian waters remained the most dangerous in the world; in 2016, 45 commercial vessels were boarded and one hijacked; during 2016 37 crew members were taken hostage; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; Indonesia remains the most dangerous area during the first half of 2017 with more than 20% of all incidents reported world-wide"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors; three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches; land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea; maritime delimitation talks continue with Palau; EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "7,100 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2012 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2016) (2011)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis largely for domestic use; producer of methamphetamine and ecstasy; President WIDODO's war on drugs has led to an increase in death sentences and executions, particularly of foreign drug traffickers"
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "Introduction": {
+    "Background": {
+      "A Central Asian country of incredible natural beauty and proud nomadic traditions, most of Kyrgyzstan was formally annexed to Russia in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1936 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in the spring of 2005 resulted in the ouster of President Askar AKAEV, who had run the country since 1990. Subsequent presidential elections in July 2005 were won overwhelmingly by former prime minister Kurmanbek BAKIEV. The political opposition organized demonstrations in Bishkek in April, May, and November 2006 resulting in the adoption of a new constitution that transferred some of the president's powers to parliament and the government. In December 2006, the Kyrgyzstani parliament voted to adopt new amendments, restoring some of the presidential powers lost in the November 2006 constitutional change. By late-September 2007, both previous versions of the constitution were declared illegal, and the country reverted to the AKAEV-era 2003 constitution, which was subsequently modified in a flawed referendum initiated by BAKIEV. The president then dissolved parliament, called for early elections, and gained control of the new parliament through his newly-created political party, Ak Jol, in December 2007 elections. Current concerns include": {
+        "text": "privatization of state-owned enterprises, negative trends in democracy and political freedoms, endemic corruption, improving interethnic relations, electricity generation, rising food prices, and combating terrorism."
+      }
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Asia, west of China"
+    },
+    "Geographic coordinates": {
+      "text": "41 00 N, 75 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "199,951 sq km"
+      },
+      "land": {
+        "text": "191,801 sq km"
+      },
+      "water": {
+        "text": "8,150 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Dakota"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,051 km"
+      },
+      "border countries": {
+        "text": "China 858 km, Kazakhstan 1,224 km, Tajikistan 870 km, Uzbekistan 1,099 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone"
+    },
+    "Terrain": {
+      "text": "peaks of Tien Shan and associated valleys and basins encompass entire nation"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Kara-Daryya (Karadar'ya) 132 m"
+      },
+      "highest point": {
+        "text": "Jengish Chokusu (Pik Pobedy) 7,439 m"
+      }
+    },
+    "Natural resources": {
+      "text": "abundant hydropower; significant deposits of gold and rare earth metals; locally exploitable coal, oil, and natural gas; other deposits of nepheline, mercury, bismuth, lead, and zinc"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "6.55%"
+      },
+      "permanent crops": {
+        "text": "0.28%"
+      },
+      "other": {
+        "text": "93.17%"
+      },
+      "note": "Kyrgyzstan has the world's largest natural-growth walnut forest (2005)"
+    },
+    "note": "Kyrgyzstan has the world's largest natural-growth walnut forest (2005)",
+    "Irrigated land": {
+      "text": "10,720 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "46.5 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "10.08  cu km/yr (3%/3%/94%)"
+      },
+      "per capita": {
+        "text": "1,916  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "water pollution; many people get their water directly from contaminated streams and wells; as a result, water-borne diseases are prevalent; increasing soil salinity from faulty irrigation practices"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level, with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "5,431,747 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "29.7% (male 822,128/female 789,425)"
+      },
+      "15-64 years": {
+        "text": "64.5% (male 1,717,497/female 1,787,551)"
+      },
+      "65 years and over": {
+        "text": "5.8% (male 123,045/female 192,101) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "24.4 years"
+      },
+      "male": {
+        "text": "23.6 years"
+      },
+      "female": {
+        "text": "25.3 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.396% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "23.44 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.91 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.57 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "36% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.64 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "31.26 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "36.19 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "26.06 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "69.43 years"
+      },
+      "male": {
+        "text": "65.43 years"
+      },
+      "female": {
+        "text": "73.64 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.65 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "4,200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Kyrgyzstani(s)"
+      },
+      "adjective": {
+        "text": "Kyrgyzstani"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Kyrgyz 64.9%, Uzbek 13.8%, Russian 12.5%, Dungan 1.1%, Ukrainian 1%, Uygur 1%, other 5.7% (1999 census)"
+    },
+    "Religions": {
+      "text": "Muslim 75%, Russian Orthodox 20%, other 5%"
+    },
+    "Languages": {
+      "text": "Kyrgyz 64.7% (official), Uzbek 13.6%, Russian 12.5% (official), Dungun 1%, other 8.2% (1999 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "98.7%"
+      },
+      "male": {
+        "text": "99.3%"
+      },
+      "female": {
+        "text": "98.1% (1999 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "13 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.9% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kyrgyz Republic "
+      },
+      "conventional short form": {
+        "text": "Kyrgyzstan"
+      },
+      "local long form": {
+        "text": "Kyrgyz Respublikasy"
+      },
+      "local short form": {
+        "text": "Kyrgyzstan"
+      },
+      "former": {
+        "text": "Kirghiz Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bishkek"
+      },
+      "geographic coordinates": {
+        "text": "42 52 N, 74 36 E"
+      },
+      "time difference": {
+        "text": "UTC+6 (11 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 provinces (oblastlar, singular - oblasty) and 1 city* (shaar); Batken Oblasty, Bishkek Shaary*, Chuy Oblasty (Bishkek), Jalal-Abad Oblasty, Naryn Oblasty, Osh Oblasty, Talas Oblasty, Ysyk-Kol Oblasty (Karakol)",
+      "note": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
+    },
+    "note": "under the old constitution adopted on 5 May 1993, an amendment proposed by President Askar AKAEV and passed in a national referendum on 2 February 2003 significantly expanded the powers of the president at the expense of the legislature; during large-scale demonstrations in November 2006, President BAKIEV and the opposition negotiated a new constitution granting greater powers to the parliament and the government; amendments added on 30 December 2006 redistributed some power back to the president, but both November and December 2006 versions were annulled in September 2007, and a new version was approved by referendum on 21 October 2007; the BAKIEV-initiated referendum was criticized by Western observers for voting irregularities, particularly ballot stuffing",
+    "Independence": {
+      "text": "31 August 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 31 August (1991)"
+    },
+    "Constitution": {
+      "text": "approved by referendum in November 2006",
+      "note": "under the old constitution adopted on 5 May 1993, an amendment proposed by President Askar AKAEV and passed in a national referendum on 2 February 2003 significantly expanded the powers of the president at the expense of the legislature; during large-scale demonstrations in November 2006, President BAKIEV and the opposition negotiated a new constitution granting greater powers to the parliament and the government; amendments added on 30 December 2006 redistributed some power back to the president, but both November and December 2006 versions were annulled in September 2007, and a new version was approved by referendum on 21 October 2007; the BAKIEV-initiated referendum was criticized by Western observers for voting irregularities, particularly ballot stuffing"
+    },
+    "Legal system": {
+      "text": "based on French and Russian laws; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Kurmanbek BAKIEV (since 14 August 2005)"
+      },
+      "head of government": {
+        "text": "Prime Minister Daniyar USENOV (since 21 October 2009); First Deputy Prime Minister Akylbek JAPAROV (since 22 October 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers proposed by the prime minister, appointed by the president; ministers in charge of defense and security, appointed solely by the president"
+      },
+      "elections": {
+        "text": "Kurmanbek BAKIEV reelected by popular vote for a five-year term; election last held 23 July 2009 (next scheduled for 2014); prime minister nominated by the parliamentary party holding more than 50% of the seats; if no such party exists, the president selects the party that will nominate a prime minister"
+      },
+      "election results": {
+        "text": "Kurmanbek BAKIEV elected president; percent of vote - Kurmanbek BAKIEV 76.1%, Almaz ATAMBAYEV 8.4%, Temir SARIYEV 6.7%, other candidates 8.8%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Supreme Council or Jorgorku Kengesh (90 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 16 December 2007 (next to be held in 2012)"
+      },
+      "election results": {
+        "text": "Supreme Council - percent of vote by party - NA; seats by party - Ak Jol 71, Social Democratic Party 11, KCP 8"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Constitutional Court (judges of both the Supreme and Constitutional Courts are appointed for 10-year terms by the Jorgorku Kengesh on the recommendation of the president; their mandatory retirement age is 70 years); Higher Court of Arbitration; Local Courts (judges appointed by the president on the recommendation of the National Council on Legal Affairs for a probationary period of five years, then 10 years)"
+    },
+    "Political parties and leaders": {
+      "text": "Ak Jol (Good Luck) [Avtandil ARABAEV, Elmira IBRAIMOVA, Vladimir NIFADYEV, co-chairs]; Ak Shumkar (Gerfalcon) [Temir SARIYEV]; Ar-Namys (Dignity) Party [Emil ALIEV]; Asaba (Banner National Revival Party) [Sovetbek JAMALDINOV]]; Ata-Meken (Fatherland) [Omurbek TEKEBAEV]; Democratic Movement of Kyrgyzstan or DDK [Viktor TCHETRNOMORETS]; Erkindik (Freedom) Party [Topchubek TURGUNALIEV]; For Justice Movement [Alikbek JEKSHENKULOV]; Green Party [Erkin BULEKBAEV]; Moya Strana (My Country Party of Action) [Medet SADYRKULOV]; Party of Communists of Kyrgyzstan or KCP [Iskhak MASALIEV]; Party of Justice and Progress [Muratbek IMANALIEV]; Party of Peasants [Esengul ISAKOV]; Republican Party of Labor and Unity [Tabaldy OROZALIEV]; Revolutionary Committee [Azimbek BEKNAZAROV]; Sanjira (Tree of Life) [Ednan KARABAEV]; Social Democratic Party of Kyrgyzstan [Almaz ATAMBAEV]; Svoboda Vybora (Free Choice) Party [Vyacheslav LISOVSKIY]; Turan Party [Kanybek IMANALIYEV]; Uluu Birimdik (Solidarity) Party [Emilbek KAPTAGAEV]; Union of Democratic Forces [Osmon ARTYKBAEV]; United Kyrgyzstan [Amangeldi MURALIEV]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Adilet Legal Clinic [Cholpon JAKUPOVA]; Coalition for Democracy and Civil Society [Dinara OSHURAKHUNOVA]; Interbilim [Asiya SASYKBAEVA]"
+    },
+    "International organization participation": {
+      "text": "ADB, CIS, CSTO, EAEC, EAPC, EBRD, ECO, FAO, GCTU, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, MINURCAT, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Zamira SYDYKOVA"
+      },
+      "chancery": {
+        "text": "2360 Massachusetts Ave. NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 449-9822"
+      },
+      "FAX": {
+        "text": "[1] (202) 386-7550"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Tatiana C. GFOELLER"
+      },
+      "embassy": {
+        "text": "171 Prospect Mira, Bishkek 720016"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[996] (312) 551-241, (517) 777-217"
+      },
+      "FAX": {
+        "text": "[996] (312) 551-264"
+      }
+    },
+    "Flag description": {
+      "text": "red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of the roof of the traditional Kyrgyz yurt"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Kyrgyzstan is a poor, mountainous country with a predominantly agricultural economy. Cotton, tobacco, wool, and meat are the main agricultural products, although only tobacco and cotton are exported in any quantity. Industrial exports include gold, mercury, uranium, natural gas, and electricity. Following independence, Kyrgyzstan was progressive in carrying out market reforms such as an improved regulatory system and land reform. Kyrgyzstan was the first Commonwealth of Independent States (CIS) country to be accepted into the World Trade Organization. Much of the government's stock in enterprises has been sold. Drops in production had been severe after the breakup of the Soviet Union in December 1991, but by mid-1995, production began to recover and exports began to increase. The economy is heavily weighted toward gold export and a drop in output at the main Kumtor gold mine sparked a 0.5% decline in GDP in 2002 and a 0.6% decline in 2005. The government made steady strides in controlling its substantial fiscal deficit, nearly closing the gap between revenues and expenditures in 2006, before boosting expenditures more than 20% in 2007-08. The government and international financial institutions have been engaged in a comprehensive medium-term poverty reduction and economic growth strategy. In 2005, Bishkek agreed to pursue much-needed tax reform and, in 2006, became eligible for the heavily indebted poor countries (HIPC) initiative. Progress fighting corruption, further restructuring of domestic industry, and success in attracting foreign investment are keys to future growth. GDP grew more than 6% annually in 2007-08, partly due to higher gold prices internationally, but growth is likely to decline from that level in 2009, due to declining demand and lower commodity prices in the wake of the international financial crisis."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$9.971 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$5.05 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.1% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "29.8%"
+      },
+      "industry": {
+        "text": "19.7%"
+      },
+      "services": {
+        "text": "50.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.344 million (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "48%"
+      },
+      "industry": {
+        "text": "12.5%"
+      },
+      "services": {
+        "text": "39.5% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "18% (2004 est.)"
+    },
+    "Population below poverty line": {
+      "text": "40% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.6%"
+      },
+      "highest 10%": {
+        "text": "25.9% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "29 (2001)"
+    },
+    "Investment (gross fixed)": {
+      "text": "23.2% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.274 billion"
+      },
+      "expenditures": {
+        "text": "$1.231 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "10.2% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "25.32% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$911.1 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$303.7 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$558.3 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$92.69 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "tobacco, cotton, potatoes, vegetables, grapes, fruits and berries; sheep, goats, cattle, wool"
+    },
+    "Industries": {
+      "text": "small machinery, textiles, food processing, cement, shoes, sawn logs, refrigerators, furniture, electric motors, gold, rare earth metals"
+    },
+    "Industrial production growth rate": {
+      "text": "10.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "15.96 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "9 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "2.379 billion kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "958.4 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "15,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "1,890 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "12,850 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "40 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "30 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "750 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "720 million cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "5.663 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$267.9 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$1.337 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "cotton, wool, meat, tobacco; gold, mercury, uranium, natural gas, hydropower; machinery; shoes"
+    },
+    "Exports - partners": {
+      "text": "Switzerland 27.2%, Russia 19.2%, Uzbekistan 14.3%, Kazakhstan 11.4%, France 6.7% (2008)"
+    },
+    "Imports": {
+      "text": "$2.636 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "oil and gas, machinery and equipment, chemicals, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Russia 36.6%, China 17.9%, Kazakhstan 9.2%, Germany 8.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.177 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.162 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$16.5 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "soms (KGS) per US dollar - 36.108 (2008 est.), 37.746 (2007), 40.149 (2006), 41.012 (2005), 42.65 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "494,500 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.394 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications infrastructure is being upgraded; loans from the European Bank for Reconstruction and Development (EBRD) are being used to install a digital network, digital radio-relay stations, and fiber-optic links"
+      },
+      "domestic": {
+        "text": "fixed line penetration remains low and concentrated in urban areas; multiple mobile cellular service providers with growing coverage; mobile cellular subscribership exceeded 60 per 100 persons in 2008"
+      },
+      "international": {
+        "text": "country code - 996; connections with other CIS countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat); connected internationally by the Trans-Asia-Europe (TAE) fiber-optic line (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3 (plus 10 repeater stations), FM 23, shortwave NA (2007)"
+    },
+    "Television broadcast stations": {
+      "text": "8 (2 countrywide and 6 regional stations; state-owned); note - there are about 20 private TV stations, most of which rebroadcast other channels (2007)"
+    },
+    "Internet country code": {
+      "text": ".kg"
+    },
+    "Internet hosts": {
+      "text": "82,496 (2009)"
+    },
+    "Internet users": {
+      "text": "850,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "29 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "18"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "11"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "9 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 254 km; oil 16 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "470 km"
+      },
+      "broad gauge": {
+        "text": "470 km 1.520-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "18,500 km"
+      },
+      "paved": {
+        "text": "16,909 km (includes 140 km of expressways)"
+      },
+      "unpaved": {
+        "text": "1,591 km (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "600 km (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Balykchy (Ysyk-Kol or Rybach'ye)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Ground Forces, Air Force (includes Air Defense Forces), National Guard (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory military service (2001)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,398,878"
+      },
+      "females age 16-49": {
+        "text": "1,419,374 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,083,777"
+      },
+      "females age 16-49": {
+        "text": "1,229,406 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "57,659"
+      },
+      "female": {
+        "text": "55,557 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Kyrgyzstan has yet to ratify the 2001 boundary delimitation with Kazakhstan; disputes in Isfara Valley delay completion of delimitation with Tajikistan; delimitation of 130 km of border with Uzbekistan is hampered by serious disputes around enclaves and other areas"
+    },
+    "Illicit drugs": {
+      "text": "limited illicit cultivation of cannabis and opium poppy for CIS markets; limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; major consumer of opiates\r\n"
+    }
+  }
+}

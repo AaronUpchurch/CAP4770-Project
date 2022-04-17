@@ -1,0 +1,727 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "North Yemen became independent of the Ottoman Empire in 1918. The British, who had set up a protectorate area around the southern port of Aden in the 19th century, withdrew in 1967 from what became South Yemen. Three years later, the southern government adopted a Marxist orientation. The massive exodus of hundreds of thousands of Yemenis from the south to the north contributed to two decades of hostility between the states. The two countries were formally unified as the Republic of Yemen in 1990. A southern secessionist movement in 1994 was quickly subdued. In 2000, Saudi Arabia and Yemen agreed to a delimitation of their border."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Arabian Sea, Gulf of Aden, and Red Sea, between Oman and Saudi Arabia"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 N, 48 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "527,968 sq km"
+      },
+      "land": {
+        "text": "527,968 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "note": "includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)"
+    },
+    "note": "includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)",
+    "Area - comparative": {
+      "text": "slightly larger than twice the size of Wyoming"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,746 km"
+      },
+      "border countries": {
+        "text": "Oman 288 km, Saudi Arabia 1,458 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,906 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain backed by flat-topped hills and rugged mountains; dissected upland desert plains in center slope into the desert interior of the Arabian Peninsula"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Arabian Sea 0 m"
+      },
+      "highest point": {
+        "text": "Jabal an Nabi Shu'ayb 3,667 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, fish, rock salt, marble; small deposits of coal, gold, lead, nickel, and copper; fertile soil in west"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.91%"
+      },
+      "permanent crops": {
+        "text": "0.25%"
+      },
+      "other": {
+        "text": "96.84% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "5,500 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "4.1 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "6.63  cu km/yr (4%/1%/95%)"
+      },
+      "per capita": {
+        "text": "316  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "sandstorms and dust storms in summer"
+    },
+    "Environment - current issues": {
+      "text": "limited natural fresh water resources; inadequate supplies of potable water; overgrazing; soil erosion; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden, one of world's most active shipping lanes"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "23,822,783 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "46.2% (male 5,602,590/female 5,398,103)"
+      },
+      "15-64 years": {
+        "text": "51.3% (male 6,212,378/female 6,009,401)"
+      },
+      "65 years and over": {
+        "text": "2.5% (male 288,501/female 311,810) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "16.8 years"
+      },
+      "male": {
+        "text": "16.7 years"
+      },
+      "female": {
+        "text": "16.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.453% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "42.14 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.61 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "31% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.92 male(s)/female"
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "54.7 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "59.12 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "50.07 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "63.27 years"
+      },
+      "male": {
+        "text": "61.3 years"
+      },
+      "female": {
+        "text": "65.33 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "6.32 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "12,000 (2001 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Yemeni(s)"
+      },
+      "adjective": {
+        "text": "Yemeni"
+      }
+    },
+    "Ethnic groups": {
+      "text": "predominantly Arab; but also Afro-Arab, South Asians, Europeans"
+    },
+    "Religions": {
+      "text": "Muslim including Shaf'i (Sunni) and Zaydi (Shia), small numbers of Jewish, Christian, and Hindu"
+    },
+    "Languages": {
+      "text": "Arabic"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "50.2%"
+      },
+      "male": {
+        "text": "70.5%"
+      },
+      "female": {
+        "text": "30% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "9 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "7 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "9.6% of GDP (2001)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Yemen "
+      },
+      "conventional short form": {
+        "text": "Yemen"
+      },
+      "local long form": {
+        "text": "Al Jumhuriyah al Yamaniyah"
+      },
+      "local short form": {
+        "text": "Al Yaman"
+      },
+      "former": {
+        "text": "Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Sanaa"
+      },
+      "geographic coordinates": {
+        "text": "15 21 N, 44 12 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "21 governorates (muhafazat, singular - muhafazah); Abyan, 'Adan, Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah, 'Amran, Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a', Shabwah, Ta'izz"
+    },
+    "Independence": {
+      "text": "22 May 1990 (Republic of Yemen was established with the merger of the Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and the Marxist-dominated People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]); note - previously North Yemen became independent in November 1918 (from the Ottoman Empire) and became a republic with the overthrow of the theocratic Imamate in 1962; South Yemen became independent on 30 November 1967 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Unification Day, 22 May (1990)"
+    },
+    "Constitution": {
+      "text": "16 May 1991; amended 29 September 1994 and February 2001"
+    },
+    "Legal system": {
+      "text": "based on Islamic law, Turkish law, English common law, and local tribal customary law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ali Abdallah SALIH (since 22 May 1990, the former president of North Yemen, assumed office upon the merger of North and South Yemen); Vice President Maj. Gen. Abd al-Rab Mansur al-HADI (since 3 October 1994)"
+      },
+      "head of government": {
+        "text": "Prime Minister Ali Muhammad MUJAWWAR (since 31 March 2007)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president on the advice of the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term; election last held 20 September 2006 (next to be held in September 2013); vice president appointed by the president; prime minister and deputy prime ministers appointed by the president"
+      },
+      "election results": {
+        "text": "Ali Abdallah SALIH elected president; percent of vote - Ali Abdallah SALIH 77.2%, Faysal BIN SHAMLAN 21.8%"
+      }
+    },
+    "Legislative branch": {
+      "text": "a bicameral legislature consisting of a Shura Council (111 seats; members appointed by the president) and a House of Representatives (301 seats; members elected by popular vote to serve six-year terms)",
+      "elections": {
+        "text": "last held on 27 April 2003 (scheduled April 2009 election postponed for two years)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - GPC 228, Islah 47, YSP 7, Nasserite Unionist Party 3, National Arab Socialist Ba'th Party 2, independents 14"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court"
+    },
+    "Political parties and leaders": {
+      "text": "General People's Congress or GPC [Abdul-Kader BAJAMMAL]; Islamic Reform Grouping or Islah [Mohammed Abdullah AL-YADOUMI (acting)]; Nasserite Unionist Party [Abdal Malik al-MAKHLAFI]; National Arab Socialist Ba'th Party [Dr. Qasim SALAM]; Yemeni Socialist Party or YSP [Ali Salih MUQBIL]; note - there are at least seven more active political parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Muslim Brotherhood; Women National Committee",
+      "other": {
+        "text": "conservative tribal groups"
+      }
+    },
+    "International organization participation": {
+      "text": "AFESD, AMF, CAEU, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, LAS, MIGA, MINURCAT, MINURSO, MONUC, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNOCI, UNOMIG, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Abd al-Wahab Abdallah al-HAJRI"
+      },
+      "chancery": {
+        "text": "2319 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 965-4760"
+      },
+      "FAX": {
+        "text": "[1] (202) 337-2017"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Stephen A. SECHE"
+      },
+      "embassy": {
+        "text": "Sa'awan Street, Sanaa"
+      },
+      "mailing address": {
+        "text": "P. O. Box 22347, Sanaa"
+      },
+      "telephone": {
+        "text": "[967] (1) 755-2000 ext. 2153 or 2266"
+      },
+      "FAX": {
+        "text": "[967] (1) 303-182"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and black; similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Yemen, one of the poorest countries in the Arab world, reported average annual growth in the range of 3-4% from 2000 through 2007. In 2008, growth declined slightly as the price of oil dropped and the slowing global economy reduced demand for oil. Yemen's economic fortunes depend mostly on declining oil resources, but the country is trying to diversify its earnings. In 2006, Yemen began an economic reform program designed to bolster non-oil sectors of the economy and foreign investment. As a result of the program, international donors pledged about $5 billion for development projects. A liquefied natural gas facility is scheduled to open in 2009. Yemen has limited exposure to the international financial system and no capital markets, however, the global financial crisis probably will reduce international aid in 2009."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$51.87 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "most people are employed in agriculture and herding; services, construction, industry, and commerce account for less than one-fourth of the labor force",
+    "GDP (official exchange rate)": {
+      "text": "$26.91 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,500 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "10.3%"
+      },
+      "industry": {
+        "text": "56.5%"
+      },
+      "services": {
+        "text": "33.2% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "6.454 million (2008 est.)",
+      "note": "most people are employed in agriculture and herding; services, construction, industry, and commerce account for less than one-fourth of the labor force"
+    },
+    "Labor force - by occupation": {},
+    "Unemployment rate": {
+      "text": "35% (2003 est.)"
+    },
+    "Population below poverty line": {
+      "text": "45.2% (2003)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.9%"
+      },
+      "highest 10%": {
+        "text": "30.8% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "33.4 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "25.9% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$9.243 billion"
+      },
+      "expenditures": {
+        "text": "$10.36 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "46.4% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "10% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "18% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$3.076 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$4.526 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$2.224 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "grain, fruits, vegetables, pulses, qat, coffee, cotton; dairy products, livestock (sheep, goats, cattle, camels), poultry; fish"
+    },
+    "Industries": {
+      "text": "crude oil production and petroleum refining; small-scale production of cotton textiles and leather goods; food processing; handicrafts; small aluminum products factory; cement; commercial ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "2.8% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "5.665 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.133 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "300,100 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "149,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "274,400 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "65,860 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "3 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "478.5 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.547 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$7.05 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil, coffee, dried and salted fish"
+    },
+    "Exports - partners": {
+      "text": "China 28.4%, Thailand 23.6%, India 16.1%, South Africa 13.4%, Japan 4.7% (2008)"
+    },
+    "Imports": {
+      "text": "$7.49 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food and live animals, machinery and equipment, chemicals"
+    },
+    "Imports - partners": {
+      "text": "UAE 14.7%, India 11.7%, China 11.3%, Saudi Arabia 6.9%, Kuwait 5.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$7.759 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$6.044 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Yemeni rials (YER) per US dollar - 199.76 (2008 est.), 199.14 (2007), 197.18 (2006), 192.67 (2005), 184.78 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.117 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.7 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "since unification in 1990, efforts have been made to create a national telecommunications network"
+      },
+      "domestic": {
+        "text": "the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line and mobile-cellular teledensity remains low by regional standards"
+      },
+      "international": {
+        "text": "country code - 967; landing point for the international submarine cable Fiber-Optic Link Around the Globe (FLAG); satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 6, FM 1, shortwave 2 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (including one Egypt-based station that broadcasts in Yemen); plus several repeaters (2007)"
+    },
+    "Internet country code": {
+      "text": ".ye"
+    },
+    "Internet hosts": {
+      "text": "242 (2009)"
+    },
+    "Internet users": {
+      "text": "370,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "55 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "18"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "37"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "14"
+      },
+      "under 914 m": {
+        "text": "9 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 96 km; liquid petroleum gas 22 km; oil 1,367 km (2008)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "71,300 km"
+      },
+      "paved": {
+        "text": "6,200 km"
+      },
+      "unpaved": {
+        "text": "65,100 km (2005)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "4"
+      },
+      "by type": {
+        "text": "cargo 1, chemical tanker 1, petroleum tanker 1, roll on/roll off 1"
+      },
+      "registered in other countries": {
+        "text": "13 (North Korea 2, Moldova 1, Panama 6, Saint Kitts and Nevis 1, Sierra Leone 2, unknown 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Aden, Al Hudaydah, Al Mukalla"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports offshore waters in the Gulf of Aden are high risk for piracy; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crew, passengers, and cargo are held for ransom"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army (includes Republican Guard), Navy (includes Marines), Yemen Air Force (Al Quwwat al Jawwiya al Jamahiriya al Yemeniya; includes Air Defense Force) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "voluntary military service program authorized in 2001; 2-year service obligation (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "5,080,038"
+      },
+      "females age 16-49": {
+        "text": "4,852,555 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "3,733,704"
+      },
+      "females age 16-49": {
+        "text": "3,773,626 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "273,624"
+      },
+      "female": {
+        "text": "263,402 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "6.6% of GDP (2006)"
+    },
+    "Military - note": {
+      "text": "a Coast Guard was established in 2002"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "91,587 (Somalia) (2007)"
+      }
+    }
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French separated out the region of Lebanon in 1920, and granted this area independence in 1943. A lengthy civil war (1975-1990) devastated the country, but Lebanon has since made progress toward rebuilding its political institutions. Under the Ta'if Accord - the blueprint for national reconciliation - the Lebanese established a more equitable political system, particularly by giving Muslims a greater voice in the political process while institutionalizing sectarian divisions in the government. Since the end of the war, Lebanon has conducted several successful elections. Most militias have been disbanded, with the exception of Hizballah, designated by the US State Department as a Foreign Terrorist Organization, and Palestinian militant groups. During Lebanon's civil war, the Arab League legitimized in the Ta'if Accord Syria's troop deployment, numbering about 16,000 based mainly east of Beirut and in the Bekaa Valley. Israel's withdrawal from southern Lebanon in May 2000 and the passage in September 2004 of UNSCR 1559 - a resolution calling for Syria to withdraw from Lebanon and end its interference in Lebanese affairs - encouraged some Lebanese groups to demand that Syria withdraw its forces as well. The assassination of former Prime Minister Rafiq HARIRI and 22 others in February 2005 led to massive demonstrations in Beirut against the Syrian presence (\"the Cedar Revolution\"), and Syria withdrew the remainder of its military forces in April 2005. In May-June 2005, Lebanon held its first legislative elections since the end of the civil war free of foreign interference, handing a majority to the bloc led by Saad HARIRI, the slain prime minister's son. In July 2006, Hizballah kidnapped two Israeli soldiers leading to a 34-day conflict with Israel in which approximately 1,200 Lebanese civilians were killed. UNSCR 1701 ended the war in August 2006, and Lebanese Armed Forces (LAF) deployed throughout the country for the first time in decades, charged with securing Lebanon's borders against weapons smuggling and maintaining a weapons-free zone in south Lebanon with the help of the UN Interim Force in Lebanon (UNIFIL). The LAF in May-September 2007 battled Sunni extremist group Fatah al-Islam in the Nahr al-Barid Palestinian refugee camp, winning a decisive victory, but destroying the camp and displacing 30,000 Palestinian residents. Lebanese politicians in November 2007 were unable to agree on a successor to Emile LAHUD when he stepped down as president, creating a political vacuum until the election of Army Commander Michel SULAYMAN in May 2008 and the formation of a new unity government in July 2008."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Mediterranean Sea, between Israel and Syria"
+    },
+    "Geographic coordinates": {
+      "text": "33 50 N, 35 50 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "10,400 sq km"
+      },
+      "land": {
+        "text": "10,230 sq km"
+      },
+      "water": {
+        "text": "170 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "about 0.7 times the size of Connecticut"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "454 km"
+      },
+      "border countries": {
+        "text": "Israel 79 km, Syria 375 km"
+      }
+    },
+    "Coastline": {
+      "text": "225 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      }
+    },
+    "Climate": {
+      "text": "Mediterranean; mild to cool, wet winters with hot, dry summers; Lebanon mountains experience heavy winter snows"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain; El Beqaa (Bekaa Valley) separates Lebanon and Anti-Lebanon Mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Mediterranean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Qurnat as Sawda' 3,088 m"
+      }
+    },
+    "Natural resources": {
+      "text": "limestone, iron ore, salt, water-surplus state in a water-deficit region, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "16.35%"
+      },
+      "permanent crops": {
+        "text": "13.75%"
+      },
+      "other": {
+        "text": "69.9% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,040 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "4.8 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.38  cu km/yr (33%/1%/67%)"
+      },
+      "per capita": {
+        "text": "385  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "dust storms, sandstorms"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; desertification; air pollution in Beirut from vehicular traffic and the burning of industrial wastes; pollution of coastal waters from raw sewage and oil spills"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "Nahr el Litani is the only major river in Near East not crossing an international boundary; rugged terrain historically helped isolate, protect, and develop numerous factional groups based on religion, clan, and ethnicity"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,017,095 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "25.8% (male 528,047/female 506,838)"
+      },
+      "15-64 years": {
+        "text": "67.1% (male 1,294,485/female 1,399,047)"
+      },
+      "65 years and over": {
+        "text": "7.2% (male 130,148/female 158,530) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "29.3 years"
+      },
+      "male": {
+        "text": "28 years"
+      },
+      "female": {
+        "text": "30.5 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.107% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.1 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.03 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "87% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.92 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.82 male(s)/female"
+      },
+      "total population": {
+        "text": "0.95 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "21.82 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "24.26 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "19.26 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.66 years"
+      },
+      "male": {
+        "text": "71.15 years"
+      },
+      "female": {
+        "text": "76.31 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.85 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "3,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Lebanese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Lebanese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Arab 95%, Armenian 4%, other 1%",
+      "note": "many Christian Lebanese do not identify themselves as Arab but rather as descendents of the ancient Canaanites and prefer to be called Phoenicians"
+    },
+    "note": "17 religious sects recognized",
+    "Religions": {
+      "text": "Muslim 59.7% (Shia, Sunni, Druze, Isma'ilite, Alawite or Nusayri), Christian 39% (Maronite Catholic, Greek Orthodox, Melkite Catholic, Armenian Orthodox, Syrian Catholic, Armenian Catholic, Syrian Orthodox, Roman Catholic, Chaldean, Assyrian, Copt, Protestant), other 1.3%",
+      "note": "17 religious sects recognized"
+    },
+    "Languages": {
+      "text": "Arabic (official), French, English, Armenian"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "87.4%"
+      },
+      "male": {
+        "text": "93.1%"
+      },
+      "female": {
+        "text": "82.2% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.7% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Lebanese Republic "
+      },
+      "conventional short form": {
+        "text": "Lebanon"
+      },
+      "local long form": {
+        "text": "Al Jumhuriyah al Lubnaniyah"
+      },
+      "local short form": {
+        "text": "Lubnan"
+      },
+      "former": {
+        "text": "Greater Lebanon"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Beirut"
+      },
+      "geographic coordinates": {
+        "text": "33 52 N, 35 30 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 governorates (mohafazat, singular - mohafazah); Beqaa, Beyrouth (Beirut), Liban-Nord, Liban-Sud, Mont-Liban, Nabatiye",
+      "note": "two new governorates - Aakar and Baalbek-Hermel - have been legislated but not yet implemented"
+    },
+    "note": "two new governorates - Aakar and Baalbek-Hermel - have been legislated but not yet implemented",
+    "Independence": {
+      "text": "22 November 1943 (from League of Nations mandate under French administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 22 November (1943)"
+    },
+    "Constitution": {
+      "text": "23 May 1926; amended a number of times, most recently Charter of Lebanese National Reconciliation (Ta'if Accord) of October 1989"
+    },
+    "Legal system": {
+      "text": "mixture of Ottoman law, canon law, Napoleonic code, and civil law; no judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "21 years of age; compulsory for all males; authorized for women at age 21 with elementary education; excludes military personnel"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Michel SULAYMAN (since 25 May 2008)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sa'ad AL-HARIRI (since 9 November 2009);Deputy Prime Minister Elias MURR (since 9 November 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet chosen by the prime minister in consultation with the president and members of the National Assembly"
+      },
+      "elections": {
+        "text": "president elected by the National Assembly for a six-year term (may not serve consecutive terms); election last held 25 May 2008 (next to be held in 2014); the prime minister and deputy prime minister appointed by the president in consultation with the National Assembly"
+      },
+      "election results": {
+        "text": "Michel SULAYMAN elected president; National Assembly vote - 118 for, 6 abstentions, 3 invalidated"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Majlis Alnuwab (Arabic) or Assemblee Nationale (French) (128 seats; members elected by popular vote on the basis of sectarian proportional representation to serve four-year terms)",
+      "elections": {
+        "text": "last held on 7 June 2009 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by group - March 8 Coalition 54.7%, March 14 Coalition 45.3%; seats by group - March 14 Coalition 71; March 8 Coalition 57"
+      }
+    },
+    "Judicial branch": {
+      "text": "four Courts of Cassation (three courts for civil and commercial cases and one court for criminal cases); Constitutional Council (called for in Ta'if Accord - rules on constitutionality of laws); Supreme Council (hears charges against the president and prime minister as needed)"
+    },
+    "Political parties and leaders": {
+      "14 March Coalition": {
+        "text": "Democratic Gathering Bloc [Walid JUNBLATT, leader of Progressive Socialist Party]; Democratic Left [Ilyas ATALLAH]; Democratic Renewal Movement [Nassib LAHUD]; Future Movement Bloc [Sa'ad al-HARIRI]; Kataeb Party [Amine GEMAYEL]; Lebanese Forces [Samir JA'JA]; Tripoli Independent Bloc"
+      },
+      "8 March Coalition": {
+        "text": "Development and Resistance Bloc [Nabih BERRI, leader of Amal Movement]; Free Patriotic Movement [Michel AWN]; Loyalty to the Resistance Bloc [Mohammad RA'AD] (includes Hizballah Party [Hassan NASRALLAH]); Nasserite Popular Movement [Ussama SAAD]; Popular Bloc [Elias SKAFF]; Syrian Ba'th Party [Sayez SHUKR]; Syrian Social Nationalist Party [Ali QANSO]"
+      },
+      "Independent": {
+        "text": "Metn Bloc [Michel MURR]; Tashnaq"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Hizballah military wing",
+      "other": {
+        "text": "Palestinian militias; Maronite Christians; Sunnis and their militias; Shias and their militias"
+      }
+    },
+    "International organization participation": {
+      "text": "ABEDA, ACCT, AFESD, AMF, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Antoine CHEDID"
+      },
+      "chancery": {
+        "text": "2560 28th Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-6300"
+      },
+      "FAX": {
+        "text": "[1] (202) 939-6324"
+      },
+      "consulate(s) general": {
+        "text": "Detroit, New York, Los Angeles"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Michele J. SISON"
+      },
+      "embassy": {
+        "text": "Awkar, Lebanon; (Awkar facing the Municipality)"
+      },
+      "mailing address": {
+        "text": "P. O. Box 70-840, Antelias, Lebanon; from US"
+      },
+      "telephone": {
+        "text": "[961] (4) 542600, 543600"
+      },
+      "FAX": {
+        "text": "[961] (4) 544136"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands consisting of red (top), white (middle, double width), and red (bottom) with a green cedar tree centered in the white band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Lebanon has a free-market economy and a strong laissez-faire commercial tradition. The government does not restrict foreign investment; however, the investment climate suffers from red tape, corruption, arbitrary licensing decisions, high taxes, tariffs, and fees, archaic legislation, and weak intellectual property rights. The Lebanese economy is service-oriented; main growth sectors include banking and tourism. The 1975-90 civil war seriously damaged Lebanon's economic infrastructure, cut national output by half, and all but ended Lebanon's position as a Middle Eastern entrepot and banking hub. In the years since, Lebanon has rebuilt much of its war-torn physical and financial infrastructure by borrowing heavily - mostly from domestic banks. In an attempt to reduce the ballooning national debt, the Rafiq HARIRI government in 2000 began an austerity program, reining in government expenditures, increasing revenue collection, and passing legislation to privatize state enterprises, but economic and financial reform initiatives stalled and public debt continued to grow despite receipt of more than $2 billion in bilateral assistance at the 2002 Paris II Donors Conference. The Israeli-Hizballah conflict in July-August 2006 caused an estimated $3.6 billion in infrastructure damage, and prompted international donors to pledge nearly $1 billion in recovery and reconstruction assistance. Donors met again in January 2007 at the Paris III Donor Conference and pledged more than $7.5 billion to Lebanon for development projects and budget support, conditioned on progress on Beirut's fiscal reform and privatization program. An 18-month political stalemate and sporadic sectarian and political violence hampered economic activity, particularly tourism, retail sales, and investment, until the new government was formed in July 2008. Political stability since the Doha Accord of May 2008 has helped to boost investment and tourism, but economic growth is likely to slow in 2009 as a result of the global economic recession."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$39.95 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "in addition, there are as many as 1 million foreign workers (2007 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$29.35 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-4.3% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "5.1%"
+      },
+      "industry": {
+        "text": "18.8%"
+      },
+      "services": {
+        "text": "76.1% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "1.481 million",
+      "note": "in addition, there are as many as 1 million foreign workers (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.2% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "28% (1999 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "22.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$6.998 billion"
+      },
+      "expenditures": {
+        "text": "$9.955 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "177.9% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.2% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "12% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.26% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$2.374 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$57.4 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$45.51 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$8.279 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "citrus, grapes, tomatoes, apples, vegetables, potatoes, olives, tobacco; sheep, goats"
+    },
+    "Industries": {
+      "text": "banking, tourism, food processing, wine, jewelry, cement, textiles, mineral and chemical products, wood and furniture products, oil refining, metal fabricating"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "9.03 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "8.42 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "972 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "92,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "86,750 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.395 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$4.077 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "jewelry, base metals, chemicals, miscellaneous consumer goods, fruit and vegetables, tobacco, construction minerals, electric power machinery and switchgear, textile fibers, paper"
+    },
+    "Exports - partners": {
+      "text": "Syria 24.9%, UAE 12.9%, Switzerland 6.6%, Saudi Arabia 6.1%, Turkey 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$11.93 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, cars, medicinal products, clothing, meat and live animals, consumer goods, paper, textile fabrics, tobacco, electrical machinery and equipment, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Syria 10.5%, France 9.5%, US 9.3%, Italy 7.3%, China 6.8%, Germany 4.9%, Saudi Arabia 4.8%, Turkey 4.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$20.55 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$31.6 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Lebanese pounds (LBP) per US dollar - 1,507.5 (2008 est.), 1,507.5 (2007), 1,507.5 (2006), 1,507.5 (2005), 1,507.5 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "714,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.43 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "repair of the telecommunications system, severely damaged during the civil war, now complete"
+      },
+      "domestic": {
+        "text": "two wireless networks provide good service; combined fixed-line and mobile-cellular subscribership exceeds 50 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 961; submarine cable links to Cyprus, Egypt, and Syria; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean); coaxial cable to Syria (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 20, FM 32 (plus about a dozen unlicensed stations operating), shortwave 4 (2007)"
+    },
+    "Television broadcast stations": {
+      "text": "15 (plus 5 repeaters) (1995)"
+    },
+    "Internet country code": {
+      "text": ".lb"
+    },
+    "Internet hosts": {
+      "text": "45,352 (2009)"
+    },
+    "Internet users": {
+      "text": "2.19 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "7 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "5"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 43 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "401 km"
+      },
+      "standard gauge": {
+        "text": "319 km 1.435 m"
+      },
+      "narrow gauge": {
+        "text": "82 km 1.050 m"
+      },
+      "note": "rail system unusable because of the damage done during fighting in the 1980s and in 2006 (2008)"
+    },
+    "note": "rail system unusable because of the damage done during fighting in the 1980s and in 2006 (2008)",
+    "Roadways": {
+      "total": {
+        "text": "6,970 km (includes 170 km of expressways) (2005)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "33"
+      },
+      "by type": {
+        "text": "bulk carrier 3, cargo 13, carrier 11, passenger/cargo 1, refrigerated cargo 1, roll on/roll off 2, vehicle carrier 2"
+      },
+      "foreign-owned": {
+        "text": "4 (Greece 2, Syria 2)"
+      },
+      "registered in other countries": {
+        "text": "55 (Barbados 1, Cambodia 8, Comoros 4, Cyprus 1, Egypt 1, Georgia 4, Honduras 1, Italy 1, North Korea 1, Liberia 2, Malta 11, Mongolia 2, Panama 5, Saint Vincent and the Grenadines 6, Sierra Leone 1, Syria 3, Togo 1, unknown 2) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Beirut, Tripoli"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Lebanese Armed Forces (LAF)": {
+        "text": "Army (includes Navy), Air Force (Al Quwwat al Jawwiya al Lubnaniya) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for voluntary military service; no conscription (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,106,879"
+      },
+      "females age 16-49": {
+        "text": "1,122,595 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "948,765"
+      },
+      "females age 16-49": {
+        "text": "954,663 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "33,018"
+      },
+      "female": {
+        "text": "31,800 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.1% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms area in the Israeli-occupied Golan Heights; the roughly 2,000-strong UN Interim Force in Lebanon (UNIFIL) has been in place since 1978"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "405,425 (Palestinian refugees (UNRWA)); 50,000-60,000 (Iraq)"
+      },
+      "IDPs": {
+        "text": "17,000 (1975-90 civil war, Israeli invasions); 200,000 (July-August 2006 war) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "cannabis cultivation dramatically reduced to 2,500 hectares in 2002 despite continued significant cannabis consumption; opium poppy cultivation minimal; small amounts of Latin American cocaine and Southwest Asian heroin transit country on way to European markets and for Middle Eastern consumption; money laundering of drug proceeds fuels concern that extremists are benefiting from drug trafficking\r\n"
+    }
+  }
+}

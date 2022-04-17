@@ -1,0 +1,763 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Europeans began to set up trading posts in the area of Bangladesh in the 16th century; eventually the British came to dominate the region and it became part of British India. In 1947, West Pakistan and East Bengal (both primarily Muslim) separated from India (largely Hindu) and jointly became the new country of Pakistan. East Bengal became East Pakistan in 1955, but the awkward arrangement of a two-part country with its territorial units separated by 1,600 km left the Bengalis marginalized and dissatisfied. East Pakistan seceded from its union with West Pakistan in 1971 and was renamed Bangladesh. A military-backed, emergency caretaker regime suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. In contrast to the strikes and violent street rallies that had marked Bangladeshi politics in previous years, the parliamentary elections finally held in late December 2008 were mostly peaceful. Sheikh HASINA Wajed was reappointed prime minister. About a third of this extremely poor country floods annually during the monsoon rainy season, hampering economic development."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, bordering the Bay of Bengal, between Burma and India"
+    },
+    "Geographic coordinates": {
+      "text": "24 00 N, 90 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "143,998 sq km"
+      },
+      "land": {
+        "text": "130,168 sq km"
+      },
+      "water": {
+        "text": "13,830 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Iowa"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,246 km"
+      },
+      "border countries": {
+        "text": "Burma 193 km, India 4,053 km"
+      }
+    },
+    "Coastline": {
+      "text": "580 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "18 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "up to the outer limits of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)"
+    },
+    "Terrain": {
+      "text": "mostly flat alluvial plain; hilly in southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Keokradong 1,230 m"
+      }
+    },
+    "Natural resources": {
+      "text": "natural gas, arable land, timber, coal"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "55.39%"
+      },
+      "permanent crops": {
+        "text": "3.08%"
+      },
+      "other": {
+        "text": "41.53% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "47,250 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "1,210.6 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "79.4  cu km/yr (3%/1%/96%)"
+      },
+      "per capita": {
+        "text": "560  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "droughts; cyclones; much of the country routinely inundated during the summer monsoon season"
+    },
+    "Environment - current issues": {
+      "text": "many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; severe overpopulation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "most of the country is situated on deltas of large rivers flowing from the Himalayas": {
+        "text": "the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal"
+      }
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "156,050,883 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "34.6% (male 27,065,625/female 26,913,961)"
+      },
+      "15-64 years": {
+        "text": "61.4% (male 45,222,182/female 50,537,052)"
+      },
+      "65 years and over": {
+        "text": "4% (male 3,057,255/female 3,254,808) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "23.3 years"
+      },
+      "male": {
+        "text": "22.9 years"
+      },
+      "female": {
+        "text": "23.5 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.292% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "24.68 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.23 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.53 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "27% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "3.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.9 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.94 male(s)/female"
+      },
+      "total population": {
+        "text": "0.93 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "59.02 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "66.12 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "51.64 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "60.25 years"
+      },
+      "male": {
+        "text": "57.57 years"
+      },
+      "female": {
+        "text": "63.03 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.74 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "12,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria are high risks in some locations"
+      },
+      "water contact disease": {
+        "text": "leptospirosis"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Nationality": {
+      "noun": {
+        "text": "Bangladeshi(s)"
+      },
+      "adjective": {
+        "text": "Bangladeshi"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Bengali 98%, other 2% (includes tribal groups, non-Bengali Muslims) (1998)"
+    },
+    "Religions": {
+      "text": "Muslim 83%, Hindu 16%, other 1% (1998)"
+    },
+    "Languages": {
+      "text": "Bangla (official, also known as Bengali), English"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "47.9%"
+      },
+      "male": {
+        "text": "54%"
+      },
+      "female": {
+        "text": "41.4% (2001 Census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "8 years"
+      },
+      "male": {
+        "text": "8 years"
+      },
+      "female": {
+        "text": "8 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.7% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "People's Republic of Bangladesh "
+      },
+      "conventional short form": {
+        "text": "Bangladesh"
+      },
+      "local long form": {
+        "text": "Gana Prajatantri Banladesh"
+      },
+      "local short form": {
+        "text": "Banladesh"
+      },
+      "former": {
+        "text": "East Bengal, East Pakistan"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dhaka"
+      },
+      "geographic coordinates": {
+        "text": "23 43 N, 90 24 E"
+      },
+      "time difference": {
+        "text": "UTC+6 (11 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 divisions; Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Sylhet"
+    },
+    "Independence": {
+      "text": "16 December 1971 (from West Pakistan); note - 26 March 1971 is the date of independence from West Pakistan, 16 December 1971 is known as Victory Day and commemorates the official creation of the state of Bangladesh"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 March (1971); note - 26 March 1971 is the date of independence from West Pakistan, 16 December 1971 is Victory Day and commemorates the official creation of the state of Bangladesh"
+    },
+    "Constitution": {
+      "text": "4 November 1972; effective 16 December 1972; suspended following coup of 24 March 1982; restored 10 November 1986; amended many times"
+    },
+    "Legal system": {
+      "text": "based on English common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Zillur RAHMAN (since 12 February 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sheikh HASINA Wajed (since 6 January 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet selected by the prime minister and appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by National Parliament for a five-year term (eligible for a second term); last election held on 11 February 2009 (next scheduled election to be held in 2014)"
+      },
+      "election results": {
+        "text": "Zillur RAHMAN declared president-elect by the Election Commission on 11 February 2009 (sworn in on 12 February); he ran unopposed as president; percent of National Parliament vote - NA"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Parliament or Jatiya Sangsad; 300 seats elected by popular vote from single territorial constituencies; members serve five-year terms",
+      "elections": {
+        "text": "last held 29 December 2008 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - AL 49%, BNP 33.2%, JP 7%, JIB 4.6%, other 6.2%; seats by party - AL 230, BNP 30, JP 27, JIB 2, other 11"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (the chief justices and other judges are appointed by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "Awami League or AL [Sheikh HASINA]; Bangladesh Communist Party or BCP [Manjurul A. KHAN]; Bangladesh Nationalist Party or BNP [Khaleda ZIA]; Islami Oikya Jote or IOJ [Mufti Fazlul Haq AMINI]; Jamaat-e-Islami Bangladesh or JIB [Matiur Rahman NIZAMI]; Jatiya Party or JP (Ershad faction) [Hussain Mohammad ERSHAD]; Jatiya Party (Manzur faction) [Naziur Rahman MANZUR]; Liberal Democratic Party or LDP [Badrudozza CHOWDHURY and Oli AHMED]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Advocacy to End Gender-based Violence through the MoWCA (Ministry of Women's and Children's Affairs)",
+      "other": {
+        "text": "environmentalists; Islamist groups; religious leaders; teachers; union leaders"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, BIMSTEC, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC, MIGA, MINURCAT, MINURSO, MONUC, NAM, OIC, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNMIT, UNOCI, UNOMIG, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant)"
+      },
+      "chancery": {
+        "text": "3510 International Drive NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 244-0183"
+      },
+      "FAX": {
+        "text": "[1] (202) 244-7830/2771"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador James F. MORIARTY"
+      },
+      "embassy": {
+        "text": "Madani Avenue, Baridhara, Dhaka 1212"
+      },
+      "mailing address": {
+        "text": "G. P. O. Box 323, Dhaka 1000"
+      },
+      "telephone": {
+        "text": "[880] (2) 885-5500"
+      },
+      "FAX": {
+        "text": "[880] (2) 882-3744"
+      }
+    },
+    "Flag description": {
+      "text": "green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy has grown 5-6% per year since 1996 despite inefficient state-owned enterprises, delays in exploiting natural gas resources, insufficient power supplies, and slow implementation of economic reforms. Bangladesh remains a poor, overpopulated, and inefficiently-governed nation. Although more than half of GDP is generated through the service sector, nearly two-thirds of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product. Garment exports and remittances from Bangladeshis working overseas, mainly in the Middle East and East Asia, fuel economic growth. In 2008 Bangladesh pursued a monetary policy aimed at maintaining high employment, but created higher inflation in the process."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$201.5 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "extensive export of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia; workers' remittances estimated at $4.8 billion in 2005-06. (2008 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$84.2 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "19.1%"
+      },
+      "industry": {
+        "text": "28.6%"
+      },
+      "services": {
+        "text": "52.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "70.86 million",
+      "note": "extensive export of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia; workers' remittances estimated at $4.8 billion in 2005-06. (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "63%"
+      },
+      "industry": {
+        "text": "11%"
+      },
+      "services": {
+        "text": "26% (FY95/96)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.5% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "45% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.3%"
+      },
+      "highest 10%": {
+        "text": "26.6% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "33.6 (1996)"
+    },
+    "Investment (gross fixed)": {
+      "text": "24.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.825 billion"
+      },
+      "expenditures": {
+        "text": "$12.54 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "43% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "9.1% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$8.444 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$32.35 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$40.1 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.61 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "rice, jute, tea, wheat, sugarcane, potatoes, tobacco, pulses, oilseeds, spices, fruit; beef, milk, poultry"
+    },
+    "Industries": {
+      "text": "cotton textiles, jute, garments, tea processing, paper newsprint, cement, chemical fertilizer, light engineering, sugar"
+    },
+    "Industrial production growth rate": {
+      "text": "6.9% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "22.99 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "21.38 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "6,426 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "95,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "2,612 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "87,660 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "28 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "17.9 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "17.9 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "141.6 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$856.8 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$12.47 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "garments, jute and jute goods, leather, frozen fish and seafood"
+    },
+    "Exports - partners": {
+      "text": "US 21%, Germany 13.2%, UK 8.6%, France 6.3%, Netherlands 4.7% (2008)"
+    },
+    "Imports": {
+      "text": "$16.67 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, chemicals, iron and steel, textiles, foodstuffs, petroleum products, cement"
+    },
+    "Imports - partners": {
+      "text": "China 14.7%, India 14.7%, Kuwait 7.5%, Singapore 7.1%, Japan 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$5.278 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$21.23 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$5.261 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$97 million (31 December 2008 est.)"
+    },
+    "Exchange rates": {
+      "text": "taka (BDT) per US dollar - 68.554 (2008 est.), 69.893 (2007), 69.031 (2006), 64.328 (2005), 59.513 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.39 million (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "45.75 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate for a modern country; fixed-line telephone density remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and has reached 30 per 100 persons"
+      },
+      "domestic": {
+        "text": "modernizing; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities"
+      },
+      "international": {
+        "text": "country code - 880; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 15, FM 13, shortwave 2 (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "15 (1999)"
+    },
+    "Internet country code": {
+      "text": ".bd"
+    },
+    "Internet hosts": {
+      "text": "4,209 (2009)"
+    },
+    "Internet users": {
+      "text": "556,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "17 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "15"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 2,597 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,768 km"
+      },
+      "broad gauge": {
+        "text": "946 km 1.676-m gauge"
+      },
+      "narrow gauge": {
+        "text": "1,822 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "239,226 km"
+      },
+      "paved": {
+        "text": "22,726 km"
+      },
+      "unpaved": {
+        "text": "216,500 km (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "8,370 km",
+      "note": "includes up to 3,060 km main cargo routes; network reduced to 5,200 km in dry season (2007)"
+    },
+    "note": "includes up to 3,060 km main cargo routes; network reduced to 5,200 km in dry season (2007)",
+    "Merchant marine": {
+      "total": {
+        "text": "40"
+      },
+      "by type": {
+        "text": "bulk carrier 3, cargo 27, container 5, passenger/cargo 1, petroleum tanker 4"
+      },
+      "foreign-owned": {
+        "text": "1 (China 1)"
+      },
+      "registered in other countries": {
+        "text": "10 (Comoros 2, Honduras 1, Malta 2, Panama 2, Singapore 2, Togo 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Chittagong, Mongla Port"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial waters of Bangladesh as high risk for armed robbery against ships; numerous commercial vessels have been attacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Bangladesh Defense Force": {
+        "text": "Bangladesh Army (Sena Bahini), Bangladesh Navy (Noh Bahini, BN), Bangladesh Air Force (Biman Bahini, BAF) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "16 years of age for voluntary military service; 17 years of age for officers (both with parental consent); conscription legally possible in emergency, but has never been implemented (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "41,199,340 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "24,946,041"
+      },
+      "females age 16-49": {
+        "text": "31,409,069 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,538,865"
+      },
+      "female": {
+        "text": "1,666,670 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "discussions with India remain stalled to delimit a small section of river boundary, exchange territory for 51 small Bangladeshi exclaves in India and 111 small Indian exclaves in Bangladesh, allocate divided villages, and stop illegal cross-border trade, migration, violence, and transit of terrorists through the porous border; Bangladesh protests India's fencing and walling off high-traffic sections of the porous boundary; a joint Bangladesh-India boundary commission resurveyed and reconstructed 92 missing pillars in 2007; dispute with India over New Moore/South Talpatty/Purbasha Island in the Bay of Bengal deters maritime boundary delimitation; after 21 years, Bangladesh resumes talks with Burma on delimiting a maritime boundary"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "26,268 (Burma)"
+      },
+      "IDPs": {
+        "text": "65,000 (land conflicts, religious persecution) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit country for illegal drugs produced in neighboring countries"
+    }
+  }
+}

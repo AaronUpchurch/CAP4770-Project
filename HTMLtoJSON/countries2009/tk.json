@@ -1,0 +1,565 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The islands were part of the UK's Jamaican colony until 1962, when they assumed the status of a separate crown colony upon Jamaica's independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed and the islands remain a British overseas territory."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti"
+    },
+    "Geographic coordinates": {
+      "text": "21 45 N, 71 35 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "948 sq km"
+      },
+      "land": {
+        "text": "948 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "2.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "389 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; marine; moderated by trade winds; sunny and relatively dry"
+    },
+    "Terrain": {
+      "text": "low, flat limestone; extensive marshes and mangrove swamps"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Blue Hills 49 m"
+      }
+    },
+    "Natural resources": {
+      "text": "spiny lobster, conch"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.33%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "97.67% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "frequent hurricanes"
+    },
+    "Environment - current issues": {
+      "text": "limited natural fresh water resources, private cisterns collect rainwater"
+    },
+    "Geography - note": {
+      "text": "about 40 islands (eight inhabited)"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "22,942 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "30.2% (male 3,528/female 3,401)"
+      },
+      "15-64 years": {
+        "text": "65.6% (male 7,875/female 7,164)"
+      },
+      "65 years and over": {
+        "text": "4.2% (male 475/female 499) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "27.9 years"
+      },
+      "male": {
+        "text": "28.7 years"
+      },
+      "female": {
+        "text": "27.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.563% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "20.79 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.18 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "9.02 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "92% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.95 male(s)/female"
+      },
+      "total population": {
+        "text": "1.07 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "13.89 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "16.02 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "11.64 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.42 years"
+      },
+      "male": {
+        "text": "73.12 years"
+      },
+      "female": {
+        "text": "77.83 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.95 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "none"
+      },
+      "adjective": {
+        "text": "none"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 90%, mixed, European, or North American 10%"
+    },
+    "Religions": {
+      "text": "Baptist 40%, Anglican 18%, Methodist 16%, Church of God 12%, other 14% (1990)"
+    },
+    "Languages": {
+      "text": "English (official)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has ever attended school"
+      },
+      "total population": {
+        "text": "98%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "98% (1970 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "12 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "People - note": {
+      "text": "destination and transit point for illegal Haitian immigrants bound for the Turks and Caicos Islands, The Bahamas, and the US"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Turks and Caicos Islands"
+      },
+      "abbreviation": {
+        "text": "TCI"
+      }
+    },
+    "Dependency status": {
+      "text": "overseas territory of the UK"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Grand Turk (Cockburn Town)"
+      },
+      "geographic coordinates": {
+        "text": "21 28 N, 71 08 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in April; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Independence": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 30 August (1976)"
+    },
+    "Constitution": {
+      "text": "Turks and Caicos Islands Constitution (Interim Amendment) Order 2009, S.I. 2009/701 - effective 14 August 2009 - suspended Ministerial government, the House of Assembly, and the constitutional right to trial by jury, and imposed direct British rule"
+    },
+    "Legal system": {
+      "text": "based on laws of England and Wales with a few adopted from Jamaica and The Bahamas"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Gordon WETHERELL (since 5 August 2008)"
+      },
+      "head of government": {
+        "text": "Governor Gordon WETHERELL (since 14 August 2009); note - the office of premier is suspended by the Order in Council, effective 14 August 2009"
+      },
+      "cabinet": {
+        "text": "under provisions of the Order in Council, the cabinet is suspended effective 14 August 2009 and replaced by an Advisory Council appointed by the governor"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; governor appointed by the monarch"
+      },
+      "note": "following an investigation into allegations of widespread corruption and misconduct within the Turks and Caicos Government, the UK foreign minister directed the governor to bring into effect on 14 August 2009 an Order in Council suspending Ministerial government and the House of Assembly, and imposing direct rule for a period of up to two years"
+    },
+    "note": "following an investigation into allegations of widespread corruption and misconduct within the Turks and Caicos Government, the UK foreign minister directed the governor to bring into effect on 14 August 2009 an Order in Council suspending Ministerial government and the House of Assembly, and imposing direct rule for a period of up to two years",
+    "Legislative branch": {
+      "text": "under provisions of the Order in Council, the unicameral House of Assembly is dissolved and all seats vacated for a period of up to two years; in the interim, a Consultative Forum, appointed by the governor, will be established",
+      "elections": {
+        "text": "last held 9 February 2007 (next to be held by July 2011)"
+      },
+      "election results": {
+        "text": "under provisions of the Order in Council, all seats in the House of Assembly are vacated"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Court of Appeal"
+    },
+    "Political parties and leaders": {
+      "text": "People's Democratic Movement or PDM [Floyd SEYMOUR]; Progressive National Party or PNP [Michael Eugene MISICK]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "Caricom (associate), CDB, Interpol (subbureau), UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Flag description": {
+      "text": "blue, with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and contains a conch shell, lobster, and cactus"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the 175,000 visitors that arrived in 2004. Major sources of government revenue also include fees from offshore financial activities and customs receipts."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$216 million (2002 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$NA"
+    },
+    "GDP - real growth rate": {
+      "text": "4.9% (2000 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$11,500 (2002 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "4,848 (1990 est.)",
+      "note": "about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services"
+    },
+    "Labor force - by occupation": {},
+    "note": "about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services",
+    "Unemployment rate": {
+      "text": "10% (1997 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$47 million"
+      },
+      "expenditures": {
+        "text": "$33.6 million (1997-98 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4% (1995)"
+    },
+    "Agriculture - products": {
+      "text": "corn, beans, cassava (tapioca), citrus fruits; fish"
+    },
+    "Industries": {
+      "text": "tourism, offshore financial services"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "12 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "11.16 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "80 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$169.2 million (2000)"
+    },
+    "Exports - commodities": {
+      "text": "lobster, dried and fresh conch, conch shells"
+    },
+    "Imports": {
+      "text": "$175.6 million"
+    },
+    "Imports - commodities": {
+      "text": "food and beverages, tobacco, clothing, manufactures, construction materials"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3,700 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "25,100 (2004)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fully digital system with international direct dialing"
+      },
+      "domestic": {
+        "text": "full range of services available; GSM wireless service available"
+      },
+      "international": {
+        "text": "country code - 1-649; the Americas Region Caribbean Ring System (ARCOS-1) fiber optic telecommunications submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 7, shortwave 0 (2003)"
+    },
+    "Television broadcast stations": {
+      "text": "0 (broadcasts received from The Bahamas; 2 cable television networks) (2003)"
+    },
+    "Internet country code": {
+      "text": ".tc"
+    },
+    "Internet hosts": {
+      "text": "9,445 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "8 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "121 km"
+      },
+      "paved": {
+        "text": "24 km"
+      },
+      "unpaved": {
+        "text": "97 km (2003)"
+      }
+    },
+    "Merchant marine": {
+      "registered in other countries": {
+        "text": "1 (Panama 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Grand Turk, Providenciales"
+    }
+  },
+  "Military": {
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,937 "
+      },
+      "females age 16-49": {
+        "text": "4,648 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "226"
+      },
+      "female": {
+        "text": "218 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the UK"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "have received Haitians fleeing economic and civil disorder"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for South American narcotics destined for the US and Europe"
+    }
+  }
+}

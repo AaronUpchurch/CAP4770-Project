@@ -1,0 +1,712 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Formerly an independent kingdom, Madagascar became a French colony in 1896 but regained independence in 1960. During 1992-93, free presidential and National Assembly elections were held ending 17 years of single-party rule. In 1997, in the second presidential race, Didier RATSIRAKA, the leader during the 1970s and 1980s, was returned to the presidency. The 2001 presidential election was contested between the followers of Didier RATSIRAKA and Marc RAVALOMANANA, nearly causing secession of half of the country. In April 2002, the High Constitutional Court announced RAVALOMANANA the winner. RAVALOMANANA achieved a second term following a landslide victory in the generally free and fair presidential elections of 2006. In early 2009, protests due to increasing restrictions on opposition press and activities resulted in RAVALOMANANA stepping down and the presidency was conferred to the mayor of Antananarivo, Andry RAJOELINA. Following negotiations in July and August of 2009, a power-sharing agreement with a 15-month transitional period was established. Elections are expected in the fall of 2010."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, island in the Indian Ocean, east of Mozambique"
+    },
+    "Geographic coordinates": {
+      "text": "20 00 S, 47 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "587,041 sq km"
+      },
+      "land": {
+        "text": "581,540 sq km"
+      },
+      "water": {
+        "text": "5,501 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Arizona"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "4,828 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or 100 nm from the 2,500-m isobath"
+      }
+    },
+    "Climate": {
+      "text": "tropical along coast, temperate inland, arid in south"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain, high plateau and mountains in center"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Maromokotro 2,876 m"
+      }
+    },
+    "Natural resources": {
+      "text": "graphite, chromite, coal, bauxite, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "5.03%"
+      },
+      "permanent crops": {
+        "text": "1.02%"
+      },
+      "other": {
+        "text": "93.95% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10,860 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "337 cu km (1984)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "14.96  cu km/yr (3%/2%/96%)"
+      },
+      "per capita": {
+        "text": "804  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "periodic cyclones; drought; and locust infestation"
+    },
+    "Environment - current issues": {
+      "text": "soil erosion results from deforestation and overgrazing; desertification; surface water contaminated with raw sewage and other organic wastes; several endangered species of flora and fauna unique to the island"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "world's fourth-largest island; strategic location along Mozambique Channel"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "20,653,556 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.5% (male 4,523,033/female 4,460,473)"
+      },
+      "15-64 years": {
+        "text": "53.5% (male 5,483,684/female 5,557,098)"
+      },
+      "65 years and over": {
+        "text": "3% (male 280,677/female 348,591) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18 years"
+      },
+      "male": {
+        "text": "17.8 years"
+      },
+      "female": {
+        "text": "18.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "38.14 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.14 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "29% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "3.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.8 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "54.2 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "59.12 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "49.13 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "62.89 years"
+      },
+      "male": {
+        "text": "60.93 years"
+      },
+      "female": {
+        "text": "64.91 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.14 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "14,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 1,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "chikungunya, malaria, and plague"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Malagasy (singular and plural)"
+      },
+      "adjective": {
+        "text": "Malagasy"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Malayo-Indonesian (Merina and related Betsileo), Cotiers (mixed African, Malayo-Indonesian, and Arab ancestry - Betsimisaraka, Tsimihety, Antaisaka, Sakalava), French, Indian, Creole, Comoran"
+    },
+    "Religions": {
+      "text": "indigenous beliefs 52%, Christian 41%, Muslim 7%"
+    },
+    "Languages": {
+      "text": "English (official), French (official), Malagasy (official)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "68.9%"
+      },
+      "male": {
+        "text": "75.5%"
+      },
+      "female": {
+        "text": "62.5% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "9 years"
+      },
+      "male": {
+        "text": "10 years"
+      },
+      "female": {
+        "text": "9 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.1% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Madagascar "
+      },
+      "conventional short form": {
+        "text": "Madagascar"
+      },
+      "local long form": {
+        "text": "Republique de Madagascar/Repoblikan'i Madagasikara"
+      },
+      "local short form": {
+        "text": "Madagascar/Madagasikara"
+      },
+      "former": {
+        "text": "Malagasy Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Antananarivo"
+      },
+      "geographic coordinates": {
+        "text": "18 55 S, 47 31 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara"
+    },
+    "Independence": {
+      "text": "26 June 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 June (1960)"
+    },
+    "Constitution": {
+      "text": "passed by referendum 19 August 1992"
+    },
+    "Legal system": {
+      "text": "based on French civil law system and traditional Malagasy law; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Andry RAJOELINA (since 18 March 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Monja Roindefo ZAFITSIMIVALO (since 18 March 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held 3 December 2006 (next to be held in October 2011); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "percent of vote - Marc RAVALOMANANA 54.8%, Jean LAHINIRIKO 11.7%, Roland RATSIRAKA 10.1%, Herizo RAZAFIMAHALEO 9.1%, Norbert RATSIRAHONANA 4.2%, Ny Hasina ANDRIAMANJATO 4.2%, Elia RAVELOMANANTSOA 2.6%, Pety RAKOTONIAINA 1.7%, other 1.6%; note - RAVALOMANANA stepped down on 17 March 2009"
+      },
+      "note": ""
+    },
+    "note": "",
+    "Legislative branch": {
+      "text": "bicameral legislature consists of a Senate or Senat (100 seats; two-thirds of the seats filled by regional assemblies; the remaining one-third of seats appointed by the president; to serve four-year terms) and a National Assembly or Assemblee Nationale (127 seats - reduced from 160 seats by an April 2007 national referendum; members are elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "National Assembly - last held 23 September 2007 (next to be held in late 2010); note - a power-sharing agreement in the summer of 2009 established a 15-month transition, concluding in general elections"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - NA; seats by party - TIM 106, LEADER/Fanilo 1, independents 20"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour Supreme; High Constitutional Court or Haute Cour Constitutionnelle"
+    },
+    "Political parties and leaders": {
+      "text": "Association for the Rebirth of Madagascar or AREMA [Pierrot RAJAONARIVELO]; Democratic Party for Union in Madagascar or PSDUM [Jean LAHINIRIKO]; Economic Liberalism and Democratic Action for National Recovery or LEADER/Fanilo [Herizo RAZAFIMAHALEO]; Fihaonana Party or FP [Guy-Willy RAZANAMASY]; I Love Madagascar or TIM [Marc RAVALOMANANA]; Renewal of the Social Democratic Party or RPSD [Evariste MARSON]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Committee for the Defense of Truth and Justice or KMMR; Committee for National Reconciliation or CRN [Albert Zafy]; National Council of Christian Churches or FFKM"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Jocelyn Bertin RADIFERA"
+      },
+      "chancery": {
+        "text": "2374 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-5525 through 5526"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-3034"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador R. Niels MARQUARDT"
+      },
+      "embassy": {
+        "text": "14-16 Rue Rainitovo, Antsahavola, Antananarivo 101"
+      },
+      "mailing address": {
+        "text": "B. P. 620, Antsahavola, Antananarivo"
+      },
+      "telephone": {
+        "text": "[261] (20) 22-212-57, 22-212-73, 22-209-56"
+      },
+      "FAX": {
+        "text": "[261] (20) 22-345-39"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Having discarded past socialist economic policies, Madagascar has since the mid 1990s followed a World Bank- and IMF-led policy of privatization and liberalization. This strategy placed the country on a slow and steady growth path from an extremely low level. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing 80% of the population. Exports of apparel have boomed in recent years primarily due to duty-free access to the US. Deforestation and erosion, aggravated by the use of firewood as the primary source of fuel, are serious concerns. President RAVALOMANANA has worked aggressively to revive the economy following the 2002 political crisis, which triggered a 12% drop in GDP that year. Poverty reduction and combating corruption will be the centerpieces of economic policy for the next few years."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$17.76 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$9.463 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "26.2%"
+      },
+      "industry": {
+        "text": "15.2%"
+      },
+      "services": {
+        "text": "58.5% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "9.504 million (2007)"
+    },
+    "Population below poverty line": {
+      "text": "50% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "41.5% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "38.1 (1999)"
+    },
+    "Investment (gross fixed)": {
+      "text": "26.6% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.612 billion"
+      },
+      "expenditures": {
+        "text": "$2.05 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "10.3% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "45% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.161 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$577.4 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$767.5 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "coffee, vanilla, sugarcane, cloves, cocoa, rice, cassava (tapioca), beans, bananas, peanuts; livestock products"
+    },
+    "Industries": {
+      "text": "meat processing, seafood, soap, breweries, tanneries, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "3% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "1.045 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "971.4 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "84.57 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "20,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "364.9 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "16,940 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2006 est.)"
+    },
+    "Current account balance": {
+      "text": "-$807 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$1.095 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coffee, vanilla, shellfish, sugar, cotton cloth, chromite, petroleum products"
+    },
+    "Exports - partners": {
+      "text": "France 38.9%, US 20.3%, Germany 5% (2008)"
+    },
+    "Imports": {
+      "text": "$1.944 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "capital goods, petroleum, consumer goods, food"
+    },
+    "Imports - partners": {
+      "text": "China 20.1%, Bahrain 8.7%, France 6.3%, South Africa 5.7%, US 4.9%, India 4.4% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$846.7 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$4.6 billion (2002)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Malagasy ariary (MGA) per US dollar - 1,654.78 (2008 est.), 1,880 (2007), 2,161.4 (2006), 2,003 (2005), 1,868.9 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "164,900 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "4.835 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "system is above average for the region; Antananarivo's main telephone exchange modernized in the late 1990s, but the rest of the analogue-based telephone system is poorly developed; have added new fixed lines since 2005"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile telephone density about 25 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 261; submarine cable to Bahrain; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 9, shortwave 6 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (plus 36 repeaters) (2001)"
+    },
+    "Internet country code": {
+      "text": ".mg"
+    },
+    "Internet hosts": {
+      "text": "27,807 (2009)"
+    },
+    "Internet users": {
+      "text": "316,100 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "89 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "27"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "17"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "62"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "39"
+      },
+      "under 914 m": {
+        "text": "21 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "854 km"
+      },
+      "narrow gauge": {
+        "text": "854 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "65,663 km"
+      },
+      "paved": {
+        "text": "7,617 km"
+      },
+      "unpaved": {
+        "text": "58,046 km (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "600 km",
+      "note": "432 km navigable (2008)"
+    },
+    "note": "432 km navigable (2008)",
+    "Merchant marine": {
+      "total": {
+        "text": "8"
+      },
+      "by type": {
+        "text": "cargo 4, passenger/cargo 2, petroleum tanker 2 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Antsiranana, Mahajanga, Toamasina, Toliara"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "People's Armed Forces": {
+        "text": "Intervention Force, Development Force, and Aeronaval Force (navy and air); National Gendarmerie"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for male-only compulsory military service; 18-month conscript service obligation (either military or equivalent civil service); 20-30 years of age for National Gendarmerie recruits (35 years of age for those with military experience) (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "4,443,341"
+      },
+      "females age 16-49": {
+        "text": "4,441,124 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "3,150,043"
+      },
+      "females age 16-49": {
+        "text": "3,404,988 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "236,500"
+      },
+      "female": {
+        "text": "235,994 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France)"
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for heroin"
+    }
+  }
+}

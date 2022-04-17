@@ -1,0 +1,753 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been taken over by a European power. A bloodless revolution in 1932 led to a constitutional monarchy. In alliance with Japan during World War II, Thailand became a US treaty ally following the conflict. A military coup in September 2006 ousted then Prime Minister THAKSIN Chinnawat. The interim government held elections in December 2007 that saw the former pro-THAKSIN People's Power Party (PPP) emerge at the head of a coalition government. The anti-THAKSIN People's Alliance for Democracy (PAD) in May 2008 began street demonstrations against the new government, eventually occupying the prime minister's office in August. Clashes in October 2008 between PAD protesters blocking parliament and police resulted in the death of at least two people. The PAD occupied Bangkok's international airports briefly, ending their protests in early December 2008 following a court ruling that dissolved the ruling PPP and two other coalition parties for election violations. The Democrat Party then formed a new coalition government with the support of some of THAKSIN's former political allies, and ABHISIT Wetchachiwa became prime minister. Since January 2004, thousands have been killed as separatists in Thailand's southern ethnic Malay-Muslim provinces increased the violence associated with their cause."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, bordering the Andaman Sea and the Gulf of Thailand, southeast of Burma"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 N, 100 00 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "513,120 sq km"
+      },
+      "land": {
+        "text": "510,890 sq km"
+      },
+      "water": {
+        "text": "2,230 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of Wyoming"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,863 km"
+      },
+      "border countries": {
+        "text": "Burma 1,800 km, Cambodia 803 km, Laos 1,754 km, Malaysia 506 km"
+      }
+    },
+    "Coastline": {
+      "text": "3,219 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid"
+    },
+    "Terrain": {
+      "text": "central plain; Khorat Plateau in the east; mountains elsewhere"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Gulf of Thailand 0 m"
+      },
+      "highest point": {
+        "text": "Doi Inthanon 2,576 m"
+      }
+    },
+    "Natural resources": {
+      "text": "tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite, fluorite, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "27.54%"
+      },
+      "permanent crops": {
+        "text": "6.93%"
+      },
+      "other": {
+        "text": "65.53% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "49,860 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "409.9 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "82.75  cu km/yr (2%/2%/95%)"
+      },
+      "per capita": {
+        "text": "1,288  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "land subsidence in Bangkok area resulting from the depletion of the water table; droughts"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from vehicle emissions; water pollution from organic and factory wastes; deforestation; soil erosion; wildlife populations threatened by illegal hunting"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "controls only land route from Asia to Malaysia and Singapore"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "65,905,410",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "20.8% (male 7,009,845/female 6,691,470)"
+      },
+      "15-64 years": {
+        "text": "70.5% (male 22,977,945/female 23,512,538)"
+      },
+      "65 years and over": {
+        "text": "8.7% (male 2,594,387/female 3,119,225) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "33.3 years"
+      },
+      "male": {
+        "text": "32.4 years"
+      },
+      "female": {
+        "text": "34.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.615% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "13.4 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.25 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "33% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.7% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.83 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "17.63 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "18.9 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "16.3 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.1 years"
+      },
+      "male": {
+        "text": "70.77 years"
+      },
+      "female": {
+        "text": "75.55 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.65 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.4% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "610,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "30,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever, Japanese encephalitis, and malaria"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "water contact disease": {
+        "text": "leptospirosis"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Thai (singular and plural)"
+      },
+      "adjective": {
+        "text": "Thai"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Thai 75%, Chinese 14%, other 11%"
+    },
+    "Religions": {
+      "text": "Buddhist 94.6%, Muslim 4.6%, Christian 0.7%, other 0.1% (2000 census)"
+    },
+    "Languages": {
+      "text": "Thai, English (secondary language of the elite), ethnic and regional dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "92.6%"
+      },
+      "male": {
+        "text": "94.9%"
+      },
+      "female": {
+        "text": "90.5% (2000 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "14 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "14 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.2% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Thailand "
+      },
+      "conventional short form": {
+        "text": "Thailand"
+      },
+      "local long form": {
+        "text": "Ratcha Anachak Thai"
+      },
+      "local short form": {
+        "text": "Prathet Thai"
+      },
+      "former": {
+        "text": "Siam"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bangkok"
+      },
+      "geographic coordinates": {
+        "text": "13 45 N, 100 31 E"
+      },
+      "time difference": {
+        "text": "UTC+7 (12 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "76 provinces (changwat, singular and plural); Amnat Charoen, Ang Thong, Buriram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep Mahanakhon (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Sara Buri, Satun, Sing Buri, Sisaket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon"
+    },
+    "Independence": {
+      "text": "1238 (traditional founding date; never colonized)"
+    },
+    "National holiday": {
+      "text": "Birthday of King PHUMIPHON (BHUMIBOL), 5 December (1927)"
+    },
+    "Constitution": {
+      "text": "24 August 2007"
+    },
+    "Legal system": {
+      "text": "based on civil law system with influences of common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King PHUMIPHON Adunyadet, also spelled BHUMIBOL Adulyadej (since 9 June 1946)"
+      },
+      "head of government": {
+        "text": "Prime Minister ABHISIT Wetchachiwa, also spelled ABHISIT Vejjajiva (since 17 December 2008); Deputy Prime Minister KORBSAK Saphawasu, also spelled KORBSAK Sabhavasu (since 22 December 2008); Deputy Prime Minister SANAN Kachornprasat, also spelled SANAN Kachornparsart (since 7 February 2008); Deputy Prime Minister SUTHEP Thueaksuban, also spelled SUTHEP Thaugsuban (since 22 December 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers"
+      },
+      "note": "there is also a Privy Council advising the king",
+      "elections": {
+        "text": "monarch is hereditary; according to 2007 constitution, prime minister is elected from among members of House of Representatives; following national elections for House of Representatives, leader of party that could organize a majority coalition usually was appointed prime minister by king; prime minister is limited to two 4-year terms"
+      }
+    },
+    "note": "74 senators were appointed on 19 February 2008 by a seven-member committee headed by the chief of the Constitutional Court; 76 senators were elected on 2 March 2008; elections to the Senate are non-partisan; registered political party members are disqualified from being senators",
+    "Legislative branch": {
+      "text": "bicameral National Assembly or Rathasapha consisted of the Senate or Wuthisapha (150 seats; 76 members elected by popular vote representing 76 provinces, 74 appointed by judges and independent government bodies; all serve six-year terms) and the House of Representatives or Sapha Phuthaen Ratsadon (480 seats; 400 members elected from 157 multi-seat constituencies and 80 elected on proportional party-list basis of 10 per eight zones or groupings of provinces; all serve four-year terms)",
+      "elections": {
+        "text": "Senate - last held on 2 March 2008 (next to be held in March 2014); House of Representatives - last election held on 23 December 2007 (next to be held by December 2011)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - NA; House of Representatives - percent of vote by party - NA; seats by party - PPP 233, DP 164, TNP 34, Motherland 24, Middle Way 11, Unity 9, Royalist People's 5"
+      },
+      "note": "74 senators were appointed on 19 February 2008 by a seven-member committee headed by the chief of the Constitutional Court; 76 senators were elected on 2 March 2008; elections to the Senate are non-partisan; registered political party members are disqualified from being senators"
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Sandika (judges appointed by the monarch)"
+    },
+    "Political parties and leaders": {
+      "text": "Chat Thai Phattana Party or CP (Thai Nation Development Party) [CHUMPON Silpa-archa]; Democrat Party or DP (Prachathipat Party) [ABHISIT Wetchachiwa, also spelled ABHISIT Vejjajiva]; Motherland Party (Phuea Phaendin Party) [CHANCHAI Chairungrueang]; Phuea Thai Party (For Thais Party) or PTP [CHAVALIT Yongchaiyudh]; Phumchai (Bhumjai) Thai Party or PCT (Thai Pride) [CHAVARAT Charnvirakul]; Royalist People's Party (Pracharaj) [SANOH Thienthong]; Ruam Jai Thai Party (Thai Unity Party) [WANNARAT Channukul]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "People's Alliance for Democracy or PAD; United Front for Democracy Against Dictatorship"
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, APT, ARF, ASEAN, BIMSTEC, BIS, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMIS, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador DON Pramudwinai"
+      },
+      "chancery": {
+        "text": "1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 944-3600"
+      },
+      "FAX": {
+        "text": "[1] (202) 944-3611"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Eric G. JOHN"
+      },
+      "embassy": {
+        "text": "120-122 Wireless Road, Bangkok 10330"
+      },
+      "mailing address": {
+        "text": "APO AP 96546"
+      },
+      "telephone": {
+        "text": "[66] (2) 205-4000"
+      },
+      "FAX": {
+        "text": "[66] (2) 254-2990, 205-4131"
+      },
+      "consulate(s) general": {
+        "text": "Chiang Mai"
+      }
+    },
+    "Flag description": {
+      "text": "five horizontal bands of red (top), white, blue (double width), white, and red"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "With a well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand was one of East Asia's best performers from 2002-04, averaging more than 6% annual real GDP growth. However, overall economic growth has fallen sharply - averaging 4.9% from 2005 to 2007 - as persistent political crisis stalled infrastructure mega-projects, eroded investor and consumer confidence, and damaged the country's international image. The growth rate fell to 2.6% in 2008. Exports were the key economic driver as foreign investment and consumer demand stalled. Export growth from January 2005 to November 2008 averaged 17.5% annually. Business uncertainty escalated, however, following the September 2006 coup when the military-installed government imposed capital controls and considered far-reaching changes to foreign investment rules and other business legislation. Although controversial capital controls have since been lifted and business rules largely remain unchanged, investor sentiment has not recovered. Moreover, the 2008 global financial crisis further darkened Thailand's economic horizon. Continued political uncertainty will hamper resumption of infrastructure mega-projects."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$509.8 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$273.3 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "11.6%"
+      },
+      "industry": {
+        "text": "45.1%"
+      },
+      "services": {
+        "text": "43.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "37.78 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "42.6%"
+      },
+      "industry": {
+        "text": "20.2%"
+      },
+      "services": {
+        "text": "37.1% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1.4% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "10% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "33.7% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "42 (2002)"
+    },
+    "Investment (gross fixed)": {
+      "text": "27.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$48.24 billion"
+      },
+      "expenditures": {
+        "text": "$51.33 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "47.6% of GDP (November 2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.2% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "3.75% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.25% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$28.63 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$224.9 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$263.5 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$141.1 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "rice, cassava (tapioca), rubber, corn, sugarcane, coconuts, soybeans"
+    },
+    "Industries": {
+      "text": "tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts; world's second-largest tungsten producer and third-largest tin producer"
+    },
+    "Industrial production growth rate": {
+      "text": "3.4% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "135.2 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "129.5 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "773 million kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.784 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "361,300 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "942,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "216,400 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "826,000 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "441 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "28.76 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "37.31 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "8.55 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "317.1 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$15.76 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$150 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "textiles and footwear, fishery products, rice, rubber, jewelry, automobiles, computers and electrical appliances"
+    },
+    "Exports - partners": {
+      "text": "US 11.4%, Japan 11.4%, China 9.2%, Singapore 5.7%, Hong Kong 5.6%, Malaysia 5.6%, Australia 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$124.5 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "capital goods, intermediate goods and raw materials, consumer goods, fuels"
+    },
+    "Imports - partners": {
+      "text": "Japan 18.8%, China 11.2%, US 6.4%, UAE 6%, Malaysia 5.5%, Saudi Arabia 4.1%, Singapore 4% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$87.46 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$61.74 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$80.83 billion (2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$7.013 billion (2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "baht per US dollar - 33.37 (2008 est.), 34.52 (2007), 37.882 (2006), 40.22 (2005), 40.222 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "7.024 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "62 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "high quality system, especially in urban areas like Bangkok"
+      },
+      "domestic": {
+        "text": "fixed line system provided by both a government owned and commercial provider; wireless service expanding rapidly and outpacing fixed lines"
+      },
+      "international": {
+        "text": "country code - 66; connected to major submarine cable systems providing links throughout Asia, Australia, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 238, FM 351, shortwave 6 (2007)"
+    },
+    "Television broadcast stations": {
+      "text": "111 (2006)"
+    },
+    "Internet country code": {
+      "text": ".th"
+    },
+    "Internet hosts": {
+      "text": "1.231 million (2009)"
+    },
+    "Internet users": {
+      "text": "16.1 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "105 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "64"
+      },
+      "over 3,047 m": {
+        "text": "8"
+      },
+      "2,438 to 3,047 m": {
+        "text": "11"
+      },
+      "1,524 to 2,437 m": {
+        "text": "24"
+      },
+      "914 to 1,523 m": {
+        "text": "15"
+      },
+      "under 914 m": {
+        "text": "6 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "41"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "13"
+      },
+      "under 914 m": {
+        "text": "27 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "4 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 1,348 km; refined products 323 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "4,071 km"
+      },
+      "standard gauge": {
+        "text": "29 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "4,042 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "180,053 km (includes 450 km of expressways) (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "4,000 km",
+      "note": "3,701 km navigable by boats with drafts up to 0.9 m (2008)"
+    },
+    "note": "3,701 km navigable by boats with drafts up to 0.9 m (2008)",
+    "Merchant marine": {
+      "total": {
+        "text": "398"
+      },
+      "by type": {
+        "text": "bulk carrier 53, cargo 135, chemical tanker 15, container 22, liquefied gas 28, passenger/cargo 10, petroleum tanker 100, refrigerated cargo 32, specialized tanker 2, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "16 (China 1, Japan 4, Malaysia 3, Singapore 2, Taiwan 1, UK 5)"
+      },
+      "registered in other countries": {
+        "text": "40 (Bahamas 5, Mongolia 1, Panama 10, Singapore 23, Tuvalu 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bangkok, Laem Chabang, Prachuap Port, Si Racha"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN, includes Royal Thai Marine Corps), Royal Thai Air Force (Kongtap Agard Thai, RTAF) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "21 years of age for compulsory military service; 18 years of age for voluntary military service; males are registered at 18 years of age; 2-year conscript service obligation (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "17,553,410"
+      },
+      "females age 16-49": {
+        "text": "17,751,268 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "13,086,106"
+      },
+      "females age 16-49": {
+        "text": "14,126,398 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "532,977"
+      },
+      "female": {
+        "text": "510,737 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.8% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "separatist violence in Thailand's predominantly Muslim southern provinces prompt border closures and controls with Malaysia to stem terrorist activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities, and as of 2006, over 116,000 Karen, Hmong, and other refugees and asylum seekers from Burma; Cambodia and Thailand dispute sections of historic boundary with missing boundary markers; Cambodia claims Thai encroachments into Cambodian territory and obstructing access to Preah Vihear temple ruins awarded to Cambodia by ICJ decision in 1962; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "132,241 (Burma) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "a minor producer of opium, heroin, and marijuana; transit point for illicit heroin en route to the international drug market from Burma and Laos; eradication efforts have reduced the area of cannabis cultivation and shifted some production to neighboring countries; opium poppy cultivation has been reduced by eradication efforts; also a drug money-laundering center; minor role in methamphetamine production for regional consumption; major consumer of methamphetamine since the 1990s despite a series of government crackdowns\r\n"
+    }
+  }
+}

@@ -1,0 +1,821 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The French colonies of Senegal and the French Sudan were merged in 1959 and granted their independence as the Mali Federation in 1960. The union broke up after only a few months. Senegal joined with The Gambia to form the nominal confederation of Senegambia in 1982. The envisaged integration of the two countries was never carried out, and the union was dissolved in 1989. The Movement of Democratic Forces in the Casamance (MFDC) has led a low-level separatist insurgency in southern Senegal since the 1980s, and several peace deals have failed to resolve the conflict. Nevertheless, Senegal remains one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. Senegal was ruled by a Socialist Party for 40 years until current President Abdoulaye WADE was elected in 2000. He was reelected in February 2007 and has amended Senegal's constitution over a dozen times to increase executive power and to weaken the opposition, part of the president's increasingly autocratic governing style. His attempt to change the constitution in June 2011 prompted large public protests and there is speculation that he is planning to run for a third term, despite the constitutional limit of two terms."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Mauritania"
+    },
+    "Geographic coordinates": {
+      "text": "14 00 N, 14 00 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "196,722 sq km"
+      },
+      "land": {
+        "text": "192,530 sq km"
+      },
+      "water": {
+        "text": "4,192 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Dakota"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,640 km"
+      },
+      "border countries": {
+        "text": "The Gambia 740 km, Guinea 330 km, Guinea-Bissau 338 km, Mali 419 km, Mauritania 813 km"
+      }
+    },
+    "Coastline": {
+      "text": "531 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind"
+    },
+    "Terrain": {
+      "text": "generally low, rolling, plains rising to foothills in southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "unnamed elevation southwest of Kedougou 581 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, phosphates, iron ore"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "12.51%"
+      },
+      "permanent crops": {
+        "text": "0.24%"
+      },
+      "other": {
+        "text": "87.25% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,200 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "39.4 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.22  cu km/yr (4%/3%/93%)"
+      },
+      "per capita": {
+        "text": "190  cu m/yr (2002)"
+      }
+    },
+    "Natural hazards": {
+      "text": "lowlands seasonally flooded; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "wildlife populations threatened by poaching; deforestation; overgrazing; soil erosion; desertification; overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "westernmost country on the African continent; The Gambia is almost an enclave within Senegal"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Senegalese (singular and plural) "
+      },
+      "adjective": {
+        "text": "Senegalese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Wolof 43.3%, Pular 23.8%, Serer 14.7%, Jola 3.7%, Mandinka 3%, Soninke 1.1%, European and Lebanese 1%, other 9.4%"
+    },
+    "Languages": {
+      "text": "French (official), Wolof, Pulaar, Jola, Mandinka"
+    },
+    "Religions": {
+      "text": "Muslim 94%, Christian 5% (mostly Roman Catholic), indigenous beliefs 1%"
+    },
+    "Population": {
+      "text": "12,643,799 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.3% (male 2,748,457/female 2,722,633)"
+      },
+      "15-64 years": {
+        "text": "53.9% (male 3,200,056/female 3,611,173)"
+      },
+      "65 years and over": {
+        "text": "2.9% (male 166,577/female 194,903) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18 years"
+      },
+      "male": {
+        "text": "17.2 years"
+      },
+      "female": {
+        "text": "18.9 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.557% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "36.73 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "9.26 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.9 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "42% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "3.3% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "DAKAR (capital) 2.777 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.87 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "410 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "56.42 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "62.94 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "49.7 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "59.78 years"
+      },
+      "male": {
+        "text": "57.85 years"
+      },
+      "female": {
+        "text": "61.77 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "4.78 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "5.7% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.059 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "0.34 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "8% of population"
+      },
+      "rural": {
+        "text": "48% of population"
+      },
+      "total": {
+        "text": "31% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "31% of population"
+      },
+      "rural": {
+        "text": "62% of population"
+      },
+      "total": {
+        "text": "49% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.9% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "59,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "2,600 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "Crimean-Congo hemorrhagic fever, dengue fever, malaria, Rift Valley fever, and yellow fever"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "respiratory disease": {
+        "text": "meningococcal meningitis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "14.5% (2005)"
+    },
+    "Education expenditures": {
+      "text": "5.8% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "39.3%"
+      },
+      "male": {
+        "text": "51.1%"
+      },
+      "female": {
+        "text": "29.2% (2002 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "8 years"
+      },
+      "male": {
+        "text": "8 years"
+      },
+      "female": {
+        "text": "7 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "14.8%"
+      },
+      "male": {
+        "text": "11.9%"
+      },
+      "female": {
+        "text": "20.1% (2006)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Senegal "
+      },
+      "conventional short form": {
+        "text": "Senegal"
+      },
+      "local long form": {
+        "text": "Republique du Senegal"
+      },
+      "local short form": {
+        "text": "Senegal"
+      },
+      "former": {
+        "text": "Senegambia (along with The Gambia), Mali Federation"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dakar"
+      },
+      "geographic coordinates": {
+        "text": "14 40 N, 17 26 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 regions (regions, singular - region); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor"
+    },
+    "Independence": {
+      "text": "4 April 1960 (from France); note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960"
+    },
+    "National holiday": {
+      "text": "Independence Day, 4 April (1960)"
+    },
+    "Constitution": {
+      "text": "adopted 7 January 2001; amended many times"
+    },
+    "Legal system": {
+      "text": "civil law system based on French law; judicial review of legislative acts in Constitutional Court"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Abdoulaye WADE (since 1 April 2000)"
+      },
+      "head of government": {
+        "text": "Prime Minister Soulayemane Ndene NDIAYE (since 1 May 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister in consultation with the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term) under new constitution; election last held on 25 February 2007 (next to be held in 2012); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Abdoulaye WADE reelected president; percent of vote - Abdoulaye WADE 55.9%, Idrissa SECK 14.9%, Ousmane Tanor DIENG 13.6%, Moustapha NIASSE 5.9%, other 9.7%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consisting of the Senate, reinstituted in 2007, (100 seats; 35 members indirectly elected and 65 members appointed by the president) and the National Assembly or Assemblee Nationale (150 seats; 90 members elected by direct popular vote and 60 elected by proportional representation from party lists to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held on 19 August 2007 (next to be held - NA); National Assembly - last held on 3 June 2007 (next to be held in 2012); note - the National Assembly in December 2005 voted to postpone legislative elections originally scheduled for 2006; legislative elections were first rescheduled to coincide with the 25 February 2007 presidential elections and later for 3 June 2007; the election was boycotted by 12 opposition parties, including the former ruling Socialist Party, which resulted in a record-low 35% voter turnout"
+      },
+      "election results": {
+        "text": "Senate results - percent of vote by party - NA; seats by party - PDS 34, AJ/PADS 1, 65 appointed by the president; National Assembly results - percent of vote by party - NA; seats by party - SOPI Coalition 131, other 19"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; Council of State; Court of Final Appeals or Cour de Cassation; Court of Appeals"
+    },
+    "Political parties and leaders": {
+      "text": "African Party of Independence [Majhemout DIOP]; Alliance for the Republic-Yakaar [Macky SALL]; Alliance of Forces of Progress or AFP [Moustapha NIASSE]; And-Jef/African Party for Democracy and Socialism or AJ/PADS [Landing SAVANE]; Benno Siggil Senegal (a coalition of opposition parties); Democratic League-Labor Party Movement or LD-MPT [Dr. Abdoulaye BATHILY]; Front for Socialism and Democracy/Benno Jubel or FSD/BJ [Cheikh Abdoulaye Bamba DIEYE]; Gainde Centrist Bloc or BGC [Jean-Paul DIAS]; Independence and Labor Party or PIT [Amath DANSOKHO]; Jef-Jel [Talla SYLLA]; National Democratic Rally or RND [Madior DIOUF]; People's Labor Party or PTP [El Hadji DIOUF]; Reform Party or PR [Abdourahim AGNE]; Rewmi Party [Idrissa SECK]; Senegalese Democratic Party or PDS [Abdoulaye WADE]; Socialist Party or PS [Ousmane Tanor DIENG]; SOPI Coalition [Abdoulaye WADE] (a coalition led by the PDS); Synergy for Ethics and Transparency [Aminata TALL]; Union for Democratic Renewal or URD [Djibo Leyti KA]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "labor; students; Sufi brotherhoods, including the Mourides and Tidjanes; teachers"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CPLP (associate), ECOWAS, FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, Union Latina, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Fatou Danielle DIAGNE"
+      },
+      "chancery": {
+        "text": "2112 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-0540"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-6315"
+      },
+      "consulate(s) general": {
+        "text": "Houston, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Lewis LUKENS"
+      },
+      "embassy": {
+        "text": "Avenue Jean XXIII at the corner of Rue Kleber, Dakar"
+      },
+      "mailing address": {
+        "text": "B. P. 49, Dakar"
+      },
+      "telephone": {
+        "text": "[221] 33-829-2100"
+      },
+      "FAX": {
+        "text": "[221] 33-822-2991"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope",
+      "note": "uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Mali and the reverse of those on the flag of neighboring Guinea"
+    },
+    "note": "adopted 1960; the lyrics were written by Leopold Sedar SENGHOR, Senegal's first president; the anthem is sometimes played incorporating the Koras (harp-like stringed instruments) and Balafons (types of xylophones) mentioned in the title",
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Pincez Tous vos Koras, Frappez les Balafons\" (Pluck Your Koras, Strike the Balafons)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Leopold Sedar SENGHOR/Herbert PEPPER"
+      },
+      "note": "adopted 1960; the lyrics were written by Leopold Sedar SENGHOR, Senegal's first president; the anthem is sometimes played incorporating the Koras (harp-like stringed instruments) and Balafons (types of xylophones) mentioned in the title"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Senegal relies heavily on donor assistance. The country's key export industries are phosphate mining, fertilizer production, and commercial fishing. The country is also working on iron ore and oil exploration projects. In January 1994, Senegal undertook a bold and ambitious economic reform program with the support of the international donor community. Government price controls and subsidies have been steadily dismantled. After seeing its economy contract by 2.1% in 1993, Senegal made an important turnaround, thanks to the reform program, with real growth in GDP averaging over 5% annually during 1995-2007. Annual inflation had been pushed down to the single digits. The country was adversely affected by the global economic downturn in 2009 and GDP growth fell below 2%. As a member of the West African Economic and Monetary Union (WAEMU), Senegal is working toward greater regional integration with a unified external tariff and a more stable monetary policy. High unemployment, however, continues to prompt illegal migrants to flee Senegal in search of better job opportunities in Europe. Under the IMF's Highly Indebted Poor Countries (HIPC) debt relief program, Senegal benefited from eradication of two-thirds of its bilateral, multilateral, and private-sector debt. In 2007, Senegal and the IMF agreed to a new, non-disbursing, Policy Support Initiative program which was completed in 2010. Senegal received its first disbursement from the $540 million Millennium Challenge Account compact it signed in September 2009 for infrastructure and agriculture development. In 2010, the Senegalese people protested against frequent power cuts. The government pledged to expand capacity by 2012 and to promote renewable energy but until Senegal has more capacity, more protests are likely and economic activity will be hindered. During the year, bakers protested government price controls on bread. Foreign investment in Senegal is constrained by Senegal's business environment, which has slipped in recent years, and by perceptions of corruption."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$22.42 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$12.88 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.2% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,900 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "15.9%"
+      },
+      "industry": {
+        "text": "21.7%"
+      },
+      "services": {
+        "text": "62.4% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "5.532 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "77.5%"
+      },
+      "industry and services": {
+        "text": "22.5% (2007 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "48% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "54% (2001 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.5%"
+      },
+      "highest 10%": {
+        "text": "30.1% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "41.3 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "25.3% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.829 billion"
+      },
+      "expenditures": {
+        "text": "$3.5 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "22% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.2% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "31.7% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-1.1% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.5% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.987 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$4.882 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.511 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "peanuts, millet, corn, sorghum, rice, cotton, tomatoes, green vegetables; cattle, poultry, pigs; fish"
+    },
+    "Industries": {
+      "text": "agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining; iron ore, zircon, and gold mining, construction materials, ship construction and repair"
+    },
+    "Industrial production growth rate": {
+      "text": "3.2% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "2.232 billion kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.763 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "65 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "41,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "4,550 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "36,290 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "50 million cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "50 million cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.261 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$1.892 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "fish, groundnuts (peanuts), petroleum products, phosphates, cotton"
+    },
+    "Exports - partners": {
+      "text": "Mali 21.6%, India 9.6%, France 4.5%, Gambia, The 4.2% (2010)"
+    },
+    "Imports": {
+      "text": "$4.543 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food and beverages, capital goods, fuels"
+    },
+    "Imports - partners": {
+      "text": "France 15.9%, UK 13.6%, China 8.6%, Nigeria 8.6%, Netherlands 5.2% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.123 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.503 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "522.89 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "341,900 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "8.344 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "good system with microwave radio relay, coaxial cable and fiber-optic cable in trunk system"
+      },
+      "domestic": {
+        "text": "above-average urban system with a fiber-optic network; nearly two-thirds of all fixed-line connections are in Dakar where a call-center industry is emerging; expansion of fixed-line services in rural areas needed; mobile-cellular service is expanding rapidly"
+      },
+      "international": {
+        "text": "country code - 221; the SAT-3/WASC fiber-optic cable provides connectivity to Europe and Asia while Atlantis-2 provides connectivity to South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2007)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run Radiodiffusion Television Senegalaise (RTS) operates 2 TV stations; a few private TV subscription channels rebroadcast foreign channels without providing any local news or programs; RTS operates a national radio network and a number of regional FM stations; a large number of community and private-broadcast radio stations are available; transmissions of at least 2 international broadcasters are accessible on FM in Dakar (2007)"
+    },
+    "Internet country code": {
+      "text": ".sn"
+    },
+    "Internet hosts": {
+      "text": "241 (2010)"
+    },
+    "Internet users": {
+      "text": "1.818 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "20 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 43 km; refined products 8 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "906 km"
+      },
+      "narrow gauge": {
+        "text": "906 km 1.000-m gauge (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "14,008 km"
+      },
+      "paved": {
+        "text": "4,099 km (includes 7 km of expressways)"
+      },
+      "unpaved": {
+        "text": "9,909 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "1,000 km (primarily on the Senegal, Saloum, and Casamance rivers) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "passenger/cargo 1 (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Dakar"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Senegalese Armed Forces": {
+        "text": "Army, Senegalese Navy (Marine Senegalaise), Senegalese Air Force (Armee de l'Air du Senegal) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; 20 years of age for selective conscript service; service obligation - 2 years; women have been accepted into military service since 2008 (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,699,196"
+      },
+      "females age 16-49": {
+        "text": "3,018,565 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,788,493"
+      },
+      "females age 16-49": {
+        "text": "2,133,370 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "145,509"
+      },
+      "female": {
+        "text": "145,064 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "The Gambia and Guinea-Bissau attempt to stem separatist violence, cross border raids, and arms smuggling into their countries from Senegal's Casamance region, and in 2006, respectively accepted 6,000 and 10,000 Casamance residents fleeing the conflict; 2,500 Guinea-Bissau residents fled into Senegal in 2006 to escape armed confrontations along the border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "19,630 (Mauritania)"
+      },
+      "IDPs": {
+        "text": "22,400 (approximately 65% of the IDP population returned in 2005, but new displacement is occurring due to clashes between government troops and separatists in Casamance region) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for Southwest and Southeast Asian heroin and South American cocaine moving to Europe and North America; illicit cultivator of cannabis"
+    }
+  }
+}

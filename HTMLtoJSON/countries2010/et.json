@@ -1,0 +1,748 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Unique among African countries, the ancient Ethiopian monarchy maintained its freedom from colonial rule with the exception of a short-lived Italian occupation from 1936-41. In 1974, a military junta, the Derg, deposed Emperor Haile SELASSIE (who had ruled since 1930) and established a socialist state. Torn by bloody coups, uprisings, wide-scale drought, and massive refugee problems, the regime was finally toppled in 1991 by a coalition of rebel forces, the Ethiopian People's Revolutionary Democratic Front (EPRDF). A constitution was adopted in 1994, and Ethiopia's first multiparty elections were held in 1995. A border war with Eritrea late in the 1990s ended with a peace treaty in December 2000. In November 2007, the Eritrea-Ethiopia Border Commission remotely demarcated the border by geographical coordinates, but final demarcation of the boundary on the ground is currently on hold because of Ethiopian objections to an international commission's finding requiring it to surrender territory considered sensitive to Ethiopia."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Africa, west of Somalia"
+    },
+    "Geographic coordinates": {
+      "text": "8 00 N, 38 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "1,104,300 sq km"
+      },
+      "land": {
+        "text": "1 million sq km"
+      },
+      "water": {
+        "text": "104,300 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,328 km"
+      },
+      "border countries": {
+        "text": "Djibouti 349 km, Eritrea 912 km, Kenya 861 km, Somalia 1,600 km, Sudan 1,606 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical monsoon with wide topographic-induced variation"
+    },
+    "Terrain": {
+      "text": "high plateau with central mountain range divided by Great Rift Valley"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Danakil Depression -125 m"
+      },
+      "highest point": {
+        "text": "Ras Dejen 4,533 m"
+      }
+    },
+    "Natural resources": {
+      "text": "small reserves of gold, platinum, copper, potash, natural gas, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10.01%"
+      },
+      "permanent crops": {
+        "text": "0.65%"
+      },
+      "other": {
+        "text": "89.34% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "2,900 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "110 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "5.56  cu km/yr (6%/0%/94%)"
+      },
+      "per capita": {
+        "text": "72  cu m/yr (2002)"
+      }
+    },
+    "Natural hazards": {
+      "text": "geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions; frequent droughts",
+      "volcanism": {
+        "text": "Ethiopia experiences volcanic activity in the Great Rift Valley; Erta Ale (elev. 613 m, 2,011 ft), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, causing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir"
+      }
+    },
+    "Environment - current issues": {
+      "text": "deforestation; overgrazing; soil erosion; desertification; water shortages in some areas from water-intensive farming and poor management"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification, Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia; three major crops are believed to have originated in Ethiopia": {
+        "text": "coffee, grain sorghum, and castor bean"
+      }
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "88,013,491",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2010 est.)"
+    },
+    "note": "repatriation of Ethiopian refugees residing in Sudan is expected to continue for several years; some Sudanese, Somali, and Eritrean refugees, who fled to Ethiopia from the fighting or famine in their own countries, continue to return to their homes (2010 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "46.1% (male 19,596,784/female 19,688,887)"
+      },
+      "15-64 years": {
+        "text": "51.2% (male 21,376,495/female 22,304,812)"
+      },
+      "65 years and over": {
+        "text": "2.7% (male 975,923/female 1,294,437) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "16.8 years"
+      },
+      "male": {
+        "text": "16.5 years"
+      },
+      "female": {
+        "text": "17.2 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.202% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "43.34 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "11.29 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.02 migrant(s)/1,000 population",
+      "note": "repatriation of Ethiopian refugees residing in Sudan is expected to continue for several years; some Sudanese, Somali, and Eritrean refugees, who fled to Ethiopia from the fighting or famine in their own countries, continue to return to their homes (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "17% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.75 male(s)/female"
+      },
+      "total population": {
+        "text": "0.97 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "78.99 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "90.08 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "67.56 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "55.8 years"
+      },
+      "male": {
+        "text": "53.28 years"
+      },
+      "female": {
+        "text": "58.39 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "6.07 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "2.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "980,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "67,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria"
+      },
+      "respiratory disease": {
+        "text": "meningococcal meningitis"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Ethiopian(s)"
+      },
+      "adjective": {
+        "text": "Ethiopian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Oromo 34.5%, Amara 26.9%, Somalie 6.2%, Tigraway 6.1%, Sidama 4%, Guragie 2.5%, Welaita 2.3%, Hadiya 1.7%, Affar 1.7%, Gamo 1.5%, Gedeo 1.3%, other 11.3% (2007 Census)"
+    },
+    "Religions": {
+      "text": "Orthodox 43.5%, Muslim 33.9%, Protestant 18.6%, traditional 2.6%, Catholic 0.7%, other 0.7% (2007 Census)"
+    },
+    "Languages": {
+      "text": "Amarigna (Amharic) (official) 32.7%, Oromigna (official regional) 31.6%, Tigrigna (official regional) 6.1%, Somaligna 6%, Guaragigna 3.5%, Sidamigna 3.5%, Hadiyigna 1.7%, other 14.8%, English (official) (major foreign language taught in schools), Arabic (official) (1994 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "42.7%"
+      },
+      "male": {
+        "text": "50.3%"
+      },
+      "female": {
+        "text": "35.1% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "8 years"
+      },
+      "male": {
+        "text": "9 years"
+      },
+      "female": {
+        "text": "8 years (2008)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.5% of GDP (2007)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federal Democratic Republic of Ethiopia "
+      },
+      "conventional short form": {
+        "text": "Ethiopia"
+      },
+      "local long form": {
+        "text": "Ityop'iya Federalawi Demokrasiyawi Ripeblik"
+      },
+      "local short form": {
+        "text": "Ityop'iya"
+      },
+      "former": {
+        "text": "Abyssinia, Italian East Africa"
+      },
+      "abbreviation": {
+        "text": "FDRE"
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Addis Ababa"
+      },
+      "geographic coordinates": {
+        "text": "9 02 N, 38 42 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 ethnically based states (kililoch, singular - kilil) and 2 self-governing administrations* (astedaderoch, singular - astedader); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela Peoples), Hareri Hizb (Harari People), Oromiya (Oromia), Sumale (Somali), Tigray, Ye Debub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples)"
+    },
+    "Independence": {
+      "text": "oldest independent country in Africa and one of the oldest in the world - at least 2,000 years (may be traced to the Aksumite Kingdom, which coalesced in the first centuries B.C.)"
+    },
+    "National holiday": {
+      "text": "National Day (defeat of MENGISTU regime), 28 May (1991)"
+    },
+    "Constitution": {
+      "text": "ratified 8 December 1994, effective 22 August 1995"
+    },
+    "Legal system": {
+      "text": "based on civil law; currently transitional mix of national and regional courts; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President GIRMA Woldegiorgis (since 8 October 2001)"
+      },
+      "head of government": {
+        "text": "Prime Minister MELES Zenawi (since August 1995)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers as provided for in the December 1994 constitution; ministers selected by the prime minister and approved by the House of People's Representatives"
+      },
+      "elections": {
+        "text": "president elected by the House of People's Representatives for a six-year term (eligible for a second term); election last held on 9 October 2007 (next to be held in October 2013); prime minister designated by the party in power following legislative elections"
+      },
+      "election results": {
+        "text": "GIRMA Woldegiorgis elected president; percent of vote by the House of People's Representatives - 79%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of the House of Federation (or upper chamber responsible for interpreting the constitution and federal-regional issues) (108 seats; members chosen by state assemblies to serve five-year terms) and the House of People's Representatives (or lower chamber responsible for passing legislation) (547 seats; members directly elected by popular vote from single-member districts to serve five-year terms)",
+      "elections": {
+        "text": "last held on 23 May 2010 (next to be held in 2015)"
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats by party - EPRDF 499, SPDP 24, BGPDP 9, ANDP 8, GPUDM 3, HNL 1, FORUM 1, APDO 1, independent 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Federal Supreme Court (the president and vice president of the Federal Supreme Court are recommended by the prime minister and appointed by the House of People's Representatives; for other federal judges, the prime minister submits to the House of People's Representatives for appointment candidates selected by the Federal Judicial Administrative Council)"
+    },
+    "Political parties and leaders": {
+      "text": "Afar National Democratic Party or ANDP [Mohammed KEDIR]; Arena Tigray; Argoba People's Democratic Organization or APDO; Benishangul Gumuz People's Democratic Party or BGPDP [Mulualem BESSE]; Coalition for Unity and Democratic Party or CUDP; Ethiopian Federal Democatic Forum or FORUM (a UDJ-led 8-party alliance established for the 2010 parliamentary elections); Ethiopian People's Revolutionary Democratic Front or EPRDF; Gambella Peoples Unity Democratic Movement or GPUDM [Umod UBONG]; Gurage Nationalities' Democratic Movement or GNDM; Harari National League or HNL [Murad ABDULHADI]; Oromo Federalist Democratic Movement or OFDM [BULCHA Demeksa]; Oromo People's Congress or OPC [IMERERA Gudina]; Somali Democratic Alliance Forces or SODAF; Somali People's Democratic Party or SPDP; United Ethiopian Democratic Forces or UEDF [BEYENE Petros]; Unity for Democracy and Justice or UDJ [Birtukan MEDEKSA, currently imprisoned]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Ethiopian People's Patriotic Front or EPPF; Ogaden National Liberation Front or ONLF; Oromo Liberation Front or OLF [DAOUD Ibsa]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, COMESA, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Tesfaye YILMA Sabo"
+      },
+      "chancery": {
+        "text": "3506 International Drive NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 364-1200"
+      },
+      "FAX": {
+        "text": "[1] (202) 587-0195"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Donald E. BOOTH"
+      },
+      "embassy": {
+        "text": "Entoto Street, Addis Ababa"
+      },
+      "mailing address": {
+        "text": "P. O. Box 1014, Addis Ababa"
+      },
+      "telephone": {
+        "text": "[251] 11-517-40-00"
+      },
+      "FAX": {
+        "text": "[251] 11-517-40-01"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia",
+      "note": "Ethiopia is the oldest independent country in Africa, and the three main colors of her flag (adopted ca. 1895) were so often adopted by other African countries upon independence that they became known as the Pan-African colors; the emblem in the center of the current flag was added in 1996"
+    },
+    "note": "adopted 1992",
+    "National anthem": {
+      "name": {
+        "text": "\"Whedefit Gesgeshi Woude Henate Ethiopia\" (March Forward, Dear Mother Ethiopia)"
+      },
+      "lyrics/music": {
+        "text": "DEREJE Melaku Mengesha/SOLOMON Lulu"
+      },
+      "note": "adopted 1992"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Ethiopia's poverty-stricken economy is based on agriculture, accounting for almost 45% of GDP, and 85% of total employment. The agricultural sector suffers from frequent drought and poor cultivation practices. Coffee is critical to the Ethiopian economy with exports of some $350 million in 2006, but historically low prices have seen many farmers switching to qat to supplement income. Under Ethiopia's constitution, the state owns all land and provides long-term leases to the tenants; the system continues to hamper growth in the industrial sector as entrepreneurs are unable to use land as collateral for loans. In November 2001, Ethiopia qualified for debt relief from the Highly Indebted Poor Countries (HIPC) initiative, and in December 2005 the IMF forgave Ethiopia's debt. The global economic downturn led to balance of payments pressures, partially alleviated by recent emergency funding from the IMF. While GDP growth has remained high, per capita inome is among the lowest in the world."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$72.24 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$30.94 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "11.6% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$900 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "42.9%"
+      },
+      "industry": {
+        "text": "13.7%"
+      },
+      "services": {
+        "text": "43.4% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "37.9 million (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "85%"
+      },
+      "industry": {
+        "text": "5%"
+      },
+      "services": {
+        "text": "10% (2009 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "38.7% (FY05/06 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.1%"
+      },
+      "highest 10%": {
+        "text": "25.6% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "40 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "25.2% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "35.4% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "8.5% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7% (31 December 2006)"
+    },
+    "Stock of narrow money": {
+      "text": "$4.972 billion (31 December 2009 est)"
+    },
+    "Stock of broad money": {
+      "text": "$8.641 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$9.292 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cereals, pulses, coffee, oilseed, cotton, sugarcane, potatoes, qat, cut flowers; hides, cattle, sheep, goats; fish"
+    },
+    "Industries": {
+      "text": "food processing, beverages, textiles, leather, chemicals, metals processing, cement"
+    },
+    "Industrial production growth rate": {
+      "text": "9.5% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "3.46 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "3.13 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "38,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "33,590 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "430,000 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "24.92 billion cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.996 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$1.636 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coffee, qat, gold, leather products, live animals, oilseeds"
+    },
+    "Exports - partners": {
+      "text": "China 10.87%, Germany 9.75%, Saudi Arabia 7.39%, US 7.21%, Netherlands 6.38%, Switzerland 5.33%, Sudan 4.35%, Belgium 4% (2009)"
+    },
+    "Imports": {
+      "text": "$6.946 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food and live animals, petroleum and petroleum products, chemicals, machinery, motor vehicles, cereals, textiles"
+    },
+    "Imports - partners": {
+      "text": "China 14.73%, Saudi Arabia 8.41%, India 7.65%, US 4.3% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.781 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.621 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "birr (ETB) per US dollar - 14.4 (2010), 11.7776 (2009), 9.57 (2008), 8.96 (2007), 8.69 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "915,100 (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "4.052 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate telephone system with the Ethiopian Telecommunications Corporation (ETC) maintaining a monopoly over telecommunication services; open-wire, microwave radio relay; radio communication in the HF, VHF, and UHF frequencies; 2 domestic satellites provide the national trunk service"
+      },
+      "domestic": {
+        "text": "the number of fixed lines and mobile telephones is increasing from a small base; combined fixed and mobile-cellular teledensity is only about 5 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 public TV broadcast station broadcasting nationally and 1 public radio broadcaster with stations in each of the 13 administrative districts; a few commercial radio stations and roughly a dozen community radio stations (2009)"
+    },
+    "Internet country code": {
+      "text": ".et"
+    },
+    "Internet hosts": {
+      "text": "151 (2010)"
+    },
+    "Internet users": {
+      "text": "447,300 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "61 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "8"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "44"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "22"
+      },
+      "under 914 m": {
+        "text": "7 (2010)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "681 km (Ethiopian segment of the 781 km Addis Ababa-Djibouti railroad)"
+      },
+      "narrow gauge": {
+        "text": "681 km 1.000-m gauge"
+      },
+      "note": "railway is under joint control of Djibouti and Ethiopia but is largely inoperable (2008)"
+    },
+    "note": "railway is under joint control of Djibouti and Ethiopia but is largely inoperable (2008)",
+    "Roadways": {
+      "total": {
+        "text": "36,469 km"
+      },
+      "paved": {
+        "text": "6,980 km"
+      },
+      "unpaved": {
+        "text": "29,489 km (2004)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "9"
+      },
+      "by type": {
+        "text": "cargo 8, roll on/roll off 1 (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Ethiopia is landlocked and uses ports of Djibouti in Djibouti and Berbera in Somalia"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Ethiopian National Defense Force (ENDF)": {
+        "text": "Ground Forces, Ethiopian Air Force (ETAF) (2010)"
+      },
+      "note": "Ethiopia is landlocked and has no navy; following the secession of Eritrea, Ethiopian naval facilities remained in Eritrean possession"
+    },
+    "note": "Ethiopia is landlocked and has no navy; following the secession of Eritrea, Ethiopian naval facilities remained in Eritrean possession",
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no compulsory military service, but the military can conduct call-ups when necessary and compliance is compulsory (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "18,485,269"
+      },
+      "females age 16-49": {
+        "text": "19,145,307 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "11,466,713"
+      },
+      "females age 16-49": {
+        "text": "12,444,706 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "934,523"
+      },
+      "female": {
+        "text": "947,103 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.2% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist Courts from Mogadishu in January 2007; \"Somaliland\" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "66,980 (Sudan); 16,576 (Somalia); 13,078 (Eritrea)"
+      },
+      "IDPs": {
+        "text": "200,000 (border war with Eritrea from 1998-2000, ethnic clashes in Gambela, and ongoing Ethiopian military counterinsurgency in Somali region; most IDPs are in Tigray and Gambela Provinces) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit hub for heroin originating in Southwest and Southeast Asia and destined for Europe, as well as cocaine destined for markets in southern Africa; cultivates qat (khat) for local use and regional export, principally to Djibouti and Somalia (legal in all three countries); the lack of a well-developed financial system limits the country's utility as a money laundering center\r\n"
+    }
+  }
+}

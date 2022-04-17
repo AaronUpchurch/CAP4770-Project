@@ -1,0 +1,551 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Guam was ceded to the US by Spain in 1898. Captured by the Japanese in 1941, it was retaken by the US three years later. The military installation on the island is one of the most strategically important US bases in the Pacific."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines"
+    },
+    "Geographic coordinates": {
+      "text": "13 28 N, 144 47 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "544 sq km"
+      },
+      "land": {
+        "text": "544 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "three times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "125.5 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mount Lamlam 406 m"
+      }
+    },
+    "Natural resources": {
+      "text": "aquatic wildlife (supporting tourism), fishing (largely undeveloped)"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "3.64%"
+      },
+      "permanent crops": {
+        "text": "18.18%"
+      },
+      "other": {
+        "text": "78.18% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June - December)"
+    },
+    "Environment - current issues": {
+      "text": "extirpation of native bird population by the rapid proliferation of the brown tree snake, an exotic, invasive species"
+    },
+    "Geography - note": {
+      "text": "largest and southernmost island in the Mariana Islands archipelago; strategic location in western North Pacific Ocean"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "178,430 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "27.8% (male 25,651/female 23,904)"
+      },
+      "15-64 years": {
+        "text": "65.2% (male 59,304/female 56,995)"
+      },
+      "65 years and over": {
+        "text": "7% (male 5,786/female 6,790) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "29.1 years"
+      },
+      "male": {
+        "text": "28.8 years"
+      },
+      "female": {
+        "text": "29.4 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.365% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "18.22 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.57 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "93% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.07 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.85 male(s)/female"
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "6.05 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "6.47 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "5.6 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "78.01 years"
+      },
+      "male": {
+        "text": "74.97 years"
+      },
+      "female": {
+        "text": "81.23 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.54 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Guamanian(s) (US citizens)"
+      },
+      "adjective": {
+        "text": "Guamanian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chamorro 37.1%, Filipino 26.3%, other Pacific islander 11.3%, white 6.9%, other Asian 6.3%, other ethnic origin or race 2.3%, mixed 9.8% (2000 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 85%, other 15% (1999 est.)"
+    },
+    "Languages": {
+      "text": "English 38.3%, Chamorro 22.2%, Philippine languages 22.2%, other Pacific island languages 6.8%, Asian languages 7%, other languages 3.5% (2000 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (1990 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Territory of Guam "
+      },
+      "conventional short form": {
+        "text": "Guam"
+      },
+      "local long form": {
+        "text": "Guahan"
+      },
+      "local short form": {
+        "text": "Guahan"
+      }
+    },
+    "Dependency status": {
+      "text": "organized, unincorporated territory of the US with policy relations between Guam and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Hagatna (Agana)"
+      },
+      "geographic coordinates": {
+        "text": "13 28 N, 144 44 E"
+      },
+      "time difference": {
+        "text": "UTC+10 (15 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (territory of the US)"
+    },
+    "Independence": {
+      "text": "none (territory of the US)"
+    },
+    "National holiday": {
+      "text": "Discovery Day, first Monday in March (1521)"
+    },
+    "Constitution": {
+      "text": "Organic Act of Guam, 1 August 1950"
+    },
+    "Legal system": {
+      "text": "modeled on US; US federal laws apply"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal; US citizens but do not vote in US presidential elections"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009)"
+      },
+      "head of government": {
+        "text": "Governor Felix P. CAMACHO (since 6 January 2003); Lieutenant Governor Dr. Michael W. CRUZ (since 1 January 2007)"
+      },
+      "cabinet": {
+        "text": "heads of executive departments; appointed by the governor with the consent of the Guam legislature"
+      },
+      "elections": {
+        "text": "under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ticket by popular vote for four-year term (can serve two consecutive terms, then must wait a full term before running again); election last held 7 November 2006 (next to be held in November 2010)"
+      },
+      "election results": {
+        "text": "Felix P. CAMACHO reelected governor; Dr. Michael W. CRUZ elected lieutenant governor; percent of vote - NA"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Legislature (15 seats; members are elected by popular vote to serve two-year terms)",
+      "elections": {
+        "text": "last held 4 November 2008 (next to be held in November 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5"
+      },
+      "note": "Guam elects one nonvoting delegate to the US House of Representatives; election last held 4 November 2008 (next to be held in November 2010); results - percent of vote by party - NA; seats by party - Democratic Party 1"
+    },
+    "note": "Guam elects one nonvoting delegate to the US House of Representatives; election last held 4 November 2008 (next to be held in November 2010); results - percent of vote by party - NA; seats by party - Democratic Party 1",
+    "Judicial branch": {
+      "text": "Federal District Court (judge is appointed by the president); Territorial Superior Court (judges appointed for eight-year terms by the governor)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party [leader Michael PHILLIPS]; Republican Party [Philip J. FLORES] (controls the legislature)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Guam Federation of Teachers' Union; Guam Waterworks Authority Workers",
+      "other": {
+        "text": "activists; indigenous groups"
+      }
+    },
+    "International organization participation": {
+      "text": "IOC, SPC, UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (territory of the US)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (territory of the US)"
+    },
+    "Flag description": {
+      "text": "territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; US flag is the national flag"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy depends largely on US military spending and tourism. Total US grants, wage payments, and procurement outlays amounted to $1.3 billion in 2004. Over the past 30 years, the tourist industry has grown to become the largest income source following national defense. The Guam economy continues to experience expansion in both its tourism and military sectors."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.5 billion (2005 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$2.773 billion (2001)"
+    },
+    "GDP - real growth rate": {
+      "text": "NA%"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$15,000 (2005 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "82,950 (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "26%"
+      },
+      "industry": {
+        "text": "10%"
+      },
+      "services": {
+        "text": "64% (2004 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "11.4% (2002 est.)"
+    },
+    "Population below poverty line": {
+      "text": "23% (2001 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$319.6 million"
+      },
+      "expenditures": {
+        "text": "$427.8 million (2002 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.5% (2005 est.)"
+    },
+    "Agriculture - products": {
+      "text": "fruits, copra, vegetables; eggs, pork, poultry, beef"
+    },
+    "Industries": {
+      "text": "US military, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "1.767 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.644 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "9,227 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "14,230 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$45 million (2004 est.)"
+    },
+    "Exports - commodities": {
+      "text": "transshipments of refined petroleum products, construction materials, fish, food and beverage products"
+    },
+    "Imports": {
+      "text": "$701 million (2004 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum and petroleum products, food, manufactured goods"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "65,500 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "98,000 (2004)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system, integrated with US facilities for direct dialing, including free use of 800 numbers"
+      },
+      "domestic": {
+        "text": "modern digital system, including cellular mobile service and local access to the Internet"
+      },
+      "international": {
+        "text": "country code - 1-671; major landing point for submarine cables between Asia and the US (Guam is a trans-Pacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3, FM 11, shortwave 2 (2005)"
+    },
+    "Television broadcast stations": {
+      "text": "3 (2006)"
+    },
+    "Internet country code": {
+      "text": ".gu"
+    },
+    "Internet hosts": {
+      "text": "23 (2009)"
+    },
+    "Internet users": {
+      "text": "85,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "5; note - 2 serviceable (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,045 km (2007)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Apra Harbor"
+    }
+  },
+  "Military": {
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "37,563 "
+      },
+      "females age 16-49": {
+        "text": "36,083 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,677"
+      },
+      "female": {
+        "text": "1,581 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

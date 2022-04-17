@@ -1,0 +1,722 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The dissolution of the Austro-Hungarian Empire at the close of World War I allowed the Slovaks to join the closely related Czechs to form Czechoslovakia. Following the chaos of World War II, Czechoslovakia became a Communist nation within Soviet-dominated Eastern Europe. Soviet influence collapsed in 1989 and Czechoslovakia once more became free. The Slovaks and the Czechs agreed to separate peacefully on 1 January 1993. Slovakia joined both NATO and the EU in the spring of 2004 and the euro area on 1 January 2009."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Europe, south of Poland"
+    },
+    "Geographic coordinates": {
+      "text": "48 40 N, 19 30 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "49,035 sq km"
+      },
+      "land": {
+        "text": "48,105 sq km"
+      },
+      "water": {
+        "text": "930 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "about twice the size of New Hampshire"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,474 km"
+      },
+      "border countries": {
+        "text": "Austria 91 km, Czech Republic 197 km, Hungary 676 km, Poland 420 km, Ukraine 90 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "temperate; cool summers; cold, cloudy, humid winters"
+    },
+    "Terrain": {
+      "text": "rugged mountains in the central and northern part and lowlands in the south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Bodrok River 94 m"
+      },
+      "highest point": {
+        "text": "Gerlachovsky Stit 2,655 m"
+      }
+    },
+    "Natural resources": {
+      "text": "brown coal and lignite; small amounts of iron ore, copper and manganese ore; salt; arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "29.23%"
+      },
+      "permanent crops": {
+        "text": "2.67%"
+      },
+      "other": {
+        "text": "68.1% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,830 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "50.1 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.04"
+      },
+      "per capita": {
+        "text": "193  cu m/yr (2003)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from metallurgical plants presents human health risks; acid rain damaging forests"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; most of the country is rugged and mountainous; the Tatra Mountains in the north are interspersed with many scenic lakes and valleys"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "5,463,046 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "15.8% (male 442,168/female 422,055)"
+      },
+      "15-64 years": {
+        "text": "71.7% (male 1,952,527/female 1,965,646)"
+      },
+      "65 years and over": {
+        "text": "12.5% (male 254,510/female 426,140) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "36.9 years"
+      },
+      "male": {
+        "text": "35.2 years"
+      },
+      "female": {
+        "text": "38.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.137% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "10.6 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.53 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.3 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "56% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.6 male(s)/female"
+      },
+      "total population": {
+        "text": "0.94 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "6.84 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "7.99 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "5.64 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.4 years"
+      },
+      "male": {
+        "text": "71.47 years"
+      },
+      "female": {
+        "text": "79.53 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.35 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2001 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Slovak(s)"
+      },
+      "adjective": {
+        "text": "Slovak"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Slovak 85.8%, Hungarian 9.7%, Roma 1.7%, Ruthenian/Ukrainian 1%, other and unspecified 1.8% (2001 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 68.9%, Protestant 10.8%, Greek Catholic 4.1%, other or unspecified 3.2%, none 13% (2001 census)"
+    },
+    "Languages": {
+      "text": "Slovak (official) 83.9%, Hungarian 10.7%, Roma 1.8%, Ukrainian 1%, other or unspecified 2.6% (2001 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.6%"
+      },
+      "male": {
+        "text": "99.7%"
+      },
+      "female": {
+        "text": "99.6% (2004)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "15 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.9% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Slovak Republic "
+      },
+      "conventional short form": {
+        "text": "Slovakia"
+      },
+      "local long form": {
+        "text": "Slovenska Republika"
+      },
+      "local short form": {
+        "text": "Slovensko"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bratislava"
+      },
+      "geographic coordinates": {
+        "text": "48 09 N, 17 07 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 regions (kraje, singular - kraj); Banskobystricky, Bratislavsky, Kosicky, Nitriansky, Presovsky, Trenciansky, Trnavsky, Zilinsky"
+    },
+    "Independence": {
+      "text": "1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 1 September (1992)"
+    },
+    "Constitution": {
+      "text": "ratified 1 September 1992, effective 1 January 1993; changed in September 1998; amended February 2001",
+      "note": "the change in September 1998 allowed direct election of the president; the amendment of February 2001 allowed Slovakia to apply for NATO and EU membership"
+    },
+    "note": "the change in September 1998 allowed direct election of the president; the amendment of February 2001 allowed Slovakia to apply for NATO and EU membership",
+    "Legal system": {
+      "text": "civil law system based on Austro-Hungarian codes; accepts compulsory ICJ jurisdiction with reservations; legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe (OSCE) and to expunge Marxist-Leninist legal theory"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ivan GASPAROVIC (since 15 June 2004)"
+      },
+      "head of government": {
+        "text": "Prime Minister Robert FICO (since 4 July 2006); Deputy Prime Ministers Dusan CAPLOVIC, Robert KALINAK, Stefan HARABIN, Jan MIKOLAJ (since 4 July 2006)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president on the recommendation of the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held 21 March and 4 April 2009 (next to be held no later than April 2014); following National Council elections, the leader of the majority party or the leader of a majority coalition is usually appointed prime minister by the president"
+      },
+      "election results": {
+        "text": "Ivan GASPAROVIC reelected president in runoff; percent of vote - Ivan GASPAROVIC 55.5%, Iveta RADICOVA 44.5%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Council of the Slovak Republic or Narodna Rada Slovenskej Republiky (150 seats; members are elected on the basis of proportional representation to serve four-year terms)",
+      "elections": {
+        "text": "last held 17 June 2006 (next to be held in 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Smer 29.1%, SDKU 18.4%, SMK 11.7%, SNS 11.7%, LS-HZDS 8.8%, KDH 8.3%, other 12%; seats by party - Smer 50, SDKU-DS 31, SMK 20, SNS 19, LS-HZDS 16, KDH 14; note - seats by party as of December 2008 - Smer 50, SDKU-DS 28, SMK 20, SNS 19, LS-HZDS 15, KDH 9, nonaffiliated 9"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are elected by the National Council); Constitutional Court (judges appointed by president from group of nominees approved by the National Council); Special Court (judges elected by a council of judges and appointed by president)"
+    },
+    "Political parties and leaders": {
+      "parties in the Parliament": {
+        "text": ""
+      },
+      "selected parties outside the Parliament": {
+        "text": ""
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Association of Towns and Villages or ZMOS; Confederation of Trade Unions or KOZ; Entrepreneurs Association of Slovakia or ZPS; Federation of Employers' Associations of the Slovak Republic; National Union of Employers or RUZ; Slovak Chamber of Commerce and Industry or SOPK; The Business Alliance of Slovakia or PAS"
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, BSEC (observer), CBSS (observer), CE, CEI, CERN, EAPC, EBRD, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC, MIGA, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SECI (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, WCL, WCO, WEU (associate partner), WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Peter BURIAN"
+      },
+      "chancery": {
+        "text": "3523 International Court NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 237-1054"
+      },
+      "FAX": {
+        "text": "[1] (202) 237-6438"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Keith EDDINS"
+      },
+      "embassy": {
+        "text": "Hviezdoslavovo Namestie 4, 81102 Bratislava"
+      },
+      "mailing address": {
+        "text": "P.O. Box 309, 814 99 Bratislava"
+      },
+      "telephone": {
+        "text": "[421] (2) 5443-3338"
+      },
+      "FAX": {
+        "text": "[421] (2) 5441-8861"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of white (top), blue, and red superimposed with the coat of arms of Slovakia (consisting of a red shield bordered in white and bearing a white Cross of Lorraine surmounting three blue hills); the coat of arms is centered vertically and offset slightly to the hoist side"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Slovakia has made significant economic reforms since its separation from the Czech Republic in 1993. Reforms to the taxation, healthcare, pension, and social welfare systems helped Slovakia to consolidate its budget and get on track to join the EU in 2004 and to adopt the euro in January 2009. Major privatizations are nearly complete, the banking sector is almost entirely in foreign hands, and the government has helped facilitate a foreign investment boom with business friendly policies such as labor market liberalization and a 19% flat tax. Foreign investment in the automotive and electronic sectors has been strong. Slovakia's economic growth exceeded expectations in 2001-08 despite the general European slowdown. Unemployment, at an unacceptable 18% in 2003-04, dropped to 8.4% in 2008 but remains the economy's Achilles heel. Despite its 2006 pre-election promises to loosen fiscal policy and reverse the previous DZURINDA government's pro-market reforms, FICO's cabinet has thus far been careful to keep a lid on spending in order to meet euro adoption criteria and has focused on regulating energy and food prices instead. The OECD expects Slovakia's GDP growth to be positive in 2009."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$102 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "on 1 January 2009 Slovakia adopted the euro as legal tender",
+    "GDP (official exchange rate)": {
+      "text": "$95.4 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.5% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$18,700 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.7%"
+      },
+      "industry": {
+        "text": "37.2%"
+      },
+      "services": {
+        "text": "59% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.254 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "text": "agriculture 4%, industry 39%, services 56.9% (30 September 2008)"
+    },
+    "Unemployment rate": {
+      "text": "8.4% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "21% (2002)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.1%"
+      },
+      "highest 10%": {
+        "text": "20.9% (1996)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "26.3 (1996)"
+    },
+    "Investment (gross fixed)": {
+      "text": "25.9% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$31.23 billion"
+      },
+      "expenditures": {
+        "text": "$33.32 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "46.6% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.8% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2007)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks from the euro area; as of 1 January 2009 Slovakia became a member of the Economic and Monetary Union (EMU)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.42% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$26.17 billion (31 December 2007)",
+      "note": "this figure represents the US dollar value of Slovak koruny in circulation prior to Slovakia joining the Economic and Monetary Union (EMU); see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 16 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money and quasi money circulating within their own borders"
+    },
+    "Stock of quasi money": {
+      "text": "$21.11 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$41.76 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$5.574 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "grains, potatoes, sugar beets, hops, fruit; pigs, cattle, poultry; forest products"
+    },
+    "Industries": {
+      "text": "metal and metal products; food and beverages; electricity, gas, coke, oil, nuclear fuel; chemicals and manmade fibers; machinery; paper and printing; earthenware and ceramics; transport vehicles; textiles; electrical and optical apparatus; rubber products"
+    },
+    "Industrial production growth rate": {
+      "text": "-3.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "26.53 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "26.81 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "8.891 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "9.412 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "14,000 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "84,990 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "74,070 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "148,600 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "9 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "102 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "6.308 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "186 million cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "6.266 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "14.16 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$4.482 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$64.5 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "vehicles 25.9%, machinery and electrical equipment 21.3%, base metals 14.6%, chemicals and minerals 10.1%, plastics 5.4% (2004)"
+    },
+    "Exports - partners": {
+      "text": "Germany 20%, Czech Republic 13.1%, France 6.7%, Poland 6.6%, Hungary 6.3%, Austria 5.9%, Italy 5.8%, UK 4.7% (2008)"
+    },
+    "Imports": {
+      "text": "$65.47 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment 41.1%, intermediate manufactured goods 19.3%, fuels 12.3%, chemicals 9.8%, miscellaneous manufactured goods 10.2% (2003)"
+    },
+    "Imports - partners": {
+      "text": "Germany 20%, Czech Republic 17.7%, Russia 10.6%, Hungary 6.9%, South Korea 5.2%, Austria 5%, Poland 4.9%, China 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$18.96 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$44.31 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$40.7 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.609 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Slovak koruny (SKK) per US dollar - 21.05 (2008 est.), 24.919 (2007), 29.611 (2006), 31.018 (2005), 32.257 (2004)",
+      "note": "on 1 January 2009 Slovakia adopted the euro as legal tender"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.098 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.52 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Slovakia has a modern telecommunications system that has expanded dramatically in recent years with the growth in cellular services"
+      },
+      "domestic": {
+        "text": "analog system is now receiving digital equipment and is being enlarged with fiber-optic cable, especially in the larger cities; 3 companies provide nationwide cellular services"
+      },
+      "international": {
+        "text": "country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 22, shortwave 1 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "37 (2008)"
+    },
+    "Internet country code": {
+      "text": ".sk"
+    },
+    "Internet hosts": {
+      "text": "867,615 (2009)"
+    },
+    "Internet users": {
+      "text": "3.566 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "35 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "20"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "10 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "15"
+      },
+      "914 to 1,523 m": {
+        "text": "8"
+      },
+      "under 914 m": {
+        "text": "7 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 6,769 km; oil 416 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,622 km"
+      },
+      "broad gauge": {
+        "text": "99 km 1.520-m gauge"
+      },
+      "standard gauge": {
+        "text": "3,473 km 1.435-m gauge (1,577 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "50 km (1.000-m or 0.750-m gauge) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "43,761 km"
+      },
+      "paved": {
+        "text": "38,085 km (includes 316 km of expressways)"
+      },
+      "unpaved": {
+        "text": "5,676 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "172 km (on Danube River) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "51"
+      },
+      "by type": {
+        "text": "bulk carrier 5, cargo 42, refrigerated cargo 4"
+      },
+      "foreign-owned": {
+        "text": "47 (Bulgaria 6, Germany 3, Greece 2, Ireland 1, Israel 4, Italy 2, Poland 2, Russia 1, Slovenia 1, Syria 2, Turkey 10, Ukraine 12, UK 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bratislava, Komarno"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky)": {
+        "text": "Land Forces (Pozemne Sily), Air Forces (Vzdusne Sily) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17-30 years of age for voluntary military service; conscription abolished in 2006; women are eligible to serve (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,420,966"
+      },
+      "females age 16-49": {
+        "text": "1,386,259 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,165,470"
+      },
+      "females age 16-49": {
+        "text": "1,152,941 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "36,552"
+      },
+      "female": {
+        "text": "34,783 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.87% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "bilateral government, legal, technical and economic working group negotiations continued in 2006 between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented the strict Schengen border rules"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for Southwest Asian heroin bound for Western Europe; producer of synthetic drugs for regional market; consumer of ecstasy\r\n"
+    }
+  }
+}

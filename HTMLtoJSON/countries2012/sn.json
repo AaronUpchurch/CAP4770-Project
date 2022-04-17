@@ -1,0 +1,767 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Singapore was founded as a British trading colony in 1819. It joined the Malaysian Federation in 1963 but separated two years later and became independent. Singapore subsequently became one of the world's most prosperous countries with strong international trading links (its port is one of the world's busiest in terms of tonnage handled) and with per capita GDP equal to that of the leading nations of Western Europe."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, islands between Malaysia and Indonesia"
+    },
+    "Geographic coordinates": {
+      "text": "1 22 N, 103 48 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "697 sq km"
+      },
+      "land": {
+        "text": "687 sq km "
+      },
+      "water": {
+        "text": "10 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than 3.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "193 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "3 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "within and beyond territorial sea, as defined in treaties and practice "
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid, rainy; two distinct monsoon seasons - Northeastern monsoon (December to March) and Southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms"
+    },
+    "Terrain": {
+      "text": "lowland; gently undulating central plateau contains water catchment area and nature preserve"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Singapore Strait 0 m"
+      },
+      "highest point": {
+        "text": "Bukit Timah 166 m "
+      }
+    },
+    "Natural resources": {
+      "text": "fish, deepwater ports"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "1.47%"
+      },
+      "permanent crops": {
+        "text": "1.47% "
+      },
+      "other": {
+        "text": "97.06% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "0.6 cu km (1975)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.19  cu km/yr (45%/51%/4%)"
+      },
+      "per capita": {
+        "text": "44  cu m/yr (1975) "
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "industrial pollution; limited natural freshwater resources; limited land availability presents waste disposal problems; seasonal smoke/haze resulting from forest fires in Indonesia"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "focal point for Southeast Asian sea routes"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Singaporean(s) "
+      },
+      "adjective": {
+        "text": "Singapore "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chinese 76.8%, Malay 13.9%, Indian 7.9%, other 1.4% (2000 census)"
+    },
+    "Languages": {
+      "text": "Mandarin (official) 35%, English (official) 23%, Malay (official) 14.1%, Hokkien 11.4%, Cantonese 5.7%, Teochew 4.9%, Tamil (official) 3.2%, other Chinese dialects 1.8%, other 0.9% (2000 census)"
+    },
+    "Religions": {
+      "text": "Buddhist 42.5%, Muslim 14.9%, Taoist 8.5%, Hindu 4%, Catholic 4.8%, other Christian 9.8%, other 0.7%, none 14.8% (2000 census)"
+    },
+    "Population": {
+      "text": "5,353,494 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "14% (male 382,537/ female 364,542)"
+      },
+      "15-64 years": {
+        "text": "78.3% (male 2,057,169/ female 2,133,851) "
+      },
+      "65 years and over": {
+        "text": "7.8% (male 187,448/ female 227,947) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "33.5 years"
+      },
+      "male": {
+        "text": "33.4 years "
+      },
+      "female": {
+        "text": "33.6 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "1.993% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "7.72 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "3.41 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "15.62 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "100% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.9% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.07 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.82 male(s)/female "
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "3 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "2.65 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "2.76 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "2.53 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "83.75 years"
+      },
+      "male": {
+        "text": "81.47 years "
+      },
+      "female": {
+        "text": "86.2 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "0.78 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "3.9% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "1.833 physicians/1,000 population (2009)"
+    },
+    "Hospital bed density": {
+      "text": "3.14 beds/1,000 population (2008)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population "
+      },
+      "total": {
+        "text": "100% of population "
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "3,400 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "6.9% (2004)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "3.3% (2000)"
+    },
+    "Education expenditures": {
+      "text": "3% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "92.5% "
+      },
+      "male": {
+        "text": "96.6% "
+      },
+      "female": {
+        "text": "88.6% (2000 census) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "12.9%"
+      },
+      "male": {
+        "text": "9.9% "
+      },
+      "female": {
+        "text": "16.6% (2009) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Singapore "
+      },
+      "conventional short form": {
+        "text": "Singapore "
+      },
+      "local long form": {
+        "text": "Republic of Singapore "
+      },
+      "local short form": {
+        "text": "Singapore "
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Singapore"
+      },
+      "geographic coordinates": {
+        "text": "1 17 N, 103 51 E "
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "none"
+    },
+    "Independence": {
+      "text": "9 August 1965 (from Malaysian Federation)"
+    },
+    "National holiday": {
+      "text": "National Day, 9 August (1965)"
+    },
+    "Constitution": {
+      "text": "3 June 1959; amended 1965 (based on pre-independence State of Singapore constitution)"
+    },
+    "Legal system": {
+      "text": "English common law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Tony TAN Keng Yam (since 1 September 2011)"
+      },
+      "head of government": {
+        "text": "Prime Minister LEE Hsien Loong (since 12 August 2004); Deputy Prime Minister TEO Chee Hean (since 1 April 2009) and Deputy Prime Minister Tharman SHANMUGARATNAM (since 21 May 2011) "
+      },
+      "cabinet": {
+        "text": "appointed by president, responsible to parliament "
+      },
+      "elections": {
+        "text": "president elected by popular vote for six-year term; election last held on 27 August 2011 (next to be held by August 2017); following legislative elections, leader of majority party or leader of majority coalition usually appointed prime minister by president; deputy prime ministers appointed by president "
+      },
+      "election results": {
+        "text": "Tony TAN Keng Yam elected president from a field of four candidates with 35.2% of the votes cast "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament (87 seats; members elected by popular vote to serve five-year terms); note - in addition, there are up to nine nominated members; up to three losing opposition candidates who came closest to winning seats may be appointed as Nominated Members of Parliament (NMP)",
+      "elections": {
+        "text": "last held on 7 May 2011 (next to be held in May 2016) "
+      },
+      "election results": {
+        "text": "percent of vote by party - PAP 60.1%, WP 12.8%, NSP 12.1%, others 15%; seats by party - PAP 81, WP 6 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court consists of High Court and Court of Appeals; Specialist Commercial Courts consist of Admiralty Court, Intellectual Property Court, and Abritation Court",
+      "note": "(chief justice, judges of appeal, and judicial commissioners are appointed by the president with the advice of the prime minister) "
+    },
+    "note": "adopted 1965; the anthem, which was first performed in 1958 at the Victoria Theatre, is sung only in Malay ",
+    "Political parties and leaders": {
+      "text": "National Solidarity Party or NSP [Hazel POA]; People's Action Party or PAP [LEE Hsien Loong]; Reform Party [Kenneth JEYARETNAM]; Singapore Democratic Alliance or SDA [Desmond LIM]; Singapore People's Party or SPP [CHIAM See Tong]; Workers' Party or WP [LOW Thia Khiang]",
+      "note": "SDA includes Singapore Justice Party or SJP and Singapore National Malay Organization or PKMS "
+    },
+    "Political pressure groups and leaders": {
+      "text": "none"
+    },
+    "International organization participation": {
+      "text": "ADB, AOSIS, APEC, ARF, ASEAN, BIS, C, CP, EAS, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNMIT, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Ashok Kumar MIRPURI"
+      },
+      "chancery": {
+        "text": "3501 International Place NW, Washington, DC 20008 "
+      },
+      "telephone": {
+        "text": "[1] (202) 537-3100 "
+      },
+      "FAX": {
+        "text": "[1] (202) 537-0876 "
+      },
+      "consulate(s) general": {
+        "text": "San Francisco "
+      },
+      "consulate(s)": {
+        "text": "New York "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador David I. ADELMAN"
+      },
+      "embassy": {
+        "text": "27 Napier Road, Singapore 258508 "
+      },
+      "mailing address": {
+        "text": "FPO AP 96507-0001 "
+      },
+      "telephone": {
+        "text": "[65] 6476-9100 "
+      },
+      "FAX": {
+        "text": "[65] 6476-9340 "
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation's ideals of democracy, peace, progress, justice, and equality\r\n\r\n"
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Majulah Singapura\" (Onward Singapore)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "ZUBIR Said "
+      },
+      "note": "adopted 1965; the anthem, which was first performed in 1958 at the Victoria Theatre, is sung only in Malay "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Singapore has a highly developed and successful free-market economy. It enjoys a remarkably open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. The economy depends heavily on exports, particularly in consumer electronics, information technology products, pharmaceuticals, and on a growing financial services sector. Real GDP growth averaged 8.6% between 2004 and 2007. The economy contracted 1.0% in 2009 as a result of the global financial crisis, but rebounded 14.8% in 2010, on the strength of renewed exports, before slowing to 4.9% in 2011 and 2.1% in 2012, largely a result of soft demand for exports during the second European recession. Over the longer term, the government hopes to establish a new growth path that focuses on raising productivity, which has sunk to a compound annual growth rate of just 1.8% in the last decade. Singapore has attracted major investments in pharmaceuticals and medical technology production and will continue efforts to establish Singapore as Southeast Asia's financial and high-tech hub."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$305.1 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "for Singapore, public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s ",
+    "GDP (official exchange rate)": {
+      "text": "$267.9 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "14.8% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$58,900 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0%"
+      },
+      "industry": {
+        "text": "27.8% "
+      },
+      "services": {
+        "text": "72.2% (2010 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "3.303 million",
+      "note": "excludes non-residents (2012 est.) "
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "0.1%"
+      },
+      "industry": {
+        "text": "19.6% "
+      },
+      "services": {
+        "text": "80.3% "
+      },
+      "note": "excludes non-residents (2011) "
+    },
+    "Unemployment rate": {
+      "text": "2% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.4%"
+      },
+      "highest 10%": {
+        "text": "23.2% (2008) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "48.1 (2008) "
+    },
+    "Investment (gross fixed)": {
+      "text": "24.7% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$39.86 billion"
+      },
+      "expenditures": {
+        "text": "$39.58 billion "
+      },
+      "note": "expenditures include both operational and development expenditures (2012 est.) "
+    },
+    "Taxes and other revenues": {
+      "text": "14.9% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.1% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "118.2% of GDP (2011 est.) ",
+      "note": "for Singapore, public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.2% (2011 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.38% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$99.27 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$340.9 billion (31 December 2011 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$235.2 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$474.3 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "orchids, vegetables; poultry, eggs; fish, ornamental fish"
+    },
+    "Industrial production growth rate": {
+      "text": "7.8% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$50.16 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$414.8 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment (including electronics and telecommunications), pharmaceuticals and other chemicals, refined petroleum products"
+    },
+    "Exports - partners": {
+      "text": "Malaysia 12.2%, Hong Kong 11%, Indonesia 10.4%, China 10.4%, US 5.5%, Japan 4.5% (2011)"
+    },
+    "Imports": {
+      "text": "$366.3 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, mineral fuels, chemicals, foodstuffs, consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 10.8%, Malaysia 10.7%, China 10.4%, Japan 7.2%, South Korea 5.9%, Indonesia 5.3%, Saudi Arabia 4.8% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$237.9 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$23.62 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$497 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$335.9 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "1.415 (2008) "
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "45.37 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "41.2 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "10.47 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "99.8% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.2% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "900 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "883,500 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "1.116 million bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "1.183 million bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "1.58 million bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "1.489 million bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "8.4 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "8.4 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "172.2 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "2.017 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "7.794 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent service"
+      },
+      "domestic": {
+        "text": "excellent domestic facilities; launched 3G wireless service in February 2005; combined fixed-line and mobile-cellular teledensity more than 180 telephones per 100 persons; multiple providers of high-speed Internet connectivity and the government is close to completing an island-wide roll out of a high-speed fiber-optic broadband network "
+      },
+      "international": {
+        "text": "country code - 65; numerous submarine cables provide links throughout Asia, Australia, the Middle East, Europe, and US; satellite earth stations - 4; supplemented by VSAT coverage "
+      }
+    },
+    "Broadcast media": {
+      "text": "state controls broadcast media; 7 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV service available; a total of 18 domestic radio stations broadcasting with MediaCorp operating more than a dozen and another 4 stations are closely linked to the ruling party or controlled by the Singapore Armed Forces Reservists Association; many Malaysian and Indonesian radio stations are available (2008)"
+    },
+    "Internet country code": {
+      "text": ".sg"
+    },
+    "Internet hosts": {
+      "text": "1.96 million (2012)"
+    },
+    "Internet users": {
+      "text": "3.235 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "9 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "9"
+      },
+      "over 3,047 m": {
+        "text": "2 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "2 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "3 "
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2012) "
+      }
+    },
+    "Pipelines": {
+      "text": "gas 111 km (2010)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "3,356 km"
+      },
+      "paved": {
+        "text": "3,356 km (includes 161 km of expressways) (2009) "
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,599"
+      },
+      "by type": {
+        "text": "bulk carrier 247, cargo 109, carrier 6, chemical tanker 256, container 339, liquefied gas 131, petroleum tanker 436, refrigerated cargo 13, roll on/roll off 5, vehicle carrier 57 "
+      },
+      "foreign-owned": {
+        "text": "966 (Australia 12, Bangladesh 1, Belgium 1, Bermuda 25, Brazil 9, Chile 6, China 29, Cyprus 6, Denmark 149, France 3, Germany 32, Greece 22, Hong Kong 46,  India 21, Indonesia 60, Italy 5, Japan 164, Malaysia 27, Netherlands 1, Norway 153, Russia 2, South Africa 13, South Korea 3, Sweden 11, Switzerland 3, Taiwan 77, Thailand 33, UAE 10, UK 6, US 36) "
+      },
+      "registered in other countries": {
+        "text": "344 (Australia 2, Bahamas 7, Bangladesh 7, Belize 4, Cambodia 3, Cyprus 1, France 3, Honduras 11, Hong Kong 13, Indonesia 46, Italy 1, Kiribati 9, Liberia 22, Malaysia 13, Maldives 4, Malta 4, Marshall Islands 30, Mongolia 3, North Korea 1, Panama 92, Philippines 1, Saint Kitts and Nevis 10, Saint Vincent and the Grenadines 5, Sierra Leone 9, Thailand 1, Tuvalu 19, US 16, Vanuatu 2, unknown 5) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Singapore"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Singapore Armed Forces": {
+        "text": "Army, Navy, Air Force (includes Air Defense) (2010)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-21 years of age for male compulsory military service; 16 years of age for volunteers; 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers) (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,255,902 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,018,839"
+      },
+      "females age 16-49": {
+        "text": "1,087,134 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "27,098"
+      },
+      "female": {
+        "text": "25,368 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "4.9% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "disputes persist with Malaysia over deliveries of fresh water to Singapore, Singapore's extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; piracy remains a problem in the Malacca Strait\r\n"
+    },
+    "Illicit drugs": {
+      "text": "drug abuse limited because of aggressive law enforcement efforts; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering\r\n"
+    }
+  }
+}

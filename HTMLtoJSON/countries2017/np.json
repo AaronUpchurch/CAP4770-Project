@@ -1,0 +1,850 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "An insurgency led by Maoists broke out in 1996. The ensuing 10-year civil war between Maoist and government forces witnessed the dissolution of the cabinet and parliament and the re-assumption of absolute power by the king in 2002. A peace accord in 2006 led to the promulgation of an interim constitution in 2007. Following a nationwide Constituent Assembly (CA) election in 2008, the newly formed CA declared Nepal a federal democratic republic, abolished the monarchy, and elected the country's first president. After the CA failed to draft a constitution by a May 2012 deadline set by the Supreme Court, then-Prime Minister Baburam BHATTARAI dissolved the CA. Months of negotiations ensued until March 2013 when the major political parties agreed to create an interim government headed by then-Chief Justice Khil Raj REGMI with a mandate to hold elections for a new CA. Elections were held in November 2013, in which the Nepali Congress won the largest share of seats in the CA and in February 2014 formed a coalition government with the second place Communist Party of Nepal-Unified Marxist-Leninist and with Nepali Congress President Sushil KOIRALA as prime minister. Nepal's new constitution came into effect in September 2015, at which point the CA became the Legislature Parliament. Khagda Prasad Sharma OLI served as the first post-constitution prime minister from October 2015-August 2016, when a new coalition led by Maoist leader Pushpa Kamal DAHAL (aka \u201cPrachanda\u201d) took over the premiership. The constitution provides for a transitional period during which three sets of elections \u2013 local, provincial, and national \u2013 must take place before 21 January 2018. The government scheduled local elections, the first in 20 years, for May 2017."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Asia, between China and India"
+    },
+    "Geographic coordinates": {
+      "text": "28 00 N, 84 00 E"
+    },
+    "Map references": {
+      "text": "Asia"
+    },
+    "Area": {
+      "total": {
+        "text": "147,181 sq km"
+      },
+      "land": {
+        "text": "143,351 sq km"
+      },
+      "water": {
+        "text": "3,830 sq km"
+      },
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than New York state"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,159 km"
+      },
+      "border countries (2)": {
+        "text": "China 1,389 km, India 1,770 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "varies from cool summers and severe winters in north to subtropical summers and mild winters in south"
+    },
+    "Terrain": {
+      "text": "Tarai or flat river plain of the Ganges in south; central hill region with rugged Himalayas in north"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "2,565 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Mount Everest 8,848 m (highest peak in Asia and highest point on earth above sea level)"
+    },
+    "Natural resources": {
+      "text": "quartz, water, timber, hydropower, scenic beauty, small deposits of lignite, copper, cobalt, iron ore"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "28.8%"
+      },
+      "text": "arable land 15.1%; permanent crops 1.2%; permanent pasture 12.5%",
+      "forest": {
+        "text": "25.4%"
+      },
+      "other": {
+        "text": "45.8% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "13,320 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low"
+    },
+    "Natural hazards": {
+      "text": "severe thunderstorms; flooding; landslides; drought and famine depending on the timing, intensity, and duration of the summer monsoons"
+    },
+    "Environment - current issues": {
+      "text": "deforestation (overuse of wood for fuel and lack of alternatives); contaminated water (with human and animal wastes, agricultural runoff, and industrial effluents); wildlife conservation; vehicular emissions"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga - the world's tallest and third tallest mountains - on the borders with China and India respectively"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federal Democratic Republic of Nepal"
+      },
+      "conventional short form": {
+        "text": "Nepal"
+      },
+      "local long form": {
+        "text": "Sanghiya Loktantrik Ganatantra Nepal"
+      },
+      "local short form": {
+        "text": "Nepal"
+      },
+      "etymology": {
+        "text": "the Newar people of the Kathmandu Valley and surrounding areas apparently gave their name to the country; the terms \"Nepal,\" \"Newar,\" \"Nepar,\" and \"Newal\" are phonetically different forms of the same word"
+      }
+    },
+    "Government type": {
+      "text": "federal parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kathmandu"
+      },
+      "geographic coordinates": {
+        "text": "27 43 N, 85 19 E"
+      },
+      "time difference": {
+        "text": "UTC+5.75 (10.75 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 zones (anchal, singular and plural); Bagmati, Bheri, Dhawalagiri, Gandaki, Janakpur, Karnali, Kosi, Lumbini, Mahakali, Mechi, Narayani, Rapti, Sagarmatha, Seti"
+    },
+    "Independence": {
+      "text": "1768 (unified by Prithvi Narayan SHAH)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 28 May (2008); note - marks the abdication of Gyanendra SHAH, the last Nepalese monarch, and the establishment of a federal republic"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest adopted 20 September 2015"
+      },
+      "amendments": {
+        "text": "proposed as a \u201cbill\u201d by either house of the Federal Parliament; bills affecting a state border or powers delegated to a state must be submitted to the affected state assembly; passage of such bills requires a majority vote of that state assembly membership; bills not requiring state assembly consent require at least two-thirds majority vote by the membership of both houses of the Federal Parliament; parts of the constitution on the sovereignty, territorial integrity, independence, and sovereignty vested in the people cannot be amended; amended January 2016 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "English common law and Hindu legal concepts"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "15 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "head of state": {
+        "text": "President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sher Bahadur DEUBA; Deputy Prime Ministers Bijay Kumar GACHHADAR, Krishna Bahadur MAHARA, Gopal Man SHRESTHA; note - Prime Minister Pushpa Kamal DAHAL resigned on 25 May 2017 as part of a rotational power-sharing arrangement between the CPN-MC and NC"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister; cabinet dominated by the CPN-MC and the NC"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); prime minister indirectly elected by the Federal Parliament"
+      },
+      "election results": {
+        "text": "Bidhya Devi BHANDARI elected president; Constituent Assembly vote - Bidhya Devi BHANDARI (CPN-UML) 327, Kul Bahadur GURUNG (NC) 214; BHANDARI is Nepal's first woman president"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Federal Parliament (per the new constitution but not implemented as of March 2017) consists of the National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the Government; members serve 6-year terms with renewal of one-third of the membership every 2 years) and the House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by party-list proportional representation vote; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held for the second Constituent Assembly on 19 November 2013 (first election for the Federal Parliament to be held 26 November 2017)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - NC 196, CPN-UML 175, CPN-MC 80, Madhesi parties 42, Rastriya Prajatantra Party Nepal 24, RPP 13, Sadhavanna Party 6, CPN-ML 5, Federal Socialist Party 5, Nepal Workers and Peasants Party 4, other 49, independent 2"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice and up to 20 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "the Supreme Court chief justice appointed by the president on the recommendation of the Constitutional Council, a 5-member,high-level advisory body headed by the prime minister; other judges appointed by the president on the recommendation of the Judicial Council, a 5-member advisory body headed by the chief justice; the chief justice term of office is 6 years; judges serve until age 65"
+      },
+      "subordinate courts": {
+        "text": "High Court; Court of Appeal; district courts"
+      },
+      "note": {
+        "text": "Nepal's judiciary was restructured under its 2007 Interim Constitution"
+      }
+    },
+    "Political parties and leaders": {
+      "note": {
+        "text": "164 political parties are registered with the Election Commission of Nepal as of early 2017; 122 political parties participated in the 19 November 2013 election and the 30 parties listed below were elected to serve in the Constituent Assembly; however only 26 of the 30 are considered \"national\" parties"
+      },
+      "text": ""
+    },
+    "Political pressure groups and leaders": {
+      "text": "Tharu Kalyankari Sabha (Tharus rights advocacy group)"
+    },
+    "International organization participation": {
+      "text": "ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Arjun Kumar KARKI (since 18 May 2015)"
+      },
+      "chancery": {
+        "text": "2131 Leroy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 667-4550"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-5534"
+      },
+      "consulate(s) general": {
+        "text": "Cleveland (OH), New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Alaina B. TEPLITZ (since 7 October 2015)"
+      },
+      "embassy": {
+        "text": "Maharajgunj, Kathmandu"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[977] (1) 423-4000"
+      },
+      "FAX": {
+        "text": "[977] (1) 400-7272"
+      }
+    },
+    "Flag description": {
+      "text": "crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (Nepal's national flower) and is a sign of victory and bravery, the blue border signifies peace and harmony; the two right triangles are a combination of two single pennons (pennants) that originally symbolized the Himalaya Mountains while their charges represented the families of the king (upper) and the prime minister, but today they are understood to denote Hinduism and Buddhism, the country's two main religions; the moon represents the serenity of the Nepalese people and the shade and cool weather in the Himalayas, while the sun depicts the heat and higher temperatures of the lower parts of Nepal; the moon and the sun are also said to express the hope that the nation will endure as long as these heavenly bodies",
+      "note": {
+        "text": "Nepal is the only country in the world whose flag is not rectangular or square"
+      }
+    },
+    "National symbol(s)": {
+      "text": "rhododendron blossom; national color: red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Sayaun Thunga Phool Ka\" (Hundreds of Flowers)"
+      },
+      "lyrics/music": {
+        "text": "Pradeep Kumar RAI/Ambar GURUNG"
+      },
+      "note": {
+        "text": "adopted 2007; after the abolition of the monarchy in 2006, a new anthem was required because of the previous anthem's praise for the king"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Nepal was hit by massive earthquakes in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Political gridlock in the past several years and recent public protests, predominantly in the southern Tarai region, have hindered post-earthquake recovery and prevented much-needed economic reform. Additional challenges to Nepal's growth include its landlocked geographic location, persistent power shortages, and underdeveloped transportation infrastructure."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$67.62 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$21.14 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,500 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Gross national saving": {
+      "text": "45.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "82.8%"
+      },
+      "government consumption": {
+        "text": "11.6%"
+      },
+      "investment in fixed capital": {
+        "text": "28.8%"
+      },
+      "investment in inventories": {
+        "text": "6.7%"
+      },
+      "exports of goods and services": {
+        "text": "9.5%"
+      },
+      "imports of goods and services": {
+        "text": "-39.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "29.2%"
+      },
+      "industry": {
+        "text": "13.1%"
+      },
+      "services": {
+        "text": "50% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "pulses, rice, corn, wheat, sugarcane, jute, root crops; milk, water buffalo meat"
+    },
+    "Industries": {
+      "text": "tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production"
+    },
+    "Industrial production growth rate": {
+      "text": "-6.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Labor force": {
+      "text": "15.6 million",
+      "note": {
+        "text": "severe lack of skilled labor (2014 est.)"
+      },
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "69%"
+      },
+      "industry": {
+        "text": "12%"
+      },
+      "services": {
+        "text": "19% (2014 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.7% (2008 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Population below poverty line": {
+      "text": "25.2% (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.2%"
+      },
+      "highest 10%": {
+        "text": "29.5% (2011)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "47.2 (2008 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.886 billion"
+      },
+      "expenditures": {
+        "text": "$4.592 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "23.1% of GDP (FY2016 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "1.4% of GDP (FY2016 est.)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Public debt": {
+      "text": "25.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Fiscal year": {
+      "text": "16 July - 15 July"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "7% (30 October 2015)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.6% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$4.762 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$18.99 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$14.92 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$9.574 billion (31 October 2014 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Current account balance": {
+      "text": "$2.447 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Exports": {
+      "text": "$813.1 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Exports - commodities": {
+      "text": "clothing, pulses, carpets, textiles, juice, jute goods"
+    },
+    "Exports - partners": {
+      "text": "India 56.6%, US 11.5%, Turkey 4% (2016)"
+    },
+    "Imports": {
+      "text": "$6.511 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, machinery and equipment, gold, electrical goods, medicine"
+    },
+    "Imports - partners": {
+      "text": "India 70.1%, China 10.3% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$7.945 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Debt - external": {
+      "text": "$4.155 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$103 million (31 July 2013 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "85.2 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "6,600,000"
+      },
+      "electrification - total population": {
+        "text": "76%"
+      },
+      "electrification - urban areas": {
+        "text": "97%"
+      },
+      "electrification - rural areas": {
+        "text": "72% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "3.342 billion kWh (FY 2016 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "3.746 billion kWh (FY 2016 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Electricity - exports": {
+      "text": "3.25 million kWh (FY 2016 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.758 billion kWh (FY 2016 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "838,100 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "6.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "89.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "3.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "178"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "2.016 million bbl/day (1)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "2.016 million bbl/day (1)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "32,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "30,590 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "178"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "4.2 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "858,237"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "3 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "32,120,305"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "111 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "mountainous topography hinders development of telecom infrastructure; fair radiotelephone communication service and mobile-cellular telephone network"
+      },
+      "domestic": {
+        "text": "mobile service has been extended to all 75 districts covering 90% of Nepal\u2019s land area; disparity between high coverage in cities and coverage available in underdeveloped rural regions"
+      },
+      "international": {
+        "text": "country code - 977; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state operates 3 TV stations, as well as national and regional radio stations; 88 independent TV channels are registered with only 25 in regular operation; 672 FM radio stations are licensed with 588 operational (2016)"
+    },
+    "Internet country code": {
+      "text": ".np"
+    },
+    "Internet users": {
+      "total": {
+        "text": "5,716,419"
+      },
+      "percent of population": {
+        "text": "19.7% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "80"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "4"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "15"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "510,341"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "4,536,371 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9N (2016)"
+    },
+    "Airports": {
+      "text": "47 (2013)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "11"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "36"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "29 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "53 km"
+      },
+      "narrow gauge": {
+        "text": "53 km 0.762-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "27,990 km"
+      },
+      "paved": {
+        "text": "11,890 km"
+      },
+      "unpaved": {
+        "text": "16,100 km (2016)"
+      },
+      "country comparison to the world": {
+        "text": "132"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.43% of GDP (2012)"
+    },
+    "Military branches": {
+      "text": "Nepal Army (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2014)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; India has instituted a stricter border regime to restrict transit of illegal cross-border activities"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "13,509 (Tibet/China) (2016); 9,804 (Bhutan) (2017)"
+      },
+      "IDPs": {
+        "text": "50,000 (remaining from ten-year Maoist insurgency that officially ended in 2006; figure does not include people displaced since 2007 by inter-communal violence and insecurity in the Terai region; 2015 earthquakes) (2016)"
+      },
+      "stateless persons": {
+        "text": "undetermined (2016); note - the UNHCR is working with the Nepali Government to address the large number of individuals lacking citizenship certificates in Nepal; smaller numbers of Bhutanese Hindu refugees of Nepali origin (the Lhotshampa) who were stripped of Bhutanese nationality and forced to flee their country in the late 1980s and early 1990s - and undocumented Tibetan refugees who arrived in Nepal prior to the 1990s - are considered stateless"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West"
+    }
+  }
+}

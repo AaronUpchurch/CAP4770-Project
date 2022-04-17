@@ -1,0 +1,661 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Portuguese began to trade with the island of Timor in the early 16th century and colonized it in mid-century. Skirmishing with the Dutch in the region eventually resulted in an 1859 treaty in which Portugal ceded the western portion of the island. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. East Timor declared itself independent from Portugal on 28 November 1975 and was invaded and occupied by Indonesian forces nine days later. It was incorporated into Indonesia in July 1976 as the province of Timor Timur (East Timor). An unsuccessful campaign of pacification followed over the next two decades, during which an estimated 100,000 to 250,000 individuals lost their lives. On 30 August 1999, in a UN-supervised popular referendum, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. Between the referendum and the arrival of a multinational peacekeeping force in late September 1999, anti-independence Timorese militias - organized and supported by the Indonesian military - commenced a large-scale, scorched-earth campaign of retribution. The militias killed approximately 1,400 Timorese and forcibly pushed 300,000 people into western Timor as refugees. The majority of the country's infrastructure, including homes, irrigation systems, water supply systems, and schools, and nearly 100% of the country's electrical grid were destroyed. On 20 September 1999, the Australian-led peacekeeping troops of the International Force for East Timor (INTERFET) deployed to the country and brought the violence to an end. On 20 May 2002, Timor-Leste was internationally recognized as an independent state. In late April 2006, internal tensions threatened the new nation's security when a military strike led to violence and a near breakdown of law and order in Dili. At the request of the Government of Timor-Leste, an Australian-led International Stabilization Force (ISF) deployed to Timor-Leste in late May. In August, the UN Security Council established the UN Integrated Mission in Timor-Leste (UNMIT), which included an authorized police presence of over 1,600 personnel. The ISF and UNMIT restored stability, allowing the Government of Timor-Leste to hold presidential and parliamentary elections in April and June 2007 in a largely peaceful atmosphere. In February 2008, a rebel group staged an unsuccessful attack against the president and prime minister. The ringleader was killed in the attack and the majority of the rebels surrendered to the government in April 2008."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southeastern Asia, northwest of Australia in the Lesser Sunda Islands at the eastern end of the Indonesian archipelago; note - Timor-Leste includes the eastern half of the island of Timor, the Oecussi (Ambeno) region on the northwest portion of the island of Timor, and the islands of Pulau Atauro and Pulau Jaco"
+    },
+    "Geographic coordinates": {
+      "text": "8 50 S, 125 55 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "14,874 sq km"
+      },
+      "land": {
+        "text": "14,874 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Connecticut"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "228 km"
+      },
+      "border countries": {
+        "text": "Indonesia 228 km"
+      }
+    },
+    "Coastline": {
+      "text": "706 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid; distinct rainy and dry seasons"
+    },
+    "Terrain": {
+      "text": "mountainous"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Timor Sea, Savu Sea, and Banda Sea 0 m"
+      },
+      "highest point": {
+        "text": "Foho Tatamailau 2,963 m"
+      }
+    },
+    "Natural resources": {
+      "text": "gold, petroleum, natural gas, manganese, marble"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "8.2%"
+      },
+      "permanent crops": {
+        "text": "4.57%"
+      },
+      "other": {
+        "text": "87.23% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,065 sq km (2003)"
+    },
+    "Natural hazards": {
+      "text": "floods and landslides are common; earthquakes; tsunamis; tropical cyclones"
+    },
+    "Environment - current issues": {
+      "text": "widespread use of slash and burn agriculture has led to deforestation and soil erosion"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "Timor comes from the Malay word for \"East\"; the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "1,131,612",
+      "note": "other estimates range as low as 800,000 (July 2009 est.)"
+    },
+    "note": "there are about 16 indigenous languages; Tetum, Galole, Mambae, and Kemak are spoken by significant numbers of people",
+    "Age structure": {
+      "0-14 years": {
+        "text": "34.7% (male 199,237/female 192,900)"
+      },
+      "15-64 years": {
+        "text": "61.9% (male 356,772/female 344,103)"
+      },
+      "65 years and over": {
+        "text": "3.4% (male 18,403/female 20,197) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "21.8 years"
+      },
+      "male": {
+        "text": "21.8 years"
+      },
+      "female": {
+        "text": "21.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.027% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "26.25 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.98 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "27% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.91 male(s)/female"
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "40.65 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "46.72 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "34.28 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "67.27 years"
+      },
+      "male": {
+        "text": "64.92 years"
+      },
+      "female": {
+        "text": "69.75 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.28 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "chikungunya, dengue fever and malaria (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Timorese"
+      },
+      "adjective": {
+        "text": "Timorese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Austronesian (Malayo-Polynesian), Papuan, small Chinese minority"
+    },
+    "Religions": {
+      "text": "Roman Catholic 98%, Muslim 1%, Protestant 1% (2005)"
+    },
+    "Languages": {
+      "text": "Tetum (official), Portuguese (official), Indonesian, English",
+      "note": "there are about 16 indigenous languages; Tetum, Galole, Mambae, and Kemak are spoken by significant numbers of people"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "58.6%"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA (2002)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Democratic Republic of Timor-Leste (pronounced TEE-mor LESS-tay) "
+      },
+      "conventional short form": {
+        "text": "Timor-Leste"
+      },
+      "local long form": {
+        "text": "Republika Demokratika Timor Lorosa'e [Tetum]; Republica Democratica de Timor-Leste [Portuguese]"
+      },
+      "local short form": {
+        "text": "Timor Lorosa'e [Tetum]; Timor-Leste [Portuguese]"
+      },
+      "former": {
+        "text": "East Timor, Portuguese Timor"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dili"
+      },
+      "geographic coordinates": {
+        "text": "8 35 S, 125 36 E"
+      },
+      "time difference": {
+        "text": "UTC+9 (14 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "13 administrative districts; Aileu, Ainaro, Baucau, Bobonaro (Maliana), Cova-Lima (Suai), Dili, Ermera (Gleno), Lautem (Los Palos), Liquica, Manatuto, Manufahi (Same), Oecussi (Ambeno), Viqueque",
+      "note": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
+    },
+    "note": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)",
+    "Independence": {
+      "text": "28 November 1975 (independence proclaimed from Portugal); note - 20 May 2002 is the official date of international recognition of Timor-Leste's independence from Indonesia"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28 November (1975)"
+    },
+    "Constitution": {
+      "text": "22 March 2002 (based on the Portuguese model)"
+    },
+    "Legal system": {
+      "text": "UN-drafted legal system based on Indonesian law remains in place but is to be replaced by civil and penal codes based on Portuguese law; these have passed but have not been promulgated; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "17 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jose RAMOS-HORTA (since 20 May 2007); note - the president plays a largely symbolic role but is able to veto legislation, dissolve parliament, and call national elections"
+      },
+      "head of government": {
+        "text": "Prime Minister Kay Rala Xanana GUSMAO (since 8 August 2007), note - he formerly used the name Jose Alexandre GUSMAO; Vice Prime Minister Mario Viegas CARRASCALAO (since 5 March 2009); Vice Prime Minister Jose Luis GUTERRES (since 8 August 2007)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 9 April 2007 with run-off on 8 May 2007 (next to be held in May 2012); following elections, president appoints leader of majority party or majority coalition as prime minister"
+      },
+      "election results": {
+        "text": "Jose RAMOS-HORTA elected president; percent of vote - Jose RAMOS-HORTA 69.2%, Francisco GUTTERES 30.8%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Parliament (number of seats can vary from 52 to 65; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 30 June 2007 (next elections due by June 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - FRETILIN 29%, CNRT 24.1%, ASDT-PSD 15.8%, PD 11.3%, PUN 4.5%, KOTA-PPT (Democratic Alliance) 3.2%, UNDERTIM 3.2%, others 8.9%; seats by party - FRETILIN 21, CNRT 18, ASDT-PSD 11, PD 8, PUN 3, KOTA-PPT 2, UNDERTIM 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Justice - constitution calls for one judge to be appointed by National Parliament and rest appointed by Superior Council for Judiciary; note - until Supreme Court is established, Court of Appeals is highest court"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party or PD [Fernando de ARAUJO]; National Congress for Timorese Reconstruction or CNRT [Xanana GUSMAO]; National Democratic Union of Timorese Resistance or UNDERTIM [Cornelio DA Conceicao GAMA]; National Unity Party or PUN [Fernanda BORGES]; People's Party of Timor or PPT [Jacob XAVIER]; Revolutionary Front of Independent Timor-Leste or FRETILIN [Mari ALKATIRI]; Social Democratic Association of Timor or ASDT [Francisco Xavier do AMARAL]; Social Democratic Party or PSD [Zacarias Albano da COSTA]; Sons of the Mountain Warriors or KOTA [Manuel TILMAN] (also known as Association of Timorese Heroes)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, ARF, CPLP, FAO, G-77, IBRD, ICAO, ICCt, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU, WHO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Jorge Trindade NEVES de Camoes"
+      },
+      "chancery": {
+        "text": "4201 Connecticut Avenue NW, Suite 504,Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 966-3202"
+      },
+      "FAX": {
+        "text": "[1] (202) 966-3205"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Hans G. KLEMM"
+      },
+      "embassy": {
+        "text": "Avenida de Portugal, Praia dos Conqueiros, Dili"
+      },
+      "mailing address": {
+        "text": "US Department of State, 8250 Dili Place, Washington, DC 20521-8250"
+      },
+      "telephone": {
+        "text": "(670) 332-4684"
+      },
+      "FAX": {
+        "text": "(670) 331-3206"
+      }
+    },
+    "Flag description": {
+      "text": "red, with a black isosceles triangle (based on the hoist side) superimposed on a slightly longer yellow arrowhead that extends to the center of the flag; a white star is in the center of the black triangle"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "In late 1999, about 70% of the economic infrastructure of Timor-Leste was laid waste by Indonesian troops and anti-independence militias. Three hundred thousand people fled westward. Over the next three years a massive international program, manned by 5,000 peacekeepers (8,000 at peak) and 1,300 police officers, led to substantial reconstruction in both urban and rural areas. By the end of 2005, refugees had returned or had settled in Indonesia. The country continues to face great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of oil and gas resources in offshore waters has begun to supplement government revenues ahead of schedule and above expectations. The technology-intensive industry, however, has done little to create jobs for the unemployed because there are no production facilities in Timor. Gas is piped to Australia. In June 2005, the National Parliament unanimously approved the creation of a Petroleum Fund to serve as a repository for all petroleum revenues and preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of US$3.9 billion as of October 2008. The economy is recovering from the mid-2006 outbreak of violence and civil unrest, which disrupted both private and public sector economic activity. The government in 2008 resettled tens of thousands of an estimated 100,000 internally displaced persons (IDPs) and planned for all IDPs to return home by early 2009. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.066 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "the government in 2008 moved to a fiscal year calendar; it passed a supplementary spending package to cover the latter half of 2008 (FY06/07 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$499 million (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-5.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "32.2%"
+      },
+      "industry": {
+        "text": "12.8%"
+      },
+      "services": {
+        "text": "55% (2005)"
+      }
+    },
+    "Labor force": {
+      "text": "NA"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "90%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "20% (2006 est.)",
+      "note": "data are for rural areas, unemployment rises to more than 40% among urban youth"
+    },
+    "Population below poverty line": {
+      "text": "42% (2003 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "38"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$733 million"
+      },
+      "expenditures": {
+        "text": "$309 million"
+      },
+      "note": "the government in 2008 moved to a fiscal year calendar; it passed a supplementary spending package to cover the latter half of 2008 (FY06/07 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.8% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15.05% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$74.94 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$68.78 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$NA (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "coffee, rice, corn, cassava, sweet potatoes, soybeans, cabbage, mangoes, bananas, vanilla"
+    },
+    "Industries": {
+      "text": "printing, soap manufacturing, handicrafts, woven cloth"
+    },
+    "Industrial production growth rate": {
+      "text": "8.5% (2004 est.)"
+    },
+    "Electricity - production": {
+      "text": "kWh NA"
+    },
+    "Electricity - consumption": {
+      "text": "kWh NA"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "100,000 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "NA bbl/day"
+    },
+    "Oil - proved reserves": {
+      "text": "553.8 million bbl (1 January 2008)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "200 billion cu m (1 January 2006 est.)"
+    },
+    "Current account balance": {
+      "text": "$1.161 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$10 million (2005 est.); note - excludes oil"
+    },
+    "Exports - commodities": {
+      "text": "coffee, sandalwood, marble; note - potential for oil and vanilla exports"
+    },
+    "Imports": {
+      "text": "$202 million (2004 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food, gasoline, kerosene, machinery"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "2,400 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "101,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "rudimentary service limited to urban areas"
+      },
+      "domestic": {
+        "text": "system suffered significant damage during the violence associated with independence; extremely limited fixed-line services; mobile-cellular services and coverage limited primarily to urban areas"
+      },
+      "international": {
+        "text": "country code - 670; international service is available in major urban centers"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "at least 21 (Timor-Leste has one national public broadcaster and 20 community and church radio stations - station frequency types NA) (2007)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (Timor-Leste has one national public broadcaster)"
+    },
+    "Internet country code": {
+      "text": ".tl"
+    },
+    "Internet hosts": {
+      "text": "169 (2009)"
+    },
+    "Internet users": {
+      "text": "1,800 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "6 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "8 (2009)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "6,040 km"
+      },
+      "paved": {
+        "text": "2,600 km"
+      },
+      "unpaved": {
+        "text": "3,440 km (2005)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "passenger/cargo 1 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Dili"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Timor-Leste Defense Force (Forcas de Defesa de Timor-L'este, Falintil (F-FDTL))": {
+        "text": "Army, Navy (Armada) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "284,903"
+      },
+      "females age 16-49": {
+        "text": "272,212 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "230,534"
+      },
+      "females age 16-49": {
+        "text": "238,610 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "12,887"
+      },
+      "female": {
+        "text": "12,529 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Timor-Leste-Indonesia Boundary Committee has resolved all but a small portion of the land boundary, but discussions on maritime boundaries are stalemated over sovereignty of the uninhabited coral island of Pulau Batek/Fatu Sinai in the north and alignment with Australian claims in the south; many refugees who left Timor-Leste in 2003 still reside in Indonesia and refuse repatriation; Australia and Timor-Leste agreed in 2005 to defer the disputed portion of the boundary for 50 years and to split hydrocarbon revenues evenly outside the Joint Petroleum Development Area covered by the 2002 Timor Sea Treaty"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "100,000 (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "NA"
+    }
+  }
+}

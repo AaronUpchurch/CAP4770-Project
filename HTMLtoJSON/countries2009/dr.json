@@ -1,0 +1,739 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Explored and claimed by Christopher COLUMBUS on his first voyage in 1492, the island of Hispaniola became a springboard for Spanish conquest of the Caribbean and the American mainland. In 1697, Spain recognized French dominion over the western third of the island, which in 1804 became Haiti. The remainder of the island, by then known as Santo Domingo, sought to gain its own independence in 1821 but was conquered and ruled by the Haitians for 22 years; it finally attained independence as the Dominican Republic in 1844. In 1861, the Dominicans voluntarily returned to the Spanish Empire, but two years later they launched a war that restored independence in 1865. A legacy of unsettled, mostly non-representative rule followed, capped by the dictatorship of Rafael Leonidas TRUJILLO from 1930-61. Juan BOSCH was elected president in 1962 but was deposed in a military coup in 1963. In 1965, the United States led an intervention in the midst of a civil war sparked by an uprising to restore BOSCH. In 1966, Joaquin BALAGUER defeated BOSCH in an election to become president. BALAGUER maintained a tight grip on power for most of the next 30 years when international reaction to flawed elections forced him to curtail his term in 1996. Since then, regular competitive elections have been held in which opposition candidates have won the presidency. Former President (1996-2000) Leonel FERNANDEZ Reyna won election to a second term in 2004 following a constitutional amendment allowing presidents to serve more than one term."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, east of Haiti"
+    },
+    "Geographic coordinates": {
+      "text": "19 00 N, 70 40 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "48,670 sq km"
+      },
+      "land": {
+        "text": "48,320 sq km"
+      },
+      "water": {
+        "text": "350 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of New Hampshire"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "360 km"
+      },
+      "border countries": {
+        "text": "Haiti 360 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,288 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic straight baselines",
+      "territorial sea": {
+        "text": "6 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical maritime; little seasonal temperature variation; seasonal variation in rainfall"
+    },
+    "Terrain": {
+      "text": "rugged highlands and mountains with fertile valleys interspersed"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Lago Enriquillo -46 m"
+      },
+      "highest point": {
+        "text": "Pico Duarte 3,175 m"
+      }
+    },
+    "Natural resources": {
+      "text": "nickel, bauxite, gold, silver"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "22.49%"
+      },
+      "permanent crops": {
+        "text": "10.26%"
+      },
+      "other": {
+        "text": "67.25% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "2,750 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "21 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "3.39  cu km/yr (32%/2%/66%)"
+      },
+      "per capita": {
+        "text": "381  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "water shortages; soil eroding into the sea damages coral reefs; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "shares island of Hispaniola with Haiti"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "9,650,054 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "31.4% (male 1,543,141/female 1,488,016)"
+      },
+      "15-64 years": {
+        "text": "62.7% (male 3,087,351/female 2,960,319)"
+      },
+      "65 years and over": {
+        "text": "5.9% (male 264,476/female 306,751) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "24.9 years"
+      },
+      "male": {
+        "text": "24.8 years"
+      },
+      "female": {
+        "text": "25.1 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.489% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "22.39 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.28 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.22 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "69% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.86 male(s)/female"
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "25.96 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "28 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "23.84 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.7 years"
+      },
+      "male": {
+        "text": "71.88 years"
+      },
+      "female": {
+        "text": "75.6 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.76 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "62,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "4,100 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Dominican(s)"
+      },
+      "adjective": {
+        "text": "Dominican"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mixed 73%, white 16%, black 11%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 95%, other 5%"
+    },
+    "Languages": {
+      "text": "Spanish"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "87%"
+      },
+      "male": {
+        "text": "86.8%"
+      },
+      "female": {
+        "text": "87.2% (2002 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "13 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.6% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Dominican Republic "
+      },
+      "conventional short form": {
+        "text": "The Dominican"
+      },
+      "local long form": {
+        "text": "Republica Dominicana"
+      },
+      "local short form": {
+        "text": "La Dominicana"
+      }
+    },
+    "Government type": {
+      "text": "democratic republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Santo Domingo"
+      },
+      "geographic coordinates": {
+        "text": "18 28 N, 69 54 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "31 provinces (provincias, singular - provincia) and 1 district* (distrito); Azua, Bahoruco, Barahona, Dajabon, Distrito Nacional*, Duarte, El Seibo, Elias Pina, Espaillat, Hato Mayor, Independencia, La Altagracia, La Romana, La Vega, Maria Trinidad Sanchez, Monsenor Nouel, Monte Cristi, Monte Plata, Pedernales, Peravia, Puerto Plata, Salcedo, Samana, San Cristobal, San Jose de Ocoa, San Juan, San Pedro de Macoris, Sanchez Ramirez, Santiago, Santiago Rodriguez, Santo Domingo, Valverde"
+    },
+    "Independence": {
+      "text": "27 February 1844 (from Haiti)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 February (1844)"
+    },
+    "Constitution": {
+      "text": "28 November 1966; amended 25 July 2002"
+    },
+    "Legal system": {
+      "text": "based on French civil codes; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system; accepts compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age, universal and compulsory; married persons regardless of age; note - members of the armed forces and national police cannot vote"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Leonel FERNANDEZ Reyna (since 16 August 2004); Vice President Rafael ALBURQUERQUE de Castro (since 16 August 2004); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Leonel FERNANDEZ Reyna (since 16 August 2004); Vice President Rafael ALBURQUERQUE de Castro (since 16 August 2004)"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the president"
+      },
+      "elections": {
+        "text": "president and vice president elected on the same ticket by popular vote for four-year terms (eligible for a second consecutive term); election last held 16 May 2008 (next to be held in May 2012)"
+      },
+      "election results": {
+        "text": "Leonel FERNANDEZ reelected president; percent of vote - Leonel FERNANDEZ 53.6%, Miguel VARGAS 41%, Amable ARISTY less than 5%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral National Congress or Congreso Nacional consists of the Senate or Senado (32 seats; members are elected by popular vote to serve four-year terms) and the House of Representatives or Camara de Diputados (178 seats; members are elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "Senate - last held 16 May 2006 (next to be held in May 2010); House of Representatives - last held 16 May 2006 (next to be held in May 2010)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PLD 22, PRD 6, PRSC 4; House of Representatives - percent of vote by party - NA; seats by party - PLD 96, PRD 60, PRSC 22"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Corte Suprema (judges are appointed by the National Judicial Council comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and an additional non-governing party congressional representative)"
+    },
+    "Political parties and leaders": {
+      "text": "Dominican Liberation Party or PLD [Leonel FERNANDEZ Reyna]; Dominican Revolutionary Party or PRD [Ramon ALBURQUERQUE]; National Progressive Front [Vincent CASTILLO, Pelegrin CASTILLO]; Social Christian Reformist Party or PRSC [Enrique ANTUN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Citizen Participation Group (Participacion Ciudadania); Collective of Popular Organizations or COP; Foundation for Institution-Building and Justice (FINJUS)"
+    },
+    "International organization participation": {
+      "text": "ACP, BCIE, Caricom (observer), FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO (suspended), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW (signatory), PCA, RG, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Roberto SALADIN"
+      },
+      "chancery": {
+        "text": "1715 22nd Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-6280"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-8057"
+      },
+      "consulate(s) general": {
+        "text": "Anchorage, Boston, Chicago, Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico), Sun Valley (California)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador P. Robert FANNIN"
+      },
+      "embassy": {
+        "text": "corner of Calle Cesar Nicolas Penson and Calle Leopoldo Navarro, Santo Domingo"
+      },
+      "mailing address": {
+        "text": "Unit 5500, APO AA 34041-5500"
+      },
+      "telephone": {
+        "text": "[1] (809) 221-2171"
+      },
+      "FAX": {
+        "text": "[1] (809) 686-7437"
+      }
+    },
+    "Flag description": {
+      "text": "a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are blue (hoist side) and red, and the bottom ones are red (hoist side) and blue; a small coat of arms featuring a shield supported by an olive branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Dominican Republic has enjoyed strong GDP growth since 2005 and continued to post sound gains through mid-2008. The global recession, however, had a significant impact on GDP growth in the latter half of the year as tourism and remittances, two of the Dominican Republic's most important economic contributors, showed signs of slowing. The economy is highly dependent upon the US, the destination for about two-thirds of exports. Remittances from the US amount to about a tenth of GDP, equivalent to almost half of exports and three-quarters of tourism receipts. The country has long been viewed primarily as an exporter of sugar, coffee, and tobacco but in recent years the service sector has overtaken agriculture as the economy's largest employer due to growth in tourism and free trade zones. Although 2007 saw inflation around 6%, the rate grew to over 12% in 2008. High food prices, driven by the effects of consecutive tropical storms on agricultural products, and education prices were significant contributors to the jump. The effects of the global financial crisis and the US recession are projected to negatively affect GDP growth in 2009 with a rebound expected in 2010. Although the economy is growing at a respectable rate, high unemployment and underemployment remains an important challenge. The country suffers from marked income inequality; the poorest half of the population receives less than one-fifth of GNP, while the richest 10% enjoys nearly 40% of national income. The Central America-Dominican Republic Free Trade Agreement (CAFTA-DR) came into force in March 2007, which should boost investment and exports and reduce losses to the Asian garment industry."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$68.43 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$44.44 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "10.7% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,400 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "10.8%"
+      },
+      "industry": {
+        "text": "22.9%"
+      },
+      "services": {
+        "text": "66.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.119 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "14.6%"
+      },
+      "industry": {
+        "text": "22.3%"
+      },
+      "services": {
+        "text": "63.1% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "15.6% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "42.2% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.5%"
+      },
+      "highest 10%": {
+        "text": "38.7% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "47.4 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "19.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$7.46 billion"
+      },
+      "expenditures": {
+        "text": "$9.027 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "61.1% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.1% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15.83% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$4.074 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$5.631 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$15.92 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, coffee, cotton, cocoa, tobacco, rice, beans, potatoes, corn, bananas; cattle, pigs, dairy products, beef, eggs"
+    },
+    "Industries": {
+      "text": "tourism, sugar processing, ferronickel and gold mining, textiles, cement, tobacco"
+    },
+    "Industrial production growth rate": {
+      "text": "1.3% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "14.02 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "12.7 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "119,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "116,200 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "470 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "470 million cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$2.068 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$7.16 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "ferronickel, sugar, gold, silver, coffee, cocoa, tobacco, meats, consumer goods"
+    },
+    "Exports - partners": {
+      "text": "US 58.1%, Haiti 9.3%, Netherlands 2.9% (2008)"
+    },
+    "Imports": {
+      "text": "$13.6 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, petroleum, cotton and fabrics, chemicals and pharmaceuticals"
+    },
+    "Imports - partners": {
+      "text": "US 39.2%, Venezuela 7.7%, Mexico 5.4%, Colombia 4.9% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.562 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$10.21 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$12.71 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$59 million (31 December 2008 est.)"
+    },
+    "Exchange rates": {
+      "text": "Dominican pesos (DOP) per US dollar - 34.775 (2008 est.), 33.113 (2007), 33.406 (2006), 30.409 (2005), 42.12 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "985,700 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "7.21 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "relatively efficient system based on island-wide microwave radio relay network"
+      },
+      "domestic": {
+        "text": "fixed telephone line density is about 10 per 100 persons; multiple providers of mobile cellular service with a subscribership of roughly 75 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 1-809; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 120, FM 56, shortwave 4 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "25 (2003)"
+    },
+    "Internet country code": {
+      "text": ".do"
+    },
+    "Internet hosts": {
+      "text": "280,457 (2009)"
+    },
+    "Internet users": {
+      "text": "2.147 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "35 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "19"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "17 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "1,784 km"
+      },
+      "standard gauge": {
+        "text": "375 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "1,368 km 1.076-m, 0.889-m, and 0.762-m gauges"
+      },
+      "note": "1,226 km operated by sugar companies in 1.076 m, 0.889 m, and 0.762-m gauges (2008)"
+    },
+    "note": "1,226 km operated by sugar companies in 1.076 m, 0.889 m, and 0.762-m gauges (2008)",
+    "Roadways": {
+      "total": {
+        "text": "19,705 km"
+      },
+      "paved": {
+        "text": "9,872 km"
+      },
+      "unpaved": {
+        "text": "9,833 km (2002)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "cargo 1"
+      },
+      "registered in other countries": {
+        "text": "1 (Panama 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Boca Chica, Caucedo, Puerto Plata, Rio Haina, Santo Domingo"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy, Air Force (Fuerza Aerea Dominicana, FAD) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,440,203"
+      },
+      "females age 16-49": {
+        "text": "2,326,694 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,056,774"
+      },
+      "females age 16-49": {
+        "text": "1,921,836 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "97,766"
+      },
+      "female": {
+        "text": "93,922 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.8% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Haitian migrants cross the porous border into the Dominican Republic to find work; illegal migrants from the Dominican Republic cross the Mona Passage each year to Puerto Rico to find better work"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "the Dominican Republic is a source, transit, and destination country for men, women, and children trafficked for the purposes of commercial sexual exploitation and forced labor; a large number of Dominican women are trafficked into prostitution and sexual exploitation in Western Europe, Australia, Central and South America, and Caribbean destinations; a significant number of women, boys, and girls are trafficked within the country for sexual exploitation and domestic servitude"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - for a second consecutive year, the Dominican Republic is on the Tier 2 Watch List for its failure to show evidence of increasing efforts to combat human trafficking, particularly in terms of not adequately investigating and prosecuting public officials who may be complicit with trafficking activity, and inadequate government efforts to protect trafficking victims; the government has taken measures to reduce demand for commercial sex acts with children through criminal prosecutions (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for South American drugs destined for the US and Europe; has become a transshipment point for ecstasy from the Netherlands and Belgium destined for US and Canada; substantial money laundering activity in particular by Colombian narcotics traffickers; significant amphetamine consumption\r\n (2008)"
+    }
+  }
+}

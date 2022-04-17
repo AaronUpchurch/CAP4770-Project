@@ -1,0 +1,518 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 1974, ethnic differences within the British colony of the Gilbert and Ellice Islands caused the Polynesians of the Ellice Islands to vote for separation from the Micronesians of the Gilbert Islands. The following year, the Ellice Islands became the separate British colony of Tuvalu. Independence was granted in 1978. In 2000, Tuvalu negotiated a contract leasing its Internet domain name \".tv\" for $50 million in royalties over a 12-year period."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, island group consisting of nine coral atolls in the South Pacific Ocean, about one-half of the way from Hawaii to Australia"
+    },
+    "Geographic coordinates": {
+      "text": "8 00 S, 178 00 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "26 sq km"
+      },
+      "land": {
+        "text": "26 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "0.1 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "24 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)"
+    },
+    "Terrain": {
+      "text": "low-lying and narrow coral atolls"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "unnamed location 5 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0%"
+      },
+      "permanent crops": {
+        "text": "66.67%"
+      },
+      "other": {
+        "text": "33.33% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "severe tropical storms are usually rare, but in 1997 there were three cyclones; low level of islands make them sensitive to changes in sea level"
+    },
+    "Environment - current issues": {
+      "text": "since there are no streams or rivers and groundwater is not potable, most water needs must be met by catchment systems with storage facilities (the Japanese Government has built one desalination plant and plans to build one other); beachhead erosion because of the use of sand for building materials; excessive clearance of forest undergrowth for use as fuel; damage to coral reefs from the spread of the Crown of Thorns starfish; Tuvalu is concerned about global increases in greenhouse gas emissions and their effect on rising sea levels, which threaten the country's underground water table; in 2000, the government appealed to Australia and New Zealand to take in Tuvaluans if rising sea levels should make evacuation necessary"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "one of the smallest and most remote countries on Earth; six of the nine coral atolls - Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae - have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "12,373 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "29.2% (male 1,841/female 1,770)"
+      },
+      "15-64 years": {
+        "text": "65.6% (male 3,973/female 4,141)"
+      },
+      "65 years and over": {
+        "text": "5.2% (male 240/female 408) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "25.4 years"
+      },
+      "male": {
+        "text": "24.4 years"
+      },
+      "female": {
+        "text": "26.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.616% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "23.11 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.95 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "49% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.59 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "18.43 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "20.95 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "15.77 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "69.29 years"
+      },
+      "male": {
+        "text": "66.99 years"
+      },
+      "female": {
+        "text": "71.7 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.91 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Tuvaluan(s)"
+      },
+      "adjective": {
+        "text": "Tuvaluan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Polynesian 96%, Micronesian 4%"
+    },
+    "Religions": {
+      "text": "Church of Tuvalu (Congregationalist) 97%, Seventh-Day Adventist 1.4%, Baha'i 1%, other 0.6%"
+    },
+    "Languages": {
+      "text": "Tuvaluan, English, Samoan, Kiribati (on the island of Nui)"
+    },
+    "Literacy": {
+      "text": "NA"
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "11 years (2001)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Tuvalu"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Tuvalu"
+      },
+      "former": {
+        "text": "Ellice Islands"
+      },
+      "note": "\"Tuvalu\" means \"group of eight\" referring to the country's eight traditionally inhabited islands"
+    },
+    "note": "administrative offices are in Vaiaku Village on Fongafale Islet",
+    "Government type": {
+      "text": "a parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Funafuti"
+      },
+      "geographic coordinates": {
+        "text": "8 30 S, 179 12 E"
+      },
+      "time difference": {
+        "text": "UTC+12 (17 hours ahead of Washington, DC during Standard Time)"
+      },
+      "note": "administrative offices are in Vaiaku Village on Fongafale Islet"
+    },
+    "Administrative divisions": {
+      "text": "none"
+    },
+    "Independence": {
+      "text": "1 October 1978 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 October (1978)"
+    },
+    "Constitution": {
+      "text": "1 October 1978"
+    },
+    "Legal system": {
+      "text": "English common law supplemented by local customary law"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Filoimea TELITO (since 15 April 2005)"
+      },
+      "head of government": {
+        "text": "Prime Minister Apisai IELEMIA (since 14 August 2006)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor general on the recommendation of the prime minister"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; prime minister and deputy prime minister elected by and from the members of parliament; election last held 14 August 2006 (next to be held following parliamentary elections in 2010)"
+      },
+      "election results": {
+        "text": "Apisai IELEMIA elected prime minister in a parliamentary election on 14 August 2006"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Fale I Fono, also called House of Assembly (15 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held 3 August 2006 (next to be held in 2010)"
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats - independents 15"
+      }
+    },
+    "Judicial branch": {
+      "text": "High Court (a chief justice visits twice a year to preside over its sessions; its rulings can be appealed to the Court of Appeal in Fiji); eight Island Courts (with limited jurisdiction)"
+    },
+    "Political parties and leaders": {
+      "text": "there are no political parties but members of parliament usually align themselves in informal groupings"
+    },
+    "Political pressure groups and leaders": {
+      "text": "none"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, C, FAO, IFRCS (observer), IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO"
+    },
+    "Diplomatic representation in the US": {
+      "Tuvalu does not have an embassy in the US - the country's only diplomatic post is in Fiji - Tuvalu does, however, have a UN office located at 800 2nd Avenue, Suite 400D, New York, NY 10017, telephone": {
+        "text": "[1] (212) 490-0534"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Tuvalu; the US ambassador to Fiji is accredited to Tuvalu"
+    },
+    "Flag description": {
+      "text": "light blue with the flag of the UK in the upper hoist-side quadrant; the outer half of the flag represents a map of the country with nine yellow five-pointed stars symbolizing the nine islands"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. The country has no known mineral resources and few exports and is almost entirely dependent upon imported food and fuel. Subsistence farming and fishing are the primary economic activities. Fewer than 1,000 tourists, on average, visit Tuvalu annually. Job opportunities are scarce and public sector workers make up most of those employed. About 15% of the adult male population work as seamen on merchant ships abroad, and remittances are a vital source of income contributing around $4 million in 2006. Substantial income is received annually from the Tuvalu Trust Fund (TTF) an international trust fund established in 1987 by Australia, NZ, and the UK and supported also by Japan and South Korea. Thanks to wise investments and conservative withdrawals, this fund grew from an initial $17 million to an estimated value of $77 million in 2006. The TFF contributed nearly $9 million towards the government budget in 2006 and is an important cushion for meeting shortfalls in the government's budget. The US Government is also a major revenue source for Tuvalu because of payments from a 1988 treaty on fisheries. In an effort to ensure financial stability and sustainability, the government is pursuing public sector reforms, including privatization of some government functions and personnel cuts. Tuvalu also derives royalties from the lease of its \".tv\" Internet domain name with revenue of more than $2 million in 2006. A minor source of government revenue comes from the sale of stamps and coins. With merchandise exports only a fraction of merchandise imports, continued reliance must be placed on fishing and telecommunications license fees, remittances from overseas workers, official transfers, and income from overseas investments. Growing income disparities and the vulnerability of the country to climatic change are among leading concerns for the nation.\r\n\r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$14.94 million (2002 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$14.94 million (2002)"
+    },
+    "GDP - real growth rate": {
+      "text": "3% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,600 (2002 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "16.6%"
+      },
+      "industry": {
+        "text": "27.2%"
+      },
+      "services": {
+        "text": "56.2% (2002)"
+      }
+    },
+    "Labor force": {
+      "text": "3,615 (2004 est.)",
+      "note": "people make a living mainly through exploitation of the sea, reefs, and atolls and from wages sent home by those abroad (mostly workers in the phosphate industry and sailors)"
+    },
+    "Labor force - by occupation": {},
+    "note": "people make a living mainly through exploitation of the sea, reefs, and atolls and from wages sent home by those abroad (mostly workers in the phosphate industry and sailors)",
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$21.54 million"
+      },
+      "expenditures": {
+        "text": "$23.05 million (2006)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.8% (2006 est.)"
+    },
+    "Agriculture - products": {
+      "text": "coconuts; fish"
+    },
+    "Industries": {
+      "text": "fishing, tourism, copra"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Current account balance": {
+      "text": "-$11.68 million (2003)"
+    },
+    "Exports": {
+      "text": "$1 million (2004 est.)"
+    },
+    "Exports - commodities": {
+      "text": "copra, fish"
+    },
+    "Imports": {
+      "text": "$12.91 million (2005)"
+    },
+    "Imports - commodities": {
+      "text": "food, animals, mineral fuels, machinery, manufactured goods"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Tuvaluan dollars or Australian dollars (AUD) per U 1.2059 (2008 est.), 1.2137 (2007), 1.3285 (2006), 1.3095 (2005), 1.3598 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1,500 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "serves particular needs for internal communications"
+      },
+      "domestic": {
+        "text": "radiotelephone communications between islands"
+      },
+      "international": {
+        "text": "country code - 688; international calls can be made by satellite"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 1, FM 1, shortwave 0 (2004)"
+    },
+    "Television broadcast stations": {
+      "text": "0 (2004)"
+    },
+    "Internet country code": {
+      "text": ".tv"
+    },
+    "Internet hosts": {
+      "text": "103,041 (2009)"
+    },
+    "Internet users": {
+      "text": "4,200 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1 (2009)"
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "8 km"
+      },
+      "paved": {
+        "text": "8 km (2002)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "80"
+      },
+      "by type": {
+        "text": "bulk carrier 7, cargo 30, chemical tanker 14, container 2, passenger 2, passenger/cargo 1, petroleum tanker 22, refrigerated cargo 1, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "63 (China 16, Hong Kong 7, Kenya 1, South Korea 1, Malaysia 1, Maldives 1, Norway 1, Russia 2, Singapore 23, Thailand 1, Turkey 2, Ukraine 1, US 1, Vietnam 5) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Funafuti"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Tuvalu Police Force (2008)"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,462"
+      },
+      "females age 16-49": {
+        "text": "2,631 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "125"
+      },
+      "female": {
+        "text": "121 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

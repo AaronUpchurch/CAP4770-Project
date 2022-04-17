@@ -1,0 +1,752 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. Five years later, Japan formally annexed the entire peninsula. Following World War II, Korea was split with the northern half coming under Soviet-sponsored Communist control. After failing in the Korean War (1950-53) to conquer the US-backed Republic of Korea (ROK) in the southern portion by force, North Korea (DPRK), under its founder President KIM Il Sung, adopted a policy of ostensible diplomatic and economic \"self-reliance\" as a check against outside influence. The DPRK demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. KIM Jong Un was publicly unveiled as his father's successor in September 2010. Following KIM Jong Il's death in December 2011, the regime began to take actions to transfer power to KIM Jong Un and Jong Un has begun to assume his father's former titles and duties. After decades of economic mismanagement and resource misallocation, the DPRK since the mid-1990s has relied heavily on international aid to feed its population. North Korea's history of regional military provocations, proliferation of military-related items, long-range missile development, WMD programs including tests of nuclear devices in 2006 and 2009, and massive conventional armed forces are of major concern to the international community. The regime has marked 2012, the centenary of KIM Il Sung's birth, a banner year; to that end, the country has heightened its focus on developing its economy and improving its people's livelihoods. \r\n"
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea"
+    },
+    "Geographic coordinates": {
+      "text": "40 00 N, 127 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "120,538 sq km"
+      },
+      "land": {
+        "text": "120,408 sq km "
+      },
+      "water": {
+        "text": "130 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Mississippi"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,671.5 km"
+      },
+      "border countries": {
+        "text": "China 1,416 km, South Korea 238 km, Russia 17.5 km "
+      }
+    },
+    "Coastline": {
+      "text": "2,495 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      },
+      "note": "military boundary line 50 nm in the Sea of Japan and the exclusive economic zone limit in the Yellow Sea where all foreign vessels and aircraft without permission are banned "
+    },
+    "note": "military boundary line 50 nm in the Sea of Japan and the exclusive economic zone limit in the Yellow Sea where all foreign vessels and aircraft without permission are banned ",
+    "Climate": {
+      "text": "temperate with rainfall concentrated in summer"
+    },
+    "Terrain": {
+      "text": "mostly hills and mountains separated by deep, narrow valleys; coastal plains wide in west, discontinuous in east"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Sea of Japan 0 m"
+      },
+      "highest point": {
+        "text": "Paektu-san 2,744 m "
+      }
+    },
+    "Natural resources": {
+      "text": "coal, lead, tungsten, zinc, graphite, magnesite, iron ore, copper, gold, pyrites, salt, fluorspar, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "22.4%"
+      },
+      "permanent crops": {
+        "text": "1.66% "
+      },
+      "other": {
+        "text": "75.94% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "14,600 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "77.1 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "9.02  cu km/yr (20%/25%/55%)"
+      },
+      "per capita": {
+        "text": "401  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "late spring droughts often followed by severe flooding; occasional typhoons during the early fall",
+      "volcanism": {
+        "text": "Changbaishan (elev. 2,744 m) (also known as Baitoushan, Baegdu or P'aektu-san), on the Chinese border, is considered historically active "
+      }
+    },
+    "Environment - current issues": {
+      "text": "water pollution; inadequate supplies of potable water; waterborne disease; deforestation; soil erosion and degradation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea "
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location bordering China, South Korea, and Russia; mountainous interior is isolated and sparsely populated"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Korean(s) "
+      },
+      "adjective": {
+        "text": "Korean "
+      }
+    },
+    "Ethnic groups": {
+      "text": "racially homogeneous; there is a small Chinese community and a few ethnic Japanese"
+    },
+    "Languages": {
+      "text": "Korean"
+    },
+    "Religions": {
+      "text": "traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)",
+      "note": "autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom "
+    },
+    "note": "autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom ",
+    "Population": {
+      "text": "24,589,122 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "22% (male 2,742,874/ female 2,672,199)"
+      },
+      "15-64 years": {
+        "text": "68.7% (male 8,405,734/ female 8,479,707) "
+      },
+      "65 years and over": {
+        "text": "9.3% (male 768,703/ female 1,519,905) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "33 years"
+      },
+      "male": {
+        "text": "31.4 years "
+      },
+      "female": {
+        "text": "34.7 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "0.535% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "14.51 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "9.12 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.04 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "60% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.6% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.51 male(s)/female "
+      },
+      "total population": {
+        "text": "0.94 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "81 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "26.21 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "29.05 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "23.24 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "69.2 years"
+      },
+      "male": {
+        "text": "65.34 years "
+      },
+      "female": {
+        "text": "73.24 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.01 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "2% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.29 physicians/1,000 population (2003)"
+    },
+    "Hospital bed density": {
+      "text": "13.2 beds/1,000 population (2002)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "42% of population "
+      },
+      "rural": {
+        "text": "40% of population "
+      },
+      "total": {
+        "text": "41% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "20.6% (2004)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99% "
+      },
+      "male": {
+        "text": "99% "
+      },
+      "female": {
+        "text": "99% (1991 est.) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Democratic People's Republic of Korea "
+      },
+      "conventional short form": {
+        "text": "North Korea "
+      },
+      "local long form": {
+        "text": "Choson-minjujuui-inmin-konghwaguk "
+      },
+      "local short form": {
+        "text": "Choson "
+      },
+      "abbreviation": {
+        "text": "DPRK "
+      }
+    },
+    "Government type": {
+      "text": "Communist state one-man dictatorship"
+    },
+    "Capital": {
+      "name": {
+        "text": "Pyongyang"
+      },
+      "geographic coordinates": {
+        "text": "39 01 N, 125 45 E "
+      },
+      "time difference": {
+        "text": "UTC+9 (14 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 provinces (do, singular and plural) and 2 municipalities (si, singular and plural)",
+      "provinces": {
+        "text": "Chagang-do (Chagang), Hamgyong-bukto (North Hamgyong), Hamgyong-namdo (South Hamgyong), Hwanghae-bukto (North Hwanghae), Hwanghae-namdo (South Hwanghae), Kangwon-do (Kangwon), P'yongan-bukto (North P'yongan), P'yongan-namdo (South P'yongan), Yanggang-do (Yanggang) "
+      },
+      "municipalities": {
+        "text": "Nason-si, P'yongyang-si (Pyongyang) "
+      }
+    },
+    "Independence": {
+      "text": "15 August 1945 (from Japan)"
+    },
+    "National holiday": {
+      "text": "Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)"
+    },
+    "Constitution": {
+      "text": "adopted 1948; revised several times"
+    },
+    "Legal system": {
+      "text": "civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "17 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "KIM Jong Un (since 17 December 2011) note - the rubberstamp Supreme People's Assembly (SPA) reelected KIM Yong Nam in 2009 president of its Presidium also with responsibility of representing state and receiving diplomatic credentials"
+      },
+      "head of government": {
+        "text": "Premier CHOE Yong Rim (since 7 June 2010); Vice Premiers"
+      },
+      "cabinet": {
+        "text": "Naegak (cabinet) members, except for Minister of People's Armed Forces, are appointed by SPA "
+      },
+      "elections": {
+        "text": "last election held in April 2012; date of next election NA "
+      },
+      "election results": {
+        "text": "KIM Jong Un elected "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 8 March 2009 (next to be held in March 2014) "
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - NA; ruling party approves a list of candidates who are elected without opposition; a token number of seats are reserved for minor parties "
+      }
+    },
+    "Judicial branch": {
+      "text": "Central Court (judges are elected by the Supreme People's Assembly)"
+    },
+    "Political parties and leaders": {
+      "text": "major party - Korean Workers' Party or KWP [KIM Jong Un]; minor parties - Chondoist Chongu Party [RYU Mi Yong] (under KWP control), Social Democratic Party [KIM Yong Dae] (under KWP control)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "none"
+    },
+    "International organization participation": {
+      "text": "ARF, FAO, G-77, ICAO, ICC (NGOs), ICRM, IFAD, IFRCS, IHO, IMO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none; North Korea has a Permanent Mission to the UN in New York"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none; note - Swedish Embassy in Pyongyang represents the US as consular protecting power"
+    },
+    "Flag description": {
+      "text": "three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stands for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism"
+    },
+    "National symbol(s)": {
+      "text": "red star"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Aegukka\" (Patriotic Song)"
+      },
+      "lyrics/music": {
+        "text": "PAK Se Yong/KIM Won Gyun "
+      },
+      "note": "adopted 1947; both North Korea and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as \"Ach'imun pinnara\" (Let Morning Shine) "
+    },
+    "note": "adopted 1947; both North Korea and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as \"Ach'imun pinnara\" (Let Morning Shine) "
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "North Korea, one of the world's most centrally directed and least open economies, faces chronic economic problems. Industrial capital stock is nearly beyond repair as a result of years of underinvestment, shortages of spare parts, and poor maintenance. Large-scale military spending draws off resources needed for investment and civilian consumption. Industrial and power output have stagnated for years at a fraction of pre-1990 levels. Frequent weather-related crop failures aggravated chronic food shortages caused by on-going systemic problems, including a lack of arable land, collective farming practices, poor soil quality, insufficient fertilization, and persistent shortages of tractors and fuel. Large-scale international food aid deliveries have allowed the people of North Korea to escape widespread starvation since famine threatened in 1995, but the population continues to suffer from prolonged malnutrition and poor living conditions. Since 2002, the government has allowed private \"farmers' markets\" to begin selling a wider range of goods. It also permitted some private farming - on an experimental basis - in an effort to boost agricultural output. In December 2009, North Korea carried out a redenomination of its currency, capping the amount of North Korean won that could be exchanged for the new notes, and limiting the exchange to a one-week window. A concurrent crackdown on markets and foreign currency use yielded severe shortages and inflation, forcing Pyongyang to ease the restrictions by February 2010. In response to the sinking of the South Korean destroyer Cheonan and the shelling of Yeonpyeong Island, South Korea's government cut off most aid, trade, and bilateral cooperation activities, with the exception of operations at the Kaesong Industrial Complex. In 2012, KIM Jong Un's first year of leadership, the North displayed increased focus on the economy by renewing its commitment to special economic zones with China, negotiating a new payment structure to settle its $11 billion Soviet-era debt to Russia, and purportedly proposing new agricultural and industrial policies to boost domestic production. The North Korean government often highlights its goal of becoming a \"strong and prosperous\" nation and attracting foreign investment, a key factor for improving the overall standard of living. Nevertheless, firm political control remains the government's overriding concern, which likely will inhibit fundamental reforms of North Korea's current economic system."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "North Korea does not publish reliable National Income Accounts data; the data shown here are derived from purchasing power parity (PPP) GDP estimates for North Korea that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2011 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion. ",
+      "note": "data are in 2011 US dollars; "
+    },
+    "note": "excludes earnings from state-operated enterprises (2007 est.) ",
+    "GDP (official exchange rate)": {
+      "text": "$28 billion (2009 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.9% (2009 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,900 (2009 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "23.1%"
+      },
+      "industry": {
+        "text": "47.5% "
+      },
+      "services": {
+        "text": "29.4% (2011 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "12.2 million",
+      "note": "estimates vary widely (2009 est.) "
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "35%"
+      },
+      "industry and services": {
+        "text": "65% (2008 est.) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA% "
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.2 billion"
+      },
+      "expenditures": {
+        "text": "$3.3 billion (2007 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "11.4% of GDP",
+      "note": "excludes earnings from state-operated enterprises (2007 est.) "
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-0.4% of GDP (2007 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "NA%"
+    },
+    "Agriculture - products": {
+      "text": "rice, corn, potatoes, soybeans, pulses; cattle, pigs, pork, eggs"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Exports": {
+      "text": "$4.706 billion (2010 est.) "
+    },
+    "Exports - commodities": {
+      "text": "minerals, metallurgical products, manufactures (including armaments), textiles, agricultural and fishery products"
+    },
+    "Exports - partners": {
+      "text": "China 67.2%, South Korea 19.4%, India 3.6% (2011 est.)"
+    },
+    "Imports": {
+      "text": "$2.934 billion (2010 est.) "
+    },
+    "Imports - commodities": {
+      "text": "petroleum, coking coal, machinery and equipment, textiles, grain"
+    },
+    "Imports - partners": {
+      "text": "China 61.6%, South Korea 20%, European Union 4% (2011 est.)"
+    },
+    "Debt - external": {
+      "text": "$12.5 billion (2001 est.)"
+    },
+    "Exchange rates": {
+      "text": "140 (2007) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "20.45 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "17.12 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "9.5 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "47.4% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "52.6% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "8,432 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "9,133 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "15,070 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "7,967 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "63.69 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.18 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate system; nationwide fiber-optic network; mobile-cellular service expanding beyond Pyongyang"
+      },
+      "domestic": {
+        "text": "fiber-optic links installed down to the county level; telephone directories unavailable; GSM mobile-cellular service initiated in 2002 but suspended in 2004; Orascom Telecom Holding, an Egyptian company, launched W-CDMA mobile service on December 15, 2008 for the Pyongyang area and has expanded service to several large cities "
+      },
+      "international": {
+        "text": "country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing (2009) "
+      }
+    },
+    "Broadcast media": {
+      "text": "no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2008)"
+    },
+    "Internet country code": {
+      "text": ".kp"
+    },
+    "Internet hosts": {
+      "text": "8 (2012)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "81 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "39"
+      },
+      "over 3,047 m": {
+        "text": "3 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "22 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "8 "
+      },
+      "914 to 1,523 m": {
+        "text": "2 "
+      },
+      "under 914 m": {
+        "text": "4 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "42"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "17 "
+      },
+      "914 to 1,523 m": {
+        "text": "14 "
+      },
+      "under 914 m": {
+        "text": "8 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "23 (2012)"
+    },
+    "Pipelines": {
+      "text": "oil 154 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "5,242 km"
+      },
+      "standard gauge": {
+        "text": "5,242 km 1.435-m gauge (3,500 km electrified) (2009) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "25,554 km"
+      },
+      "paved": {
+        "text": "724 km "
+      },
+      "unpaved": {
+        "text": "24,830 km (2006) "
+      }
+    },
+    "Waterways": {
+      "text": "2,250 km (most navigable only by small craft) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "158"
+      },
+      "by type": {
+        "text": "bulk carrier 6, cargo 131, carrier 1, chemical tanker 1, container 4, passenger/cargo 1, petroleum tanker 12, refrigerated cargo 2 "
+      },
+      "foreign-owned": {
+        "text": "13 (Belgium 1, China 3, Nigeria 1, Singapore 1, South Korea 1, Syria 4, UAE 2) "
+      },
+      "registered in other countries": {
+        "text": "6 (Mongolia 1, Sierra Leone 2, unknown 3) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Ch'ongjin, Haeju, Hungnam (Hamhung), Namp'o, Senbong, Songnim, Sonbong (formerly Unggi), Wonsan"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "North Korean People's Army": {
+        "text": "Ground Forces, Navy, Air Force; civil security forces (2005)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17 years of age (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "6,515,279"
+      },
+      "females age 16-49": {
+        "text": "6,418,693 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,836,567"
+      },
+      "females age 16-49": {
+        "text": "5,230,137 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "207,737"
+      },
+      "female": {
+        "text": "204,553 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression; North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen rivers; Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary; North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "undetermined (flooding in mid-2007 and famine during mid-1990s) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "North Korea is a source country for men, women, and children trafficked for the purposes of forced labor and commercial sexual exploitation; the most common form of trafficking involves North Korean women and girls who cross the border into China voluntarily; additionally, North Korean women and girls are lured out of North Korea to escape poor social and economic conditions by the promise of food, jobs, and freedom, only to be forced into prostitution, marriage, or exploitative labor arrangements once in China; within the country, North Koreans do not have a choice in the work the government assigns them and are not free to change jobs at will"
+      },
+      "tier rating": {
+        "text": "Tier 3 - North Korea does not fully comply with minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government does not acknowledge the existence of human rights abuses in the country or recognize trafficking, either within the country or transnationally (2008) "
+      }
+    },
+    "Illicit drugs": {
+      "text": "for years, from the 1970s into the 2000s, citizens of the Democratic People's Republic of (North) Korea (DPRK), many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics, including two in Turkey in December 2004; police investigations in Taiwan and Japan in recent years have linked North Korea to large illicit shipments of heroin and methamphetamine, including an attempt by the North Korean merchant ship Pong Su to deliver 150 kg of heroin to Australia in April 2003"
+    }
+  }
+}

@@ -1,0 +1,718 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Guinea has had a history of authoritarian rule since gaining its independence from France in 1958. Lansana CONTE came to power in 1984 when the military seized the government after the death of the first president, Sekou TOURE. Guinea did not hold democratic elections until 1993 when Gen. CONTE (head of the military government) was elected president of the civilian government. He was reelected in 1998 and again in 2003, though all the polls were marred by irregularities. History repeated itself in December 2008 when following President CONTE's death, Capt. Moussa Dadis CAMARA led a military coup, seizing power and suspending the constitution as well as political and union activity. Guinea has maintained some semblance of internal stability despite spillover effects from conflict in Sierra Leone and Liberia. As those countries have rebuilt, however, Guinea's own vulnerability to political and economic crisis has increased. Declining economic conditions and popular dissatisfaction with corruption and bad governance prompted two massive strikes in 2006, and a third nationwide strike in early 2007. \r\n\r\n"
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone"
+    },
+    "Geographic coordinates": {
+      "text": "11 00 N, 10 00 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "245,857 sq km"
+      },
+      "land": {
+        "text": "245,717 sq km"
+      },
+      "water": {
+        "text": "140 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Oregon"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,399 km"
+      },
+      "border countries": {
+        "text": "Cote d'Ivoire 610 km, Guinea-Bissau 386 km, Liberia 563 km, Mali 858 km, Senegal 330 km, Sierra Leone 652 km"
+      }
+    },
+    "Coastline": {
+      "text": "320 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds"
+    },
+    "Terrain": {
+      "text": "generally flat coastal plain, hilly to mountainous interior"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mont Nimba 1,752 m"
+      }
+    },
+    "Natural resources": {
+      "text": "bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "4.47%"
+      },
+      "permanent crops": {
+        "text": "2.64%"
+      },
+      "other": {
+        "text": "92.89% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "950 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "226 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.51  cu km/yr (8%/2%/90%)"
+      },
+      "per capita": {
+        "text": "161  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "hot, dry, dusty harmattan haze may reduce visibility during dry season"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; inadequate supplies of potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices have led to environmental damage"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the Niger and its important tributary the Milo have their sources in the Guinean highlands"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "10,057,975 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "42.8% (male 2,175,852/female 2,128,518)"
+      },
+      "15-64 years": {
+        "text": "53.7% (male 2,701,184/female 2,704,161)"
+      },
+      "65 years and over": {
+        "text": "3.5% (male 153,053/female 195,207) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.5 years"
+      },
+      "male": {
+        "text": "18.2 years"
+      },
+      "female": {
+        "text": "18.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.572% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "37.52 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "11 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.8 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "34% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "3.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "65.22 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "68.7 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "61.63 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "57.09 years"
+      },
+      "male": {
+        "text": "55.63 years"
+      },
+      "female": {
+        "text": "58.6 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.2 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.6% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "87,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "4,500 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria and yellow fever"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "aerosolized dust or soil contact disease": {
+        "text": "Lassa fever (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Guinean(s)"
+      },
+      "adjective": {
+        "text": "Guinean"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Peuhl 40%, Malinke 30%, Soussou 20%, smaller ethnic groups 10%"
+    },
+    "Religions": {
+      "text": "Muslim 85%, Christian 8%, indigenous beliefs 7%"
+    },
+    "Languages": {
+      "text": "French (official); note - each ethnic group has its own language"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "29.5%"
+      },
+      "male": {
+        "text": "42.6%"
+      },
+      "female": {
+        "text": "18.1% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "8 years"
+      },
+      "male": {
+        "text": "10 years"
+      },
+      "female": {
+        "text": "7 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "1.6% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Guinea "
+      },
+      "conventional short form": {
+        "text": "Guinea"
+      },
+      "local long form": {
+        "text": "Republique de Guinee"
+      },
+      "local short form": {
+        "text": "Guinee"
+      },
+      "former": {
+        "text": "French Guinea"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Conakry"
+      },
+      "geographic coordinates": {
+        "text": "9 33 N, 13 42 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "33 prefectures and 1 special zone (zone special)*; Beyla, Boffa, Boke, Conakry*, Coyah, Dabola, Dalaba, Dinguiraye, Dubreka, Faranah, Forecariah, Fria, Gaoual, Gueckedou, Kankan, Kerouane, Kindia, Kissidougou, Koubia, Koundara, Kouroussa, Labe, Lelouma, Lola, Macenta, Mali, Mamou, Mandiana, Nzerekore, Pita, Siguiri, Telimele, Tougue, Yomou"
+    },
+    "Independence": {
+      "text": "2 October 1958 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 2 October (1958)"
+    },
+    "Constitution": {
+      "text": "23 December 1990 (Loi Fundamentale)"
+    },
+    "Legal system": {
+      "text": "based on French civil law system, customary law, and decree; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Capt. Moussa Dadis CAMARA, President of the National Council for Democracy and Development, who led a military coup following the death of President Lansana CONTE on 22 December 2008"
+      },
+      "head of government": {
+        "text": "Prime Minister Kabine KOMARA (since 30 December 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (no term limits); candidate must receive a majority of the votes cast to be elected president; election last held 21 December 2003 (ad hoc election scheduled for 31 January 2010); the prime minister is appointed by the president"
+      },
+      "election results": {
+        "text": "Lansana CONTE reelected president; percent of vote - Lansana CONTE 95.3%, Mamadou Bhoye BARRY 4.6%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral People's National Assembly or Assemblee Nationale Populaire (114 seats; members are elected by a mixed system of direct popular vote and proportional party lists)",
+      "elections": {
+        "text": "last held 30 June 2002 (legislative elections due in 2007 were first rescheduled for 2008 and subsequently rescheduled for 26 March 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - PUP 61.6%, UPR 26.6%, other 11.8%; seats by party - PUP 85, UPR 20, other 9"
+      }
+    },
+    "Judicial branch": {
+      "text": "Court of First Instance or Tribunal de Premiere Instance; Court of Appeal or Cour d'Appel; Supreme Court or Cour Supreme"
+    },
+    "Political parties and leaders": {
+      "text": "National Union for Progress or UPN [Mamadou Bhoye BARRY]; Party for Unity and Progress or PUP (the governing party) [Sekou KONATE]; People's Party of Guinea or PPG [Charles Pascal TOLNO]; Rally for the Guinean People or RPG [Alpha CONDE]; Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]; Union of Republican Forces or UFR [Sidya TOURE]; Union for Progress of Guinea or UPG [Jean-Marie DORE, secretary-general]; Union for Progress and Renewal or UPR [Ousmane BAH]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Confederation of Guinean Workers-Labor Union of Guinean Workers or CNTG-USTG Alliance (includes National Confederation of Guinean Workers or CNTG [Rabiatou Sarah DIALLO] and Labor Union of Guinean Workers or USTG [Dr. Ibrahima FOFANA]); National Council of Civil Society Organizations of Guinea or CNOSCG [Ben Sekou SYLLA]; Syndicate of Guinean Teachers and Researchers or SLECG [Dr. Louis M'Bemba SOUMAH]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mory Karamoko KABA"
+      },
+      "chancery": {
+        "text": "2112 Leroy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 986-4300"
+      },
+      "FAX": {
+        "text": "[1] (202) 483-8688"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Elizabeth RASPOLIC"
+      },
+      "embassy": {
+        "text": "Koloma, Conakry, east of Hamdallaye Circle"
+      },
+      "mailing address": {
+        "text": "B. P. 603, Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry"
+      },
+      "telephone": {
+        "text": "[224] 65-10-40-00"
+      },
+      "FAX": {
+        "text": "[224] 65-10-42-97"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of red (hoist side), yellow, and green; uses the popular pan-African colors of Ethiopia"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Guinea possesses major mineral, hydropower, and agricultural resources, yet remains an underdeveloped nation. The country has almost half of the world's bauxite reserves. The mining sector accounts for more than 70% of exports. Long-run improvements in government fiscal arrangements, literacy, and the legal framework are needed if the country is to move out of poverty. Investor confidence has been sapped by rampant corruption, a lack of electricity and other infrastructure, a lack of skilled workers, and the political uncertainty because of the death of President Lansana CONTE in December 2008. Guinea is trying to reengage with the IMF and World Bank, which cut off most assistance in 2003, and is working closely with technical advisors from the U.S. Treasury Department, the World Bank and IMF, seeking to return to a fully funded program. Growth rose slightly in 2006-08, primarily due to increases in global demand and commodity prices on world markets, but the standard of living fell. The Guinea franc depreciated sharply as the prices for basic necessities like food and fuel rose beyond the reach of most Guineans. Dissatisfaction with economic conditions prompted nationwide strikes in February and June 2006."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$10.02 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "excludes electricity generated at interior mining sites (2007 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$4.517 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "23.2%"
+      },
+      "industry": {
+        "text": "39.5%"
+      },
+      "services": {
+        "text": "37.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.392 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "76%"
+      },
+      "industry and services": {
+        "text": "24% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "47% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.9%"
+      },
+      "highest 10%": {
+        "text": "41% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "40.3 (1994)"
+    },
+    "Investment (gross fixed)": {
+      "text": "12.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$769.7 million"
+      },
+      "expenditures": {
+        "text": "$837.7 million (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "23.4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "22.25% (31 December 2005)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA%"
+    },
+    "Stock of money": {
+      "text": "$309.8 million (31 December 2005)"
+    },
+    "Stock of quasi money": {
+      "text": "$NA"
+    },
+    "Stock of domestic credit": {
+      "text": "$422.1 million (31 December 2005)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "rice, coffee, pineapples, palm kernels, cassava (tapioca), bananas, sweet potatoes; cattle, sheep, goats; timber"
+    },
+    "Industries": {
+      "text": "bauxite, gold, diamonds, iron; alumina refining; light manufacturing, and agricultural processing"
+    },
+    "Industrial production growth rate": {
+      "text": "7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "850 million kWh",
+      "note": "excludes electricity generated at interior mining sites (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "790.5 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "9,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "8,674 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$463 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$1.203 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "bauxite, alumina, gold, diamonds, coffee, fish, agricultural products"
+    },
+    "Exports - partners": {
+      "text": "India 28.9%, Spain 10%, Russia 9.5%, Germany 6.7%, US 5.8%, Ireland 4.2%, France 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$1.218 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, metals, machinery, transport equipment, textiles, grain and other foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 9.6%, France 7.8%, Netherlands 7.6% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$86 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$3.351 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Guinean francs (GNF) per US dollar - 5,500 (2008 est.), 4,122.8 (2007), 5,350 (2006), 3,644.3 (2005), 2,225 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "50,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.6 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate system of open-wire lines, small radiotelephone communication stations, and new microwave radio relay system"
+      },
+      "domestic": {
+        "text": "Conakry reasonably well served; coverage elsewhere remains inadequate and large companies tend to rely on their own systems for nationwide links; fixed-line density less than 1 per 100 persons; mobile-cellular subscribership is expanding and is roughly 25 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 224; satellite earth station - 1 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 0, FM 5, shortwave 3 (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "6 (2001)"
+    },
+    "Internet country code": {
+      "text": ".gn"
+    },
+    "Internet hosts": {
+      "text": "14 (2009)"
+    },
+    "Internet users": {
+      "text": "90,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "17 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "5"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "12"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "1,185 km"
+      },
+      "standard gauge": {
+        "text": "238 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "947 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "44,348 km"
+      },
+      "paved": {
+        "text": "4,342 km"
+      },
+      "unpaved": {
+        "text": "40,006 km (2003)"
+      }
+    },
+    "Waterways": {
+      "text": "1,300 km (navigable by shallow-draft native craft) (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Conakry, Kamsar"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "National Armed Forces": {
+        "text": "Army, Navy (Armee de Mer or Marine Guineenne, includes Marines), Air Force (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for compulsory or voluntary military service; 18-month conscript service obligation (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,230,049"
+      },
+      "females age 16-49": {
+        "text": "2,193,236 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,396,278"
+      },
+      "females age 16-49": {
+        "text": "1,435,387 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "110,281"
+      },
+      "female": {
+        "text": "107,879 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.7% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "conflicts among rebel groups, warlords, and youth gangs in neighboring states have spilled over into Guinea, resulting in domestic instability; Sierra Leone considers Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa rivers excessive and protests Guinea's continued occupation of these lands, including the hamlet of Yenga, occupied since 1998"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "21,856 (Liberia); 5,259 (Sierra Leone); 3,900 (Cote d'Ivoire)"
+      },
+      "IDPs": {
+        "text": "19,000 (cross-border incursions from Cote d'Ivoire, Liberia, Sierra Leone) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Guinea is a source, transit, and destination country for men, women, and children trafficked for the purposes of forced labor and sexual exploitation; the majority of victims are children, and internal trafficking is more prevalent than transnational trafficking; within the country, girls are trafficked primarily for domestic servitude and sexual exploitation, while boys are trafficked for forced agricultural labor, and as forced beggars, street vendors, shoe shiners, and laborers in gold and diamond mines; some Guinean men are also trafficked for agricultural labor within Guinea; transnationally, girls are trafficked into Guinea for domestic servitude and likely also for sexual exploitation"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Guinea is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to eliminate trafficking over 2006; Guinea demonstrated minimal law enforcement efforts for a second year in a row, while protection efforts diminished over efforts in 2006; the government did not report any trafficking convictions in 2007; due to a lack of resources, the government does not provide shelter services for trafficking victims; the government took no measures to reduce the demand for commercial sexual exploitation (2008)"
+      }
+    }
+  }
+}

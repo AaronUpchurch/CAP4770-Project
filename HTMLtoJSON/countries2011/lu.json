@@ -1,0 +1,770 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Founded in 963, Luxembourg became a grand duchy in 1815 and an independent state under the Netherlands. It lost more than half of its territory to Belgium in 1839 but gained a larger measure of autonomy. Full independence was attained in 1867. Overrun by Germany in both world wars, it ended its neutrality in 1948 when it entered into the Benelux Customs Union and when it joined NATO the following year. In 1957, Luxembourg became one of the six founding countries of the European Economic Community (later the European Union), and in 1999 it joined the euro currency area."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Europe, between France and Germany"
+    },
+    "Geographic coordinates": {
+      "text": "49 45 N, 6 10 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "2,586 sq km"
+      },
+      "land": {
+        "text": "2,586 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Rhode Island"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "359 km"
+      },
+      "border countries": {
+        "text": "Belgium 148 km, France 73 km, Germany 138 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "modified continental with mild winters, cool summers"
+    },
+    "Terrain": {
+      "text": "mostly gently rolling uplands with broad, shallow valleys; uplands to slightly mountainous in the north; steep slope down to Moselle flood plain in the southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Moselle River 133 m"
+      },
+      "highest point": {
+        "text": "Buurgplaatz 559 m"
+      }
+    },
+    "Natural resources": {
+      "text": "iron ore (no longer exploited), arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "27.42%"
+      },
+      "permanent crops": {
+        "text": "0.69%"
+      },
+      "other": {
+        "text": "71.89% (includes Belgium) (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "1.6 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.06  cu km/yr (42%/45%/13%)"
+      },
+      "per capita": {
+        "text": "121  cu m/yr (1999)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "air and water pollution in urban areas, soil pollution of farmland"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; the only Grand Duchy in the world"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Luxembourger(s) "
+      },
+      "adjective": {
+        "text": "Luxembourg"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Luxembourger 63.1%, Portuguese 13.3%, French 4.5%, Italian 4.3%, German 2.3%, other EU 7.3%, other 5.2% (2000 census)"
+    },
+    "Languages": {
+      "text": "Luxembourgish (national language), German (administrative language), French (administrative language)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 87%, other (includes Protestant, Jewish, and Muslim) 13% (2000)"
+    },
+    "Population": {
+      "text": "503,302 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "18.2% (male 47,274/female 44,366)"
+      },
+      "15-64 years": {
+        "text": "66.9% (male 169,343/female 167,211)"
+      },
+      "65 years and over": {
+        "text": "14.9% (male 31,086/female 44,022) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "39.4 years"
+      },
+      "male": {
+        "text": "38.4 years"
+      },
+      "female": {
+        "text": "40.4 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.145% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "11.69 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "8.48 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "8.24 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "85% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.4% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "LUXEMBOURG (capital) 90,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.066 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.07 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.7 male(s)/female"
+      },
+      "total population": {
+        "text": "0.97 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "17 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.44 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "4.46 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.42 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.61 years"
+      },
+      "male": {
+        "text": "76.36 years"
+      },
+      "female": {
+        "text": "83.08 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.77 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "4.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "2.862 physicians/1,000 population (2007)"
+    },
+    "Hospital bed density": {
+      "text": "5.57 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.3% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 1,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "100%"
+      },
+      "male": {
+        "text": "100%"
+      },
+      "female": {
+        "text": "100% (2000 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2006)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "17.2%"
+      },
+      "male": {
+        "text": "16.7%"
+      },
+      "female": {
+        "text": "17.8% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Grand Duchy of Luxembourg "
+      },
+      "conventional short form": {
+        "text": "Luxembourg"
+      },
+      "local long form": {
+        "text": "Grand Duche de Luxembourg"
+      },
+      "local short form": {
+        "text": "Luxembourg"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Luxembourg"
+      },
+      "geographic coordinates": {
+        "text": "49 36 N, 6 07 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "3 districts; Diekirch, Grevenmacher, Luxembourg"
+    },
+    "Independence": {
+      "text": "1839 (from the Netherlands)"
+    },
+    "National holiday": {
+      "text": "National Day (Birthday of Grand Duchess Charlotte) 23 June; note - the actual date of birth was 23 January 1896, but the festivities were shifted by five months to allow observance during a more favorable time of year"
+    },
+    "Constitution": {
+      "text": "17 October 1868; occasional revisions"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981)"
+      },
+      "head of government": {
+        "text": "Prime Minister Jean-Claude JUNCKER (since 20 January 1995); Deputy Prime Minister Jean ASSELBORN (since 31 July 2004)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers recommended by the prime minister and appointed by the monarch"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; following popular elections to the Chamber of Deputies, the leader of the majority party or the leader of the majority coalition usually appointed prime minister by the monarch; the deputy prime minister appointed by the monarch; they are responsible to the Chamber of Deputies"
+      },
+      "note": "government coalition - CSV and LSAP"
+    },
+    "note": "\"Ons Heemecht,\" adopted 1864, is the national anthem, while \"De Wilhelmus,\" adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg",
+    "Legislative branch": {
+      "text": "unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 7 June 2009 (next to be held by June 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - CSV 38%, LSAP 21.6%, DP 15%, Green Party 11.7%, ADR 8.1%, The Left 3.3%, other 2.3%; seats by party - CSV 26, LSAP 13, DP 9, Green Party 7, ADR 4, The Left 1"
+      },
+      "note": "there is also a Council of State that serves as an advisory body to the Chamber of Deputies; the Council of State has 21 members appointed by the Grand Duke on the advice of the prime minister"
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; judicial courts and tribunals (Superior Court of Justice includes Court of Appeal and Court of Cassation, 2 district tribunals, 3 lesser tribunals); administrative courts and tribunals (State Prosecutor's Office, Administrative Tribunal and Administrative Court); judges for all courts are appointed for life by the monarch"
+    },
+    "Political parties and leaders": {
+      "text": "Alternative Democratic Reform Party or ADR [Robert MEHLEN]; Christian Social People's Party or CSV [Michel WOLTER]; dei Lenk/la Gauche (the Left); Democratic Party or DP [Claude MEISCH]; Green Party [Francois BAUSCH]; Luxembourg Socialist Workers' Party or LSAP [Alex BODRY]; other minor parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "ABBL (bankers' association); ALEBA (financial sector trade union); Centrale Paysanne (federation of agricultural producers); CEP (professional sector chamber); CGFP (trade union representing civil service); Chambre de Commerce (Chamber of Commerce); Chambre des Metiers (Chamber of Artisans); FEDIL (federation of industrialists); Greenpeace (environment protection); LCGP (center-right trade union); Mouvement Ecologique (protection of ecology); OGBL (center-left trade union)"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), Australia Group, Benelux, BIS, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Jean-Paul SENNINGER"
+      },
+      "chancery": {
+        "text": "2200 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-4171 through 72"
+      },
+      "FAX": {
+        "text": "[1] (202) 328-8270"
+      },
+      "consulate(s) general": {
+        "text": "New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Cynthia STROUM"
+      },
+      "embassy": {
+        "text": "22 Boulevard Emmanuel Servais, L-2535 Luxembourg City"
+      },
+      "mailing address": {
+        "text": "American Embassy Luxembourg, Unit 1410, APO AE 09126-1410 (official mail); American Embassy Luxembourg, PSC 9, Box 9500, APO AE 09123 (personal mail)"
+      },
+      "telephone": {
+        "text": "[352] 46 01 23"
+      },
+      "FAX": {
+        "text": "[352] 46 14 01"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)"
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Ons Heemecht\" (Our Motherland); \"De Wilhelmus\" (The William)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown"
+      },
+      "note": "\"Ons Heemecht,\" adopted 1864, is the national anthem, while \"De Wilhelmus,\" adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "This small, stable, high-income economy - benefiting from its proximity to France, Belgium, and Germany - has historically featured solid growth, low inflation, and low unemployment. The industrial sector, initially dominated by steel, has become increasingly diversified to include chemicals, rubber, and other products. Growth in the financial sector, which now accounts for about 28% of GDP, has more than compensated for the decline in steel. Most banks are foreign owned and have extensive foreign dealings, but Luxembourg has lost some of its advantages as a tax haven because of OECD and EU pressure. The economy depends on foreign and cross-border workers for about 60% of its labor force. Luxembourg, like all EU members, suffered from the global economic crisis that began in late 2008, but unemployment has trended below the EU average. Following strong expansion from 2004 to 2007, Luxembourg's economy contracted and 3.7% in 2009, but rebounded 3.2% in 2010. The country continues to enjoy an extraordinarily high standard of living - GDP per capita ranks third in the world, after Liechtenstein and Qatar, and is the highest in the EU. Turmoil in the world financial markets and lower global demand during 2008-09 prompted the government to inject capital into the banking sector and implement stimulus measures to boost the economy. Government stimulus measures and support for the banking sector, however, led to a 5% government budget deficit in 2009. Nevertheless, the deficit was cut to 1.4% in 2010."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$41.25 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders",
+    "GDP (official exchange rate)": {
+      "text": "$54.95 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.4% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$84,900 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.4%"
+      },
+      "industry": {
+        "text": "13.6%"
+      },
+      "services": {
+        "text": "86% (2007 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "205,900",
+      "note": "125,400 workers commute daily from France, Belgium, and Germany (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.2%"
+      },
+      "industry": {
+        "text": "17.2%"
+      },
+      "services": {
+        "text": "80.6% (2007 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.7% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.5%"
+      },
+      "highest 10%": {
+        "text": "23.8% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "26 (2005)"
+    },
+    "Investment (gross fixed)": {
+      "text": "16.8% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$21.87 billion"
+      },
+      "expenditures": {
+        "text": "$22.67 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "39.8% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.4% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "16.5% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.4% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "1.75% (31 December 2009)",
+      "note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2.692% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$90.86 billion (31 December 2009 est.)",
+      "note": "see entry for the European Union for money supply in the euro area; the European Central Bank (ECB) controls monetary policy for the 17 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+    },
+    "Stock of broad money": {
+      "text": "$241.1 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$369.6 billion (31 December 2008 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$66.46 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "grapes, barley, oats, potatoes, wheat, fruits; dairy and livestock products"
+    },
+    "Industries": {
+      "text": "banking and financial services, iron and steel, information technology, telecommunications, cargo transportation, food processing, chemicals, metal products, engineering, tires, glass, aluminum, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "2.667 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "6.453 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "2.604 billion kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "3.418 billion kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "60,500 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "686 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "51,930 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.366 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "1.366 billion cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$3.577 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$15.53 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, steel products, chemicals, rubber products, glass"
+    },
+    "Exports - partners": {
+      "text": "Germany 22.3%, France 15.5%, Belgium 12.1%, UK 9.2%, Italy 7.2%, Netherlands 4.1% (2010)"
+    },
+    "Imports": {
+      "text": "$19.85 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "minerals, metals, foodstuffs, quality consumer goods"
+    },
+    "Imports - partners": {
+      "text": "Belgium 31.4%, Germany 25.1%, France 11.6%, China 9.2%, Netherlands 5.2% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$800 million (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.892 trillion (30 June 2010)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$11.21 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "0.7964 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "272,400 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "727,000 (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "highly developed, completely automated and efficient system, mainly buried cables"
+      },
+      "domestic": {
+        "text": "fixed line teledensity over 50 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated"
+      },
+      "international": {
+        "text": "country code - 352 (2008)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Luxembourg has a long tradition of  operating radio and TV services to pan-European audiences and is home to Europe's largest privately-owned broadcast media group, the RTL group, which operates 45 television stations and 31 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL group operates TV and radio networks; other domestic private radio and TV operators and French and German stations are available; satellite and cable TV services are accessible (2008)"
+    },
+    "Internet country code": {
+      "text": ".lu"
+    },
+    "Internet hosts": {
+      "text": "244,225 (2010)"
+    },
+    "Internet users": {
+      "text": "424,500 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "2 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2010)"
+    },
+    "Pipelines": {
+      "text": "gas 142 km; refined products 27 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "275 km"
+      },
+      "standard gauge": {
+        "text": "275 km 1.435-m gauge (243 km electrified) (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "5,227 km"
+      },
+      "paved": {
+        "text": "5,227 km (includes 147 km of expressways) (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "37 km (on Moselle River) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "47"
+      },
+      "by type": {
+        "text": "bulk carrier 3, cargo 3, chemical tanker 16, container 10, passenger 3, petroleum tanker 2, roll on/roll off 10"
+      },
+      "foreign-owned": {
+        "text": "45 (Belgium 9, France 16, Germany 9, Netherlands 2, Switzerland 1, UK 5, US 3)"
+      },
+      "registered in other countries": {
+        "text": "16 (Italy 12, Malta 3, Panama 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Mertert"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "17-25 years of age for male and female voluntary military service; soldiers under 18 are not deployed into combat or with peacekeeping missions; no conscription; Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "118,665"
+      },
+      "females age 16-49": {
+        "text": "117,456 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "97,290"
+      },
+      "females age 16-49": {
+        "text": "96,361 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "3,263"
+      },
+      "female": {
+        "text": "3,084 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.9% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

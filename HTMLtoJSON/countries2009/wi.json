@@ -1,0 +1,464 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Morocco virtually annexed the northern two-thirds of Western Sahara (formerly Spanish Sahara) in 1976, and claimed the rest of the territory in 1979, following Mauritania's withdrawal. A guerrilla war with the Polisario Front contesting Rabat's sovereignty ended in a 1991 UN-brokered cease-fire; a UN-organized referendum on the territory's final status has been repeatedly postponed. In April 2007, Morocco presented an autonomy plan for the territory to the UN, which the U.S. considers serious and credible. The Polisario also presented a plan to the UN in 2007 that called for independence. Representatives from the Government of Morocco and the Polisario Front have met four times since June 2007 to negotiate the status of Western Sahara, but talks have stalled since the UN envoy to the territory stated in April 2008 that independence is unrealistic."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Africa, bordering the North Atlantic Ocean, between Mauritania and Morocco"
+    },
+    "Geographic coordinates": {
+      "text": "24 30 N, 13 00 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "266,000 sq km"
+      },
+      "land": {
+        "text": "266,000 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "about the size of Colorado"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,046 km"
+      },
+      "border countries": {
+        "text": "Algeria 42 km, Mauritania 1,561 km, Morocco 443 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,110 km"
+    },
+    "Maritime claims": {
+      "text": "contingent upon resolution of sovereignty issue"
+    },
+    "Climate": {
+      "text": "hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew"
+    },
+    "Terrain": {
+      "text": "mostly low, flat desert with large areas of rocky or sandy surfaces rising to small mountains in south and northeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Sebjet Tah -55 m"
+      },
+      "highest point": {
+        "text": "unnamed elevation 805 m"
+      }
+    },
+    "Natural resources": {
+      "text": "phosphates, iron ore"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.02%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "99.98% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "hot, dry, dust/sand-laden sirocco wind can occur during winter and spring; widespread harmattan haze exists 60% of time, often severely restricting visibility"
+    },
+    "Environment - current issues": {
+      "text": "sparse water and lack of arable land"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the waters off the coast are particularly rich fishing areas"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "405,210",
+      "note": "estimate is based on projections by age, sex, fertility, mortality, and migration; fertility and mortality are based on data from neighboring countries (July 2009 est.)"
+    },
+    "note": "estimate is based on projections by age, sex, fertility, mortality, and migration; fertility and mortality are based on data from neighboring countries (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "44.9% (male 92,428/female 89,570)"
+      },
+      "15-64 years": {
+        "text": "52.8% (male 105,191/female 108,803)"
+      },
+      "65 years and over": {
+        "text": "2.3% (male 3,881/female 5,337) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "17.3 years"
+      },
+      "male": {
+        "text": "16.8 years"
+      },
+      "female": {
+        "text": "17.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.829% NA (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "39.54 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "11.49 deaths/1,000 population (July 2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "81% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.73 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "69.66 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "69.84 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "69.47 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "54.32 years"
+      },
+      "male": {
+        "text": "52 years"
+      },
+      "female": {
+        "text": "56.73 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "NA 5.61 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Sahrawi(s), Sahraoui(s)"
+      },
+      "adjective": {
+        "text": "Sahrawi, Sahrawian, Sahraouian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Arab, Berber"
+    },
+    "Religions": {
+      "text": "Muslim"
+    },
+    "Languages": {
+      "text": "Hassaniya Arabic, Moroccan Arabic"
+    },
+    "Literacy": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Western Sahara"
+      },
+      "former": {
+        "text": "Spanish Sahara"
+      }
+    },
+    "Government type": {
+      "text": "legal status of territory and issue of sovereignty unresolved; territory contested by Morocco and Polisario Front (Popular Front for the Liberation of the Saguia el Hamra and Rio de Oro), which in February 1976 formally proclaimed a government-in-exile of the Sahrawi Arab Democratic Republic (SADR), led by President Mohamed ABDELAZIZ; territory partitioned between Morocco and Mauritania in April 1976 when Spain withdrew, with Morocco acquiring northern two-thirds; Mauritania, under pressure from Polisario guerrillas, abandoned all claims to its portion in August 1979; Morocco moved to occupy that sector shortly thereafter and has since asserted administrative control; the Polisario's government-in-exile was seated as an Organization of African Unity (OAU) member in 1984; guerrilla activities continued sporadically until a UN-monitored cease-fire was implemented on 6 September 1991 (Security Council Resolution 690) by the United Nations Mission for the Referendum in Western Sahara or MINURSO"
+    },
+    "Capital": {
+      "text": "none",
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (under de facto control of Morocco)"
+    },
+    "Suffrage": {
+      "text": "none; a UN-sponsored voter identification campaign not yet completed"
+    },
+    "Executive branch": {
+      "text": "none"
+    },
+    "Political pressure groups and leaders": {
+      "text": "none"
+    },
+    "International organization participation": {
+      "text": "WFTU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Western Sahara depends on pastoral nomadism, fishing, and phosphate mining as the principal sources of income for the population. The territory lacks sufficient rainfall for sustainable agricultural production, and most of the food for the urban population must be imported. Incomes in Western Sahara are substantially below the Moroccan level. The Moroccan Government controls all trade and other economic activities in Western Sahara. Morocco and the EU signed a four-year agreement in July 2006 allowing European vessels to fish off the coast of Morocco, including the disputed waters off the coast of Western Sahara. Moroccan energy interests in 2001 signed contracts to explore for oil off the coast of Western Sahara, which has angered the Polisario. However, in 2006 the Polisario awarded similar exploration licenses in the disputed territory, which would come into force if Morocco and the Polisario resolve their dispute over Western Sahara."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$900 million (2007 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$NA"
+    },
+    "GDP - real growth rate": {
+      "text": "NA%"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,500 (2007 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "40% (2007 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "12,000 (2005 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "50%"
+      },
+      "industry and services": {
+        "text": "50% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$NA"
+      },
+      "expenditures": {
+        "text": "$NA"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "NA%"
+    },
+    "Agriculture - products": {
+      "text": "fruits and vegetables (grown in the few oases); camels, sheep, goats (kept by nomads); fish"
+    },
+    "Industries": {
+      "text": "phosphate mining, handicrafts"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "90 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "83.7 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "1,702 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$NA"
+    },
+    "Exports - commodities": {
+      "text": "phosphates 62%"
+    },
+    "Imports": {
+      "text": "$NA"
+    },
+    "Imports - commodities": {
+      "text": "fuel for fishing fleet, foodstuffs"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Moroccan dirhams (MAD) per US dollar - 7.526 (2008 est.), 8.3563 (2007), 8.7722 (2006), 8.865 (2005), 8.868 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "about 2,000 (1999 est.)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "0 (1999)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "sparse and limited system"
+      },
+      "domestic": {
+        "text": "NA"
+      },
+      "international": {
+        "text": "country code - 212; tied into Morocco's system by microwave radio relay, tropospheric scatter, and satellite; satellite earth stations - 2 Intelsat (Atlantic Ocean) linked to Rabat, Morocco"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 0, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "NA"
+    },
+    "Internet country code": {
+      "text": ".eh"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "6 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Ad Dakhla, Cabo Bojador, Laayoune (El Aaiun)"
+    }
+  },
+  "Military": {
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "52,267 "
+      },
+      "females age 16-49": {
+        "text": "59,221 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "4,796"
+      },
+      "female": {
+        "text": "4,679 (2009 est.)"
+      }
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Morocco claims and administers Western Sahara, whose sovereignty remains unresolved; UN-administered cease-fire has remained in effect since September 1991, administered by the UN Mission for the Referendum in Western Sahara (MINURSO), but attempts to hold a referendum have failed and parties thus far have rejected all brokered proposals; several states have extended diplomatic relations to the \"Sahrawi Arab Democratic Republic\" represented by the Polisario Front in exile in Algeria, while others recognize Moroccan sovereignty over Western Sahara; most of the approximately 102,000 Sahrawi refugees are sheltered in camps in Tindouf, Algeria"
+    }
+  }
+}

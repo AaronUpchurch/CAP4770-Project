@@ -1,0 +1,862 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "In February 2008, after nearly two years of inconclusive negotiations, Kosovo declared itself independent of Serbia - an action Serbia refuses to recognize. At Serbia's request, the UN General Assembly (UNGA) in October 2008 sought an advisory opinion from the International Court of Justice (ICJ) on whether Kosovo's unilateral declaration of independence was in accordance with international law. In a ruling considered unfavorable to Serbia, the ICJ issued an advisory opinion in July 2010 stating that international law did not prohibit declarations of independence. In late 2010, Serbia agreed to an EU-drafted UNGA Resolution acknowledging the ICJ's decision and calling for a new round of talks between Serbia and Kosovo, this time on practical issues rather than Kosovo's status. Serbia and Kosovo signed the first agreement of principles governing the normalization of relations between the two countries in April 2013 and are in the process of implementing its provisions. In 2015, Serbia and Kosovo reached four additional agreements within the Brussels Dialogue framework. These included agreements on the Community of Serb-Majority Municipalities; telecommunications; energy production and distribution; and freedom of movement. Prime Minister Aleksandar VUCIC, has promoted an ambitious goal of Serbia joining the EU by 2020. Under his leadership, in January 2014 Serbia opened formal negotiations for accession. Serbia has opened 8 chapters of the EU acquis and provisionally closed 2 chapters."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southeastern Europe, between Macedonia and Hungary"
+    },
+    "Geographic coordinates": {
+      "text": "44 00 N, 21 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "77,474 sq km"
+      },
+      "land": {
+        "text": "77,474 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Carolina"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,322 km"
+      },
+      "border countries (8)": {
+        "text": "Bosnia and Herzegovina 345 km, Bulgaria 344 km, Croatia 314 km, Hungary 164 km, Kosovo 366 km, Macedonia 101 km, Montenegro 157 km, Romania 531 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)"
+    },
+    "Terrain": {
+      "text": "extremely varied; to the north, rich fertile plains; to the east, limestone ranges and basins; to the southeast, ancient mountains and hills"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "442 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Midzor 2,169 m"
+    },
+    "Natural resources": {
+      "text": "oil, gas, coal, iron ore, copper, zinc, antimony, chromite, gold, silver, magnesium, pyrite, limestone, marble, salt, arable land"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "57.9%"
+      },
+      "text": "arable land 37.7%; permanent crops 3.4%; permanent pasture 16.8%",
+      "forest": {
+        "text": "31.6%"
+      },
+      "other": {
+        "text": "10.5% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "950 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "air pollution around Belgrade and other industrial cities; water pollution from industrial wastes dumped into the Sava which flows into the Danube"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; controls one of the major land routes from Western Europe to Turkey and the Near East"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Serbia"
+      },
+      "conventional short form": {
+        "text": "Serbia"
+      },
+      "local long form": {
+        "text": "Republika Srbija"
+      },
+      "local short form": {
+        "text": "Srbija"
+      },
+      "former": {
+        "text": "People's Republic of Serbia, Socialist Republic of Serbia"
+      },
+      "etymology": {
+        "text": "the origin of the name in uncertain, but seems to be related to the name of the West Slavic Sorbs who reside in the Lusatian region in present-day eastern Germany; by tradition, the Serbs migrated from that region to the Balkans in about the 6th century A.D."
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Belgrade (Beograd)"
+      },
+      "geographic coordinates": {
+        "text": "44 50 N, 20 30 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "119 municipalities (opstine, singular - opstina) and 26 cities (gradovi, singular - grad)",
+      "municipalities": {
+        "text": "Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bor, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Prokuplje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada"
+      },
+      "cities": {
+        "text": "Beograd, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac, Zajecar, Zrenjanin*"
+      },
+      "note": {
+        "text": "the northern 39 municipalities and 6 cities - about 28% of Serbia's area - compose the Autonomous Province of Vojvodina and are indicated with *"
+      }
+    },
+    "Independence": {
+      "text": "5 June 2006 (from the State Union of Serbia and Montenegro)"
+    },
+    "National holiday": {
+      "text": "National Day (Statehood Day), 15 February (1835), the day the first constitution of the country was adopted"
+    },
+    "Constitution": {
+      "history": {
+        "text": "many previous; latest adopted 30 September 2006, approved by referendum 28-29 October 2006, effective 8 November 2006"
+      },
+      "amendments": {
+        "text": "proposed by at least one-third of deputies in the National Assembly, by the president of the republic, by the government, or by petition of at least 150,000 voters; passage of proposals and draft amendments each requires at least two-thirds majority vote in the Assembly; amendments to constitutional articles including the preamble, constitutional principles, and human and minority rights and freedoms also require a referendum with passage by simple majority vote (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Serbia"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "3 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age, 16 if employed; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Aleksandar VUCIC (since 31 May 2017)"
+      },
+      "head of government": {
+        "text": "Prime Minister Ana BRNABIC (since 29 June 2017)"
+      },
+      "cabinet": {
+        "text": "Cabinet elected by the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in 2022); prime minister elected by the National Assembly"
+      },
+      "election results": {
+        "text": "Aleksandar VUCIC elected president; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 24 April 2016 (next to be held by April 2020)"
+      },
+      "election results": {
+        "text": "percent of vote by party/coalition - Serbia is Winning 48.3%, SPS-JS-ZS-KP 11.0%, SRS 8.1%, For a Just Serbia 6.0%, Enough is Enough 6.0%, Alliance for a Better Serbia 5.0%, Dveri-DSS 5.0%, SVM 1.5%, other 9.1%; seats by party/coalition Serbia is Winning 131, SPS-JS-ZS-KP 29, SRS 22, For a Just Serbia 16, Enough is Enough 16, Alliance for a Better Serbia 13, Dveri-DSS 13, SVM 4, other 6"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Cassation (consists of more than 60 judges organized into 3- and 5-member panels for criminal, civil, and administrative cases); Constitutional Court (consists of 15 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court justices proposed by the High Judicial Council (HJC), an 11-member body of which 7 are judges, and elected by the National Assembly; Constitutional Court judges appointed - 5 each by the National Assembly, the president, and the Supreme Court of Cassation; judges of both courts appointed to permanent tenure by the HJC"
+      },
+      "subordinate courts": {
+        "text": "appellate courts, higher courts, and municipal and district courts; courts of special jurisdiction include the Administrative Court, Appellate Commercial Court, and 2 levels of misdemeanor courts"
+      },
+      "note": {
+        "text": "in 2003, specialized panels on war crimes were established within the Serbian court system; the panels have jurisdiction over alleged violations of the Basic Criminal Code and crimes against humanity, international law, and criminal acts as defined by the Statute of the International Criminal Tribunal for the former Yugoslavia"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Serbia or JS [Dragan MARKOVIC]",
+      "note": {
+        "text": "as of April 2016, Serbia had 111 registered political parties and citizens' associations"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Eastern Alternative (pro-Russian association)"
+    },
+    "International organization participation": {
+      "text": "BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Djerdj MATKOVIC (since 23 February 2015)"
+      },
+      "chancery": {
+        "text": "2233 Wisconsin Ave NW "
+      },
+      "telephone": {
+        "text": "[1] (202) 332-0333"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-3933"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Kyle SCOTT (since 5 February 2016)"
+      },
+      "embassy": {
+        "text": "92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade, Serbia"
+      },
+      "mailing address": {
+        "text": "5070 Belgrade Place, Washington, DC 20521-5070"
+      },
+      "telephone": {
+        "text": "[381] (11) 706-4000"
+      },
+      "FAX": {
+        "text": "[381] (11) 706-4005"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels or Cyrillic \"C's\" in each quarter; a royal crown surmounts the coat of arms",
+      "note": {
+        "text": "the Pan-Slav colors were inspired by the 19th-century flag of Russia"
+      }
+    },
+    "National symbol(s)": {
+      "text": "double-headed eagle; national colors: red, blue, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Boze pravde\" (God of Justice)"
+      },
+      "lyrics/music": {
+        "text": "Jovan DORDEVIC/Davorin JENKO"
+      },
+      "note": {
+        "text": "adopted 1904; song originally written as part of a play in 1872 and has been used as an anthem by the Serbian people throughout the 20th and 21st centuries"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Major economic challenges ahead include: high unemployment rates and the need for private sector job creation; structural reforms of state-owned companies; strategic public sector reforms; and the need for new foreign direct investment. Other serious longer-term challenges include an inefficient judicial system, high levels of corruption, and an aging population. Factors favorable to Serbia's economic growth include the economic reforms it is undergoing as part of its EU accession process and IMF agreement, its strategic location, a relatively inexpensive and skilled labor force, and free trade agreements with the EU, Russia, Turkey, and countries that are members of the Central European Free Trade Agreement."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$95.95 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$37.75 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-1.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$13,800 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Gross national saving": {
+      "text": "11.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "79.3%"
+      },
+      "government consumption": {
+        "text": "10.2%"
+      },
+      "investment in fixed capital": {
+        "text": "17.8%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "50.9%"
+      },
+      "imports of goods and services": {
+        "text": "-58.2% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "9.9%"
+      },
+      "industry": {
+        "text": "41.2%"
+      },
+      "services": {
+        "text": "48.9% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "wheat, maize, sunflower, sugar beets, grapes/wine, fruits (raspberries, apples, sour cherries), vegetables (tomatoes, peppers, potatoes), beef, pork, and meat products, milk and dairy products"
+    },
+    "Industries": {
+      "text": "automobiles, base metals, furniture, food processing, machinery, chemicals, sugar, tires, clothes, pharmaceuticals"
+    },
+    "Industrial production growth rate": {
+      "text": "3.1% (2016 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Labor force": {
+      "text": "2.91 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "17.8%"
+      },
+      "industry": {
+        "text": "25.6%"
+      },
+      "services": {
+        "text": "56.6% (2016 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "19.3% (2015 est.)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Population below poverty line": {
+      "text": "8.9% (2014 est.)"
+    },
+    "Distribution of family income - Gini index": {
+      "text": "28.2 (2008 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$16.56 billion"
+      },
+      "expenditures": {
+        "text": "$17.07 billion"
+      },
+      "note": {
+        "text": "this is the consolidated budget, including both central government and local goverment budgets (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "43.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.4% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Public debt": {
+      "text": "75.9% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "7.5% (12 March 2015)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.84% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$4.535 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$17.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$19.81 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$4.525 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Current account balance": {
+      "text": "$-1.751 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Exports": {
+      "text": "$12.6 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Exports - commodities": {
+      "text": "automobiles, iron and steel, rubber, clothes, wheat, fruit and vegetables, nonferrous metals, electric appliances, metal products, weapons and ammunition"
+    },
+    "Exports - partners": {
+      "text": "Italy 14.6%, Germany 13.1%, Bosnia and Herzegovina 8.3%, Romania 5.7%, Russia 5.4% (2016)"
+    },
+    "Imports": {
+      "text": "$17.03 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, fuels and lubricants, manufactured goods, chemicals, food and live animals, raw materials"
+    },
+    "Imports - partners": {
+      "text": "Germany 12.9%, Italy 10.4%, China 8.4%, Russia 7.9%, Hungary 4.6%, Poland 4.4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$11.35 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Debt - external": {
+      "text": "$30.81 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$11.95 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "87.99 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "38.11 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "26.78 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Electricity - exports": {
+      "text": "6.428 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Electricity - imports": {
+      "text": "5.065 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "7.594 million kW (2016 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "59% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "38.8% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "2.2% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Crude oil - production": {
+      "text": "20,000 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "45,790 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "77.5 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "67,360 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "66,230 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "12,050 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "16,070 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Natural gas - production": {
+      "text": "586.3 million cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "2.25 billion cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "1.664 billion cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "48.14 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "56.55 million Mt (2015 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "2,711,725"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "38 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "9,094,447"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "127 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "replacements of, and upgrades to, telecommunications equipment damaged during the 1999 war resulted in a modern digitalized telecommunications system"
+      },
+      "domestic": {
+        "text": "wireless service, available through multiple providers with national coverage, is growing very rapidly; best telecommunications services are centered in urban centers; 4G/LTE mobile network launched in March 2015"
+      },
+      "international": {
+        "text": "country code - 381 (2016)"
+      }
+    },
+    "Internet country code": {
+      "text": ".rs"
+    },
+    "Internet users": {
+      "total": {
+        "text": "4,790,488"
+      },
+      "percent of population": {
+        "text": "67.1% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "83"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "21"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "2,424,886"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2.748 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "YU (2016)"
+    },
+    "Airports": {
+      "text": "26 (2013)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "16"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "5 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2012)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,809 km"
+      },
+      "standard gauge": {
+        "text": "3,809 km 1.435-m gauge (3,526 km one-track lines and 283 km double-track lines) out of which 1,279 km electrified (1,000 km one-track lines and 279 km double-track lines) (2015)"
+      },
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "44,248 km"
+      },
+      "paved": {
+        "text": "28,000 km (16,162 km state roads, out of which 741 km highways)"
+      },
+      "unpaved": {
+        "text": "16,248 km (2016)"
+      },
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Waterways": {
+      "text": "587 km (primarily on the Danube and Sava Rivers) (2009)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Ports and terminals": {
+      "river port(s)": {
+        "text": "Belgrade (Danube)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.48% of GDP (2013)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Military branches": {
+      "text": "Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a river flotilla on the Danube), Air and Air Defense Forces (2016)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; conscription abolished December 2010; reserve obligation to age 60 for men and age 50 for women (2013)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Serbia with several other states protest the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; several thousand NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority in Kosovo; Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "20,346 (Croatia); 9,081 (Bosnia and Herzegovina) (2016)"
+      },
+      "IDPs": {
+        "text": "219,633 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2016)"
+      },
+      "stateless persons": {
+        "text": "2,373 (includes stateless persons in Kosovo) (2016)"
+      },
+      "note": {
+        "text": "678,493 estimated refugee and migrant arrivals (January 2015 - December 2016); Serbia is predominantly a transit country and hosts an estimated 4,550 migrants, refugees, and asylum seekers as of the end of October 2017"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering"
+    }
+  }
+}

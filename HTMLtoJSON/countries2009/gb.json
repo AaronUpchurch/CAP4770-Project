@@ -1,0 +1,723 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Until recently, only two autocratic presidents had ruled Gabon since its independence from France in 1960. The recent president of Gabon, El Hadj Omar BONGO Ondimba -one of the longest-serving heads of state in the world - had dominated the country's political scene for four decades. President BONGO introduced a nominal multiparty system and a new constitution in the early 1990s. However, allegations of electoral fraud during local elections in 2002-03 and the presidential elections in 2005 exposed the weaknesses of formal political structures in Gabon. President BONGO died in June 2009 and was replaced in accordance with the constitution by Rose Francine ROGOMBE, the president of the Senate. New elections are planned for the summer of 2009. This will be the first Gabonese elections in which BONGO is not participating. Despite political conditions, a small population, abundant natural resources, and considerable foreign support have helped make Gabon one of the more prosperous and stable African countries."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the Atlantic Ocean at the Equator, between Republic of the Congo and Equatorial Guinea"
+    },
+    "Geographic coordinates": {
+      "text": "1 00 S, 11 45 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "267,667 sq km"
+      },
+      "land": {
+        "text": "257,667 sq km"
+      },
+      "water": {
+        "text": "10,000 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Colorado"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,551 km"
+      },
+      "border countries": {
+        "text": "Cameroon 298 km, Republic of the Congo 1,903 km, Equatorial Guinea 350 km"
+      }
+    },
+    "Coastline": {
+      "text": "885 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; always hot, humid"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain; hilly interior; savanna in east and south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mont Iboundji 1,575 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron ore, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "1.21%"
+      },
+      "permanent crops": {
+        "text": "0.64%"
+      },
+      "other": {
+        "text": "98.15% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "70 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "164 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.12  cu km/yr (50%/8%/42%)"
+      },
+      "per capita": {
+        "text": "87  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; poaching"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "1,514,993",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "42.1% (male 320,414/female 318,027)"
+      },
+      "15-64 years": {
+        "text": "53.9% (male 407,461/female 409,633)"
+      },
+      "65 years and over": {
+        "text": "3.9% (male 24,799/female 34,659) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "18.6 years"
+      },
+      "male": {
+        "text": "18.4 years"
+      },
+      "female": {
+        "text": "18.9 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.934% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "35.57 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "12.76 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.48 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "85% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.72 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "51.78 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "60.17 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "43.15 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "53.11 years"
+      },
+      "male": {
+        "text": "52.19 years"
+      },
+      "female": {
+        "text": "54.05 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "4.65 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "5.9% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "49,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "2,300 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria and chikungunya"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Gabonese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Gabonese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Bantu tribes, including four major tribal groupings (Fang, Bapounou, Nzebi, Obamba); other Africans and Europeans, 154,000, including 10,700 French and 11,000 persons of dual nationality"
+    },
+    "Religions": {
+      "text": "Christian 55%-75%, animist, Muslim less than 1%"
+    },
+    "Languages": {
+      "text": "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "63.2%"
+      },
+      "male": {
+        "text": "73.7%"
+      },
+      "female": {
+        "text": "53.3% (1995 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.8% of GDP (2000)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Gabonese Republic "
+      },
+      "conventional short form": {
+        "text": "Gabon"
+      },
+      "local long form": {
+        "text": "Republique Gabonaise"
+      },
+      "local short form": {
+        "text": "Gabon"
+      }
+    },
+    "Government type": {
+      "text": "republic; multiparty presidential regime"
+    },
+    "Capital": {
+      "name": {
+        "text": "Libreville"
+      },
+      "geographic coordinates": {
+        "text": "0 23 N, 9 27 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem"
+    },
+    "Independence": {
+      "text": "17 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 17 August (1960)"
+    },
+    "Constitution": {
+      "text": "adopted 14 March 1991"
+    },
+    "Legal system": {
+      "text": "based on French civil law system and customary law; judicial review of legislative acts in Constitutional Chamber of the Supreme Court; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ali BONGO Ondimba (since 16 October 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Paul BIYOGHE MBA (since 15 July 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister in consultation with the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (no term limits); election last held 30 August 2009 (next to be held in 2016); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "President Ali BONGO Ondimba elected; percent of vote - Ali BONGO Ondimba 41.7%, Andre MBA OBAME 25.9%, Pierre MAMBOUNDOU 25.2%, Zacharie MYBOTO 3.9%, other 3.3%"
+      },
+      "note": "President BONGO died on 8 June 2009 after serving as president for 32 years, in accordance with the constitution he was replaced on an interim basis by the president of the Senate, Rose Francine ROGOMBE on 10 June 2009, new elections where held on 30 August 2009 and the son of the former president, Ali BONGO Ondimba, was elected president"
+    },
+    "note": "President BONGO died on 8 June 2009 after serving as president for 32 years, in accordance with the constitution he was replaced on an interim basis by the president of the Senate, Rose Francine ROGOMBE on 10 June 2009, new elections where held on 30 August 2009 and the son of the former president, Ali BONGO Ondimba, was elected president",
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the Senate (102 seats; members elected by members of municipal councils and departmental assemblies to serve six-year terms) and the National Assembly or Assemblee Nationale (120 seats; members are elected by direct, popular vote to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held 18 January 2009 (next to be held in January 2015); National Assembly - last held 17 and 24 December 2006 (next to be held in December 2011)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PDG 75, GPR 6, UGDD 3, CLR 2, PGCI 2, UPG 2, ADERE 1, independents 9; National Assembly - percent of vote by party - NA; seats by party - PDG 82, RPG 8, UPG 8, UGDD 4, ADERE 3, CLR 2, PGP-Ndaot 2, PSD 2, independents 4, others 5"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour Supreme consisting of three chambers - Judicial, Administrative, and Accounts; Constitutional Court; Courts of Appeal; Court of State Security; County Courts"
+    },
+    "Political parties and leaders": {
+      "text": "Circle of Liberal Reformers or CLR [General Jean Boniface ASSELE]; Congress for Democracy and Justice or CDJ [Jules Aristide Bourdes OGOULIGUENDE]; Democratic and Republican Alliance or ADERE [Divungui-di-Ndinge DIDJOB]; Gabonese Democratic Party or PDG (former sole party) [Simplice Nguedet MANZELA]; Gabonese Party for Progress or PGP [Benoit Mouity NZAMBA]; Gabonese Union for Democracy and Development or UGDD [Zacherie MYBOTO]; National Rally of Woodcutters or RNB; National Rally of Woodcutters-Rally for Gabon or RNB-RPG (Bucherons) [Fr. Paul M'BA-ABESSOLE]; Party of Development and Social Solidarity or PDS [Seraphin Ndoat REMBOGO]; People's Unity Party or PUP [Louis Gaston MAYILA]; Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]; Union for Democracy and Social Integration or UDIS; Union of Gabonese Patriots or UPG [Pierre MAMBOUNDOU]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACCT, ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, MINURCAT, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNMIS, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Carlos BOUNGOU"
+      },
+      "chancery": {
+        "text": "Suite 200, 2034 20th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 797-1000"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-0668"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Eunice S. REDDICK"
+      },
+      "embassy": {
+        "text": "Boulevard du Bord de Mer, Libreville"
+      },
+      "mailing address": {
+        "text": "Centre Ville, B. P. 4000, Libreville; pouch"
+      },
+      "telephone": {
+        "text": "[241] 76 20 03 through 76 20 04, after hours - 07380171"
+      },
+      "FAX": {
+        "text": "[241] 74 55 07"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), yellow, and blue"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Gabon enjoys a per capita income four times that of most sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon depended on timber and manganese until oil was discovered offshore in the early 1970s. The oil sector now accounts for more than 50% of GDP. Gabon continues to face fluctuating prices for its oil, timber, and manganese exports. Despite the abundance of natural wealth, poor fiscal management hobbles the economy. In 1997, an IMF mission to Gabon criticized the government for overspending on off-budget items, overborrowing from the central bank, and slipping on its schedule for privatization and administrative reform. The rebound of oil prices since 1999 have helped growth, but drops in production have hampered Gabon from fully realizing potential gains, and will continue to temper the gains for most of this decade. In December 2000, Gabon signed a new agreement with the Paris Club to reschedule its official debt. A follow-up bilateral repayment agreement with the US was signed in December 2001. Gabon signed a 14-month Stand-By Arrangement with the IMF in May 2007, and received Paris Club debt rescheduling later that year."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$19.64 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "since 1 January 1999, the Central African CFA franc (XAF) has been pegged to the euro at a rate of 655.957 CFA francs per euro; Central African CFA franc (XAF) coins and banknotes are not accepted in countries using West African CFA francs (XOF), and vice versa, even though the two currencies trade at par",
+    "GDP (official exchange rate)": {
+      "text": "$14.54 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$13,800 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "5.6%"
+      },
+      "industry": {
+        "text": "57.8%"
+      },
+      "services": {
+        "text": "36.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "581,000 (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "60%"
+      },
+      "industry": {
+        "text": "15%"
+      },
+      "services": {
+        "text": "25% (2000 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "21% (2006 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "27.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.511 billion"
+      },
+      "expenditures": {
+        "text": "$2.932 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "29.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.547 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$799.3 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$359.8 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cocoa, coffee, sugar, palm oil, rubber; cattle; okoume (a tropical softwood); fish"
+    },
+    "Industries": {
+      "text": "petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement"
+    },
+    "Industrial production growth rate": {
+      "text": "1% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "1.774 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.446 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "247,800 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "14,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "227,300 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,185 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "2 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "90 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "90 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "28.32 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$1.549 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$7.046 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil 70%, timber, manganese, uranium (2001)"
+    },
+    "Exports - partners": {
+      "text": "US 25.4%, China 19.1%, Japan 10.2%, France 5.4%, Spain 4% (2008)"
+    },
+    "Imports": {
+      "text": "$2.2 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, foodstuffs, chemicals, construction materials"
+    },
+    "Imports - partners": {
+      "text": "France 32.2%, US 11.1%, China 5.4%, Belgium 4.7%, Cameroon 4.4%, Netherlands 4.2% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.238 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$4.895 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar - 447.81 (2008 est.), 481.83 (2007), 522.89 (2006), 527.47 (2005), 528.29 (2004)",
+      "note": "since 1 January 1999, the Central African CFA franc (XAF) has been pegged to the euro at a rate of 655.957 CFA francs per euro; Central African CFA franc (XAF) coins and banknotes are not accepted in countries using West African CFA francs (XOF), and vice versa, even though the two currencies trade at par"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "26,500 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.3 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate service by African standards and improving with the help of a growing mobile cell network system with multiple providers; mobile-cellular subscribership reached nearly 90 per 100 persons in 2008"
+      },
+      "domestic": {
+        "text": "adequate system of cable, microwave radio relay, tropospheric scatter, radiotelephone communication stations, and a domestic satellite system with 12 earth stations"
+      },
+      "international": {
+        "text": "country code - 241; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 6, FM 7 (plus 11 repeaters), shortwave 4 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "4 (plus 4 repeaters) (2001)"
+    },
+    "Internet country code": {
+      "text": ".ga"
+    },
+    "Internet hosts": {
+      "text": "91 (2009)"
+    },
+    "Internet users": {
+      "text": "90,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "44 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "13"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "9"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "31"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "14 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 240 km; oil 723 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "814 km"
+      },
+      "standard gauge": {
+        "text": "814 km 1.435-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "9,170 km"
+      },
+      "paved": {
+        "text": "937 km"
+      },
+      "unpaved": {
+        "text": "8,233 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "1,600 km (310 km on Ogooue River) (2008)"
+    },
+    "Merchant marine": {
+      "registered in other countries": {
+        "text": "2 (Cambodia 1, Panama 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Gamba, Libreville, Lucinda, Port-Gentil"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy, Air Force, National Gendarmerie, National Police"
+    },
+    "Military service age and obligation": {
+      "text": "20 years of age for compulsory and voluntary military service (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "331,181"
+      },
+      "females age 16-49": {
+        "text": "332,498 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "195,519"
+      },
+      "females age 16-49": {
+        "text": "190,519 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "16,933"
+      },
+      "female": {
+        "text": "16,942 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "UN urges Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane Island and lesser islands and to establish a maritime boundary in hydrocarbon-rich Corisco Bay"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "7,178 (Republic of Congo) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Gabon is predominantly a destination country for children trafficked from other African countries for the purpose of forced labor; girls are primarily trafficked for domestic servitude, forced market vending, forced restaurant labor, and sexual exploitation, while boys are trafficked for forced street hawking and forced labor in small workshops"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Gabon is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat human trafficking in 2007, particularly in terms of efforts to convict and punish trafficking offenders; the government has not reported the convictions or sentences of any trafficking offenders; the government did not take steps to reduce demand for commercial sex acts (2008)"
+      }
+    }
+  }
+}

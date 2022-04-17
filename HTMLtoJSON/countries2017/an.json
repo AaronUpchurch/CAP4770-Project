@@ -1,0 +1,601 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the organization and uses the euro as its national currency."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southwestern Europe, Pyrenees mountains, on the border between France and Spain"
+    },
+    "Geographic coordinates": {
+      "text": "42 30 N, 1 30 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "468 sq km"
+      },
+      "land": {
+        "text": "468 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Area - comparative": {
+      "text": "2.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "118 km"
+      },
+      "border countries (2)": {
+        "text": "France 55 km, Spain 63 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "temperate; snowy, cold winters and warm, dry summers"
+    },
+    "Terrain": {
+      "text": "rugged mountains dissected by narrow valleys"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,996 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Pic de Coma Pedrosa 2,946 m"
+    },
+    "Natural resources": {
+      "text": "hydropower, mineral water, timber, iron ore, lead"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "43.4%"
+      },
+      "text": "arable land 5.5%; permanent crops 0%; permanent pasture 37.9%",
+      "forest": {
+        "text": "34%"
+      },
+      "other": {
+        "text": "22.6% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "0 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "population is unevenly distributed and is concentrated in the 7 urbanized valleys that make up the country's parishes (political administrative divisions)"
+    },
+    "Natural hazards": {
+      "text": "avalanches"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; overgrazing of mountain meadows contributes to soil erosion; air pollution; wastewater treatment and solid waste disposal"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Desertification, Hazardous Wastes, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; straddles a number of important crossroads in the Pyrenees"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Principality of Andorra"
+      },
+      "conventional short form": {
+        "text": "Andorra"
+      },
+      "local long form": {
+        "text": "Principat d'Andorra"
+      },
+      "local short form": {
+        "text": "Andorra"
+      },
+      "etymology": {
+        "text": "the origin of the country's name is obscure; since the area served as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century, the name may derive from the Arabic \"ad-darra\" meaning \"the forest\""
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the president of France and bishop of Seu d'Urgell, Spain, who are represented in Andorra by the co-princes' representatives"
+    },
+    "Capital": {
+      "name": {
+        "text": "Andorra la Vella"
+      },
+      "geographic coordinates": {
+        "text": "42 30 N, 1 31 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 parishes (parroquies, singular - parroquia); Andorra la Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant Julia de Loria"
+    },
+    "Independence": {
+      "text": "1278 (formed under the joint sovereignty of the French Count of Foix and the Spanish Bishop of Urgell)"
+    },
+    "National holiday": {
+      "text": "Our Lady of Meritxell Day, 8 September (1278)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "drafted 1991, approved by referendum 14 March 1993, effective 28 April 1993"
+      },
+      "amendments": {
+        "text": "proposed by the coprinces jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the coprinces (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil and customary law with the influence of canon law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the mother must be an Andorran citizen or the father must have been born in Andorra and both parents maintain permanent residence in Andorra"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "25 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "French Coprince Emmanuel MACRON (since 14 May 2017); represented by Jean-Pierre HUGUES (since 15 June 2016) and Spanish Coprince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAUN (since 20 July 2012)"
+      },
+      "head of government": {
+        "text": "Head of Government (or Cap de Govern) Antoni MARTI PETIT (since 12 May 2011)"
+      },
+      "cabinet": {
+        "text": "Executive Council designated by head of government"
+      },
+      "elections/appointments": {
+        "text": "head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the coprinces for a 4-year term; election last held on 31 March 2015 (next to be held in April 2019); the leader of the majority party in the General Council is usually elected head of government"
+      },
+      "election results": {
+        "text": "Antoni MARTI PETIT (DA) elected head of government; percent of General Council vote - 79%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in multi-seat constituencies (parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - each voter casts two separate ballots - one for a national list and one for a parish list"
+      },
+      "elections": {
+        "text": "last held on 1 March 2015 (next to be held in April 2019)"
+      },
+      "election results": {
+        "text": "percent of vote by party - DA 34.5%, PLA 25.0%, PS-VA-IC-independent coalition 21.3%, SDP 9.6%, invalid votes 9.5%; seats by party - DA 15, PLA 8, PS-VA-IC-independent coalition 3, SDP 2"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court president and judges appointed by the Supreme Council of Justice, a 5-member judicial policy and administrative body appointed 1 each by the coprinces, 1 by the General Council, 1 by the executive council president, and 1 by the courts; judges serve 6-year renewable terms; Constitutional magistrates appointed 2 by the coprinces and 2 by the General Council; magistrates' appointments limited to 2 consecutive 8-year terms"
+      },
+      "subordinate courts": {
+        "text": "Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social Democratic Progress Party or SDP [Victor NAUDI ZAMORA]",
+      "note": {
+        "text": "Andorra has several smaller parties at the parish level (one is Lauredian Union)"
+      }
+    },
+    "International organization participation": {
+      "text": "CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Elisenda VIVES BALMANA (since 2 March 2016)"
+      },
+      "chancery": {
+        "text": "2 United Nations Plaza, 27th Floor, New York, NY 10017"
+      },
+      "telephone": {
+        "text": "[1] (212) 750-8064"
+      },
+      "FAX": {
+        "text": "[1] (212) 750-6630"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Spain; telephone: [34] (93) 280-2227; FAX: [34] (93) 280-6175"
+    },
+    "Flag description": {
+      "text": "three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection",
+      "note": {
+        "text": "similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem"
+      }
+    },
+    "National symbol(s)": {
+      "text": "national colors: blue, yellow, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"El Gran Carlemany\" (The Great Charlemagne)"
+      },
+      "lyrics/music": {
+        "text": "Joan BENLLOCH i VIVO/Enric MARFANY BONS"
+      },
+      "note": {
+        "text": "adopted 1921; the anthem provides a brief history of Andorra in a first person narrative"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The principal objectives of the economic reform are to attract investment and businesses which can contribute most to Andorra\u2019s economic development, offering greater diversification and contributing higher added value. Prior to 2008, when the first law on investment was approved, Andorra offered limited foreign investment opportunities largely due to concerns about the impact of foreign firms on such a small economy. As a consequence, non-citizens were allowed to own no more than 33% of a company. Only after residing in the country for a minimum of 20 years were foreigners entitled to own 100%."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.273 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2012 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$2.712 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.1% (2013 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$50,300 (2013 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "11.9%"
+      },
+      "industry": {
+        "text": "33.6%"
+      },
+      "services": {
+        "text": "54.5% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "small quantities of rye, wheat, barley, oats, vegetables, tobacco; sheep, cattle"
+    },
+    "Industries": {
+      "text": "tourism (particularly skiing), banking, timber, furniture"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Labor force": {
+      "text": "39,750 (2016)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "0.5%"
+      },
+      "industry": {
+        "text": "4.4%"
+      },
+      "services": {
+        "text": "95.1% (2015)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.872 billion"
+      },
+      "expenditures": {
+        "text": "$2.06 billion (2016)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "69% of GDP (2016)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.9% of GDP (2016)",
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "Public debt": {
+      "text": "41.4% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.1% (2014 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Exports": {
+      "text": "$79.57 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Exports - commodities": {
+      "text": "tobacco products, furniture"
+    },
+    "Imports": {
+      "text": "$1.264 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Imports - commodities": {
+      "text": "consumer goods, food, fuel, electricity"
+    },
+    "Debt - external": {
+      "text": "$0 (2016)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.78 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "99.48 million kWh (2015)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "221.6 million kWh (2015)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Electricity - exports": {
+      "text": "6,000 kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Electricity - imports": {
+      "text": "471.3 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "520,000 kW (2010 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "61.3% of total installed capacity (2010 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "23.3% of total installed capacity (2010 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2016) (2016)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2016) (2016)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (2016) (2016)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2016)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2016) (2016)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2016) (2016)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2016) (2016)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2016) (2016)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (2016)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "38,694"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "45 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "71,132"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "83 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern automatic telephone system"
+      },
+      "domestic": {
+        "text": "modern system with microwave radio relay connections between exchanges"
+      },
+      "international": {
+        "text": "country code - 376; landline circuits to France and Spain (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2016)"
+    },
+    "Internet country code": {
+      "text": ".ad"
+    },
+    "Internet users": {
+      "total": {
+        "text": "83,887"
+      },
+      "percent of population": {
+        "text": "97.9% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "176"
+      }
+    }
+  },
+  "Energy ": {
+    "Civil aircraft registration country code prefix": {
+      "text": "C3 (2016)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "320 km (2015)"
+      },
+      "country comparison to the world": {
+        "text": "205"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "no regular military forces; Police Corps of Andorra (2017)"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of France and Spain"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

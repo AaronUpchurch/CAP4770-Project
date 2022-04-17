@@ -1,0 +1,804 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Burundi is a small country in East Africa bordered by Tanzania, Rwanda, and Lake Tanganyika. Burundi gained its independence from Belgium in 1962. Much of its history has been turbulent, and Burundi's first democratically elected president was assassinated in October 1993 after only 100 days in office. The internationally brokered Arusha Agreement ended the 1993-2005 civil war, paving the way for a new constitution and 2005 elections. Pierre NKURUNZIZA was elected president in 2005 and 2010 and again in a controversial election in 2015. Burundi continues to face many political and economic challenges."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Central Africa, east of the Democratic Republic of the Congo, west of Tanzania"
+    },
+    "Geographic coordinates": {
+      "text": "3 30 S, 30 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "27,830 sq km"
+      },
+      "land": {
+        "text": "25,680 sq km"
+      },
+      "water": {
+        "text": "2,150 sq km"
+      },
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,140 km"
+      },
+      "border countries (3)": {
+        "text": "Democratic Republic of the Congo 236 km, Rwanda 315 km, Tanzania 589 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)"
+    },
+    "Terrain": {
+      "text": "hilly and mountainous, dropping to a plateau in east, some plains"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,504 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Heha 2,670 m"
+    },
+    "Natural resources": {
+      "text": "nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "73.3%"
+      },
+      "text": "arable land 38.9%; permanent crops 15.6%; permanent pasture 18.8%",
+      "forest": {
+        "text": "6.6%"
+      },
+      "other": {
+        "text": "20.1% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "230 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil"
+    },
+    "Natural hazards": {
+      "text": "flooding; landslides; drought"
+    },
+    "Environment - current issues": {
+      "text": "soil erosion as a result of overgrazing and the expansion of agriculture into marginal lands; deforestation (little forested land remains because of uncontrolled cutting of trees for fuel); habitat loss threatens wildlife populations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Burundi"
+      },
+      "conventional short form": {
+        "text": "Burundi"
+      },
+      "local long form": {
+        "text": "Republique du Burundi/Republika y'u Burundi"
+      },
+      "local short form": {
+        "text": "Burundi"
+      },
+      "former": {
+        "text": "Urundi"
+      },
+      "etymology": {
+        "text": "name derived from the pre-colonial Kingdom of Burundi (17th-19th century)"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bujumbura"
+      },
+      "geographic coordinates": {
+        "text": "3 22 S, 29 21 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi"
+    },
+    "Independence": {
+      "text": "1 July 1962 (from UN trusteeship under Belgian administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 July (1962)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest ratified by referendum 28 February 2005"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic after consultation with the government or by absolute majority support of the membership in both houses of Parliament; passage requires at least two-thirds majority vote by the Senate membership and at least four-fifths majority vote by the National Assembly; the president can opt to submit amendment bills to a referendum; constitutional articles including those on national unity, the secularity of Burundi, its democratic form of government, and its sovereignty cannot be amended (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of Belgian civil law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Burundi"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Gaston SINDIMWO (since 20 August 2015); Second Vice President Joseph BUTORE (since 20 August 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Gaston SINDIMWO (since 20 August 2015); Second Vice President Joseph BUTORE (since 20 August 2015)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 21 July 2015(next to be held in 2020); vice presidents nominated by the president, endorsed by Parliament"
+      },
+      "election results": {
+        "text": "Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Independents of Hope - Amizerio y'Abarundi) 19%, other 11.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of the Senate or Inama Nkenguzamateka (43 seats in the July 2015 election; 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and a simple majority vote for the two leading candidates in the final round; 4 seats reserved for former heads of state, 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms) and the National Assembly or Inama Nshingamateka (121 seats in the June 2015 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 21 co-opted members \u2013 3 seats reserved for Twas and 30% of total seats reserved for women; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 24 July 2015 (next to be held in 2019); National Assembly - last held on 29 June 2015 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - CNDD-FDD 33, FRODEBU 2, CNDD 1, former heads of state 4, Twas 3, women 8; National Assembly - percent of vote by party (provisional results) - CNDD-FDD 60.3%, Independents of Hope 11.2%, UPRONA 2.5%, other 26%; seats by party - CNDD-FDD 77, Independents of Hope 21, UPRONA 2, women 18, Twas 3"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges nominated by the Judicial Service Commission, a 15-member independent body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms"
+      },
+      "subordinate courts": {
+        "text": "Courts of Appeal; County Courts; Courts of Residence; Martial Court; Court Against Corruption; Commercial Court; Commerce Court"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Forum for the Strengthening of Civil Society or FORSC (civil society umbrella organization) [Vital NSHMIRIMANA]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge D\u2019Affaires Benjamin MANIRAKIZA (since 7 December 2017)"
+      },
+      "chancery": {
+        "text": "2233 Wisconsin Avenue NW, Suite 408, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 342-2574"
+      },
+      "FAX": {
+        "text": "[1] (202) 342-2578"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Anne S. CASPER (since 20 October 2016)"
+      },
+      "embassy": {
+        "text": "Avenue Des Etats-Unis, Bujumbura"
+      },
+      "mailing address": {
+        "text": "B.P. 1720, Bujumbura"
+      },
+      "telephone": {
+        "text": "[257] 22-207-000"
+      },
+      "FAX": {
+        "text": "[257] 22-222-926"
+      }
+    },
+    "Flag description": {
+      "text": "divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress"
+    },
+    "National symbol(s)": {
+      "text": "lion; national colors: red, white, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Burundi Bwacu\" (Our Beloved Burundi)"
+      },
+      "lyrics/music": {
+        "text": "Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO"
+      },
+      "note": {
+        "text": "adopted 1962"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "In 2015, Burundi\u2019s economy suffered from political turmoil, including street protests and an attempted coup, following President NKURUNZIZA\u2019s controversial announcement that he would run for a third term. Insecurity and refugee flows to neighboring countries slowed down economic activity and donors withdrew aid, increasing Burundi\u2019s budget deficit and decreasing hard currency reserves. Real GDP growth dropped precipitously and has yet to recover to pre-conflict levels."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$8.066 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$3.138 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$900 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "227"
+      }
+    },
+    "Gross national saving": {
+      "text": "-3.4% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "87.3%"
+      },
+      "government consumption": {
+        "text": "21.5%"
+      },
+      "investment in fixed capital": {
+        "text": "16.9%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "6.2%"
+      },
+      "imports of goods and services": {
+        "text": "-31.9% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "39.8%"
+      },
+      "industry": {
+        "text": "16.6%"
+      },
+      "services": {
+        "text": "43.7% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, cotton, tea, corn, beans, sorghum, sweet potatoes, bananas, cassava (manioc, tapioca); beef, milk, hides"
+    },
+    "Industries": {
+      "text": "light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)"
+    },
+    "Industrial production growth rate": {
+      "text": "-7.1% (2016 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Labor force": {
+      "text": "4.842 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "93.6%"
+      },
+      "industry": {
+        "text": "2.3%"
+      },
+      "services": {
+        "text": "4.1% (2002 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "64.6% (2014 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.1%"
+      },
+      "highest 10%": {
+        "text": "28% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "42.4 (1998)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$528.4 million"
+      },
+      "expenditures": {
+        "text": "$669.6 million (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "16.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Public debt": {
+      "text": "39.6% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15.33% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$397.7 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$571.2 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "181"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$851.3 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-374.7 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Exports": {
+      "text": "$120.8 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Exports - commodities": {
+      "text": "coffee, tea, sugar, cotton, hides"
+    },
+    "Exports - partners": {
+      "text": "Democratic Republic of the Congo 30.6%, UAE 15.7%, Kenya 14.5%, Rwanda 7.2% (2016)"
+    },
+    "Imports": {
+      "text": "$595.9 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Imports - commodities": {
+      "text": "capital goods, petroleum products, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 13.3%, India 13%, Tanzania 8.6%, Saudi Arabia 7.9%, Kenya 7.5%, UAE 5.2%, Uganda 5% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$136.2 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Debt - external": {
+      "text": "$626 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Exchange rates": {
+      "text": "1,442.51 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "9,700,000"
+      },
+      "electrification - total population": {
+        "text": "5%"
+      },
+      "electrification - urban areas": {
+        "text": "28%"
+      },
+      "electrification - rural areas": {
+        "text": "2% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "230 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "185"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "303.9 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Electricity - imports": {
+      "text": "90 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "68,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "13.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "83.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "4.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "1,500 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "1,636 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "300,000 Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "19,540"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "5,357,816"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "48 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "sparse system of open-wire, radiotelephone communications, and low-capacity microwave radio relays"
+      },
+      "domestic": {
+        "text": "telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage is approaching 50 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 257; satellite earth station - 1 Intelsat (Indian Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2017)"
+    },
+    "Internet country code": {
+      "text": ".bi"
+    },
+    "Internet users": {
+      "total": {
+        "text": "574,236"
+      },
+      "percent of population": {
+        "text": "5.2% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "165"
+      }
+    }
+  },
+  "Energy ": {
+    "Civil aircraft registration country code prefix": {
+      "text": "9U (2016)"
+    },
+    "Airports": {
+      "text": "7 (2013)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2012)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "12,322 km"
+      },
+      "paved": {
+        "text": "1,500 km"
+      },
+      "unpaved": {
+        "text": "10,822 km (2016)"
+      },
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Waterways": {
+      "text": "(mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo) (2011)"
+    },
+    "Ports and terminals": {
+      "lake port(s)": {
+        "text": "Bujumbura (Lake Tanganyika)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "2.39% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Military branches": {
+      "text": "National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, Air Wing), National Police (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited; mandatory retirement ages: 45 (enlisted), 50 (NCOs), 55 (officers), and 60 (officers with the rank of general) (2017)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "61,427 (Democratic Republic of the Congo) (2017)"
+      },
+      "IDPs": {
+        "text": "187,626 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2017)"
+      },
+      "stateless persons": {
+        "text": "974 (2016)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Burundi is a source country for children and possibly women subjected to forced labor and sex trafficking; business people recruit Burundian girls for prostitution domestically, as well as in Rwanda, Kenya, Uganda, and the Middle East, and recruit boys and girls for forced labor in Burundi and Tanzania; children and young adults are coerced into forced labor in farming, mining, informal commerce, fishing, or collecting river stones for construction; sometimes family, friends, and neighbors are complicit in exploiting children, at times luring them in with offers of educational or job opportunities"
+      },
+      "tier rating": {
+        "text": "Tier 3 \u2013 Burundi does not comply fully with the minimum standards for the elimination of human trafficking and is not making significant efforts to do so; corruption, a lack of political will, and limited resources continue to hamper efforts to combat human trafficking; in 2014, the government did not inform judicial and law enforcement officials of the enactment of an anti-trafficking law or how to implement it and approved \u2013 but did not fund \u2013 its national anti-trafficking action plan; authorities again failed to identify trafficking victims or to provide them with adequate protective services; the government has focused on transnational child trafficking but gave little attention to its domestic child trafficking problem and adult trafficking victims (2015)"
+      }
+    }
+  }
+}

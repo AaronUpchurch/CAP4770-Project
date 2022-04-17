@@ -1,0 +1,749 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Following South Sudan's independence, conflict broke out between the government and the Sudan People's Liberation Movement-North in Southern Kordofan and Blue Nile states (together known as the Two Areas), and has resulted in 1.1 million internally displaced persons or severely affected persons needing humanitarian assistance. A separate conflict broke out in the western region of Darfur in 2003, displacing nearly 2 million people and causing thousands of deaths. Fighting in both the Two Areas and Darfur between government forces and opposition has largely subsided, however the civilian populations are affected by low-level violence including inter-tribal conflict and banditry, largely a result of weak rule of law. The UN and the African Union have jointly commanded a Darfur peacekeeping operation (UNAMID) since 2007. Peacekeeping troops have struggled to address insecurity in Darfur and have increasingly become targets for attacks by armed groups. Sudan also has faced refugee influxes from neighboring countries, primarily Ethiopia, Eritrea, Chad, Central African Republic, and South Sudan. Armed conflict, poor transport infrastructure, and denial of access by both the government and armed opposition have impeded the provision of humanitarian assistance to affected populations."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of the Sudan"
+      },
+      "conventional short form": {
+        "text": "Sudan"
+      },
+      "local long form": {
+        "text": "Jumhuriyat as-Sudan"
+      },
+      "local short form": {
+        "text": "As-Sudan"
+      },
+      "former": {
+        "text": "Anglo-Egyptian Sudan"
+      },
+      "etymology": {
+        "text": "the name \"Sudan\" derives from the Arabic \"bilad-as-sudan\" meaning \"Land of the Black [peoples]\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Khartoum"
+      },
+      "geographic coordinates": {
+        "text": "15 36 N, 32 32 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile"
+    },
+    "Independence": {
+      "text": "1 January 1956 (from Egypt and the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 January (1956)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1998; latest adopted 6 July 2005, effective 9 July 2005 (interim constitution)"
+      },
+      "amendments": {
+        "text": "proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least two months prior to consideration, approval by at least three-quarters majority vote in both houses of the Legislature, and assent by the president; amended 2015 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of Islamic law and English common law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; withdrew acceptance of ICCt jurisdiction in 2008"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Sudan"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "17 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Umar Hassan Ahmad al-BASHIR (since 16 October 1993); First Vice President BAKRI Hassan Salih (since 3 December 2013) and prime minister (since 2 March 2017); Second Vice President Hasabu Mohamed ABDEL RAHMIN (since 3 December 2013); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Umar Hassan Ahmad al-BASHIR (since 16 October 1993); First Vice President BAKRI Hassan Salih (since 3 December 2013) and prime minister (since 2 March 2017); Second Vice President Hasabu Mohamed ABDEL RAHMIN (since 3 December 2013)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president; note - the NCP dominates al-BASHIR's cabinet"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed; last held on 13-16 April 2015 (next to be held in 2020); prime minister appointed by the president; note - the position of prime minister was reinstated in December 2016 as a result of the 2015-16 national dialogue process, and President al-BASHIR appointed BAKRI Hassan Salih to the position on 2 March 2017"
+      },
+      "election results": {
+        "text": "Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral National Legislature consists of the Council of States or Majlis al-Wilayat (50 seats; members indirectly elected - 2 each by the 25 state legislatures to serve 6-year terms) and the National Assembly or Majlis Watani (426 seats; 213 members directly elected in single-seat constituencies by simple majority vote, 128 for women only directly elected by proportional representation vote, and 85 directly elected by proportional representation vote; members serve 6-year terms)"
+      },
+      "elections": {
+        "text": "last held on 13-15 April 2015 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary"
+      },
+      "judge selection and term of office": {
+        "text": "National Supreme Court and Constitutional Court judges appointed by the president of the republic upon the recommendation of the National Judicial Service Commission, an independent body chaired by the chief justice of the republic and members including other judges and judicial and legal officials; Supreme Court judge tenure NA; Constitutional Court judges appointed for 7 years"
+      },
+      "subordinate courts": {
+        "text": "Court of Appeal; other national courts; public courts; district, town, and rural courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Unionist Movement Party or UMP"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Sudan People's Liberation Movement-North or SPLM-N [Yasir ARMAN]"
+    },
+    "International organization participation": {
+      "text": "ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires MAOWIA Osman Khalid Mohammed (since 31 January 2014)"
+      },
+      "chancery": {
+        "text": "2210 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 338-8565"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-2406"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Steven KOUTSIS (since July 2016)"
+      },
+      "embassy": {
+        "text": "Sharia Ali Abdul Latif Street, Khartoum"
+      },
+      "mailing address": {
+        "text": "P.O. Box 699, Kilo 10, Soba, Khartoum; APO AE 09829"
+      },
+      "telephone": {
+        "text": "[249] (187)-0-(22000)"
+      },
+      "FAX": {
+        "text": "[249] (183) 774-137"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity"
+    },
+    "National symbol(s)": {
+      "text": "secretary bird; national colors: red, white, black, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Nahnu Djundulla Djundulwatan\" (We Are the Army of God and of Our Land)"
+      },
+      "lyrics/music": {
+        "text": "Sayed Ahmad Muhammad SALIH/Ahmad MURJAN"
+      },
+      "note": {
+        "text": "adopted 1956; originally served as the anthem of the Sudanese military"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Sudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$174.7 billion (2015 est.)",
+      "note": {
+        "text": "data are in 2017 dollars"
+      },
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$119 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,500 (2015 est.)",
+      "note": {
+        "text": "data are in 2017 dollars"
+      },
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Gross national saving": {
+      "text": "9.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "77.3%"
+      },
+      "government consumption": {
+        "text": "6.1%"
+      },
+      "investment in fixed capital": {
+        "text": "18.5%"
+      },
+      "investment in inventories": {
+        "text": "0.9%"
+      },
+      "exports of goods and services": {
+        "text": "8.9%"
+      },
+      "imports of goods and services": {
+        "text": "-11.7% (2017 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "39.6%"
+      },
+      "industry": {
+        "text": "2.6%"
+      },
+      "services": {
+        "text": "57.8% (2017 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cotton, groundnuts (peanuts), sorghum, millet, wheat, gum Arabic, sugarcane, cassava (manioc, tapioca), mangoes, papaya, bananas, sweet potatoes, sesame seeds; animal feed, sheep and other livestock"
+    },
+    "Industries": {
+      "text": "oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling"
+    },
+    "Industrial production growth rate": {
+      "text": "2.5% (2017 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Labor force": {
+      "text": "11.92 million (2007 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "80%"
+      },
+      "industry": {
+        "text": "7%"
+      },
+      "services": {
+        "text": "13% (1998 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "20.6% (2016 est.)",
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "Population below poverty line": {
+      "text": "46.5% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.7%"
+      },
+      "highest 10%": {
+        "text": "26.7% (2009 est.)"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.198 billion"
+      },
+      "expenditures": {
+        "text": "$13.4 billion (2017 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "6.9% of GDP (2017 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.4% of GDP (2017 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Public debt": {
+      "text": "65.4% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "17.8% (2016 est.)",
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$12.51 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$19.53 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$21.61 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$5.126 billion (2016 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Exports": {
+      "text": "$3.094 billion (2016 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Exports - commodities": {
+      "text": "gold; oil and petroleum products; cotton, sesame, livestock, peanuts, gum Arabic, sugar"
+    },
+    "Exports - partners": {
+      "text": "UAE 42.9%, Saudi Arabia 19.5%, Egypt 15.9% (2016)"
+    },
+    "Imports": {
+      "text": "$7.325 billion (2016 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, manufactured goods, refinery and transport equipment, medicines, chemicals, textiles, wheat"
+    },
+    "Imports - partners": {
+      "text": "UAE 15.4%, India 11.2%, Egypt 10.4%, Saudi Arabia 9.2%, Turkey 8.9%, Japan 5% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$168.3 million (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Debt - external": {
+      "text": "$51.26 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$25.47 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Exchange rates": {
+      "text": "5.74 (2013 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "24,700,000"
+      },
+      "electrification - total population": {
+        "text": "35%"
+      },
+      "electrification - urban areas": {
+        "text": "63%"
+      },
+      "electrification - rural areas": {
+        "text": "21% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "12.69 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "10.26 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "3.736 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "34.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "185"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "60.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "5.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Crude oil - production": {
+      "text": "104,900 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "152,100 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "5 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "89,300 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "110,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "7,396 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "23,920 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "185"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "84.95 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "14 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "136,472"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "27,807,293"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "76 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "well-equipped system by regional standards and being upgraded; cellular communications started in 1996 and have expanded substantially with wide coverage of most major cities"
+      },
+      "domestic": {
+        "text": "consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity exceeeds 75 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 249; linked to the EASSy and FLAG fiber-optic submarine cable systems; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Arabsat (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the Sudanese Government directly controls TV and radio, requiring that both media reflect government policies; TV has a permanent military censor; a private radio station is in operation (2007)"
+    },
+    "Internet country code": {
+      "text": ".sd"
+    },
+    "Internet users": {
+      "total": {
+        "text": "10,284,260"
+      },
+      "percent of population": {
+        "text": "28.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "48"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "25"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "496,178"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "13,161,592 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "ST (2016)"
+    },
+    "Airports": {
+      "text": "74 (2013)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "58"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "17"
+      },
+      "914 to 1,523 m": {
+        "text": "28"
+      },
+      "under 914 m": {
+        "text": "12 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "6 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 156 km; oil 4,070 km; refined products 1,613 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "7,251 km"
+      },
+      "narrow gauge": {
+        "text": "5,851 km 1.067-m gauge; 1,400 km 0.600-m gauge for cotton plantations (20014)"
+      },
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "11,900 km"
+      },
+      "paved": {
+        "text": "4,320 km"
+      },
+      "unpaved": {
+        "text": "7,580 km (2000)"
+      },
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Waterways": {
+      "text": "4,068 km (1,723 km open year-round on White and Blue Nile Rivers) (2011)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "17"
+      },
+      "by type": {
+        "text": "general cargo 1, other 16 (2017)"
+      },
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Port Sudan"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Sudanese Armed Forces (SAF): Land Forces, Navy (includes Marines), Sudanese Air Force (Sikakh al-Jawwiya as-Sudaniya), Rapid Support Forces, Popular Defense Forces (2016)"
+    },
+    "Military service age and obligation": {
+      "text": "18-33 years of age for male and female compulsory or voluntary military service; 1-2 year service obligation; a requirement that completion of national service was mandatory before entering public or private sector employment has been cancelled (2012)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; as of April 2017, more than 610,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting about 507,000 refugees, including more than 375,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "103,176 (Eritrea); 8,502 (Chad); 6,997 (Syria) (2016); 772,715 (South Sudan) (refugees and asylum seekers) (2017)"
+      },
+      "IDPs": {
+        "text": "3.3 million (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2016)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Sudan is a source, transit, and destination country for men, women, and children who are subjected to forced labor and sex trafficking; Sudanese women and girls, particularly those from rural areas or who are internally displaced, or refugees are vulnerable to domestic servitude in country, as well as domestic servitude and sex trafficking abroad; migrants from East and West Africa, South Sudan, Syria, and Nigeria smuggled into or through Sudan are vulnerable to exploitation; Ethiopian, Eritrean, and Filipina women are subjected to domestic servitude in Sudanese homes, and East African and possibly Thai women are forced into prostitution in Sudan; Sudanese children continue to be recruited and used as combatants by government forces and armed groups"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Sudan does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government increased its efforts to publically address and prevent trafficking, established a national anti-trafficking council, and began drafting a national action plan against trafficking; the government acknowledges cross-border trafficking but still denies the existence of forced labor, sex trafficking, and the recruitment of child soldiers domestically; law enforcement and judicial officials struggled to apply the national anti-trafficking law, often relying on other statutes with lesser penalties; authorities did not use systematic procedure to identify victims or refer them to care and relied on international organizations and domestic groups to provide protective services; some foreign victims were penalized for unlawful acts committed as a direct result of being trafficked, such as immigration or prostitution violations (2015)"
+      }
+    }
+  }
+}

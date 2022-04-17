@@ -1,0 +1,687 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule. This tiny country, composed of a mainland portion plus five inhabited islands, is one of the smallest on the African continent. President Teodoro OBIANG NGUEMA MBASOGO has ruled the country since 1979 when he seized power in a coup. Although nominally a constitutional democracy since 1991, the 1996, 2002, and 2009 presidential elections - as well as the 1999 and 2004 legislative elections - were widely seen as flawed. The president exerts almost total control over the political system and has discouraged political opposition. Equatorial Guinea has experienced rapid economic growth due to the discovery of large offshore oil reserves, and in the last decade has become Sub-Saharan Africa's third largest oil exporter. Despite the country's economic windfall from oil production resulting in a massive increase in government revenue in recent years, there have been few improvements in the population's living standards."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the Bight of Biafra, between Cameroon and Gabon"
+    },
+    "Geographic coordinates": {
+      "text": "2 00 N, 10 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "28,051 sq km"
+      },
+      "land": {
+        "text": "28,051 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "539 km"
+      },
+      "border countries": {
+        "text": "Cameroon 189 km, Gabon 350 km"
+      }
+    },
+    "Coastline": {
+      "text": "296 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; always hot, humid"
+    },
+    "Terrain": {
+      "text": "coastal plains rise to interior hills; islands are volcanic"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Pico Basile 3,008 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "4.63%"
+      },
+      "permanent crops": {
+        "text": "3.57%"
+      },
+      "other": {
+        "text": "91.8% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "26 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.11  cu km/yr (83%/16%/1%)"
+      },
+      "per capita": {
+        "text": "220  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "violent windstorms; flash floods",
+      "volcanism": {
+        "text": "Santa Isabel (elev. 3,007 m, 9,865 ft), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, forms Bioko Island in the Gulf of Guinea"
+      }
+    },
+    "Environment - current issues": {
+      "text": "tap water is not potable; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "insular and continental regions widely separated"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "650,702 (July 2010 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "41.9% (male 134,823/female 130,308)"
+      },
+      "15-64 years": {
+        "text": "54% (male 167,820/female 174,238)"
+      },
+      "65 years and over": {
+        "text": "4.1% (male 11,574/female 14,678) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "19 years"
+      },
+      "male": {
+        "text": "18.4 years"
+      },
+      "female": {
+        "text": "19.6 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.674% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "36 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "9.26 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "39% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "79.47 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "80.55 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "78.36 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "61.98 years"
+      },
+      "male": {
+        "text": "61.05 years"
+      },
+      "female": {
+        "text": "62.94 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "3.4% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "11,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "370 (2001 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria and yellow fever"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Equatorial Guinean(s) or Equatoguinean(s)"
+      },
+      "adjective": {
+        "text": "Equatorial Guinean or Equatoguinean"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Fang 85.7%, Bubi 6.5%, Mdowe 3.6%, Annobon 1.6%, Bujeba 1.1%, other 1.4% (1994 census)"
+    },
+    "Religions": {
+      "text": "nominally Christian and predominantly Roman Catholic, pagan practices"
+    },
+    "Languages": {
+      "text": "Spanish 67.6% (official), other 32.4% (includes French (official), Fang, Bubi) (1994 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "87%"
+      },
+      "male": {
+        "text": "93.4%"
+      },
+      "female": {
+        "text": "80.5% (2000 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "8 years"
+      },
+      "male": {
+        "text": "9 years"
+      },
+      "female": {
+        "text": "7 years (2000)"
+      }
+    },
+    "Education expenditures": {
+      "text": "0.6% of GDP (2003)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Equatorial Guinea "
+      },
+      "conventional short form": {
+        "text": "Equatorial Guinea"
+      },
+      "local long form": {
+        "text": "Republica de Guinea Ecuatorial/Republique de Guinee equatoriale"
+      },
+      "local short form": {
+        "text": "Guinea Ecuatorial/Guinee equatoriale"
+      },
+      "former": {
+        "text": "Spanish Guinea"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Malabo"
+      },
+      "geographic coordinates": {
+        "text": "3 45 N, 8 47 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Kie-Ntem, Litoral, Wele-Nzas"
+    },
+    "Independence": {
+      "text": "12 October 1968 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 12 October (1968)"
+    },
+    "Constitution": {
+      "text": "approved by national referendum 17 November 1991; amended January 1995"
+    },
+    "Legal system": {
+      "text": "partly based on Spanish civil law and tribal custom; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Brig. Gen. (Ret.) Teodoro OBIANG NGUEMA MBASOGO (since 3 August 1979 when he seized power in a military coup)"
+      },
+      "head of government": {
+        "text": "Prime Minister Ignacio MILAM Tang (since 8 July 2008);"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (no term limits); election last held on 29 November 2009 (next to be held in 2016); prime minister and deputy prime ministers appointed by the president"
+      },
+      "election results": {
+        "text": "Teodoro OBIANG NGUEMA MBASOGO reelected president; percent of vote - Teodoro OBIANG NGUEMA MBASOGO 95.8%, Placido Mico ABOGO 3.6%; elections marred by widespread fraud"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral House of People's Representatives or Camara de Representantes del Pueblo (100 seats; members directly elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 4 May 2008 (next to be held in 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - PDGE 89, EC 10, CPDS 1"
+      },
+      "note": "Parliament has little power since the constitution vests all executive authority in the president"
+    },
+    "note": "adopted 1968",
+    "Judicial branch": {
+      "text": "Supreme Tribunal"
+    },
+    "Political parties and leaders": {
+      "text": "Convergence Party for Social Democracy or CPDS [Placido MICO Abogo]; Democratic Party for Equatorial Guinea or PDGE [Teodoro OBIANG NGUEMA MBASOGO] (ruling party); Electoral Coalition or EC; Party for Progress of Equatorial Guinea or PPGE [Severo MOTO]; Popular Action of Equatorial Guinea or APGE [Avelino MOCACHE]; Popular Union or UP"
+    },
+    "Political pressure groups and leaders": {
+      "text": "ASODEGUE (Madrid-based pressure group for democratic reform); Global Witness (anti-corruption)"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, CEMAC, CPLP (associate), FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Purificacion ANGUE ONDO"
+      },
+      "chancery": {
+        "text": "2020 16th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 518-5700"
+      },
+      "FAX": {
+        "text": "[1] (202) 518-5252"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Alberto M. FERNANDEZ"
+      },
+      "embassy": {
+        "text": "K-3, Carreterade Aeropuerto, al lado de Restaurante El Paraiso, Malabo; note - relocated embassy is opened for limited functions; inquiries should continue to be directed to the US Embassy in Yaounde, Cameroon"
+      },
+      "mailing address": {
+        "text": "B.P. 817, Yaounde, Cameroon; US Embassy Yaounde, US Department of State, Washington, DC 20521-2520"
+      },
+      "telephone": {
+        "text": "[237] 2220-1500"
+      },
+      "FAX": {
+        "text": "[237] 2220-1572"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Caminemos pisando la senda\" (Let Us Tread the Path)"
+      },
+      "lyrics/music": {
+        "text": "Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez LOPEZ (disputed)"
+      },
+      "note": "adopted 1968"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The discovery and exploitation of large oil reserves have contributed to dramatic economic growth but fluctuating oil prices have produced huge swings in GDP growth in recent years. Forestry, farming, and fishing are also major components of GDP. Subsistence farming is the dominate form of livelihood. Although pre-independence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy under successive regimes has diminished potential for agriculture-led growth (the government has stated its intention to reinvest some oil revenue into agriculture). A number of aid programs sponsored by the World Bank and the IMF have been cut off since 1993 because of corruption and mismanagement. Government officials and their family members own most businesses, but corruption is rampant. Undeveloped natural resources include titanium, iron ore, manganese, uranium, and alluvial gold. Growth remained strong in 2008, led by oil, but dropped in 2009-10, as the price of oil fell."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$22.96 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$14.55 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "11.3% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$37,200 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.2%"
+      },
+      "industry": {
+        "text": "93.9%"
+      },
+      "services": {
+        "text": "3.8% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "195,200 NA (2007)"
+    },
+    "Unemployment rate": {
+      "text": "30% (1998 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "29.1% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "5.4% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.1% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "4.75% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.295 billion (31 December 2009 est)"
+    },
+    "Stock of broad money": {
+      "text": "$1.473 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.579 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "coffee, cocoa, rice, yams, cassava (tapioca), bananas, palm oil nuts; livestock; timber"
+    },
+    "Industries": {
+      "text": "petroleum, fishing, sawmilling, natural gas"
+    },
+    "Industrial production growth rate": {
+      "text": "1.8% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "28 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "26.04 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "346,000 bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "1,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "362,900 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "1,114 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "1.1 billion bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "6.67 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.5 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "5.17 billion cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "36.81 billion cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.883 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$8.495 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum, methanol, timber, cocoa"
+    },
+    "Exports - partners": {
+      "text": "US 30.31%, China 12.54%, Japan 9.21%, Spain 7.5%, South Korea 7.01%, Taiwan 5.63%, Italy 5.38%, Netherlands 4.09% (2009)"
+    },
+    "Imports": {
+      "text": "$5.258 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum sector equipment, other equipment"
+    },
+    "Imports - partners": {
+      "text": "China 19.97%, US 17.28%, Spain 14.94%, France 9.49%, Cote d'Ivoire 6.34%, Italy 5.02% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.252 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$766 million (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "Cooperation Financiere en Afrique Centrale francs per US dollar - 506.04 (2010), 472.19 (2009), 447.81 (2008), 481.83 (2007), 522.4 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "10,000 (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "445,000 (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "digital fixed-line network in most major urban areas and good mobile coverage"
+      },
+      "domestic": {
+        "text": "fixed-line density is about 2 per 100 persons; mobile-cellular subscribership has been increasing and in 2009 stood at about 70 percent of the population"
+      },
+      "international": {
+        "text": "country code - 240; international communications from Bata and Malabo to African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are accessible (2007)"
+    },
+    "Internet country code": {
+      "text": ".gq"
+    },
+    "Internet hosts": {
+      "text": "9 (2010)"
+    },
+    "Internet users": {
+      "text": "14,400 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "7 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "2 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 38 km (2009)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "2,880 km (2000)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "4"
+      },
+      "by type": {
+        "text": "cargo 1, chemical tanker 1, petroleum tanker 2"
+      },
+      "foreign-owned": {
+        "text": "1 (Norway 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bata, Luba, Malabo (2010)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "National Guard (Guardia Nacional de Guinea Ecuatoria, GNGE (Army), with Coast Guard (Navy) and Air Wing) (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for selective compulsory military service; service obligation 2 years; women hold only administrative positions in the Coast Guard (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "146,241"
+      },
+      "females age 16-49": {
+        "text": "146,138 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "109,311"
+      },
+      "females age 16-49": {
+        "text": "111,543 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "7,186"
+      },
+      "female": {
+        "text": "6,920 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.1% of GDP (2009)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in 2002, ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but a dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River and imprecisely defined maritime coordinates in the ICJ decision delay final delimitation; UN urges Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane and lesser islands and to create a maritime boundary in the hydrocarbon-rich Corisco Bay"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Equatorial Guinea is primarily a destination country for children trafficked for the purpose of forced labor and possibly for the purpose of sexual exploitation; children have been trafficked from nearby countries for domestic servitude, market labor, ambulant vending, and possibly sexual exploitation; women may also be trafficked to Equatorial Guinea from Cameroon, Benin, other neighboring countries, and China for sexual exploitation"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Equatorial Guinea is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to eliminate trafficking, particularly in the areas of prosecuting and convicting trafficking offenders and failing to formalize mechanisms to provide assistance to victims; although the government made some effort to enforce laws against child labor exploitation, it failed to report any trafficking prosecutions or convictions in 2007; the government continued to lack shelters or formal procedures for providing care to victims (2008)"
+      }
+    }
+  }
+}

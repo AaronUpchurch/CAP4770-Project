@@ -1,0 +1,807 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Colombia was one of the three countries that emerged after the dissolution of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A decades-long conflict between government forces and antigovernment insurgent groups, principally the Revolutionary Armed Forces of Colombia (FARC) heavily funded by the drug trade, escalated during the 1990s. More than 31,000 former paramilitaries demobilized by the end of 2006 and the United Self Defense Forces of Colombia as a formal organization ceased to operate. In the wake of the paramilitary demobilization, organized criminal groups arose, whose members include some former paramilitaries. After four years of formal peace negotiations, the Colombian Government signed a revised final peace accord with the FARC in November 2016, which was subsequently ratified by the Colombian Congress. The accord calls for members of the FARC to demobilize, disarm, and reincorporate into society and politics, and it creates an alternative system for transitional justice that includes a \u201cSpecial Jurisdiction for Peace\u201d to address accountability for conflict-related crimes and established truth-telling mechanisms. The Colombian Government has stepped up efforts to reassert government control throughout the country, and now has a presence in every one of its administrative departments. Despite decades of internal conflict and drug related security challenges, Colombia maintains relatively strong democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Colombia"
+      },
+      "conventional short form": {
+        "text": "Colombia"
+      },
+      "local long form": {
+        "text": "Republica de Colombia"
+      },
+      "local short form": {
+        "text": "Colombia"
+      },
+      "etymology": {
+        "text": "the country is named after explorer Christopher COLUMBUS"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bogota"
+      },
+      "geographic coordinates": {
+        "text": "4 36 N, 74 05 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada"
+    },
+    "Independence": {
+      "text": "20 July 1810 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 20 July (1810)"
+    },
+    "Constitution": {
+      "text": "several previous; latest promulgated 5 July 1991; amended many times, last in 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system influenced by the Spanish and French civil codes"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "least one parent must be a citizen or permanent resident of Colombia"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Juan Manuel SANTOS Calderon (since 7 August 2010); Vice President Ret. Gen. Oscar Adolfo NARANJO Trujillo (since 30 March 2017); note - Vice President German VARGAS Lleras' resignation on 15 March 2017 became effective on 21 March 2017; the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Juan Manuel SANTOS Calderon (since 7 August 2010); Vice President Ret. Gen. Oscar Adolfo NARANJO Trujillo (since 30 March 2017)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term (beginning in 2018); election last held on 25 May 2014 with a runoff held on 15 June 2014 (next to be held on 27 May 2018)"
+      },
+      "election results": {
+        "text": "Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51.0%, Oscar Ivan ZULUAGA (CD) 45.0%, other 4.0%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Congress or Congreso consists of the Senate or Senado (102 seats; 100 members elected in a single nationwide constituency by party-list proportional representation popular vote and 2 members elected in a special nationwide for indigenous communities to serve 4-year terms) and the Chamber of Representatives or Camara de Representantes (166 seats; members elected in multi-seat constituencies by party-list proportional representation constituency popular vote to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 9 March 2014 (next to be held in March 2018); Chamber of Representatives - last held on 9 March 2014 (next to be held in March 2018)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - U Party 21, CD 20, PC 18, PL 17, CR 9, PDA 5, Green Party 5, other 7; Chamber of Representatives - percent of vote by party - NA; seats by party - PL 39, U Party 37, PC 27, CD 19, CR 16, Green Party 6, PDA 3, other 19"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 31 members); Superior Judiciary Council (consists of 13 magistrates)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges appointed by the Supreme Court members from candidates submitted by the Superior Judiciary Council; judges elected for individual 8-year terms; Constitutional Court magistrates - nominated by the president, by the Supreme Court, and elected by the Senate; judges elected for individual 8-year terms; Council of State members appointed by the State Council plenary from lists nominated by the Superior Judiciary Council"
+      },
+      "subordinate courts": {
+        "text": "Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social National Unity Party or U Party [Roy BARRERAS, Jose David NAME]",
+      "note": {
+        "text": "Colombia has numerous smaller movements"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Liberation Army or ELN"
+    },
+    "International organization participation": {
+      "text": "BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Camilo REYES Rodriguez (since 21 July 2017)"
+      },
+      "chancery": {
+        "text": "2118 Leroy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 387-8338"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-8643"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico)"
+      },
+      "consulate(s)": {
+        "text": "Boston, Chicago, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Kevin WHITAKER (since 11 June 2014)"
+      },
+      "embassy": {
+        "text": "Calle 24 Bis No. 48-50, Bogota, D.C."
+      },
+      "mailing address": {
+        "text": "Carrera 45 No. 24B-27, Bogota, D.C."
+      },
+      "telephone": {
+        "text": "[57] (1) 275-2000"
+      },
+      "FAX": {
+        "text": "[57] (1) 275-4600"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity",
+      "note": {
+        "text": "similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center"
+      }
+    },
+    "National symbol(s)": {
+      "text": "Andean condor; national colors: yellow, blue, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional de la Republica de Colombia\" (National Anthem of the Republic of Colombia)"
+      },
+      "lyrics/music": {
+        "text": "Rafael NUNEZ/Oreste SINDICI"
+      },
+      "note": {
+        "text": "adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance\u2014a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$687.2 billion (2015 est.)",
+      "note": {
+        "text": "data are in 2017 dollars"
+      },
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$307.5 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$14,300 (2015 est.)",
+      "note": {
+        "text": "data are in 2017 dollars"
+      },
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Gross national saving": {
+      "text": "20.3% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "62.1%"
+      },
+      "government consumption": {
+        "text": "18.2%"
+      },
+      "investment in fixed capital": {
+        "text": "24.8%"
+      },
+      "investment in inventories": {
+        "text": "0.2%"
+      },
+      "exports of goods and services": {
+        "text": "14.2%"
+      },
+      "imports of goods and services": {
+        "text": "-19.4% (2017 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "7.4%"
+      },
+      "industry": {
+        "text": "31.3%"
+      },
+      "services": {
+        "text": "61.4% (2017 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, cut flowers, bananas, rice, tobacco, corn, sugarcane, cocoa beans, oilseed, vegetables; shrimp; forest products"
+    },
+    "Industries": {
+      "text": "textiles, food processing, oil, clothing and footwear, beverages, chemicals, cement; gold, coal, emeralds"
+    },
+    "Industrial production growth rate": {
+      "text": "-2.5% (2017 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Labor force": {
+      "text": "24.67 million (2017 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "17%"
+      },
+      "industry": {
+        "text": "21%"
+      },
+      "services": {
+        "text": "62% (2011 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.2% (2016 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Population below poverty line": {
+      "text": "27.8% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.1%"
+      },
+      "highest 10%": {
+        "text": "42.2% (2014 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "56.9 (1996)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$85.14 billion"
+      },
+      "expenditures": {
+        "text": "$95.28 billion (2017 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "27.7% of GDP (2017 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.3% of GDP (2017 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Public debt": {
+      "text": "52% of GDP (2016 est.)",
+      "note": {
+        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities"
+      },
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.5% (2016 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2014)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.65% (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$34.01 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$136 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$153.1 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$202.7 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Current account balance": {
+      "text": "-$12.24 billion (2016 est.)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Exports": {
+      "text": "$33.38 billion (2016 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Exports - commodities": {
+      "text": "petroleum, coal, emeralds, coffee, nickel, cut flowers, bananas, apparel"
+    },
+    "Exports - partners": {
+      "text": "US 33.5%, Panama 6.3% (2016)"
+    },
+    "Imports": {
+      "text": "$43.24 billion (2016 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Imports - commodities": {
+      "text": "industrial equipment, transportation equipment, consumer goods, chemicals, paper products, fuels, electricity"
+    },
+    "Imports - partners": {
+      "text": "US 26.4%, China 19.1%, Mexico 7.5%, Brazil 4.7% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$46.18 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Debt - external": {
+      "text": "$115 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$164.3 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$51.82 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Exchange rates": {
+      "text": "2,001.1 (2013 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,200,000"
+      },
+      "electrification - total population": {
+        "text": "97%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "88% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "67.26 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "57.6 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Electricity - exports": {
+      "text": "460 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Electricity - imports": {
+      "text": "45 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "16.66 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "29.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "69% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "1.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Crude oil - production": {
+      "text": "886,000 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "681,900 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.002 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "362,100 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "345,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "83,920 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "95,790 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Natural gas - production": {
+      "text": "11.91 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "18.82 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "400 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "123.5 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "74 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "7,115,984"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "15 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "58,684,924"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "124 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system in many respects with a nationwide microwave radio relay system, a domestic satellite system with 41 earth stations, and a fiber-optic network linking 50 cities; multiple providers of both fixed-line and mobile-cellular services, however, infrastructure remains poor in small urban centers and rural areas"
+      },
+      "domestic": {
+        "text": "fixed-line connections stand at about 15 per 100 persons; mobile cellular telephone subscribership is about 120 per 100 persons; competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services"
+      },
+      "international": {
+        "text": "country code - 57; multiple submarine cable systems provide links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "combination of state-owned and privately owned broadcast media provide service; more than 500 radio stations and many national, regional, and local TV stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".co"
+    },
+    "Internet users": {
+      "total": {
+        "text": "27,452,550"
+      },
+      "percent of population": {
+        "text": "58.1% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "25"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "157"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "30,742,928"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,317,562,271 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HJ, HK (2016)"
+    },
+    "Airports": {
+      "text": "836 (2013)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "121"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "39"
+      },
+      "914 to 1,523 m": {
+        "text": "53"
+      },
+      "under 914 m": {
+        "text": "18 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "715"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "25"
+      },
+      "914 to 1,523 m": {
+        "text": "201"
+      },
+      "under 914 m": {
+        "text": "488 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "3 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 4,991 km; oil 6,796 km; refined products 3,429 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,141 km"
+      },
+      "standard gauge": {
+        "text": "150 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "1,991 km 0.914-m gauge (2015)"
+      },
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "204,855 km (2015)"
+      },
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Waterways": {
+      "text": "24,725 km (18,300 km navigable; the most important waterway, the River Magdalena, of which 1,488 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges) (2012)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "103"
+      },
+      "by type": {
+        "text": "general cargo 17, oil tanker 9, other 77 (2017)"
+      },
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo; Pacific Ocean - Buenaventura"
+      },
+      "river port(s)": {
+        "text": "Barranquilla (Rio Magdalena)"
+      },
+      "oil terminal(s)": {
+        "text": "Covenas offshore terminal"
+      },
+      "dry bulk cargo port(s)": {
+        "text": "Puerto Bolivar (coal)"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Cartagena (1,853,342)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "3.17% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Military branches": {
+      "text": "National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC, includes Naval Aviation, Naval Infantry (Infanteria de Marina, IM), and Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18-24 years of age for compulsory and voluntary military service; service obligation is 18 months (2012)"
+    }
+  },
+  "Energy ": {
+    "Terrorist groups - home based": {
+      "National Liberation Army (Ejercito de Liberacion Nacional, ELN)": {
+        "text": ""
+      },
+      "text": "area(s) of operation: headquartered in Uribe, Narino Department, in the southwest on the border with Ecuador and the Pacific Ocean shores; recognized as the nation's largest insurgent group, with less than 10,000 members in recent years; active mostly in Colombia's center, northeast, and mountainous southwest; historically, operatives have targeted Colombian political, military, and economic figures and structures for attack and foreign citizens for kidnappings for ransom; on 29 August 2016, a bilateral ceasefire went into effect between FARC leaders and the Colombian Government, followed by peace talks between FARC leader Rodrigo LONDONO and Colombia's President Juan Manuel SANTOS; on 30 November 2016, the Colombian Congress approved a peace accord between the FARC and Colombian Government; both sides remain committed to peace; FARC has commenced disarming in UN-monitored zones, with an estimated 7,000 members turning in their weapons by mid-March 2017 and preparing to reintegrate into civilian life; in exchange for disarmament, the government will allow FARC to form an official political party and integrate fighters into society through measures such as funding education and providing housing and jobs; FARC is striving to be ready to participate in 2018 elections as a political party; an estimated 300 FARC members remain resistant to demobilization, including the Armando Rios First Front's estimated 200 fighters; the five-decade conflict resulted in tens of thousands missing persons, massive land seizures, an estimated 5.7 million people displaced from their homes\u2014primarily peasants, and at least 220,000 Colombian lives lost, including thousands of soldiers and police personnel; FARC leaders have vowed to cease participating in the narcotics trade, which has been the group's principal source of revenue for the past several years; an increasing number of members have defected recently to use their heavy-weapons skills to serve South American drug traffickers",
+      "Revolutionary Armed Forces of Colombia (Fuerzas Armadas Revolucionarias de Colombia, FARC)": {
+        "text": ""
+      }
+    }
+  },
+  "Communications ": {
+    "Disputes - international": {
+      "text": "in December 2007, ICJ allocated San Andres, Providencia, and Santa Catalina islands to Colombia under 1928 Treaty but did not rule on 82 degrees W meridian as maritime boundary with Nicaragua; managed dispute with Venezuela over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders and have caused Colombian citizens to flee mostly into neighboring countries; Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "7,582,085 (conflict between government and illegal armed groups and drug traffickers since 1985; about 300,000 new IDPs each year since 2000) (2017)"
+      },
+      "stateless persons": {
+        "text": "11 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of coca, opium poppy, and cannabis; world's leading coca cultivator with 159,000 hectares in coca cultivation in 2015, a 42% increase over 2014, producing a potential of 495 mt of pure cocaine; the world's largest producer of coca derivatives; supplies cocaine to nearly all of the US market and the great majority of other international drug markets; in 2016, the Colombian government reported manual eradication of 17,642 hectares; Colombia suspended aerial eradication in October 2015 making 2016 the first full year without aerial eradication; a significant portion of narcotics proceeds are either laundered or invested in Colombia through the black market peso exchange; Colombia probably remains the second largest supplier of heroin to the US market; opium poppy cultivation was estimated to be 1,100 hectares in 2015, sufficient to potentially produce three metric tons of pure heroin"
+    }
+  }
+}

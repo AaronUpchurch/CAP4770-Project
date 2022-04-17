@@ -1,0 +1,804 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Northern South America, bordering the North Atlantic Ocean, between French Guiana and Guyana"
+    },
+    "Geographic coordinates": {
+      "text": "4 00 N, 56 00 W"
+    },
+    "Map references": {
+      "text": "South America"
+    },
+    "Area": {
+      "total": {
+        "text": "163,820 sq km"
+      },
+      "land": {
+        "text": "156,000 sq km"
+      },
+      "water": {
+        "text": "7,820 sq km"
+      },
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Georgia"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,907 km"
+      },
+      "border countries (3)": {
+        "text": "Brazil 515 km, French Guiana 556 km, Guyana 836 km"
+      }
+    },
+    "Coastline": {
+      "text": "386 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; moderated by trade winds"
+    },
+    "Terrain": {
+      "text": "mostly rolling hills; narrow coastal plain with swamps"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "246 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Juliana Top 1,230 m"
+    },
+    "Natural resources": {
+      "text": "timber, hydropower, fish, kaolin, shrimp, bauxite, gold, and small amounts of nickel, copper, platinum, iron ore"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "0.5%"
+      },
+      "text": "arable land 0.4%; permanent crops 0%; permanent pasture 0.1%",
+      "forest": {
+        "text": "94.6%"
+      },
+      "other": {
+        "text": "4.9% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "570 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "population concentrated along the northern coastal strip; the remainder of the country is sparsely populated"
+    },
+    "Natural hazards": {
+      "text": "flooding"
+    },
+    "Environment - current issues": {
+      "text": "deforestation as timber is cut for export; pollution of inland waterways by small-scale mining activities"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "smallest independent country on South American continent; mostly tropical rain forest; great diversity of flora and fauna that, for the most part, is increasingly threatened by new development; relatively small population, mostly along the coast"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Suriname"
+      },
+      "conventional short form": {
+        "text": "Suriname"
+      },
+      "local long form": {
+        "text": "Republiek Suriname"
+      },
+      "local short form": {
+        "text": "Suriname"
+      },
+      "former": {
+        "text": "Netherlands Guiana, Dutch Guiana"
+      },
+      "etymology": {
+        "text": "name may derive from the indigenous \"Surinen\" people who inhabited the area at the time of European contact"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Paramaribo"
+      },
+      "geographic coordinates": {
+        "text": "5 50 N, 55 10 W"
+      },
+      "time difference": {
+        "text": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica"
+    },
+    "Independence": {
+      "text": "25 November 1975 (from the Netherlands)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 25 November (1975)"
+    },
+    "Constitution": {
+      "text": "previous 1975; latest ratified 30 September 1987, effective 30 October 1987; amended 1992 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system influenced by Dutch civil law; note - the Commissie Nieuw Surinaamse Burgerlijk Wetboek completed drafting a new civil code in February 2009"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Suriname"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Desire Delano BOUTERSE (since 12 August 2010); Vice President Ashwin ADHIN (since 12 August 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Desire Delano BOUTERSE (since 12 August 2010); Vice President Ashwin ADHIN (since 12 August 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 25 May 2015 (next to be held in May 2020)"
+      },
+      "election results": {
+        "text": "Desire Delano BOUTERSE reelected president; National Assembly vote - NA"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 25 May 2015 (next to be held in May 2020)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NDP 45.5%, V7 37.2%, A-Com 10.5%, DOE 4.3%, PALU .7%, other 1.7%; seats by party - NDP 26, V7 18, A-Com 5, DOE 1, PALU 1"
+      },
+      "note": {
+        "text": "seats by party as of April 2017 - seats by party - NDP 26, VHP 9, ABOP 5, PL 3, NPS 2, BEP 2, DOE 1, PALU 1, independent 2"
+      }
+    },
+    "Judicial branch": {
+      "highest resident court(s)": {
+        "text": "High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights"
+      },
+      "judge selection and term of office": {
+        "text": "court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges appointed for life"
+      },
+      "subordinate courts": {
+        "text": "cantonal courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Victory 7 or V7 [Chandrikapresad SANTOKHI] (formerly the New Front for Democracy and Development or NF; an electoral coalition of NPS, VHP, DA91, PL, SPA formed only for the May 2015 election)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Women's Parliament Forum or WPF (Vrouwen Parlement Forum or VPF) [Iris GILLIAD]"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Niermala Sakoentala BADRISING (since 21 July 2017)"
+      },
+      "chancery": {
+        "text": "Suite 460, 4301 Connecticut Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 244-7488"
+      },
+      "FAX": {
+        "text": "[1] (202) 244-5878"
+      },
+      "consulate(s) general": {
+        "text": "Miami"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Edwin \"Ned\" Richard NOLAN, Jr.(since 11 January 2016)"
+      },
+      "embassy": {
+        "text": "165 Kristalstraat, Paramaribo"
+      },
+      "mailing address": {
+        "text": "US Department of State, PO Box 1821, Paramaribo"
+      },
+      "telephone": {
+        "text": "[597] 472-900"
+      },
+      "FAX": {
+        "text": "[597] 410-972"
+      }
+    },
+    "Flag description": {
+      "text": "five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love; green symbolizes hope and fertility; white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future"
+    },
+    "National symbol(s)": {
+      "text": "royal palm, faya lobi (flower); national colors: green, white, red, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"God zij met ons Suriname!\" (God Be With Our Suriname)"
+      },
+      "lyrics/music": {
+        "text": "Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY"
+      },
+      "note": {
+        "text": "adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Suriname's economic prospects for the medium-term will depend on continued commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. One credit bureau forecasted that the economy would contract 2% in 2017. Rising international oil prices and higher production by Suriname\u2019s oil company, Staatsolie\u2019s, will lift oil exports. Two new offshore oil exploration wells will draw 100 million dollars in foreign direct investment inflows. Higher gold prices and increased production from the Merian gold mine also will lift exports. However, investment overall is slowing and unemployment is rising, reflecting government spending cuts, weak business confidence, and the completion of large mining infrastructure projects. Fiscal problems, such as a failure to secure sufficient external financing, could result in additional pressure on the exchange rate and inflation."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$8.845 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$3.625 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "221"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$16,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Gross national saving": {
+      "text": "65.2% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "32.7%"
+      },
+      "government consumption": {
+        "text": "17%"
+      },
+      "investment in fixed capital": {
+        "text": "64.3%"
+      },
+      "investment in inventories": {
+        "text": "26.5%"
+      },
+      "exports of goods and services": {
+        "text": "45.2%"
+      },
+      "imports of goods and services": {
+        "text": "-59.2% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "11.8%"
+      },
+      "industry": {
+        "text": "30.7%"
+      },
+      "services": {
+        "text": "57.5% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rice, bananas, palm kernels, coconuts, plantains, peanuts; beef, chickens; shrimp; forest products"
+    },
+    "Industries": {
+      "text": "bauxite and gold mining, alumina production; oil, lumbering, food processing, fishing"
+    },
+    "Industrial production growth rate": {
+      "text": "-8.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Labor force": {
+      "text": "144,000 (2014 est.)",
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "11.2%"
+      },
+      "industry": {
+        "text": "19.5%"
+      },
+      "services": {
+        "text": "69.3% (2010)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.5% (2013 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Population below poverty line": {
+      "text": "70% (2002 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$545.8 million"
+      },
+      "expenditures": {
+        "text": "$834.8 million (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "15.3% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-8.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Public debt": {
+      "text": "45.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "225"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "9% (2012)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.62% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.231 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$2.66 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$2.224 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-798.1 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Exports": {
+      "text": "$1.666 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Exports - commodities": {
+      "text": "alumina, gold, crude oil, lumber, shrimp and fish, rice, bananas"
+    },
+    "Exports - partners": {
+      "text": "Switzerland 28.3%, UAE 27.1%, Belgium 9.1%, Guyana 9%, US 4.7%, Trinidad and Tobago 4.5% (2016)"
+    },
+    "Imports": {
+      "text": "$1.973 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "Imports - commodities": {
+      "text": "capital equipment, petroleum, foodstuffs, cotton, consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 21.2%, Netherlands 10.9%, China 10.5%, Trinidad and Tobago 10.1%, St. Lucia 7% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$330.2 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.15 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Exchange rates": {
+      "text": "3.3 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "2.19 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "1.948 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "435,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "54.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "43.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "1.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Crude oil - production": {
+      "text": "17,000 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "83.98 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "7,632 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "14,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "10,620 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "9,938 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 es)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "2.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "89,030"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "15 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "806,881"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "138 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "international facilities are good"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity exceeds 150 telephones per 100 persons; microwave radio relay network is in place"
+      },
+      "international": {
+        "text": "country code - 597; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2017)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".sr"
+    },
+    "Internet users": {
+      "total": {
+        "text": "265,964"
+      },
+      "percent of population": {
+        "text": "45.4% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "154"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "5"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "259,682"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "29,324,319 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "PZ (2016)"
+    },
+    "Airports": {
+      "text": "55 (2013)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "5 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "49"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "45 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "oil 50 km (2013)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "4,304 km"
+      },
+      "paved": {
+        "text": "1,130 km"
+      },
+      "unpaved": {
+        "text": "3,174 km (2003)"
+      },
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Waterways": {
+      "text": "1,200 km (most navigable by ships with drafts up to 7 m) (2011)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Paramaribo, Wageningen"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Suriname Army (National Leger, NL): Army, Coast Guard, Air Force (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "18 is the legal minimum age for voluntary military service; no conscription; personnel drawn almost exclusively from the Creole community (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "area claimed by French Guiana between Riviere Litani and Riviere Marouini (both headwaters of the Lawa); Suriname claims a triangle of land between the New and Kutari/Koetari rivers in a historic dispute over the headwaters of the Courantyne; Guyana seeks UN Convention on the Law of the Sea arbitration to resolve the longstanding dispute with Suriname over the axis of the territorial sea boundary in potentially oil-rich waters"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Suriname is a source, transit, and destination country for women and children subjected to sex trafficking and men, women, and children subjected to forced labor; women and girls from Suriname, Guyana, Brazil, and the Dominican Republic are subjected to sex trafficking in the country, sometimes in interior mining camps; migrant workers in agriculture and on fishing boats and children working in informal urban sectors and gold mines are vulnerable to forced labor; traffickers from Suriname exploit victims in the Netherlands"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Suriname does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Suriname was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; authorities increased the number of trafficking investigations, prosecutions, and convictions as compared to 2013, but resources were insufficient to conduct investigations in the country\u2019s interior; more trafficking victims were identified in 2014 than in 2013, but protective services for adults and children were inadequate, with a proposed government shelter for women and child trafficking victims remaining unopened (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "growing transshipment point for South American drugs destined for Europe via the Netherlands and Brazil; transshipment point for arms-for-drugs dealing"
+    }
+  }
+}

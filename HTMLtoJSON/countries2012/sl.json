@@ -1,0 +1,799 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Democracy is slowly being reestablished after the civil war from 1991 to 2002 that resulted in tens of thousands of deaths and the displacement of more than 2 million people (about a third of the population). The military, which took over full responsibility for security following the departure of UN peacekeepers at the end of 2005, is increasingly developing as a guarantor of the country's stability. The armed forces remained on the sideline during the 2007 and 2012 national elections but still look to the UN Integrated Peacebuilding Office in Sierra Leone (UNIPSIL) - a civilian UN mission - to support efforts to consolidate peace. The new government's priorities include furthering development, creating jobs, and stamping out endemic corruption."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia"
+    },
+    "Geographic coordinates": {
+      "text": "8 30 N, 11 30 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "71,740 sq km"
+      },
+      "land": {
+        "text": "71,620 sq km "
+      },
+      "water": {
+        "text": "120 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Carolina"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "958 km"
+      },
+      "border countries": {
+        "text": "Guinea 652 km, Liberia 306 km "
+      }
+    },
+    "Coastline": {
+      "text": "402 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm "
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      },
+      "continental shelf": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)"
+    },
+    "Terrain": {
+      "text": "coastal belt of mangrove swamps, wooded hill country, upland plateau, mountains in east"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Loma Mansa (Bintimani) 1,948 m "
+      }
+    },
+    "Natural resources": {
+      "text": "diamonds, titanium ore, bauxite, iron ore, gold, chromite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "7.95%"
+      },
+      "permanent crops": {
+        "text": "1.05% "
+      },
+      "other": {
+        "text": "91% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "300 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "160 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.38  cu km/yr (5%/3%/92%)"
+      },
+      "per capita": {
+        "text": "69  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "dry, sand-laden harmattan winds blow from the Sahara (December to February); sandstorms, dust storms"
+    },
+    "Environment - current issues": {
+      "text": "rapid population growth pressuring the environment; overharvesting of timber, expansion of cattle grazing, and slash-and-burn agriculture have resulted in deforestation and soil exhaustion; civil war depleted natural resources; overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification "
+      }
+    },
+    "Geography - note": {
+      "text": "rainfall along the coast can reach 495 cm (195 inches) a year, making it one of the wettest places along coastal, western Africa"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Sierra Leonean(s) "
+      },
+      "adjective": {
+        "text": "Sierra Leonean "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Temne 35%, Mende 31%, Limba 8%, Kono 5%, Kriole 2% (descendants of freed Jamaican slaves who were settled in the Freetown area in the late-18th century; also known as Krio), Mandingo 2%, Loko 2%, other 15% (includes refugees from Liberia's recent civil war, and small numbers of Europeans, Lebanese, Pakistanis, and Indians) (2008 census)"
+    },
+    "Languages": {
+      "text": "English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves who were settled in the Freetown area, a lingua franca and a first language for 10% of the population but understood by 95%)"
+    },
+    "Religions": {
+      "text": "Muslim 60%, Christian 10%, indigenous beliefs 30%"
+    },
+    "Population": {
+      "text": "5,485,998 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "41.9% (male 1,141,091/ female 1,155,542)"
+      },
+      "15-64 years": {
+        "text": "54.5% (male 1,432,837/ female 1,554,853) "
+      },
+      "65 years and over": {
+        "text": "3.7% (male 88,127/ female 113,548) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "19.1 years"
+      },
+      "male": {
+        "text": "18.6 years "
+      },
+      "female": {
+        "text": "19.6 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "2.277% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "38.12 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "11.49 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.86 migrant(s)/1,000 population",
+      "note": "refugees currently in surrounding countries are slowly returning (2012 est.) "
+    },
+    "note": "refugees currently in surrounding countries are slowly returning (2012 est.) ",
+    "Urbanization": {
+      "urban population": {
+        "text": "38% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "3.3% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "FREETOWN (capital) 875,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "0.99 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.92 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female "
+      },
+      "total population": {
+        "text": "0.94 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "890 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "76.64 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "85.37 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "67.66 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "56.55 years"
+      },
+      "male": {
+        "text": "54.08 years "
+      },
+      "female": {
+        "text": "59.11 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "4.9 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "13.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.016 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "0.4 beds/1,000 population (2006)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "76% of population "
+      },
+      "rural": {
+        "text": "94% of population "
+      },
+      "total": {
+        "text": "87% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.6% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "49,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "2,800 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever "
+      },
+      "vectorborne diseases": {
+        "text": "malaria and yellow fever "
+      },
+      "water contact disease": {
+        "text": "schistosomiasis "
+      },
+      "aerosolized dust or soil contact disease": {
+        "text": "Lassa fever (2009) "
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "21.3% (2008)"
+    },
+    "Education expenditures": {
+      "text": "4.3% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write English, Mende, Temne, or Arabic"
+      },
+      "total population": {
+        "text": "35.1% "
+      },
+      "male": {
+        "text": "46.9% "
+      },
+      "female": {
+        "text": "24.4% (2004 est.) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "13 years "
+      },
+      "female": {
+        "text": "11 years (2007) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "5.2%"
+      },
+      "male": {
+        "text": "7.3% "
+      },
+      "female": {
+        "text": "3.5% (2004) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Sierra Leone "
+      },
+      "conventional short form": {
+        "text": "Sierra Leone "
+      },
+      "local long form": {
+        "text": "Republic of Sierra Leone "
+      },
+      "local short form": {
+        "text": "Sierra Leone "
+      }
+    },
+    "Government type": {
+      "text": "constitutional democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Freetown"
+      },
+      "geographic coordinates": {
+        "text": "8 29 N, 13 14 W "
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "3 provinces and 1 area*; Eastern, Northern, Southern, Western*"
+    },
+    "Independence": {
+      "text": "27 April 1961 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 April (1961)"
+    },
+    "Constitution": {
+      "text": "1 October 1991; amended several times"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ernest Bai KOROMA (since 17 September 2007); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Ernest Bai KOROMA (since 17 September 2007) "
+      },
+      "cabinet": {
+        "text": "Ministers of State appointed by the president with the approval of the House of Representatives; the cabinet is responsible to the president "
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 17 November 2012 (next to be held in 2017) "
+      },
+      "election results": {
+        "text": "Ernest Bai KOROMA elected to a second term; percent of vote - Ernest Bai KOROMA 58.7%, Julius Maada BIO 37.4% "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament (124 seats; 112 members elected by popular vote, 12 filled by paramount chiefs elected in separate elections; members to serve five-year terms)",
+      "elections": {
+        "text": "last held on 17 November 2012 (next to be held in 2017) "
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - APC 69, SLPP 43 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Appeals Court; High Court"
+    },
+    "Political parties and leaders": {
+      "text": "All People's Congress or APC [Ernest Bai KOROMA]; Peace and Liberation Party or PLP [Darlington MORRISON]; People's Movement for Democratic Change or PMDC [Charles MARGAI]; Sierra Leone People's Party or SLPP [Julius Maada BIO]; numerous others"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "student unions; trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, ECOWAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIT, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Bockari Kortu STEVENS"
+      },
+      "chancery": {
+        "text": "1701 19th Street NW, Washington, DC 20009 "
+      },
+      "telephone": {
+        "text": "[1] (202) 939-9261 through 9263 "
+      },
+      "FAX": {
+        "text": "[1] (202) 483-1793 "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Michael S. OWEN"
+      },
+      "embassy": {
+        "text": "Southridge-Hill Station, Freetown "
+      },
+      "mailing address": {
+        "text": "use embassy street address "
+      },
+      "telephone": {
+        "text": "[232] (22) 515 000 or (76) 515 000 "
+      },
+      "FAX": {
+        "text": "[232] (22) 515 355 "
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), white, and blue; green symbolizes agriculture, mountains, and natural resources, white represents unity and justice, and blue the sea and the natural harbor in Freetown"
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"High We Exalt Thee, Realm of the Free\""
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Clifford Nelson FYLE/John Joseph AKA "
+      },
+      "note": "adopted 1961 "
+    },
+    "note": "adopted 1961 "
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Sierra Leone is an extremely poor nation with tremendous inequality in income distribution. While it possesses substantial mineral, agricultural, and fishery resources, its physical and social infrastructure has yet to recover from the civil war, and serious social disorders continue to hamper economic development. Nearly half of the working-age population engages in subsistence agriculture. Manufacturing consists mainly of the processing of raw materials and of light manufacturing for the domestic market. Alluvial diamond mining remains the major source of hard currency earnings, accounting for nearly half of Sierra Leone's exports. The fate of the economy depends upon the maintenance of domestic peace and the continued receipt of substantial aid from abroad, which is essential to offset the severe trade imbalance and supplement government revenues. The IMF completed a Poverty Reduction and Growth Facility program that helped stabilize economic growth and reduce inflation and in 2010 approved a new program worth $45 million over three years. Political stability has led to a revival of economic activity such as the rehabilitation of bauxite and rutile mining, which are set to benefit from planned tax incentives. A number of offshore oil discoveries were announced in 2009 and 2010. The development on these reserves, which could be significant, is still several years away, however, growth skyrocketed to more than 20% in 2012, as exploitation activities began."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$6.514 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "data are in 2012 US dollars ",
+    "GDP (official exchange rate)": {
+      "text": "$3.824 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.3% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,100 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "43.2%"
+      },
+      "industry": {
+        "text": "37.4% "
+      },
+      "services": {
+        "text": "19.3% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "2.207 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA% "
+      },
+      "services": {
+        "text": "NA% "
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "70.2% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "33.6% (2003) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "62.9 (1989)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$527.5 million"
+      },
+      "expenditures": {
+        "text": "$685.7 million (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "13.8% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.1% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "80.8% of GDP (2011 est.) "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "16.2% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "21% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$276.2 million (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$621.3 million (31 December 2011 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$369.9 million (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "rice, coffee, cocoa, palm kernels, palm oil, peanuts; poultry, cattle, sheep, pigs; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Current account balance": {
+      "text": "-$1.153 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$426.9 million (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "diamonds, rutile, cocoa, coffee, fish"
+    },
+    "Exports - partners": {
+      "text": "Belgium 28.8%, Romania 12.5%, Netherlands 9.2%, China 7.3%, US 6.9%, Turkey 6%, UK 5.8% (2011)"
+    },
+    "Imports": {
+      "text": "$1.571 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and equipment, fuels and lubricants, chemicals"
+    },
+    "Imports - partners": {
+      "text": "China 16%, South Africa 11.1%, US 7.3%, UK 7.1%, India 5.7%, Malaysia 4.3% (2011)"
+    },
+    "Debt - external": {
+      "text": "$829.9 million (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$366.1 million (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "3,978.1 (2010 est.) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "120 million kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "111.6 million kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "52,000 kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "92.3% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "7.7% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "4,381 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "8,768 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "522.9 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "6,117 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.335 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "14,000 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.137 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "marginal telephone service with poor infrastructure"
+      },
+      "domestic": {
+        "text": "the national microwave radio relay trunk system connects Freetown to Bo and Kenema; while mobile-cellular service is growing rapidly from a small base, service area coverage remains limited "
+      },
+      "international": {
+        "text": "country code - 232; satellite earth station - 1 Intelsat (Atlantic Ocean) "
+      }
+    },
+    "Broadcast media": {
+      "text": "1 government-owned TV station; 1 private TV station began operating in 2005; a pay-TV service began operations in late 2007; 1 government-owned national radio station; about two dozen private radio stations primarily clustered in major cities; transmissions of several international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".sl"
+    },
+    "Internet hosts": {
+      "text": "282 (2012)"
+    },
+    "Internet users": {
+      "text": "14,900 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "8 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "7 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "2 (2012)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "11,300 km"
+      },
+      "paved": {
+        "text": "904 km "
+      },
+      "unpaved": {
+        "text": "10,396 km (2002) "
+      }
+    },
+    "Waterways": {
+      "text": "800 km (600 km navigable year round) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "215"
+      },
+      "by type": {
+        "text": "bulk carrier 22, cargo 120, carrier 2, chemical tanker 19, container 6, liquefied gas 3, passenger/cargo 2, petroleum tanker 28, refrigerated cargo 7, roll on/roll off 4, specialized tanker 1, vehicle carrier 1 "
+      },
+      "foreign-owned": {
+        "text": "98 (Bangladesh 1, China 19, Cyprus 2, Egypt 3, Estonia 2, Hong Kong 7, Japan 4, Lebanon 2, North Korea 2, Romania 2, Russia 7, Singapore 9, Syria 13, Taiwan 7, Turkey 9, UAE 1, UK 1, Ukraine 5, Yemen 2) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Freetown, Pepel, Sherbro Islands"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Republic of Sierra Leone Armed Forces (RSLAF)": {
+        "text": "Army (includes Maritime Wing and Air Wing) (2010)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17 years 6 months of age for male and female voluntary military service (younger with parental consent); no conscription; candidates must be HIV negative (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,183,093 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "731,898"
+      },
+      "females age 16-49": {
+        "text": "838,032 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "54,212"
+      },
+      "female": {
+        "text": "57,154 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "2.3% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "as domestic fighting among disparate ethnic groups, rebel groups, warlords, and youth gangs in Cote d'Ivoire, Guinea, Liberia, and Sierra Leone gradually abates, the number of refugees in border areas has begun to slowly dwindle; Sierra Leone considers excessive Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa rivers and protests Guinea's continued occupation of these lands including the hamlet of Yenga occupied since 1998"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "8,046 (Liberia) (2011)"
+      }
+    }
+  }
+}

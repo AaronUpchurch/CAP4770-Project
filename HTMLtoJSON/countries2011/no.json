@@ -1,0 +1,803 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Two centuries of Viking raids into Europe tapered off following the adoption of Christianity by King Olav TRYGGVASON in 994. Conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Although Norway remained neutral in World War I, it suffered heavy losses to its shipping. Norway proclaimed its neutrality at the outset of World War II, but was nonetheless occupied for five years by Nazi Germany (1940-45). In 1949, neutrality was abandoned and Norway became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Europe, bordering the North Sea and the North Atlantic Ocean, west of Sweden"
+    },
+    "Geographic coordinates": {
+      "text": "62 00 N, 10 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "323,802 sq km"
+      },
+      "land": {
+        "text": "304,282 sq km"
+      },
+      "water": {
+        "text": "19,520 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than New Mexico"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,542 km"
+      },
+      "border countries": {
+        "text": "Finland 727 km, Sweden 1,619 km, Russia 196 km"
+      }
+    },
+    "Coastline": {
+      "text": "25,148 km (includes mainland 2,650 km, as well as long fjords, numerous small islands, and minor indentations 22,498 km; length of island coastlines 58,133 km)"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "10 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast"
+    },
+    "Terrain": {
+      "text": "glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Norwegian Sea 0 m"
+      },
+      "highest point": {
+        "text": "Galdhopiggen 2,469 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.7%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "97.3% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,180 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "381.4 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.4  cu km/yr (23%/67%/10%)"
+      },
+      "per capita": {
+        "text": "519  cu m/yr (1996)"
+      }
+    },
+    "Natural hazards": {
+      "text": "rockslides, avalanches",
+      "volcanism": {
+        "text": "Beerenberg (elev. 2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano"
+      }
+    },
+    "Environment - current issues": {
+      "text": "water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "about two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Norwegian(s) "
+      },
+      "adjective": {
+        "text": "Norwegian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Norwegian 94.4% (includes Sami, about 60,000), other European 3.6%, other 2% (2007 estimate)"
+    },
+    "Languages": {
+      "text": "Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities",
+      "note": "Sami is official in six municipalities"
+    },
+    "note": "Sami is official in six municipalities",
+    "Religions": {
+      "text": "Church of Norway 85.7%, Pentecostal 1%, Roman Catholic 1%, other Christian 2.4%, Muslim 1.8%, other 8.1% (2004)"
+    },
+    "Population": {
+      "text": "4,691,849 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "18% (male 431,111/female 412,864)"
+      },
+      "15-64 years": {
+        "text": "66% (male 1,568,729/female 1,529,799)"
+      },
+      "65 years and over": {
+        "text": "16% (male 326,711/female 422,635) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "40 years"
+      },
+      "male": {
+        "text": "39.1 years"
+      },
+      "female": {
+        "text": "40.8 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.329% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "10.84 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "9.24 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.7 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "79% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.2% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "OSLO (capital) 875,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.054 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.76 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "7 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "3.52 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "3.85 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.17 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "80.2 years"
+      },
+      "male": {
+        "text": "77.53 years"
+      },
+      "female": {
+        "text": "83.02 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.77 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "9.7% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "4.076 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "3.52 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "4,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "10% (2009)"
+    },
+    "Education expenditures": {
+      "text": "6.8% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "100%"
+      },
+      "male": {
+        "text": "100%"
+      },
+      "female": {
+        "text": "100%"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "17 years"
+      },
+      "male": {
+        "text": "17 years"
+      },
+      "female": {
+        "text": "18 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "9.2%"
+      },
+      "male": {
+        "text": "10.3%"
+      },
+      "female": {
+        "text": "8% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Norway "
+      },
+      "conventional short form": {
+        "text": "Norway"
+      },
+      "local long form": {
+        "text": "Kongeriket Norge"
+      },
+      "local short form": {
+        "text": "Norge"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Oslo"
+      },
+      "geographic coordinates": {
+        "text": "59 55 N, 10 45 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "19 counties (fylker, singular - fylke); Akershus, Aust-Agder, Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland, Nord-Trondelag, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane, Sor-Trondelag, Telemark, Troms, Vest-Agder, Vestfold"
+    },
+    "Dependent areas": {
+      "text": "Bouvet Island, Jan Mayen, Svalbard"
+    },
+    "Independence": {
+      "text": "7 June 1905 (Norway declared the union with Sweden dissolved); 26 October 1905 (Sweden agreed to the repeal of the union)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 17 May (1814)"
+    },
+    "Constitution": {
+      "text": "17 May 1814; amended many times"
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS, son of the monarch (born 20 July 1973)"
+      },
+      "head of government": {
+        "text": "Prime Minister Jens STOLTENBERG (since 17 October 2005)"
+      },
+      "cabinet": {
+        "text": "State Council appointed by the monarch with the approval of parliament"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; following parliamentary elections, the leader of the majority party or the leader of the majority coalition usually appointed prime minister by the monarch with the approval of the parliament"
+      }
+    },
+    "Legislative branch": {
+      "text": "modified unicameral Parliament or Storting (169 seats; members elected by popular vote by proportional representation to serve four-year terms)",
+      "elections": {
+        "text": "last held on 14 September 2009 (next to be held in September 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - DNA 35.4%, FrP 22.9%, H 17.2%, SV 6.2%, Sp 6.2%, KrF 5.5%, V 3.9%, other 2.7%; seats by party - DNA 64, FrP 41, H 30, SV 11, Sp 11, KrF 10, V 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Hoyesterett (justices appointed by the monarch)"
+    },
+    "Political parties and leaders": {
+      "text": "Center Party (Senterpartiet or Sp) [Liv Signe NAVARSETE]; Christian People's Party (Kristelig Folkeparti or KrF) [Dagfinn HOYBRATEN]; Conservative Party (Hoyre or H) [Erna SOLBERG]; Labor Party (Det norske Arbeiderpartiet or DNA) [Jens STOLTENBERG]; Liberal Party (Venstre or V) [Trine SKEI-GRANDE]; Progress Party (Framstegspartiet or FrP) [Siv JENSEN]; Socialist Left Party (Sosialistisk Venstreparti or SV) [Kristin HALVORSEN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Norwegian Aid Committee or NORWAC; Norwegian Association of the Disabled; Pure Salmon Campaign; The Consumer Council (consumer advocacy group)",
+      "other": {
+        "text": "environmental groups; media; reform movements"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CE, CERN, EAPC, EBRD, EFTA, ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Wegger C. STROMMEN"
+      },
+      "chancery": {
+        "text": "2720 34th Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 333-6000"
+      },
+      "FAX": {
+        "text": "[1] (202) 337-0870"
+      },
+      "consulate(s) general": {
+        "text": "Houston, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Barry B. WHITE"
+      },
+      "embassy": {
+        "text": "Henrik Ibsens gate 48, 0244 Oslo; note - the embassy will move to Huseby in the near future"
+      },
+      "mailing address": {
+        "text": "PSC 69, Box 1000, APO AE 09707"
+      },
+      "telephone": {
+        "text": "[47] 22 44 85 50"
+      },
+      "FAX": {
+        "text": "[47] 22 44 33 63, 22 56 27 51"
+      }
+    },
+    "Flag description": {
+      "text": "red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)"
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Ja, vi elsker dette landet\" (Yes, We Love This Country)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Bjornstjerne BJORNSON/Rikard NORDRAAK"
+      },
+      "note": "adopted 1864; in addition to the national anthem, \"Kongesangen\" (Song of the King), which uses the tune of \"God Save the Queen,\" serves as the royal anthem"
+    },
+    "note": "adopted 1864; in addition to the national anthem, \"Kongesangen\" (Song of the King), which uses the tune of \"God Save the Queen,\" serves as the royal anthem"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Norwegian economy is a prosperous bastion of welfare capitalism, featuring a combination of free market activity and government intervention. The government controls key areas, such as the vital petroleum sector, through large-scale state-majority-owned enterprises. The country is richly endowed with natural resources - petroleum, hydropower, fish, forests, and minerals - and is highly dependent on the petroleum sector, which accounts for nearly half of exports and over 30% of state revenue. Norway is the world's second-largest gas exporter; its position as an oil exporter has slipped to ninth-largest as production has begun to decline. Norway opted to stay out of the EU during a referendum in November 1994; nonetheless, as a member of the European Economic Area, it contributes sizably to the EU budget. In anticipation of eventual declines in oil and gas production, Norway saves state revenue from the petroleum sector in the world's second largest sovereign wealth fund, valued at over $500 billion in 2010. After solid GDP growth in 2004-07, the economy slowed in 2008, and contracted in 2009, before returning to positive growth in 2010.\r\n\r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$257.9 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "Norway is a net external creditor",
+    "GDP (official exchange rate)": {
+      "text": "$414.5 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.8% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$55,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.6%"
+      },
+      "industry": {
+        "text": "39.3%"
+      },
+      "services": {
+        "text": "58.1% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.602 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.9%"
+      },
+      "industry": {
+        "text": "21.1%"
+      },
+      "services": {
+        "text": "76% (2008)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.2% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.9%"
+      },
+      "highest 10%": {
+        "text": "21% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "25.8 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "20.3% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$233.5 billion"
+      },
+      "expenditures": {
+        "text": "$184.5 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "56.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "11.8% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "49.1% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.1% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "1.75% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.525% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$128.8 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$264.6 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$556.5 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$125.9 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "barley, wheat, potatoes; pork, beef, veal, milk; fish"
+    },
+    "Industries": {
+      "text": "petroleum and gas, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles, fishing"
+    },
+    "Industrial production growth rate": {
+      "text": "-5.5% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "129.9 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "115.6 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "14.63 billion kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "8.983 billion kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "2.134 million bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "221,300 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "2.184 million bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "118,200 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "5.67 billion bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "106.3 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "6.6 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "99.75 billion cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "2.039 trillion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$44.54 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$116 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum and petroleum products, machinery and equipment, metals, chemicals, ships, fish"
+    },
+    "Exports - partners": {
+      "text": "UK 26.7%, Netherlands 12.1%, Germany 11.4%, Sweden 7%, France 6.6%, US 5% (2010)"
+    },
+    "Imports": {
+      "text": "$67.21 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, chemicals, metals, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Sweden 14.1%, Germany 12.4%, China 8.5%, Denmark 6.3%, UK 5.9%, US 5.4% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$48.86 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "",
+      "note": "Norway is a net external creditor"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$136.5 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$201.3 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "6.418 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.702 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.525 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern in all respects; one of the most advanced telecommunications networks in Europe"
+      },
+      "domestic": {
+        "text": "Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems"
+      },
+      "international": {
+        "text": "country code - 47; 2 buried coaxial cable systems; submarine cables provide links to other Nordic countries and Europe; satellite earth stations - NA Eutelsat, NA Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (1999)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned public radio-TV broadcaster operates 3 nationwide television stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately-owned television stations broadcast nationally and roughly another 25 local TV stations are available; nearly 75% of households have access to multi-channel cable or satellite TV systems; 2 privately-owned radio stations broadcast nationwide and another 240 stations operate locally (2008)"
+    },
+    "Internet country code": {
+      "text": ".no"
+    },
+    "Internet hosts": {
+      "text": "3.352 million (2010)"
+    },
+    "Internet users": {
+      "text": "4.431 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "98 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "67"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "12"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "914 to 1,523 m": {
+        "text": "18"
+      },
+      "under 914 m": {
+        "text": "25 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "31"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "25 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2010)"
+    },
+    "Pipelines": {
+      "text": "condensate 31 km; gas 64 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "4,169 km"
+      },
+      "standard gauge": {
+        "text": "4,169 km 1.435-m gauge (2,784 km electrified) (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "93,247 km (includes 253 km of expressways) (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "1,577 km (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "632"
+      },
+      "by type": {
+        "text": "bulk carrier 43, cargo 133, carrier 5, chemical tanker 139, combination ore/oil 12, container 1, liquefied gas 53, passenger 3, passenger/cargo 116, petroleum tanker 58, refrigerated cargo 14, roll on/roll off 9, vehicle carrier 46"
+      },
+      "foreign-owned": {
+        "text": "104 (Bermuda 5, Canada 1, China 25, Cyprus 1, Denmark 11, Estonia 1, Finland 1, France 4, Iceland 3, Italy 3, Lithuania 1, Monaco 1, Poland 2, Saudi Arabia 3, Sweden 33, US 9)"
+      },
+      "registered in other countries": {
+        "text": "940 (Antigua and Barbuda 9, Australia 1, Bahamas 198, Barbados 41, Belize 3, Bermuda 5, Brazil 3, Canada 4, Chile 1, Comoros 2, Cook Islands 6, Croatia 2, Cyprus 12, Denmark 2, Dominica 1, Equatorial Guinea 1, Estonia 2, Faroe Islands 6, Finland 2, France 1, Gibraltar 42, Hong Kong 49, Indonesia 4, Ireland 3, Isle of Man 26, Italy 6, Japan 1, Liberia 42, Libya 1, Malta 84, Marshall Islands 57, Netherlands 18, former Netherlands Antilles 2, Panama 89, Portugal 1, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 12, Singapore 132, Spain 10, Sweden 3, UK 39, US 10, Vanuatu 1, Venezuela 1, unknown 4) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret, RNoN; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret, RNoAF), Home Guard (Heimevernet, HV) (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18-44 years of age for male compulsory military service; 16 years of age in wartime; 17 years of age for male volunteers; 18 years of age for women; 12-month service obligation, in practice shortened to 8 to 9 months; although all males between ages of 18 and 44 are liable for service, in practice they are seldom called to duty after age 30; reserve obligation to age 35-60; 16 years of age for volunteers to the Home Guard, who serve 6-month duty tours (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,079,043"
+      },
+      "females age 16-49": {
+        "text": "1,051,210 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "888,761"
+      },
+      "females age 16-49": {
+        "text": "865,697 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "32,290"
+      },
+      "female": {
+        "text": "30,777 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.9% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010"
+    }
+  }
+}

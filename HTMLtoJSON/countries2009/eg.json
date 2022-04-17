@@ -1,0 +1,758 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The regularity and richness of the annual Nile River flood, coupled with semi-isolation provided by deserts to the east and west, allowed for the development of one of the world's great civilizations. A unified kingdom arose circa 3200 B.C., and a series of dynasties ruled in Egypt for the next three millennia. The last native dynasty fell to the Persians in 341 B.C., who in turn were replaced by the Greeks, Romans, and Byzantines. It was the Arabs who introduced Islam and the Arabic language in the 7th century and who ruled for the next six centuries. A local military caste, the Mamluks took control about 1250 and continued to govern after the conquest of Egypt by the Ottoman Turks in 1517. Following the completion of the Suez Canal in 1869, Egypt became an important world transportation hub, but also fell heavily into debt. Ostensibly to protect its investments, Britain seized control of Egypt's government in 1882, but nominal allegiance to the Ottoman Empire continued until 1914. Partially independent from the UK in 1922, Egypt acquired full sovereignty with the overthrow of the British-backed monarchy in 1952. The completion of the Aswan High Dam in 1971 and the resultant Lake Nasser have altered the time-honored place of the Nile River in the agriculture and ecology of Egypt. A rapidly growing population (the largest in the Arab world), limited arable land, and dependence on the Nile all continue to overtax resources and stress society. The government has struggled to meet the demands of Egypt's growing population through economic reform and massive investment in communications and physical infrastructure."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula"
+    },
+    "Geographic coordinates": {
+      "text": "27 00 N, 30 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "1,001,450 sq km"
+      },
+      "land": {
+        "text": "995,450 sq km"
+      },
+      "water": {
+        "text": "6,000 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than three times the size of New Mexico"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,665 km"
+      },
+      "border countries": {
+        "text": "Gaza Strip 11 km, Israel 266 km, Libya 1,115 km, Sudan 1,273 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,450 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "desert; hot, dry summers with moderate winters"
+    },
+    "Terrain": {
+      "text": "vast desert plateau interrupted by Nile valley and delta"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Qattara Depression -133 m"
+      },
+      "highest point": {
+        "text": "Mount Catherine 2,629 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, zinc"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.92%"
+      },
+      "permanent crops": {
+        "text": "0.5%"
+      },
+      "other": {
+        "text": "96.58% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "34,220 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "86.8 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "68.3  cu km/yr (8%/6%/86%)"
+      },
+      "per capita": {
+        "text": "923  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorm called khamsin occurs in spring; dust storms; sandstorms"
+    },
+    "Environment - current issues": {
+      "text": "agricultural land being lost to urbanization and windblown sands; increasing soil salination below Aswan High Dam; desertification; oil pollution threatening coral reefs, beaches, and marine habitats; other water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural fresh water resources away from the Nile, which is the only perennial water source; rapid growth in population overstraining the Nile and natural resources"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "controls Sinai Peninsula, only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "83,082,869 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "31.4% (male 13,345,500/female 12,743,878)"
+      },
+      "15-64 years": {
+        "text": "63.8% (male 26,823,127/female 26,169,421)"
+      },
+      "65 years and over": {
+        "text": "4.8% (male 1,701,068/female 2,299,875) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "24.8 years"
+      },
+      "male": {
+        "text": "24.4 years"
+      },
+      "female": {
+        "text": "25.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.642% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "21.7 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.08 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.2 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "43% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.74 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "27.26 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "28.93 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "25.51 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "72.12 years"
+      },
+      "male": {
+        "text": "69.56 years"
+      },
+      "female": {
+        "text": "74.81 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.66 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "9,200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "Rift Valley fever"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds\r\n (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds\r\n (2009)",
+    "Nationality": {
+      "noun": {
+        "text": "Egyptian(s)"
+      },
+      "adjective": {
+        "text": "Egyptian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Egyptian 99.6%, other 0.4% (2006 census)"
+    },
+    "Religions": {
+      "text": "Muslim (mostly Sunni) 90%, Coptic 9%, other Christian 1%"
+    },
+    "Languages": {
+      "text": "Arabic (official), English and French widely understood by educated classes"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "71.4%"
+      },
+      "male": {
+        "text": "83%"
+      },
+      "female": {
+        "text": "59.4% (2005 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.2% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Arab Republic of Egypt "
+      },
+      "conventional short form": {
+        "text": "Egypt"
+      },
+      "local long form": {
+        "text": "Jumhuriyat Misr al-Arabiyah"
+      },
+      "local short form": {
+        "text": "Misr"
+      },
+      "former": {
+        "text": "United Arab Republic (with Syria)"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Cairo"
+      },
+      "geographic coordinates": {
+        "text": "30 03 N, 31 15 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Friday in April; ends last Thursday in September"
+      }
+    },
+    "Administrative divisions": {
+      "text": "26 governorates (muhafazat, singular - muhafazah); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah (El Beheira), Al Fayyum (El Faiyum), Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah (El Monofia), Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf (Beni Suef), Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh (Western Desert), Qina (Qena), Shamal Sina' (North Sinai), Suhaj (Sohag)"
+    },
+    "Independence": {
+      "text": "28 February 1922 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Revolution Day, 23 July (1952)"
+    },
+    "Constitution": {
+      "text": "11 September 1971; amended 22 May 1980, 25 May 2005, and 26 March 2007"
+    },
+    "Legal system": {
+      "text": "based on Islamic and civil law (particularly Napoleonic codes); judicial review by Supreme Court and Council of State (oversees validity of administrative decisions); accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mohamed Hosni MUBARAK (since 14 October 1981)"
+      },
+      "head of government": {
+        "text": "Prime Minister Ahmed Mohamed NAZIF (since 9 July 2004)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for six-year term (no term limits); note - a national referendum in May 2005 approved a constitutional amendment that changed the presidential election to a multicandidate popular vote; previously the president was nominated by the People's Assembly and the nomination was validated by a national, popular referendum; last referendum held 26 September 1999; first election under terms of constitutional amendment held 7 September 2005; next election scheduled for 2011"
+      },
+      "election results": {
+        "text": "Hosni MUBARAK reelected president; percent of vote - Hosni MUBARAK 88.6%, Ayman NOUR 7.6%, Noman GOMAA 2.9%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral system consists of the Advisory Council or Majlis al-Shura (Shura Council) that traditionally functions only in a consultative role but 2007 constitutional amendments could grant the Council new powers (264 seats; 176 elected by popular vote, 88 appointed by the president; members serve six-year terms; mid-term elections for half of the elected members) and the People's Assembly or Majlis al-Sha'b (454 seats; 444 elected by popular vote, 10 appointed by the president; members serve five-year terms)",
+      "elections": {
+        "text": "Advisory Council - last held June 2007 (next to be held May-June 2010); People's Assembly - three-phase voting - last held 7 and 20 November, 1 December 2005; (next to be held November-December 2010)"
+      },
+      "election results": {
+        "text": "Advisory Council - percent of vote by party - NA; seats by party - NDP 84, Tagammu 1, independents 3; People's Assembly - percent of vote by party - NA; seats by party - NDP 311, NWP 6, Tagammu 2, Tomorrow Party 1, independents 112 (12 seats to be determined by rerun elections, 10 seats appointed by President)"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Constitutional Court"
+    },
+    "Political parties and leaders": {
+      "text": "National Democratic Party or NDP (governing party) [Mohamed Hosni MUBARAK]; National Progressive Unionist Grouping or Tagammu [Rifaat EL-SAID]; New Wafd Party or NWP [Mahmoud ABAZA]; Tomorrow Party [Moussa Mustafa MOUSSA]",
+      "note": "formation of political parties must be approved by the government; only parties with representation in elected bodies are listed \r\n\r\n"
+    },
+    "note": "despite a constitutional ban against religious-based parties and political activity, the technically illegal Muslim Brotherhood constitutes Hosni MUBARAK's potentially most significant political opposition; MUBARAK has alternated between tolerating limited political activity by the Brotherhood (its members, who ran as independents, hold 88 seats in the People's Assembly) and blocking its influence; civic society groups are sanctioned, but constrained in practical terms; only trade unions and professional associations affiliated with the government are officially sanctioned; Internet social networking groups and bloggers\r\n",
+    "Political pressure groups and leaders": {
+      "text": "Muslim Brotherhood (technically illegal)",
+      "note": "despite a constitutional ban against religious-based parties and political activity, the technically illegal Muslim Brotherhood constitutes Hosni MUBARAK's potentially most significant political opposition; MUBARAK has alternated between tolerating limited political activity by the Brotherhood (its members, who ran as independents, hold 88 seats in the People's Assembly) and blocking its influence; civic society groups are sanctioned, but constrained in practical terms; only trade unions and professional associations affiliated with the government are officially sanctioned; Internet social networking groups and bloggers\r\n"
+    },
+    "International organization participation": {
+      "text": "ABEDA, ACCT, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, COMESA, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, MINURCAT, MINURSO, MONUC, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNOMIG, UNRWA, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Sameh Hassan SHOUKRY"
+      },
+      "chancery": {
+        "text": "3521 International Court NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 895-5400"
+      },
+      "FAX": {
+        "text": "[1] (202) 244-4319"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Houston, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Margaret SCOBEY"
+      },
+      "embassy": {
+        "text": "8 Kamal El Din Salah St., Garden City, Cairo"
+      },
+      "mailing address": {
+        "text": "Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo"
+      },
+      "telephone": {
+        "text": "[20] (2) 2797-3300"
+      },
+      "FAX": {
+        "text": "[20] (2) 2797-3200"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; design is based on the Arab Liberation flag and similar to the flag of Syria, which has two green stars in the white band, Iraq, which has an Arabic inscription centered in the white band, and Yemen, which has a plain white band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley, where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but has opened up considerably under former President Anwar EL-SADAT and current President Mohamed Hosni MUBARAK. Cairo has aggressively pursued economic reforms to encourage inflows of foreign investment and facilitate GDP growth. In 2005, Prime Minister Ahmed NAZIF's government reduced personal and corporate tax rates, reduced energy subsidies, and privatized several enterprises. The stock market boomed, and GDP grew about 7% each year since 2006. Despite these achievements, the government has failed to raise living standards for the average Egyptian, and has had to continue providing subsidies for basic necessities. The subsidies have contributed to a sizeable budget deficit - roughly 7% of GDP in 2007-08 - and represent a significant drain on the economy. Foreign direct investment has increased significantly in the past two years, but the NAZIF government will need to continue its aggressive pursuit of reforms in order to sustain the spike in investment and growth and begin to improve economic conditions for the broader population. Egypt's export sectors - particularly natural gas - have bright prospects."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$387.4 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$162.6 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.8% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$5,200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "13.2%"
+      },
+      "industry": {
+        "text": "38.7%"
+      },
+      "services": {
+        "text": "48.1% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "24.6 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "32%"
+      },
+      "industry": {
+        "text": "17%"
+      },
+      "services": {
+        "text": "51% (2001 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.1% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "20% (2005 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.9%"
+      },
+      "highest 10%": {
+        "text": "27.6% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.4 (2001)"
+    },
+    "Investment (gross fixed)": {
+      "text": "19.1% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$40.22 billion"
+      },
+      "expenditures": {
+        "text": "$51.07 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "102.7% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "9.5% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "9% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "12.51% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$27.6 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$102.6 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$113.9 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$93.48 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "cotton, rice, corn, wheat, beans, fruits, vegetables; cattle, water buffalo, sheep, goats"
+    },
+    "Industries": {
+      "text": "textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures"
+    },
+    "Industrial production growth rate": {
+      "text": "6.1% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "118.4 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "104.1 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "814 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "251 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "630,600 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "697,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "155,200 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "146,200 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "3.7 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "48.3 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "31.38 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "16.92 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "1.656 trillion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$500.9 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$24.45 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil and petroleum products, cotton, textiles, metal products, chemicals"
+    },
+    "Exports - partners": {
+      "text": "Italy 9.4%, US 7.1%, India 6.2%, Spain 6.1%, Syria 4.7%, Saudi Arabia 4.6%, Japan 4.5%, Germany 4.5% (2008)"
+    },
+    "Imports": {
+      "text": "$44.95 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, foodstuffs, chemicals, wood products, fuels"
+    },
+    "Imports - partners": {
+      "text": "US 10.3%, China 9.9%, Italy 7.3%, Germany 6.8%, Saudi Arabia 4.9% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$31.37 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$32.84 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$49.23 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$11.58 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Egyptian pounds (EGP) per US dollar - 5.4 (2008 est.), 5.67 (2007), 5.725 (2006), 5.78 (2005), 6.1962 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "12.011 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "41.272 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "large system; underwent extensive upgrading during 1990s and is reasonably modern; Telecom Egypt, the landline monopoly, has been increasing service availability and in 2008 fixed-line density stood at 15 per 100 persons; as of 2008 there were three mobile-cellular networks with a total of more than 41 million subscribers, roughly 50 per 100 persons"
+      },
+      "domestic": {
+        "text": "principal centers at Alexandria, Cairo, Al Mansurah, Ismailia, Suez, and Tanta are connected by coaxial cable and microwave radio relay"
+      },
+      "international": {
+        "text": "country code - 20; landing point for both the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable networks; linked to the international submarine cable FLAG (Fiber-Optic Link Around the Globe); satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 42 (plus 15 repeaters), FM 11, shortwave 3 (1999)"
+    },
+    "Television broadcast stations": {
+      "text": "98 (September 1995)"
+    },
+    "Internet country code": {
+      "text": ".eg"
+    },
+    "Internet hosts": {
+      "text": "177,443 (2009)"
+    },
+    "Internet users": {
+      "text": "11.414 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "85 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "72"
+      },
+      "over 3,047 m": {
+        "text": "15"
+      },
+      "2,438 to 3,047 m": {
+        "text": "35"
+      },
+      "1,524 to 2,437 m": {
+        "text": "15"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "5 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "13"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "6 (2009)"
+    },
+    "Pipelines": {
+      "text": "condensate 320 km; condensate/gas 13 km; gas 5,586 km; liquid petroleum gas 956 km; oil 4,314 km; oil/gas/water 3 km; refined products 895 km; unknown 59 km; water 9 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "5,063 km"
+      },
+      "standard gauge": {
+        "text": "5,063 km 1.435-m gauge (62 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "92,370 km"
+      },
+      "paved": {
+        "text": "74,820 km"
+      },
+      "unpaved": {
+        "text": "17,550 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "3,500 km",
+      "note": "includes Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in delta; Suez Canal (193.5 km including approaches) navigable by oceangoing vessels drawing up to 17.68 m (2007)"
+    },
+    "note": "includes Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in delta; Suez Canal (193.5 km including approaches) navigable by oceangoing vessels drawing up to 17.68 m (2007)",
+    "Merchant marine": {
+      "total": {
+        "text": "67"
+      },
+      "by type": {
+        "text": "bulk carrier 11, cargo 28, container 2, passenger/cargo 4, petroleum tanker 13, roll on/roll off 9"
+      },
+      "foreign-owned": {
+        "text": "10 (Denmark 1, Greece 8, Lebanon 1)"
+      },
+      "registered in other countries": {
+        "text": "58 (Cambodia 13, Georgia 12, Honduras 3, North Korea 1, Malta 1, Moldova 1, Panama 17, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 3, Saudi Arabia 1, Sierra Leone 3, Togo 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Ayn Sukhnah, Alexandria, Damietta, El Dekheila, Sidi Kurayr, Suez"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Navy, Air Force, Air Defense Command"
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for male conscript military service; service obligation 12-36 months, followed by a 9-year reserve obligation (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "21,247,777"
+      },
+      "females age 16-49": {
+        "text": "20,406,408 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "18,490,522"
+      },
+      "females age 16-49": {
+        "text": "17,719,905 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "831,157"
+      },
+      "female": {
+        "text": "792,330 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "while Sudan retains claim to the Hala'ib Triangle north of the 1899 Treaty boundary along the 22nd Parallel, both states withdrew their military presence in the 1990s and Egypt has invested in and effectively administers the area; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "60,000 - 80,000 (Iraq); 70,198 (Palestinian Territories); 12,157 (Sudan) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Egypt is a transit country for women trafficked from Eastern European countries to Israel for sexual exploitation, and is a source for children trafficked within the country for commercial sexual exploitation and domestic servitude, although the extent to which children are trafficked internally is unknown; children were also recruited for domestic and agricultural work; some of these children face conditions of involuntary servitude, such as restrictions on movement, non-payment of wages, threats, and physical or sexual abuse"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Egypt is on the Tier 2 Watch List for the third year in a row because it did not provide evidence of increasing efforts to investigate and prosecute traffickers; however, in July 2007, the government established the \"National Coordinating Committee to Combat and Prevent Trafficking in Persons,\" which improved inter-governmental coordination on anti-trafficking initiatives; Egypt made no discernible efforts to punish trafficking crimes in 2007 and the Egyptian penal code does not prohibit all forms of trafficking; Egypt did not increase its services to trafficking victims during the reporting period (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit point for cannabis, heroin, and opium moving to Europe, Israel, and North Africa; transit stop for Nigerian drug couriers; concern as money laundering site due to lax enforcement of financial regulations\r\n"
+    }
+  }
+}

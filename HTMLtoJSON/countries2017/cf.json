@@ -1,0 +1,855 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Upon independence in 1960, the former French region of Middle Congo became the Republic of the Congo. A quarter century of experimentation with Marxism was abandoned in 1990 and a democratically elected government took office in 1992. A brief civil war in 1997 restored former Marxist President Denis SASSOU-Nguesso, and ushered in a period of ethnic and political unrest. Southern-based rebel groups agreed to a final peace accord in March 2003. The Republic of Congo is one of Africa's largest petroleum producers, but with declining production it will need new offshore oil finds to sustain its oil earnings over the long term."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Central Africa, bordering the South Atlantic Ocean, between Angola and Gabon"
+    },
+    "Geographic coordinates": {
+      "text": "1 00 S, 15 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "342,000 sq km"
+      },
+      "land": {
+        "text": "341,500 sq km"
+      },
+      "water": {
+        "text": "500 sq km"
+      },
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Montana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,008 km"
+      },
+      "border countries (5)": {
+        "text": "Angola 231 km, Cameroon 494 km, Central African Republic 487 km, Democratic Republic of the Congo 1,229 km, Gabon 2,567 km"
+      }
+    },
+    "Coastline": {
+      "text": "169 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator"
+    },
+    "Terrain": {
+      "text": "coastal plain, southern basin, central plateau, northern basin"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "430 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Mount Berongou 903 m"
+    },
+    "Natural resources": {
+      "text": "petroleum, timber, potash, lead, zinc, uranium, copper, phosphates, gold, magnesium, natural gas, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "31.1%"
+      },
+      "text": "arable land 1.6%; permanent crops 0.2%; permanent pasture 29.3%",
+      "forest": {
+        "text": "65.6%"
+      },
+      "other": {
+        "text": "3.3% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "20 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "the population is primarily located in the south, in and around the capital of Brazzaville"
+    },
+    "Natural hazards": {
+      "text": "seasonal flooding"
+    },
+    "Environment - current issues": {
+      "text": "air pollution from vehicle emissions; water pollution from raw sewage; tap water is not potable; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "about 70% of the population lives in Brazzaville, Pointe-Noire, or along the railroad between them"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of the Congo"
+      },
+      "conventional short form": {
+        "text": "Congo (Brazzaville)"
+      },
+      "local long form": {
+        "text": "Republique du Congo"
+      },
+      "local short form": {
+        "text": "Congo"
+      },
+      "former": {
+        "text": "French Congo, Middle Congo, People's Republic of the Congo, Congo/Brazzaville"
+      },
+      "etymology": {
+        "text": "named for the Congo River, which makes up much of the country's eastern border; the river name derives from Kongo, a Bantu kingdom that occupied its mouth at the time of Portuguese discovery in the late 15th century and whose name stems from its people the Bakongo, meaning \"hunters\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Brazzaville"
+      },
+      "geographic coordinates": {
+        "text": "4 15 S, 15 17 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha"
+    },
+    "Independence": {
+      "text": "15 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 15 August (1960)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest approved by referendum 25 October 2015"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic or by Parliament; passage of presidential proposals requires Supreme Court review followed by approval in a referendum; such proposals may also be submitted directly to Parliament, in which case passage requires at least three-quarters majority vote of both houses in joint session; proposals by Parliament require three-fourths majority vote of both houses in joint session; constitutional articles including those affecting the country\u2019s territory, republican form of government, and secularity of the state are not amendable (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of French civil law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of the Republic of the Congo"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Denis SASSOU-Nguesso (since 25 October 1997)"
+      },
+      "head of government": {
+        "text": "Prime Minister (vacant); Prime Minister Clement MOUAMBA (since 23 April 2016) resigned on 18 August 2017; note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 20 March 2016 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "Denis SASSOU-Nguesso reelected president; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of the Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years) and the National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held on 12 October 2014 for expiry of half the seats (next to be held in 2020); National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - RMP 33, FDU 23, UPADS 2, other 7, independent 7; National Assembly - percent of vote by party - NA; seats by party - PCT 89, MCDDI 7, UPADS 7, RDPS 5, MAR 4, RC 3, MUST 2, UPDP 2, CPR 1, PRL 1, PUR 1, UFD 1, UR 1, independent 12, vacant 3"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years"
+      },
+      "subordinate courts": {
+        "text": "Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "many smaller parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Congolese Socialist Youth Union or UJSC"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Serge MOMBOULI (since 31 July 2001)"
+      },
+      "chancery": {
+        "text": "1720 16th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 726-5500"
+      },
+      "FAX": {
+        "text": "[1] (202) 726-1860"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Mary DASCHBACH (since January 2015)"
+      },
+      "embassy": {
+        "text": "70-83 Section D, Maya-Maya Boulevard, Brazzaville"
+      },
+      "mailing address": {
+        "text": "B.P. 1015, Brazzaville"
+      },
+      "telephone": {
+        "text": "[242] 06 612-2000"
+      }
+    },
+    "Flag description": {
+      "text": "divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence",
+      "note": {
+        "text": "uses the popular Pan-African colors of Ethiopia"
+      }
+    },
+    "National symbol(s)": {
+      "text": "lion, elephant; national colors: green, yellow, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"La Congolaise\" (The Congolese)"
+      },
+      "lyrics/music": {
+        "text": "Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADILIERE"
+      },
+      "note": {
+        "text": "originally adopted 1959, restored 1991"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Economic reform efforts have been undertaken with the support of international organizations, notably the World Bank and the IMF, including the recently concluded Article IV consultations. The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The recent drop in oil prices has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. However, the government increased infrastructure spending for the September 2015 All-Africa Games and the March 2016 presidential election, which put further pressure on the budget. The fiscal deficit exceeded 18% of GDP in 2015. Substantial macroeconomic imbalances continued in 2016 following sustained low oil prices."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$29.13 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$7.867 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Gross national saving": {
+      "text": "28.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "56.5%"
+      },
+      "government consumption": {
+        "text": "15.5%"
+      },
+      "investment in fixed capital": {
+        "text": "50.4%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "57.1%"
+      },
+      "imports of goods and services": {
+        "text": "-79.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "8.7%"
+      },
+      "industry": {
+        "text": "50.2%"
+      },
+      "services": {
+        "text": "41.1% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cassava (manioc, tapioca), sugar, rice, corn, peanuts, vegetables, coffee, cocoa; forest products"
+    },
+    "Industries": {
+      "text": "petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes"
+    },
+    "Industrial production growth rate": {
+      "text": "-4.7% (2016 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Labor force": {
+      "text": "2.055 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "35.4%"
+      },
+      "industry": {
+        "text": "20.6%"
+      },
+      "services": {
+        "text": "44% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "36% (2014 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Population below poverty line": {
+      "text": "46.5% (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.1%"
+      },
+      "highest 10%": {
+        "text": "37.1% (2005)"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.085 billion"
+      },
+      "expenditures": {
+        "text": "$3.507 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26.2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-17.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Public debt": {
+      "text": "72.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4.75% (31 December 2008)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.8% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$3.131 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$3.704 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.807 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-1.262 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Exports": {
+      "text": "$5.313 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Exports - commodities": {
+      "text": "petroleum, lumber, plywood, sugar, cocoa, coffee, diamonds"
+    },
+    "Exports - partners": {
+      "text": "China 39.8%, Italy 10.2%, Australia 7%, Gabon 6.6%, Angola 6%, Singapore 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$3.779 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Imports - commodities": {
+      "text": "capital equipment, construction materials, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "South Korea 18.2%, France 12.8%, China 12.2%, Norway 11.2%, Belgium 6.9% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.233 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Debt - external": {
+      "text": "$4.204 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Exchange rates": {
+      "text": "510.53 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "2,600,000"
+      },
+      "electrification - total population": {
+        "text": "42%"
+      },
+      "electrification - urban areas": {
+        "text": "62%"
+      },
+      "electrification - rural areas": {
+        "text": "5% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "1.676 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "900.5 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Electricity - exports": {
+      "text": "22 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Electricity - imports": {
+      "text": "18 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "545,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "61.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "38.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Crude oil - production": {
+      "text": "308,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "254,400 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "1.6 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "16,530 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "18,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "6,058 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "6,821 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Natural gas - production": {
+      "text": "1.5 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "2.6 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "39 million cu m (2012 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "90.61 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "6.5 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "17,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "5.216 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "110 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order"
+      },
+      "domestic": {
+        "text": "fixed-line infrastructure inadequate, providing less than 1 connection per 100 persons; in the absence of an adequate fixed-line infrastructure, mobile-cellular subscribership has surged to 110 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 242; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".cg"
+    },
+    "Internet users": {
+      "total": {
+        "text": "362,000"
+      },
+      "percent of population": {
+        "text": "7.6% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "171"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "657,926"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "2,987,493 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TN (2016)"
+    },
+    "Airports": {
+      "text": "27 (2013)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "8"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "19"
+      },
+      "1,524 to 2,437 m": {
+        "text": "8"
+      },
+      "914 to 1,523 m": {
+        "text": "9"
+      },
+      "under 914 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 232 km; liquid petroleum gas 4 km; oil 982 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "510 km"
+      },
+      "narrow gauge": {
+        "text": "510 km 1.067-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "17,000 km"
+      },
+      "paved": {
+        "text": "1,212 km"
+      },
+      "unpaved": {
+        "text": "15,788 km (2006)"
+      },
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Waterways": {
+      "text": "1,120 km (commercially navigable on Congo and Oubanqui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe Noire; other rivers are used for local traffic only) (2011)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Merchant marine": {
+      "registered in other countries": {
+        "text": "1 (Democratic Republic of the Congo 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Pointe-Noire"
+      },
+      "river port(s)": {
+        "text": "Brazzaville (Congo); Impfondo (Oubangi); Ouesso (Sangha); Oyo (Alima)"
+      },
+      "oil terminal(s)": {
+        "text": "Djeno"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "2.61% of GDP (2013)"
+    },
+    "Military branches": {
+      "text": "Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise); Gendarmerie; Special Presidential Security Guard (GSSP) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; women may serve in the Armed Forces (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "9,202 (Rwanda) (2016); 49,974 (Central African Republic); 12,280 (Democratic Republic of the Congo) (2017)"
+      },
+      "IDPs": {
+        "text": "33,000 (multiple civil wars since 1992) (2016)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "the Republic of the Congo is a source and destination country for children, men, and women, subjected to forced labor and sex trafficking; most trafficking victims are from Benin, the Democratic Republic of the Congo (DRC), and, to a lesser extent, other neighboring countries and are subjected to domestic servitude and market vending by West African and Congolese nationals; adults and children, the majority from the DRC, are also sex trafficked in Congo, mainly Brazzaville; internal trafficking victims, often from rural areas, are exploited as domestic servants or forced to work in quarries, bakeries, fishing, and agriculture"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - the Republic of the Congo does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the country drafted an action plan based on anti-trafficking legislation, which remains pending in the Supreme Court; the government made minimal anti-trafficking law enforcement efforts in 2014, failing to prosecute or convict suspected traffickers from cases dating back to 2010; serious allegations of official complicity continue to be reported; the government lacks a systematic means of identifying victims and relies on NGOs and international organizations to identify victims and NGOs and foster families to provide care to victims; the quality of care varied widely because the foster care system was allegedly undermined by inadequate security and official complicity (2015)"
+      }
+    }
+  }
+}

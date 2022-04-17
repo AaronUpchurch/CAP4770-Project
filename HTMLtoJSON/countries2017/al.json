@@ -1,0 +1,857 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Albania has made progress in its democratic development since first holding multiparty elections in 1991, but deficiencies remain. Most of Albania's post-communist elections were marred by claims of electoral fraud; however, international observers judged elections to be largely free and fair since the restoration of political stability following the collapse of pyramid schemes in 1997. Albania joined NATO in April 2009 and in June 2014 became a candidate for EU accession. Albania in November 2016 received a European Commission recommendation to open EU accession negotiations conditioned upon implementation of a judicial reform package passed earlier the same year. Although Albania's economy continues to grow, it has slowed, and the country is still one of the poorest in Europe. A large informal economy and a weak energy and transportation infrastructure remain obstacles."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southeastern Europe, bordering the Adriatic Sea and Ionian Sea, between Greece to the south and Montenegro and Kosovo to the north"
+    },
+    "Geographic coordinates": {
+      "text": "41 00 N, 20 00 E"
+    },
+    "Map references": {
+      "text": "Europe"
+    },
+    "Area": {
+      "total": {
+        "text": "28,748 sq km"
+      },
+      "land": {
+        "text": "27,398 sq km"
+      },
+      "water": {
+        "text": "1,350 sq km"
+      },
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "691 km"
+      },
+      "border countries (4)": {
+        "text": "Greece 212 km, Kosovo 112 km, Macedonia 181 km, Montenegro 186 km"
+      }
+    },
+    "Coastline": {
+      "text": "362 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter"
+    },
+    "Terrain": {
+      "text": "mostly mountains and hills; small plains along coast"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "708 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Maja e Korabit (Golem Korab) 2,764 m"
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, coal, bauxite, chromite, copper, iron ore, nickel, salt, timber, hydropower, arable land"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "42.86%"
+      },
+      "text": "arable land 52.42%; permanent crops 6.84%; permanent pasture 40.73%",
+      "forest": {
+        "text": "28.19%"
+      },
+      "other": {
+        "text": "28.95% (2014 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "3,537 sq km (2014)"
+    },
+    "Population - distribution": {
+      "text": "a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country"
+    },
+    "Natural hazards": {
+      "text": "destructive earthquakes; tsunamis occur along southwestern coast; floods; drought"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; water pollution from industrial and domestic effluents"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and Mediterranean Sea)"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Albania"
+      },
+      "conventional short form": {
+        "text": "Albania"
+      },
+      "local long form": {
+        "text": "Republika e Shqiperise"
+      },
+      "local short form": {
+        "text": "Shqiperia"
+      },
+      "former": {
+        "text": "People's Socialist Republic of Albania"
+      },
+      "etymology": {
+        "text": "the English-language country name seems to be derived from the ancient Illyrian tribe of the Albani; the native name \"Shqiperia\" is popularly interpreted to mean \"Land of the Eagles\""
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Tirana (Tirane)"
+      },
+      "geographic coordinates": {
+        "text": "41 19 N, 19 49 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane, Vlore"
+    },
+    "Independence": {
+      "text": "28 November 1912 (from the Ottoman Empire)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28 November (1912) also known as Flag Day"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest approved by the Assembly 21 October 1998, adopted by referendum 22 November 1998, promulgated 28 November 1998"
+      },
+      "amendments": {
+        "text": "proposed by at least one-fifth of the Assembly membership; passage requires at least a two-thirds majority vote by the Assembly; referendum required only if approved by two-thirds of the Assembly; amendments approved by referendum effective upon declaration by the president of the republic; amended several times, last in 2016 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system except in the northern rural areas where customary law known as the \"Code of Leke\" prevails"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Albania"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President of the Republic Ilir META (since 24 July 2017)"
+      },
+      "head of government": {
+        "text": "Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Niko PELESHI"
+      },
+      "cabinet": {
+        "text": "Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 19, 20, 27, and 28 April 2017 (next election to be held in 2022); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly"
+      },
+      "election results": {
+        "text": "Ilir META elected president; Assembly vote - 87 - 2 in fourth round"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 25 June 2017 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - PS 74, PD 43, LSI 19, PDIU 3, PSD 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of 17 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges, including the chairman, appointed by the president with the consent of the Assembly to serve single 9-year terms; Constitutional Court judges appointed by the president with the consent of the Assembly to serve single 9-year terms with one-third of the membership renewed every 3 years; chairman elected by the People's Assembly for a single 3-year term"
+      },
+      "subordinate courts": {
+        "text": "Courts of Appeal; Courts of First Instance"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Socialist Party or PS [Edi RAMA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Union of Independent Trade Unions of Albania or BSPSH [Gezim KALAJA]"
+    },
+    "International organization participation": {
+      "text": "BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Floreta FABER (since 18 May 2015)"
+      },
+      "chancery": {
+        "text": "2100 S Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 223-4942"
+      },
+      "FAX": {
+        "text": "[1] (202) 628-7342"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Donald LU (since 13 January 2015)"
+      },
+      "embassy": {
+        "text": "Rruga e Elbasanit, 103, Tirana"
+      },
+      "mailing address": {
+        "text": "US Department of State, 9510 Tirana Place, Dulles, VA 20189-9510"
+      },
+      "telephone": {
+        "text": "[355] (4) 2247-285"
+      },
+      "FAX": {
+        "text": "[355] (4) 2232-222"
+      }
+    },
+    "Flag description": {
+      "text": "red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero George Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as \"Shqiptare,\" which translates as \"sons of the eagle\""
+    },
+    "National symbol(s)": {
+      "text": "double-headed eagle; national colors: red, black"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Hymni i Flamurit\" (Hymn to the Flag)"
+      },
+      "lyrics/music": {
+        "text": "Aleksander Stavre DRENOVA/Ciprian PORUMBESCU"
+      },
+      "note": {
+        "text": "adopted 1912"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Inward FDI has increased significantly in recent years as the government has embarked on an ambitious program to improve the business climate through fiscal and legislative reforms. The government is focused on the simplification of licensing requirements and tax codes, and it entered into a new arrangement with the IMF for additional financial and technical support. Albania\u2019s three-year IMF program, an extended fund facility arrangement, was successfully concluded in February 2017. Albania\u2019s 2017 budget aims to reach a small primary surplus, which the Albanian Government plans to achieve by strengthening tax collection amid moderate public wage and pension increases. The country continues to face high public debt, exceeding its former statutory limit of 60% of GDP in 2013 and reaching 71% in 2016."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "unreported output may be as large as 50% of official GDP",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$11.87 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$11,100 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Gross national saving": {
+      "text": "16% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "78.8%"
+      },
+      "government consumption": {
+        "text": "11%"
+      },
+      "investment in fixed capital": {
+        "text": "27.1%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "28.7%"
+      },
+      "imports of goods and services": {
+        "text": "-45.6% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "23%"
+      },
+      "industry": {
+        "text": "23.8%"
+      },
+      "services": {
+        "text": "53.2%"
+      },
+      "text": " (2016 est.)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, corn, potatoes, vegetables, fruits, olives and olive oil, grapes; meat, dairy products; sheep and goats"
+    },
+    "Industries": {
+      "text": "food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower"
+    },
+    "Industrial production growth rate": {
+      "text": "3.2% (2016 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Labor force": {
+      "text": "1.358 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "41.8%"
+      },
+      "industry": {
+        "text": "11.4%"
+      },
+      "services": {
+        "text": "46.8% (December 2014 est)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "13.3% (2015 est.)",
+      "note": {
+        "text": "these official rates may not include those working at near-subsistence farming"
+      },
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Population below poverty line": {
+      "text": "14.3% (2012 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.1%"
+      },
+      "highest 10%": {
+        "text": "19.6% (2015 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "30 (2008 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.279 billion"
+      },
+      "expenditures": {
+        "text": "$3.494 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "27% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Public debt": {
+      "text": "72.6% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "1.75% (31 December 2015)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.73% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$3.054 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$5.747 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$7.178 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-1.222 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Exports": {
+      "text": "$854.7 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Exports - commodities": {
+      "text": "apparel and clothing, footwear; asphalt, metals and metallic ores, crude oil; cement and construction materials, vegetables, fruits, tobacco"
+    },
+    "Exports - partners": {
+      "text": "Italy 50.5%, Serbia 8.1%, Kosovo 7.5%, Greece 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$3.402 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, foodstuffs, textiles, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Italy 29%, Germany 9.4%, China 8.7%, Greece 7.8%, Turkey 7.8%, Serbia 4.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.139 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Debt - external": {
+      "text": "$8.269 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$5.459 billion (31 December 2013)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Exchange rates": {
+      "text": "108.19 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "7.135 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "7.094 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Electricity - exports": {
+      "text": "1.869 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.827 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.897 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "5.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "94.8% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Crude oil - production": {
+      "text": "22,750 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "19,100 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "1,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "168.3 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "290 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "27,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "16,250 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "13,250 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Natural gas - production": {
+      "text": "35 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "200 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "821.2 million cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "4.3 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "245,336"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "8 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "3,369,756"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "111 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fixed line, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective; of 3.4 million active mobile telephone users, 1.3 million use mobile broadband services (3G/4G)"
+      },
+      "domestic": {
+        "text": "offsetting the shortage of fixed-line capacity, mobile-cellular phone service has been available since 1996; by 2015, four companies were providing mobile services and mobile teledensity had reached 110 per 100 persons; Internet broadband services initiated in 2005, and the penetration rate rose to over 65% by 2016; Internet cafes are popular in major urban areas"
+      },
+      "international": {
+        "text": "country code - 355; submarine cable provides connectivity to Italy, Croatia, and Greece; the Trans-Balkan Line, a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Albania has more than 65 TV stations, including several that broadcast nationally; Albanian TV broadcasts are also available to Albanian-speaking populations in neighboring countries; many viewers have access to Italian and Greek TV broadcasts via terrestrial reception; Albania's TV stations have begun a government-mandated conversion from analog to digital broadcast; the government has pledged to provide analog-to-digital converters to low-income families affected by this decision; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2017)"
+    },
+    "Internet country code": {
+      "text": ".al"
+    },
+    "Internet users": {
+      "total": {
+        "text": "2,016,516"
+      },
+      "percent of population": {
+        "text": "66.4% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "104"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "151,632"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "ZA (2016)"
+    },
+    "Airports": {
+      "text": "4 (2016)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2012)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 498 km (a majority of the network is in disrepair and parts of it are missing); oil 249 km (2015)"
+    },
+    "Railways": {
+      "total": {
+        "text": "677 km (447 km of major railway lines and 230 km of secondary lines)"
+      },
+      "standard gauge": {
+        "text": "677 km 1.435-m gauge (2015)"
+      },
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "18,000 km"
+      },
+      "paved": {
+        "text": "7,020 km"
+      },
+      "unpaved": {
+        "text": "10,980 km (2002)"
+      },
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Waterways": {
+      "text": "41 km (on the Bojana River) (2011)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "17"
+      },
+      "by type": {
+        "text": "cargo 16, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "1 (Turkey 1)"
+      },
+      "registered in other countries": {
+        "text": "5 (Antigua and Barbuda 1, Panama 4) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Durres, Sarande, Shengjin, Vlore"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "1.49% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Military branches": {
+      "text": "Land Forces Command, Navy Force Command, Air Forces Command (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "4,921 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "active transshipment point for Southwest Asian opiates, hashish, and cannabis transiting the Balkan route and - to a lesser extent - cocaine from South America destined for Western Europe; significant source country for cannabis production; ethnic Albanian narcotrafficking organizations active and expanding in Europe; vulnerable to money laundering associated with regional trafficking in narcotics, arms, contraband, and illegal aliens"
+    }
+  }
+}

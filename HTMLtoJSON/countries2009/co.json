@@ -1,0 +1,746 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Colombia was one of the three countries that emerged from the collapse of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A four-decade long conflict between government forces and anti-government insurgent groups, principally the Revolutionary Armed Forces of Colombia (FARC) heavily funded by the drug trade, escalated during the 1990s. The insurgents lack the military or popular support necessary to overthrow the government and violence has been decreasing since about 2002, but insurgents continue attacks against civilians and large areas of the countryside are under guerrilla influence or are contested by security forces. More than 31,000 former paramilitaries had demobilized by the end of 2006 and the United Self Defense Forces of Colombia (AUC) as a formal organization had ceased to function. In the wake of the paramilitary demobilization, emerging criminal groups arose, whose members include some former paramilitaries. The Colombian Government has stepped up efforts to reassert government control throughout the country, and now has a presence in every one of its administrative departments. However, neighboring countries worry about the violence spilling over their borders."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern South America, bordering the Caribbean Sea, between Panama and Venezuela, and bordering the North Pacific Ocean, between Ecuador and Panama"
+    },
+    "Geographic coordinates": {
+      "text": "4 00 N, 72 00 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "1,138,914 sq km"
+      },
+      "land": {
+        "text": "1,109,104 sq km"
+      },
+      "water": {
+        "text": "100,210 sq km"
+      },
+      "note": "includes Isla de Malpelo, Roncador Cay, and Serrana Bank"
+    },
+    "note": "nearby Pico Simon Bolivar also has the same elevation",
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "6,309 km"
+      },
+      "border countries": {
+        "text": "Brazil 1,644 km, Ecuador 590 km, Panama 225 km, Peru 1,800 km, Venezuela 2,050 km"
+      }
+    },
+    "Coastline": {
+      "text": "3,208 km (Caribbean Sea 1,760 km, North Pacific Ocean 1,448 km)"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical along coast and eastern plains; cooler in highlands"
+    },
+    "Terrain": {
+      "text": "flat coastal lowlands, central highlands, high Andes Mountains, eastern lowland plains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Pico Cristobal Colon 5,775 m"
+      },
+      "note": "nearby Pico Simon Bolivar also has the same elevation"
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, coal, iron ore, nickel, gold, copper, emeralds, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.01%"
+      },
+      "permanent crops": {
+        "text": "1.37%"
+      },
+      "other": {
+        "text": "96.62% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "9,000 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "2,132 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "10.71  cu km/yr (50%/4%/46%)"
+      },
+      "per capita": {
+        "text": "235  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "highlands subject to volcanic eruptions; occasional earthquakes; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil and water quality damage from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "45,644,023 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.9% (male 6,679,701/female 6,522,976)"
+      },
+      "15-64 years": {
+        "text": "65.4% (male 14,571,536/female 15,297,179)"
+      },
+      "65 years and over": {
+        "text": "5.6% (male 1,103,391/female 1,469,240) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "27.1 years"
+      },
+      "male": {
+        "text": "26.1 years"
+      },
+      "female": {
+        "text": "28 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.377% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "19.57 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.54 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.26 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "74% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.7% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.95 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.75 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "18.9 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "22.53 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "15.14 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "72.81 years"
+      },
+      "male": {
+        "text": "68.98 years"
+      },
+      "female": {
+        "text": "76.76 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.46 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.6% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "170,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "9,800 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever, malaria, and yellow fever"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Colombian(s)"
+      },
+      "adjective": {
+        "text": "Colombian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mestizo 58%, white 20%, mulatto 14%, black 4%, mixed black-Amerindian 3%, Amerindian 1%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 90%, other 10%"
+    },
+    "Languages": {
+      "text": "Spanish"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "90.4%"
+      },
+      "male": {
+        "text": "90.1%"
+      },
+      "female": {
+        "text": "90.7% (2005 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "13 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.7% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Colombia "
+      },
+      "conventional short form": {
+        "text": "Colombia"
+      },
+      "local long form": {
+        "text": "Republica de Colombia"
+      },
+      "local short form": {
+        "text": "Colombia"
+      }
+    },
+    "Government type": {
+      "text": "republic; executive branch dominates government structure"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bogota"
+      },
+      "geographic coordinates": {
+        "text": "4 36 N, 74 05 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, San Andres y Providencia, Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada"
+    },
+    "Independence": {
+      "text": "20 July 1810 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 20 July (1810)"
+    },
+    "Constitution": {
+      "text": "5 July 1991; amended many times"
+    },
+    "Legal system": {
+      "text": "based on Spanish law; a new criminal code modeled after US procedures was enacted into law in 2004 and reached full implementation in January 2008; judicial review of executive and legislative acts; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Alvaro URIBE Velez (since 7 August 2002); Vice President Francisco SANTOS Calderon (since 7 August 2002); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Alvaro URIBE Velez (since 7 August 2002); Vice President Francisco SANTOS Calderon (since 7 August 2002)"
+      },
+      "cabinet": {
+        "text": "Cabinet consists of a coalition of the three largest parties that supported President URIBE's reelection - the PSUN, PC, and CR - and independents"
+      },
+      "elections": {
+        "text": "president and vice president elected by popular vote for a four-year term (eligible for a second term); election last held 28 May 2006 (next to be held in May 2010)"
+      },
+      "election results": {
+        "text": "President Alvaro URIBE Velez reelected president; percent of vote - Alvaro URIBE Velez 62%, Carlos GAVIRIA Diaz 22%, Horacio SERPA Uribe 12%, other 4%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Congress or Congreso consists of the Senate or Senado (102 seats; members are elected by popular vote to serve four-year terms) and the House of Representatives or Camara de Representantes (166 seats; members are elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "Senate - last held 12 March 2006 (next to be held in March 2010); House of Representatives - last held 12 March 2006 (next to be held in March 2010)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PSUN 20, PC 18, PL 18, CR 15, PDI 10, other parties 21; House of Representatives - percent of vote by party - NA; seats by party - PL 35, PSUN 33, PC 29, CR 20, PDA 8, other parties 41"
+      }
+    },
+    "Judicial branch": {
+      "text": "four roughly coequal, supreme judicial organs; Supreme Court of Justice or Corte Suprema de Justicia (highest court of criminal law; judges are selected by their peers from the nominees of the Superior Judicial Council for eight-year terms); Council of State (highest court of administrative law; judges are selected from the nominees of the Superior Judicial Council for eight-year terms); Constitutional Court (guards integrity and supremacy of the constitution; rules on constitutionality of laws, amendments to the constitution, and international treaties); Superior Judicial Council (administers and disciplines the civilian judiciary; resolves jurisdictional conflicts arising between other courts; members are elected by three sister courts and Congress for eight-year terms)"
+    },
+    "Political parties and leaders": {
+      "text": "Colombian Conservative Party or PC [Efrain Jose CEPEDA Sarabia]; Alternative Democratic Pole or PDA [Carlos GAVIRIA Diaz]; Liberal Party or PL [Cesar GAVIRIA Trujillo]; Radical Change or CR [German VARGAS Lleras]; Social National Unity Party or U Party [Carlos FERRO Solanilla]",
+      "note": "Colombia has 15 formally recognized political parties, and numerous unofficial parties that did not meet the vote threshold in the March 2006 legislative elections required for recognition"
+    },
+    "note": "similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center",
+    "Political pressure groups and leaders": {
+      "text": "National Liberation Army or ELN; Revolutionary Armed Forces of Colombia or FARC",
+      "note": "two largest insurgent groups active in Colombia"
+    },
+    "International organization participation": {
+      "text": "BCIE, CAN, Caricom (observer), CDB, FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Carolina BARCO Isakson"
+      },
+      "chancery": {
+        "text": "2118 Leroy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 387-8338"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-8643"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico), Washington, DC"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador William R. BROWNFIELD"
+      },
+      "embassy": {
+        "text": "Calle 24 Bis No. 48-50, Bogota, D.C."
+      },
+      "mailing address": {
+        "text": "Carrera 45 No. 24B-27, Bogota, D.C."
+      },
+      "telephone": {
+        "text": "[57] (1) 315-0811"
+      },
+      "FAX": {
+        "text": "[57] (1) 315-2197"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of yellow (top, double-width), blue, and red",
+      "note": "similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Colombia has experienced accelerating growth between 2002 and 2007, with expansion above 7% in 2007, chiefly due to advancements in domestic security, to rising commodity prices, and to President URIBE's promarket economic policies. Colombia's sustained growth helped reduce poverty by 20% and cut unemployment by 25% since 2002. Additionally, investor friendly reforms to Colombia's hydrocarbon sector and the US-Colombia Trade Promotion Agreement (CTPA) negotiations have attracted record levels of foreign investment. Inequality, underemployment,and narcotrafficking remain significant challenges, and Colombia's infrastructure requires significant updating in order to sustain expansion. Economic growth slipped in 2008 as a result of the global financial crisis and weakening demand for Colombia's exports. In response, URIBE's administration has cut capital controls, arranged for emergency credit lines from multilateral institutions, and promoted investment incentives such as Colombia's modernized free trade zone mechanism, legal stability contracts, and new bilateral investment treaties and trade agreements. The government has also encouraged exporters to diversify their customer base away from the United States and Venezuela, Colombia's largest trading partners. Nevertheless, the business sector continues to be concerned about the impact of a global recession on Colombia's exports, as well as the approval of the CTPA, which is stalled in the US Congress.\r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$359.7 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$240.8 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,600 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "9%"
+      },
+      "industry": {
+        "text": "38.1%"
+      },
+      "services": {
+        "text": "52.9% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "21.3 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "22.4%"
+      },
+      "industry": {
+        "text": "18.8%"
+      },
+      "services": {
+        "text": "58.8% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "11.2% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "49.2% (2005)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "0.8%"
+      },
+      "highest 10%": {
+        "text": "45.9% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "57.1 (1996)"
+    },
+    "Investment (gross fixed)": {
+      "text": "24.3% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$83.22 billion"
+      },
+      "expenditures": {
+        "text": "$82.92 billion; including capital expenditures of $NA (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "51.8% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.5% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "11.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "17.18% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$21.81 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$27.25 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$85.34 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$56.2 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "coffee, cut flowers, bananas, rice, tobacco, corn, sugarcane, cocoa beans, oilseed, vegetables; forest products; shrimp"
+    },
+    "Industries": {
+      "text": "textiles, food processing, oil, clothing and footwear, beverages, chemicals, cement; gold, coal, emeralds"
+    },
+    "Industrial production growth rate": {
+      "text": "0.8% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "50.58 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "38.59 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "876.7 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "39.4 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "600,600 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "291,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "294,000 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "16,540 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "1.355 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "9 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "8.1 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "900 million cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "105.9 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$5.838 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$30.58 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum, coffee, coal, nickel, emeralds, apparel, bananas, cut flowers"
+    },
+    "Exports - partners": {
+      "text": "US 38%, Venezuela 16.2%, Ecuador 4% (2008)"
+    },
+    "Imports": {
+      "text": "$31.17 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "industrial equipment, transportation equipment, consumer goods, chemicals, paper products, fuels, electricity"
+    },
+    "Imports - partners": {
+      "text": "US 29.2%, China 11.5%, Mexico 7.9%, Brazil 5.9% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$20.95 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$44.55 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$56.45 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$10.93 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Colombian pesos (COP) per US dollar - 2,243.6 (2008), 2,013.8 (2007), 2,358.6 (2006), 2,320.75 (2005), 2,628.61 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "6.82 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "41.365 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system in many respects; telecommunications sector liberalized during the 1990s; multiple providers of both fixed-line and mobile-cellular services; fixed-line connections stand at about 15 per 100 persons; mobile cellular telephone subscribership is about 90 per 100 persons; competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed line services"
+      },
+      "domestic": {
+        "text": "nationwide microwave radio relay system; domestic satellite system with 41 earth stations; fiber-optic network linking 50 cities"
+      },
+      "international": {
+        "text": "country code - 57; submarine cables provide links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 454, FM 34, shortwave 27 (1999)"
+    },
+    "Television broadcast stations": {
+      "text": "60 (1997)"
+    },
+    "Internet country code": {
+      "text": ".co"
+    },
+    "Internet hosts": {
+      "text": "2.217 million (2009)"
+    },
+    "Internet users": {
+      "text": "17.117 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "992 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "116"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "40"
+      },
+      "914 to 1,523 m": {
+        "text": "50"
+      },
+      "under 914 m": {
+        "text": "15 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "876"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "35"
+      },
+      "914 to 1,523 m": {
+        "text": "228"
+      },
+      "under 914 m": {
+        "text": "612 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 4,560 km; oil 6,094 km; refined products 3,383 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,802 km"
+      },
+      "standard gauge": {
+        "text": "150 km 1.435-m gauge"
+      },
+      "narrow gauge": {
+        "text": "3,652 km 0.914-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "164,257 km (2005)"
+      }
+    },
+    "Waterways": {
+      "text": "18,000 km (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "17"
+      },
+      "by type": {
+        "text": "cargo 13, petroleum tanker 3, specialized tanker 1"
+      },
+      "registered in other countries": {
+        "text": "6 (Antigua and Barbuda 2, Panama 4) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Barranquilla, Buenaventura, Cartagena, Santa Marta, Turbo"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Naval Aviation, Naval Infantry (Infanteria de Marina, IM), and Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC) (2008)"
+    },
+    "Military service age and obligation": {
+      "text": "18-24 years of age for compulsory and voluntary military service; service obligation - 18 months (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "11,478,109"
+      },
+      "females age 16-49": {
+        "text": "11,809,279 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "8,212,944"
+      },
+      "females age 16-49": {
+        "text": "10,045,435 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "446,432"
+      },
+      "female": {
+        "text": "437,164 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in December 2007, ICJ allocates San Andres, Providencia, and Santa Catalina islands to Colombia under 1928 Treaty but does not rule on 82 degrees W meridian as maritime boundary with Nicaragua; managed dispute with Venezuela over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders and have caused Colombian citizens to flee mostly into neighboring countries; Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "1.8-3.5 million (conflict between government and illegal armed groups and drug traffickers) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of coca, opium poppy, and cannabis; world's leading coca cultivator with 167,000 hectares in coca cultivation in 2007, a 6% increase over 2006, producing a potential of 535 mt of pure cocaine; the world's largest producer of coca derivatives; supplies cocaine to nearly all of the US market and the great majority of other international drug markets; in 2005, aerial eradication dispensed herbicide to treat over 130,000 hectares but aggressive replanting on the part of coca growers means Colombia remains a key producer; a significant portion of narcotics proceeds are either laundered or invested in Colombia through the black market peso exchange; important supplier of heroin to the US market; opium poppy cultivation is estimated to have fallen 25% between 2006 and 2007; most Colombian heroin is destined for the US market (2008)"
+    }
+  }
+}

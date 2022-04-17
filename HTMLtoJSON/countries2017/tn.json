@@ -1,0 +1,791 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Tonga - unique among Pacific nations - never completely lost its indigenous governance. The archipelagos of \"The Friendly Islands\" were united into a Polynesian kingdom in 1845. Tonga became a constitutional monarchy in 1875 and a British protectorate in 1900; it withdrew from the protectorate and joined the Commonwealth of Nations in 1970. Tonga remains the only monarchy in the Pacific."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand"
+    },
+    "Geographic coordinates": {
+      "text": "20 00 S, 175 00 W"
+    },
+    "Map references": {
+      "text": "Oceania"
+    },
+    "Area": {
+      "total": {
+        "text": "747 sq km"
+      },
+      "land": {
+        "text": "717 sq km"
+      },
+      "water": {
+        "text": "30 sq km"
+      },
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Area - comparative": {
+      "text": "four times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "419 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200-m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical; modified by trade winds; warm season (December to May), cool season (May to December)"
+    },
+    "Terrain": {
+      "text": "mostly flat islands with limestone bedrock formed from uplifted coral formation; others have limestone overlying volcanic rock"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Kao Volcano on Kao Island 1,046 m"
+    },
+    "Natural resources": {
+      "text": "fish, arable land"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "43.1%"
+      },
+      "text": "arable land 22.2%; permanent crops 15.3%; permanent pasture 5.6%",
+      "forest": {
+        "text": "12.5%"
+      },
+      "other": {
+        "text": "44.4% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "0 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied"
+    },
+    "Natural hazards": {
+      "text": "cyclones (October to April); earthquakes and volcanic activity on Fonuafo'ou",
+      "volcanism": {
+        "text": "moderate volcanic activity; Fonualei (180 m) has shown frequent activity in recent years, while Niuafo'ou (260 m), which last erupted in 1985, has forced evacuations; other historically active volcanoes include Late and Tofua"
+      }
+    },
+    "Environment - current issues": {
+      "text": "deforestation results as more and more land is being cleared for agriculture and settlement; some damage to coral reefs from starfish and indiscriminate coral and shell collectors; overhunting threatens native sea turtle populations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "archipelago of 171 islands (45 inhabited)"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Tonga"
+      },
+      "conventional short form": {
+        "text": "Tonga"
+      },
+      "local long form": {
+        "text": "Pule'anga Fakatu'i 'o Tonga"
+      },
+      "local short form": {
+        "text": "Tonga"
+      },
+      "former": {
+        "text": "Friendly Islands"
+      },
+      "etymology": {
+        "text": "\"tonga\" means \"south\" in the Tongan language and refers to the country's geographic position in relation to central Polynesia"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Nuku'alofa"
+      },
+      "geographic coordinates": {
+        "text": "21 08 S, 175 12 W"
+      },
+      "time difference": {
+        "text": "UTC+13 (18 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in November; ends second Sunday in January"
+      }
+    },
+    "Administrative divisions": {
+      "text": "5 island divisions; 'Eua, Ha'apai, Ongo Niua, Tongatapu, Vava'u"
+    },
+    "Independence": {
+      "text": "4 June 1970 (from UK protectorate)"
+    },
+    "National holiday": {
+      "text": "Official Birthday of King TUPOU VI, 4 July (1959); note - actual birthday of the monarch is 12 July 1959; 4 July (2015) is the day the king was crowned; Constitution Day (National Day), 4 November (1875)"
+    },
+    "Constitution": {
+      "text": "adopted 4 November 1875, revised 1988; amended many times, last in 2014 (2016)"
+    },
+    "Legal system": {
+      "text": "English common law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "21 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985); note - on 18 March 2012, King George TUPOU V died and his brother, Crown Prince TUPOUTO'A Lavaka, assumed the throne as TUPOU VI"
+      },
+      "head of government": {
+        "text": "Interim Prime Minister 'Akilisi POHIVA (since 30 December 2014); note - King TUPOU VI dissolved the parliament on 26 August 2017"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the prime minister and appointed by the monarch"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 21 November 2014 (next to be held in November 2018)"
+      },
+      "election results": {
+        "text": "'Akilisi POHIVA (Democratic Party of the Friendly Islands) elected prime minister by parliament on 29 December 2014; vote - 15 of 26 votes"
+      },
+      "note": {
+        "text": "a Privy Council advises the monarch"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Legislative Assembly or Fale Alea (26 seats; 17 people's representatives directly elected in single-seat constituencies by simple majority vote and 9 indirectly elected by hereditary leaders; members serve 3-year terms)"
+      },
+      "elections": {
+        "text": "last held on 27 November 2014 (next to be held on 16 November 2017); note - King TUPOU VI dissolved the parliament on 26 September 2017"
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats by party - Democratic Party 9, nobles' representatives 9, independent 8"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers"
+      },
+      "judge selection and term of office": {
+        "text": "judge appointments and tenures made by the King in Privy Council, judge appointments subject to consent of the Legislative Assembly"
+      },
+      "subordinate courts": {
+        "text": "Supreme Court; Magistrate's Courts; Land Courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Tonga Human Rights and Democracy Movement or THRDM"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Public Service Association or PSA [Finau TUTONE]"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mahe'uli'uli Sandhurst TUPOUNIUA (since 17 September 2013)"
+      },
+      "chancery": {
+        "text": "250 E. 51st Street, New York, NY, 10022"
+      },
+      "telephone": {
+        "text": "[1] (917) 369-1025"
+      },
+      "FAX": {
+        "text": "[1] (917) 369-1024"
+      },
+      "consulate(s) general": {
+        "text": "San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Tonga; the US Ambassador to Fiji is accredited to Tonga"
+    },
+    "Flag description": {
+      "text": "red with a bold red cross on a white rectangle in the upper hoist-side corner; the cross reflects the deep-rooted Christianity in Tonga; red represents the blood of Christ and his sacrifice; white signifies purity"
+    },
+    "National symbol(s)": {
+      "text": "red cross on white field, arms equal length; national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Ko e fasi `o e tu\"i `o e `Otu Tonga\" (Song of the King of the Tonga Islands)"
+      },
+      "lyrics/music": {
+        "text": "Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT"
+      },
+      "note": {
+        "text": "in use since 1875; more commonly known as \"Fasi Fakafonua\" (National Song)"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Tonga has a reasonably sound basic infrastructure and well developed social services. The government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$512 million (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$413 million (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$5,000 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "101.1%"
+      },
+      "government consumption": {
+        "text": "20.1%"
+      },
+      "investment in fixed capital": {
+        "text": "25.8%"
+      },
+      "investment in inventories": {
+        "text": "-3.5%"
+      },
+      "exports of goods and services": {
+        "text": "18.2%"
+      },
+      "imports of goods and services": {
+        "text": "-61.7% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "19.6%"
+      },
+      "industry": {
+        "text": "20.4%"
+      },
+      "services": {
+        "text": "60% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "squash, coconuts, copra, bananas, vanilla beans, cocoa, coffee, sweet potatoes, cassava, taro and kava"
+    },
+    "Industries": {
+      "text": "tourism, construction, fishing"
+    },
+    "Industrial production growth rate": {
+      "text": "7.9% (2016 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Labor force": {
+      "text": "33,800 (2011 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "27.5%"
+      },
+      "industry": {
+        "text": "27.5%"
+      },
+      "services": {
+        "text": "2,006% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1.1% (2006)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Population below poverty line": {
+      "text": "24% (FY03/04 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$135.4 million"
+      },
+      "expenditures": {
+        "text": "$135.4 million (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "33.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Public debt": {
+      "text": "46.5% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-1.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.09% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$101.8 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$203.9 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$128.4 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-78.3 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Exports": {
+      "text": "$18.1 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "212"
+      }
+    },
+    "Exports - commodities": {
+      "text": "squash, fish, vanilla beans, root crops"
+    },
+    "Exports - partners": {
+      "text": "Hong Kong 25.6%, Japan 15.1%, NZ 14.3%, US 13.5%, Australia 10%, Philippines 9.4% (2016)"
+    },
+    "Imports": {
+      "text": "$261.7 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and transport equipment, fuels, chemicals"
+    },
+    "Imports - partners": {
+      "text": "NZ 35.3%, Fiji 12.1%, Singapore 9.3%, China 8.4%, US 8%, Australia 7.6%, Japan 4.3% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$156.1 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Debt - external": {
+      "text": "$173.3 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$110.2 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Exchange rates": {
+      "text": "1.72 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "5,325"
+      },
+      "electrification - total population": {
+        "text": "96%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "83% (2012)"
+      }
+    },
+    "Electricity - production": {
+      "text": "50 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "46.5 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016)",
+      "country comparison to the world": {
+        "text": "203"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "17,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "82.4% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "17.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "1,500 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "1,457 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "200,000 Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "11,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "10 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "80,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "75 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "competition between Tonga Telecommunications Corporation (TCC) and Digicel Tonga Limited is accelerating expansion of telecommunications; both parties provide high speed Internet, mobile telephone networks, and international telecom services; Digicel also holds a telecommunication license after its acquisition of TonFon (a subsidiary of former Shoreline Communications Tonga); submarine cable infrastructure, managed by Tonga Cable Limited, has also been brought to the country by Asian Development Bank and World Bank aid"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity about 85 telephones per 100 persons; fully automatic switched network"
+      },
+      "international": {
+        "text": "country code - 676; satellite earth station - 1 Intelsat (Pacific Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and 3 privately owned radio stations; Radio Australia broadcasts available via satellite (2015)"
+    },
+    "Internet country code": {
+      "text": ".to"
+    },
+    "Internet users": {
+      "total": {
+        "text": "42,552"
+      },
+      "percent of population": {
+        "text": "40.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "191"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "75,416"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "A3 (2016)"
+    },
+    "Airports": {
+      "text": "6 (2013)",
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "680 km"
+      },
+      "paved": {
+        "text": "184 km"
+      },
+      "unpaved": {
+        "text": "496 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "7"
+      },
+      "by type": {
+        "text": "cargo 4, carrier 1, passenger/cargo 2"
+      },
+      "foreign-owned": {
+        "text": "2 (Australia 1, UK 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Nuku'alofa, Neiafu, Pangai"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Tonga Defense Services (TDS): Land Force (Royal Guard), Maritime Force (includes Royal Marines, Air Wing) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "16 years of age for voluntary enlistment (with parental consent); no conscription; the king retains the right to call up \"all those capable of bearing arms\" in wartime (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

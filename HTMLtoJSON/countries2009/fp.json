@@ -1,0 +1,591 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The French annexed various Polynesian island groups during the 19th century. In September 1995, France stirred up widespread protests by resuming nuclear testing on the Mururoa atoll after a three-year moratorium. The tests were suspended in January 1996. In recent years, French Polynesia's autonomy has been considerably expanded."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, archipelagoes in the South Pacific Ocean about half way between South America and Australia"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 S, 140 00 W"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "4,167 sq km (118 islands and atolls)"
+      },
+      "land": {
+        "text": "3,827 sq km"
+      },
+      "water": {
+        "text": "340 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than one-third the size of Connecticut"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "2,525 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical, but moderate"
+    },
+    "Terrain": {
+      "text": "mixture of rugged high islands and low islands with reefs"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mont Orohena 2,241 m"
+      }
+    },
+    "Natural resources": {
+      "text": "timber, fish, cobalt, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.75%"
+      },
+      "permanent crops": {
+        "text": "5.5%"
+      },
+      "other": {
+        "text": "93.75% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10 sq km (2003)"
+    },
+    "Natural hazards": {
+      "text": "occasional cyclonic storms in January"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Geography - note": {
+      "text": "includes five archipelagoes (four volcanic, one coral); Makatea in French Polynesia is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Nauru"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "287,032 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "24.3% (male 35,631/female 34,097)"
+      },
+      "15-64 years": {
+        "text": "68.9% (male 102,537/female 95,317)"
+      },
+      "65 years and over": {
+        "text": "6.8% (male 9,821/female 9,629) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "29.1 years"
+      },
+      "male": {
+        "text": "29.4 years"
+      },
+      "female": {
+        "text": "28.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.391% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "15.91 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.73 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "2.73 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "52% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.08 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.02 male(s)/female"
+      },
+      "total population": {
+        "text": "1.06 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "7.55 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "8.67 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "6.38 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "76.71 years"
+      },
+      "male": {
+        "text": "74.26 years"
+      },
+      "female": {
+        "text": "79.29 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.92 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "French Polynesian(s)"
+      },
+      "adjective": {
+        "text": "French Polynesian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Polynesian 78%, Chinese 12%, local French 6%, metropolitan French 4%"
+    },
+    "Religions": {
+      "text": "Protestant 54%, Roman Catholic 30%, other 10%, no religion 6%"
+    },
+    "Languages": {
+      "text": "French 61.1% (official), Polynesian 31.4% (official), Asian languages 1.2%, other 0.3%, unspecified 6% (2002 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 14 and over can read and write"
+      },
+      "total population": {
+        "text": "98%"
+      },
+      "male": {
+        "text": "98%"
+      },
+      "female": {
+        "text": "98% (1977 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Overseas Lands of French Polynesia "
+      },
+      "conventional short form": {
+        "text": "French Polynesia"
+      },
+      "local long form": {
+        "text": "Pays d'outre-mer de la Polynesie Francaise"
+      },
+      "local short form": {
+        "text": "Polynesie Francaise"
+      },
+      "former": {
+        "text": "French Colony of Oceania"
+      }
+    },
+    "Dependency status": {
+      "text": "overseas lands of France; overseas territory of France from 1946-2004"
+    },
+    "Government type": {
+      "text": "NA"
+    },
+    "Capital": {
+      "name": {
+        "text": "Papeete"
+      },
+      "geographic coordinates": {
+        "text": "17 32 S, 149 34 W"
+      },
+      "time difference": {
+        "text": "UTC-10 (5 hours behind Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (overseas lands of France); there are no first-order administrative divisions as defined by the US Government, but there are five archipelagic divisions named Archipel des Marquises, Archipel des Tuamotu, Archipel des Tubuai, Iles du Vent, Iles Sous-le-Vent"
+    },
+    "Independence": {
+      "text": "none (overseas lands of France)"
+    },
+    "National holiday": {
+      "text": "Bastille Day, 14 July (1789)"
+    },
+    "Constitution": {
+      "text": "4 October 1958 (French Constitution)"
+    },
+    "Legal system": {
+      "text": "the laws of France, where applicable, apply"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Nicolas SARKOZY (since 16 May 2007), represented by High Commissioner of the Republic Adolphe COLRAT (since 7 July 2008)"
+      },
+      "head of government": {
+        "text": "President of French Polynesia Oscar TEMARU (since 7 February 2009); President of the Territorial Assembly Eduoard FRITCH (since 12 February 2009)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers; president submits a list of members of the Territorial Assembly for approval by them to serve as ministers"
+      },
+      "elections": {
+        "text": "French president elected by popular vote for a five-year term; high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of the territorial government and the president of the Territorial Assembly are elected by the members of the assembly for five-year terms (no term limits)"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Territorial Assembly or Assemblee Territoriale (57 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 27 January 2008 (first round) and 10 February 2008 (second round) (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Our Home alliance 45.2%, Union for Democracy alliance 37.2%, Popular Rally (Tahoeraa Huiraatira) 17.2% other 0.5%; seats by party - Our Home alliance 27, Union for Democracy alliance 20, Popular Rally 10"
+      },
+      "note": "one seat was elected to the French Senate on 21 September 2008 (next to be held in September 2014); results - percent of vote by party - NA; seats by party - PS 1, independent 1; two seats were elected to the French National Assembly on 10-17 June 2007 (next to be held in 2012); results - percent of vote by party - NA; seats by party - UMP 2"
+    },
+    "note": "the flag of France is used for official occasions",
+    "Judicial branch": {
+      "text": "Court of Appeal or Cour d'Appel; Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for a New Democracy or ADN [Nicole BOUTEAU and Philip SCHYLE](includes the parties The New Star and This Country is Yours); Independent Front for the Liberation of Polynesia (Tavini Huiraatira) [Oscar TEMARU]; New Fatherland Party (Ai'a Api) [Emile VERNAUDON]; Our Home alliance; Popular Rally (Tahoeraa Huiraatira) [Gaston FLOSSE]; Union for Democracy alliance or UPD [Oscar TEMARU]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "FZ, ITUC, PIF (associate member), SPC, UPU, WMO"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas lands of France)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (overseas lands of France)"
+    },
+    "Flag description": {
+      "text": "two narrow red horizontal bands encase a wide white band; centered on the white band is a disk with a blue and white wave pattern on the lower half and a gold and white ray pattern on the upper half; a stylized red, blue, and white ship rides on the wave pattern",
+      "note": "the flag of France is used for official occasions"
+    },
+    "Government - note": {
+      "text": "under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police and justice, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply. Tourism accounts for about one-fourth of GDP and is a primary source of hard currency earnings. Other sources of income are pearl farming and deep-sea commercial fishing. The small manufacturing sector primarily processes agricultural products. The territory benefits substantially from development agreements with France aimed principally at creating new businesses and strengthening social services."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$4.58 billion (2003 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$6.1 billion (2004)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.1% (2002)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$17,500 (2003 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.5%"
+      },
+      "industry": {
+        "text": "20.4%"
+      },
+      "services": {
+        "text": "76.1% (2005)"
+      }
+    },
+    "Labor force": {
+      "text": "116,000 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "13%"
+      },
+      "industry": {
+        "text": "19%"
+      },
+      "services": {
+        "text": "68% (2002)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "11.7% (2005)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$865 million"
+      },
+      "expenditures": {
+        "text": "$644.1 million (1999)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.1% (2006 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "fish; coconuts, vanilla, vegetables, fruits, coffee; poultry, beef, dairy products"
+    },
+    "Industries": {
+      "text": "tourism, pearls, agricultural processing, handicrafts, phosphates"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "650 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "604.5 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "7,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "6,701 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$211 million (2005 est.)"
+    },
+    "Exports - commodities": {
+      "text": "cultured pearls, coconut products, mother-of-pearl, vanilla, shark meat"
+    },
+    "Imports": {
+      "text": "$1.706 billion (2005 est.)"
+    },
+    "Imports - commodities": {
+      "text": "fuels, foodstuffs, machinery and equipment"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Comptoirs Francais du Pacifique francs (XPF) per US dollar - 87.59 (2007), 94.97 (2006), 95.89 (2005), 96.04 (2004), 105.66 (2003)",
+      "note": "pegged at the rate of 119.25 XPF to the euro"
+    },
+    "note": "pegged at the rate of 119.25 XPF to the euro"
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "54,600 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "187,100 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "NA"
+      },
+      "domestic": {
+        "text": "combined fixed and mobile-cellular density is roughly 85 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 689; satellite earth station - 1 Intelsat (Pacific Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 14, shortwave 2 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "7 (plus 17 repeaters) (1997)"
+    },
+    "Internet country code": {
+      "text": ".pf"
+    },
+    "Internet hosts": {
+      "text": "13,796 (2009)"
+    },
+    "Internet users": {
+      "text": "90,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "53 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "47"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "34"
+      },
+      "under 914 m": {
+        "text": "7 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "4 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "2,590 km"
+      },
+      "paved": {
+        "text": "1,735 km"
+      },
+      "unpaved": {
+        "text": "855 km (1999)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "15"
+      },
+      "by type": {
+        "text": "cargo 6, passenger 2, passenger/cargo 5, refrigerated cargo 1, roll on/roll off 1"
+      },
+      "registered in other countries": {
+        "text": "2 (Wallis and Futuna 2) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Papeete"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "79,540 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "65,408"
+      },
+      "females age 16-49": {
+        "text": "64,421 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "2,665"
+      },
+      "female": {
+        "text": "2,552 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of France"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

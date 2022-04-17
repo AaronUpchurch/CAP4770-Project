@@ -1,0 +1,728 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The native Amerindian population of Cuba began to decline after the European discovery of the island by Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions that were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from the US in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his iron rule held the subsequent regime together for nearly five decades. He stepped down as president in February 2008 in favor of his younger brother Raul CASTRO. Cuba's Communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. The country faced a severe economic downturn in 1990 following the withdrawal of former Soviet subsidies worth $4 billion to $6 billion annually. Cuba portrays its difficulties as the result of the US embargo in place since 1961. Illicit migration to the US - using homemade rafts, alien smugglers, air flights, or via the southwest border - is a continuing problem. The US Coast Guard intercepted 2,656 individuals attempting to cross the Straits of Florida in fiscal year 2007."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, 150 km south of Key West, Florida"
+    },
+    "Geographic coordinates": {
+      "text": "21 30 N, 80 00 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "110,860 sq km"
+      },
+      "land": {
+        "text": "109,820 sq km"
+      },
+      "water": {
+        "text": "1,040 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Pennsylvania"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "29 km"
+      },
+      "border countries": {
+        "text": "US Naval Base at Guantanamo Bay 29 km"
+      },
+      "note": "Guantanamo Naval Base is leased by the US and remains part of Cuba"
+    },
+    "note": "Guantanamo Naval Base is leased by the US and remains part of Cuba",
+    "Coastline": {
+      "text": "3,735 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)"
+    },
+    "Terrain": {
+      "text": "mostly flat to rolling plains, with rugged hills and mountains in the southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Pico Turquino 2,005 m"
+      }
+    },
+    "Natural resources": {
+      "text": "cobalt, nickel, iron ore, chromium, copper, salt, timber, silica, petroleum, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "27.63%"
+      },
+      "permanent crops": {
+        "text": "6.54%"
+      },
+      "other": {
+        "text": "65.83% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "8,700 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "38.1 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "8.2  cu km/yr (19%/12%/69%)"
+      },
+      "per capita": {
+        "text": "728  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "the east coast is subject to hurricanes from August to November (in general, the country averages about one hurricane every other year); droughts are common"
+    },
+    "Environment - current issues": {
+      "text": "air and water pollution; biodiversity loss; deforestation"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "largest country in Caribbean and westernmost island of the Greater Antilles"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "11,451,652 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "18.3% (male 1,077,745/female 1,020,393)"
+      },
+      "15-64 years": {
+        "text": "70.4% (male 4,035,691/female 4,030,103)"
+      },
+      "65 years and over": {
+        "text": "11.2% (male 584,478/female 703,242) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "37.3 years"
+      },
+      "male": {
+        "text": "36.6 years"
+      },
+      "female": {
+        "text": "38 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.233% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "11.13 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.24 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.56 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "76% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.83 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "5.82 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "6.51 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "5.09 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "77.45 years"
+      },
+      "male": {
+        "text": "75.19 years"
+      },
+      "female": {
+        "text": "79.85 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.61 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "6,200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea and hepatitis A"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Cuban(s)"
+      },
+      "adjective": {
+        "text": "Cuban"
+      }
+    },
+    "Ethnic groups": {
+      "text": "white 65.1%, mulatto and mestizo 24.8%, black 10.1% (2002 census)"
+    },
+    "Religions": {
+      "text": "nominally 85% Roman Catholic prior to CASTRO assuming power; Protestants, Jehovah's Witnesses, Jews, and Santeria are also represented"
+    },
+    "Languages": {
+      "text": "Spanish"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.8%"
+      },
+      "male": {
+        "text": "99.8%"
+      },
+      "female": {
+        "text": "99.8% (2002 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "16 years"
+      },
+      "male": {
+        "text": "15 years"
+      },
+      "female": {
+        "text": "17 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "9.1% of GDP (2006)"
+    },
+    "People - note": {
+      "text": "illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and over-land via the southwest border"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Cuba "
+      },
+      "conventional short form": {
+        "text": "Cuba"
+      },
+      "local long form": {
+        "text": "Republica de Cuba"
+      },
+      "local short form": {
+        "text": "Cuba"
+      }
+    },
+    "Government type": {
+      "text": "Communist state"
+    },
+    "Capital": {
+      "name": {
+        "text": "Havana"
+      },
+      "geographic coordinates": {
+        "text": "23 07 N, 82 21 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Camaguey, Ciego de Avila, Cienfuegos, Ciudad de La Habana, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana, Las Tunas, Matanzas, Pinar del Rio, Sancti Spiritus, Santiago de Cuba, Villa Clara"
+    },
+    "Independence": {
+      "text": "20 May 1902 (from Spain 10 December 1898; administered by the US from 1898 to 1902); not acknowledged by the Cuban Government as a day of independence"
+    },
+    "National holiday": {
+      "text": "Triumph of the Revolution, 1 January (1959)"
+    },
+    "Constitution": {
+      "text": "24 February 1976; amended July 1992 and June 2002"
+    },
+    "Legal system": {
+      "text": "based on Spanish civil law and influenced by American legal concepts with large elements of Communist legal theory; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "16 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President of the Council of State and President of the Council of Ministers Gen. Raul CASTRO Ruz (president since 24 February 2008); First Vice President of the Council of State and First Vice President of the Council of Ministers Gen. Jose Ramon MACHADO Ventura (since 24 February 2008); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President of the Council of State and President of the Council of Ministers Gen. Raul CASTRO Ruz (president since 24 February 2008); First Vice President of the Council of State and First Vice President of the Council of Ministers Gen. Jose Ramon MACHADO Ventura (since 24 February 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers proposed by the president of the Council of State and appointed by the National Assembly or the 31-member Council of State, elected by the assembly to act on its behalf when it is not in session"
+      },
+      "elections": {
+        "text": "president and vice presidents elected by the National Assembly for a term of five years; election last held 24 February 2008 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "Gen. Raul CASTRO Ruz elected president; percent of legislative vote - 100%; Gen. Jose Ramon MACHADO Ventura elected vice president; percent of legislative vote - 100%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly of People's Power or Asemblea Nacional del Poder Popular (number of seats in the National Assembly is based on population; 614 seats; members elected directly from slates approved by special candidacy commissions to serve five-year terms)",
+      "elections": {
+        "text": "last held 20 January 2008 (next to be held in January 2013)"
+      },
+      "election results": {
+        "text": "Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed"
+      }
+    },
+    "Judicial branch": {
+      "text": "People's Supreme Court or Tribunal Supremo Popular (president, vice president, and other judges are elected by the National Assembly)"
+    },
+    "Political parties and leaders": {
+      "text": "Cuban Communist Party or PCC [Fidel CASTRO Ruz, first secretary]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Human Rights Watch; National Association of Small Farmers"
+    },
+    "International organization participation": {
+      "text": "ACP, FAO, G-77, IAEA, ICAO, ICC, ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNITAR, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "none; note - Cuba has an Interests Section in the Swiss Embassy, headed by Principal Officer Jorge BOLANOS Suarez; address": {
+        "text": "Cuban Interests Section, Swiss Embassy, 2630 16th Street NW, Washington, DC 20009; telephone"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "none; note - the US has an Interests Section in the Swiss Embassy, headed by Chief of Mission Jonathan D. FARRAR; address": {
+        "text": "USINT, Swiss Embassy, Calzada between L and M Streets, Vedado, Havana; telephone"
+      }
+    },
+    "Flag description": {
+      "text": "five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The government continues to balance the need for economic loosening against a desire for firm political control. It has rolled back limited reforms undertaken in the 1990s to increase enterprise efficiency and alleviate serious shortages of food, consumer goods, and services. The average Cuban's standard of living remains at a lower level than before the downturn of the 1990s, which was caused by the loss of Soviet aid and domestic inefficiencies. Since late 2000, Venezuela has been providing oil on preferential terms, and it currently supplies about 100,000 barrels per day of petroleum products. Cuba has been paying for the oil, in part, with the services of Cuban personnel in Venezuela including some 30,000 medical professionals. \r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$96.9 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "Cuba has two currencies in circulation",
+    "GDP (official exchange rate)": {
+      "text": "$54.71 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "12.1% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,500 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "4.4%"
+      },
+      "industry": {
+        "text": "22.8%"
+      },
+      "services": {
+        "text": "72.8% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.962 million",
+      "note": "state sector 78%, non-state sector 22% (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "20%"
+      },
+      "industry": {
+        "text": "19.4%"
+      },
+      "services": {
+        "text": "60.6% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1.8% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "10.5% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$45.42 billion"
+      },
+      "expenditures": {
+        "text": "$49.96 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "36.8% of GDP (2007 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.1% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA%"
+    },
+    "Stock of money": {
+      "text": "$NA"
+    },
+    "Stock of quasi money": {
+      "text": "$NA"
+    },
+    "Stock of domestic credit": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "sugar, tobacco, citrus, coffee, rice, potatoes, beans; livestock"
+    },
+    "Industries": {
+      "text": "sugar, petroleum, tobacco, construction, nickel, steel, cement, agricultural machinery, pharmaceuticals"
+    },
+    "Industrial production growth rate": {
+      "text": "1.9% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "16.89 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "13.93 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "52,630 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "176,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "104,800 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "124 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "400 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "400 million cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "70.79 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$412 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$3.701 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "sugar, nickel, tobacco, fish, medical products, citrus, coffee"
+    },
+    "Exports - partners": {
+      "text": "Canada 27.8%, China 26.6%, Spain 6.2%, Netherlands 5.5% (2008)"
+    },
+    "Imports": {
+      "text": "$10.08 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum, food, machinery and equipment, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Venezuela 30%, China 11.9%, Spain 10.1%, Canada 6.4%, US 6.3% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.747 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$16.79 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$11.24 billion (2006 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$4.138 billion (2006 est.)"
+    },
+    "Exchange rates": {
+      "text": "Cuban pesos (CUP) per US dollar - 0.9259 (2008 est.), 0.9259 (2007), 0.9231 (2006)",
+      "note": "Cuba has two currencies in circulation"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.104 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "331,700 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "greater investment beginning in 1994 and the establishment of a new Ministry of Information Technology and Communications in 2000 has resulted in improvements in the system; wireless service is expensive and must be paid in convertible pesos, which effectively limits mobile cellular subscribership"
+      },
+      "domestic": {
+        "text": "national fiber-optic system under development; 95% of switches digitized by end of 2006; fixed telephone line density remains low at less than 10 per 100 inhabitants; domestic cellular service expanding but remains at only about 3 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 53; fiber-optic cable laid to but not linked to US network; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 169, FM 55, shortwave 1 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "58 (1997)"
+    },
+    "Internet country code": {
+      "text": ".cu"
+    },
+    "Internet hosts": {
+      "text": "3,637 (2009)"
+    },
+    "Internet users": {
+      "text": "1.45 million",
+      "note": "private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled \"intranet\" (2008)"
+    },
+    "note": "private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled \"intranet\" (2008)"
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "136 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "65"
+      },
+      "over 3,047 m": {
+        "text": "7"
+      },
+      "2,438 to 3,047 m": {
+        "text": "9"
+      },
+      "1,524 to 2,437 m": {
+        "text": "17"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "27 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "71"
+      },
+      "914 to 1,523 m": {
+        "text": "13"
+      },
+      "under 914 m": {
+        "text": "58 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 41 km; oil 230 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "8,598 km"
+      },
+      "standard gauge": {
+        "text": "8,322 km 1.435-m gauge (176 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "276 km 1.000-gauge"
+      },
+      "note": "4,533 km of the track is used by sugar plantations; 4,257 km is standard gauge; 276 km is narrow gauge (2006)"
+    },
+    "note": "4,533 km of the track is used by sugar plantations; 4,257 km is standard gauge; 276 km is narrow gauge (2006)",
+    "Roadways": {
+      "total": {
+        "text": "60,858 km"
+      },
+      "paved": {
+        "text": "29,820 km (includes 638 km of expressway)"
+      },
+      "unpaved": {
+        "text": "31,038 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "240 km (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "11"
+      },
+      "by type": {
+        "text": "bulk carrier 2, cargo 3, passenger 1, petroleum tanker 3, refrigerated cargo 2"
+      },
+      "foreign-owned": {
+        "text": "1 (Spain 1)"
+      },
+      "registered in other countries": {
+        "text": "13 (Bahamas 1, Cyprus 1, Netherlands Antilles 1, Panama 10) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cienfuegos, Havana, Matanzas"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR)": {
+        "text": "Revolutionary Army (ER; includes Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT)), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR; includes Marine Corps), Revolutionary Air and Air Defense Force (DAAFAR), Youth Labor Army (Ejercito Juvenil del Trabajo, EJT) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17-28 years of age for compulsory military service; 2-year service obligation; both sexes subject to military service (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "3,094,388"
+      },
+      "females age 16-49": {
+        "text": "3,024,876 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,532,495"
+      },
+      "females age 16-49": {
+        "text": "2,468,631 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "75,969"
+      },
+      "female": {
+        "text": "72,253 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.8% of GDP (2006 est.)"
+    },
+    "Military - note": {
+      "text": "the collapse of the Soviet Union deprived the Cuban Army of its major economic and logistic support and had a significant impact on equipment numbers and serviceability; the army remains well trained and professional in nature; while the lack of replacement parts for its existing equipment and the current severe shortage of fuel have increasingly affected operational capabilities, Cuba remains able to offer considerable resistance to any regional power\r\n (2008)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "US Naval Base at Guantanamo Bay is leased to US and only mutual agreement or US abandonment of the facility can terminate the lease"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Cuba is principally a source country for women and children trafficked within the country for the purpose of commercial sexual exploitation and possibly for forced labor; the country is a destination for sex tourism including child sex tourism, which is a problem in many areas of the country; some Cuban nationals willingly migrate to the United States but are subsequently exploited for forced labor by their smugglers; Cuba is also a transit point for the smuggling of migrants from China, Sri Lanka, Bangladesh, Lebanon, and other nations to the United States and Canada"
+      },
+      "tier rating": {
+        "text": "Tier 3 - Cuba does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; exact information about trafficking in Cuba is difficult to obtain because the government does not acknowledge or condemn human trafficking as a problem in Cuba; tangible efforts to prosecute offenders, protect victims, or prevent human trafficking activity do not appear to have been made during 2007; Cuba has not ratified the 2000 UN TIP Protocol (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "territorial waters and air space serve as transshipment zone for US- and European-bound drugs; established the death penalty for certain drug-related crimes in 1999 (2008)"
+    }
+  }
+}

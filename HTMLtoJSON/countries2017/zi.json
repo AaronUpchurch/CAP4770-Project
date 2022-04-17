@@ -1,0 +1,865 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "In 2005, the capital city of Harare embarked on Operation Restore Order, ostensibly an urban rationalization program, which resulted in the destruction of the homes or businesses of 700,000 mostly poor supporters of the opposition. MUGABE in 2007 instituted price controls on all basic commodities causing panic buying and leaving store shelves empty for months. General elections held in March 2008 contained irregularities but still amounted to a censure of the ZANU-PF-led government with the opposition winning a majority of seats in parliament. Movement for Democratic Change - Tsvangirai opposition leader Morgan TSVANGIRAI won the most votes in the presidential poll, but not enough to win outright. In the lead up to a run-off election in June 2008, considerable violence against opposition party members led to the withdrawal of TSVANGIRAI from the ballot. Extensive evidence of violence and intimidation resulted in international condemnation of the process. Difficult negotiations over a power-sharing \"government of national unity,\" in which MUGABE remained president and TSVANGIRAI became prime minister, were finally settled in February 2009, although the leaders failed to agree upon many key outstanding governmental issues. MUGABE was reelected president in 2013 in balloting that was severely flawed and internationally condemned. As a prerequisite to holding the election, Zimbabwe enacted a new constitution by referendum, although many provisions in the new constitution have yet to be codified in law."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, between South Africa and Zambia"
+    },
+    "Geographic coordinates": {
+      "text": "20 00 S, 30 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "390,757 sq km"
+      },
+      "land": {
+        "text": "386,847 sq km"
+      },
+      "water": {
+        "text": "3,910 sq km"
+      },
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Area - comparative": {
+      "text": "about four times the size of Indiana; slightly larger than Montana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,229 km"
+      },
+      "border countries (4)": {
+        "text": "Botswana 834 km, Mozambique 1,402 km, South Africa 230 km, Zambia 763 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; moderated by altitude; rainy season (November to March)"
+    },
+    "Terrain": {
+      "text": "mostly high plateau with higher central plateau (high veld); mountains in east"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "961 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Inyangani 2,592 m"
+    },
+    "Natural resources": {
+      "text": "coal, chromium ore, asbestos, gold, nickel, copper, iron ore, vanadium, lithium, tin, platinum group metals"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "42.5%"
+      },
+      "text": "arable land 10.9%; permanent crops 0.3%; permanent pasture 31.3%",
+      "forest": {
+        "text": "39.5%"
+      },
+      "other": {
+        "text": "18% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,740 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half"
+    },
+    "Natural hazards": {
+      "text": "recurring droughts; floods and severe storms are rare"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; land degradation; air and water pollution; the black rhinoceros herd - once the largest concentration of the species in the world - has been significantly reduced by poaching; poor mining practices have led to toxic waste and heavy metal pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Zimbabwe"
+      },
+      "conventional short form": {
+        "text": "Zimbabwe"
+      },
+      "former": {
+        "text": "Southern Rhodesia, Rhodesia"
+      },
+      "etymology": {
+        "text": "takes its name from the Kingdom of Zimbabwe (13th-15th century) and its capital of Great Zimbabwe, the largest stone structure in pre-colonial southern Africa"
+      }
+    },
+    "Government type": {
+      "text": "semi-presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Harare"
+      },
+      "geographic coordinates": {
+        "text": "17 49 S, 31 02 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands"
+    },
+    "Independence": {
+      "text": "18 April 1980 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 18 April (1980)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1965 (at Rhodesian independence), 1979 (Lancaster House Agreement), 1980 (at Zimbabwean independence); latest final draft completed January 2013, approved by referendum 16 March 2013, approved by Parliament 9 May 2013, effective 22 May 2013"
+      },
+      "amendments": {
+        "text": "proposed by the Senate or by the House of Assembly; passage requires two-thirds majority vote by the membership of both houses of Parliament and assent by the president of the republic; amendments to constitutional chapters on fundamental human rights and freedoms and on agricultural lands also require approval by a majority of votes cast in a referendum; amended many times, last in 2017 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law, Roman-Dutch civil law, and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Zimbabwe; in the case of a child born out of wedlock, the mother must be a citizen"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Executive President Emmerson MNANGAGWA (since 24 November 2017); First Vice President (vacant); Second Vice President Phelekezela MPHOKO; note - Executive President Robert Gabriel MUGABE (since 31 December 1987) resigned 11/21/17; First Vice President Emmerson MNANGAGWA was dismissed by President MUGABE on 6 November 2017"
+      },
+      "head of government": {
+        "text": "Executive President Emmerson MNANGAGWA (since 24 November 2017); note - following the 31 July 2013 presidential election, the position of prime minister was abolished"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by president, responsible to House of Assembly"
+      },
+      "elections/appointments": {
+        "text": "each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 31 July 2013 (next to be held in 2018); co-vice presidents drawn from party leadership"
+      },
+      "election results": {
+        "text": "Robert Gabriel MUGABE reelected president; percent of vote - Robert Gabriel MUGABE (ZANU-PF) 61.1%, Morgan TSVANGIRAI (MDC-T) 34.4%, Welshman NCUBE (MDC-N) 2.7%, other 1.8%; note - the election process was considered flawed and roundly criticized by election monitors and international bodies; both the African Union and the South African Development Community endorsed the results of the election with some concerns"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of the Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms) and the House of Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 31 July 2013 (next to be held in 2018)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - ZANU-PF 37, MDC-T 21, MDC-N 2, chiefs 18, people with disabilities 2; House of Assembly - percent of vote by party - ZANU-PF 62.4%, MDC-T 30.3%, MDC-N 4.7%, other 0.7%, independent 1.9%; seats by party - ZANU-PF 196, MDC-T 70, MDC-N 2, independent 2"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges appointed by the president upon recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms"
+      },
+      "subordinate courts": {
+        "text": "High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Zimbabwe People First or ZimFirst [Maxwell SHUMBA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Zimbabwe Lawyers for Human Rights or ZLHR [Roselyn HANZI]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Ammon MUTEMBWA (since 18 November 2014)"
+      },
+      "chancery": {
+        "text": "1608 New Hampshire Avenue NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-7100"
+      },
+      "FAX": {
+        "text": "[1] (202) 483-9326"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Harry K. THOMAS, Jr. (since 25 February 2016)"
+      },
+      "embassy": {
+        "text": "172 Herbert Chitepo Avenue, Harare"
+      },
+      "mailing address": {
+        "text": "P.O. Box 3340, Harare"
+      },
+      "telephone": {
+        "text": "[263] (4) 250-593 through 250-594"
+      },
+      "FAX": {
+        "text": "[263] (4) 796-488, or 722-618"
+      }
+    },
+    "Flag description": {
+      "text": "seven equal horizontal bands of green, yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green represents agriculture, yellow mineral wealth, red the blood shed to achieve independence, and black stands for the native people"
+    },
+    "National symbol(s)": {
+      "text": "Zimbabwe bird symbol, African fish eagle, flame lily; national colors: green, yellow, red, black, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Kalibusiswe Ilizwe leZimbabwe\" [Northern Ndebele language] \"Simudzai Mureza WeZimbabwe\" [Shona] (Blessed Be the Land of Zimbabwe)"
+      },
+      "lyrics/music": {
+        "text": "Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA"
+      },
+      "note": {
+        "text": "adopted 1994"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Zimbabwe\u2019s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government\u2019s Indigenization and Economic Empowerment Act."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$30.98 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$16.12 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,300 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Gross national saving": {
+      "text": "3.8% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "83.8%"
+      },
+      "government consumption": {
+        "text": "21.6%"
+      },
+      "investment in fixed capital": {
+        "text": "13.5%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "25.9%"
+      },
+      "imports of goods and services": {
+        "text": "-44.9% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "12.5%"
+      },
+      "industry": {
+        "text": "27%"
+      },
+      "services": {
+        "text": "60.6% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "tobacco, corn, cotton, wheat, coffee, sugarcane, peanuts; sheep, goats, pigs"
+    },
+    "Industries": {
+      "text": "mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel; wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages"
+    },
+    "Industrial production growth rate": {
+      "text": "-3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Labor force": {
+      "text": "7.701 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "66%"
+      },
+      "industry": {
+        "text": "10%"
+      },
+      "services": {
+        "text": "24% (1996)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "80% (2005 est.)",
+      "note": {
+        "text": "data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable"
+      },
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Population below poverty line": {
+      "text": "72.3% (2012 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2%"
+      },
+      "highest 10%": {
+        "text": "40.4% (1995)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.1 (1995)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.5 billion"
+      },
+      "expenditures": {
+        "text": "$4.9 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "24.7% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-9.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Public debt": {
+      "text": "59.4% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-2.8% (2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "975% (31 December 2007)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "17% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$2.192 billion (31 December 2015 est.)",
+      "note": {
+        "text": "Zimbabwe's central bank no longer publishes data on monetary aggregates, except for bank deposits, which amounted to $2.1 billion in November 2010; the Zimbabwe dollar stopped circulating in early 2009; since then, the US dollar and South African rand have been the most frequently used currencies; there are no reliable estimates of the amount of foreign currency circulating in Zimbabwe"
+      },
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$3.753 billion (31 December 2016 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$5.203 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$10.9 billion (31 December 2011 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Current account balance": {
+      "text": "$-1.519 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Exports": {
+      "text": "$3.614 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Exports - commodities": {
+      "text": "platinum, cotton, tobacco, gold, ferroalloys, textiles/clothing"
+    },
+    "Exports - partners": {
+      "text": "South Africa 79.5%, Mozambique 9.5%, UAE 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$6.062 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, other manufactures, chemicals, fuels, food products"
+    },
+    "Imports - partners": {
+      "text": "South Africa 46.6%, Zambia 24% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$433.8 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Debt - external": {
+      "text": "$8.735 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$3.199 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$238.6 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Exchange rates": {
+      "text": "",
+      "note": {
+        "text": "the dollar was adopted as a legal currency in 2009; since then the Zimbabwean dollar has experienced hyperinflation and is essentially worthless"
+      }
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "8,500,000"
+      },
+      "electrification - total population": {
+        "text": "40%"
+      },
+      "electrification - urban areas": {
+        "text": "80%"
+      },
+      "electrification - rural areas": {
+        "text": "21% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "9.384 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "7.63 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Electricity - exports": {
+      "text": "1.239 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.139 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "2.129 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "58% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "215"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "37.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "29,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "26,390 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "215"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "215"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "212"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "11 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "305,720"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "2 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "12,878,926"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "89 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "competition has driven rapid expansion of telecommunications, particularly cellular voice and mobile broadband, in recent years; continued economic instability and infrastructure limitations, such as reliable power, hinder progress"
+      },
+      "domestic": {
+        "text": "consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; 3G and VoIP services are widely available with 4G/LTE service being deployed"
+      },
+      "international": {
+        "text": "country code - 263; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges; fiber-optic connections to neighboring states provide access to international networks via undersea cable (2017)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV are available to those who can afford antennas and receivers; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)"
+    },
+    "Internet country code": {
+      "text": ".zw"
+    },
+    "Internet users": {
+      "total": {
+        "text": "3,363,256"
+      },
+      "percent of population": {
+        "text": "23.1% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "88"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "4"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "370,164"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "962,642 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "Z (2016)"
+    },
+    "Airports": {
+      "text": "196 (2013)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "7 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "179"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "104"
+      },
+      "under 914 m": {
+        "text": "72 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "refined products 270 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,427 km"
+      },
+      "narrow gauge": {
+        "text": "3,427 km 1.067-m gauge (313 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "97,267 km"
+      },
+      "paved": {
+        "text": "18,481 km"
+      },
+      "unpaved": {
+        "text": "78,786 km (2002)"
+      },
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Waterways": {
+      "text": "(some navigation possible on Lake Kariba) (2011)"
+    },
+    "Ports and terminals": {
+      "river port(s)": {
+        "text": "Binga, Kariba (Zambezi)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "2.26% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Military branches": {
+      "text": "Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18-24 years of age for voluntary military service; no conscription; women are eligible to serve (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "5,925 (Democratic Republic of Congo) (2016)"
+      },
+      "IDPs": {
+        "text": "undetermined (political violence, violence in association with the 2008 election, human rights violations, land reform, and economic collapse) (2015)"
+      },
+      "stateless persons": {
+        "text": "300,000 (2016)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries"
+      },
+      "tier rating": {
+        "text": "Tier 3 - Zimbabwe does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government passed an anti-trafficking law in 2014 defining trafficking in persons as a crime of transportation and failing to capture the key element of the international definition of human trafficking \u2013 the purpose of exploitation \u2013 which prevents the law from being comprehensive or consistent with the 2000 UN TIP Protocol that Zimbabwe acceded to in 2013; the government did not report on anti-trafficking law enforcement efforts during 2014, and corruption in law enforcement and the judiciary remain a concern; authorities made minimal efforts to identify and protect trafficking victims, relying on NGOs to identify and assist victims; Zimbabwe\u2019s 2014 anti-trafficking law required the opening of 10 centers for trafficking victims, but none were established during the year; five existing shelters for vulnerable children and orphans may have accommodated child victims; in January 2015, an inter-ministerial anti-trafficking committee was established, but it is unclear if the committee ever met or initiated any activities (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit point for cannabis and South Asian heroin, mandrax, and methamphetamines en route to South Africa"
+    }
+  }
+}

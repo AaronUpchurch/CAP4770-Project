@@ -1,0 +1,635 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The island hosts one of four dedicated ground antennas (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US)) that assist in the operation of the Global Positioning System (GPS) navigation system. NASA and the US Air Force also operate a Meter-Class Autonomous Telescope (MCAT) on Ascension as part of the deep space surveillance system for tracking orbital debris, which can be a hazard to spacecraft and astronauts.",
+      "Saint Helena": {
+        "text": "Uninhabited when first discovered by the Portuguese in 1502, Saint Helena was garrisoned by the British during the 17th century. It acquired fame as the place of Napoleon BONAPARTE's exile from 1815 until his death in 1821, but its importance as a port of call declined after the opening of the Suez Canal in 1869. During the Anglo-Boer War in South Africa, several thousand Boer prisoners were confined on the island between 1900 and 1903."
+      },
+      "Ascension Island": {
+        "text": "This barren and uninhabited island was discovered and named by the Portuguese in 1503. The British garrisoned the island in 1815 to prevent a rescue of Napoleon from Saint Helena. It served as a provisioning station for the Royal Navy's West Africa Squadron on anti-slavery patrol. The island remained under Admiralty control until 1922, when it became a dependency of Saint Helena. During World War II, the UK permitted the US to construct an airfield on Ascension in support of transatlantic flights to Africa and anti-submarine operations in the South Atlantic. In the 1960s the island became an important space tracking station for the US. In 1982, Ascension was an essential staging area for British forces during the Falklands War. It remains a critical refueling point in the air-bridge from the UK to the South Atlantic."
+      },
+      "Tristan da Cunha": {
+        "text": "The island group consists of Tristan da Cunha, Nightingale, Inaccessible, and Gough Islands. Tristan da Cunha, named after its Portuguese discoverer (1506), was garrisoned by the British in 1816 to prevent any attempt to rescue Napoleon from Saint Helena. Gough and Inaccessible Islands have been designated World Heritage Sites. South Africa leases a site for a meteorological station on Gough Island."
+      }
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "islands in the South Atlantic Ocean, about midway between South America and Africa; Ascension Island lies 1,300 km (800 mi) northwest of Saint Helena; Tristan da Cunha lies 4,300 km (2,700 mi) southwest of Saint Helena"
+    },
+    "Geographic coordinates": {
+      "Saint Helena": {
+        "text": "15 57 S, 5 42 W"
+      },
+      "Ascension Island": {
+        "text": "7 57 S, 14 22 W"
+      },
+      "Tristan da Cunha island group": {
+        "text": "37 15 S, 12 30 W"
+      }
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "394 sq km"
+      },
+      "land": {
+        "text": "Saint Helena Island 122 sq km; Ascension Island 88 sq km; Tristan da Cunha island group 184 sq km (includes Tristan (98 sq km), Inaccessible, Nightingale, and Gough islands)"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "Saint Helena": {
+        "text": "60 km"
+      },
+      "Ascension Island": {
+        "text": "NA"
+      },
+      "Tristan da Cunha (island only)": {
+        "text": "34 km"
+      }
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "Saint Helena": {
+        "text": "tropical marine; mild, tempered by trade winds"
+      },
+      "Ascension Island": {
+        "text": "tropical marine; mild, semi-arid"
+      },
+      "Tristan da Cunha": {
+        "text": "temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena)"
+      }
+    },
+    "Terrain": {
+      "text": "the islands of this group are of volcanic origin associated with the Atlantic Mid-Ocean Ridge",
+      "Saint Helena": {
+        "text": "rugged, volcanic; small scattered plateaus and plains"
+      },
+      "Ascension": {
+        "text": "surface covered by lava flows and cinder cones of 44 dormant volcanoes; terrain rises to the east"
+      },
+      "Tristan da Cunha": {
+        "text": "sheer cliffs line the coastline of the nearly circular island; the flanks of the central volcanic peak are deeply dissected; narrow coastal plain lies between The Peak and the coastal cliffs"
+      }
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Queen Mary's Peak on Tristan da Cunha 2,060 m; Green Mountain on Ascension Island 859 m; Mount Actaeon on Saint Helena Island 818 m"
+    },
+    "Natural resources": {
+      "text": "fish, lobster"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "30.8%"
+      },
+      "text": "arable land 10.3%; permanent crops 0%; permanent pasture 20.5%",
+      "forest": {
+        "text": "5.1%"
+      },
+      "other": {
+        "text": "64.1% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "0 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas"
+    },
+    "Natural hazards": {
+      "text": "active volcanism on Tristan da Cunha",
+      "volcanism": {
+        "text": "the island volcanoes of Tristan da Cunha (2,060 m) and Nightingale Island (365 m) experience volcanic activity; Tristan da Cunha erupted in 1962 and Nightingale in 2004"
+      }
+    },
+    "Environment - current issues": {
+      "text": "development threatens unique biota on Saint Helena"
+    },
+    "Geography - note": {
+      "text": "Saint Helena harbors at least 40 species of plants unknown elsewhere in the world; Ascension is a breeding ground for sea turtles and sooty terns; Queen Mary's Peak on Tristan da Cunha is the highest island mountain in the South Atlantic and a prominent landmark on the sea lanes around southern Africa"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Saint Helena, Ascension, and Tristan da Cunha"
+      },
+      "conventional short form": {
+        "text": "none"
+      },
+      "etymology": {
+        "text": "Saint Helena was discovered in 1502 by Galician navigator Joao da NOVA, sailing in the service of the Kingdom of Portugal, who named it \"Santa Helena\"; Ascension was named in 1503 by Portuguese navigator Afonso de ALBUQUERQUE who sighted the island on the Feast Day of the Ascension; Tristan da Cunha was discovered in 1506 by Portuguese explorer Tristao da CUNHA who christened the main island after himself (the name was subsequently anglicized)"
+      }
+    },
+    "Dependency status": {
+      "text": "overseas territory of the UK"
+    },
+    "Government type": {
+      "text": "parliamentary democracy (Legislative Council); limited self-governing overseas territory of the UK"
+    },
+    "Capital": {
+      "name": {
+        "text": "Jamestown"
+      },
+      "geographic coordinates": {
+        "text": "15 56 S, 5 43 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "3 administrative areas; Ascension, Saint Helena, Tristan da Cunha"
+    },
+    "Independence": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "National holiday": {
+      "text": "Birthday of Queen ELIZABETH II, third Monday in April (1926)"
+    },
+    "Constitution": {
+      "text": "several previous; latest effective 1 September 2009 (The St. Helena, Ascension and Tristan da Cunha Constitution Order 2009) (2016)"
+    },
+    "Legal system": {
+      "text": "English common law and local statutes"
+    },
+    "Citizenship": {
+      "text": "see United Kingdom"
+    },
+    "Suffrage": {
+      "text": "18 years of age"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952)"
+      },
+      "head of government": {
+        "text": "Governor Lisa PHILLIPS (since 25 April 2016)"
+      },
+      "cabinet": {
+        "text": "Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council"
+      },
+      "elections/appointments": {
+        "text": "none; the monarchy is hereditary; governor appointed by the monarch"
+      },
+      "note": {
+        "text": "the constitution order provides for an administrator for Ascension and Tristan da Cunha appointed by the governor"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)"
+      },
+      "note": {
+        "text": "the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha"
+      },
+      "elections": {
+        "text": "last held on 26 July 2017 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats by party - independent 12"
+      }
+    },
+    "Judicial branch": {
+      "highest resident court(s)": {
+        "text": "Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice - a non-resident - and NA judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)"
+      },
+      "judge selection and term of office": {
+        "text": "Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of Queen ELIZABETH II; justices of both courts appointed until retirement at age 70 but terms can be extended"
+      },
+      "subordinate courts": {
+        "text": "Magistrate's Court; Small Claims Court; Juvenile Court"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "none"
+    },
+    "Political pressure groups and leaders": {
+      "text": "private sector; unions"
+    },
+    "International organization participation": {
+      "text": "UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (overseas territory of the UK)"
+    },
+    "Flag description": {
+      "text": "blue with the flag of the UK in the upper hoist-side quadrant and the Saint Helenian shield centered on the outer half of the flag; the upper third of the shield depicts a white plover (wire bird) on a yellow field; the remainder of the shield depicts a rocky coastline on the left, offshore is a three-masted sailing ship with sails furled but flying an English flag"
+    },
+    "National symbol(s)": {
+      "text": "Saint Helena plover (bird)"
+    },
+    "National anthem": {
+      "note": {
+        "text": "as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The economy depends largely on financial assistance from the UK, which amounted to about $27 million in FY06/07 or more than twice the level of annual budgetary revenues. The local population earns income from fishing, raising livestock, and sales of handicrafts. Because there are few jobs, 25% of the work force has left to seek employment on Ascension Island, on the Falklands, and in the UK."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$31.1 million (FY09/10 est.)",
+      "country comparison to the world": {
+        "text": "227"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$NA"
+    },
+    "GDP - real growth rate": {
+      "text": "NA%"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,800 (FY09/10 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber"
+    },
+    "Industries": {
+      "text": "construction, crafts (furniture, lacework, fancy woodwork), fishing, collectible postage stamps"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Labor force": {
+      "text": "2,486 (1998 est.)",
+      "country comparison to the world": {
+        "text": "227"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "6%"
+      },
+      "industry": {
+        "text": "48%"
+      },
+      "services": {
+        "text": "46% (1987 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "14% (1998 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.857 million"
+      },
+      "expenditures": {
+        "text": "$21.76 million"
+      },
+      "note": {
+        "text": "revenue data reflect locally raised revenues only; the budget deficit is resolved by grant aid from the UK (FY06/07 est.)"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4% (2012 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Exports": {
+      "text": "$19 million (2004 est.)",
+      "country comparison to the world": {
+        "text": "213"
+      }
+    },
+    "Exports - commodities": {
+      "text": "fish (frozen, canned, and salt-dried skipjack, tuna), coffee, handicrafts"
+    },
+    "Imports": {
+      "text": "$20.53 million (2010 est.)",
+      "country comparison to the world": {
+        "text": "221"
+      }
+    },
+    "Imports - commodities": {
+      "text": "food, beverages, tobacco, fuel oils, animal feed, building materials, motor vehicles and parts, machinery and parts"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "0.63 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity - production": {
+      "text": "10 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "9.3 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "8,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "100% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "203"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "80 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "84.68 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "12,080 Mt (2012 est.)",
+      "country comparison to the world": {
+        "text": "212"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total": {
+        "text": "2,758"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "35 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "2,499"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "32 (July 2016 est.)"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "can communicate worldwide"
+      },
+      "domestic": {
+        "text": "automatic digital network"
+      },
+      "international": {
+        "text": "country code (Saint Helena) - 290, (Ascension Island) - 247; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2010)"
+      }
+    },
+    "Broadcast media": {
+      "text": "Saint Helena has no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially; Ascension Island has no local TV station but has 1 local radio station and receives relays of broadcasts from 1 radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) are available, as well as TV services for the US military; Tristan da Cunha has 1 local radio station and receives BFBS TV and radio broadcasts (2007)"
+    },
+    "Internet country code": {
+      "text": ".sh; note - Ascension Island assigned .ac"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1,800"
+      },
+      "percent of population": {
+        "text": "23.1% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Communications - note": {
+      "text": "South Africa maintains a meteorological station on Gough Island"
+    }
+  },
+  "Energy ": {
+    "Civil aircraft registration country code prefix": {
+      "text": "VQ-H (2016)"
+    },
+    "Airports": {
+      "text": "2 (2015)",
+      "country comparison to the world": {
+        "text": "232"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "over 3,047 m": {
+        "text": "1 Ascension Island - Wideawake Field (ASI)"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 Saint Helena (HLE); note - weekly commercial air service to South Africa via Namibia commenced on 14 October 2017 (2017)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)"
+      },
+      "paved": {
+        "text": "168 km (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)"
+      },
+      "unpaved": {
+        "text": "30 km (Saint Helena 20 km, Tristan da Cunha 10 km) (2002)"
+      },
+      "country comparison to the world": {
+        "text": "210"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": ""
+      },
+      "Saint Helena": {
+        "text": "Jamestown"
+      },
+      "Ascension Island": {
+        "text": "Georgetown"
+      },
+      "Tristan da Cunha": {
+        "text": "Calshot Harbor (Edinburgh)"
+      }
+    },
+    "Transportation - note": {
+      "text": "the new airport on Saint Helena opened for limited operations in July 2016, and the first commercial flight took place on 14 October 2017, marking the start of weekly air service between Saint Helena and South Africa via Namibia; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections making it one of the most isolated communities on the planet"
+    }
+  },
+  "Communications ": {
+    "Military - note": {
+      "text": "defense is the responsibility of the UK"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

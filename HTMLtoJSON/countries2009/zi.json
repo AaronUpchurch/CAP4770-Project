@@ -1,0 +1,730 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The UK annexed Southern Rhodesia from the [British] South Africa Company in 1923. A 1961 constitution was formulated that favored whites in power. In 1965 the government unilaterally declared its independence, but the UK did not recognize the act and demanded more complete voting rights for the black African majority in the country (then called Rhodesia). UN sanctions and a guerrilla uprising finally led to free elections in 1979 and independence (as Zimbabwe) in 1980. Robert MUGABE, the nation's first prime minister, has been the country's only ruler (as president since 1987) and has dominated the country's political system since independence. His chaotic land redistribution campaign, which began in 2000, caused an exodus of white farmers, crippled the economy, and ushered in widespread shortages of basic commodities. Ignoring international condemnation, MUGABE rigged the 2002 presidential election to ensure his reelection. The ruling ZANU-PF party used fraud and intimidation to win a two-thirds majority in the March 2005 parliamentary election, allowing it to amend the constitution at will and recreate the Senate, which had been abolished in the late 1980s. In April 2005, Harare embarked on Operation Restore Order, ostensibly an urban rationalization program, which resulted in the destruction of the homes or businesses of 700,000 mostly poor supporters of the opposition. President MUGABE in June 2007 instituted price controls on all basic commodities causing panic buying and leaving store shelves empty for months. General elections held in March 2008 contained irregularities but still amounted to a censure of the ZANU-PF-led government with significant gains in opposition seats in parliament. MDC opposition leader Morgan TSVANGIRAI won the presidential polls, and may have won an out right majority, but official results posted by the Zimbabwe Electoral Committee did not reflect this. In the lead up to a run-off election in late June 2008, considerable violence enacted against opposition party members led to the withdrawal of TSVANGIRAI from the ballot. Extensive evidence of vote tampering and ballot-box stuffing resulted in international condemnation of the process. Difficult negotiations over a power sharing agreement, allowing MUGABE to remain as president and creating the new position of prime minister for TSVANGIRAI, were finally settled in February 2009."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, between South Africa and Zambia"
+    },
+    "Geographic coordinates": {
+      "text": "20 00 S, 30 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "390,757 sq km"
+      },
+      "land": {
+        "text": "386,847 sq km"
+      },
+      "water": {
+        "text": "3,910 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Montana"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,066 km"
+      },
+      "border countries": {
+        "text": "Botswana 813 km, Mozambique 1,231 km, South Africa 225 km, Zambia 797 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical; moderated by altitude; rainy season (November to March)"
+    },
+    "Terrain": {
+      "text": "mostly high plateau with higher central plateau (high veld); mountains in east"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "junction of the Runde and Save rivers 162 m"
+      },
+      "highest point": {
+        "text": "Inyangani 2,592 m"
+      }
+    },
+    "Natural resources": {
+      "text": "coal, chromium ore, asbestos, gold, nickel, copper, iron ore, vanadium, lithium, tin, platinum group metals"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "8.24%"
+      },
+      "permanent crops": {
+        "text": "0.33%"
+      },
+      "other": {
+        "text": "91.43% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,740 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "20 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "4.21  cu km/yr (14%/7%/79%)"
+      },
+      "per capita": {
+        "text": "324  cu m/yr (2002)"
+      }
+    },
+    "Natural hazards": {
+      "text": "recurring droughts; floods and severe storms are rare"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; soil erosion; land degradation; air and water pollution; the black rhinoceros herd - once the largest concentration of the species in the world - has been significantly reduced by poaching; poor mining practices have led to toxic waste and heavy metal pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "11,392,629",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.9% (male 2,523,119/female 2,473,928)"
+      },
+      "15-64 years": {
+        "text": "52.2% (male 2,666,928/female 3,283,474)"
+      },
+      "65 years and over": {
+        "text": "3.9% (male 194,360/female 250,820) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "17.6 years"
+      },
+      "male": {
+        "text": "16.3 years"
+      },
+      "female": {
+        "text": "18.8 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.53% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "31.49 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "16.19 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA",
+      "note": "there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "37% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.81 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female"
+      },
+      "total population": {
+        "text": "0.9 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "32.31 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "34.9 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "29.64 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "45.77 years"
+      },
+      "male": {
+        "text": "46.36 years"
+      },
+      "female": {
+        "text": "45.16 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.69 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "15.3% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1.3 million (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "140,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Zimbabwean(s)"
+      },
+      "adjective": {
+        "text": "Zimbabwean"
+      }
+    },
+    "Ethnic groups": {
+      "text": "African 98% (Shona 82%, Ndebele 14%, other 2%), mixed and Asian 1%, white less than 1%"
+    },
+    "Religions": {
+      "text": "syncretic (part Christian, part indigenous beliefs) 50%, Christian 25%, indigenous beliefs 24%, Muslim and other 1%"
+    },
+    "Languages": {
+      "text": "English (official), Shona, Sindebele (the language of the Ndebele, sometimes called Ndebele), numerous but minor tribal dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write English"
+      },
+      "total population": {
+        "text": "90.7%"
+      },
+      "male": {
+        "text": "94.2%"
+      },
+      "female": {
+        "text": "87.2% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "9 years"
+      },
+      "male": {
+        "text": "9 years"
+      },
+      "female": {
+        "text": "9 years (2003)"
+      }
+    },
+    "Education expenditures": {
+      "text": "4.6% of GDP (2000)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Zimbabwe "
+      },
+      "conventional short form": {
+        "text": "Zimbabwe"
+      },
+      "former": {
+        "text": "Southern Rhodesia, Rhodesia"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Harare"
+      },
+      "geographic coordinates": {
+        "text": "17 50 S, 31 03 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands"
+    },
+    "Independence": {
+      "text": "18 April 1980 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 18 April (1980)"
+    },
+    "Constitution": {
+      "text": "21 December 1979"
+    },
+    "Legal system": {
+      "text": "mixture of Roman-Dutch and English common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Executive President Robert Gabriel MUGABE (since 31 December 1987); Vice President Joseph MSIKA (since December 1999) and Vice President Joyce MUJURU (since 6 December 2004)"
+      },
+      "head of government": {
+        "text": "Prime Minister Morgan TSVANGIRAI (since 11 February 2009); Deputy Prime Minister Arthur MUTAMBARA"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president; responsible to the House of Assembly"
+      },
+      "elections": {
+        "text": "presidential candidates nominated with a nomination paper signed by at least 10 registered voters (at least one from each province) and elected by popular vote for a five-year term (no term limits); elections last held 28 March 2008 followed by a run-off on 27 June 2008 (next to be held in 2013); co-vice presidents appointed by the president"
+      },
+      "election results": {
+        "text": "Robert Gabriel MUGABE reelected president; percent of vote - Robert Gabriel MUGABE 85.5%, Morgan TSVANGIRAI 9.3%, other 5.2%; note - first round voting results - Morgan TSVANGIRAI 47.9%, Robert Gabriel MUGABE 43.2%, Simba MAKONI 8.3%, other 0.6%; first-round round polls were deemed to be flawed suppressing TSVANGIRAI's results; the 27 June 2008 run-off between MUGABE and TSVANGIRAI were severely flawed and internationally condemned"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of a Senate (93 seats - 60 elected by popular vote for a five-year term, 10 provincial governors nominated by the president, 16 traditional chiefs elected by the Council of Chiefs, 2 held by the president and deputy president of the Council of Chiefs, and 5 appointed by the president) and a House of Assembly (210 seats - all elected by popular vote for five-year terms)",
+      "elections": {
+        "text": "last held 28 March 2008 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - MDC 51.6%, ZANU-PF 45.8%, other 2.6%; seats by party - MDC 30, ZANU-PF 30; House of Assembly - percent of vote by party - MDC 51.3%, ZANU-PF 45.8%, other 2.9%; seats by party - MDC 109, ZANU-PF 97, other 4"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; High Court"
+    },
+    "Political parties and leaders": {
+      "text": "African National Party or ANP [Egypt DZINEMUNHENZVA]; Movement for Democratic Change or MDC [Morgan TSVANGIRAI]; Movement for Democratic Change - Mutambara or MDC-M [splinter faction under Arthur MUTAMBARA]; Peace Action is Freedom for All or PAFA; United Parties [Abel MUZOREWA]; United People's Party or UPP [Daniel SHUMBA]; Zimbabwe African National Union-Ndonga or ZANU-Ndonga [Wilson KUMBULA]; Zimbabwe African National Union-Patriotic Front or ZANU-PF [Robert Gabriel MUGABE]; Zimbabwe African Peoples Union or ZAPU [Agrippa MADLELA]; Zimbabwe Youth in Alliance or ZIYA"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Crisis in Zimbabwe Coalition [Xolani ZITHA]; National Constitutional Assembly or NCA [Lovemore MADHUKU]; Women of Zimbabwe Arise or WOZA [Jenny WILLIAMS]; Zimbabwe Congress of Trade Unions or ZCTU [Wellington CHIBEBE]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Machivenyika MAPURANGA"
+      },
+      "chancery": {
+        "text": "1608 New Hampshire Avenue NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-7100"
+      },
+      "FAX": {
+        "text": "[1] (202) 483-9326"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador James D. MCGEE"
+      },
+      "embassy": {
+        "text": "172 Herbert Chitepo Avenue, Harare"
+      },
+      "mailing address": {
+        "text": "P. O. Box 3340, Harare"
+      },
+      "telephone": {
+        "text": "[263] (4) 250-593 through 250-594"
+      },
+      "FAX": {
+        "text": "[263] (4) 796-488, or 722-618"
+      }
+    },
+    "Flag description": {
+      "text": "seven equal horizontal bands of green, yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green symbolizes agriculture, yellow - mineral wealth, red - blood shed to achieve independence, and black stands for the native people"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The government of Zimbabwe faces a wide variety of difficult economic problems as it struggles with an unsustainable fiscal deficit, an overvalued official exchange rate, hyperinflation, and bare store shelves. Its 1998-2002 involvement in the war in the Democratic Republic of the Congo drained hundreds of millions of dollars from the economy. The government's land reform program, characterized by chaos and violence, has badly damaged the commercial farming sector, the traditional source of exports and foreign exchange and the provider of 400,000 jobs, turning Zimbabwe into a net importer of food products. The EU and the US provide food aid on humanitarian grounds. Badly needed support from the IMF has been suspended because of the government's arrears on past loans and the government's unwillingness to enact reforms that would stabilize the economy. The Reserve Bank of Zimbabwe routinely prints money to fund the budget deficit, causing the official annual inflation rate to rise from 32% in 1998, to 133% in 2004, 585% in 2005, past 1,000% in 2006, and 26,000% in November 2007, and to 11.2 million percent in 2008. Meanwhile, the official exchange rate fell from approximately 1 (revalued) Zimbabwean dollar per US dollar in 2003 to 30,000 per US dollar in September 2007."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.371 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "these are official exchange rates; non-official rates vary significantly",
+    "GDP (official exchange rate)": {
+      "text": "$10.58 billion",
+      "note": "hyperinflation and the plunging value of the Zimbabwean dollar makes Zimbabwe's GDP at the official exchange rate a highly inaccurate statistic (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-4.6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "18.1%"
+      },
+      "industry": {
+        "text": "22.6%"
+      },
+      "services": {
+        "text": "59.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.039 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "66%"
+      },
+      "industry": {
+        "text": "10%"
+      },
+      "services": {
+        "text": "24% (1996)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "80% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "68% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2%"
+      },
+      "highest 10%": {
+        "text": "40.4% (1995)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.1 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "17.7% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$941,600"
+      },
+      "expenditures": {
+        "text": "$1.092 million (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "52.3% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "12,563% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "975% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "578.96% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$14.18 billion (31 December 2007)",
+      "note": "this number reflects the vastly overvalued official exchange rate of 30,000 Zimbabwe dollars per US dollar; at an unofficial rate of 800,000 Zimbabwe dollars per US dollar, the stock of Zimbabwe dollars would equal only about US$500 million and Zimbabwe's velocity of money (the number of times money turns over in the course of a year) would be nine, in line with the velocity of money for other countries in the region"
+    },
+    "Stock of quasi money": {
+      "text": "$5.349 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$24.91 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$26.56 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "corn, cotton, tobacco, wheat, coffee, sugarcane, peanuts; sheep, goats, pigs"
+    },
+    "Industries": {
+      "text": "mining (coal, gold, platinum, copper, nickel, tin, clay, numerous metallic and nonmetallic ores), steel; wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages"
+    },
+    "Industrial production growth rate": {
+      "text": "-14.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "8.89 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "10.89 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "32 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.691 billion kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "13,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "13,830 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$494.8 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$1.467 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "platinum, cotton, tobacco, gold, ferroalloys, textiles/clothing"
+    },
+    "Exports - partners": {
+      "text": "South Africa 32.1%, Democratic Republic of the Congo 9.7%, Botswana 8.7%, China 5.6%, Zambia 4.8%, Japan 4.5%, Italy 4.4%, US 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$1.975 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, other manufactures, chemicals, fuels"
+    },
+    "Imports - partners": {
+      "text": "South Africa 60.1%, China 4.2%, Botswana 3.7% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$117 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.155 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Zimbabwean dollars (ZWD) per US dollar - NA (2008 est.), 30,000 (2007), 162.07 (2006), 77.965 (2005), 5.729 (2004)",
+      "note": "these are official exchange rates; non-official rates vary significantly"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "354,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.655 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "system was once one of the best in Africa, but now suffers from poor maintenance; more than 100,000 outstanding requests for connection despite an equally large number of installed but unused main lines"
+      },
+      "domestic": {
+        "text": "consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, and a substantial mobile-cellular network; Internet connection is available in Harare and planned for all major towns and for some of the smaller ones"
+      },
+      "international": {
+        "text": "country code - 263; satellite earth stations - 2 Intelsat; 2 international digital gateway exchanges (in Harare and Gweru)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 7, FM 20 (plus 17 repeater stations), shortwave 1 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "16 (1997)"
+    },
+    "Internet country code": {
+      "text": ".zw"
+    },
+    "Internet hosts": {
+      "text": "29,094 (2009)"
+    },
+    "Internet users": {
+      "text": "1.421 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "215 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "19"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "9 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "196"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "119"
+      },
+      "under 914 m": {
+        "text": "74 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "refined products 270 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,077 km"
+      },
+      "narrow gauge": {
+        "text": "3,077 km 1.067-m gauge (313 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "97,267 km"
+      },
+      "paved": {
+        "text": "18,481 km"
+      },
+      "unpaved": {
+        "text": "78,786 km (2002)"
+      }
+    },
+    "Waterways": {
+      "text": "on Lake Kariba (2008)"
+    },
+    "Ports and terminals": {
+      "text": "Binga, Kariba"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Zimbabwe Defense Forces (ZDF)": {
+        "text": "Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ), Zimbabwe Republic Police (ZRP) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-24 years of age for compulsory military service; women are eligible to serve (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "3,264,258"
+      },
+      "females age 16-49": {
+        "text": "3,048,049 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,198,727"
+      },
+      "females age 16-49": {
+        "text": "1,436,232 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "149,592"
+      },
+      "female": {
+        "text": "149,717 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.8% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Botswana built electric fences and South Africa has placed military along the border to stem the flow of thousands of Zimbabweans fleeing to find work and escape political persecution; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "2,500 (Democratic Republic of Congo)"
+      },
+      "IDPs": {
+        "text": "569,685 (MUGABE-led political violence, human rights violations, land reform, and economic collapse) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Zimbabwe is a source, transit, and destination country for men, women, and children trafficked for the purposes of forced labor and sexual exploitation; large scale migration of Zimbabweans to surrounding countries - as they flee a progressively more desperate situation at home - has increased; rural Zimbabwean men, women, and children are trafficked internally to farms for agricultural labor and domestic servitude and to cities for domestic labor and commercial sexual exploitation; young men and boys are trafficked to South Africa for farm work, often laboring for months in South Africa without pay before \"employers\" have them arrested and deported as illegal immigrants; young women and girls are lured abroad with false employment offers that result in involuntary domestic servitude or commercial sexual exploitation; men, women, and children from neighboring states are trafficked through Zimbabwe en route to South Africa"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Zimbabwe is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat severe forms of human trafficking, and because the absolute number of victims of severe forms of trafficking is significantly increasing; the trafficking situation in the country is worsening as more of the population is made vulnerable by declining socio-economic conditions (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transit point for cannabis and South Asian heroin, mandrax, and methamphetamines en route to South Africa\r\n"
+    }
+  }
+}

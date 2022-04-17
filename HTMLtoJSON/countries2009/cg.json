@@ -1,0 +1,725 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Established as a Belgian colony in 1908, the Republic of the Congo gained its independence in 1960, but its early years were marred by political and social instability. Col. Joseph MOBUTU seized power and declared himself president in a November 1965 coup. He subsequently changed his name - to MOBUTU Sese Seko - as well as that of the country - to Zaire. MOBUTU retained his position for 32 years through several sham elections, as well as through the use of brutal force. Ethnic strife and civil war, touched off by a massive inflow of refugees in 1994 from fighting in Rwanda and Burundi, led in May 1997 to the toppling of the MOBUTU regime by a rebellion backed by Rwanda and Uganda and fronted by Laurent KABILA. He renamed the country the Democratic Republic of the Congo (DRC), but in August 1998 his regime was itself challenged by a second insurrection again backed by Rwanda and Uganda. Troops from Angola, Chad, Namibia, Sudan, and Zimbabwe intervened to support KABILA's regime. A cease-fire was signed in July 1999 by the DRC, Congolese armed rebel groups, Angola, Namibia, Rwanda, Uganda, and Zimbabwe but sporadic fighting continued. Laurent KABILA was assassinated in January 2001 and his son, Joseph KABILA, was named head of state. In October 2002, the new president was successful in negotiating the withdrawal of Rwandan forces occupying eastern Congo; two months later, the Pretoria Accord was signed by all remaining warring parties to end the fighting and establish a government of national unity. A transitional government was set up in July 2003. Joseph KABILA as president and four vice presidents represented the former government, former rebel groups, the political opposition, and civil society. The transitional government held a successful constitutional referendum in December 2005 and elections for the presidency, National Assembly, and provincial legislatures in 2006. KABILA was inaugurated president in December 2006. The National Assembly was installed in September 2006. Its president, Vital KAMERHE, was chosen in December. Provincial assemblies were constituted in early 2007, and elected governors and national senators in January 2007."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Africa, northeast of Angola"
+    },
+    "Geographic coordinates": {
+      "text": "0 00 N, 25 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "2,344,858 sq km"
+      },
+      "land": {
+        "text": "2,267,048 sq km"
+      },
+      "water": {
+        "text": "77,810 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than one-fourth the size of the US"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "10,730 km"
+      },
+      "border countries": {
+        "text": "Angola 2,511 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province), Burundi 233 km, Central African Republic 1,577 km, Republic of the Congo 2,410 km, Rwanda 217 km, Sudan 628 km, Tanzania 459 km, Uganda 765 km, Zambia 1,930 km"
+      }
+    },
+    "Coastline": {
+      "text": "37 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "boundaries with neighbors"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)"
+    },
+    "Terrain": {
+      "text": "vast central basin is a low-lying plateau; mountains in east"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Pic Marguerite on Mont Ngaliema (Mount Stanley) 5,110 m"
+      }
+    },
+    "Natural resources": {
+      "text": "cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold, silver, zinc, manganese, tin, uranium, coal, hydropower, timber"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.86%"
+      },
+      "permanent crops": {
+        "text": "0.47%"
+      },
+      "other": {
+        "text": "96.67% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "110 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "1,283 cu km (2001)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.36  cu km/yr (53%/17%/31%)"
+      },
+      "per capita": {
+        "text": "6  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "periodic droughts in south; Congo River floods (seasonal); in the east, in the Great Rift Valley, there are active volcanoes"
+    },
+    "Environment - current issues": {
+      "text": "poaching threatens wildlife populations; water pollution; deforestation; refugees responsible for significant deforestation, soil erosion, and wildlife poaching; mining of minerals (coltan - a mineral used in creating capacitors, diamonds, and gold) causing environmental damage"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "straddles equator; has narrow strip of land that controls the lower Congo River and is only outlet to South Atlantic Ocean; dense tropical rain forest in central river basin and eastern highlands"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "68,692,542",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "46.9% (male 16,161,301/female 16,038,024)"
+      },
+      "15-64 years": {
+        "text": "50.6% (male 17,289,453/female 17,483,027)"
+      },
+      "65 years and over": {
+        "text": "2.5% (male 699,667/female 1,021,070) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "16.4 years"
+      },
+      "male": {
+        "text": "16.2 years"
+      },
+      "female": {
+        "text": "16.6 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.208% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "42.63 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "11.63 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.07 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "34% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "5.1% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.99 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.68 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "81.21 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "89.11 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "73.07 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "54.36 years"
+      },
+      "male": {
+        "text": "52.58 years"
+      },
+      "female": {
+        "text": "56.2 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "6.2 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "4.2% (2003 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1.1 million (2003 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "100,000 (2003 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria, plague, and African trypanosomiasis (sleeping sickness)"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Congolese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Congolese or Congo"
+      }
+    },
+    "Ethnic groups": {
+      "text": "over 200 African ethnic groups of which the majority are Bantu; the four largest tribes - Mongo, Luba, Kongo (all Bantu), and the Mangbetu-Azande (Hamitic) make up about 45% of the population"
+    },
+    "Religions": {
+      "text": "Roman Catholic 50%, Protestant 20%, Kimbanguist 10%, Muslim 10%, other (includes syncretic sects and indigenous beliefs) 10%"
+    },
+    "Languages": {
+      "text": "French (official), Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba"
+      },
+      "total population": {
+        "text": "67.2%"
+      },
+      "male": {
+        "text": "80.9%"
+      },
+      "female": {
+        "text": "54.1% (2001 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Democratic Republic of the Congo "
+      },
+      "conventional short form": {
+        "text": "DRC"
+      },
+      "local long form": {
+        "text": "Republique Democratique du Congo"
+      },
+      "local short form": {
+        "text": "RDC"
+      },
+      "former": {
+        "text": "Congo Free State, Belgian Congo, Congo/Leopoldville, Congo/Kinshasa, Zaire"
+      },
+      "abbreviation": {
+        "text": "DRC"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kinshasa"
+      },
+      "geographic coordinates": {
+        "text": "4 19 S, 15 18 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (six hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 provinces (provinces, singular - province) and 1 city* (ville); Bandundu, Bas-Congo, Equateur, Kasai-Occidental, Kasai-Oriental, Katanga, Kinshasa*, Maniema, Nord-Kivu, Orientale, Sud-Kivu",
+      "note": "according to the Constitution adopted in December 2005, the current administrative divisions will be subdivided into 26 new provinces by 2009"
+    },
+    "note": "Joseph KABILA succeeded his father, Laurent Desire KABILA, following the latter's assassination in January 2001; negotiations with rebel leaders led to the establishment of a transitional government in July 2003 with free elections held on 30 July 2006 and a run-off on 29 October 2006 confirming Joseph KABILA as president",
+    "Independence": {
+      "text": "30 June 1960 (from Belgium)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 30 June (1960)"
+    },
+    "Constitution": {
+      "text": "18 February 2006"
+    },
+    "Legal system": {
+      "text": "civil law based on Belgian law with Napleonic Civil Code influence; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Joseph KABILA (since 17 January 2001); note - following the assassination of his father, Joseph KABILA succeeded to the presidency which he retained through the 2003-06 transition; he was subsequently elected president in October 2006"
+      },
+      "head of government": {
+        "text": "Prime Minister Adolphe MUZITO (since 10 October 2008)"
+      },
+      "cabinet": {
+        "text": "Ministers of State appointed by the president"
+      },
+      "elections": {
+        "text": "under the new constitution the president is elected by popular vote for a five-year term (eligible for a second term); elections last held 30 July 2006 and 29 October 2006 (next to be held in October 2011); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Joseph KABILA elected president; percent of vote (second round) - Joseph KABILA 58%, Jean-Pierre BEMBA Gombo 42%"
+      },
+      "note": "Joseph KABILA succeeded his father, Laurent Desire KABILA, following the latter's assassination in January 2001; negotiations with rebel leaders led to the establishment of a transitional government in July 2003 with free elections held on 30 July 2006 and a run-off on 29 October 2006 confirming Joseph KABILA as president"
+    },
+    "Legislative branch": {
+      "text": "bicameral legislature consists of a Senate (108 seats; members elected by provincial assemblies to serve five-year terms) and a National Assembly (500 seats; 61 members elected by majority vote in single-member constituencies, 439 members elected by open list proportional-representation in multi-member constituencies; to serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held 19 January 2007 (next to be held by 2012); National Assembly - last held 30 July 2006 (next to be held in July 2011)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, independents 26, others 18 (political parties that won a single seat); National Assembly - percent of vote by party - NA; seats by party - PPRD 111, MLC 64, PALU 34, MSR 27, FR 26, RCD 15, independents 63, others 160 (includes 63 political parties that won 10 or fewer seats)"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; Appeals Court or Cour de Cassation; Council of State; High Military Court; plus civil and military courts and tribunals"
+    },
+    "Political parties and leaders": {
+      "text": "Christian Democrat Party or PDC [Jose ENDUNDO]; Congolese Rally for Democracy or RCD [Azarias RUBERWA]; Convention of Christian Democrats or CDC; Forces of Renewal or FR [Mbusa NYAMWISI]; Movement for the Liberation of the Congo or MLC [Jean-Pierre BEMBA]; People's Party for Reconstruction and Democracy or PPRD [Joseph KABILA]; Social Movement for Renewal or MSR [Pierre LUMBI]; Unified Lumumbist Party or PALU [Antoine GIZENGA]; Union for Democracy and Social Progress or UDPS [Etienne TSHISEKEDI]; Union of Mobutuist Democrats or UDEMO [MOBUTU Nzanga]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "MONUC - UN organization working with the government; FARDC (Forces Arm\u00e9es de la R\u00e9publique D\u00e9mocratique du Congo) - Army of the Democratic Republic of the Congo which commits atrocities on citizens; FDLA (Forces Democratiques de Liberation du Rwanda) - Rwandan militia group"
+    },
+    "International organization participation": {
+      "text": "ACCT, ACP, AfDB, AU, CEPGL, COMESA, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO (suspended), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Faida MITIFU"
+      },
+      "chancery": {
+        "text": "Suite 601, 1726 M Street, NW, Washington, DC, 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-7690 through 7691"
+      },
+      "FAX": {
+        "text": "[1] (202) 234-2609"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador William GARVELINK"
+      },
+      "embassy": {
+        "text": "310 Avenue des Aviateurs, Kinshasa"
+      },
+      "mailing address": {
+        "text": "Unit 31550, APO AE 09828"
+      },
+      "telephone": {
+        "text": "[243] (81) 225-5872"
+      },
+      "FAX": {
+        "text": "[243] (81) 301-0561"
+      }
+    },
+    "Flag description": {
+      "text": "sky blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow, five-pointed star appears in the upper hoist corner"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy of the Democratic Republic of the Congo - a nation endowed with vast potential wealth - is slowly recovering from two decades of decline. Conflict that began in August 1998 has dramatically reduced national output and government revenue, increased external debt, and resulted in the deaths of more than 5 million people from violence, famine, and disease. Foreign businesses curtailed operations due to uncertainty about the outcome of the conflict, lack of infrastructure, and the difficult operating environment. Conditions began to improve in late 2002 with the withdrawal of a large portion of the invading foreign troops. The transitional government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms, although progress has been slow and the International Monetary Fund curtailed their program for the DRC at the end of March 2006 because of fiscal overruns. Much economic activity still occurs in the informal sector, and is not reflected in GDP data. Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth from 2006-2008, however, renewed strife in the second half of 2008, combined with a fall in world market prices for the DRC's key mineral exports inflicted major damage on the economy and halted growth. Government reforms may lead to increased government revenues, outside budget assistance, and foreign direct investment, although an uncertain legal framework, corruption, a lack of transparency in government policy are long-term problems. The DRC government has applied to the IMF for an Exogenous Shock Facility in the amount of $200 million to help it deal with its deteriorating financial situation, and the World Bank will consider a separate $100 million in emergency funding. The global recession probably will cut economic growth in 2009 to half its 2008 level."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$18.32 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$11.63 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "55%"
+      },
+      "industry": {
+        "text": "11%"
+      },
+      "services": {
+        "text": "34% (2000 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "23.53 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$700 million"
+      },
+      "expenditures": {
+        "text": "$2 billion (2006 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "16.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA"
+    },
+    "Stock of money": {
+      "text": "$597 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$677.9 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$559.5 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "coffee, sugar, palm oil, rubber, tea, quinine, cassava (tapioca), palm oil, bananas, root crops, corn, fruits; wood products"
+    },
+    "Industries": {
+      "text": "mining (diamonds, gold, copper, cobalt, coltan, zinc), mineral processing, consumer products (including textiles, footwear, cigarettes, processed foods and beverages), cement, commercial ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "8.217 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "5.997 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.916 billion kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "6 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "19,960 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "11,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "20,090 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "11,350 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "180 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "991.1 million cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$402 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$1.587 billion (2006)"
+    },
+    "Exports - commodities": {
+      "text": "diamonds, gold, copper, cobalt, wood products, crude oil, coffee"
+    },
+    "Exports - partners": {
+      "text": "China 48.4%, Belgium 15.8%, Finland 9.8%, US 8.3%, Zambia 4.5% (2008)"
+    },
+    "Imports": {
+      "text": "$2.263 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, mining and other machinery, transport equipment, fuels"
+    },
+    "Imports - partners": {
+      "text": "South Africa 28.7%, Belgium 10%, Zambia 7.2%, Zimbabwe 6%, China 5.9%, Kenya 5.1%, France 4.7% (2008)"
+    },
+    "Debt - external": {
+      "text": "$10 billion (2006 est.)"
+    },
+    "Exchange rates": {
+      "text": "Congolese francs (CDF) per US dollar - NA (2007), 464.69 (2006), 437.86 (2005), 401.04 (2004), 405.34 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "37,300 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "9.263 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fixed line infrastructure inadequate with the state-owned operator providing less than 1 connection per 1000 persons; given the backdrop of a wholly inadequate fixed-line infrastructure, the use of cellular services has surged and subscribership in 2008 approached 9.3 million - roughly 15 per 100 persons"
+      },
+      "domestic": {
+        "text": "barely adequate wire and microwave radio relay service in and between urban areas; domestic satellite system with 14 earth stations"
+      },
+      "international": {
+        "text": "country code - 243; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3, FM 11, shortwave 2 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "4 (2001)"
+    },
+    "Internet country code": {
+      "text": ".cd"
+    },
+    "Internet hosts": {
+      "text": "3,015 (2009)"
+    },
+    "Internet users": {
+      "text": "290,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "194 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "26"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "17"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "168"
+      },
+      "1,524 to 2,437 m": {
+        "text": "19"
+      },
+      "914 to 1,523 m": {
+        "text": "90"
+      },
+      "under 914 m": {
+        "text": "59 (2009)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 37 km; oil 39 km; refined products 756 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "4,007 km"
+      },
+      "narrow gauge": {
+        "text": "3,882 km 1.067-m gauge (858 km electrified); 125 km 1.000-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "153,497 km"
+      },
+      "paved": {
+        "text": "2,794 km"
+      },
+      "unpaved": {
+        "text": "150,703 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "15,000 km (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "petroleum tanker 1"
+      },
+      "foreign-owned": {
+        "text": "1 (Congo, Republic of the 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Banana, Boma, Bukavu, Bumba, Goma, Kalemie, Kindu, Kinshasa, Kisangani, Matadi, Mbandaka"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC)": {
+        "text": "Army, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-45 years of age for voluntary military service (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "14,101,263 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "8,925,355"
+      },
+      "females age 16-49": {
+        "text": "9,047,356 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "814,199"
+      },
+      "female": {
+        "text": "811,238 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lords Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DROC dispute Rukwanzi island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda river claimed by Zambia near the DROC village of Pweto"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "132,295 (Angola); 37,313 (Rwanda); 17,777 (Burundi); 13,904 (Uganda); 6,181 (Sudan); 5,243 (Republic of Congo)"
+      },
+      "IDPs": {
+        "text": "1.4 million (fighting between government forces and rebels since mid-1990s; most IDPs are in eastern provinces) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Democratic Republic of the Congo is a source and destination country for men, women, and children trafficked for the purposes of forced labor and sexual exploitation; much of this trafficking occurs within the country's unstable eastern provinces and is perpetrated by armed groups outside government control"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Democratic Republic of the Congo is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to combat trafficking in persons in 2007; while some significant initial advances were noted, the government's capacity to apprehend, convict, or imprison traffickers remained weak; the government lacks sufficient financial, technical, and human resources to effectively address not only trafficking crimes, but also to provide basic levels of security in some parts of the country (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "one of Africa's biggest producers of cannabis, but mostly for domestic consumption; traffickers exploit lax shipping controls to transit pseudoephedrine through the capital; while rampant corruption and inadequate supervision leaves the banking system vulnerable to money laundering, the lack of a well-developed financial system limits the country's utility as a money-laundering center\r\n (2008)"
+    }
+  }
+}

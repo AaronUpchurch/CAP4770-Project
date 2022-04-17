@@ -1,0 +1,747 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Autonomy for the Swazis of southern Africa was guaranteed by the British in the late 19th century; independence was granted in 1968. Student and labor unrest during the 1990s pressured King MSWATI III, Africa's last absolute monarch, to grudgingly allow political reform and greater democracy, although he has backslid on these promises in recent years. A constitution came into effect in 2006, but the legal status of political parties remains unclear. The African United Democratic Party tried unsuccessfully to register as an official political party in mid 2006. Talks over the constitution broke down between the government and progressive groups in 2007. Swaziland recently surpassed Botswana as the country with the world's highest known HIV/AIDS prevalence rate."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, between Mozambique and South Africa"
+    },
+    "Geographic coordinates": {
+      "text": "26 30 S, 31 30 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "17,364 sq km"
+      },
+      "land": {
+        "text": "17,204 sq km"
+      },
+      "water": {
+        "text": "160 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than New Jersey"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "535 km"
+      },
+      "border countries": {
+        "text": "Mozambique 105 km, South Africa 430 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "varies from tropical to near temperate"
+    },
+    "Terrain": {
+      "text": "mostly mountains and hills; some moderately sloping plains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Great Usutu River 21 m"
+      },
+      "highest point": {
+        "text": "Emlembe 1,862 m"
+      }
+    },
+    "Natural resources": {
+      "text": "asbestos, coal, clay, cassiterite, hydropower, forests, small gold and diamond deposits, quarry stone, and talc"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10.25%"
+      },
+      "permanent crops": {
+        "text": "0.81%"
+      },
+      "other": {
+        "text": "88.94% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "500 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "4.5 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "1.04  cu km/yr (2%/1%/97%)"
+      },
+      "per capita": {
+        "text": "1,010  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "drought"
+    },
+    "Environment - current issues": {
+      "text": "limited supplies of potable water; wildlife populations being depleted because of excessive hunting; overgrazing; soil degradation; soil erosion"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; almost completely surrounded by South Africa"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Swazi(s) "
+      },
+      "adjective": {
+        "text": "Swazi"
+      }
+    },
+    "Ethnic groups": {
+      "text": "African 97%, European 3%"
+    },
+    "Languages": {
+      "text": "English (official, used for government business), siSwati (official)"
+    },
+    "Religions": {
+      "text": "Zionist 40% (a blend of Christianity and indigenous ancestral worship), Roman Catholic 20%, Muslim 10%, other (includes Anglican, Baha'i, Methodist, Mormon, Jewish) 30%"
+    },
+    "Population": {
+      "text": "1,370,424 (July 2011 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected",
+    "Age structure": {
+      "0-14 years": {
+        "text": "37.8% (male 261,762/female 255,828)"
+      },
+      "15-64 years": {
+        "text": "58.6% (male 399,746/female 403,681)"
+      },
+      "65 years and over": {
+        "text": "3.6% (male 20,472/female 28,935) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "20.3 years"
+      },
+      "male": {
+        "text": "19.9 years"
+      },
+      "female": {
+        "text": "20.7 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.204% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "26.63 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "14.6 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "21% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.5% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "MBABANE (capital) 74,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.72 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "420 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "63.09 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "67.14 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "58.93 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "48.66 years"
+      },
+      "male": {
+        "text": "48.93 years"
+      },
+      "female": {
+        "text": "48.39 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.11 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "6.3% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.16 physicians/1,000 population (2004)"
+    },
+    "Hospital bed density": {
+      "text": "2.1 beds/1,000 population (2006)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "8% of population"
+      },
+      "rural": {
+        "text": "39% of population"
+      },
+      "total": {
+        "text": "31% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "39% of population"
+      },
+      "rural": {
+        "text": "47% of population"
+      },
+      "total": {
+        "text": "45% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "25.9% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "180,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "7,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis (2009)"
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "6.1% (2007)"
+    },
+    "Education expenditures": {
+      "text": "7.8% of GDP (2008)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "81.6%"
+      },
+      "male": {
+        "text": "82.6%"
+      },
+      "female": {
+        "text": "80.8% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "10 years (2007)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Swaziland "
+      },
+      "conventional short form": {
+        "text": "Swaziland"
+      },
+      "local long form": {
+        "text": "Umbuso weSwatini"
+      },
+      "local short form": {
+        "text": "eSwatini"
+      }
+    },
+    "Government type": {
+      "text": "monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Mbabane"
+      },
+      "geographic coordinates": {
+        "text": "26 18 S, 31 06 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "note": "Lobamba (royal and legislative capital)"
+    },
+    "note": "adopted 1968; the anthem uses elements of both ethnic Swazi and Western music styles",
+    "Administrative divisions": {
+      "text": "4 districts; Hhohho, Lubombo, Manzini, Shiselweni"
+    },
+    "Independence": {
+      "text": "6 September 1968 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 September (1968)"
+    },
+    "Constitution": {
+      "text": "signed by the King July 2005; went into effect 8 February 2006"
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil, common, and customary law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King MSWATI III (since 25 April 1986)"
+      },
+      "head of government": {
+        "text": "Prime Minister Barnabas Sibusiso DLAMINI (since 16 October 2008)"
+      },
+      "cabinet": {
+        "text": "Cabinet recommended by the prime minister and confirmed by the monarch"
+      },
+      "elections": {
+        "text": "none; the monarchy is hereditary; prime minister appointed by the monarch from among the elected members of the House of Assembly"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament or Libandla consists of the Senate (30 seats; 10 members appointed by the House of Assembly and 20 appointed by the monarch; members to serve five-year terms) and the House of Assembly (65 seats; 10 members appointed by the monarch and 55 elected by popular vote; members to serve five-year terms)",
+      "elections": {
+        "text": "House of Assembly - last held on 19 September 2008 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "House of Assembly - balloting is done on a nonparty basis; candidates for election nominated by the local council of each constituency and for each constituency the three candidates with the most votes in the first round of voting are narrowed to a single winner by a second round"
+      }
+    },
+    "Judicial branch": {
+      "text": "High Court; Supreme Court; judges for both courts are appointed by the monarch"
+    },
+    "Political parties and leaders": {
+      "text": "the status of political parties, previously banned, is unclear under the 2006 Constitution and currently being debated; the following are considered political associations; African United Democratic Party or AUDP [Stanley MAUNDZISA, president]; Imbokodvo National Movement or INM; Ngwane National Liberatory Congress or NNLC [Obed DLAMINI, president]; People's United Democratic Movement or PUDEMO [Mario MASUKU, president]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Swaziland Democracy Campaign; Swaziland Federation of Trade Unions; Swaziland Solidarity Network or SSN"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, COMESA, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC, MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Abednigo Mandla NTSHANGASE"
+      },
+      "chancery": {
+        "text": "1712 New Hampshire Avenue, NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-5002"
+      },
+      "FAX": {
+        "text": "[1] (202) 234-8254"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Earl M. IRVING"
+      },
+      "embassy": {
+        "text": "2350 Mbabane Place, Mbabane"
+      },
+      "mailing address": {
+        "text": "P. O. Box 199, Mbabane"
+      },
+      "telephone": {
+        "text": "[268] 404-2445"
+      },
+      "FAX": {
+        "text": "[268] 404-2059"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence"
+    },
+    "National symbol(s)": {
+      "text": "lion; elephant"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Nkulunkulu Mnikati wetibusiso temaSwati\" (Oh God, Bestower of the Blessings of the Swazi)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT"
+      },
+      "note": "adopted 1968; the anthem uses elements of both ethnic Swazi and Western music styles"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "In this small, landlocked economy, subsistence agriculture occupies approximately 70% of the population. The manufacturing sector has diversified since the mid-1980s. Sugar and wood pulp were major foreign exchange earners; however, the wood pulp producer closed in January 2010, and sugar is now the main export earner. In 2007, the sugar industry increased efficiency and diversification efforts, in response to a 17% decline in EU sugar prices. Mining has declined in importance in recent years with only coal and quarry stone mines remaining active. Surrounded by South Africa, except for a short border with Mozambique, Swaziland is heavily dependent on South Africa from which it receives more than nine-tenths of its imports and to which it sends 60% of its exports. Swaziland's currency is pegged to the South African rand, subsuming Swaziland's monetary policy to South Africa. The government is heavily dependent on customs duties from the Southern African Customs Union (SACU), and worker remittances from South Africa substantially supplement domestically earned income. The government has also legislated that 30% of local pension funds need to be invested in Swaziland, boosting demand for government bonds. Customs revenues plummeted due to the global economic crisis and a drop in South African imports. The resulting decline in revenue has pushed the country into a fiscal crisis. The government has requested assistance from the IMF and from the African Development Bank. With an estimated 40% unemployment rate, Swaziland's need to increase the number and size of small and medium enterprises and attract foreign direct investment is acute. Overgrazing, soil depletion, drought, and floods persist as problems for the future. More than one-fourth of the population needed emergency food aid in 2006-07 because of drought, and more than one-quarter of the adult population has been infected by HIV/AIDS."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$5.881 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$3.553 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "7.4%"
+      },
+      "industry": {
+        "text": "49.4%"
+      },
+      "services": {
+        "text": "43.2% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "457,900 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "70%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "40% (2006 est.)"
+    },
+    "Population below poverty line": {
+      "text": "69% (2006)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.6%"
+      },
+      "highest 10%": {
+        "text": "40.7% (2001)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "50.4 (2001)"
+    },
+    "Investment (gross fixed)": {
+      "text": "16.2% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$970.6 million"
+      },
+      "expenditures": {
+        "text": "$1.517 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "27.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-15.4% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.4% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "11.375% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$317.2 million (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$1.048 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$313.7 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$199.9 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, cotton, corn, tobacco, rice, citrus, pineapples, sorghum, peanuts; cattle, goats, sheep"
+    },
+    "Industries": {
+      "text": "coal, wood pulp, sugar, soft drink concentrates, textiles and apparel"
+    },
+    "Industrial production growth rate": {
+      "text": "1% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "470 million kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.207 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009)"
+    },
+    "Electricity - imports": {
+      "text": "756 million kWh; note - electricity supplied by South Africa (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "4,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,464 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$415.1 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$1.66 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "soft drink concentrates, sugar, wood pulp, cotton yarn, refrigerators, citrus and canned fruit"
+    },
+    "Imports": {
+      "text": "$1.781 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "motor vehicles, machinery, transport equipment, foodstuffs, petroleum products, chemicals"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$958.9 million (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$417.8 million (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "6.85 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "44,000 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "732,700 (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "a somewhat modern but not an advanced system"
+      },
+      "domestic": {
+        "text": "single source for mobile-cellular service with a geographic coverage of about 90% and a rising subscribership base; combined fixed-line and mobile cellular teledensity exceeded 60 telephones per 100 persons in 2009; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay"
+      },
+      "international": {
+        "text": "country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned TV station; satellite dishes are able to access South African providers; state-owned radio network with 3 channels; 1 private radio station (2007)"
+    },
+    "Internet country code": {
+      "text": ".sz"
+    },
+    "Internet hosts": {
+      "text": "2,335 (2010)"
+    },
+    "Internet users": {
+      "text": "90,100 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "15 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "13"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "7 (2010)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "301 km"
+      },
+      "narrow gauge": {
+        "text": "301 km 1.067-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "3,594 km"
+      },
+      "paved": {
+        "text": "1,078 km"
+      },
+      "unpaved": {
+        "text": "2,516 km (2002)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Umbutfo Swaziland Defense Force (USDF)": {
+        "text": "Ground Force (includes Air Wing) (2010)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for male and female voluntary military service; no conscription; compulsory HIV testing required, only HIV-negative applicants accepted (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "344,038 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "201,853"
+      },
+      "females age 16-49": {
+        "text": "175,477 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "16,168"
+      },
+      "female": {
+        "text": "15,763 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "4.7% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in 2006, Swazi king advocates resort to ICJ to claim parts of Mpumalanga and KwaZulu-Natal from South Africa"
+    }
+  }
+}

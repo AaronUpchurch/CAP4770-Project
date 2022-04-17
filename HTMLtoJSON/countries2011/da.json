@@ -1,0 +1,805 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the European Union's Maastricht Treaty, including the European Economic and Monetary Union (EMU), European defense cooperation, and issues concerning certain justice and home affairs."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula north of Germany (Jutland); also includes several major islands (Sjaelland, Fyn, and Bornholm)"
+    },
+    "Geographic coordinates": {
+      "text": "56 00 N, 10 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "43,094 sq km"
+      },
+      "land": {
+        "text": "42,434 sq km"
+      },
+      "water": {
+        "text": "660 sq km"
+      },
+      "note": "includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland"
+    },
+    "note": "includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland",
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Massachusetts"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "68 km"
+      },
+      "border countries": {
+        "text": "Germany 68 km"
+      }
+    },
+    "Coastline": {
+      "text": "7,314 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "temperate; humid and overcast; mild, windy winters and cool summers"
+    },
+    "Terrain": {
+      "text": "low and flat to gently rolling plains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Lammefjord -7 m"
+      },
+      "highest point": {
+        "text": "Mollehoj/Ejer Bavnehoj 171 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, fish, salt, limestone, chalk, stone, gravel and sand"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "52.59%"
+      },
+      "permanent crops": {
+        "text": "0.19%"
+      },
+      "other": {
+        "text": "47.22% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "4,350 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "6.1 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.67  cu km/yr (32%/26%/42%)"
+      },
+      "per capita": {
+        "text": "123  cu m/yr (2002)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flooding is a threat in some areas of the country (e.g., parts of Jutland, along the southern coast of the island of Lolland) that are protected from the sea by a system of dikes"
+    },
+    "Environment - current issues": {
+      "text": "air pollution, principally from vehicle and power plant emissions; nitrogen and phosphorus pollution of the North Sea; drinking and surface water becoming polluted from animal wastes and pesticides"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Dane(s) "
+      },
+      "adjective": {
+        "text": "Danish"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Scandinavian, Inuit, Faroese, German, Turkish, Iranian, Somali"
+    },
+    "Languages": {
+      "text": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
+      "note": "English is the predominant second language"
+    },
+    "note": "English is the predominant second language",
+    "Religions": {
+      "text": "Evangelical Lutheran (official) 95%, other Christian (includes Protestant and Roman Catholic) 3%, Muslim 2%"
+    },
+    "Population": {
+      "text": "5,529,888 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "17.6% (male 500,265/female 474,829)"
+      },
+      "15-64 years": {
+        "text": "65.3% (male 1,811,198/female 1,798,507)"
+      },
+      "65 years and over": {
+        "text": "17.1% (male 417,957/female 527,132) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "40.9 years"
+      },
+      "male": {
+        "text": "40 years"
+      },
+      "female": {
+        "text": "41.8 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.251% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "10.29 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "10.19 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "2.41 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "87% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.4% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "COPENHAGEN (capital) 1.174 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.055 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.78 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "5 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.24 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "4.3 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.18 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "78.63 years"
+      },
+      "male": {
+        "text": "76.25 years"
+      },
+      "female": {
+        "text": "81.14 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.74 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "7% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.419 physicians/1,000 population (2007)"
+    },
+    "Hospital bed density": {
+      "text": "3.57 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "5,300 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "11.4% (2006)"
+    },
+    "Education expenditures": {
+      "text": "7.8% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "17 years"
+      },
+      "male": {
+        "text": "16 years"
+      },
+      "female": {
+        "text": "18 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "11.2%"
+      },
+      "male": {
+        "text": "12.4%"
+      },
+      "female": {
+        "text": "9.9% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Denmark "
+      },
+      "conventional short form": {
+        "text": "Denmark"
+      },
+      "local long form": {
+        "text": "Kongeriget Danmark"
+      },
+      "local short form": {
+        "text": "Danmark"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Copenhagen"
+      },
+      "geographic coordinates": {
+        "text": "55 40 N, 12 35 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      },
+      "note": "applies to continental Denmark only, not to its North Atlantic components"
+    },
+    "note": "Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested",
+    "Administrative divisions": {
+      "text": "metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden, Midtjylland, Nordjylland, Sjaelland, Syddanmark",
+      "note": "an extensive local government reform merged 271 municipalities into 98 and 13 counties into five regions, effective 1 January 2007"
+    },
+    "Independence": {
+      "text": "ca. 965 (unified and Christianized under HARALD I Gormson); 5 June 1849 (became a constitutional monarchy)"
+    },
+    "National holiday": {
+      "text": "none designated; Constitution Day, 5 June (1849) is generally viewed as the National Day"
+    },
+    "Constitution": {
+      "text": "5 June 1953; note - constitution allowed for a unicameral legislature and a female chief of state"
+    },
+    "Legal system": {
+      "text": "civil law; judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK, elder son of the monarch (born on 26 May 1968)"
+      },
+      "head of government": {
+        "text": "Prime Minister Helle THORNING-SCHMIDT (since 3 October 2011)"
+      },
+      "cabinet": {
+        "text": "Council of State appointed by the monarch"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; following legislative elections, the leader of the majority party or the leader of the majority coalition usually appointed prime minister by the monarch"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral People's Assembly or Folketing (179 seats, including 2 from Greenland and 2 from the Faroe Islands; members elected by popular vote on the basis of proportional representation to serve four-year terms unless the Folketing is dissolved earlier)",
+      "elections": {
+        "text": "last held on 15 September 2011 (next to be held by September 2015)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Liberal Party 26.7%, Social Democrats 24.9%, Danish People's Party 12.3%, Social Liberal Party 9.5%, Socialist People's Party 9.2%, Unity List 6.7%, Liberal Alliance 5%, Conservative People's Party 4.9%, other 0.8%; seats by party - Liberal Party 47, Social Democrats 44, Danish People's Party 22, Social Liberal Party 17, Socialist People's Party 16, Unity List 12, Liberal Alliance 9, Conservative People's Party 8; note - does not include the two seats from Greenland and the two seats from the Faroe Islands"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed for life by the monarch)"
+    },
+    "Political parties and leaders": {
+      "text": "Christian Democrats [Bjarne Hartung KIRKEGAARD] (was Christian People's Party); Conservative People's Party [Lars BARFOED]; Danish People's Party [Pia KJAERSGAARD]; Liberal Alliance [Anders SAMUELSEN]; Liberal Party; Social Democratic Party [Helle THORNING-SCHMIDT]; Social Liberal Party [Margrethe VESTAGER]; Socialist People's Party [Villy SOEVNDAL]; Unity List [collective leadership] (bloc includes Left Socialist Party, Communist Party of Denmark, Socialist Workers' Party)"
+    },
+    "Political pressure groups and leaders": {
+      "Confederation of Danish Employers or DA [President Jorn Neergaard LARSEN]; Principal DA member organizations": {
+        "text": "Confederation of Danish Industries [CEO Karsten DYBVAD]; Confederation of Danish Labor Unions [President Harald BORSTING]; Danish Bankers Association [CEO Joergen HORWITZ]; DaneAge Association [President Bjarne HASTRUP]; Danish Society for Nature Conservation [President Ella Maria BISSCHOP-LARSEN]"
+      },
+      "other": {
+        "text": "humanitarian relief; development assistance; human rights NGOs"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CE, CERN, EAPC, EBRD, EIB, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Peter TAKSOE-JENSEN"
+      },
+      "chancery": {
+        "text": "3200 Whitehaven Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-4300"
+      },
+      "FAX": {
+        "text": "[1] (202) 328-1470"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Laurie S. FULTON"
+      },
+      "embassy": {
+        "text": "Dag Hammarskjolds Alle 24, 2100 Copenhagen"
+      },
+      "mailing address": {
+        "text": "PSC 73, APO AE 09716"
+      },
+      "telephone": {
+        "text": "[45] 33 41 71 00"
+      },
+      "FAX": {
+        "text": "[45] 35 43 02 23"
+      }
+    },
+    "Flag description": {
+      "text": "red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign",
+      "note": "the shifted design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden"
+    },
+    "National symbol(s)": {
+      "text": "lion; mute swan"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Der er et yndigt land\" (There is a Lovely Land); \"Kong Christian\" (King Christian)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown"
+      },
+      "note": "Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "This thoroughly modern market economy features a high-tech agricultural sector, state-of-the-art industry with world-leading firms in pharmaceuticals, maritime shipping and renewable energy, and a high dependence on foreign trade. Denmark is a member of the European Union (EU); Danish legislation and regulations conform to EU standards on almost all issues. Danes enjoy among the highest standards of living in the world and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. Denmark is a net exporter of food and energy and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector. Within the EU, Denmark is among the strongest supporters of trade liberalization. After a long consumption-driven upswing, Denmark's economy began slowing in 2007 with the end of a housing boom. Housing prices dropped markedly in 2008-09. The global financial crisis has exacerbated this cyclical slowdown through increased borrowing costs and lower export demand, consumer confidence, and investment. The global financial crises cut Danish GDP by 0.9% in 2008 and 5.2% in 2009. Historically low levels of unemployment rose sharply with the recession but remain below 5%, based on the national measure, about half the level of the EU; harmonized to OECD standards the unemployment rate was about 8% at the end of 2010. Denmark made a modest recovery in 2010 in part because of increased government spending. An impending decline in the ratio of workers to retirees will be a major long-term issue. Denmark maintained a healthy budget surplus for many years up to 2008, but the budget balance swung into deficit during 2009-10. Nonetheless, Denmark's fiscal position remains among the strongest in the EU. Despite previously meeting the criteria to join the European Economic and Monetary Union (EMU), so far Denmark has decided not to join, although the Danish krone remains pegged to the euro."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$208.5 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$310.8 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-1.1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$38,000 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1.2%"
+      },
+      "industry": {
+        "text": "22.1%"
+      },
+      "services": {
+        "text": "76.7% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.852 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.5%"
+      },
+      "industry": {
+        "text": "20.2%"
+      },
+      "services": {
+        "text": "77.3% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.7% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "12.1% (2007)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.9%"
+      },
+      "highest 10%": {
+        "text": "28.7% (2007)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "24.7 (1992)"
+    },
+    "Investment (gross fixed)": {
+      "text": "16.8% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$171.7 billion"
+      },
+      "expenditures": {
+        "text": "$180.7 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "55.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.9% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "41.8% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.3% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "1% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.3% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$158.1 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$197.1 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$713 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$131.5 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "barley, wheat, potatoes, sugar beets; pork, dairy products; fish"
+    },
+    "Industries": {
+      "text": "iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products, shipbuilding and refurbishment, windmills, pharmaceuticals, medical equipment"
+    },
+    "Industrial production growth rate": {
+      "text": "1.6% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "34.15 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "33.41 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "10.88 billion kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "333 million kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "247,500 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "167,500 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "266,700 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "173,900 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "812 million bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "8.171 billion cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "4.948 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "3.52 billion cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "138 million cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "58.13 billion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$11.07 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$92.24 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and instruments, meat and meat products, dairy products, fish, pharmaceuticals, furniture, windmills"
+    },
+    "Exports - partners": {
+      "text": "Germany 17.6%, Sweden 13.8%, UK 8.1%, US 5.9%, Norway 5.6%, Netherlands 4.8%, France 4.7% (2010)"
+    },
+    "Imports": {
+      "text": "$84.16 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, raw materials and semimanufactures for industry, chemicals, grain and foodstuffs, consumer goods"
+    },
+    "Imports - partners": {
+      "text": "Germany 21.1%, Sweden 13.7%, Netherlands 7.3%, China 6.8%, UK 6.1%, Norway 5.5% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$76.65 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$559.5 billion (30 June 2010)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$140.4 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$180.1 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "5.9468 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "2.623 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "6.905 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent telephone and telegraph services"
+      },
+      "domestic": {
+        "text": "buried and submarine cables and microwave radio relay form trunk network, multiple cellular mobile communications systems"
+      },
+      "international": {
+        "text": "country code - 45; a series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2008)"
+      }
+    },
+    "Broadcast media": {
+      "text": "strong public-sector television presence with state-owned Danmarks Radio (DR) operating 4 channels and publicly-owned TV2 operating roughly a half dozen channels; broadcasts of privately-owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 15 digital audio broadcasting stations, and about 15 web-based radio stations; approximately 250 commercial and community radio stations are operational (2007)"
+    },
+    "Internet country code": {
+      "text": ".dk"
+    },
+    "Internet hosts": {
+      "text": "4.145 million (2010)"
+    },
+    "Internet users": {
+      "text": "4.75 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "92 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "28"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "12"
+      },
+      "under 914 m": {
+        "text": "3 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "64"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "61 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 2,858 km; oil 107 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,667 km"
+      },
+      "standard gauge": {
+        "text": "2,667 km 1.435-m gauge (640 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "73,197 km"
+      },
+      "paved": {
+        "text": "73,197 km (includes 1,111 km of expressways) (2008)"
+      }
+    },
+    "Waterways": {
+      "text": "400 km (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "347"
+      },
+      "by type": {
+        "text": "bulk carrier 4, cargo 56, carrier 1, chemical tanker 104, container 87, liquefied gas 4, passenger/cargo 40, petroleum tanker 38, refrigerated cargo 4, roll on/roll off 6, specialized tanker 3"
+      },
+      "foreign-owned": {
+        "text": "32 (Germany 10, Greece 1, Iceland 3, Norway 2, Sweden 16)"
+      },
+      "registered in other countries": {
+        "text": "592 (Antigua and Barbuda 20, Bahamas 59, Belgium 4, Brazil 3, Cyprus 6, Egypt 1, France 12, Georgia 1, Gibraltar 6, Hong Kong 41, Isle of Man 26, Italy 4, Jamaica 1, Liberia 4, Lithuania 8, Malaysia 1, Malta 41, Marshall Islands 7, Mexico 2, Netherlands 36, former Netherlands Antilles 1, Norway 11, Panama 46, Portugal 4, Saint Vincent and the Grenadines 19, Singapore 125, South Africa 1, Spain 2, Sweden 15, UK 46, Uruguay 1, US 34, Venezuela 1, unknown 3) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Aalborg, Aarhus, Copenhagen, Ensted, Esbjerg, Fredericia, Kalundborg"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Defense Command": {
+        "text": "Army Operational Command, Admiral Danish Fleet, Arctic Command, Tactical Air Command, Home Guard (2010)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months according to specialization; reservists are assigned to mobilization units following completion of their conscript service; women eligible to volunteer for military service (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,236,337"
+      },
+      "females age 16-49": {
+        "text": "1,224,182 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,014,560"
+      },
+      "females age 16-49": {
+        "text": "1,003,921 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "37,913"
+      },
+      "female": {
+        "text": "35,865 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.3% of GDP (2007 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Faroese continue to study proposals for full independence; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
+    }
+  }
+}

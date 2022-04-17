@@ -1,0 +1,768 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Settled by Norwegian and Celtic (Scottish and Irish) immigrants during the late 9th and 10th centuries A.D., Iceland boasts the world's oldest functioning legislative assembly, the Althing, established in 930. Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark. Fallout from the Askja volcano of 1875 devastated the Icelandic economy and caused widespread famine. Over the next quarter century, 20% of the island's population emigrated, mostly to Canada and the US. Limited home rule from Denmark was granted in 1874 and complete independence attained in 1944. The second half of the 20th century saw substantial economic growth driven primarily by the fishing industry. The economy diversified greatly after the country joined the European Economic Area in 1994, but Iceland was especially hard hit by the global financial crisis in the years following 2008. Literacy, longevity, and social cohesion are first rate by world standards."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern Europe, island between the Greenland Sea and the North Atlantic Ocean, northwest of the United Kingdom"
+    },
+    "Geographic coordinates": {
+      "text": "65 00 N, 18 00 W"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "103,000 sq km"
+      },
+      "land": {
+        "text": "100,250 sq km"
+      },
+      "water": {
+        "text": "2,750 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Kentucky"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "4,970 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers"
+    },
+    "Terrain": {
+      "text": "mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Hvannadalshnukur 2,110 m (at Vatnajokull glacier)"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, hydropower, geothermal power, diatomite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.07%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "99.93% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "170 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.17  cu km/yr (34%/66%/0%)"
+      },
+      "per capita": {
+        "text": "567  cu m/yr (2003)"
+      }
+    },
+    "Natural hazards": {
+      "text": "earthquakes and volcanic activity",
+      "volcanism": {
+        "text": "Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (elev. 1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (elev. 1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most frequently active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar"
+      }
+    },
+    "Environment - current issues": {
+      "text": "water pollution from fertilizer runoff; inadequate wastewater treatment"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Kyoto Protocol, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Transboundary Air Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification, Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Icelander(s) "
+      },
+      "adjective": {
+        "text": "Icelandic"
+      }
+    },
+    "Ethnic groups": {
+      "text": "homogeneous mixture of descendants of Norse and Celts 94%, population of foreign origin 6%"
+    },
+    "Languages": {
+      "text": "Icelandic, English, Nordic languages, German widely spoken"
+    },
+    "Religions": {
+      "text": "Lutheran Church of Iceland (official) 80.7%, Roman Catholic 2.5%, Reykjavik Free Church 2.4%, Hafnarfjorour Free Church 1.6%, other religions 3.6%, unaffiliated 3%, other or unspecified 6.2% (2006 est.)"
+    },
+    "Population": {
+      "text": "311,058 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "20.2% (male 31,929/female 31,034)"
+      },
+      "15-64 years": {
+        "text": "67.1% (male 105,541/female 103,202)"
+      },
+      "65 years and over": {
+        "text": "12.7% (male 17,974/female 21,378) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "35.6 years"
+      },
+      "male": {
+        "text": "35.2 years"
+      },
+      "female": {
+        "text": "36.1 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.687% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "13.29 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "6.96 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.53 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "93% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.5% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "REYKJAVIK (capital) 198,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.83 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "5 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "3.2 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "3.34 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.05 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "80.9 years"
+      },
+      "male": {
+        "text": "78.72 years"
+      },
+      "female": {
+        "text": "83.17 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.89 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "4.2% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.934 physicians/1,000 population (2008)"
+    },
+    "Hospital bed density": {
+      "text": "5.79 beds/1,000 population (2007)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population"
+      },
+      "rural": {
+        "text": "100% of population"
+      },
+      "total": {
+        "text": "100% of population (2008)"
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.3% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 1,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "12.4% (2002)"
+    },
+    "Education expenditures": {
+      "text": "7.4% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "18 years"
+      },
+      "male": {
+        "text": "17 years"
+      },
+      "female": {
+        "text": "20 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "16%"
+      },
+      "male": {
+        "text": "19.9%"
+      },
+      "female": {
+        "text": "12% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Iceland "
+      },
+      "conventional short form": {
+        "text": "Iceland"
+      },
+      "local long form": {
+        "text": "Lydveldid Island"
+      },
+      "local short form": {
+        "text": "Island"
+      }
+    },
+    "Government type": {
+      "text": "constitutional republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Reykjavik"
+      },
+      "geographic coordinates": {
+        "text": "64 09 N, 21 57 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "8 regions; Austurland, Hofudhborgarsvaedhi, Nordhurland Eystra, Nordhurland Vestra, Sudhurland, Sudhurnes, Vestfirdhir, Vesturland"
+    },
+    "Independence": {
+      "text": "1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 17 June (1944)"
+    },
+    "Constitution": {
+      "text": "16 June 1944, effective 17 June 1944; amended many times"
+    },
+    "Legal system": {
+      "text": "civil law system influenced by the Danish model"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Olafur Ragnar GRIMSSON (since 1 August 1996)"
+      },
+      "head of government": {
+        "text": "Prime Minister Johanna SIGURDARDOTTIR (since 1 February 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the prime minister"
+      },
+      "elections": {
+        "text": "president is elected by popular vote for a four-year term (no term limits); election last held on 28 June 2004 (next to be held in June 2012); note - the presidential election of 28 June 2008 was not held because Olafur Ragnar GRIMSSON had no challengers; he was sworn in on 1 August 2008; following legislative elections, the leader of the majority party or the leader of the majority coalition usually the prime minister"
+      },
+      "election results": {
+        "text": "Olafur Ragnar GRIMSSON elected president; percent of vote - Olafur Ragnar GRIMSSON 85.6%, Baldur AGUSTSSON 12.5%, Astthor MAGNUSSON 1.9%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Althingi (parliament) (63 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held on 25 April 2009 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Social Democratic Alliance 29.8%, Independence Party 23.7%, Left-Green Movement 21.7%, Progressive Party 14.8%, Citizens' Movement 7.2%, other 2.8%; seats by party - Social Democratic Alliance 20, Independence Party 16, Left-Green Alliance 14, Progressive Party 9, Citizens' Movement 4"
+      },
+      "note": "the Citizens' Movement disintegrated in September 2009; three of its former MPs are now represented under the banner of The Movement and the fourth former MP is an independent"
+    },
+    "note": "adopted 1944; the anthem, also known as \"O, Guo vors Lands\" (O, God of Our Land), was originally written and performed in 1874",
+    "Judicial branch": {
+      "text": "Supreme Court or Haestirettur (justices are appointed for life by the president); eight district courts (justices are appointed for life by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "Independence Party or IP [Bjarni BENEDIKTSSON]; Left-Green Movement or LGM [Steingrimur SIGFUSSON]; The Liberal Party [Sigurjon THORDARSON]; The Movement [Birgitta JONSDOTTIR]; Progressive Party or PP [Sigmundur David GUNNLAUGSSON]; Social Democratic Alliance or SDA [Johanna SIGURDARDOTTIR]"
+    },
+    "International organization participation": {
+      "text": "Arctic Council, Australia Group, BIS, CBSS, CE, EAPC, EBRD, EFTA, EU (candidate country), FAO, FATF, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Gudmundur A. STEFANSSON"
+      },
+      "chancery": {
+        "text": "House of Sweden, 2900 K Street NW #509, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-6653"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-6656"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Luis E. ARREAGA"
+      },
+      "embassy": {
+        "text": "Laufasvegur 21, 101 Reykjavik"
+      },
+      "mailing address": {
+        "text": "US Department of State, 5640 Reykjavik Place, Washington, D.C. 20521-5640"
+      },
+      "telephone": {
+        "text": "[354] 562-9100"
+      },
+      "FAX": {
+        "text": "[354] 562-9118"
+      }
+    },
+    "Flag description": {
+      "blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island": {
+        "text": "red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean"
+      }
+    },
+    "National symbol(s)": {
+      "text": "gyrfalcon"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Lofsongur\" (Song of Praise)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON"
+      },
+      "note": "adopted 1944; the anthem, also known as \"O, Guo vors Lands\" (O, God of Our Land), was originally written and performed in 1874"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "Iceland's Scandinavian-type social-market economy combines a capitalist structure and free-market principles with an extensive welfare system. Prior to the 2008 crisis, Iceland had achieved high growth, low unemployment, and a remarkably even distribution of income. The economy depends heavily on the fishing industry, which provides 40% of export earnings, more than 12% of GDP, and employs 7% of the work force. It remains sensitive to declining fish stocks as well as to fluctuations in world prices for its main exports": {
+        "text": "fish and fish products, aluminum, and ferrosilicon. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of software production, biotechnology, and tourism. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector and boosted economic growth, although the financial crisis has put several investment projects on hold. Much of Iceland's economic growth in recent years came as the result of a boom in domestic demand following the rapid expansion of the country's financial sector. Domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies, following the privatization of the banking sector in the early 2000s. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled more than 10 times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. The country secured over $10 billion in loans from the IMF and other countries to stabilize its currency and financial sector, and to back government guarantees for foreign deposits in Icelandic banks. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. GDP fell 3.4% in 2010. Since the collapse of Iceland's financial sector, government economic priorities have included"
+      }
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$13.15 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$12.59 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.4% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$43,200 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "5.5%"
+      },
+      "industry": {
+        "text": "24.7%"
+      },
+      "services": {
+        "text": "69.8% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "181,000 (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "4.8%"
+      },
+      "industry": {
+        "text": "22.2%"
+      },
+      "services": {
+        "text": "73% (2008)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "25 (2005)"
+    },
+    "Investment (gross fixed)": {
+      "text": "13% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$5.322 billion"
+      },
+      "expenditures": {
+        "text": "$6.302 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "42.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-7.8% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "114.9% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "12% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "14.55% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "19% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$4.384 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$24.01 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$54.05 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$5.557 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "potatoes, green vegetables; mutton, chicken, pork, beef, dairy products; fish"
+    },
+    "Industries": {
+      "text": "fish processing; aluminum smelting, ferrosilicon production; geothermal power, hydropower, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "-1% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "16.48 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "16.48 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "17,430 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "1,209 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "15,530 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.436 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$4.05 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "fish and fish products 40%, aluminum, animal products, ferrosilicon, diatomite"
+    },
+    "Exports - partners": {
+      "text": "Netherlands 33.9%, Germany 14.1%, UK 10.1%, Spain 4.7%, US 4.5%, Norway 4.3% (2010)"
+    },
+    "Imports": {
+      "text": "$3.318 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, petroleum products, foodstuffs, textiles"
+    },
+    "Imports - partners": {
+      "text": "Norway 9%, Brazil 8.7%, Netherlands 8.5%, US 8.1%, Germany 7.5%, Denmark 7%, China 6%, Finland 5.4%, Sweden 5.2%, UK 5.1% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.883 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$124.5 billion (30 June 2011)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$9.2 billion (31 December 2008)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$8.8 billion (31 December 2008)"
+    },
+    "Exchange rates": {
+      "text": "70.195 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "204,000 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "348,100 (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network"
+      },
+      "domestic": {
+        "text": "liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market"
+      },
+      "international": {
+        "text": "country code - 354; the CANTAT-3 and FARICE-1 submarine cable systems provide connectivity to Canada, the Faroe Islands, UK, Denmark, and Germany; a planned new section of the Hibernia-Atlantic submarine cable will provide additional connectivity to Canada, US, and Ireland; satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned public television broadcaster operates 1 TV channel nationally; several privately-owned TV stations broadcast nationally and roughly another half-dozen operate locally; about half the households utilize multi-channel cable or satellite TV services; state-owned public radio broadcaster operates 2 national networks and 4 regional stations; 2 privately-owned radio stations operate nationally and another 15 provide more limited coverage (2007)"
+    },
+    "Internet country code": {
+      "text": ".is"
+    },
+    "Internet hosts": {
+      "text": "344,748 (2010)"
+    },
+    "Internet users": {
+      "text": "301,600 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "99 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "93"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "27"
+      },
+      "under 914 m": {
+        "text": "63 (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "12,869 km"
+      },
+      "paved/oiled gravel": {
+        "text": "4,438 km (does not include urban roads)"
+      },
+      "unpaved": {
+        "text": "8,431 km (2009)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "2"
+      },
+      "by type": {
+        "text": "passenger/cargo 2"
+      },
+      "registered in other countries": {
+        "text": "19 (Antigua and Barbuda 9, Belize 2, Denmark 3, Finland 1, Gibraltar 1, Norway 3) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Grundartangi, Hafnarfjordur, Reykjavik"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Icelandic National Police (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "75,337 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "62,781"
+      },
+      "females age 16-49": {
+        "text": "61,511 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "2,277"
+      },
+      "female": {
+        "text": "2,200 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0% of GDP (2005 est.)"
+    },
+    "Military - note": {
+      "text": "Iceland has no standing military force; under a 1951 bilateral agreement - still valid - its defense was provided by the US-manned Icelandic Defense Force (IDF) headquartered at Keflavik; however, all US military forces in Iceland were withdrawn as of October 2006; although wartime defense of Iceland remains a NATO commitment, in April 2007, Iceland and Norway signed a bilateral agreement providing for Norwegian aerial surveillance and defense of Icelandic airspace (2008)\r\n"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+    }
+  }
+}

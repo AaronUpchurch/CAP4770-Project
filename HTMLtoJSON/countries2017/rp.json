@@ -1,0 +1,793 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which has led to a peace accord with the Moro National Liberation Front and ongoing peace talks with the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of the Philippines"
+      },
+      "conventional short form": {
+        "text": "Philippines"
+      },
+      "local long form": {
+        "text": "Republika ng Pilipinas"
+      },
+      "local short form": {
+        "text": "Pilipinas"
+      },
+      "etymology": {
+        "text": "named in honor of King PHILLIP II of Spain by Spanish explorer Ruy LOPEZ de VILLALOBOS, who visited some of the islands in 1543"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Manila"
+      },
+      "geographic coordinates": {
+        "text": "14 36 N, 120 58 E"
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "80 provinces and 39 chartered cities",
+      "provinces": {
+        "text": "Abra, Agusan del Norte, Agusan del Sur, Aklan, Albay, Antique, Apayao, Aurora, Basilan, Bataan, Batanes, Batangas, Biliran, Benguet, Bohol, Bukidnon, Bulacan, Cagayan, Camarines Norte, Camarines Sur, Camiguin, Capiz, Catanduanes, Cavite, Cebu, Compostela, Cotabato, Davao del Norte, Davao del Sur, Davao Oriental, Dinagat Islands, Eastern Samar, Guimaras, Ifugao, Ilocos Norte, Ilocos Sur, Iloilo, Isabela, Kalinga, Laguna, Lanao del Norte, Lanao del Sur, La Union, Leyte, Maguindanao, Marinduque, Masbate, Mindoro Occidental, Mindoro Oriental, Misamis Occidental, Misamis Oriental, Mountain, Negros Occidental, Negros Oriental, Northern Samar, Nueva Ecija, Nueva Vizcaya, Palawan, Pampanga, Pangasinan, Quezon, Quirino, Rizal, Romblon, Samar, Sarangani, Siquijor, Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat, Sulu, Surigao del Norte, Surigao del Sur, Tarlac, Tawi-Tawi, Zambales, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay"
+      },
+      "chartered cities": {
+        "text": "Angeles, Antipolo, Bacolod, Baguio, Butuan, Cagayan de Oro, Caloocan, Cebu, Cotabato, Dagupan, Davao, General Santos, Iligan, Iloilo, Lapu-Lapu, Las Pinas, Lucena, Makati, Malabon, Mandaluyong, Mandaue, Manila, Marikina, Muntinlupa, Naga, Navotas, Olongapo, Ormoc, Paranaque, Pasay, Pasig, Puerto Princesa, Quezon, San Juan, Santiago, Tacloban, Taguig, Valenzuela, Zamboanga (2012)"
+      }
+    },
+    "Independence": {
+      "text": "4 July 1946 (from the US)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from the US"
+    },
+    "Constitution": {
+      "text": "several previous; latest ratified 2 February 1987, effective 11 February 1987 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil, common, Islamic, and customary law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of the Philippines"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2016 (next to be held in May 2022)"
+      },
+      "election results": {
+        "text": "Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel \"Mar\" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Congress or Kongreso consists of the Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years) and the House of Representatives or Kapulungan Ng Mga Kinatawan (297 seats; 238 members directly elected in single-seat constituencies by simple majority vote and 59 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)"
+      },
+      "elections": {
+        "text": "Senate - elections last held on 9 May 2016 (next to be held in May 2019); House of Representatives - elections last held on 9 May 2016 (next to be held in May 2019)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - LP 31.3%, NPC 10.1%, UNA 7.6%, Akbayan 5.0%, other 30.9%, independent 15.1%; seats by party - LP 6, NPC 3, UNA 4, Akbayan 1, other 10; House of Representatives - percent of vote by party - LP 41.7%, NPC 17.0%, UNA 6.6%, NUP 9.7%, NP 9.4%, independent 6.0%, others 10.1%; seats by party - LP 115, NPC 42, NUP 23, NP 24, UNA 11, other 19, independent 4, party-list 59"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of a chief justice and 14 associate justices)"
+      },
+      "judge selection and term of office": {
+        "text": "justices are appointed by the president on the recommendation of the Judicial and Bar Council, a constitutionally created, 6-member body that recommends Supreme Court nominees; justices serve until age 70"
+      },
+      "subordinate courts": {
+        "text": "Court of Appeals; Sandiganbayan (special court for corruption cases of government officials); Court of Tax Appeals; regional, metropolitan, and municipal trial courts; sharia courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Nationalist Alliance or UNA"
+    },
+    "Political pressure groups and leaders": {
+      "text": "People Action (Kilosbayan)"
+    },
+    "International organization participation": {
+      "text": "ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Ad interim Patrick Ang CHUASOTO (since 30 June 2016)"
+      },
+      "chancery": {
+        "text": "1600 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 467-9300"
+      },
+      "FAX": {
+        "text": "[1] (202) 328-7614"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Honolulu, Los Angeles, New Yoek, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Sung KIM (since 6 December 2016)"
+      },
+      "embassy": {
+        "text": "1201 Roxas Boulevard, Manila 1000"
+      },
+      "mailing address": {
+        "text": "PSC 500, FPO AP 96515-1000"
+      },
+      "telephone": {
+        "text": "[63] (2) 301-2000"
+      },
+      "FAX": {
+        "text": "[63] (2) 301-2017"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897",
+      "note": {
+        "text": "in wartime the flag is flown upside down with the red band at the top"
+      }
+    },
+    "National symbol(s)": {
+      "text": "three stars and sun, Philippine eagle; national colors: red, white, blue, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Lupang Hinirang\" (Chosen Land)"
+      },
+      "lyrics/music": {
+        "text": "Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE"
+      },
+      "note": {
+        "text": "music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; although the original lyrics were written in Spanish, later English and Filipino versions were created; today, only the Filipino version is used"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "2016 saw the election of President Rodrigo DUTERTE, who has pledged to make inclusive growth and poverty reduction his top priority. DUTERTE believes that illegal drug use, crime and corruption are key barriers to economic development among the lower income class. This administration wants to reduce the poverty rate to 14% and graduate the economy to upper-middle income status by the end of President DUTERTE\u2019s term in 2022. Key themes under the government\u2019s Ten-Point Socioeconomic Agenda include continuity of macroeconomic policy, tax reform, higher investments in infrastructure and human capital development, and improving competitiveness and the overall ease of doing business. The administration has vowed to address spending bottlenecks and is pushing for congressional passage of a Comprehensive Tax Reform Program to help finance more aggressive infrastructure and social spending, starting in 2018. The government also supports relaxing restrictions on foreign ownership, except for land."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$694.5 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$304.9 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.1% (2014 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,100 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Gross national saving": {
+      "text": "24.3% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "73.6%"
+      },
+      "government consumption": {
+        "text": "11.1%"
+      },
+      "investment in fixed capital": {
+        "text": "24.6%"
+      },
+      "investment in inventories": {
+        "text": "-0.3%"
+      },
+      "exports of goods and services": {
+        "text": "28%"
+      },
+      "imports of goods and services": {
+        "text": "-37% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "9.7%"
+      },
+      "industry": {
+        "text": "30.8%"
+      },
+      "services": {
+        "text": "59.5% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rice, fish, livestock, poultry, bananas, coconut/copra, corn, sugarcane, mangoes, pineapple, cassava"
+    },
+    "Industries": {
+      "text": "semiconductors and electronics assembly, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment"
+    },
+    "Industrial production growth rate": {
+      "text": "8.4% (2016 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Labor force": {
+      "text": "43.2 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "26.9%"
+      },
+      "industry": {
+        "text": "17.5%"
+      },
+      "services": {
+        "text": "55.6% (2016 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.3% (2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Population below poverty line": {
+      "text": "21.6% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.2%"
+      },
+      "highest 10%": {
+        "text": "29.5% (2015 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "46 (2012 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$46.24 billion"
+      },
+      "expenditures": {
+        "text": "$53.68 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "15.2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.4% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Public debt": {
+      "text": "44.8% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "6.19% (31 December 2015)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.58% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$56.56 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$171 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$166.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$318 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Current account balance": {
+      "text": "$7.266 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Exports": {
+      "text": "$43.2 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Exports - commodities": {
+      "text": "semiconductors and electronic products, machinery and transport equipment, wood manufactures, chemicals, processed food and beverages, garments, coconut oil, copper concentrates, seafood, bananas/fruits"
+    },
+    "Exports - partners": {
+      "text": "Japan 20.8%, US 15.5%, Hong Kong 11.7%, China 11%, Singapore 6.6%, Germany 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$66.51 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Imports - commodities": {
+      "text": "electronic products, mineral fuels, machinery and transport equipment, iron and steel, textile fabrics, grains, chemicals, plastic"
+    },
+    "Imports - partners": {
+      "text": "China 17.3%, Japan 11.1%, US 8.4%, Thailand 7.3%, South Korea 6.1%, Singapore 6.1%, Indonesia 5.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$80.67 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Debt - external": {
+      "text": "$77.73 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$58.52 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$41.02 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Exchange rates": {
+      "text": "42.23 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "20,600,000"
+      },
+      "electrification - total population": {
+        "text": "88%"
+      },
+      "electrification - urban areas": {
+        "text": "94%"
+      },
+      "electrification - rural areas": {
+        "text": "82% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "90.8 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "74.15 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "21.21 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "67.5% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "16.9% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "15.6% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Crude oil - production": {
+      "text": "20,000 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "4,942 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "215,800 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "138.5 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "169,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "390,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "13,140 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "186,100 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Natural gas - production": {
+      "text": "2.6 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "3.196 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "98.54 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "88 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "3,835,911"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "4 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "113 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "110 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "good international radiotelephone and submarine cable services; domestic and interisland service adequate"
+      },
+      "domestic": {
+        "text": "telecommunications infrastructure includes the following platforms"
+      },
+      "international": {
+        "text": "country code - 63; a series of submarine cables together provide connectivity to the US, and to countries like Hong Kong, Guam, Singapore, Taiwan, Japan, Brunei, and Malaysia, among others; multiple international gateways (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "multiple national private TV and radio networks; multi-channel satellite and cable TV systems available; more than 400 TV stations; about 1,500 cable TV providers with more than 2 million subscribers, and some 1,400 radio stations; the Philippines adopted Japan\u2019s Integrated Service Digital Broadcast \u2013 Terrestrial standard for digital terrestrial television in November 2013 and is scheduled to complete the switch from analog to digital broadcasting by the end of 2023 (2016)"
+    },
+    "Internet country code": {
+      "text": ".ph"
+    },
+    "Internet users": {
+      "total": {
+        "text": "56,956,436"
+      },
+      "percent of population": {
+        "text": "55.5% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "17"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "11"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "158"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "32,230,986"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "484,190,968 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "RP (2016)"
+    },
+    "Airports": {
+      "text": "247 (2013)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "89"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "8"
+      },
+      "1,524 to 2,437 m": {
+        "text": "33"
+      },
+      "914 to 1,523 m": {
+        "text": "34"
+      },
+      "under 914 m": {
+        "text": "10 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "158"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "56"
+      },
+      "under 914 m": {
+        "text": "99 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 530 km (2014); oil 138 km; refined products 185 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "995 km"
+      },
+      "narrow gauge": {
+        "text": "995 km 1.067-m gauge (484 km are in operation) (2015)"
+      },
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "216,387 km"
+      },
+      "paved": {
+        "text": "61,093 km"
+      },
+      "unpaved": {
+        "text": "155,294 km (2014)"
+      },
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Waterways": {
+      "text": "3,219 km (limited to vessels with draft less than 1.5 m) (2011)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "446"
+      },
+      "by type": {
+        "text": "bulk carrier 76, cargo 152, carrier 12, chemical tanker 27, container 17, liquefied gas 5, passenger 7, passenger/cargo 65, petroleum tanker 44, refrigerated cargo 20, roll on/roll off 11, vehicle carrier 10"
+      },
+      "foreign-owned": {
+        "text": "159 (Bermuda 47, China 4, Denmark 2, Germany 2, Greece 5, Japan 77, Malaysia 1, Netherlands 17, Singapore 1, South Korea 1, Taiwan 1, UAE 1)"
+      },
+      "registered in other countries": {
+        "text": "7 (Cyprus 1, Panama 5, unknown 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Manila (3,976,000) (2015)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.16% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Military branches": {
+      "text": "Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "17-23 years of age (officers 20-24) for voluntary military service; no conscription; applicants must be single male or female Philippine citizens with either 72 college credit hours (enlisted) or a baccalaureate degree (officers) (2013)"
+    },
+    "Maritime threats": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; during 2016, 10 attacks were reported in and around the Philippines including six ships that were boarded, one hijacked, one fired upon, and 18 crew were kidnapped for ransom; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where 12 crew were kidnapped in three incidents during the last quarter of 2016; it is believed the pirates involved are associated with the Abu Sayyaf Group (ASG) terrorist organization; during the first six months of 2017, 13 attacks were reported including 10 ships that were boarded, one was fired upon, 10 crew were kidnapped for ransom and two killed; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Philippines claims sovereignty over Scarborough Reef (also claimed by China together with Taiwan) and over certain of the Spratly Islands, known locally as the Kalayaan (Freedom) Islands, also claimed by China, Malaysia, Taiwan, and Vietnam; the 2002 \"Declaration on the Conduct of Parties in the South China Sea,\" has eased tensions in the Spratly Islands but falls short of a legally binding \"code of conduct\" desired by several of the disputants; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo based on the Sultanate of Sulu's granting the Philippines Government power of attorney to pursue a sovereignty claim on his behalf; maritime delimitation negotiations continue with Palau"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "359,680 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; natural disasters) (2017)"
+      },
+      "stateless persons": {
+        "text": "4,636 (2016); note - stateless persons are descendants of Indonesian migrants"
+      }
+    },
+    "Illicit drugs": {
+      "text": "domestic methamphetamine production has been a growing problem in recent years despite government crackdowns; major consumer of amphetamines; longstanding marijuana producer mainly in rural areas where Manila's control is limited"
+    }
+  }
+}

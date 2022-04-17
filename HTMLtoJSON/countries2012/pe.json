@@ -1,0 +1,855 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Ancient Peru was the seat of several prominent Andean civilizations, most notably that of the Incas whose empire was captured by the Spanish conquistadors in 1533. Peruvian independence was declared in 1821, and remaining Spanish forces were defeated in 1824. After a dozen years of military rule, Peru returned to democratic leadership in 1980, but experienced economic problems and the growth of a violent insurgency. President Alberto FUJIMORI's election in 1990 ushered in a decade that saw a dramatic turnaround in the economy and significant progress in curtailing guerrilla activity. Nevertheless, the president's increasing reliance on authoritarian measures and an economic slump in the late 1990s generated mounting dissatisfaction with his regime, which led to his ouster in 2000. A caretaker government oversaw new elections in the spring of 2001, which ushered in Alejandro TOLEDO Manrique as the new head of government - Peru's first democratically elected president of indigenous Quechuan ethnicity. The presidential election of 2006 saw the return of Alan GARCIA Perez who, after a disappointing presidential term from 1985 to 1990, has overseen a robust macroeconomic performance. In June 2011, former army officer Ollanta HUMALA Tasso was elected president, defeating Keiko FUJIMORI Higuchi, the daughter of Alberto FUJIMORI. Since his election, HUMALA has carried on the sound, market-oriented economic policies of the three preceeding administrations."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western South America, bordering the South Pacific Ocean, between Chile and Ecuador"
+    },
+    "Geographic coordinates": {
+      "text": "10 00 S, 76 00 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "1,285,216 sq km"
+      },
+      "land": {
+        "text": "1,279,996 sq km "
+      },
+      "water": {
+        "text": "5,220 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Alaska"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "7,461 km"
+      },
+      "border countries": {
+        "text": "Bolivia 1,075 km, Brazil 2,995 km, Chile 171 km, Colombia 1,800 km, Ecuador 1,420 km "
+      }
+    },
+    "Coastline": {
+      "text": "2,414 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "varies from tropical in east to dry desert in west; temperate to frigid in Andes"
+    },
+    "Terrain": {
+      "text": "western coastal plain (costa), high and rugged Andes in center (sierra), eastern lowland jungle of Amazon Basin (selva)"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Nevado Huascaran 6,768 m "
+      }
+    },
+    "Natural resources": {
+      "text": "copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash, hydropower, natural gas"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.88%"
+      },
+      "permanent crops": {
+        "text": "0.47% "
+      },
+      "other": {
+        "text": "96.65% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "11,950 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "1,913 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "20.13  cu km/yr (8%/10%/82%)"
+      },
+      "per capita": {
+        "text": "720  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "earthquakes, tsunamis, flooding, landslides, mild volcanic activity",
+      "volcanism": {
+        "text": "volcanic activity in the Andes Mountains; Ubinas (elev. 5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane "
+      }
+    },
+    "Environment - current issues": {
+      "text": "deforestation (some the result of illegal logging); overgrazing of the slopes of the costa and sierra leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Peruvian(s) "
+      },
+      "adjective": {
+        "text": "Peruvian "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Amerindian 45%, mestizo (mixed Amerindian and white) 37%, white 15%, black, Japanese, Chinese, and other 3%"
+    },
+    "Languages": {
+      "text": "Spanish (official) 84.1%, Quechua (official) 13%, Aymara (official) 1.7%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.7%, other 0.2% (2007 Census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 81.3%, Evangelical 12.5%, other 3.3%, unspecified or none 2.9% (2007 Census)"
+    },
+    "Demographic profile": {
+      "text": "Peru was a country of immigration in the 19th and early 20th centuries, but has become a country of emigration in the last few decades. Beginning in the 19th century, Peru brought in Asian contract laborers mainly to work on coastal plantations. Populations of Chinese and Japanese descent - among the largest in Latin America - are economically and culturally influential in Peru today. Peruvian emigration began rising in the 1980s due to an economic crisis and a violent internal conflict, but outflows have stabilized in the last few years as economic conditions have improved. Nonetheless, more than 2 million Peruvians have emigrated in the last decade, principally to the US, Spain, and Argentina. "
+    },
+    "Population": {
+      "text": "29,549,517 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.1% (male 4,218,138/ female 4,074,436)"
+      },
+      "15-64 years": {
+        "text": "65.4% (male 9,445,555/ female 9,882,537) "
+      },
+      "65 years and over": {
+        "text": "6.5% (male 916,029/ female 1,012,822) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "26.5 years"
+      },
+      "male": {
+        "text": "25.8 years "
+      },
+      "female": {
+        "text": "27.2 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "1.016% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "19.13 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "5.95 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.03 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "77% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.6% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "LIMA (capital) 8.769 million; Arequipa 778,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.96 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.9 male(s)/female "
+      },
+      "total population": {
+        "text": "0.97 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "67 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "21.5 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "23.78 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "19.12 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "72.73 years"
+      },
+      "male": {
+        "text": "70.78 years "
+      },
+      "female": {
+        "text": "74.76 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.29 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "4.6% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.92 physicians/1,000 population (2009)"
+    },
+    "Hospital bed density": {
+      "text": "1.5 beds/1,000 population (2009)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "19% of population "
+      },
+      "rural": {
+        "text": "64% of population "
+      },
+      "total": {
+        "text": "32% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.4% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "75,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "5,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial, hepatitis A, and typhoid fever "
+      },
+      "vectorborne disease": {
+        "text": "dengue fever, malaria, and yellow fever "
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009) "
+      }
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "16.3% (2000)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "5.4% (2005)"
+    },
+    "Education expenditures": {
+      "text": "2.7% of GDP (2008)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "92.9% "
+      },
+      "male": {
+        "text": "96.4% "
+      },
+      "female": {
+        "text": "89.4% (2007 Census) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "14 years"
+      },
+      "male": {
+        "text": "13 years "
+      },
+      "female": {
+        "text": "13 years (2006) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "14%"
+      },
+      "male": {
+        "text": "12.5% "
+      },
+      "female": {
+        "text": "15.6% (2008) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Peru "
+      },
+      "conventional short form": {
+        "text": "Peru "
+      },
+      "local long form": {
+        "text": "Republica del Peru "
+      },
+      "local short form": {
+        "text": "Peru "
+      }
+    },
+    "Government type": {
+      "text": "constitutional republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lima"
+      },
+      "geographic coordinates": {
+        "text": "12 03 S, 77 03 W "
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali"
+    },
+    "Independence": {
+      "text": "28 July 1821 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 28 July (1821)"
+    },
+    "Constitution": {
+      "text": "29 December 1993"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory until the age of 70"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ollanta HUMALA Tasso (since 28 July 2011); First Vice President Marisol ESPINOZA Cruz (since 28 July 2011); Second Vice President (vacant); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Ollanta HUMALA Tasso (since 28 July 2011); First Vice President Marisol ESPINOZA Cruz (since 28 July 2011); Second Vice President (vacant) "
+      },
+      "note": "Prime Minister Juan Federico JIMENEZ Mayor (since 23 July 2012) does not exercise executive power; this power rests with the president ",
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president "
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for nonconsecutive reelection); presidential and congressional elections last held on 10 April 2011 with runoff election held on 6 June 2011 (next to be held in April 2016) "
+      },
+      "election results": {
+        "text": "Ollanta HUMALA Tasso elected president in runoff election; percent of vote - Ollanta HUMALA Tasso 51.5%, Keiko FUJIMORI Higuchi 48.5% "
+      }
+    },
+    "note": "adopted 1822; the song won a national contest for an anthem ",
+    "Legislative branch": {
+      "text": "unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 10 April 2011 (next to be held in April 2016) "
+      },
+      "election results": {
+        "text": "percent of vote by party - Gana Peru 25.3%, Fuerza 2011 23%, PP 14.8%, Alliance for Great Change 14.4%, National Solidarity 10.2%, Peruvian Aprista Party 6.4%, other 5.9%; seats by party - Gana Peru 47, Fuerza 2011 37, PP 21, Alliance for Great Change 12, National Solidarity 9, Peruvian Aprista Party 4; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Justice or Corte Suprema de Justicia (judges are appointed by the National Council of the Judiciary)"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Great Change (Alianza por el Gran Cambio) (a coalition of the Alliance for Progress, Humanist Party, National Restoration Party, and Popular Christian Party) [Pedro Pablo KUCZYNSKI]; Fuerza 2011 [Keiko FUJIMORI]; Gana Peru (a coalition of Lima Para Todos, Peruvian Communist Party, Peruvian Nationalist Party, and Peruvian Socialist Party) [Ollanta HUMALA Tasso]; National Solidarity (Solidaridad Nacional) or SN (a coalition of Cambio 90, Siempre Unidos, Todos por el Peru, and Union for Peru or UPP) [Luis CASTANEDA Lossio]; Peru Posible or PP (a coalition of Accion Popular and Somos Peru) [Alejandro TOLEDO Manrique]; Peruvian Aprista Party (Partido Aprista Peruano) or PAP [Alan GARCIA Perez] (also referred to by its original name Alianza Popular Revolucionaria Americana or APRA)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "General Workers Confederation of Peru (Confederacion General de Trabajadores del Peru) or CGTP [Mario HUAMAN]; Shining Path (Sendero Luminoso) or SL [Abimael GUZMAN Reynoso (imprisoned), Victor QUISPE Palomino (top leader at-large)] (leftist guerrilla group)"
+    },
+    "International organization participation": {
+      "text": "APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Harold Winston FORSYTH Mejia"
+      },
+      "chancery": {
+        "text": "1700 Massachusetts Avenue NW, Washington, DC 20036 "
+      },
+      "telephone": {
+        "text": "[1] (202) 833-9860 through 9869 "
+      },
+      "FAX": {
+        "text": "[1] (202) 659-8124 "
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Dallas, Denver, Hartford, Houston, Los Angeles, Miami, New York, Paterson (New Jersey), San Francisco "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Rose M. LIKINS"
+      },
+      "embassy": {
+        "text": "Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33 "
+      },
+      "mailing address": {
+        "text": "P. O. Box 1995, Lima 1; American Embassy (Lima), APO AA 34031-5000 "
+      },
+      "telephone": {
+        "text": "[51] (1) 618-2000 "
+      },
+      "FAX": {
+        "text": "[51] (1) 618-2397 "
+      }
+    },
+    "Flag description": {
+      "text": "three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace"
+    },
+    "National symbol(s)": {
+      "text": "vicuna (a camelid related to the llama)"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional del Peru\" (National Anthem of Peru)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO "
+      },
+      "note": "adopted 1822; the song won a national contest for an anthem "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Peru's economy reflects its varied geography - an arid lowland coastal region, the central high sierra of the Andes, the dense forest of the Amazon, with tropical lands bordering Colombia and Brazil. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. The Peruvian economy has been growing by an average of 6.4% per year since 2002 with a stable/slightly appreciating exchange rate and low inflation, which in 2013 is expected to be below the Central Bank target of 3 percent. Growth has been in the 6-9% range for the last three years, due partly to a leap in private investment, especially in the extractive sector, which accounts for more than 60% of Peru's total exports. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs subjects the economy to fluctuations in world prices. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by 23 percentage points since 2002, but inequality persists and continues to pose a challenge for the new Ollanta HUMALA administration, which has championed a policy of social inclusion and a more equitable distribution of income. Peru's free trade policy has continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, and Japan, concluded negotiations with the European Free Trade Association and Chile, and begun trade talks with Central American countries and others. Peru also has signed a trade pact with Chile, Colombia, and Mexico called the Pacific Alliance that rivals Mercosur in combined population, GDP, and trade. The US-Peru Trade Promotion Agreement entered into force 1 February 2009, opening the way to greater trade and investment between the two economies. Trade agreements with South Korea, Japan, and Mexico also were signed in 2011. Although Peru has continued to attract foreign investment, political disputes and protests may impede development of some projects related to natural resource extraction."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$287 billion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "public debt component of total",
+    "GDP (official exchange rate)": {
+      "text": "$200.3 billion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.8% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$9,700 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "7.8%"
+      },
+      "industry": {
+        "text": "33.9% "
+      },
+      "services": {
+        "text": "58.4% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "15.9 million",
+      "note": "individuals older than 14 years of age (2011 est.) "
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "0.7%"
+      },
+      "industry": {
+        "text": "23.8% "
+      },
+      "services": {
+        "text": "75.5% (2005) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.9% (2011 est.) ",
+      "note": "data are for metropolitan Lima; widespread underemployment "
+    },
+    "Population below poverty line": {
+      "text": "31.3% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.4%"
+      },
+      "highest 10%": {
+        "text": "36.1% (2010 est.) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "51 (2005) "
+    },
+    "Investment (gross fixed)": {
+      "text": "25.4% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$58.15 billion"
+      },
+      "expenditures": {
+        "text": "$56.42 billion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "29% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.9% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "19.9% of GDP (2011 est.) ",
+      "note": "data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.4% (2011 est.) ",
+      "note": "data are for metropolitan Lima, annual average "
+    },
+    "Central bank discount rate": {
+      "text": "3.8% (31 December 2010) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "18.69% (31 December 2011 est.) ",
+      "note": "domestic currency lending rate "
+    },
+    "Stock of narrow money": {
+      "text": "$25.35 billion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$64.6 billion (31 December 2011 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$33.37 billion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$107.3 billion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "asparagus, coffee, cocoa, cotton, sugarcane, rice, potatoes, corn, plantains, grapes, oranges, pineapples, guavas, bananas, apples, lemons, pears, coca, tomatoes, mangoes, barley, medicinal plants, palm oil, marigold, onion, wheat, dry beans; poultry, beef, pork, dairy products; guinea pigs; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "5% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$2.267 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$46.27 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "copper, gold, lead, zinc, tin, iron ore, molybdenum, silver; crude petroleum and petroleum products, natural gas; coffee, asparagus and other vegetables, fruit, apparel and textiles, fishmeal, fish, chemicals, fabricated metal products and machinery, alloys"
+    },
+    "Exports - partners": {
+      "text": "China 18.3%, US 15.2%, Canada 11.4%, Japan 5.4%, Spain 5.3%, Chile 4.8%, South Korea 4.6%, Germany 4.1% (2011)"
+    },
+    "Imports": {
+      "text": "$36.97 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "petroleum and petroleum products, chemicals, plastics, machinery, vehicles, color TV sets, power shovels, front-end loaders, telephones and telecommunication equipment, iron and steel, wheat, corn, soybean products, paper, cotton, vaccines and medicines"
+    },
+    "Imports - partners": {
+      "text": "US 24.5%, China 13.7%, Brazil 6.7%, Chile 5.9%, Ecuador 4.4%, South Korea 4% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$48.93 billion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$37.39 billion (31 December 2011 est.) ",
+      "note": "public debt component of total"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$49.8 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$3.432 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "2.91 (2008) "
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "38.7 billion kWh (2011 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "34.25 billion kWh (2011 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2011 est.)"
+    },
+    "Electricity - imports": {
+      "text": "6 million kWh (2011 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "7.982 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "59% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "41% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "152,600 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "18,880 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "99,590 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "586.1 million bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "173,700 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "172,600 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "60,720 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "38,390 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "31.12 billion cu m (2011)"
+    },
+    "Natural gas - consumption": {
+      "text": "5.41 billion cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "3.59 billion cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2011)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "352.8 billion cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "41.88 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.688 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "32.461 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate for most requirements; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity is only about 12 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, exceeds 100 telephones per 100 persons "
+      },
+      "international": {
+        "text": "country code - 51; the South America-1 (SAM-1) and Pan American (PAN-AM) submarine cable systems provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) "
+      }
+    },
+    "Broadcast media": {
+      "text": "10 major TV networks of which only one, Television Nacional de Peru, is state-owned; multi-channel cable TV services are available; in excess of 2,000 radio stations including a substantial number of indigenous language stations (2010)"
+    },
+    "Internet country code": {
+      "text": ".pe"
+    },
+    "Internet hosts": {
+      "text": "234,102 (2012)"
+    },
+    "Internet users": {
+      "text": "9.158 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "191 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "58"
+      },
+      "over 3,047 m": {
+        "text": "5 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "21 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "16 "
+      },
+      "914 to 1,523 m": {
+        "text": "12 "
+      },
+      "under 914 m": {
+        "text": "4 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "133"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "19 "
+      },
+      "914 to 1,523 m": {
+        "text": "30 "
+      },
+      "under 914 m": {
+        "text": "83 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "4 (2012)"
+    },
+    "Pipelines": {
+      "text": "extra heavy crude 533 km; gas 1,526 km; liquid petroleum gas 679 km; oil 1,033 km; refined products 15 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,906 km"
+      },
+      "standard gauge": {
+        "text": "1,772 km 1.435-m gauge "
+      },
+      "narrow gauge": {
+        "text": "134 km 0.914-m gauge (2010) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "137,327 km"
+      },
+      "note": "includes 26,017 km of national roads, 28,843 km of departmental roads, and 82,467 km of local roads (2007) "
+    },
+    "note": "includes 26,017 km of national roads, 28,843 km of departmental roads, and 82,467 km of local roads (2007) ",
+    "Waterways": {
+      "text": "8,808 km (there are 8,600 km of navigable tributaries on the Amazon system and 208 km on Lago Titicaca) (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "22"
+      },
+      "by type": {
+        "text": "cargo 2, chemical tanker 5, liquefied gas 2, petroleum tanker 13 "
+      },
+      "foreign-owned": {
+        "text": "8 (Chile 6, Ecuador 1, Spain 1) "
+      },
+      "registered in other countries": {
+        "text": "9 (Panama 9) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Callao, Iquitos, Matarani, Paita, Pucallpa, Yurimaguas; note - Iquitos, Pucallpa, and Yurimaguas are on the upper reaches of the Amazon and its tributaries",
+      "oil terminals": {
+        "text": "Conchan oil terminal, La Pampilla oil terminal "
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Peruvian Army (Ejercito Peruano), Peruvian Navy (Marina de Guerra del Peru, MGP (includes naval air, naval infantry, and Coast Guard)), Air Force of Peru (Fuerza Aerea del Peru, FAP) (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "18-50 years of age for male and 18-45 years of age for female voluntary military service; no conscription (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "7,385,588"
+      },
+      "females age 16-49": {
+        "text": "7,727,623 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "5,788,629"
+      },
+      "females age 16-49": {
+        "text": "6,565,097 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "304,094"
+      },
+      "female": {
+        "text": "298,447 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "1.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru; organized illegal narcotics operations in Colombia have penetrated Peru's shared border; Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "150,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "until 1996 the world's largest coca leaf producer, Peru is now the world's second largest producer of coca leaf, though it lags far behind Colombia; cultivation of coca in Peru was estimated at 40,000 hectares in 2009, a slight decrease over 2008; second largest producer of cocaine, estimated at 225 metric tons of potential pure cocaine in 2009; finished cocaine is shipped out from Pacific ports to the international drug market; increasing amounts of base and finished cocaine, however, are being moved to Brazil, Chile, Argentina, and Bolivia for use in the Southern Cone or transshipment to Europe and Africa; increasing domestic drug consumption"
+    }
+  }
+}

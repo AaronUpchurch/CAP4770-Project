@@ -1,0 +1,726 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Trucial States of the Persian Gulf coast granted the UK control of their defense and foreign affairs in 19th century treaties. In 1971, six of these states - Abu Zaby, 'Ajman, Al Fujayrah, Ash Shariqah, Dubayy, and Umm al Qaywayn - merged to form the United Arab Emirates (UAE). They were joined in 1972 by Ra's al Khaymah. The UAE's per capita GDP is on par with those of leading West European nations. Its generosity with oil revenues and its moderate foreign policy stance have allowed the UAE to play a vital role in the affairs of the region."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and Saudi Arabia"
+    },
+    "Geographic coordinates": {
+      "text": "24 00 N, 54 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "83,600 sq km"
+      },
+      "land": {
+        "text": "83,600 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maine"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "867 km"
+      },
+      "border countries": {
+        "text": "Oman 410 km, Saudi Arabia 457 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,318 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "desert; cooler in eastern mountains"
+    },
+    "Terrain": {
+      "text": "flat, barren coastal plain merging into rolling sand dunes of vast desert wasteland; mountains in east"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Persian Gulf 0 m"
+      },
+      "highest point": {
+        "text": "Jabal Yibir 1,527 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.77%"
+      },
+      "permanent crops": {
+        "text": "2.27%"
+      },
+      "other": {
+        "text": "96.96% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "760 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "0.2 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.3  cu km/yr (23%/9%/68%)"
+      },
+      "per capita": {
+        "text": "511  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "frequent sand and dust storms"
+    },
+    "Environment - current issues": {
+      "text": "lack of natural freshwater resources compensated by desalination plants; desertification; beach pollution from oil spills"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,798,491",
+      "note": "estimate is based on the results of the 2005 census that included a significantly higher estimate of net inmigration of non-citizens than previous estimates (July 2009 est.)"
+    },
+    "note": "less than 20% are UAE citizens (1982)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "20.4% (male 500,928/female 478,388)"
+      },
+      "15-64 years": {
+        "text": "78.7% (male 2,768,030/female 1,008,404)"
+      },
+      "65 years and over": {
+        "text": "0.9% (male 27,601/female 15,140)"
+      },
+      "note": "73.9% of the population in the 15-64 age group is non-national (2009 est.)"
+    },
+    "Median age": {
+      "total": {
+        "text": "30.1 years"
+      },
+      "male": {
+        "text": "32 years"
+      },
+      "female": {
+        "text": "24.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.689% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "16.02 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "2.11 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "22.98 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "78% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "2.74 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.82 male(s)/female"
+      },
+      "total population": {
+        "text": "2.19 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "12.7 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "14.86 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "10.44 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "76.11 years"
+      },
+      "male": {
+        "text": "73.56 years"
+      },
+      "female": {
+        "text": "78.78 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.42 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.18% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Emirati(s)"
+      },
+      "adjective": {
+        "text": "Emirati"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Emirati 19%, other Arab and Iranian 23%, South Asian 50%, other expatriates (includes Westerners and East Asians) 8% (1982)",
+      "note": "less than 20% are UAE citizens (1982)"
+    },
+    "Religions": {
+      "text": "Muslim 96% (Shia 16%), other (includes Christian, Hindu) 4%"
+    },
+    "Languages": {
+      "text": "Arabic (official), Persian, English, Hindi, Urdu"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "77.9%"
+      },
+      "male": {
+        "text": "76.1%"
+      },
+      "female": {
+        "text": "81.7% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "12 years (2003)"
+      }
+    },
+    "Education expenditures": {
+      "text": "1.3% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "United Arab Emirates "
+      },
+      "conventional short form": {
+        "text": "none"
+      },
+      "local long form": {
+        "text": "Al Imarat al Arabiyah al Muttahidah"
+      },
+      "local short form": {
+        "text": "none"
+      },
+      "former": {
+        "text": "Trucial Oman, Trucial States"
+      },
+      "abbreviation": {
+        "text": "UAE"
+      }
+    },
+    "Government type": {
+      "text": "federation with specified powers delegated to the UAE federal government and other powers reserved to member emirates"
+    },
+    "Capital": {
+      "name": {
+        "text": "Abu Dhabi"
+      },
+      "geographic coordinates": {
+        "text": "24 28 N, 54 22 E"
+      },
+      "time difference": {
+        "text": "UTC+4 (9 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn (Quwayn)"
+    },
+    "Independence": {
+      "text": "2 December 1971 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 2 December (1971)"
+    },
+    "Constitution": {
+      "text": "2 December 1971; made permanent in 1996"
+    },
+    "Legal system": {
+      "text": "based on a dual system of Sharia and civil courts; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "none"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President KHALIFA bin Zayid al-Nuhayyan (since 3 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID al-Maktum (since 5 January 2006)"
+      },
+      "head of government": {
+        "text": "Prime Minister and Vice President MUHAMMAD bin Rashid al-Maktum (since 5 January 2006); Deputy Prime Ministers SULTAN bin Zayid al-Nuhayyan (since 20 November 1990) and HAMDAN bin Zayid al-Nuhayyan (since 20 October 2003)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "note": "there is also a Federal Supreme Council (FSC) composed of the seven emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets four times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power",
+      "elections": {
+        "text": "president and vice president elected by the FSC for five-year terms (no term limits) from among the seven FSC members; election last held 3 November 2004 upon the death of the UAE's Founding Father and first President ZAYID bin Sultan al Nuhayyan (next to be held in 2009); prime minister and deputy prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "KHALIFA bin Zayid al-Nuhayyan elected president by a unanimous vote of the FSC; MUHAMMAD bin Rashid al-Maktum unanimously affirmed vice president after the 2006 death of his brother Sheikh Maktum bin Rashid al-Maktum"
+      }
+    },
+    "note": "reviews legislation but cannot change or veto",
+    "Legislative branch": {
+      "text": "unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members appointed by the rulers of the constituent states, 20 members elected to serve two-year terms)",
+      "elections": {
+        "text": "elections for one half of the FNC (the other half remains appointed) held in the UAE on 18-20 December 2006; the new electoral college - a body of 6,689 Emiratis (including 1,189 women) appointed by the rulers of the seven emirates - were the only eligible voters and candidates; 456 candidates including 65 women ran for 20 contested FNC seats; one female from the Emirate of Abu Dhabi won a seat and 8 women were among the 20 appointed members"
+      },
+      "note": "reviews legislation but cannot change or veto"
+    },
+    "Judicial branch": {
+      "text": "Union Supreme Court (judges are appointed by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "none; political parties are not allowed"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Yousef bin Mani Saeed al-OTAIBA"
+      },
+      "chancery": {
+        "text": "3522 International Court NW, Suite 400, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 243-2400"
+      },
+      "FAX": {
+        "text": "[1] (202) 243-2432"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Richard G. OLSON, Jr."
+      },
+      "embassy": {
+        "text": "Embassies District, Plot 38 Sector W59-02, Street No. 4, Abu Dhabi"
+      },
+      "mailing address": {
+        "text": "P. O. Box 4009, Abu Dhabi"
+      },
+      "telephone": {
+        "text": "[971] (2) 414-2200"
+      },
+      "FAX": {
+        "text": "[971] (2) 414-2603"
+      },
+      "consulate(s) general": {
+        "text": "Dubai"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP based on oil and gas output to 25%. Since the discovery of oil in the UAE more than 30 years ago, the UAE has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. In April 2004, the UAE signed a Trade and Investment Framework Agreement with Washington and in November 2004 agreed to undertake negotiations toward a Free Trade Agreement with the US. The country's Free Trade Zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors. Higher oil revenue, strong liquidity, housing shortages, and cheap credit in 2005-07 led to a surge in asset prices (shares and real estate) and consumer inflation. The global financial crisis and the resulting tight international credit market and falling oil prices have already begun to deflate asset prices and will result in slower economic growth for 2009. Dependence on oil and a large expatriate workforce are significant long-term challenges. The UAE's strategic plan for the next few years focuses on diversification and creating more opportunities for nationals through improved education and increased private sector employment. \r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$181.2 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "officially pegged to the US dollar since February 2002",
+    "GDP (official exchange rate)": {
+      "text": "$262.2 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "14.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$42,500 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1.5%"
+      },
+      "industry": {
+        "text": "62.7%"
+      },
+      "services": {
+        "text": "35.7% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "3.266 million",
+      "note": "expatriates account for about 85% of the work force (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "7%"
+      },
+      "industry": {
+        "text": "15%"
+      },
+      "services": {
+        "text": "78% (2000 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.4% (2001)"
+    },
+    "Population below poverty line": {
+      "text": "19.5% (2003)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "22.8% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$78.74 billion"
+      },
+      "expenditures": {
+        "text": "$48.31 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "17.6% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "14% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$49.5 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$104.6 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$155.4 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$138.5 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "dates, vegetables, watermelons; poultry, eggs, dairy products; fish"
+    },
+    "Industries": {
+      "text": "petroleum and petrochemicals; fishing, aluminum, cement, fertilizers, commercial ship repair, construction materials, some boat building, handicrafts, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "6.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "71.54 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "65.98 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "3.046 million bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "463,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "2.7 million bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "192,900 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "97.8 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "50.24 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "59.42 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "7.567 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "16.75 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "6.071 trillion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$25.84 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$170.4 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil 45%, natural gas, reexports, dried fish, dates"
+    },
+    "Exports - partners": {
+      "text": "Japan 23%, South Korea 9.4%, India 7.9%, Iran 6.5%, Thailand 5.3% (2008)"
+    },
+    "Imports": {
+      "text": "$116.6 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, chemicals, food"
+    },
+    "Imports - partners": {
+      "text": "China 13.2%, India 10.4%, US 8.8%, Germany 6.5%, Japan 6.1%, Turkey 4.5%, Italy 4.3% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$77.24 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$61.68 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$51.54 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$24.95 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Emirati dirhams (AED) per US dollar - 3.6725 (2008 est.), 3.6725 (2007), 3.6725 (2006), 3.6725 (2005), 3.6725 (2004)",
+      "note": "officially pegged to the US dollar since February 2002"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.508 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "9.358 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern fiber-optic integrated services; digital network with rapidly growing use of mobile-cellular telephones; key centers are Abu Dhabi and Dubai"
+      },
+      "domestic": {
+        "text": "microwave radio relay, fiber optic and coaxial cable"
+      },
+      "international": {
+        "text": "country code - 971; linked to the international submarine cable FLAG (Fiber-Optic Link Around the Globe); landing point for both the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable networks; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean) and 1 Arabsat; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 13, FM 8, shortwave 2 (2004)"
+    },
+    "Television broadcast stations": {
+      "text": "15 (2004)"
+    },
+    "Internet country code": {
+      "text": ".ae"
+    },
+    "Internet hosts": {
+      "text": "379,106 (2009)"
+    },
+    "Internet users": {
+      "text": "2.922 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "41 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "24"
+      },
+      "over 3,047 m": {
+        "text": "11"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "5 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "5 (2009)"
+    },
+    "Pipelines": {
+      "text": "condensate 458 km; gas 2,129 km; liquid petroleum gas 220 km; oil 1,310 km; refined products 212 km; water 90 km (2008)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "4,080 km"
+      },
+      "paved": {
+        "text": "4,080 km (includes 253 km of expressways) (2008)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "58"
+      },
+      "by type": {
+        "text": "bulk carrier 6, cargo 9, chemical tanker 4, container 8, liquefied gas 1, passenger/cargo 1, petroleum tanker 24, roll on/roll off 4, specialized tanker 1"
+      },
+      "foreign-owned": {
+        "text": "14 (Denmark 1, Greece 3, Kuwait 10)"
+      },
+      "registered in other countries": {
+        "text": "313 (Bahamas 23, Bahrain 1, Belize 5, Cambodia 2, Comoros 7, Cyprus 9, Dominica 1, Georgia 1, Gibraltar 3, Hong Kong 1, India 6, Indonesia 2, Iran 1, Jordan 13, North Korea 8, Liberia 23, Malta 5, Marshall Islands 15, Mexico 1, Netherlands 5, Panama 109, Papua New Guinea 6, Philippines 1, Saint Kitts and Nevis 18, Saint Vincent and the Grenadines 9, Saudi Arabia 1, Sierra Leone 8, Singapore 12, Somalia 1, Turkey 1, UK 9, unknown 6) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Mina' Zayid (Abu Dhabi), Al Fujayrah, Mina' Jabal 'Ali (Dubai), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah), Khawr Fakkan (Sharjah)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "United Arab Emirates Armed Forces": {
+        "text": "Army, Navy (includes Marines), Air Force and Air Defense, National Coast Guard (2008)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age (est.) for voluntary military service; 18 years of age for officers and women; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,405,884 (includes non-nationals)"
+      },
+      "females age 16-49": {
+        "text": "884,853 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "2,081,491"
+      },
+      "females age 16-49": {
+        "text": "788,632 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "26,659"
+      },
+      "female": {
+        "text": "23,793 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3.1% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published; Iran and UAE dispute Tunb Islands and Abu Musa Island, which Iran occupies"
+    },
+    "Illicit drugs": {
+      "text": "the UAE is a drug transshipment point for traffickers given its proximity to Southwest Asian drug-producing countries; the UAE's position as a major financial center makes it vulnerable to money laundering; anti-money-laundering controls improving, but informal banking remains unregulated"
+    }
+  }
+}

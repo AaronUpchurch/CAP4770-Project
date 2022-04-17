@@ -1,0 +1,818 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. The global financial crisis in late 2008 caused a massive economic downturn in Mexico the following year, although growth returned quickly in 2010. Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "United Mexican States"
+      },
+      "conventional short form": {
+        "text": "Mexico"
+      },
+      "local long form": {
+        "text": "Estados Unidos Mexicanos"
+      },
+      "local short form": {
+        "text": "Mexico"
+      },
+      "etymology": {
+        "text": "named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain"
+      }
+    },
+    "Government type": {
+      "text": "federal presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Mexico City (Ciudad de Mexico)"
+      },
+      "geographic coordinates": {
+        "text": "19 26 N, 99 08 W"
+      },
+      "time difference": {
+        "text": "UTC-6 (1 hour behind Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in April; ends last Sunday in October"
+      },
+      "note": {
+        "text": "Mexico has four time zones"
+      }
+    },
+    "Administrative divisions": {
+      "text": "31 states (estados, singular - estado) and 1 city* (ciudad); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas"
+    },
+    "Independence": {
+      "text": "16 September 1810 (declared independence from Spain); 27 September 1821 (recognized by Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 16 September (1810)"
+    },
+    "Constitution": {
+      "text": "several previous; latest approved 5 February 1917; amended many times, last in 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system with US constitutional law influence; judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "not specified"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Enrique PENA NIETO (since 1 December 2012); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Enrique PENA NIETO (since 1 December 2012)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2012 (next to be held in July 2018)"
+      },
+      "election results": {
+        "text": "Enrique PENA NIETO elected president; percent of vote - Enrique PENA NIETO (PRI) 38.2%, Andres Manuel LOPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VAZQUEZ Mota (PAN) 25.4%, other 4.8%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral National Congress or Congreso de la Union consists of the Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms) and the Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)"
+      },
+      "note": {
+        "text": "for the 2018 elections, senators will be eligible for a second term and deputies up to 4 consecutive terms"
+      },
+      "elections": {
+        "text": "Senate - last held on 1 July 2012 (next to be held on 1 July 2018); Chamber of Deputies - last held on 7 June 2015 (next to be held on 1 July 2018)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PRI 52, PAN 38, PRD 22, PVEM 9, PT 4, MC 2, PANAL 1;"
+      },
+      "text": "Chamber of Deputies - percent of vote by party - NA; seats by party - PRI 203, PAN 108, PRD 56, PVEM 47, MORENA 35, MC 26, PANAL 10, PES 8, PT 6, independent 1"
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president and 5 regional courts, each with 3 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve for life; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms"
+      },
+      "subordinate courts": {
+        "text": "federal level includes circuit, collegiate, and unitary courts; state and district level courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social Encounter Party (Partido Encuentro Social) or PES [Hugo Eric FLORES Cervantes]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Roman Catholic Church"
+    },
+    "International organization participation": {
+      "text": "APEC, Australia Group, BCIE, BIS, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Geronimo GUTIERREZ Fernandez (since 24 April 2017)"
+      },
+      "chancery": {
+        "text": "1911 Pennsylvania Avenue NW, Washington, DC 20006"
+      },
+      "telephone": {
+        "text": "[1] (202) 728-1600"
+      },
+      "FAX": {
+        "text": "[1] (202) 728-1698"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso (TX), Houston, Laredo (TX), Los Angeles, Miami, New York, Nogales (AZ), Phoenix, Sacramento (CA), San Antonio (TX), San Diego, San Francisco, San Jose (CA), San Juan (Puerto Rico), Saint Paul (MN)"
+      },
+      "consulate(s)": {
+        "text": "Albuquerque (NM), Anchorage (AK), Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit, Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas, Little Rock (AR), McAllen (TX), Minneapolis (MN), New Orleans, Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia, Portland (OR), Presidio (TX), Raleigh (NC), Salt Lake City, San Bernardino (CA), Santa Ana (CA), Seattle, Tucson (AZ), Yuma (AZ); note - Washington DC Consular Section is located in a separate building from the Mexican Embassy and has jurisdiction over DC, parts of Virginia, Maryland, and West Virginia"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Roberta JACOBSON (since 20 June 2016)"
+      },
+      "embassy": {
+        "text": "Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal"
+      },
+      "mailing address": {
+        "text": "P. O. Box 9000, Brownsville, TX 78520-9000"
+      },
+      "telephone": {
+        "text": "(01-55) 5080-2000"
+      },
+      "FAX": {
+        "text": "(01-55) 5080-2005"
+      },
+      "consulate(s) general": {
+        "text": "Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City",
+      "note": {
+        "text": "similar to the flag of Italy, which is shorter, uses lighter shades of red and green, and does not display anything in its white band"
+      }
+    },
+    "National symbol(s)": {
+      "text": "golden eagle; national colors: green, white, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional Mexicano\" (National Anthem of Mexico)"
+      },
+      "lyrics/music": {
+        "text": "Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA"
+      },
+      "note": {
+        "text": "adopted 1943, in use since 1854; also known as \"Mexicanos, al grito de Guerra\" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Since 2013, Mexico\u2019s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO\u2019s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Over the medium-term, the economy is vulnerable to global economic pressures, such as lower external demand, rising interest rates, and low oil prices - approximately 10% of government revenue comes from the state-owned oil company, PEMEX."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.154 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.047 trillion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$18,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Gross national saving": {
+      "text": "19.8% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "68.3%"
+      },
+      "government consumption": {
+        "text": "12.2%"
+      },
+      "investment in fixed capital": {
+        "text": "22.8%"
+      },
+      "investment in inventories": {
+        "text": "-1.5%"
+      },
+      "exports of goods and services": {
+        "text": "38.1%"
+      },
+      "imports of goods and services": {
+        "text": "-39.9% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "3.8%"
+      },
+      "industry": {
+        "text": "32.2%"
+      },
+      "services": {
+        "text": "63.4% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "corn, wheat, soybeans, rice, beans, cotton, coffee, fruit, tomatoes; beef, poultry, dairy products; wood products"
+    },
+    "Industries": {
+      "text": "food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "0% (2016 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Labor force": {
+      "text": "53.68 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "13.4%"
+      },
+      "industry": {
+        "text": "24.1%"
+      },
+      "services": {
+        "text": "61.9% (2011)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.4% (2015 est.)",
+      "note": {
+        "text": "underemployment may be as high as 25%"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Population below poverty line": {
+      "text": "46.2%",
+      "note": {
+        "text": "from a food-based definition of poverty; asset-based poverty amounted to more than 47% (2014 est.)"
+      }
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2%"
+      },
+      "highest 10%": {
+        "text": "40% (2014)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "48.3 (2008)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$259.6 billion"
+      },
+      "expenditures": {
+        "text": "$286.5 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "24.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Public debt": {
+      "text": "47.3% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.7% (2015 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "5.25% (28 February 2016)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "3.42% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$194.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$656.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$398.9 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$526 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Current account balance": {
+      "text": "$-28.2 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Exports": {
+      "text": "$381 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Exports - commodities": {
+      "text": "manufactured goods, oil and oil products, silver, fruits, vegetables, coffee, cotton"
+    },
+    "Exports - partners": {
+      "text": "US 81% (2016)"
+    },
+    "Imports": {
+      "text": "$395.6 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Imports - commodities": {
+      "text": "metalworking machines, steel mill products, agricultural machinery, electrical equipment, automobile parts for assembly and repair, aircraft, aircraft parts"
+    },
+    "Imports - partners": {
+      "text": "US 46.6%, China 18%, Japan 4.6% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$178 billion (31 December 2015 est.)",
+      "note": {
+        "text": "Mexico also maintains access to an $88 million Flexible Credit Line with the IMF"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Debt - external": {
+      "text": "$426.3 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$509.3 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$146.4 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Exchange rates": {
+      "text": "13.17 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,231,667"
+      },
+      "electrification - total population": {
+        "text": "99%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "97% (2012)"
+      }
+    },
+    "Electricity - production": {
+      "text": "292.7 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "245.2 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Electricity - exports": {
+      "text": "7.308 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Electricity - imports": {
+      "text": "392 million kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "65.45 million kW (2016 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "72.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "2.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "18.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "8.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Crude oil - production": {
+      "text": "2.187 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "1.224 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "7.64 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "1.043 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2.027 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "181,600 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "751,500 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Natural gas - production": {
+      "text": "40.37 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "77.93 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "31 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "36.47 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "355.7 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "455 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "19,599,886"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "16 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "111,724,654"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "91 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable"
+      },
+      "domestic": {
+        "text": "competition has spurred the mobile-cellular market; fixed-line teledensity exceeds 15 per 100 persons; mobile-cellular teledensity is about 90 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "many TV stations and more than 1,400 radio stations with most privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available (2012)"
+    },
+    "Internet country code": {
+      "text": ".mx"
+    },
+    "Internet users": {
+      "total": {
+        "text": "73,334,032"
+      },
+      "percent of population": {
+        "text": "59.5% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "21"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "357"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "45,560,063"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "713,985,467 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "XA (2016)"
+    },
+    "Airports": {
+      "text": "1,714 (2013)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "243"
+      },
+      "over 3,047 m": {
+        "text": "12"
+      },
+      "2,438 to 3,047 m": {
+        "text": "32"
+      },
+      "1,524 to 2,437 m": {
+        "text": "80"
+      },
+      "914 to 1,523 m": {
+        "text": "86"
+      },
+      "under 914 m": {
+        "text": "33 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1,471"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "42"
+      },
+      "914 to 1,523 m": {
+        "text": "281"
+      },
+      "under 914 m": {
+        "text": "1,146 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 18,074 km; liquid petroleum 2,102 km; oil 8,775 km; oil/gas/water 369 km; refined products 7,565 km; water 123 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "15,389 km"
+      },
+      "standard gauge": {
+        "text": "15,389 km 1.435-m gauge (27 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "377,660 km"
+      },
+      "paved": {
+        "text": "137,544 km (includes 7,176 km of expressways)"
+      },
+      "unpaved": {
+        "text": "240,116 km (2012)"
+      },
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "Waterways": {
+      "text": "2,900 km (navigable rivers and coastal canals mostly connected with ports on the country's east coast) (2012)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "622"
+      },
+      "by type": {
+        "text": "bulk carrier 5, general cargo 9, oil tanker 32, other 576 (2017)"
+      },
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Manzanillo (1,992,176), Lazaro Cardenas (1,242,777) (2012)"
+      },
+      "oil terminal(s)": {
+        "text": "Cayo Arcas terminal, Dos Bocas terminal"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Altamira, Ensenada"
+      },
+      "cruise port(s)": {
+        "text": "Cancun, Cozumel, Ensenada"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "0.59% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Military branches": {
+      "text": "Secretariat of National Defense (Secretaria de Defensa Nacional, Sedena): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, Semar): Mexican Navy (Armada de Mexico (ARM); includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory military service, conscript service obligation is 12 months; 16 years of age with consent for voluntary enlistment; conscripts serve only in the Army; Navy and Air Force service is all voluntary; women are eligible for voluntary military service; cadets enrolled in military schools from the age of 15 are considered members of the armed forces (2012)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "311,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2016)"
+      },
+      "stateless persons": {
+        "text": "13 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "major drug-producing and transit nation; Mexico is estimated to be the world's third largest producer of opium with poppy cultivation in 2015 estimated to be 28,000 hectares yielding a potential production of 475 metric tons of raw opium; government conducts the largest independent illicit-crop eradication program in the world; continues as the primary transshipment country for US-bound cocaine from South America, with an estimated 95% of annual cocaine movements toward the US stopping in Mexico; major drug syndicates control the majority of drug trafficking throughout the country; producer and distributor of ecstasy; significant money-laundering center; major supplier of heroin and largest foreign supplier of marijuana and methamphetamine to the US market"
+    }
+  }
+}

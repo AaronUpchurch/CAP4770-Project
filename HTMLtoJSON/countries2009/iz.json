@@ -1,0 +1,722 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Formerly part of the Ottoman Empire, Iraq was occupied by Britain during the course of World War I; in 1920, it was declared a League of Nations mandate under UK administration. In stages over the next dozen years, Iraq attained its independence as a kingdom in 1932. A \"republic\" was proclaimed in 1958, but in actuality a series of strongmen ruled the country until 2003. The last was SADDAM Husayn. Territorial disputes with Iran led to an inconclusive and costly eight-year war (1980-88). In August 1990, Iraq seized Kuwait but was expelled by US-led, UN coalition forces during the Gulf War of January-February 1991. Following Kuwait's liberation, the UN Security Council (UNSC) required Iraq to scrap all weapons of mass destruction and long-range missiles and to allow UN verification inspections. Continued Iraqi noncompliance with UNSC resolutions over a period of 12 years led to the US-led invasion of Iraq in March 2003 and the ouster of the SADDAM Husayn regime. US forces remained in Iraq under a UNSC mandate until 31 December 2008 and under a bilateral Security Agreement thereafter, helping to provide security and to support the freely elected government. In October 2005, Iraqis approved a constitution in a national referendum and, pursuant to this document, elected a 275-member Council of Representatives (CoR) in December 2005. After the election, Ibrahim al-JAAFARI was selected as prime minister; he was replaced by Nuri al-MALIKI in May 2006. The CoR approved most cabinet ministers in May 2006, marking the transition to Iraq's first constitutional government in nearly a half century. On 31 January 2009, Iraq held elections for provincial councils in all provinces except for the three provinces comprising the Kurdistan Regional Government and at-Ta'mim (Kirkuk) province."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, bordering the Persian Gulf, between Iran and Kuwait"
+    },
+    "Geographic coordinates": {
+      "text": "33 00 N, 44 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "438,317 sq km"
+      },
+      "land": {
+        "text": "437,367 sq km"
+      },
+      "water": {
+        "text": "950 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of Idaho"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,650 km"
+      },
+      "border countries": {
+        "text": "Iran 1,458 km, Jordan 181 km, Kuwait 240 km, Saudi Arabia 814 km, Syria 605 km, Turkey 352 km"
+      }
+    },
+    "Coastline": {
+      "text": "58 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "continental shelf": {
+        "text": "not specified"
+      }
+    },
+    "Climate": {
+      "text": "mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq"
+    },
+    "Terrain": {
+      "text": "mostly broad plains; reedy marshes along Iranian border in south with large flooded areas; mountains along borders with Iran and Turkey"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Persian Gulf 0 m"
+      },
+      "highest point": {
+        "text": "unnamed peak; 3,611 m; note - this peak is neither Gundah Zhur 3,607 m nor Kuh-e Hajji-Ebrahim 3,595 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, phosphates, sulfur"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "13.12%"
+      },
+      "permanent crops": {
+        "text": "0.61%"
+      },
+      "other": {
+        "text": "86.27% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "35,250 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "96.4 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "42.7  cu km/yr (3%/5%/92%)"
+      },
+      "per capita": {
+        "text": "1,482  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "dust storms; sandstorms; floods"
+    },
+    "Environment - current issues": {
+      "text": "government water control projects have drained most of the inhabited marsh areas east of An Nasiriyah by drying up or diverting the feeder streams and rivers; a once sizable population of Marsh Arabs, who inhabited these areas for thousands of years, has been displaced; furthermore, the destruction of the natural habitat poses serious threats to the area's wildlife populations; inadequate supplies of potable water; development of the Tigris and Euphrates rivers system contingent upon agreements with upstream riparian Turkey; air and water pollution; soil degradation (salination) and erosion; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Law of the Sea, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on Shatt al Arab waterway and at the head of the Persian Gulf"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "28,945,657 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "38.8% (male 5,709,688/female 5,531,359)"
+      },
+      "15-64 years": {
+        "text": "58.2% (male 8,529,956/female 8,310,164)"
+      },
+      "65 years and over": {
+        "text": "3% (male 408,266/female 456,224) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "20.4 years"
+      },
+      "male": {
+        "text": "20.3 years"
+      },
+      "female": {
+        "text": "20.5 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.507% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "30.1 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.03 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "NA (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "67% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.7% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.9 male(s)/female"
+      },
+      "total population": {
+        "text": "1.02 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "43.82 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "49.38 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "37.98 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "69.94 years"
+      },
+      "male": {
+        "text": "68.6 years"
+      },
+      "female": {
+        "text": "71.34 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.86 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 500 (2003 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds\r\n (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds\r\n (2009)",
+    "Nationality": {
+      "noun": {
+        "text": "Iraqi(s)"
+      },
+      "adjective": {
+        "text": "Iraqi"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Arab 75%-80%, Kurdish 15%-20%, Turkoman, Assyrian, or other 5%"
+    },
+    "Religions": {
+      "text": "Muslim 97% (Shia 60%-65%, Sunni 32%-37%), Christian or other 3%"
+    },
+    "Languages": {
+      "text": "Arabic, Kurdish (official in Kurdish regions), Turkoman (a Turkish dialect), Assyrian (Neo-Aramaic), Armenian"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "74.1%"
+      },
+      "male": {
+        "text": "84.1%"
+      },
+      "female": {
+        "text": "64.2% (2000 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "10 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "8 years (2005)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Iraq "
+      },
+      "conventional short form": {
+        "text": "Iraq"
+      },
+      "local long form": {
+        "text": "Jumhuriyat al-Iraq"
+      },
+      "local short form": {
+        "text": "Al Iraq"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Baghdad"
+      },
+      "geographic coordinates": {
+        "text": "33 20 N, 44 23 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "18 governorates (muhafazat, singular - muhafazah) and 1 region*; Al Anbar, Al Basrah, Al Muthanna, Al Qadisiyah, An Najaf, Arbil, As Sulaymaniyah, At Ta'mim, Babil, Baghdad, Dahuk, Dhi Qar, Diyala, Karbala', Kurdistan Regional Government*, Maysan, Ninawa, Salah ad Din, Wasit"
+    },
+    "Independence": {
+      "text": "3 October 1932 (from League of Nations mandate under British administration); note - on 28 June 2004 the Coalition Provisional Authority transferred sovereignty to the Iraqi-controlled Government"
+    },
+    "National holiday": {
+      "text": "Republic Day, July 14 (1958); note - the Government of Iraq has yet to declare an official national holiday but still observes Republic Day"
+    },
+    "Constitution": {
+      "text": "ratified on 15 October 2005 (subject to review by the Constitutional Review Committee and a possible public referendum )"
+    },
+    "Legal system": {
+      "text": "based on European civil and Islamic law under the framework outlined in the Iraqi Constitution; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jalal TALABANI (since 6 April 2005); Vice Presidents Adil ABD AL-MAHDI and Tariq al-HASHIMI (since 22 April 2006); note - the president and vice presidents comprise the Presidency Council)"
+      },
+      "head of government": {
+        "text": "Prime Minister Nuri al-MALIKI (since 20 May 2006); Rafi al-ISSAWI (since 19 July 2008)"
+      },
+      "cabinet": {
+        "text": "36 ministers appointed by the Presidency Council, plus Prime Minister Nuri al-MALIKI and Deputy Prime Ministers Barham SALIH and Rafi al-ISSAWI"
+      },
+      "elections": {
+        "text": "held 15 December 2005 to elect a 275-member Council of Representatives"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Council of Representatives (consisting of 275 members elected by a closed-list, proportional representation system)",
+      "elections": {
+        "text": "last held 15 December 2005 to elect a 275-member Council of Representatives (next to be held on 18 January 2010); the Council of Representatives elected the Presidency Council and approved the prime minister and two deputy prime ministers"
+      },
+      "election results": {
+        "text": "Council of Representatives - percent of vote by party - Unified Iraqi Alliance 41%, Kurdistan Alliance 22%, Tawafuq Coalition 15%, Iraqi National List 8%, Iraqi Front for National Dialogue 4%, other 10%; number of seats by party (as of November 2007) - Unified Iraqi Alliance (including the Sadrist bloc with 30 and Fadilah with 15) 130, Kurdistan Alliance 53, Tawafuq Front 44, Iraqi National List 25, Fadilah 15, Iraqi Front for National Dialogue 11, other 12"
+      }
+    },
+    "Judicial branch": {
+      "text": "the Iraq Constitution calls for the federal judicial power to be comprised of the Higher Judicial Council, Federal Supreme Court, Federal Court of Cassation, Public Prosecution Department, Judiciary Oversight Commission and other federal courts that are regulated in accordance with the law"
+    },
+    "Political parties and leaders": {
+      "text": "Assyrian Democratic Movement [Yunadim KANNA]; Badr Organization [Hadi al-AMIRI]; Constitutional Monarchy Movement or CMM [Sharif Ali Bin al-HUSAYN]; Da'wa al-Islamiya Party [Nuri al-MALIKI]; General Conference of Iraqi People [Adnan al-DULAYMI]; Independent Iraqi Alliance or IIA [Falah al-NAQIB]; Iraqi Communist Party [Hamid MAJID]; Iraqi Front for National Dialogue [Salih al-MUTLAQ]; Iraqi Hizballah [Karim Mahmud al-MUHAMMADAWI]; Iraqi Independent Democrats or IID [Adnan PACHACHI, Mahdi al-HAFIZ]; Iraqi Islamic Party or IIP [Tariq al-HASHIMI]; Iraqi National Accord or INA [Ayad ALLAWI]; Iraqi National Congress or INC [Ahmad CHALABI]; Iraqi National Council for Dialogue or INCD [Khalaf Ulayan al-Khalifawi al-DULAYMI]; Iraqi National Unity Movement or INUM [Ahmad al-KUBAYSI]; Islamic Action Organization or IAO [Ayatollah Muhammad al-MUDARRISI]; Islamic Supreme Council of Iraq or ISCI [Abd al-Aziz al-HAKIM]; Jama'at al Fadilah or JAF [Muhammad Ali al-YAQUBI]; Kurdistan Democratic Party or KDP [Masud BARZANI]; Kurdistan Islamic Union [Salah ad-Din Muhammad BAHA al-DIN]; Patriotic Union of Kurdistan or PUK [Jalal TALABANI]; Sadrist Trend [Muqtada al-SADR] (not an organized political party, but it fields independent candidates affiliated with Muqtada al-SADR); Sahawa al-Iraq [Ahmad al-RISHAWI]",
+      "note": "the Kurdistan Alliance, Iraqi National List, Tawafuq Front, Iraqi Front for National Dialogue, and Unified Iraqi Alliance were only electoral slates consisting of the representatives from the various Iraqi political parties"
+    },
+    "note": "the Kurdistan Alliance, Iraqi National List, Tawafuq Front, Iraqi Front for National Dialogue, and Unified Iraqi Alliance were only electoral slates consisting of the representatives from the various Iraqi political parties",
+    "Political pressure groups and leaders": {
+      "text": "Sunni militias; Shia militias, some associated with political parties"
+    },
+    "International organization participation": {
+      "text": "ABEDA, AFESD (suspended), AMF, CAEU, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Samir Shakir al-SUMAYDI"
+      },
+      "chancery": {
+        "text": "3421 Massachusetts Ave, NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 742-1600"
+      },
+      "FAX": {
+        "text": "[1] (202) 333-1129"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Christopher R. HILL"
+      },
+      "embassy": {
+        "text": "Baghdad"
+      },
+      "mailing address": {
+        "text": "APO AE 09316"
+      },
+      "telephone": {
+        "text": "1-240-553-0589 ext. 5340 or 5635; note - Consular Section"
+      },
+      "FAX": {
+        "text": "NA"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning \"God is great\") in green Arabic script is centered in the white band; similar to the flag of Syria, which has two stars but no script, Yemen, which has a plain white band, and that of Egypt, which has a gold Eagle of Saladin centered in the white band; design is based upon the Arab Liberation colors; Council of Representatives approved this flag as a compromise temporary replacement for Ba'athist Saddam-era flag"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Decreasing insurgent attacks and an improving security environment in many parts of the country are helping to spur economic activity. Iraq's economy is dominated by the oil sector, which has traditionally provided over 90% of foreign exchange earnings. Oil exports are around levels seen before Operation Iraqi Freedom. Total government revenues have benefited from high oil prices in recent years; however, revenues have declined significantly since the oil price drop in fall 2008. Iraq is making some progress in building the institutions needed to implement economic policy. In March 2009 Iraq concluded a Stand-By Arrangement (SBA) with the IMF that details economic reforms. The SBA allows an 80% reduction of the debt owed to Paris Club creditor nations. The International Compact with Iraq was established in May 2007 to integrate Iraq into the regional and global economy, and the Iraqi government is seeking to pass laws to strengthen its economy. This legislation includes a hydrocarbon law to establish a modern legal framework to allow Iraq to develop its resources and a revenue sharing law to equitably divide oil revenues within the nation, although both are still under contentious political negotiation. Some foreign entities have expressed interest in reinvigorating Iraq's industrial sector. The government of Iraq is pursuing a strategy to gain foreign participation in joint ventures with State-owned enterprises. Provincial Councils are also using their own budgets to promote and facilitate investment at the local level. The Central Bank has been successful in controlling inflation through appreciation of the dinar against the US dollar. However, Iraq's challenge will be to use macroeconomic gains to improve the lives of ordinary Iraqis. Reducing corruption and implementing structural reforms, such as bank restructuring and developing the private sector, will be key to Iraq's economic success."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$82.46 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "1.48 billion cu m were flared (2008 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$91.45 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.2% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "5%"
+      },
+      "industry": {
+        "text": "68%"
+      },
+      "services": {
+        "text": "27% (2006 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "7.74 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "18% (2006 est.)",
+      "note": "official data; unofficial estimates as high as 30%"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$42.4 billion"
+      },
+      "expenditures": {
+        "text": "$49.9 billion (FY08 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "20% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "19.74% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$18.81 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$3.67 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$NA (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, rice, vegetables, dates, cotton; cattle, sheep, poultry\r\n\r\n"
+    },
+    "Industries": {
+      "text": "petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing"
+    },
+    "Industrial production growth rate": {
+      "text": "10.5% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "36.92 billion kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "39.88 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.95 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "2.385 million bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "638,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "1.83 million bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "116,900 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "115 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1.88 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "9.454 billion cu m",
+      "note": "1.48 billion cu m were flared (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "3.17 trillion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$4.909 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$36.08 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "crude oil 84%, crude materials excluding fuels 8%, food and live animals 5%"
+    },
+    "Exports - partners": {
+      "text": "US 37.3%, India 13.8%, Italy 9.4%, South Korea 6.8% (2008)"
+    },
+    "Imports": {
+      "text": "$25.67 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food, medicine, manufactures"
+    },
+    "Imports - partners": {
+      "text": "Syria 26.4%, Turkey 19.7%, US 10.7%, Jordan 6.5%, China 6% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$30.66 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$100.9 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "New Iraqi dinars (NID) per US dollar - 1,176 (2008), 1,255 (2007), 1,466 (2006), 1,475 (2005), 1,890 (second half, 2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "1.082 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "17.529 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq including international connections; widespread government efforts to rebuild domestic and international communications through fiber optic links are in progress; the mobile cellular market has expanded rapidly and its subscribership base approached 18 million in 2008"
+      },
+      "domestic": {
+        "text": "repairs to switches and lines destroyed during 2003 continue; additional switching capacity is improving access; cellular service is available and centered on 3 GSM networks which are being expanded beyond their regional roots, improving country-wide connectivity; wireless local loop licenses have been issued with the hope of overcoming the lack of fixed-line infrastructure"
+      },
+      "international": {
+        "text": "country code - 964; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey; planned international fiber-optic connections to Iran (terrestrial) with a link to the Fiber-Optic Link Around the Globe (FLAG) submarine fiber-optic cable (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "52 (station frequency types NA) (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "47 (2008)"
+    },
+    "Internet country code": {
+      "text": ".iq"
+    },
+    "Internet hosts": {
+      "text": "11 (2009)"
+    },
+    "Internet users": {
+      "text": "300,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "104 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "75"
+      },
+      "over 3,047 m": {
+        "text": "19"
+      },
+      "2,438 to 3,047 m": {
+        "text": "37"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "8 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "29"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "13"
+      },
+      "under 914 m": {
+        "text": "6 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "21 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 2,501 km; liquid petroleum gas 918 km; oil 5,418 km; refined products 1,637 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "2,272 km"
+      },
+      "standard gauge": {
+        "text": "2,272 km 1.435-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "44,900 km"
+      },
+      "paved": {
+        "text": "37,851 km"
+      },
+      "unpaved": {
+        "text": "7,049 km (2002)"
+      }
+    },
+    "Waterways": {
+      "text": "5,279 km",
+      "note": "Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are principal waterways (2008)"
+    },
+    "note": "Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are principal waterways (2008)",
+    "Merchant marine": {
+      "total": {
+        "text": "14"
+      },
+      "by type": {
+        "text": "cargo 10, petroleum tanker 4 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Al Basrah, Khawr az Zubayr, Umm Qasr"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Iraqi Armed Forces": {
+        "text": "Iraqi Army (includes Iraqi Special Operations Force, Iraqi Intervention Force), Iraqi Navy (former Iraqi Coastal Defense Force), Iraqi Air Force (former Iraqi Army Air Corps) (2005)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-49 years of age for voluntary military service (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "7,086,200"
+      },
+      "females age 16-49": {
+        "text": "6,808,954 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "6,203,425"
+      },
+      "females age 16-49": {
+        "text": "6,065,009 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "313,500"
+      },
+      "female": {
+        "text": "304,923 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "8.6% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "coalition forces assist Iraqis in monitoring internal and cross-border security; approximately two million Iraqis have fled the conflict in Iraq, with the majority taking refuge in Syria and Jordan, and lesser numbers to Egypt, Lebanon, Iran, and Turkey; Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "10,000-15,000 (Palestinian Territories); 11,773 (Iran); 16,832 (Turkey)"
+      },
+      "IDPs": {
+        "text": "2.4 million (ongoing US-led war and ethno-sectarian violence) (2007)"
+      }
+    }
+  }
+}

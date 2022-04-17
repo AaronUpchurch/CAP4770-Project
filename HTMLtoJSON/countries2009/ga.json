@@ -1,0 +1,697 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed a short-lived federation of Senegambia between 1982 and 1989. In 1991 the two nations signed a friendship and cooperation treaty, but tensions have flared up intermittently since then. Yahya A. J. J. JAMMEH led a military coup in 1994 that overthrew the president and banned political activity. A new constitution and presidential elections in 1996, followed by parliamentary balloting in 1997, completed a nominal return to civilian rule. JAMMEH has been elected president in all subsequent elections, including most recently in late 2006."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean and Senegal"
+    },
+    "Geographic coordinates": {
+      "text": "13 28 N, 16 34 W"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "11,295 sq km"
+      },
+      "land": {
+        "text": "10,000 sq km"
+      },
+      "water": {
+        "text": "1,295 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Delaware"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "740 km"
+      },
+      "border countries": {
+        "text": "Senegal 740 km"
+      }
+    },
+    "Coastline": {
+      "text": "80 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "18 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "extent not specified"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, rainy season (June to November); cooler, dry season (November to May)"
+    },
+    "Terrain": {
+      "text": "flood plain of the Gambia River flanked by some low hills"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "unnamed location 53 m"
+      }
+    },
+    "Natural resources": {
+      "text": "fish, titanium (rutile and ilmenite), tin, zircon, silica sand, clay, petroleum"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "27.88%"
+      },
+      "permanent crops": {
+        "text": "0.44%"
+      },
+      "other": {
+        "text": "71.68% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "20 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "8 cu km (1982)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.03  cu km/yr (23%/12%/65%)"
+      },
+      "per capita": {
+        "text": "20  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "drought (rainfall has dropped by 30% in the last 30 years)"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; desertification; water-borne diseases prevalent"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "almost an enclave of Senegal; smallest country on the continent of Africa"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "1,782,893 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "43.6% (male 390,806/female 387,172)"
+      },
+      "15-64 years": {
+        "text": "53.6% (male 473,478/female 481,315)"
+      },
+      "65 years and over": {
+        "text": "2.8% (male 25,071/female 25,051) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "17.9 years"
+      },
+      "male": {
+        "text": "17.8 years"
+      },
+      "female": {
+        "text": "18.1 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "2.668% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "37.87 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "11.49 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.3 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "57% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1 male(s)/female"
+      },
+      "total population": {
+        "text": "1 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "67.33 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "73.56 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "60.91 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "55.35 years"
+      },
+      "male": {
+        "text": "53.43 years"
+      },
+      "female": {
+        "text": "57.34 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "5.04 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.9% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "8,200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "600 (2003 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "malaria"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "respiratory disease": {
+        "text": "meningococcal meningitis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Gambian(s)"
+      },
+      "adjective": {
+        "text": "Gambian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "African 99% (Mandinka 42%, Fula 18%, Wolof 16%, Jola 10%, Serahuli 9%, other 4%), non-African 1% (2003 census)"
+    },
+    "Religions": {
+      "text": "Muslim 90%, Christian 8%, indigenous beliefs 2%"
+    },
+    "Languages": {
+      "text": "English (official), Mandinka, Wolof, Fula, other indigenous vernaculars"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "40.1%"
+      },
+      "male": {
+        "text": "47.8%"
+      },
+      "female": {
+        "text": "32.8% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "7 years"
+      },
+      "male": {
+        "text": "7 years"
+      },
+      "female": {
+        "text": "7 years (2004)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2% of GDP (2004)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of The Gambia "
+      },
+      "conventional short form": {
+        "text": "The Gambia"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Banjul"
+      },
+      "geographic coordinates": {
+        "text": "13 27 N, 16 34 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "5 divisions and 1 city*; Banjul*, Central River, Lower River, North Bank, Upper River, Western"
+    },
+    "Independence": {
+      "text": "18 February 1965 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 18 February (1965)"
+    },
+    "Constitution": {
+      "text": "approved by national referendum 8 August 1996; effective 16 January 1997"
+    },
+    "Legal system": {
+      "text": "based on a composite of English common law, Islamic law, and customary law; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Yahya A. J. J. JAMMEH (since 18 October 1996); note - from 1994 to 1996 he was chairman of the Junta; Vice President Isatou NJIE-SAIDY (since 20 March 1997); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Yahya A. J. J. JAMMEH (since 18 October 1996); Vice President Isatou NJIE-SAIDY (since 20 March 1997)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (no term limits); election last held 22 September 2006 (next to be held in 2011)"
+      },
+      "election results": {
+        "text": "Yahya A. J. J. JAMMEH reelected president; percent of vote - Yahya A. J. J. JAMMEH 67.3%, Ousainou DARBOE 26.6%, Halifa SALLAH 6.0%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly (53 seats; 48 members elected by popular vote, 5 appointed by the president; to serve five-year terms)",
+      "elections": {
+        "text": "last held 25 January 2007 (next to be held in 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - APRC 47, UDP 4, NADD 1, independent 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Patriotic Reorientation and Construction or APRC (the ruling party) [Yahya A. J. J. JAMMEH]; Gambia People's Democratic Party or GPDP [Henry GOMEZ]; National Alliance for Democracy and Development or NADD [Halifa SALLAH]; National Convention Party or NCP [Sheriff DIBBA]; National Reconciliation Party or NRP [Hamat N. K. BAH]; People's Democratic Organization for Independence and Socialism or PDOIS [Halifa SALLAH]; United Democratic Party or UDP [Ousainou DARBOE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Environment Agency or NEA; West African Peace Building Network-Gambian Chapter or WANEB-GAMBIA; Youth Employment Network Gambia or YENGambia",
+      "other": {
+        "text": "special needs group advocates; teachers and principals"
+      }
+    },
+    "International organization participation": {
+      "text": "ABEDA, ACP, AfDB, AU, C, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC, MIGA, MINURCAT, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant)"
+      },
+      "chancery": {
+        "text": "Suite 600, 1424 K Street NW, Washington, DC 20005"
+      },
+      "telephone": {
+        "text": "[1] (202) 785-1379, 1399, 1425"
+      },
+      "FAX": {
+        "text": "[1] (202) 785-1430"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Barry L. WELLS"
+      },
+      "embassy": {
+        "text": "Kairaba Avenue, Fajara, Banjul"
+      },
+      "mailing address": {
+        "text": "P. M. B. No. 19, Banjul"
+      },
+      "telephone": {
+        "text": "[220] 439-2856, 437-6169, 437-6170"
+      },
+      "FAX": {
+        "text": "[220] 439-2475"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), blue with white edges, and green"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Gambia has no confirmed mineral or natural resource deposits and has a limited agricultural base. About 75% of the population depends on crops and livestock for its livelihood. Small-scale manufacturing activity features the processing of peanuts, fish, and hides. Reexport trade normally constitutes a major segment of economic activity, but a 1999 government-imposed preshipment inspection plan, and instability of the Gambian dalasi (currency) have drawn some of the reexport trade away from The Gambia. The Gambia's natural beauty and proximity to Europe has made it one of the larger markets for tourism in West Africa. The government's 1998 seizure of the private peanut firm Alimenta eliminated the largest purchaser of Gambian groundnuts. Despite an announced program to begin privatizing key parastatals, no plans have been made public that would indicate that the government intends to follow through on its promises. Unemployment and underemployment rates remain extremely high; short-run economic progress depends on sustained bilateral and multilateral aid, on responsible government economic management, on continued technical assistance from the IMF and bilateral donors, and on expected growth in the construction sector."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.023 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$810 million (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.5% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,200 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "33.3%"
+      },
+      "industry": {
+        "text": "7.6%"
+      },
+      "services": {
+        "text": "59% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "777,100 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "75%"
+      },
+      "industry": {
+        "text": "19%"
+      },
+      "services": {
+        "text": "6% (1996)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2%"
+      },
+      "highest 10%": {
+        "text": "36.9% (2003)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": ""
+    },
+    "Investment (gross fixed)": {
+      "text": "28% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$155.6 million"
+      },
+      "expenditures": {
+        "text": "$167.3 million (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.1% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "27.92% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$186.7 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$180.4 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$169.9 million (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "rice, millet, sorghum, peanuts, corn, sesame, cassava (tapioca), palm kernels; cattle, sheep, goats"
+    },
+    "Industries": {
+      "text": "processing peanuts, fish, and hides; tourism, beverages, agricultural machinery assembly, woodworking, metalworking, clothing"
+    },
+    "Industrial production growth rate": {
+      "text": "0.3% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "160 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "148.8 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "41.62 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "2,266 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$80.3 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$91.4 million (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "peanut products, fish, cotton lint, palm kernels, re-exports"
+    },
+    "Exports - partners": {
+      "text": "India 30.5%, Japan 25.6%, Belgium 6.3%, China 5.5%, UK 5.3%, Spain 4.1% (2008)"
+    },
+    "Imports": {
+      "text": "$262.9 million (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, manufactures, fuel, machinery and transport equipment"
+    },
+    "Imports - partners": {
+      "text": "China 20.6%, Senegal 12.1%, Cote d'Ivoire 8.7%, Brazil 7.7%, Netherlands 5% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$142.8 million (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$628.8 million (2003 est.)"
+    },
+    "Exchange rates": {
+      "text": "dalasis (GMD) per US dollar - 22.75 (2008 est.), 27.79 (2007), 28.066 (2006), 28.575 (2005), 30.03 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "48,900 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.166 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate; a packet switched data network is available; state-owned Gambia Telecommunications partially privatized in 2007"
+      },
+      "domestic": {
+        "text": "adequate network of microwave radio relay and open-wire; combined fixed-line and mobile-cellular teledensity reached 70 telephones per 100 persons in 2008"
+      },
+      "international": {
+        "text": "country code - 220; microwave radio relay links to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3, FM 2, shortwave 0 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (government-owned) (1997)"
+    },
+    "Internet country code": {
+      "text": ".gm"
+    },
+    "Internet hosts": {
+      "text": "895 (2009)"
+    },
+    "Internet users": {
+      "text": "114,200 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "3,742 km"
+      },
+      "paved": {
+        "text": "723 km"
+      },
+      "unpaved": {
+        "text": "3,019 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "390 km (on River Gambia; small ocean-going vessels can reach 190 km) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "5"
+      },
+      "by type": {
+        "text": "passenger/cargo 4, petroleum tanker 1 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Banjul"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Office of the Chief of Defense": {
+        "text": "Gambian National Army (National Guard, GNA), Gambian Navy (GN) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "379,668"
+      },
+      "females age 16-49": {
+        "text": "384,438 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "238,454"
+      },
+      "females age 16-49": {
+        "text": "253,680 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "20,238"
+      },
+      "female": {
+        "text": "20,167 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "5,955 (Sierra Leone) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "The Gambia is a source, transit, and destination country for children and women trafficked for the purposes of forced labor and commercial sexual exploitation; women and girls, and to a lesser extent boys, are trafficked for sexual exploitation - in particular to meet the demand for European sex tourism - and for domestic servitude; boys are trafficked within the country for forced begging and street vending; Gambian women and children may be trafficked to Europe through trafficking schemes disguised as migrant smuggling"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - for a second consecutive year, The Gambia is on the Tier 2 Watch List for its failure to provide evidence of increasing efforts to eliminate trafficking; The Gambia failed to report any trafficking arrests, prosecutions, or convictions in 2007, and the government demonstrated weak victim protection efforts during the reporting period (2008)"
+      }
+    }
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Armenia prides itself on being the first nation to formally adopt Christianity (early 4th century). Despite periods of autonomy, over the centuries Armenia came under the sway of various empires including the Roman, Byzantine, Arab, Persian, and Ottoman. During World War I in the western portion of Armenia, Ottoman Turkey instituted a policy of forced resettlement coupled with other harsh practices that resulted in an estimated 1 million Armenian deaths. The eastern area of Armenia was ceded by the Ottomans to Russia in 1828; this portion declared its independence in 1918, but was conquered by the Soviet Red Army in 1920. Armenian leaders remain preoccupied by the long conflict with Azerbaijan over Nagorno-Karabakh, a primarily Armenian-populated region, assigned to Soviet Azerbaijan in the 1920s by Moscow. Armenia and Azerbaijan began fighting over the area in 1988; the struggle escalated after both countries attained independence from the Soviet Union in 1991. By May 1994, when a cease-fire took hold, ethnic Armenian forces held not only Nagorno-Karabakh but also a significant portion of Azerbaijan proper. The economies of both sides have been hurt by their inability to make substantial progress toward a peaceful resolution. Turkey closed the common border with Armenia in 1994 because of the Armenian separatists' control of Nagorno-Karabakh and surrounding areas, further hampering Armenian economic growth. In 2009, senior Armenian leaders began pursuing rapprochement with Turkey, aiming to secure an opening of the border; this process is currently dormant."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southwestern Asia, between Turkey (to the west) and Azerbaijan"
+    },
+    "Geographic coordinates": {
+      "text": "40 00 N, 45 00 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "29,743 sq km"
+      },
+      "land": {
+        "text": "28,203 sq km"
+      },
+      "water": {
+        "text": "1,540 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,254 km"
+      },
+      "border countries": {
+        "text": "Azerbaijan-proper 566 km, Azerbaijan-Naxcivan exclave 221 km, Georgia 164 km, Iran 35 km, Turkey 268 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "highland continental, hot summers, cold winters"
+    },
+    "Terrain": {
+      "text": "Armenian Highland with mountains; little forest land; fast flowing rivers; good soil in Aras River valley"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Debed River 400 m"
+      },
+      "highest point": {
+        "text": "Aragats Lerrnagagat' 4,090 m"
+      }
+    },
+    "Natural resources": {
+      "text": "small deposits of gold, copper, molybdenum, zinc, bauxite"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "16.78%"
+      },
+      "permanent crops": {
+        "text": "2.01%"
+      },
+      "other": {
+        "text": "81.21% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "2,740 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "10.5 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "2.95  cu km/yr (30%/4%/66%)"
+      },
+      "per capita": {
+        "text": "977  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "occasionally severe earthquakes; droughts"
+    },
+    "Environment - current issues": {
+      "text": "soil pollution from toxic chemicals such as DDT; the energy crisis of the 1990s led to deforestation when citizens scavenged for firewood; pollution of Hrazdan (Razdan) and Aras Rivers; the draining of Sevana Lich (Lake Sevan), a result of its use as a source for hydropower, threatens drinking water supplies; restart of Metsamor nuclear power plant in spite of its location in a seismically active zone"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Persistent Organic Pollutants"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the largest lake in this mountain range"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Armenian(s) "
+      },
+      "adjective": {
+        "text": "Armenian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Armenian 97.9%, Yezidi (Kurd) 1.3%, Russian 0.5%, other 0.3% (2001 census)"
+    },
+    "Languages": {
+      "text": "Armenian (official) 97.7%, Yezidi 1%, Russian 0.9%, other 0.4% (2001 census)"
+    },
+    "Religions": {
+      "text": "Armenian Apostolic 94.7%, other Christian 4%, Yezidi (monotheist with elements of nature worship) 1.3%"
+    },
+    "Population": {
+      "text": "2,967,975 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "17.6% (male 279,304/female 242,621)"
+      },
+      "15-64 years": {
+        "text": "72.4% (male 1,006,312/female 1,141,430)"
+      },
+      "65 years and over": {
+        "text": "10.1% (male 112,947/female 185,361) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "32.2 years"
+      },
+      "male": {
+        "text": "29.5 years"
+      },
+      "female": {
+        "text": "35 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.063% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "12.85 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "8.46 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.76 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "64% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.5% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "YEREVAN (capital) 1.11 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.124 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.15 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.88 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.62 male(s)/female"
+      },
+      "total population": {
+        "text": "0.89 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "29 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "18.85 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "23.38 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "13.75 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.23 years"
+      },
+      "male": {
+        "text": "69.59 years"
+      },
+      "female": {
+        "text": "77.31 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.37 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "4.7% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.697 physicians/1,000 population (2007)"
+    },
+    "Hospital bed density": {
+      "text": "4.07 beds/1,000 population (2007)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "2% of population"
+      },
+      "rural": {
+        "text": "7% of population"
+      },
+      "total": {
+        "text": "4% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "5% of population"
+      },
+      "rural": {
+        "text": "20% of population"
+      },
+      "total": {
+        "text": "10% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "1,900 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "4.2% (2005)"
+    },
+    "Education expenditures": {
+      "text": "3% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.4%"
+      },
+      "male": {
+        "text": "99.7%"
+      },
+      "female": {
+        "text": "99.2% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "13 years (2009)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "57.6%"
+      },
+      "male": {
+        "text": "47.2%"
+      },
+      "female": {
+        "text": "69.4% (2007)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Armenia "
+      },
+      "conventional short form": {
+        "text": "Armenia"
+      },
+      "local long form": {
+        "text": "Hayastani Hanrapetut'yun"
+      },
+      "local short form": {
+        "text": "Hayastan"
+      },
+      "former": {
+        "text": "Armenian Soviet Socialist Republic, Armenian Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Yerevan"
+      },
+      "geographic coordinates": {
+        "text": "40 10 N, 44 30 E"
+      },
+      "time difference": {
+        "text": "UTC+4 (9 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan"
+    },
+    "Independence": {
+      "text": "21 September 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 21 September (1991)"
+    },
+    "Constitution": {
+      "text": "adopted by nationwide referendum 5 July 1995; amendments adopted through a nationwide referendum 27 November 2005"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Serzh SARGSIAN (since 9 April 2008)"
+      },
+      "head of government": {
+        "text": "Prime Minister Tigran SARGSIAN (since 9 April 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 19 February 2008 (next to be held in February 2013); prime minister appointed by the president based on majority or plurality support in parliament; the prime minister and Council of Ministers must resign if the National Assembly refuses to accept their program"
+      },
+      "election results": {
+        "text": "Serzh SARGSIAN elected president; percent of vote - Serzh SARGSIAN 52.9%, Levon TER-PETROSSIAN 21.5%, Artur BAGHDASARIAN 16.7%, other 8.9%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly (Parliament) or Azgayin Zhoghov (131 seats; members elected by popular vote, 90 members elected by party list and 41 by direct vote; to serve five-year terms)",
+      "elections": {
+        "text": "last held on 12 May 2007 (next to be held in the spring of 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - HHK 33.9%, Prosperous Armenia 15.1%, ARF (Dashnak) 13.2%, Rule of Law 7.1%, Heritage Party 6%, other 24.7%; seats by party - HHK 64, Prosperous Armenia 18, ARF (Dashnak) 16, Rule of Law 9, Heritage Party 7, independent 17"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; Court of Cassation (Appeals Court)"
+    },
+    "Political parties and leaders": {
+      "text": "Armenian National Congress or ANC (bloc of independent and opposition parties) [Levon TER-PETROSSIAN]; Armenian National Movement or ANM [Ararat ZURABIAN]; Armenian Revolutionary Federation (\"Dashnak\" Party) or ARF [Hrant MARKARIAN]; Heritage Party [Raffi HOVHANNISIAN]; People's Party of Armenia [Stepan DEMIRCHIAN]; Prosperous Armenia [Gagik TSARUKIAN]; Republican Party of Armenia or HHK [Serzh SARGSIAN]; Rule of Law Party (Orinats Yerkir) [Artur BAGHDASARIAN]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Aylentrank (Impeachment Alliance) [Nikol PASHINIAN]; Yerkrapah Union [Manvel GRIGORIAN]"
+    },
+    "International organization participation": {
+      "text": "ADB, BSEC, CE, CIS, CSTO, EAEC (observer), EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Tatoul MARKARIAN"
+      },
+      "chancery": {
+        "text": "2225 R Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 319-1976"
+      },
+      "FAX": {
+        "text": "[1] (202) 319-2982"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Marie L. YOVANOVITCH"
+      },
+      "embassy": {
+        "text": "1 American Ave., Yerevan 0082"
+      },
+      "mailing address": {
+        "text": "American Embassy Yerevan, US Department of State, 7020 Yerevan Place, Washington, DC 20521-7020"
+      },
+      "telephone": {
+        "text": "[374](10) 464-700"
+      },
+      "FAX": {
+        "text": "[374](10) 464-742"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), blue, and orange; the color red recalls the blood shed for liberty, blue the Armenian skies as well as hope, and orange the land and the courage of the workers who farm it"
+    },
+    "National symbol(s)": {
+      "text": "Mount Ararat; eagle; lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Mer Hayrenik\"\"(Our Fatherland)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Mikael NALBANDIAN/Barsegh KANACHYAN"
+      },
+      "note": "adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922) but with different lyrics"
+    },
+    "note": "adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922) but with different lyrics"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "After several years of double-digit economic growth, Armenia faced a severe economic recession with GDP declining more than 14% in 2009, despite large loans from multilateral institutions. Sharp declines in the construction sector and workers' remittances, particularly from Russia, were the main reasons for the downturn. The economy began to recover in 2010 with nearly 5% growth. Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agroindustrial complexes of the Soviet era. Armenia has managed to reduce poverty, slash inflation, stabilize its currency, and privatize most small- and medium-sized enterprises. Since the breakup of the Soviet Union in 1991, Armenia had made progress in implementing some economic reforms, including privatization, price reforms, and prudent fiscal policies, but geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made Armenia particularly vulnerable to the sharp deterioration in the global economy and the economic downturn in Russia. The conflict with Azerbaijan over the ethnic Armenian-dominated region of Nagorno-Karabakh contributed to a severe economic decline in the early 1990s and Armenia's borders with Turkey remain closed. Armenia is particularly dependent on Russian commercial and governmental support and most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. The electricity distribution system was privatized in 2002 and bought by Russia's RAO-UES in 2005. Construction of a pipeline to deliver natural gas from Iran to Armenia was completed in December 2008, and gas deliveries are slated to expand due to the April 2010 completion of the Yerevan Thermal Power Plant. Armenia has some mineral deposits (copper, gold, bauxite). Pig iron, unwrought copper, and other nonferrous metals are Armenia's highest valued exports. Armenia's severe trade imbalance has been offset somewhat by international aid, remittances from Armenians working abroad, and foreign direct investment. Armenia joined the WTO in January 2003. The government made some improvements in tax and customs administration in recent years, but anti-corruption measures have been ineffective and the current economic downturn has led to a sharp drop in tax revenue and forced the government to accept large loan packages from Russia, the IMF, and other international financial institutions. Armenia will need to pursue additional economic reforms in order to regain economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from two of its nearest neighbors, Turkey and Azerbaijan."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$19.14 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "this is the Refinancing Rate, the key monetary policy instrument of the Armenian National Bank",
+    "GDP (official exchange rate)": {
+      "text": "$9.389 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.9% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$6,400 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "17.4%"
+      },
+      "industry": {
+        "text": "37%"
+      },
+      "services": {
+        "text": "45.6% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "1.481 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "46.2%"
+      },
+      "industry": {
+        "text": "15.6%"
+      },
+      "services": {
+        "text": "38.2% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.1% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "26.5% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.7%"
+      },
+      "highest 10%": {
+        "text": "25.4% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "44.4 (1996)"
+    },
+    "Investment (gross fixed)": {
+      "text": "33.6% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.023 billion"
+      },
+      "expenditures": {
+        "text": "$2.486 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "21.5% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.9% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.4% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "7.25% (2 December 2008)",
+      "note": "this is the Refinancing Rate, the key monetary policy instrument of the Armenian National Bank"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "18.763% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.029 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$3.21 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.666 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$176 million (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "fruit (especially grapes), vegetables; livestock"
+    },
+    "Industries": {
+      "text": "diamond-processing, metal-cutting machine tools, forging-pressing machines, electric motors, tires, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry manufacturing, software development, food processing, brandy"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "5.863 billion kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "4.986 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "360 million kWh; note - exports an unknown quantity to Georgia; includes exports to Nagorno-Karabakh region in Azerbaijan (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "17 million kWh; note - imports an unknown quantity from Iran (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "52,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "46,680 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.86 billion cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "1.86 billion cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.326 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$722.3 million (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "pig iron, unwrought copper, nonferrous metals, diamonds, mineral products, foodstuffs, energy"
+    },
+    "Exports - partners": {
+      "text": "Russia 15.9%, Bulgaria 15.5%, Germany 13.1%, Netherlands 9.8%, US 8.2%, Belgium 7.2%, Iran 5.2%, Georgia 5% (2010)"
+    },
+    "Imports": {
+      "text": "$2.817 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "natural gas, petroleum, tobacco products, foodstuffs, diamonds"
+    },
+    "Imports - partners": {
+      "text": "Russia 22.1%, China 10.7%, Ukraine 6.1%, Iran 5.7%, Germany 5.6%, Turkey 5.6% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.004 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.227 billion (30 June 2010)"
+    },
+    "Exchange rates": {
+      "text": "414.69 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "589,900 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.865 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications investments have made major inroads in modernizing and upgrading the outdated telecommunications network inherited from the Soviet era; now 100% privately owned and undergoing modernization and expansion; mobile-cellular services monopoly terminated in late 2004 and a second provider began operations in mid-2005"
+      },
+      "domestic": {
+        "text": "reliable modern fixed-line and mobile-cellular services are available across Yerevan in major cities and towns; significant but ever-shrinking gaps remain in mobile-cellular coverage in rural areas"
+      },
+      "international": {
+        "text": "country code - 374; Yerevan is connected to the Trans-Asia-Europe fiber-optic cable through Iran; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2010)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 public television networks operating alongside more than 40 privately-owned television stations that provide local to near nationwide coverage; major Russian broadcast stations are widely available; subscription cable TV services are available in most regions; Public Radio of Armenia is a national, state-run broadcast network that operates alongside about 20 privately-owned radio stations; several major international broadcasters are available (2008)"
+    },
+    "Internet country code": {
+      "text": ".am"
+    },
+    "Internet hosts": {
+      "text": "65,279 (2010)"
+    },
+    "Internet users": {
+      "text": "208,200 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "11 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 2,233 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "869 km"
+      },
+      "broad gauge": {
+        "text": "869 km 1.520-m gauge (818 km electrified)"
+      },
+      "note": "some lines are out of service (2010)"
+    },
+    "note": "some lines are out of service (2010)",
+    "Roadways": {
+      "total": {
+        "text": "8,888 km"
+      },
+      "paved": {
+        "text": "7,079 km (includes 1,561 km of expressways)"
+      },
+      "unpaved": {
+        "text": "1,809 km (2008)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Armenian Armed Forces": {
+        "text": "Ground Forces, Air Force and Air Defense; \"Nagorno-Karabakh Republic\""
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "805,847"
+      },
+      "females age 16-49": {
+        "text": "854,296 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "644,372"
+      },
+      "females age 16-49": {
+        "text": "717,272 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "23,470"
+      },
+      "female": {
+        "text": "21,417 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.8% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability; residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders; ethnic Armenian groups in Javakheti region of Georgia seek greater autonomy from the Georgian Government"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "113,295 (Azerbaijan)"
+      },
+      "IDPs": {
+        "text": "8,400 (conflict with Azerbaijan over Nagorno-Karabakh, majority have returned home since 1994 ceasefire) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit cultivation of small amount of cannabis for domestic consumption; minor transit point for illicit drugs - mostly opium and hashish - moving from Southwest Asia to Russia and to a lesser extent the rest of Europe"
+    }
+  }
+}

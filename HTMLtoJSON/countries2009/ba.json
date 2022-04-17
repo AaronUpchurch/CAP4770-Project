@@ -1,0 +1,690 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 1783, the al-Khalifa family captured Bahrain from the Persians. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. Bahrain's small size and central location among Persian Gulf countries require it to play a delicate balancing act in foreign affairs among its larger neighbors. Facing declining oil reserves, Bahrain has turned to petroleum processing and refining and has transformed itself into an international banking center. King HAMAD bin Isa al-Khalifa, after coming to power in 1999, pushed economic and political reforms to improve relations with the Shia community. Shia political societies participated in 2006 parliamentary and municipal elections. Al Wifaq, the largest Shia political society, won the largest number of seats in the elected chamber of the legislature. However, Shia discontent has resurfaced in recent years with street demonstrations and occasional low-level violence."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle East, archipelago in the Persian Gulf, east of Saudi Arabia"
+    },
+    "Geographic coordinates": {
+      "text": "26 00 N, 50 33 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "741 sq km"
+      },
+      "land": {
+        "text": "741 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "3.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "161 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "continental shelf": {
+        "text": "extending to boundaries to be determined"
+      }
+    },
+    "Climate": {
+      "text": "arid; mild, pleasant winters; very hot, humid summers"
+    },
+    "Terrain": {
+      "text": "mostly low desert plain rising gently to low central escarpment"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Persian Gulf 0 m"
+      },
+      "highest point": {
+        "text": "Jabal ad Dukhan 122 m"
+      }
+    },
+    "Natural resources": {
+      "text": "oil, associated and nonassociated natural gas, fish, pearls"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.82%"
+      },
+      "permanent crops": {
+        "text": "5.63%"
+      },
+      "other": {
+        "text": "91.55% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "40 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "0.1 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.3  cu km/yr (40%/3%/57%)"
+      },
+      "per capita": {
+        "text": "411  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "periodic droughts; dust storms"
+    },
+    "Environment - current issues": {
+      "text": "desertification resulting from the degradation of limited arable land, periods of drought, and dust storms; coastal degradation (damage to coastlines, coral reefs, and sea vegetation) resulting from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources (groundwater and seawater are the only sources for all water needs)"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "727,785",
+      "note": "includes 235,108 non-nationals (July 2009 est.)"
+    },
+    "note": "includes 235,108 non-nationals (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "25.9% (male 95,224/female 93,241)"
+      },
+      "15-64 years": {
+        "text": "70.2% (male 292,941/female 217,729)"
+      },
+      "65 years and over": {
+        "text": "3.9% (male 15,106/female 13,544) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "30.1 years"
+      },
+      "male": {
+        "text": "33.2 years"
+      },
+      "female": {
+        "text": "26.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.285% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "17.02 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.37 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "0.2 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "89% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.8% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.34 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.12 male(s)/female"
+      },
+      "total population": {
+        "text": "1.24 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "15.25 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "17.81 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "12.61 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "75.16 years"
+      },
+      "male": {
+        "text": "72.64 years"
+      },
+      "female": {
+        "text": "77.76 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.5 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "fewer than 600 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2003 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Bahraini(s)"
+      },
+      "adjective": {
+        "text": "Bahraini"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Bahraini 62.4%, non-Bahraini 37.6% (2001 census)"
+    },
+    "Religions": {
+      "text": "Muslim (Shia and Sunni) 81.2%, Christian 9%, other 9.8% (2001 census)"
+    },
+    "Languages": {
+      "text": "Arabic, English, Farsi, Urdu"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "86.5%"
+      },
+      "male": {
+        "text": "88.6%"
+      },
+      "female": {
+        "text": "83.6% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "16 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.9% of GDP (1991)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kingdom of Bahrain "
+      },
+      "conventional short form": {
+        "text": "Bahrain"
+      },
+      "local long form": {
+        "text": "Mamlakat al Bahrayn"
+      },
+      "local short form": {
+        "text": "Al Bahrayn"
+      },
+      "former": {
+        "text": "Dilmun"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Manama"
+      },
+      "geographic coordinates": {
+        "text": "26 14 N, 50 34 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "5 governorates; Asamah, Janubiyah, Muharraq, Shamaliyah, Wasat",
+      "note": "each governorate administered by an appointed governor"
+    },
+    "note": "each governorate administered by an appointed governor",
+    "Independence": {
+      "text": "15 August 1971 (from the UK)"
+    },
+    "National holiday": {
+      "text": "National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection"
+    },
+    "Constitution": {
+      "text": "adopted 14 February 2002"
+    },
+    "Legal system": {
+      "text": "based on Islamic law and English common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "20 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "King HAMAD bin Isa Al-Khalifa (since 6 March 1999); Heir Apparent Crown Prince SALMAN bin Hamad (son of the monarch, born 21 October 1969)"
+      },
+      "head of government": {
+        "text": "Prime Minister KHALIFA bin Salman Al-Khalifa (since 1971); Deputy Prime Ministers ALI bin Khalifa bin Salman Al-Khalifa, MUHAMMAD bin Mubarak Al-Khalifa, Jawad al-ARAIDH"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the monarch"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; prime minister appointed by the monarch"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral legislature consists of the Consultative Council (40 members appointed by the King) and the Council of Representatives or Chamber of Deputies (40 seats; members directly elected to serve four-year terms)",
+      "elections": {
+        "text": "Council of Representatives - last held November-December 2006 (next election to be held in 2010)"
+      },
+      "election results": {
+        "text": "Council of Representatives - percent of vote by society - NA; seats by society - al Wifaq (Shia) 17, al Asala (Sunni Salafi) 5, al Minbar (Sunni Muslim Brotherhood) 7, independents 11; note - seats by society as of February 2007 - al Wifaq 17, al Asala 8, al Minbar 7, al Mustaqbal (Moderate Sunni pro-government) 4, unassociated independents (all Sunni) 3, independent affiliated with al Wifaq (Sunni oppositionist) 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "High Civil Appeals Court"
+    },
+    "Political parties and leaders": {
+      "text": "political parties prohibited but political societies were legalized per a July 2005 law"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Shia activists; Sunni Islamist legislators",
+      "other": {
+        "text": "several small leftist and other groups are active"
+      }
+    },
+    "International organization participation": {
+      "text": "ABEDA, AFESD, AMF, FAO, G-77, GCC, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC, LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Houda Ibrahim Ezra NUNU"
+      },
+      "chancery": {
+        "text": "3502 International Drive NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 342-1111"
+      },
+      "FAX": {
+        "text": "[1] (202) 362-2192"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador J. Adam ERELI"
+      },
+      "embassy": {
+        "text": "Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, Manama"
+      },
+      "mailing address": {
+        "text": "PSC 451, Box 660, FPO AE 09834-5100; international mail"
+      },
+      "telephone": {
+        "text": "[973] 1724-2700"
+      },
+      "FAX": {
+        "text": "[973] 1727-0547"
+      }
+    },
+    "Flag description": {
+      "text": "red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "With its highly developed communication and transport facilities, Bahrain is home to numerous multinational firms with business in the Gulf. Petroleum production and refining account for over 60% of Bahrain's export receipts, over 70% of government revenues, and 11% of GDP (exclusive of allied industries), underpinning Bahrain's strong economic growth in recent years. Aluminum is Bahrain's second major export after oil. Other major segments of Bahrain's economy are the financial and construction sectors. Bahrain is focused on Islamic banking and is competing on an international scale with Malaysia as a worldwide banking center. Bahrain is actively pursuing the diversification and privatization of its economy to reduce the country's dependence on oil. As part of this effort, in August 2006 Bahrain and the US implemented a Free Trade Agreement (FTA), the first FTA between the US and a Gulf state. Continued strong growth hinges on Bahrain's ability to acquire new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. Unemployment, especially among the young, and the depletion of oil and underground water resources are long-term economic problems. The global financial crisis is likely to result in slower economic growth for Bahrain during 2009 as tight international credit and a slowing global economy cause funding for many non-oil projects to dry up. Lower oil prices may also cause Bahrain's budget to slip back into deficit."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$23.34 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "44% of the population in the 15-64 age group is non-national (2008 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$21.24 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.7% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$33,400 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.4%"
+      },
+      "industry": {
+        "text": "66.2%"
+      },
+      "services": {
+        "text": "33.3% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "557,000",
+      "note": "44% of the population in the 15-64 age group is non-national (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1%"
+      },
+      "industry": {
+        "text": "79%"
+      },
+      "services": {
+        "text": "20% (1997 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "15% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "26.6% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$6.934 billion"
+      },
+      "expenditures": {
+        "text": "$5.612 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "63.8% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.3% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.35% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$4.169 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$10.63 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$10.32 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$21.12 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "fruit, vegetables; poultry, dairy products; shrimp, fish"
+    },
+    "Industries": {
+      "text": "petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "6.3% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "10.25 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "10.1 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "48,520 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "38,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "238,300 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "228,400 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "124.6 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "12.64 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "12.64 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "92.03 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$2.907 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$13.79 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum and petroleum products, aluminum, textiles"
+    },
+    "Exports - partners": {
+      "text": "Saudi Arabia 3.4%, India 2.7%, UAE 2.2% (2008)"
+    },
+    "Imports": {
+      "text": "$10.93 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "crude oil, machinery, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Saudi Arabia 26.7%, Japan 8.9%, US 7.8%, China 6.2%, Germany 4.8%, South Korea 4.7%, UK 4.5% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$4.101 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$7.858 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$13.31 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$7.72 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Bahraini dinars (BHD) per US dollar - 0.376 (2008 est.), 0.376 (2007), 0.376 (2006), 0.376 (2005), 0.376 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "220,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.4 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system"
+      },
+      "domestic": {
+        "text": "modern fiber-optic integrated services; digital network with rapidly growing use of mobile-cellular telephones"
+      },
+      "international": {
+        "text": "country code - 973; landing point for the Fiber-Optic Link Around the Globe (FLAG) submarine cable network that provides links to Asia, Middle East, Europe, and US; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 3, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "4 (1997)"
+    },
+    "Internet country code": {
+      "text": ".bh"
+    },
+    "Internet hosts": {
+      "text": "51,489 (2009)"
+    },
+    "Internet users": {
+      "text": "402,900 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "3 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "3"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 20 km; oil 32 km (2008)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "3,498 km"
+      },
+      "paved": {
+        "text": "2,768 km"
+      },
+      "unpaved": {
+        "text": "730 km (2003)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "9"
+      },
+      "by type": {
+        "text": "bulk carrier 4, container 4, petroleum tanker 1"
+      },
+      "foreign-owned": {
+        "text": "6 (Kuwait 5, UAE 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Mina' Salman, Sitrah"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Bahrain Defense Forces (BDF)": {
+        "text": "Ground Force (includes Air Defense), Naval Force, Air Force, National Guard"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "17 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "210,938"
+      },
+      "females age 16-49": {
+        "text": "170,471 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "171,004"
+      },
+      "females age 16-49": {
+        "text": "144,555 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "6,612"
+      },
+      "female": {
+        "text": "6,499 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "4.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Bahrain is a destination country for men and women trafficked for the purposes of involuntary servitude and commercial sexual exploitation; men and women from Africa, South Asia, and Southeast Asia migrate voluntarily to Bahrain to work as laborers or domestic servants where some face conditions of involuntary servitude such as unlawful withholding of passports, restrictions on movements, non-payment of wages, threats, and physical or sexual abuse; women from Thailand, Morocco, Eastern Europe, and Central Asia are trafficked to Bahrain for the purpose of commercial sexual exploitation"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Bahrain is on the Tier 2 Watch List for failing to show evidence of increased efforts to combat human trafficking, particularly efforts that enforce laws against trafficking in persons, and that prevent the punishment of victims of trafficking; during 2007, Bahrain passed a comprehensive law prohibiting all forms of trafficking in persons; the government also established a specialized anti-trafficking unit within the Ministry of Interior to investigate trafficking crimes; however, the government did not report any prosecutions or convictions for trafficking offenses during 2007, despite reports of a substantial problem of involuntary servitude and sex trafficking (2008)"
+      }
+    }
+  }
+}

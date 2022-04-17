@@ -1,0 +1,633 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Populated for centuries by aboriginal peoples, the island was claimed by the Spanish Crown in 1493 following Christopher COLUMBUS' second voyage to the Americas. In 1898, after 400 years of colonial rule that saw the indigenous population nearly exterminated and African slave labor introduced, Puerto Rico was ceded to the US as a result of the Spanish-American War. Puerto Ricans were granted US citizenship in 1917. Popularly-elected governors have served since 1948. In 1952, a constitution was enacted providing for internal self government. In plebiscites held in 1967, 1993, and 1998, voters chose not to alter the existing political status with the US, but the results of a 2012 vote left open the possibility of American statehood."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, east of the Dominican Republic"
+    },
+    "Geographic coordinates": {
+      "text": "18 15 N, 66 30 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "13,790 sq km"
+      },
+      "land": {
+        "text": "8,870 sq km "
+      },
+      "water": {
+        "text": "4,921 sq km "
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than three times the size of Rhode Island"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "501 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "tropical marine, mild; little seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "mostly mountains with coastal plain belt in north; mountains precipitous to sea on west coast; sandy beaches along most coastal areas"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Cerro de Punta 1,338 m "
+      }
+    },
+    "Natural resources": {
+      "text": "some copper and nickel; potential for onshore and offshore oil"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "3.69%"
+      },
+      "permanent crops": {
+        "text": "5.59% "
+      },
+      "other": {
+        "text": "90.72% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "220 sq km (2003)"
+    },
+    "Natural hazards": {
+      "text": "periodic droughts; hurricanes"
+    },
+    "Environment - current issues": {
+      "text": "erosion; occasional drought causing water shortages"
+    },
+    "Geography - note": {
+      "text": "important location along the Mona Passage - a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Puerto Rican(s) (US citizens) "
+      },
+      "adjective": {
+        "text": "Puerto Rican "
+      }
+    },
+    "Ethnic groups": {
+      "text": "white (mostly Spanish origin) 76.2%, black 6.9%, Asian 0.3%, Amerindian 0.2%, mixed 4.4%, other 12% (2007)"
+    },
+    "Languages": {
+      "text": "Spanish, English"
+    },
+    "Religions": {
+      "text": "Roman Catholic 85%, Protestant and other 15%"
+    },
+    "Population": {
+      "text": "3,690,923 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "18.8% (male 355,029/ female 338,257)"
+      },
+      "15-64 years": {
+        "text": "65.4% (male 1,156,052/ female 1,257,312) "
+      },
+      "65 years and over": {
+        "text": "15.8% (male 254,029/ female 330,244) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "37.8 years"
+      },
+      "male": {
+        "text": "36 years "
+      },
+      "female": {
+        "text": "39.5 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.44% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "11.3 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "8 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.82 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "99% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.5% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "SAN JUAN (capital) 2.73 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.93 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.76 male(s)/female "
+      },
+      "total population": {
+        "text": "0.92 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "20 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "8.1 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "8.9 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "7.2 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.07 years"
+      },
+      "male": {
+        "text": "75.47 years "
+      },
+      "female": {
+        "text": "82.84 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.64 children born/woman (2012 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "7,397 (1997)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "94.1% "
+      },
+      "male": {
+        "text": "93.9% "
+      },
+      "female": {
+        "text": "94.4% (2002 est.) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "25.5%"
+      },
+      "male": {
+        "text": "28.6% "
+      },
+      "female": {
+        "text": "22% (2009) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Commonwealth of Puerto Rico "
+      },
+      "conventional short form": {
+        "text": "Puerto Rico "
+      }
+    },
+    "Dependency status": {
+      "text": "unincorporated, organized territory of the US with commonwealth status; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President"
+    },
+    "Government type": {
+      "text": "commonwealth"
+    },
+    "Capital": {
+      "name": {
+        "text": "San Juan"
+      },
+      "geographic coordinates": {
+        "text": "18 28 N, 66 07 W "
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (territory of the US with commonwealth status); there are no first-order administrative divisions as defined by the US Government, but there are 78 municipalities (municipios, singular - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco"
+    },
+    "Independence": {
+      "text": "none (territory of the US with commonwealth status)"
+    },
+    "National holiday": {
+      "text": "US Independence Day, 4 July (1776); Puerto Rico Constitution Day, 25 July (1952)"
+    },
+    "Constitution": {
+      "text": "ratified 3 March 1952; approved by US Congress 3 July 1952; effective 25 July 1952"
+    },
+    "Legal system": {
+      "text": "civil law system based on the Spanish civil code and within the framework of the US federal system"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009)"
+      },
+      "head of government": {
+        "text": "Governor Alejandro GARCIA Padilla (since 2 January 2013) "
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor with the consent of the legislature "
+      },
+      "elections": {
+        "text": "under the US Constitution, residents of unincorporated territories, such as Puerto Rico, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor elected by popular vote for a four-year term (no term limits); election last held on 6 November 2012 (next to be held in November 2016) "
+      },
+      "election results": {
+        "text": "Alejandro GARCIA Padilla elected governor with 48.2% of the vote "
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Legislative Assembly consists of the Senate (at least 27 seats; members directly elected by popular vote to serve four-year terms) and the House of Representatives (51 seats; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "Senate - last held on 4 November 2008 (next to be held in November 2012); House of Representatives - last held on 4 November 2008 (next to be held in November 2012) "
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - PNP 81.5%, PPD 18.5%; seats by party - PNP 22, PPD 5; House of Representatives - percent of vote by party - PNP 72.5%, PPD 27.5%; seats by party - PNP 37, PPD 14 "
+      },
+      "note": "Puerto Rico elects, by popular vote, a resident commissioner to serve a four-year term as a nonvoting representative in the US House of Representatives; aside from not voting on the House floor, he enjoys all the rights of a member of Congress; elections last held 4 November 2008 (next to be held in November 2012); results - percent of vote by party - NA; seats by party - PNP 1 "
+    },
+    "note": "music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the United States, \"The Star-Spangled Banner\" is official (see United States) ",
+    "Judicial branch": {
+      "Supreme Court; Appellate Court; Court of First Instance composed of two sections": {
+        "text": "a Superior Court and a Municipal Court (justices for all these courts appointed by the governor with the consent of the Senate)"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "National Democratic Party [Roberto PRATS]; National Republican Party of Puerto Rico [Dr. Tiody FERRE]; New Progressive Party or PNP [Pedro ROSSELLO] (pro-US statehood); Popular Democratic Party or PPD [Anibal ACEVEDO-VILA] (pro-commonwealth); Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence)"
+    },
+    "Political pressure groups and leaders": {
+      "Boricua Popular Army or EPB (a revolutionary group also known as Los Macheteros); note - the following radical groups are considered dormant by Federal law enforcement": {
+        "text": "Armed Forces for National Liberation or FALN, Armed Forces of Popular Resistance, Volunteers of the Puerto Rican Revolution"
+      }
+    },
+    "International organization participation": {
+      "text": "Caricom (observer), Interpol (subbureau), IOC, UNWTO (associate), UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (territory of the US)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (territory of the US with commonwealth status)"
+    },
+    "Flag description": {
+      "text": "five equal horizontal bands of red (top and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace",
+      "note": "design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed "
+    },
+    "National symbol(s)": {
+      "text": "Puerto Rican spindalis (bird); coqui (frog)"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"La Borinquena\" (The Puerto Rican)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Manuel Fernandez JUNCOS/Felix Astol ARTES "
+      },
+      "note": "music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the United States, \"The Star-Spangled Banner\" is official (see United States) "
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Puerto Rico has one of the most dynamic economies in the Caribbean region, however, growth has been negative for the past four years, and unemployment rose to nearly 16% in 2011. The industrial sector has surpassed agriculture as the primary locus of economic activity and income. Mainland US firms have invested heavily in Puerto Rico since the 1950s. US minimum wage laws apply. Sugar production has lost out to dairy production and other livestock products as the main source of income in the agricultural sector. Tourism has traditionally been an important source of income with estimated arrivals of more than 3.6 million tourists in 2008. Closing the budget deficit while restoring economic growth and employment remain the central concerns of the government."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$71.51 billion (2008 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "data are in 2012 US dollars ",
+    "GDP (official exchange rate)": {
+      "text": "$93.52 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-2.8% (2008 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$18,100 (2008 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.5%"
+      },
+      "industry": {
+        "text": "47.8% "
+      },
+      "services": {
+        "text": "51.6% (2010 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "1.286 million (March 2012)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.1%"
+      },
+      "industry": {
+        "text": "19% "
+      },
+      "services": {
+        "text": "79% (2005 est.) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "12% (2002 est.) "
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA% "
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$6.7 billion"
+      },
+      "expenditures": {
+        "text": "$9.6 billion (FY99/00) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "7.2% of GDP (FY99/00)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.1% of GDP (FY99/00)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.9% (2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, coffee, pineapples, plantains, bananas; livestock products, chickens"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Exports": {
+      "text": "$64.88 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "chemicals, electronics, apparel, canned tuna, rum, beverage concentrates, medical equipment"
+    },
+    "Imports": {
+      "text": "$44.67 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "chemicals, machinery and equipment, clothing, food, fish, petroleum products"
+    },
+    "Debt - external": {
+      "text": "$52.98 billion (31 December 2009 est.) "
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used, 1 (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "20.71 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "19.26 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "5.515 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "97.2% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "2.8% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "40,000 bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "37,450 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "151,600 bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "8,440 bbl/day (2008 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "149,100 bbl/day (2008 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "768.9 million cu m (2010 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "768.9 million cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "30.86 million Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "826,100 (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "3.108 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern system integrated with that of the US by high-capacity submarine cable and Intelsat with high-speed data capability"
+      },
+      "domestic": {
+        "text": "digital telephone system; mobile-cellular services "
+      },
+      "international": {
+        "text": "country code - 1-787, 939; submarine cables provide connectivity to the US, Caribbean, Central and South America; satellite earth station - 1 Intelsat "
+      }
+    },
+    "Broadcast media": {
+      "text": "more than 30 TV stations operating; cable TV subscription services are available; roughly 125 radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".pr"
+    },
+    "Internet hosts": {
+      "text": "469 (2012)"
+    },
+    "Internet users": {
+      "text": "1 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "29 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "3 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "2 "
+      },
+      "914 to 1,523 m": {
+        "text": "7 "
+      },
+      "under 914 m": {
+        "text": "5 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "12"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 "
+      },
+      "914 to 1,523 m": {
+        "text": "1 "
+      },
+      "under 914 m": {
+        "text": "10 (2012) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "26,670 km"
+      },
+      "paved": {
+        "text": "25,337 km (includes 427 km of expressways) "
+      },
+      "unpaved": {
+        "text": "1,333 km (2008) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular indigenous military forces; paramilitary National Guard, Police Force"
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "700,443"
+      },
+      "females age 16-49": {
+        "text": "786,035 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "30,517"
+      },
+      "female": {
+        "text": "29,010 (2010 est.) "
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "increasing numbers of illegal migrants from the Dominican Republic cross the Mona Passage to Puerto Rico each year looking for work"
+    }
+  }
+}

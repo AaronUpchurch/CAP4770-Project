@@ -1,0 +1,644 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 1979 the Federated States of Micronesia, a UN Trust Territory under US administration, adopted a constitution. In 1986 independence was attained under a Compact of Free Association with the US, which was amended and renewed in 2004. Present concerns include large-scale unemployment, overfishing, and overdependence on US aid."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Oceania, island group in the North Pacific Ocean, about three-quarters of the way from Hawaii to Indonesia"
+    },
+    "Geographic coordinates": {
+      "text": "6 55 N, 158 15 E"
+    },
+    "Map references": {},
+    "Oceania": {},
+    "Area": {
+      "total": {
+        "text": "702 sq km"
+      },
+      "land": {
+        "text": "702 sq km "
+      },
+      "water": {
+        "text": "0 sq km (fresh water only) "
+      },
+      "note": "includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie) "
+    },
+    "note": "includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie) ",
+    "Area - comparative": {
+      "text": "four times the size of Washington, DC (land area only)"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "6,112 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage"
+    },
+    "Terrain": {
+      "text": "islands vary geologically from high mountainous islands to low, coral atolls; volcanic outcroppings on Pohnpei, Kosrae, and Chuuk"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Pacific Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Dolohmwar (Totolom) 791 m "
+      }
+    },
+    "Natural resources": {
+      "text": "timber, marine products, deep-seabed minerals, phosphate"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "5.71%"
+      },
+      "permanent crops": {
+        "text": "45.71% "
+      },
+      "other": {
+        "text": "48.58% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "typhoons (June to December)"
+    },
+    "Environment - current issues": {
+      "text": "overfishing, climate change, pollution"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "four major island groups totaling 607 islands"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Micronesian(s) "
+      },
+      "adjective": {
+        "text": "Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chuukese 48.8%, Pohnpeian 24.2%, Kosraean 6.2%, Yapese 5.2%, Yap outer islands 4.5%, Asian 1.8%, Polynesian 1.5%, other 6.4%, unknown 1.4% (2000 census)"
+    },
+    "Languages": {
+      "text": "English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi"
+    },
+    "Religions": {
+      "text": "Roman Catholic 52.7%, Protestant 41.7% (Congregational 40.1%, Baptist 0.9%, Seventh-Day Adventist 0.7%), other 3.8%, none or unspecified 0.8% (2000 Census)"
+    },
+    "Population": {
+      "text": "106,487 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "33% (male 17,844/ female 17,272)"
+      },
+      "15-64 years": {
+        "text": "63.9% (male 33,643/ female 34,441) "
+      },
+      "65 years and over": {
+        "text": "3.1% (male 1,430/ female 1,857) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "23.1 years"
+      },
+      "male": {
+        "text": "22.6 years "
+      },
+      "female": {
+        "text": "23.7 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.343% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "21.85 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "4.31 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "-20.97 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "23% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.3% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "PALIKIR (capital) 7,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.77 male(s)/female "
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "100 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "23.51 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "25.99 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "20.91 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "71.8 years"
+      },
+      "male": {
+        "text": "69.84 years "
+      },
+      "female": {
+        "text": "73.85 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.68 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "3.9% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.564 physicians/1,000 population (2005)"
+    },
+    "Hospital bed density": {
+      "text": "3.22 beds/1,000 population (2009)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "41% of population "
+      },
+      "rural": {
+        "text": "84% of population "
+      },
+      "total": {
+        "text": "74% of population "
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "NA"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "89% "
+      },
+      "male": {
+        "text": "91% "
+      },
+      "female": {
+        "text": "88% (1980 est.) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federated States of Micronesia "
+      },
+      "conventional short form": {
+        "text": "none "
+      },
+      "local long form": {
+        "text": "Federated States of Micronesia "
+      },
+      "local short form": {
+        "text": "none "
+      },
+      "former": {
+        "text": "Trust Territory of the Pacific Islands, Ponape, Truk, and Yap Districts "
+      },
+      "abbreviation": {
+        "text": "FSM "
+      }
+    },
+    "Government type": {
+      "text": "constitutional government in free association with the US; the Compact of Free Association entered into force on 3 November 1986 and the Amended Compact entered into force in May 2004"
+    },
+    "Capital": {
+      "name": {
+        "text": "Palikir"
+      },
+      "geographic coordinates": {
+        "text": "6 55 N, 158 09 E "
+      },
+      "time difference": {
+        "text": "UTC+11 (16 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap"
+    },
+    "Independence": {
+      "text": "3 November 1986 (from the US-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 10 May (1979)"
+    },
+    "Constitution": {
+      "text": "10 May 1979"
+    },
+    "Legal system": {
+      "text": "mixed legal system of common and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Emanuel MORI (since 11 May 2007); Vice President Alik L. ALIK (since 11 May 2007); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Emanuel MORI (since 11 May 2007); Vice President Alik L. ALIK (since 11 May 2007) "
+      },
+      "cabinet": {
+        "text": "Cabinet includes the vice president and the heads of the 8 executive departments "
+      },
+      "elections": {
+        "text": "president and vice president elected by Congress from among the four senators at large for a four-year term (eligible for a second term); election last held on 11 May 2011 (next to be held in May 2015); note - a proposed constitutional amendment to establish popular elections for president and vice president failed "
+      },
+      "election results": {
+        "text": "Emanuel MORI reelected president by Congress unopposed; Alik L. ALIK reelected vice president "
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Congress (14 seats; 4 - one elected from each state to serve four-year terms and 10 - elected from single-member districts delineated by population to serve two-year terms; members elected by popular vote)",
+      "elections": {
+        "text": "last held on 8 March 2011 (next to be held in March 2013) "
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats - independents 14 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court"
+    },
+    "Political parties and leaders": {
+      "text": "no formal parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Asterio R. TAKESY"
+      },
+      "chancery": {
+        "text": "1725 N Street NW, Washington, DC 20036 "
+      },
+      "telephone": {
+        "text": "[1] (202) 223-4383 "
+      },
+      "FAX": {
+        "text": "[1] (202) 223-4391 "
+      },
+      "consulate(s) general": {
+        "text": "Honolulu, Tamuning (Guam) "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Peter A. PRAHAR"
+      },
+      "embassy": {
+        "text": "101 Upper Pics Road, Kolonia "
+      },
+      "mailing address": {
+        "text": "P. O. Box 1286, Kolonia, Pohnpei, 96941 "
+      },
+      "telephone": {
+        "text": "[691] 320-2187 "
+      },
+      "FAX": {
+        "text": "[691] 320-2186 "
+      }
+    },
+    "Flag description": {
+      "text": "light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Patriots of Micronesia\""
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "unknown "
+      },
+      "note": "adopted 1991; the anthem is also known as \"Across All Micronesia;\" the music is based on the 1820 German patriotic song \"Ich hab mich ergeben,\" which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\" "
+    },
+    "note": "adopted 1991; the anthem is also known as \"Across All Micronesia;\" the music is based on the 1820 German patriotic song \"Ich hab mich ergeben,\" which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\" "
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Economic activity consists primarily of subsistence farming and fishing. The islands have few mineral deposits worth exploiting, except for high-grade phosphate. The potential for a tourist industry exists, but the remote location, a lack of adequate facilities, and limited air connections hinder development. Under the original terms of the Compact of Free Association, the US provided $1.3 billion in grant aid during the period 1986-2001; the level of aid has been subsequently reduced. The Amended Compact of Free Association with the US guarantees the Federated States of Micronesia (FSM) millions of dollars in annual aid through 2023, and establishes a Trust Fund into which the US and the FSM make annual contributions in order to provide annual payouts to the FSM in perpetuity after 2023. The country's medium-term economic outlook appears fragile due not only to the reduction in US assistance but also to the current slow growth of the private sector."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "GDP supplemented by grant aid, averaging perhaps $100 million annually ",
+      "note": "data are in 2008 US dollars "
+    },
+    "note": "two-thirds of the labor force are government employees (FY05 est.) ",
+    "GDP (official exchange rate)": {
+      "text": "$238.1 million (2008)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.3% (2005 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,300 (2005 est.) ",
+      "note": "data are in 2008 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "28.9%"
+      },
+      "industry": {
+        "text": "15.2% "
+      },
+      "services": {
+        "text": "55.9% (2004 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "16,360 (2008)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "0.9%"
+      },
+      "industry": {
+        "text": "34.4% "
+      },
+      "services": {
+        "text": "64.7% "
+      },
+      "note": "two-thirds of the labor force are government employees (FY05 est.) "
+    },
+    "Unemployment rate": {
+      "text": "22% (2000 est.)"
+    },
+    "Population below poverty line": {
+      "text": "26.7% (2000)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA% "
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$166 million (FY07 est.)"
+      },
+      "expenditures": {
+        "text": "$152.7 million (FY07 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "69.7% of GDP (FY07 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "5.6% of GDP (FY07 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.5% (2010 est.) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15.13% (31 December 2010 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$27.22 million (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$113.9 million (31 December 2010 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$43.72 million (31 December 2010 est.) "
+    },
+    "Agriculture - products": {
+      "text": "black pepper, tropical fruits and vegetables, coconuts, bananas, cassava (tapioca), sakau (kava), Kosraen citrus, betel nuts, sweet potatoes; pigs, chickens; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Current account balance": {
+      "text": "-$34.3 million (FY05 est.)"
+    },
+    "Exports": {
+      "text": "$14 million (2004 est.) "
+    },
+    "Exports - commodities": {
+      "text": "fish, garments, bananas, black pepper, sakau (kava), betel nut"
+    },
+    "Imports": {
+      "text": "$132.7 million (2004)"
+    },
+    "Imports - commodities": {
+      "text": "food, manufactured goods, machinery and equipment, beverages"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$55.76 million (2010 est.) "
+    },
+    "Debt - external": {
+      "text": "$60.8 million (FY05 est.)"
+    },
+    "Exchange rates": {
+      "text": "the US dollar is used, 1 (2012 est.)"
+    },
+    "Fiscal year": {
+      "text": "1 October - 30 September"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "192 million kWh (2002)"
+    },
+    "Electricity - consumption": {
+      "text": "178.6 million kWh (2002)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2002)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2002)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "8,500 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "27,500 (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate system"
+      },
+      "domestic": {
+        "text": "islands interconnected by shortwave radiotelephone (used mostly for government purposes), satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on Kosrae, Pohnpei, and Yap "
+      },
+      "international": {
+        "text": "country code - 691; satellite earth stations - 5 Intelsat (Pacific Ocean) (2002) "
+      }
+    },
+    "Broadcast media": {
+      "text": "no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half dozen radio stations (2009)"
+    },
+    "Internet country code": {
+      "text": ".fm"
+    },
+    "Internet hosts": {
+      "text": "4,668 (2012)"
+    },
+    "Internet users": {
+      "text": "17,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "6 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4 "
+      },
+      "914 to 1,523 m": {
+        "text": "2 (2012) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "240 km"
+      },
+      "paved": {
+        "text": "42 km "
+      },
+      "unpaved": {
+        "text": "198 km (2000) "
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "3"
+      },
+      "by type": {
+        "text": "cargo 1, passenger/cargo 2 (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Colonia (Tomil Harbor), Lele Harbor, Pohnepi Harbor"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces (2012)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "26,712 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "22,008"
+      },
+      "females age 16-49": {
+        "text": "23,501 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,276"
+      },
+      "female": {
+        "text": "1,253 (2010 est.) "
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the US"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "major consumer of cannabis"
+    }
+  }
+}

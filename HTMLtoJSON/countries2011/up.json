@@ -1,0 +1,822 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine was able to achieve a short-lived period of independence (1917-20), but was reconquered and forced to endure a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for some 7 to 8 million more deaths. Although final independence for Ukraine was achieved in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties. A peaceful mass protest \"Orange Revolution\" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary elections and become prime minister in August of 2006. An early legislative election, brought on by a political crisis in the spring of 2007, saw Yuliya TYMOSHENKO, as head of an \"Orange\" coalition, installed as a new prime minister in December 2007. Viktor YANUKOVUYCH was elected president in a February 2010 run-off election that observers assessed as meeting most international standards. The following month, the Rada approved a vote of no-confidence prompting Yuliya TYMOSHENKO to resign from her post as prime minister."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Europe, bordering the Black Sea, between Poland, Romania, and Moldova in the west and Russia in the east"
+    },
+    "Geographic coordinates": {
+      "text": "49 00 N, 32 00 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "603,550 sq km"
+      },
+      "land": {
+        "text": "579,330 sq km"
+      },
+      "water": {
+        "text": "24,220 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,566 km"
+      },
+      "border countries": {
+        "text": "Belarus 891 km, Hungary 103 km, Moldova 940 km, Poland 428 km, Romania (south) 176 km, Romania (southwest) 362 km, Russia 1,576 km, Slovakia 90 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,782 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; summers are warm across the greater part of the country, hot in the south"
+    },
+    "Terrain": {
+      "text": "most of Ukraine consists of fertile plains (steppes) and plateaus, mountains being found only in the west (the Carpathians), and in the Crimean Peninsula in the extreme south"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Black Sea 0 m"
+      },
+      "highest point": {
+        "text": "Hora Hoverla 2,061 m"
+      }
+    },
+    "Natural resources": {
+      "text": "iron ore, coal, manganese, natural gas, oil, salt, sulfur, graphite, titanium, magnesium, kaolin, nickel, mercury, timber, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "53.8%"
+      },
+      "permanent crops": {
+        "text": "1.5%"
+      },
+      "other": {
+        "text": "44.7% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "21,790 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "139.5 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "37.53  cu km/yr (12%/35%/52%)"
+      },
+      "per capita": {
+        "text": "807  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "inadequate supplies of potable water; air and water pollution; deforestation; radiation contamination in the northeast from 1986 accident at Chornobyl' Nuclear Power Plant"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 85, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic position at the crossroads between Europe and Asia; second-largest country in Europe"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Ukrainian(s) "
+      },
+      "adjective": {
+        "text": "Ukrainian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Ukrainian 77.8%, Russian 17.3%, Belarusian 0.6%, Moldovan 0.5%, Crimean Tatar 0.5%, Bulgarian 0.4%, Hungarian 0.3%, Romanian 0.3%, Polish 0.3%, Jewish 0.2%, other 1.8% (2001 census)"
+    },
+    "Languages": {
+      "text": "Ukrainian (official) 67%, Russian 24%, other (includes small Romanian-, Polish-, and Hungarian-speaking minorities) 9%"
+    },
+    "Religions": {
+      "text": "Ukrainian Orthodox - Kyiv Patriarchate 50.4%, Ukrainian Orthodox - Moscow Patriarchate 26.1%, Ukrainian Greek Catholic 8%, Ukrainian Autocephalous Orthodox 7.2%, Roman Catholic 2.2%, Protestant 2.2%, Jewish 0.6%, other 3.2% (2006 est.)"
+    },
+    "Population": {
+      "text": "45,134,707 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "13.7% (male 3,186,606/female 3,014,069)"
+      },
+      "15-64 years": {
+        "text": "70.8% (male 15,282,749/female 16,673,641)"
+      },
+      "65 years and over": {
+        "text": "15.5% (male 2,294,777/female 4,682,865) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "39.9 years"
+      },
+      "male": {
+        "text": "36.7 years"
+      },
+      "female": {
+        "text": "43.1 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.622% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "9.62 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "15.74 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.09 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "69% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "-0.1% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "KYIV (capital) 2.779 million; Kharkiv 1.455 million; Dnipropetrovsk 1.013 million; Odesa 1.009 million; Donetsk 971,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.065 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.92 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.49 male(s)/female"
+      },
+      "total population": {
+        "text": "0.85 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "26 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "8.54 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "10.71 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "6.23 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "68.58 years"
+      },
+      "male": {
+        "text": "62.79 years"
+      },
+      "female": {
+        "text": "74.75 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.28 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "7% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "3.1254 physicians/1,000 population (2006)"
+    },
+    "Hospital bed density": {
+      "text": "8.73 beds/1,000 population (2006)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "2% of population"
+      },
+      "rural": {
+        "text": "3% of population"
+      },
+      "total": {
+        "text": "2% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "3% of population"
+      },
+      "rural": {
+        "text": "10% of population"
+      },
+      "total": {
+        "text": "5% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "1.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "350,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "24,000 (2009 est.)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "4.1% (2000)"
+    },
+    "Education expenditures": {
+      "text": "5.3% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.4%"
+      },
+      "male": {
+        "text": "99.7%"
+      },
+      "female": {
+        "text": "99.2% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "15 years (2008)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "14.9%"
+      },
+      "male": {
+        "text": "15.2%"
+      },
+      "female": {
+        "text": "14.5% (2005)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Ukraine"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Ukrayina"
+      },
+      "former": {
+        "text": "Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kyiv (Kiev)"
+      },
+      "note": "pronounced KAY-yiv",
+      "geographic coordinates": {
+        "text": "50 26 N, 30 31 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "note": "music adopted 1991, lyrics adopted 2003; the song was first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003",
+    "Administrative divisions": {
+      "text": "24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities (mista, singular - misto) with oblast status**; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol'), Dnipropetrovs'k, Donets'k, Ivano-Frankivs'k, Kharkiv, Kherson, Khmel'nyts'kyy, Kirovohrad, Kyiv**, Kyiv, Luhans'k, L'viv, Mykolayiv, Odesa, Poltava, Rivne, Sevastopol'**, Sumy, Ternopil', Vinnytsya, Volyn' (Luts'k), Zakarpattya (Uzhhorod), Zaporizhzhya, Zhytomyr",
+      "note": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
+    },
+    "Independence": {
+      "24 August 1991 (from the Soviet Union); notable earlier dates": {
+        "text": "ca. A.D. 982 (VOLODYMYR I consolidates Kyivan Rus), 1648 (establishment of Cossack Hetmanate)"
+      }
+    },
+    "National holiday": {
+      "text": "Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence (from Soviet Russia) and the day the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day"
+    },
+    "Constitution": {
+      "text": "adopted 28 June 1996"
+    },
+    "Legal system": {
+      "text": "civil law system; judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Viktor YANUKOVYCH (since 25 February 2010)"
+      },
+      "head of government": {
+        "text": "Prime Minister Mykola AZAROV (since 11 March 2010); First Deputy Prime Minister Andriy KLYUYEV (since 11 March 2010); Deputy Prime Ministers Borys KOLESNIKOV and Serhiy TIHIPKO (both since 11 March 2010)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers nominated by the president and approved by the Rada"
+      },
+      "note": "there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a Presidential Administration helps draft presidential edicts and provides policy support to the president",
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held on 17 January 2010 with runoff on 7 February 2010 (next to be held in 2015)"
+      },
+      "election results": {
+        "text": "Viktor YANUKOVYCH elected president; percent of vote - Viktor YANUKOVYCH 48.95%, Yuliya TYMOSHENKO 45.5%, other 5.6%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Supreme Council or Verkhovna Rada (450 seats; members allocated on a proportional basis to those parties that gain 3% or more of the national electoral vote; members to serve five-year terms)",
+      "elections": {
+        "text": "last held on 30 September 2007 (next must be held in 2012 or sooner if a ruling coalition cannot be formed in the Rada)"
+      },
+      "election results": {
+        "text": "percent of vote by party/bloc - Party of Regions 34.4%, Block of Yuliya Tymoshenko 30.7%, Our Ukraine-People's Self Defense Bloc 14.2%, CPU 5.4%, Lytvyn Bloc 4%, other parties 11.3%; seats by party/bloc - Party of Regions 175, Block of Yuliya Tymoshenko 156, Our Ukraine-People's Self Defense 72, CPU 27, Lytvyn Bloc 20"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court; Constitutional Court"
+    },
+    "Political parties and leaders": {
+      "text": "Block of Yuliya Tymoshenko-Batkivshchyna (BYuT-Batkivshchyna) [Yuliya TYMOSHENKO]; Communist Party of Ukraine or CPU [Petro SYMONENKO]; European Party of Ukraine [Mykola KATERYNCHUK]; Forward Ukraine! [Viktor MUSIYAKA]; Front of Change [Arseniy YATSENYUK]; Lytvyn Bloc (composed of People's Party and Labor Party of Ukraine) [Volodymyr LYTVYN]; Our Ukraine [Viktor YUSHCHENKO]; Party of Industrialists and Entrepreneurs [Anatoliy KINAKH]; Party of Regions [Viktor YANUKOVYCH]; Party of the Defenders of the Fatherland [Yuriy KARMAZIN]; People's Movement of Ukraine (Rukh) [Borys TARASYUK]; People's Party [Volodymyr LYTVYN]; Peoples' Self-Defense [Yuriy LUTSENKO]; PORA! (It's Time!) party [Vladyslav KASKIV]; Progressive Socialist Party [Natalya VITRENKO]; Reforms and Order Party [Viktor PYNZENYK]; Sobor [Anatoliy MATVIYENKO]; Social Democratic Party [Yevhen KORNICHUK]; Social Democratic Party (United) or SDPU(o) [Yuriy ZAHORODNIY]; Socialist Party of Ukraine or SPU [Oleksandr MOROZ]; Strong Ukraine [SERHIY TIHIPKO]; Ukrainian People's Party [Yuriy KOSTENKO]; United Center [Viktor BALOHA]; Viche [Inna BOHOSLOVSKA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Committee of Voters of Ukraine [Aleksandr CHERNENKO]; OPORA [Olha AIVAZOVSKA]"
+    },
+    "International organization participation": {
+      "text": "Australia Group, BSEC, CBSS (observer), CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter although it participates in meetings), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC, LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SECI (observer), UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Oleksandr MOTSYK"
+      },
+      "chancery": {
+        "text": "3350 M Street NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 333-0606"
+      },
+      "FAX": {
+        "text": "[1] (202) 333-0817"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador John F. TEFFT"
+      },
+      "embassy": {
+        "text": "10 Yurii Kotsiubynsky Street, 01901 Kyiv"
+      },
+      "mailing address": {
+        "text": "5850 Kyiv Place, Washington, DC 20521-5850"
+      },
+      "telephone": {
+        "text": "[380] (44) 490-4000"
+      },
+      "FAX": {
+        "text": "[380] (44) 490-4085"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky"
+    },
+    "National symbol(s)": {
+      "text": "trident (tryzub)"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Sche ne vmerla Ukraina\" (Ukraine Has Not Yet Perished)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Paul CHUBYNSKYI/Mikhail VERBYTSKYI"
+      },
+      "note": "music adopted 1991, lyrics adopted 2003; the song was first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "After Russia, the Ukrainian republic was far and away the most important economic component of the former Soviet Union, producing about four times the output of the next-ranking republic. Its fertile black soil generated more than one-fourth of Soviet agricultural output, and its farms provided substantial quantities of meat, milk, grain, and vegetables to other republics. Likewise, its diversified heavy industry supplied the unique equipment (for example, large diameter pipes) and raw materials to industrial and mining sites (vertical drilling apparatus) in other regions of the former USSR. Shortly after independence in August 1991, the Ukrainian Government liberalized most prices and erected a legal framework for privatization, but widespread resistance to reform within the government and the legislature soon stalled reform efforts and led to some backtracking. Output by 1999 had fallen to less than 40% of the 1991 level. Ukraine's dependence on Russia for energy supplies and the lack of significant structural reform have made the Ukrainian economy vulnerable to external shocks. Ukraine depends on imports to meet about three-fourths of its annual oil and natural gas requirements and 100% of its nuclear fuel needs. After a two-week dispute that saw gas supplies cutoff to Europe, Ukraine agreed to 10-year gas supply and transit contracts with Russia in January 2009 that brought gas prices to \"world\" levels. The strict terms of the contracts have further hobbled Ukraine's cash-strapped state gas company, Naftohaz. Outside institutions - particularly the IMF - have encouraged Ukraine to quicken the pace and scope of reforms. Ukrainian Government officials eliminated most tax and customs privileges in a March 2005 budget law, bringing more economic activity out of Ukraine's large shadow economy, but more improvements are needed, including fighting corruption, developing capital markets, and improving the legislative framework. Ukraine's economy was buoyant despite political turmoil between the prime minister and president until mid-2008. Real GDP growth exceeded 7% in 2006-07, fueled by high global prices for steel - Ukraine's top export - and by strong domestic consumption, spurred by rising pensions and wages. Ukraine reached an agreement with the IMF for a $16.4 billion Stand-By Arrangement in November 2008 to deal with the economic crisis, but the Ukrainian Government's lack of progress in implementing reforms has twice delayed the release of IMF assistance funds. The drop in steel prices and Ukraine's exposure to the global financial crisis due to aggressive foreign borrowing lowered growth in 2008 and the economy contracted more than 15% in 2009, among the worst economic performances in the world; growth resumed in 2010, buoyed by exports. External conditions are likely to hamper efforts for economic recovery in 2011."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$343.8 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "this is the planned, consolidated budget (2010 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$136.4 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.9% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$7,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "9.4%"
+      },
+      "industry": {
+        "text": "33.6%"
+      },
+      "services": {
+        "text": "57% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "22.02 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "15.8%"
+      },
+      "industry": {
+        "text": "18.5%"
+      },
+      "services": {
+        "text": "65.7% (2008)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.8% (2009 est.)",
+      "note": "officially registered; large number of unregistered or underemployed workers"
+    },
+    "Population below poverty line": {
+      "text": "35% (2009)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.1%"
+      },
+      "highest 10%": {
+        "text": "22.6% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "29 (1999)"
+    },
+    "Investment (gross fixed)": {
+      "text": "19.1% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$39.62 billion"
+      },
+      "expenditures": {
+        "text": "$49.89 billion"
+      },
+      "note": "this is the planned, consolidated budget (2010 est.)"
+    },
+    "Taxes and other revenues": {
+      "text": "29% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-7.5% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "34.7% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "15.9% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10.25% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "20.863% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$29.27 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$60.71 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$101.3 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$24.36 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "grain, sugar beets, sunflower seeds, vegetables; beef, milk"
+    },
+    "Industries": {
+      "text": "coal, electric power, ferrous and nonferrous metals, machinery and transport equipment, chemicals, food processing"
+    },
+    "Industrial production growth rate": {
+      "text": "11.2% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "172.9 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "134.6 billion kWh (2009 est.)"
+    },
+    "Electricity - exports": {
+      "text": "4 billion kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "6.73 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "82,000 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "296,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "114,000 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "301,900 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "395 million bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "20.26 billion cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "44.16 billion cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "2.8 billion cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "26.7 billion cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "1.104 trillion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.732 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$40.39 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "ferrous and nonferrous metals, fuel and petroleum products, chemicals, machinery and transport equipment, food products"
+    },
+    "Exports - partners": {
+      "text": "Russia 24.1%, Turkey 5.9%, Italy 4.7% (2010)"
+    },
+    "Imports": {
+      "text": "$44.7 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "energy, machinery and equipment, chemicals"
+    },
+    "Imports - partners": {
+      "text": "Russia 33.9%, China 8.5%, Germany 8.1%, Poland 5.4%, Belarus 4.1% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$26.51 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$99.51 billion (31 December 2010 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$46.81 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$2.067 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "5.05 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "12.941 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "53.929 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Ukraine's telecommunication development plan emphasizes improving domestic trunk lines, international connections, and the mobile-cellular system"
+      },
+      "domestic": {
+        "text": "at independence in December 1991, Ukraine inherited a telephone system that was antiquated, inefficient, and in disrepair; more than 3.5 million applications for telephones could not be satisfied; telephone density is rising and the domestic trunk system is being improved; about one-third of Ukraine's networks are digital and a majority of regional centers now have digital switching stations; improvements in local networks and local exchanges continue to lag; the mobile-cellular telephone system's expansion has slowed, largely due to saturation of the market which has reached 120 mobile phones per 100 people"
+      },
+      "international": {
+        "text": "country code - 380; 2 new domestic trunk lines are a part of the fiber-optic Trans-Asia-Europe (TAE) system and 3 Ukrainian links have been installed in the fiber-optic Trans-European Lines (TEL) project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems"
+      }
+    },
+    "Broadcast media": {
+      "text": "TV coverage is provided by Ukraine's state-controlled nationwide broadcast channel (UT1) and a number of privately-owned television broadcast networks; Russian television broadcasts have a small audience nationwide, but larger audiences in the eastern and southern regions; multi-channel cable and satellite TV services are available; Ukraine's radio broadcast market, a mix of independent and state-owned networks, is comprised of some 300 stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".ua"
+    },
+    "Internet hosts": {
+      "text": "1.098 million (2010)"
+    },
+    "Internet users": {
+      "text": "7.77 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "425 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "189"
+      },
+      "over 3,047 m": {
+        "text": "12"
+      },
+      "2,438 to 3,047 m": {
+        "text": "51"
+      },
+      "1,524 to 2,437 m": {
+        "text": "24"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "97 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "236"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "12"
+      },
+      "under 914 m": {
+        "text": "214 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "7 (2010)"
+    },
+    "Pipelines": {
+      "text": "gas 36,493 km; oil 4,514 km; refined products 4,211 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "21,684 km"
+      },
+      "broad gauge": {
+        "text": "21,684 km 1.524-m gauge (9,854 km electrified) (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "169,496 km"
+      },
+      "paved": {
+        "text": "165,844 km (includes 15 km of expressways)"
+      },
+      "unpaved": {
+        "text": "3,652 km (2010)"
+      }
+    },
+    "Waterways": {
+      "text": "2,185 km (most on Dnieper River) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "160"
+      },
+      "by type": {
+        "text": "bulk carrier 4, cargo 123, chemical tanker 1, passenger 5, passenger/cargo 5, petroleum tanker 9, refrigerated cargo 11, specialized tanker 2"
+      },
+      "foreign-owned": {
+        "text": "1 (Iran 1)"
+      },
+      "registered in other countries": {
+        "text": "197 (Belize 6, Cambodia 37, Comoros 10, Cyprus 2, Dominica 2, Georgia 15, Liberia 16, Malta 30, Marshall Islands 1, Moldova 12, Mongolia 1, Panama 11, Russia 12, Saint Kitts and Nevis 10, Saint Vincent and the Grenadines 12, Sierra Leone 5, Slovakia 7, Tuvalu 1, Vanuatu 3, unknown 4) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, Yuzhnyy"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Ground Forces, Naval Forces, Air and Air Defense Forces (Viyskovo-Povitryani Syly, VPS) (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for compulsory and voluntary military service; conscript service obligation - 12 months for Army and Air Force, 18 months for Navy (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "10,984,394"
+      },
+      "females age 16-49": {
+        "text": "11.26 million (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "6,893,551"
+      },
+      "females age 16-49": {
+        "text": "8,792,504 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "246,397"
+      },
+      "female": {
+        "text": "234,916 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "1997 boundary delimitation treaty with Belarus remains un-ratified due to unresolved financial claims, stalling demarcation and reducing border security; delimitation of land boundary with Russia is complete with preparations for demarcation underway; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov remains unresolved despite a December 2003 framework agreement and ongoing expert-level discussions; Moldova and Ukraine operate joint customs posts to monitor transit of people and commodities through Moldova's break-away Transnistria Region, which remains under OSCE supervision; the ICJ ruled largely in favor of Romania its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea"
+    },
+    "Illicit drugs": {
+      "text": "limited cultivation of cannabis and opium poppy, mostly for CIS consumption; some synthetic drug production for export to the West; limited government eradication program; used as transshipment point for opiates and other illicit drugs from Africa, Latin America, and Turkey to Europe and Russia; Ukraine has improved anti-money-laundering controls, resulting in its removal from the Financial Action Task Force's (FATF's) Noncooperative Countries and Territories List in February 2004; Ukraine's anti-money-laundering regime continues to be monitored by FATF"
+    }
+  }
+}

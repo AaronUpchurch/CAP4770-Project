@@ -1,0 +1,699 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 1951, the Nepalese monarch ended the century-old system of rule by hereditary premiers and instituted a cabinet system of government. Reforms in 1990 established a multiparty democracy within the framework of a constitutional monarchy. An insurgency led by Maoist extremists broke out in 1996. The ensuing ten-year civil war between insurgents and government forces witnessed the dissolution of the cabinet and parliament and assumption of absolute power by the king. Several weeks of mass protests in April 2006 were followed by several months of peace negotiations between the Maoists and government officials, and culminated in a November 2006 peace accord and the promulgation of an interim constitution. Following a nation-wide election in April 2008, the newly formed Constituent Assembly declared Nepal a federal democratic republic and abolished the monarchy at its first meeting the following month. The Constituent Assembly elected the country's first president in July. The Maoists, who received a plurality of votes in the Constituent Assembly election, formed a coalition government in August 2008."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, between China and India"
+    },
+    "Geographic coordinates": {
+      "text": "28 00 N, 84 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "147,181 sq km"
+      },
+      "land": {
+        "text": "143,351 sq km"
+      },
+      "water": {
+        "text": "3,830 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than Arkansas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,926 km"
+      },
+      "border countries": {
+        "text": "China 1,236 km, India 1,690 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "varies from cool summers and severe winters in north to subtropical summers and mild winters in south"
+    },
+    "Terrain": {
+      "text": "Tarai or flat river plain of the Ganges in south, central hill region, rugged Himalayas in north"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Kanchan Kalan 70 m"
+      },
+      "highest point": {
+        "text": "Mount Everest 8,850 m"
+      }
+    },
+    "Natural resources": {
+      "text": "quartz, water, timber, hydropower, scenic beauty, small deposits of lignite, copper, cobalt, iron ore"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "16.07%"
+      },
+      "permanent crops": {
+        "text": "0.85%"
+      },
+      "other": {
+        "text": "83.08% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "11,700 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "210.2 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "10.18  cu km/yr (3%/1%/96%)"
+      },
+      "per capita": {
+        "text": "375  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "severe thunderstorms; flooding; landslides; drought and famine depending on the timing, intensity, and duration of the summer monsoons"
+    },
+    "Environment - current issues": {
+      "text": "deforestation (overuse of wood for fuel and lack of alternatives); contaminated water (with human and animal wastes, agricultural runoff, and industrial effluents); wildlife conservation; vehicular emissions"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga - the world's tallest and third tallest - on the borders with China and India respectively"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "28,563,377 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "36.6% (male 5,327,484/female 5,127,178)"
+      },
+      "15-64 years": {
+        "text": "59.2% (male 8,094,494/female 8,812,675)"
+      },
+      "65 years and over": {
+        "text": "4.2% (male 566,666/female 634,880) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "20.8 years"
+      },
+      "male": {
+        "text": "19.8 years"
+      },
+      "female": {
+        "text": "21.7 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.281% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "23.18 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "6.97 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.39 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "17% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "4.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.04 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.92 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.89 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "47.46 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "47.4 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "47.52 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "65.46 years"
+      },
+      "male": {
+        "text": "64.3 years"
+      },
+      "female": {
+        "text": "66.67 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.64 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.5% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "70,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "5,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "Japanese encephalitis, malaria, and dengue fever (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Nepalese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Nepalese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chhettri 15.5%, Brahman-Hill 12.5%, Magar 7%, Tharu 6.6%, Tamang 5.5%, Newar 5.4%, Muslim 4.2%, Kami 3.9%, Yadav 3.9%, other 32.7%, unspecified 2.8% (2001 census)"
+    },
+    "Religions": {
+      "text": "Hindu 80.6%, Buddhist 10.7%, Muslim 4.2%, Kirant 3.6%, other 0.9% (2001 census)",
+      "note": "only official Hindu state in the world"
+    },
+    "note": "many in government and business also speak English (2001 est.)",
+    "Languages": {
+      "text": "Nepali 47.8%, Maithali 12.1%, Bhojpuri 7.4%, Tharu (Dagaura/Rana) 5.8%, Tamang 5.1%, Newar 3.6%, Magar 3.3%, Awadhi 2.4%, other 10%, unspecified 2.5% (2001 census)",
+      "note": "many in government and business also speak English (2001 est.)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "48.6%"
+      },
+      "male": {
+        "text": "62.7%"
+      },
+      "female": {
+        "text": "34.9% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "9 years"
+      },
+      "male": {
+        "text": "10 years"
+      },
+      "female": {
+        "text": "8 years (2003)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.4% of GDP (2003)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federal Democratic Republic of Nepal "
+      },
+      "conventional short form": {
+        "text": "Nepal"
+      },
+      "local long form": {
+        "text": "Sanghiya Loktantrik Ganatantra Nepal"
+      },
+      "local short form": {
+        "text": "Nepal"
+      }
+    },
+    "Government type": {
+      "text": "federal democratic republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kathmandu"
+      },
+      "geographic coordinates": {
+        "text": "27 43 N, 85 19 E"
+      },
+      "time difference": {
+        "text": "UTC+5.75 (10.75 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 zones (anchal, singular and plural); Bagmati, Bheri, Dhawalagiri, Gandaki, Janakpur, Karnali, Kosi, Lumbini, Mahakali, Mechi, Narayani, Rapti, Sagarmatha, Seti"
+    },
+    "Independence": {
+      "text": "1768 (unified by Prithvi Narayan SHAH)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 29 May; Democracy Day, 24 April"
+    },
+    "Constitution": {
+      "text": "15 January 2007 (interim Constitution); note - in April 2008, a Constituent Assembly was elected to draft and promulgate a new constitution by May 2010"
+    },
+    "Legal system": {
+      "text": "based on Hindu legal concepts and English common law; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ram Baran YADAV (as of 23 July 2008); Vice President Paramananda JHA (as of 23 July 2008)"
+      },
+      "head of government": {
+        "text": "Prime Minister Madhav Kumar NEPAL (as of 25 May 2009); Deputy Prime Minister Bijay Kumar GACHHEDAR"
+      },
+      "cabinet": {
+        "text": "cabinet formed in August 2008 by a majority coalition made up of the Communist Party of Nepal (Maoist), Communist Party of Nepal-United Marxist-Leninist, Madhesi People's Rights Forum, and several smaller parties"
+      },
+      "elections": {
+        "text": "president elected by Parliament; term extends until the new constitution is promulgated; election last held 21 July 2008; date of next election NA"
+      },
+      "election results": {
+        "text": "Ram Baran YADAV elected president by the Constituent Assembly in a second round of voting on 21 July 2008; Ram Baran YADAV 308, Ram Jaja Prasad SINGH 282"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Constituent Assembly (601 seats; 240 seats decided by direct popular vote; 335 seats by proportional representation; 26 appointed by the Cabinet (Council of Ministers))",
+      "elections": {
+        "text": "last held 10 April 2008 (next to be held NA)"
+      },
+      "election results": {
+        "text": "percent of vote by party - CPN-M 38%, NC 19%, CPN-UML 19%,Madhesi People's Right Forum 9%, Terai-Madhes Democratic Party and Sadbhavana Party 5%, other 10%; seats by party - CPN-M 220, NC 110, CPN-UML 103, Madhesi People's Rights Forum 52, Terai-Madhes Democratic Party 20, Sadbhawana Party 9, other smaller parties 61; note - 26 seats filled by the new Cabinet"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Sarbochha Adalat (the president appoints the chief justice is appointed by the monarch on recommendation of the Constitutional Council; the chief justice appoints other judges on the recommendation of the Judicial Council)"
+    },
+    "Political parties and leaders": {
+      "text": "Chure Bhawar Rastriya Ekata Party [Keshav Prasad MAINALI]; Communist Party of Nepal (ML) [C.P. MAINALI]; Communist Party of Nepal (Unified) [Raj Singh SHRIS]; Communist Party of Nepal (United) [Ganesh SHAH]; Communist Party of Nepal/United Marxist-Leninist or CPN/UML [Jhalanath KHANAL]; Dalit Janajati Party [Vishwendraman PASHWAN]; Madhesi People's Rights Forum [Upendra YADAV]; National Democratic Party or NDP [Pashupati Shumsher RANA] (also called Rastriya Prajatantra Party or RPP); Nepal Loktantrik Samajbadi Dal [Upendra GACHCHHADAR]; Nepal Pariwar Dal [Vinod DANGI]; Nepal Rastriya Party [Khushilal YADAV]; Nepal Sadbhavana Party (Anandi Devi) [Shyam Sundar GUPTA]; Nepal Workers and Peasants Party or NWPP [Narayan Man BIJUKCHHE]; Nepali Congress or NC [Girija Prasad KOIRALA]; Nepali Janata Dal [Bharat Prasad MAHATO]; Rastriya Janamorcha [Chitra BAHADUR K.C.]; Rastriya Janamukti Party [Malwar Singh THAPA]; Rastriya Janashakti Party or RJP [Surya Bahadur THAPA]; Rastriya Prajatantra Party Nepal [Kamal THAPA]; Sadbhavana Party (Mahato) [Rajendra MAHATO]; Samajbadi Prajatantrik Janata Party Nepal [Prem Bahadur SINGH]; Sanghiya Loktantrik Rastriya Manch [Kamal CHHARAHANG]; Terai-Madhes Democratic Party [Mahantha THAKUR]; United Communist Party of Nepal (Maoist) [Pushpa Kamal DAHAL, also known as PRACHANDA, chairman]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "several small armed Madhesi groups along the southern border with India; a variety of groups advocating regional autonomy for individual ethnic groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, MINURCAT, MINUSTAH, MONUC, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNMIL, UNMIS, UNMIT, UNOCI, UNOMIG, UNTSO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Kali POKHREL"
+      },
+      "chancery": {
+        "text": "2131 Leroy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 667-4550"
+      },
+      "FAX": {
+        "text": "[1] (202) 667-5534"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Nancy J. POWELL"
+      },
+      "embassy": {
+        "text": "Maharajgunj, Kathmandu"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[977] (1) 400-7200"
+      },
+      "FAX": {
+        "text": "[977] (1) 400-7272"
+      }
+    },
+    "Flag description": {
+      "text": "red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle bears a white 12-pointed sun"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Nepal is among the poorest and least developed countries in the world with almost one-third of its population living below the poverty line. Agriculture is the mainstay of the economy, providing a livelihood for three-fourths of the population and accounting for about one-third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain. Bumper crops, better security, improved transportation, and increased tourism pushed growth past 5% in 2008, after growth had hovered around 3% - barely above the rate of population growth - for the previous three years. The deteriorating world economy in 2009 will challenge tourism and remittance growth, a key source of foreign exchange. Nepal has considerable scope for exploiting its potential in hydropower and tourism, areas of recent foreign investment interest. Prospects for foreign trade or investment in other sectors will remain poor, however, because of the small size of the economy, its technological backwardness, its remoteness and landlocked geographic location, its civil strife and labor unrest, and its susceptibility to natural disaster."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$28.86 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "severe lack of skilled labor (2008 est.)",
+    "GDP (official exchange rate)": {
+      "text": "$12.28 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "32.5%"
+      },
+      "industry": {
+        "text": "16.6%"
+      },
+      "services": {
+        "text": "50.9% (FY07 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "14.6 million",
+      "note": "severe lack of skilled labor (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "76%"
+      },
+      "industry": {
+        "text": "6%"
+      },
+      "services": {
+        "text": "18% (2004 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "42% (2004 est.)"
+    },
+    "Population below poverty line": {
+      "text": "30.9% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.7%"
+      },
+      "highest 10%": {
+        "text": "40.6% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "36.7 (1996)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.7 billion"
+      },
+      "expenditures": {
+        "text": "$2.3 billion (FY08)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "NA% (31 December 2008)"
+    },
+    "Stock of money": {
+      "text": "$2.184 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$4.745 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$5.636 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.805 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "pulses, rice, corn, wheat, sugarcane, jute, root crops; milk, water buffalo meat"
+    },
+    "Industries": {
+      "text": "tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production"
+    },
+    "Industrial production growth rate": {
+      "text": "1.8% (FY08)"
+    },
+    "Electricity - production": {
+      "text": "2.781 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "2.243 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "140 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "213 million kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "18,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "16,920 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$58 million (2007)"
+    },
+    "Exports": {
+      "text": "$830 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "clothing, carpets, leather goods, jute goods, pulses, grain"
+    },
+    "Exports - partners": {
+      "text": "India 59.2%, US 8.7%, Bangladesh 8.3%, Germany 4.3% (2008)"
+    },
+    "Imports": {
+      "text": "$2.398 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, machinery and equipment, electrical goods"
+    },
+    "Imports - partners": {
+      "text": "India 55.4%, China 13.3%, Singapore 2% (2008)"
+    },
+    "Debt - external": {
+      "text": "$3.07 billion (March 2006)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Nepalese rupees (NPR) per US dollar - 65.21 (2008), 70.35 (2007), 72.446 (2006), 72.16 (2005), 73.674 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "805,100 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "4.2 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "poor telephone and telegraph service; fair radiotelephone communication service and mobile-cellular telephone network"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular telephone service subscribership base only about 15 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 977; radiotelephone communications; microwave landline to India; satellite earth station - 1 Intelsat (Indian Ocean) (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 6, FM 80, shortwave 4 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "9 (plus 9 repeaters) (2008)"
+    },
+    "Internet country code": {
+      "text": ".np"
+    },
+    "Internet hosts": {
+      "text": "43,411 (2009)"
+    },
+    "Internet users": {
+      "text": "499,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "47 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "11"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "9"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "36"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "30 (2009)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "59 km"
+      },
+      "narrow gauge": {
+        "text": "59 km 0.762-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "17,282 km"
+      },
+      "paved": {
+        "text": "10,142 km"
+      },
+      "unpaved": {
+        "text": "7,140 km (2007)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Nepal Army (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; 15 years of age for military training; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "7,322,965"
+      },
+      "females age 16-49": {
+        "text": "6,859,064 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "4,886,103"
+      },
+      "females age 16-49": {
+        "text": "5,525,764 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "365,567"
+      },
+      "female": {
+        "text": "352,643 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.6% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "joint border commission continues to work on contested sections of boundary with India, including the 400 square kilometer dispute over the source of the Kalapani River; India has instituted a stricter border regime to restrict transit of Maoist insurgents and illegal cross-border activities; approximately 106,000 Bhutanese Lhotshampas (Hindus) have been confined in refugee camps in southeastern Nepal since 1990"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "107,803 (Bhutan); 20,153 (Tibet/China)"
+      },
+      "IDPs": {
+        "text": "50,000-70,000 (remaining from ten-year Maoist insurgency that officially ended in 2006; displacement spread across the country) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West"
+    }
+  }
+}

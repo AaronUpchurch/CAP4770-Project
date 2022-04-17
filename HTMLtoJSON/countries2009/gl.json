@@ -1,0 +1,573 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Greenland, the world's largest island, is about 81% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland was made an integral part of Denmark in 1953. It joined the European Community (now the EU) with Denmark in 1973, but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland was granted self-government in 1979 by the Danish parliament; the law went into effect the following year. Greenland voted in favor of increased self-rule in November 2008 and acquired complete responsibilty for internal affairs in June 2009. Denmark, however, continues to exercise control of Greenland's foreign affairs, security, and financial policy in consultation with Greenland's Home Rule Government."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern North America, island between the Arctic Ocean and the North Atlantic Ocean, northeast of Canada"
+    },
+    "Geographic coordinates": {
+      "text": "72 00 N, 40 00 W"
+    },
+    "Map references": {},
+    "North America": {},
+    "Area": {
+      "total": {
+        "text": "2,166,086 sq km"
+      },
+      "land": {
+        "text": "2,166,086 sq km (410,449 sq km ice-free, 1,755,637 sq km ice-covered)"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than three times the size of Texas"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "44,087 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "3 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm or agreed boundaries or median line"
+      },
+      "continental shelf": {
+        "text": "200 nm or agreed boundaries or median line"
+      }
+    },
+    "Climate": {
+      "text": "arctic to subarctic; cool summers, cold winters"
+    },
+    "Terrain": {
+      "text": "flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Gunnbjorn 3,700 m"
+      }
+    },
+    "Natural resources": {
+      "text": "coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "100% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "continuous permafrost over northern two-thirds of the island"
+    },
+    "Environment - current issues": {
+      "text": "protection of the arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting"
+    },
+    "Geography - note": {
+      "text": "dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice cap"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "57,600 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "23% (male 6,727/female 6,533)"
+      },
+      "15-64 years": {
+        "text": "70.1% (male 21,696/female 18,669)"
+      },
+      "65 years and over": {
+        "text": "6.9% (male 2,000/female 1,975) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "33.5 years"
+      },
+      "male": {
+        "text": "34.9 years"
+      },
+      "female": {
+        "text": "31.9 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.062% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "14.76 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.14 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-5.99 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "84% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.16 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "1.01 male(s)/female"
+      },
+      "total population": {
+        "text": "1.12 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "10.72 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "12.26 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "9.1 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "70.07 years"
+      },
+      "male": {
+        "text": "67.44 years"
+      },
+      "female": {
+        "text": "72.85 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.19 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "100 (1999)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Greenlander(s)"
+      },
+      "adjective": {
+        "text": "Greenlandic"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Greenlander 88% (Inuit and Greenland-born whites), Danish and others 12% (2000)"
+    },
+    "Religions": {
+      "text": "Evangelical Lutheran"
+    },
+    "Languages": {
+      "text": "Greenlandic (East Inuit) (official), Danish, English"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "100%"
+      },
+      "male": {
+        "text": "100%"
+      },
+      "female": {
+        "text": "100% (2001 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Greenland"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Kalaallit Nunaat"
+      }
+    },
+    "Dependency status": {
+      "text": "part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979"
+    },
+    "Government type": {
+      "text": "parliamentary democracy within a constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Nuuk (Godthab)"
+      },
+      "geographic coordinates": {
+        "text": "64 11 N, 51 45 W"
+      },
+      "time difference": {
+        "text": "UTC-3 (2 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      },
+      "note": "Greenland is divided into four time zones"
+    },
+    "note": "two representatives were elected to the Danish Parliament or Folketing on 13 November 2007 (next to be held in November 2011); percent of vote by party - NA; seats by party - Siumut 1, Inuit Ataqatigiit 1",
+    "Administrative divisions": {
+      "text": "3 districts (landsdele); Avannaa (Nordgronland), Tunu (Ostgronland), Kitaa (Vestgronland)",
+      "note": "there are 18 municipalities in Greenland"
+    },
+    "Independence": {
+      "text": "none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)"
+    },
+    "National holiday": {
+      "text": "June 21 (longest day)"
+    },
+    "Constitution": {
+      "text": "(November 2008) Act on Greenland Self Government"
+    },
+    "Legal system": {
+      "text": "the laws of Denmark, where applicable, apply"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Soren MOLLER (since April 2005)"
+      },
+      "head of government": {
+        "text": "Prime Minister Kuupik KLEIST (since 12 June 2009)"
+      },
+      "cabinet": {
+        "text": "Home Rule Government is elected by the Parliament (Landsting) on the basis of the strength of parties"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; high commissioner appointed by the monarch; prime minister is elected by parliament (usually the leader of the majority party)"
+      },
+      "election results": {
+        "text": "Kuupik KLEIST elected prime minister"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Landsting (31 seats; members are elected by popular vote on the basis of proportional representation to serve four-year terms)",
+      "elections": {
+        "text": "last held on 2 June 2009 (next to be held by 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Inuit Ataqatigiit 43.7%, Siumut 26.5%, Demokratiit 12.7%, Atassut 10.9%; Kattusseqatigiit 3.8%, other 2.4%; seats by party - IA 14, Siumut 9, Demokraatiit 4, Atassut 3, Kattusseqatigiit 1"
+      },
+      "note": "two representatives were elected to the Danish Parliament or Folketing on 13 November 2007 (next to be held in November 2011); percent of vote by party - NA; seats by party - Siumut 1, Inuit Ataqatigiit 1"
+    },
+    "Judicial branch": {
+      "text": "High Court or Landsret (appeals can be made to the Ostre Landsret or Eastern Division of the High Court or Supreme Court in Copenhagen)"
+    },
+    "Political parties and leaders": {
+      "text": "Atassut Party (Solidarity) [Finn KARLSEN] (a conservative party favoring continuing close relations with Denmark); Demokratiit [Per BERTHELSEN]; Inuit Ataqatigiit or IA (Eskimo Brotherhood) [Josef MOTZFELDT] (a leftist party favoring complete independence from Denmark rather than home rule); Kattusseqatigiit (Candidate List) (an independent right-of-center party with no official platform); Siumut (Forward Party) [Hans ENOKSEN] (a social democratic party advocating more distinct Greenlandic identity and greater autonomy from Denmark)"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "conservationists; environmentalists"
+      }
+    },
+    "International organization participation": {
+      "text": "Arctic Council, NC, NIB, UPU"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (self-governing overseas administrative division of Denmark)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "none (self-governing overseas administrative division of Denmark)"
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The economy remains critically dependent on exports of shrimp and fish and on a substantial subsidy - about $700 million in 2008-09 - from the Danish Government, which supplies about 60% of government revenues. The public sector, including publicly-owned enterprises and the municipalities, plays the dominant role in the economy. Several interesting hydrocarbon and mineral exploration activities are ongoing and in 2007 a US firm signed an agreement with the Greenland Home Rule government to study the feasibility of building a multi-billion dollar aluminum smelter and hydropower plant. Denmark plans to reduce its subsidies to Greenland as revenues from oil exports come onstream."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.1 billion (2001 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.7 billion (2005)"
+    },
+    "GDP - real growth rate": {
+      "text": "2% (2005 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$20,000 (2001 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Labor force": {
+      "text": "32,120 (2004)"
+    },
+    "Unemployment rate": {
+      "text": "9.3% (2005 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.36 billion"
+      },
+      "expenditures": {
+        "text": "$1.27 billion (2005)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1% (2005 est.)"
+    },
+    "Agriculture - products": {
+      "text": "forage crops, garden and greenhouse vegetables; sheep, reindeer; fish"
+    },
+    "Industries": {
+      "text": "fish processing (mainly shrimp and Greenland halibut); gold, niobium, tantalite, uranium, iron and diamond mining; handicrafts, hides and skins, small shipyards"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "325 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "302.3 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "4,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "149.5 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,172 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Exports": {
+      "text": "$480 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "fish and fish products 94% (prawns 63%) (2001 est.)"
+    },
+    "Exports - partners": {
+      "text": "Denmark 63.5%, Japan 11.1%, China 4.9%, Canada 4.8% (2008)"
+    },
+    "Imports": {
+      "text": "$712 million (2006)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactured goods, food, petroleum products"
+    },
+    "Imports - partners": {
+      "text": "Denmark 59.1%, Sweden 20.9%, Norway 4.7%, UK 4.4% (2008)"
+    },
+    "Debt - external": {
+      "text": "$25 million (1999)"
+    },
+    "Exchange rates": {
+      "text": "Danish kroner (DKK) per US dollar - 5.0236 (2008 est.), 5.4797 (2007), 5.9468 (2006), 5.9969 (2005), 5.9911 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "22,800 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "55,800 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate domestic and international service provided by satellite, cables and microwave radio relay; totally digitalized in 1995"
+      },
+      "domestic": {
+        "text": "microwave radio relay and satellite"
+      },
+      "international": {
+        "text": "country code - 299; satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2000)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 5, FM 14, shortwave 0 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (plus some local low-power stations, and 3 American Forces Radio and Television Service (AFRTS) stations (1997)"
+    },
+    "Internet country code": {
+      "text": ".gl"
+    },
+    "Internet hosts": {
+      "text": "14,134 (2009)"
+    },
+    "Internet users": {
+      "text": "36,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "15 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "6 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      },
+      "note": "although there are short roads in towns, there are no roads between towns; inter-urban transport takes place either by sea or air (2005)"
+    },
+    "Roadways": {},
+    "note": "although there are short roads in towns, there are no roads between towns; inter-urban transport takes place either by sea or air (2005)",
+    "Merchant marine": {
+      "total": {
+        "text": "2"
+      },
+      "by type": {
+        "text": "cargo 1, passenger 1 (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Sisimiut"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "15,221 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "10,809"
+      },
+      "females age 16-49": {
+        "text": "11,437 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "532"
+      },
+      "female": {
+        "text": "491 (2009 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of Denmark"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland"
+    }
+  }
+}

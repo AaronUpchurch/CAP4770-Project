@@ -1,0 +1,842 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "For centuries China stood as a leading civilization, outpacing the rest of the world in the arts and sciences, but in the 19th and early 20th centuries, the country was beset by civil unrest, major famines, military defeats, and foreign occupation. After World War II, the Communist Party of China under MAO Zedong established an autocratic socialist system that, while ensuring China's sovereignty, imposed strict controls over everyday life and cost the lives of tens of millions of people. After 1978, MAO's successor DENG Xiaoping and other leaders focused on market-oriented economic development and by 2000 output had quadrupled. For much of the population, living standards have improved dramatically but political controls remain tight. Since the early 1990s, China has increased its global outreach and participation in international organizations."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "People's Republic of China"
+      },
+      "conventional short form": {
+        "text": "China"
+      },
+      "local long form": {
+        "text": "Zhonghua Renmin Gongheguo"
+      },
+      "local short form": {
+        "text": "Zhongguo"
+      },
+      "abbreviation": {
+        "text": "PRC"
+      },
+      "etymology": {
+        "text": "English name derives from the Qin (Chin) rulers of the 3rd century B.C., who comprised the first imperial dynasty of ancient China; the Chinese name Zhongguo translates as \"Central Nation\""
+      }
+    },
+    "Government type": {
+      "text": "communist state"
+    },
+    "Capital": {
+      "name": {
+        "text": "Beijing"
+      },
+      "geographic coordinates": {
+        "text": "39 55 N, 116 23 E"
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "note": {
+        "text": "despite its size, all of China falls within one time zone; many people in Xinjiang Province observe an unofficial \"Xinjiang time zone\" of UTC+6, two hours behind Beijing"
+      }
+    },
+    "Administrative divisions": {
+      "text": "23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural)",
+      "provinces": {
+        "text": "Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)"
+      },
+      "autonomous regions": {
+        "text": "Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uygur, Xizang (Tibet)"
+      },
+      "municipalities": {
+        "text": "Beijing, Chongqing, Shanghai, Tianjin"
+      },
+      "note": {
+        "text": "China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau"
+      }
+    },
+    "Independence": {
+      "text": "1 October 1949 (People's Republic of China established); notable earlier dates: 221 B.C. (unification under the Qin Dynasty); 1 January 1912 (Qing Dynasty replaced by the Republic of China)"
+    },
+    "National holiday": {
+      "text": "National Day (anniversary of the founding of the People's Republic of China), 1 October (1949)"
+    },
+    "Constitution": {
+      "text": "several previous; latest promulgated 4 December 1982; amended several times, last in 2004 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes; note - in early 2017, the National People's Congress took the first step in adopting a new civil code by passing the General Provisions of the Civil Law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "least one parent must be a citizen of China"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "while naturalization is theoretically possible, in practical terms it is extremely difficult; residency is required but not specified"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President XI Jinping (since 14 March 2013); Vice President LI Yuanchao (since 14 March 2013)"
+      },
+      "head of government": {
+        "text": "Premier LI Keqiang (since 16 March 2013); Executive Vice Premiers ZHANG Gaoli (since 16 March 2013), LIU Yandong (since 16 March 2013), MA Kai (since 16 March 2013), WANG Yang (since 16 March 2013)"
+      },
+      "cabinet": {
+        "text": "State Council appointed by National People's Congress"
+      },
+      "elections/appointments": {
+        "text": "president and vice president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 5-17 March 2013 (next to be held in March 2018); premier nominated by president, confirmed by National People's Congress"
+      },
+      "election results": {
+        "text": "XI Jinping elected president; National People's Congress vote - 2,952 ; LI Yuanchao elected vice president with 2,940 votes"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (2,987 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied parties, and CCP-approved independent candidates are elected"
+      },
+      "elections": {
+        "text": "last held in December 2012-February 2013 (next to be held in late 2017 to early 2018)"
+      },
+      "election results": {
+        "text": "percent of vote - NA; seats by party - 2,987"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme People's Court (consists of over 340 judges including the chief justice, 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases); note - in late December 2016, the third, fourth, fifth, and sixth circuit courts of the Supreme People's Court began operation"
+      },
+      "judge selection and term of office": {
+        "text": "chief justice appointed by the People's National Congress (NPC); limited to 2 consecutive 5-year-terms; other justices and judges nominated by the chief justice and appointed by the Standing Committee of the NPC; term of other justices and judges determined by the NPC"
+      },
+      "subordinate courts": {
+        "text": "Higher People's Courts; Intermediate People's Courts; District and County People's Courts; Autonomous Region People's Courts; Special People's Courts for military, maritime, transportation, and forestry issues"
+      },
+      "note": {
+        "text": "in late 2014, China unveiled planned judicial reforms"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Chinese Communist Party or CCP [XI Jinping]",
+      "note": {
+        "text": "China has 8 nominally independent small parties ultimately controlled by the CCP"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "no substantial political opposition groups exist"
+    },
+    "International organization participation": {
+      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UNSC (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador CUI Tiankai (since 3 April 2013)"
+      },
+      "chancery": {
+        "text": "3505 International Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 495-2266"
+      },
+      "FAX": {
+        "text": "[1] (202) 495-2138"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Houston, Los Angeles, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Terry BRANSTAD (since 12 July 2017)Charge d\"Affaires Johnathan FRITZ (acting)(since 5 June 2017)"
+      },
+      "embassy": {
+        "text": "55 An Jia Lou Lu, 100600 Beijing"
+      },
+      "mailing address": {
+        "text": "PSC 461, Box 50, FPO AP 96521-0002"
+      },
+      "telephone": {
+        "text": "[86] (10) 8531-3000"
+      },
+      "FAX": {
+        "text": "[86] (10) 8531-3300"
+      },
+      "consulate(s) general": {
+        "text": "Chengdu, Guangzhou, Shanghai, Shenyang, Wuhan"
+      }
+    },
+    "Flag description": {
+      "text": "red with a large yellow five-pointed star and four smaller yellow five-pointed stars (arranged in a vertical arc toward the middle of the flag) in the upper hoist-side corner; the color red represents revolution, while the stars symbolize the four social classes - the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) - united under the Communist Party of China"
+    },
+    "National symbol(s)": {
+      "text": "dragon, giant panda; national colors: red, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Yiyongjun Jinxingqu\" (The March of the Volunteers)"
+      },
+      "lyrics/music": {
+        "text": "TIAN Han/NIE Er"
+      },
+      "note": {
+        "text": "adopted 1949; the anthem, though banned during the Cultural Revolution, is more commonly known as \"Zhongguo Guoge\" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, \"Sons and Daughters in a Time of Storm\""
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "The government's 13th Five-Year Plan, unveiled in March 2016, emphasizes the need to increase innovation and boost domestic consumption to make the economy less dependent on government investment, exports, and heavy industry. However, China has made only marginal progress toward these rebalancing goals. Under President XI Jinping, Beijing has signaled its understanding that China's long-term economic health depends on giving the market a more decisive role in allocating resources, but has moved slowly on market-oriented reforms because of potential negative consequences for stability and short-term economic growth. He has also increased state-control over key sectors and Party control over state-owned enterprises. Chinese leaders in 2010 pledged to double China\u2019s GDP by 2020, and the 13th Five Year Plan includes annual economic growth targets of at least 6.5% through 2020 to achieve that goal. In recent years, China has renewed its support for state-owned enterprises in sectors considered important to \"economic security,\" explicitly looking to foster globally competitive industries. Chinese leaders also have undermined some market-oriented reforms by reaffirming the \u201cdominant\u201d role of the state in the economy, a stance that threatens to discourage private initiative and make the economy less efficient over time."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$18.23 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$11.23 trillion (2016 est.)",
+      "note": {
+        "text": "because China's exchange rate is determined by fiat rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries"
+      }
+    },
+    "GDP - real growth rate": {
+      "text": "7.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$13,600 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Gross national saving": {
+      "text": "49% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "39.2%"
+      },
+      "government consumption": {
+        "text": "14.4%"
+      },
+      "investment in fixed capital": {
+        "text": "42.7%"
+      },
+      "investment in inventories": {
+        "text": "1.4%"
+      },
+      "exports of goods and services": {
+        "text": "19.5%"
+      },
+      "imports of goods and services": {
+        "text": "-17.3% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "8.6%"
+      },
+      "industry": {
+        "text": "39.8%"
+      },
+      "services": {
+        "text": "51.6%"
+      },
+      "text": " (2016 est.)"
+    },
+    "Agriculture - products": {
+      "text": "world leader in gross value of agricultural output; rice, wheat, potatoes, corn, tobacco, peanuts, tea, apples, cotton, pork, mutton, eggs; fish, shrimp"
+    },
+    "Industries": {
+      "text": "world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites"
+    },
+    "Industrial production growth rate": {
+      "text": "6.1% (2016 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Labor force": {
+      "text": "807.1 million",
+      "note": {
+        "text": "by the end of 2012, China's population at working age (15-64 years) was 1.004 billion (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "28.3%"
+      },
+      "industry": {
+        "text": "29.3%"
+      },
+      "services": {
+        "text": "42.4%"
+      },
+      "text": " (2015 est.)"
+    },
+    "Unemployment rate": {
+      "text": "4% (2015 est.)",
+      "note": {
+        "text": "data are for registered urban unemployment, which excludes private enterprises and migrants"
+      },
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Population below poverty line": {
+      "text": " (2016 est.)",
+      "note": {
+        "text": "in 2011, China set a new poverty line at RMB 2300 (approximately US $400)"
+      }
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.1%"
+      },
+      "highest 10%": {
+        "text": "31.4%"
+      },
+      "note": {
+        "text": "data are for urban households only (2012)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "46.2 (2015 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.402 trillion"
+      },
+      "expenditures": {
+        "text": "$2.826 trillion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "21.4% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Public debt": {
+      "text": "15.2% of GDP (2015 est.)",
+      "note": {
+        "text": "official data; data cover both central government debt and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt"
+      },
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "2.25% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.35% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$6.176 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$21.45 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$20.53 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$6.005 trillion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Current account balance": {
+      "text": "$304.2 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Exports": {
+      "text": "$2.143 trillion (2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Exports - commodities": {
+      "text": "electrical and other machinery, including computers and telecommunications equipment, apparel, furniture, textiles"
+    },
+    "Exports - partners": {
+      "text": "US 18.2%, Hong Kong 13.8%, Japan 6.1%, South Korea 4.5% (2016)"
+    },
+    "Imports": {
+      "text": "$1.567 trillion (2015 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Imports - commodities": {
+      "text": "electrical and other machinery, including integrated circuits and other computer components, oil and mineral fuels; optical and medical equipment, metal ores, motor vehicles; soybeans"
+    },
+    "Imports - partners": {
+      "text": "South Korea 10%, Japan 9.2%, US 8.5%, Germany 5.4%, Australia 4.4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.406 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.418 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.221 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.01 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Exchange rates": {
+      "text": "6.3123 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,200,000"
+      },
+      "electrification - total population": {
+        "text": "99.9%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "99.8% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "6.142 trillion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "5.92 trillion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Electricity - exports": {
+      "text": "18.91 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Electricity - imports": {
+      "text": "6.185 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.646 billion kW (2016 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "64% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "2% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "20.2% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "13.7% of total installed capacity (2016 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Crude oil - production": {
+      "text": "3.981 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "32,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "6.167 million bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "25.62 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "10.85 million bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "11.75 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "709,900 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "971,900 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Natural gas - production": {
+      "text": "138.4 billion cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "186.2 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "3.243 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "75.1 billion cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "5.194 trillion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "9.135 billion Mt (2014 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "206.624 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "15 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "1,364.934 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "99 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "domestic and international services are available for private use; unevenly distributed domestic system serves principal cities, industrial centers, and many towns; China continues to develop its telecommunications infrastructure; China in the summer of 2008 began a major restructuring of its telecommunications industry, resulting in the consolidation of its six telecom service operators to three, China Telecom, China Mobile, and China Unicom, each providing both fixed-line and mobile services (2016)"
+      },
+      "domestic": {
+        "text": "interprovincial fiber-optic trunk lines and cellular telephone systems have been installed; mobile-cellular subscribership is increasing rapidly; the number of Internet users now over 50% of the population; a domestic satellite system with several earth stations is in place (2016)"
+      },
+      "international": {
+        "text": "country code - 86; a number of submarine cables provide connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2012)"
+      }
+    },
+    "Broadcast media": {
+      "text": "all broadcast media are owned by, or affiliated with, the Communist Party of China or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department lists subjects that are off limits to domestic broadcast media with the government maintaining authority to approve all programming; foreign-made TV programs must be approved prior to broadcast; increasingly, Chinese turn to online television to access Chinese and international films and television shows (2017)"
+    },
+    "Internet country code": {
+      "text": ".cn"
+    },
+    "Internet users": {
+      "total": {
+        "text": "730,723,960"
+      },
+      "percent of population": {
+        "text": "53.2% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "1"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "56"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "2,890"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "436,183,969"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "19.806 billion mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "B (2016)"
+    },
+    "Airports": {
+      "text": "507 (2013)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "463"
+      },
+      "over 3,047 m": {
+        "text": "71"
+      },
+      "2,438 to 3,047 m": {
+        "text": "158"
+      },
+      "1,524 to 2,437 m": {
+        "text": "123"
+      },
+      "914 to 1,523 m": {
+        "text": "25"
+      },
+      "under 914 m": {
+        "text": "86 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "44"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "9"
+      },
+      "under 914 m": {
+        "text": "18 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "47 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 70,000 km; crude oil 22,900 km; refined petroleum products 25,500 km; water 710,206 km (2015)"
+    },
+    "Railways": {
+      "total": {
+        "text": "124,000 km"
+      },
+      "standard gauge": {
+        "text": "124,000 km 1.435-m gauge (80,000 km electrified); 102,000 traditional, 22,000 high-speed (2017)"
+      },
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "4,577,300 km"
+      },
+      "paved": {
+        "text": "4,046,300 km (includes 123,500 km of expressways)"
+      },
+      "unpaved": {
+        "text": "531,000 km (2015)"
+      },
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Waterways": {
+      "text": "110,000 km (navigable waterways) (2011)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "4,287"
+      },
+      "by type": {
+        "text": "bulk carrier 1,069, container ship 198, general cargo 697, oil tanker 480, other 1,843, (2017)"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin"
+      },
+      "river port(s)": {
+        "text": "Guangzhou (Pearl)"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Dalian (9,591,000), Guangzhou (17,097,000), Ningbo (20,636,000), Qingdao (17,323,000), Shanghai (36,516,000), Shenzhen (24,142,000), Tianjin (13,881,000)(2015)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tangshan, Zhejiang"
+      }
+    },
+    "Transportation - note": {
+      "text": "seven of the world\u2019s ten largest container ports are in China"
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.84% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Military branches": {
+      "text": "People's Liberation Army (PLA): Army, Navy (PLAN, includes marines and naval aviation), Air Force (Zhongguo Renmin Jiefangjun Kongjun, PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (space and cyber forces); People's Armed Police (Renmin Wuzhuang Jingcha Budui, PAP); PLA Reserve Force (2016)"
+    },
+    "Military service age and obligation": {
+      "text": "18-24 years of age for selective compulsory military service, with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs; a recent military decision allows women in combat roles; the first class of women warship commanders was in 2011 (2012)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Chinese and Hong Kong authorities met in March 2008 to resolve ownership and use of lands recovered in Shenzhen River channelization, including 96-hectare Lok Ma Chau Loop"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "317,098 (Vietnam); undetermined (North Korea) (2016)"
+      },
+      "IDPs": {
+        "text": "undetermined (2014)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "China is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Chinese adults and children are forced into prostitution and various forms of forced labor, including begging and working in brick kilns, coal mines, and factories; women and children are recruited from rural areas and taken to urban centers for sexual exploitation, often lured by criminal syndicates or gangs with fraudulent job offers; state-sponsored forced labor, where detainees work for up to four years often with no remuneration, continues to be a serious concern; Chinese men, women, and children also may be subjected to conditions of sex trafficking and forced labor worldwide, particularly in overseas Chinese communities; women and children are trafficked to China from neighboring countries, as well as Africa and the Americas, for forced labor and prostitution"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - China does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; official data for 2014 states that 194 alleged traffickers were arrested and at least 35 were convicted, but the government\u2019s conflation of human trafficking with other crimes makes it difficult to assess law enforcement efforts to investigate and to prosecute trafficking offenses according to international law; despite reports of complicity, no government officials were investigated, prosecuted, or convicted for their roles in trafficking offenses; authorities did not adequately protect victims and did not provide the data needed to ascertain the number of victims identified or assisted or the services provided; the National People\u2019s Congress ratified a decision to abolish \u201creform through labor\u201d in 2013, but some continued to operate as state-sponsored drug detention or \u201ccustody and education\u201d centers that force inmates to perform manual labor; some North Korean refugees continued to be forcibly repatriated as illegal economic migrants, despite reports that some were trafficking victims (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "major transshipment point for heroin produced in the Golden Triangle region of Southeast Asia; growing domestic consumption of synthetic drugs, and heroin from Southeast and Southwest Asia; source country for methamphetamine and heroin chemical precursors, despite new regulations on its large chemical industry; more people believed to be convicted and executed for drug offences than anywhere else in the world, according to NGOs"
+    }
+  }
+}

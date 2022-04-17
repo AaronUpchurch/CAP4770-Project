@@ -1,0 +1,768 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The United Kingdom has historically played a leading role in developing parliamentary democracy and in advancing literature and science. At its zenith in the 19th century, the British Empire stretched over one-fourth of the earth's surface. The first half of the 20th century saw the UK's strength seriously depleted in two World Wars and the Irish republic withdraw from the union. The second half witnessed the dismantling of the Empire and the UK rebuilding itself into a modern and prosperous European nation. As one of five permanent members of the UN Security Council, a founding member of NATO, and of the Commonwealth, the UK pursues a global approach to foreign policy. The UK is also an active member of the EU, although it chose to remain outside the Economic and Monetary Union. The Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly were established in 1999. The latter was suspended until May 2007 due to wrangling over the peace process, but devolution was fully completed in March 2010."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Western Europe, islands including the northern one-sixth of the island of Ireland between the North Atlantic Ocean and the North Sea, northwest of France"
+    },
+    "Geographic coordinates": {
+      "text": "54 00 N, 2 00 W"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "243,610 sq km"
+      },
+      "land": {
+        "text": "241,930 sq km"
+      },
+      "water": {
+        "text": "1,680 sq km"
+      },
+      "note": "includes Rockall and Shetland Islands"
+    },
+    "note": "includes Rockall and Shetland Islands",
+    "Area - comparative": {
+      "text": "slightly smaller than Oregon"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "360 km"
+      },
+      "border countries": {
+        "text": "Ireland 360 km"
+      }
+    },
+    "Coastline": {
+      "text": "12,429 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "as defined in continental shelf orders or in accordance with agreed upon boundaries"
+      }
+    },
+    "Climate": {
+      "text": "temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast"
+    },
+    "Terrain": {
+      "text": "mostly rugged hills and low mountains; level to rolling plains in east and southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "The Fens -4 m"
+      },
+      "highest point": {
+        "text": "Ben Nevis 1,343 m"
+      }
+    },
+    "Natural resources": {
+      "text": "coal, petroleum, natural gas, iron ore, lead, zinc, gold, tin, limestone, salt, clay, chalk, gypsum, potash, silica sand, slate, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "23.23%"
+      },
+      "permanent crops": {
+        "text": "0.2%"
+      },
+      "other": {
+        "text": "76.57% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "1,700 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "160.6 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "11.75  cu km/yr (22%/75%/3%)"
+      },
+      "per capita": {
+        "text": "197  cu m/yr (1994)"
+      }
+    },
+    "Natural hazards": {
+      "text": "winter windstorms; floods"
+    },
+    "Environment - current issues": {
+      "text": "continues to reduce greenhouse gas emissions (has met Kyoto Protocol target of a 12.5% reduction from 1990 levels and intends to meet the legally binding target and move toward a domestic goal of a 20% cut in emissions by 2010); by 2005 the government reduced the amount of industrial and commercial waste disposed of in landfill sites to 85% of 1998 levels and recycled or composted at least 25% of household waste, increasing to 33% by 2015"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "lies near vital North Atlantic sea lanes; only 35 km from France and linked by tunnel under the English Channel; because of heavily indented coastline, no location is more than 125 km from tidal waters"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "62,348,447 (July 2010 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "16.7% (male 5,233,756/female 4,986,131)"
+      },
+      "15-64 years": {
+        "text": "67.1% (male 20,774,192/female 20,246,519)"
+      },
+      "65 years and over": {
+        "text": "16.2% (male 4,259,654/female 5,612,953) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "39.8 years"
+      },
+      "male": {
+        "text": "38.6 years"
+      },
+      "female": {
+        "text": "40.9 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.563% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "12.34 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "9.33 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "2.61 migrant(s)/1,000 population (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "90% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.052 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.76 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.69 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.15 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.2 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.92 years"
+      },
+      "male": {
+        "text": "77.84 years"
+      },
+      "female": {
+        "text": "82.11 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.92 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "77,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Briton(s), British (collective plural)"
+      },
+      "adjective": {
+        "text": "British"
+      }
+    },
+    "Ethnic groups": {
+      "text": "white (of which English 83.6%, Scottish 8.6%, Welsh 4.9%, Northern Irish 2.9%) 92.1%, black 2%, Indian 1.8%, Pakistani 1.3%, mixed 1.2%, other 1.6% (2001 census)"
+    },
+    "Religions": {
+      "text": "Christian (Anglican, Roman Catholic, Presbyterian, Methodist) 71.6%, Muslim 2.7%, Hindu 1%, other 1.6%, unspecified or none 23.1% (2001 census)"
+    },
+    "Languages": {
+      "text": "English",
+      "note": "the following are recognized regional languages"
+    },
+    "note": "the following are recognized regional languages",
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has completed five or more years of schooling"
+      },
+      "total population": {
+        "text": "99%"
+      },
+      "male": {
+        "text": "99%"
+      },
+      "female": {
+        "text": "99% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "16 years"
+      },
+      "male": {
+        "text": "16 years"
+      },
+      "female": {
+        "text": "17 years (2008)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.6% of GDP (2007)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "United Kingdom of Great Britain and Northern Ireland; note - Great Britain includes England, Scotland, and Wales "
+      },
+      "conventional short form": {
+        "text": "United Kingdom"
+      },
+      "abbreviation": {
+        "text": "UK"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy and Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "London"
+      },
+      "geographic coordinates": {
+        "text": "51 30 N, 0 10 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      },
+      "note": "applies to the United Kingdom proper, not to its overseas dependencies or territories"
+    },
+    "note": "in use since 1745; by tradition, the song serves as both the national and royal anthem of the United Kingdom; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations",
+    "Administrative divisions": {
+      "England": {
+        "text": "27 two-tier counties, 32 London boroughs and 1 City of London or Greater London, 36 metropolitan districts, 56 unitary authorities (including 4 single-tier counties*)"
+      },
+      "two-tier counties": {
+        "text": "Buckinghamshire, Cambridgeshire, Cumbria, Derbyshire, Devon, Dorset, East Sussex, Essex, Gloucestershire, Hampshire, Hertfordshire, Kent, Lancashire, Leicestershire, Lincolnshire, Norfolk, North Yorkshire, Northamptonshire, Nottinghamshire, Oxfordshire, Somerset, Staffordshire, Suffolk, Surrey, Warwickshire, West Sussex, Worcestershire"
+      },
+      "London boroughs and City of London or Greater London": {
+        "text": "Barking and Dagenham, Barnet, Bexley, Brent, Bromley, Camden, Croydon, Ealing, Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hillingdon, Hounslow, Islington, Kensington and Chelsea, Kingston upon Thames, Lambeth, Lewisham, City of London, Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Sutton, Tower Hamlets, Waltham Forest, Wandsworth, Westminster"
+      },
+      "metropolitan districts": {
+        "text": "Barnsley, Birmingham, Bolton, Bradford, Bury, Calderdale, Coventry, Doncaster, Dudley, Gateshead, Kirklees, Knowlsey, Leeds, Liverpool, Manchester, Newcastle upon Tyne, North Tyneside, Oldham, Rochdale, Rotherham, Salford, Sandwell, Sefton, Sheffield, Solihull, South Tyneside, St. Helens, Stockport, Sunderland, Tameside, Trafford, Wakefield, Walsall, Wigan, Wirral, Wolverhampton\r\n\r\n"
+      },
+      "unitary authorities": {
+        "text": "Blaenau Gwent; Bridgend; Caerphilly; Cardiff; Carmarthenshire; Ceredigion; Conwy; Denbighshire; Flintshire; Gwynedd; Isle of Anglesey; Merthyr Tydfil; Monmouthshire; Neath Port Talbot; Newport; Pembrokeshire; Powys; Rhondda, Cynon, Taff; Swansea; The Vale of Glamorgan; Torfaen; Wrexham"
+      },
+      "Northern Ireland": {
+        "text": "26 district council areas"
+      },
+      "district council areas": {
+        "text": "Antrim, Ards, Armagh, Ballymena, Ballymoney, Banbridge, Belfast, Carrickfergus, Castlereagh, Coleraine, Cookstown, Craigavon, Derry, Down, Dungannon, Fermanagh, Larne, Limavady, Lisburn, Magherafelt, Moyle, Newry and Mourne, Newtownabbey, North Down, Omagh, Strabane"
+      },
+      "Scotland": {
+        "text": "32 council areas"
+      },
+      "council areas": {
+        "text": "Aberdeen City, Aberdeenshire, Angus, Argyll and Bute, Clackmannanshire, Dumfries and Galloway, Dundee City, East Ayrshire, East Dunbartonshire, East Lothian, East Renfrewshire, City of Edinburgh, Eilean Siar (Western Isles), Falkirk, Fife, Glasgow City, Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire, Shetland Islands, South Ayrshire, South Lanarkshire, Stirling, The Scottish Borders, West Dunbartonshire, West Lothian"
+      },
+      "Wales": {
+        "text": "22 unitary authorities"
+      }
+    },
+    "Dependent areas": {
+      "text": "Anguilla, Bermuda, British Indian Ocean Territory, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, Pitcairn Islands, Saint Helena, South Georgia and the South Sandwich Islands, Turks and Caicos Islands"
+    },
+    "Independence": {
+      "12 April 1927 (Royal and Parliamentary Titles Act establishes current name of the United Kingdom of Great Britain and Northern Ireland); notable earlier dates": {
+        "text": "927 (minor English kingdoms united); 3 March 1284 (enactment of the Statute of Rhuddlan uniting England and Wales); 1536 (Act of Union formally incorporates England and Wales); 1 May 1707 (Acts of Union formally unite England and Scotland as Great Britain); 1 January 1801 (Acts of Union formally unite Great Britain and Ireland as the United Kingdom of Great Britain and Ireland); 6 December 1921 (Anglo-Irish Treaty formalizes partition of Ireland; six counties remain part of the United Kingdom as Northern Ireland)"
+      }
+    },
+    "National holiday": {
+      "text": "the UK does not celebrate one particular national holiday"
+    },
+    "Constitution": {
+      "text": "unwritten; partly statutes, partly common law and practice"
+    },
+    "Legal system": {
+      "text": "based on common law tradition with early Roman and modern continental influences; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November 1948)"
+      },
+      "head of government": {
+        "text": "Prime Minister David CAMERON (since 11 May 2010)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers appointed by the prime minister"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; following legislative elections, the leader of the majority party or the leader of the majority coalition usually the prime minister"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of House of Lords (741 seats; consisting of approximately 625 life peers, 91 hereditary peers, and 25 clergy - as of 15 December 2010) and House of Commons (650 seats since 2010 elections; members elected by popular vote to serve five-year terms unless the House is dissolved earlier)",
+      "elections": {
+        "text": "House of Lords - no elections (note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain there; elections are held only as vacancies in the hereditary peerage arise); House of Commons - last held on 6 May 2010 (next to be held by June 2015)"
+      },
+      "election results": {
+        "text": "House of Commons - percent of vote by party - Conservative 36.1%, Labor 29%, Liberal Democrats 23%, other 11.9%; seats by party - Conservative 305, Labor 258, Liberal Democrat 57, other 30"
+      },
+      "note": "in 1998 elections were held for a Northern Ireland Assembly (because of unresolved disputes among existing parties, the transfer of power from London to Northern Ireland came only at the end of 1999 and has been suspended four times, the latest occurring in October 2002 and lasting until 8 May 2007); in 1999, the UK held the first elections for a Scottish Parliament and a Welsh Assembly, the most recent of which were held in May 2007"
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of the UK (established in October 2009 taking over appellate jurisdiction formerly vested in the House of Lords); Senior Courts of England and Wales (comprising the Court of Appeal, the High Court of Justice, and the Crown Courts); Court of Judicature (Northern Ireland); Scotland's Court of Session and High Court of the Justiciary"
+    },
+    "Political parties and leaders": {
+      "text": "Conservative [David CAMERON]; Democratic Unionist Party or DUP (Northern Ireland) [Peter ROBINSON]; Labor Party [Ed MILIBAND]; Liberal Democrats (Lib Dems) [Nick CLEGG]; Party of Wales (Plaid Cymru) [Ieuan Wyn JONES]; Scottish National Party or SNP [Alex SALMOND]; Sinn Fein (Northern Ireland) [Gerry ADAMS]; Social Democratic and Labor Party or SDLP (Northern Ireland) [Margaret RICHIE]; Ulster Unionist Party (Northern Ireland) [Tom ELLIOTT]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Campaign for Nuclear Disarmament; Confederation of British Industry; National Farmers' Union; Trades Union Congress"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CDB, CE, CERN, EAPC, EBRD, EIB, ESA, EU, FAO, FATF, G-20, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PIF (partner), SECI (observer), UN, UN Security Council, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNMIS, UNRWA, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Sir Nigel E. SHEINWALD"
+      },
+      "chancery": {
+        "text": "3100 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 588-6500"
+      },
+      "FAX": {
+        "text": "[1] (202) 588-7870"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+      },
+      "consulate(s)": {
+        "text": "Dallas, Denver, Orlando"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Louis B. SUSMAN"
+      },
+      "embassy": {
+        "text": "24 Grosvenor Square, London, W1A 1AE"
+      },
+      "mailing address": {
+        "text": "PSC 801, Box 40, FPO AE 09498-4040"
+      },
+      "telephone": {
+        "text": "[44] (0) 20 7499-9000"
+      },
+      "FAX": {
+        "text": "[44] (0) 20 7629-9124"
+      },
+      "consulate(s) general": {
+        "text": "Belfast, Edinburgh"
+      }
+    },
+    "Flag description": {
+      "text": "blue field with the red cross of Saint George (patron saint of England) edged in white superimposed on the diagonal red cross of Saint Patrick (patron saint of Ireland), which is superimposed on the diagonal white cross of Saint Andrew (patron saint of Scotland); properly known as the Union Flag, but commonly called the Union Jack; the design and colors (especially the Blue Ensign) have been the basis for a number of other flags including other Commonwealth countries and their constituent states or provinces, and British overseas territories"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"God Save the Queen\""
+      },
+      "lyrics/music": {
+        "text": "unknown"
+      },
+      "note": "in use since 1745; by tradition, the song serves as both the national and royal anthem of the United Kingdom; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Over the past two decades, the government has greatly reduced public ownership and contained the growth of social welfare programs. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining and the UK became a net importer of energy in 2005. Services, particularly banking, insurance, and business services, account by far for the largest proportion of GDP while industry continues to decline in importance. After emerging from recession in 1992, Britain's economy enjoyed the longest period of expansion on record during which time growth outpaced most of Western Europe. In 2008, however, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Sharply declining home prices, high consumer debt, and the global economic slowdown compounded Britain's economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN government to implement a number of measures to stimulate the economy and stabilize the financial markets; these include nationalizing parts of the banking system, cutting taxes, suspending public sector borrowing rules, and moving forward public spending on capital projects. Facing burgeoning public deficits and debt levels, the CAMERON government in 2010 initiiated a five-year austerity program, which aims to lower London's budget deficit from over 11% of GDP in 2010 to nearly 1% by 2015. The Bank of England periodically coordinates interest rate moves with the European Central Bank, but Britain remains outside the European Economic and Monetary Union (EMU)."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.268 trillion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$2.259 trillion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.1% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$36,800 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.9%"
+      },
+      "industry": {
+        "text": "22.1%"
+      },
+      "services": {
+        "text": "77.1% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "31.45 million (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1.4%"
+      },
+      "industry": {
+        "text": "18.2%"
+      },
+      "services": {
+        "text": "80.4% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.6% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "14% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.1%"
+      },
+      "highest 10%": {
+        "text": "28.5% (1999)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "36.8 (1999)"
+    },
+    "Investment (gross fixed)": {
+      "text": "14.4% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "68.2% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.2% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "0.86% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.63% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$84.92 billion (31 December 2009 est)"
+    },
+    "Stock of broad money": {
+      "text": "$3.199 trillion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$4.436 trillion (31 December 2008)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.859 trillion (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "cereals, oilseed, potatoes, vegetables; cattle, sheep, poultry; fish"
+    },
+    "Industries": {
+      "text": "machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods"
+    },
+    "Industrial production growth rate": {
+      "text": "1.9% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "368.6 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "345.8 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.272 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "12.29 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "1.502 million bbl/day (2009 est.)"
+    },
+    "Oil - consumption": {
+      "text": "1.669 million bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "1.393 million bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "1.491 million bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "3.084 billion bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "58.56 billion cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "87.45 billion cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "12.17 billion cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "41.06 billion cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "292 billion cu m (1 January 2010 est.)"
+    },
+    "Current account balance": {
+      "text": "-$23.65 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$356.2 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "manufactured goods, fuels, chemicals; food, beverages, tobacco"
+    },
+    "Exports - partners": {
+      "text": "US 14.71%, Germany 11.06%, France 8%, Netherlands 7.79%, Ireland 6.89%, Belgium 4.65%, Spain 4% (2009)"
+    },
+    "Imports": {
+      "text": "$483.9 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "manufactured goods, machinery, fuels; foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Germany 12.87%, US 9.74%, China 8.88%, Netherlands 6.94%, France 6.64%, Belgium 4.86%, Norway 4.84%, Ireland 4.01%, Italy 3.99% (2009)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$66.72 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$9.041 trillion (31 December 2008)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.125 trillion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.652 trillion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "British pounds (GBP) per US dollar - 0.6504 (2010), 0.6389 (2009), 0.5302 (2008), 0.4993 (2007), 0.5418 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "32.117 million (2009)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "80.375 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "technologically advanced domestic and international system"
+      },
+      "domestic": {
+        "text": "equal mix of buried cables, microwave radio relay, and fiber-optic systems"
+      },
+      "international": {
+        "text": "country code - 44; numerous submarine cables provide links throughout Europe, Asia, Australia, the Middle East, and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers"
+      }
+    },
+    "Broadcast media": {
+      "text": "public service broadcaster BBC is the largest broadcasting corporation in the world; BBC operates multiple TV networks with regional and local TV service; a mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of TV stations throughout the world; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; a large number of commercial radio stations as well as satellite radio services are available (2008)"
+    },
+    "Internet country code": {
+      "text": ".uk"
+    },
+    "Internet hosts": {
+      "text": "7.03 million (2010)"
+    },
+    "Internet users": {
+      "text": "51.444 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "505 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "306"
+      },
+      "over 3,047 m": {
+        "text": "9"
+      },
+      "2,438 to 3,047 m": {
+        "text": "32"
+      },
+      "1,524 to 2,437 m": {
+        "text": "124"
+      },
+      "914 to 1,523 m": {
+        "text": "77"
+      },
+      "under 914 m": {
+        "text": "64 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "199"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "22"
+      },
+      "under 914 m": {
+        "text": "173 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "11 (2010)"
+    },
+    "Pipelines": {
+      "text": "condensate 43 km; gas 7,992 km; liquid petroleum gas 59 km; oil 699 km; refined products 4,417 km (2009)"
+    },
+    "Railways": {
+      "total": {
+        "text": "16,454 km"
+      },
+      "broad gauge": {
+        "text": "303 km 1.600-m gauge (in Northern Ireland)"
+      },
+      "standard gauge": {
+        "text": "16,151 km 1.435-m gauge (5,248 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "394,428 km"
+      },
+      "paved": {
+        "text": "394,428 km (includes 3,519 km of expressways) (2009)"
+      }
+    },
+    "Waterways": {
+      "text": "3,200 km (620 km used for commerce) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "527"
+      },
+      "by type": {
+        "text": "bulk carrier 30, cargo 70, carrier 3, chemical tanker 71, container 190, liquefied gas 10, passenger 7, passenger/cargo 67, petroleum tanker 20, refrigerated cargo 6, roll on/roll off 29, vehicle carrier 24"
+      },
+      "foreign-owned": {
+        "text": "292 (US 11)"
+      },
+      "registered in other countries": {
+        "text": "275 (Algeria 12, Antigua and Barbuda 2, Argentina 2, Australia 5, Bahamas 24, Barbados 7, Belgium 2, Belize 4, Bermuda 11, Cambodia 3, Cape Verde 2, Cayman Islands 2, Comoros 1, Cook Islands 2, Cyprus 7, Georgia 4, Gibraltar 4, Greece 27, Honduras 1, Hong Kong 27, Italy 2, Liberia 44, Libya 1, Luxembourg 5, Malta 16, Marshall Islands 9, Moldova 6, Nigeria 2, Panama 44, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 7, Sierra Leone 1, Singapore 6, Thailand 6, Togo 3, Tonga 1, US 4, unknown 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports, Hound Point (Scotland); Milford Haven (Wales)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army, Royal Navy (includes Royal Marines), Royal Air Force (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "16-33 years of age (officers 17-28) for voluntary military service (with parental consent under 18); women serve in military services, but are excluded from ground combat positions and some naval postings; as of October 2009, women comprised 12.1% of officers and 9% of enlisted personnel in the regular forces; must be citizen of the UK, Commonwealth, or Republic of Ireland; reservists serve a minimum of 3 years, to age 45 or 55; 16 years of age for voluntary military service by Nepalese citizens in the Brigade of Gurkhas; 16-34 years of age for voluntary military service by Papua New Guinean citizens (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "14,732,445"
+      },
+      "females age 16-49": {
+        "text": "14,118,320 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "12,113,310"
+      },
+      "females age 16-49": {
+        "text": "11,604,784 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "386,492"
+      },
+      "female": {
+        "text": "369,185 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "2.4% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement between the UK and Spain; the Government of Gibraltar insists on equal participation in talks between the two countries; Spain disapproves of UK plans to grant Gibraltar greater autonomy; Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory), and its former inhabitants since their eviction in 1965; most Chagossians reside in Mauritius, and in 2001 were granted UK citizenship, where some have since resettled; in May 2006, the High Court of London reversed the UK Government's 2004 orders of council that banned habitation on the islands; UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands; territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+    },
+    "Illicit drugs": {
+      "text": "producer of limited amounts of synthetic drugs and synthetic precursor chemicals; major consumer of Southwest Asian heroin, Latin American cocaine, and synthetic drugs; money-laundering center\r\n"
+    }
+  }
+}

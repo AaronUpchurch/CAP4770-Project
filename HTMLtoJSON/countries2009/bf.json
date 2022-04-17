@@ -1,0 +1,651 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Since attaining independence from the UK in 1973, The Bahamas have prospered through tourism and international banking and investment management. Because of its geography, the country is a major transshipment point for illegal drugs, particularly shipments to the US and Europe, and its territory is used for smuggling illegal migrants into the US."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of Cuba"
+    },
+    "Geographic coordinates": {
+      "text": "24 15 N, 76 00 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "13,880 sq km"
+      },
+      "land": {
+        "text": "10,010 sq km"
+      },
+      "water": {
+        "text": "3,870 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Connecticut"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "3,542 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical marine; moderated by warm waters of Gulf Stream"
+    },
+    "Terrain": {
+      "text": "long, flat coral formations with some low rounded hills"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Mount Alvernia, on Cat Island 63 m"
+      }
+    },
+    "Natural resources": {
+      "text": "salt, aragonite, timber, arable land"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0.58%"
+      },
+      "permanent crops": {
+        "text": "0.29%"
+      },
+      "other": {
+        "text": "99.13% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "hurricanes and other tropical storms cause extensive flood and wind damage"
+    },
+    "Environment - current issues": {
+      "text": "coral reef decay; solid waste disposal"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location adjacent to US and Cuba; extensive island chain of which 30 are inhabited"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "309,156",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2009 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "25.9% (male 40,085/female 39,959)"
+      },
+      "15-64 years": {
+        "text": "67.2% (male 102,154/female 105,482)"
+      },
+      "65 years and over": {
+        "text": "6.9% (male 8,772/female 12,704) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "28.7 years"
+      },
+      "male": {
+        "text": "27.9 years"
+      },
+      "female": {
+        "text": "29.5 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.536% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "16.81 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.32 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-2.13 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "84% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.4% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.02 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.69 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "23.17 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "28.21 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "18.04 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "65.78 years"
+      },
+      "male": {
+        "text": "62.63 years"
+      },
+      "female": {
+        "text": "68.98 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.1 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "3% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "6,200 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2007 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Bahamian(s)"
+      },
+      "adjective": {
+        "text": "Bahamian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 85%, white 12%, Asian and Hispanic 3%"
+    },
+    "Religions": {
+      "text": "Baptist 35.4%, Anglican 15.1%, Roman Catholic 13.5%, Pentecostal 8.1%, Church of God 4.8%, Methodist 4.2%, other Christian 15.2%, none or unspecified 2.9%, other 0.8% (2000 census)"
+    },
+    "Languages": {
+      "text": "English (official), Creole (among Haitian immigrants)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "95.6%"
+      },
+      "male": {
+        "text": "94.7%"
+      },
+      "female": {
+        "text": "96.5% (2003 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.6% of GDP (2000)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Commonwealth of The Bahamas "
+      },
+      "conventional short form": {
+        "text": "The Bahamas"
+      }
+    },
+    "Government type": {
+      "text": "constitutional parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Nassau"
+      },
+      "geographic coordinates": {
+        "text": "25 05 N, 77 21 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
+      }
+    },
+    "Administrative divisions": {
+      "text": "21 districts; Acklins and Crooked Islands, Bimini, Cat Island, Exuma, Freeport, Fresh Creek, Governor's Harbour, Green Turtle Cay, Harbour Island, High Rock, Inagua, Kemps Bay, Long Island, Marsh Harbour, Mayaguana, New Providence, Nichollstown and Berry Islands, Ragged Island, Rock Sound, Sandy Point, San Salvador, and Rum Cay"
+    },
+    "Independence": {
+      "text": "10 July 1973 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 10 July (1973)"
+    },
+    "Constitution": {
+      "text": "10 July 1973"
+    },
+    "Legal system": {
+      "text": "based on English common law"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Arthur D. HANNA (since 1 February 2006)"
+      },
+      "head of government": {
+        "text": "Prime Minister Hubert A. INGRAHAM (since 4 May 2007)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor general on the prime minister's recommendation"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or the leader of the majority coalition is usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of the Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve five-year terms) and the House of Assembly (41 seats; members elected by direct popular vote to serve five-year terms); the government may dissolve the parliament and call elections at any time",
+      "elections": {
+        "text": "last held 2 May 2007 (next to be held by May 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - FNM 49.86%, PLP 47.02%; seats by party - FNM 23, PLP 18"
+      }
+    },
+    "Judicial branch": {
+      "text": "Privy Council in London; Courts of Appeal; Supreme (lower) Court; Magistrates' Courts"
+    },
+    "Political parties and leaders": {
+      "text": "Free National Movement or FNM [Hubert INGRAHAM]; Progressive Liberal Party or PLP [Perry CHRISTIE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Friends of the Environment",
+      "other": {
+        "text": "trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, C, Caricom, CDB, FAO, G-77, IADB, IBRD, ICAO, ICCt (signatory), ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW (signatory), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Cornelius A. SMITH"
+      },
+      "chancery": {
+        "text": "2220 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 319-2660"
+      },
+      "FAX": {
+        "text": "[1] (202) 319-2668"
+      },
+      "consulate(s) general": {
+        "text": "Miami, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Ned L. SIEGEL"
+      },
+      "embassy": {
+        "text": "42 Queen Street, Nassau, New Providence"
+      },
+      "mailing address": {
+        "text": "local or express mail address"
+      },
+      "telephone": {
+        "text": "[1] (242) 322-1181, 328-2206 (after hours)"
+      },
+      "FAX": {
+        "text": "[1] (242) 328-2206"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, while the pointing triangle indicates the enterprise and determination of the Bahamian people to develop the rich resources of land and sea"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "The Bahamas is one of the wealthiest Caribbean countries with an economy heavily dependent on tourism and offshore banking. Tourism together with tourism-driven construction and manufacturing accounts for approximately 60% of GDP and directly or indirectly employs half of the archipelago's labor force. Steady growth in tourism receipts and a boom in construction of new hotels, resorts, and residences had led to solid GDP growth in recent years, but tourist arrivals have been on the decline since 2006 and will likely drop even further in 2009. Tourism, in turn, depends on growth in the US, the source of more than 80% of the visitors. To help offset the effect of the global economic downturn, particularly on employment, the INGRAHAM administration plans to engage in infrastructure projects. Financial services constitute the second-most important sector of the Bahamian economy and, when combined with business services, account for about 36% of GDP. However, since December 2000, when the government enacted new regulations on the financial sector, many international businesses have left The Bahamas. Manufacturing and agriculture combined contribute approximately a tenth of GDP and show little growth, despite government incentives aimed at those sectors. Overall growth prospects in the short run rest heavily on the fortunes of the tourism sector."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$9.236 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$7.564 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$30,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3%"
+      },
+      "industry": {
+        "text": "7%"
+      },
+      "services": {
+        "text": "90% (2001 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "175,500 (2007)"
+    },
+    "Labor force - by occupation": {
+      "text": "agriculture 5%, industry 5%, tourism 50%, other services 40% (2005 est.)"
+    },
+    "Unemployment rate": {
+      "text": "7.6% (2006 est.)"
+    },
+    "Population below poverty line": {
+      "text": "9.3% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "27% (2000)"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.03 billion"
+      },
+      "expenditures": {
+        "text": "$1.03 billion (FY04/05)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "5.25% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.5% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.274 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$4.324 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$7.395 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "citrus, vegetables; poultry"
+    },
+    "Industries": {
+      "text": "tourism, banking, cement, oil transshipment, salt, rum, aragonite, pharmaceuticals, spiral-welded steel pipe"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "2.045 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.902 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "34,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "transshipments of 41,570 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "72,420 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2006 est.)"
+    },
+    "Current account balance": {
+      "text": "-$1.442 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$674 million (2006)"
+    },
+    "Exports - commodities": {
+      "text": "mineral products and salt, animal products, rum, chemicals, fruit and vegetables"
+    },
+    "Exports - partners": {
+      "text": "US 21.6%, Singapore 19%, Poland 18.2%, Germany 7.7%, Japan 7.5% (2008)"
+    },
+    "Imports": {
+      "text": "$2.401 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment, manufactures, chemicals, mineral fuels; food and live animals"
+    },
+    "Imports - partners": {
+      "text": "US 25.1%, South Korea 18.8%, Japan 16.4%, Singapore 7.3%, Venezuela 5% (2008)"
+    },
+    "Debt - external": {
+      "text": "$342.6 million (2004 est.)"
+    },
+    "Exchange rates": {
+      "text": "Bahamian dollars (BSD) per US dollar - 1 (2008 est.), 1 (2007), 1 (2006), 1 (2005), 1 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "133,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "358,000 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern facilities"
+      },
+      "domestic": {
+        "text": "totally automatic system; highly developed; the Bahamas Domestic Submarine Network links 14 of the islands and is designed to satisfy increasing demand for voice and broadband internet services"
+      },
+      "international": {
+        "text": "country code - 1-242; landing point for the Americas Region Caribbean Ring System (ARCOS-1) fiber-optic submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 3, FM 5, shortwave 0 (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "2 (2006)"
+    },
+    "Internet country code": {
+      "text": ".bs"
+    },
+    "Internet hosts": {
+      "text": "8,325 (2009)"
+    },
+    "Internet users": {
+      "text": "106,500 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "62 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "23"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "914 to 1,523 m": {
+        "text": "6 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "39"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "12"
+      },
+      "under 914 m": {
+        "text": "22 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "2,717 km"
+      },
+      "paved": {
+        "text": "1,560 km"
+      },
+      "unpaved": {
+        "text": "1,157 km (2002)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,223"
+      },
+      "by type": {
+        "text": "barge carrier 1, bulk carrier 210, cargo 226, carrier 2, chemical tanker 88, combination ore/oil 12, container 65, liquefied gas 77, passenger 109, passenger/cargo 35, petroleum tanker 209, refrigerated cargo 119, roll on/roll off 16, specialized tanker 3, vehicle carrier 51"
+      },
+      "foreign-owned": {
+        "text": "1,150 (Angola 6, Belgium 15, Bermuda 12, Brazil 2, Canada 84, China 10, Croatia 1, Cuba 1, Cyprus 25, Denmark 67, Finland 9, France 30, Germany 44, Greece 209, Hong Kong 30, Iceland 1, Indonesia 2, Ireland 2, Isle of Man 1, Italy 4, Japan 87, Jordan 2, Kenya 1, Malaysia 13, Monaco 15, Montenegro 2, Netherlands 9, Nigeria 2, Norway 189, Poland 17, Russia 4, Saudi Arabia 16, Singapore 17, Slovenia 1, South Africa 1, Spain 14, Sweden 4, Switzerland 1, Thailand 5, Trinidad and Tobago 1, Turkey 8, UAE 23, UK 56, US 106, Venezuela 1)"
+      },
+      "registered in other countries": {
+        "text": "12 (Bolivia 1, Panama 9, Peru 1, Portugal 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Freeport, Nassau, South Riding Point"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Royal Bahamian Defense Force": {
+        "text": "Land Force, Navy, Air Wing (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age (est.); no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "80,200 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "50,764"
+      },
+      "females age 16-49": {
+        "text": "51,690 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "2,992"
+      },
+      "female": {
+        "text": "3,003 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.5% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "disagrees with the US on the alignment the northern axis of a potential maritime boundary; continues to monitor and interdict drug dealers and Haitian and Cuban refugees in Bahamian waters"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for cocaine and marijuana bound for US and Europe; offshore financial center"
+    }
+  }
+}

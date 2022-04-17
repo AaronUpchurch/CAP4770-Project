@@ -1,0 +1,833 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The island - discovered by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958 it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica gained full independence when it withdrew from the Federation in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Caribbean, island in the Caribbean Sea, south of Cuba"
+    },
+    "Geographic coordinates": {
+      "text": "18 15 N, 77 30 W"
+    },
+    "Map references": {
+      "text": "Central America and the Caribbean"
+    },
+    "Area": {
+      "total": {
+        "text": "10,991 sq km"
+      },
+      "land": {
+        "text": "10,831 sq km"
+      },
+      "water": {
+        "text": "160 sq km"
+      },
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Area - comparative": {
+      "text": "about half the size of New Jersey; slightly smaller than Connecticut"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "1,022 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic straight baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid; temperate interior"
+    },
+    "Terrain": {
+      "text": "mostly mountains, with narrow, discontinuous coastal plain"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "18 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Blue Mountain Peak 2,256 m"
+    },
+    "Natural resources": {
+      "text": "bauxite, gypsum, limestone"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "41.4%"
+      },
+      "text": "arable land 11.1%; permanent crops 9.2%; permanent pasture 21.1%",
+      "forest": {
+        "text": "31.1%"
+      },
+      "other": {
+        "text": "27.5% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "250 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel"
+    },
+    "Natural hazards": {
+      "text": "hurricanes (especially July to November)"
+    },
+    "Environment - current issues": {
+      "text": "heavy rates of deforestation; coastal waters polluted by industrial waste, sewage, and oil spills; damage to coral reefs; air pollution in Kingston from vehicle emissions"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "third largest island in the Caribbean (after Cuba and Hispaniola); strategic location between Cayman Trench and Jamaica Channel, the main sea lanes for the Panama Canal"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Jamaica"
+      },
+      "etymology": {
+        "text": "from the native Taino word \"haymaca\" meaning \"Land of Wood and Water\" or possibly \"Land of Springs\""
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kingston"
+      },
+      "geographic coordinates": {
+        "text": "18 00 N, 76 48 W"
+      },
+      "time difference": {
+        "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland",
+      "note": {
+        "text": "for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation"
+      }
+    },
+    "Independence": {
+      "text": "6 August 1962 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 6 August (1962)"
+    },
+    "Constitution": {
+      "text": "several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence); amended many times, last in 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "common law system based on the English model"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "4 out of the previous 5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Dr. Patrick L. ALLEN (since 26 February 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Andrew HOLNESS (since 3 March 2016)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor general on the advice of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of the Senate (21 seats; members appointed by the governor general on the recommendation of the prime minister and the minority party leader, 13 seats allocated to the ruling party, and 8 seats allocated to the minority party; members serve 5-year terms) and the House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 25 February 2016 (next to be held no later than February 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party - JLP 50.1%, PNP 49.7%, other 0.2%; seats by party - JLP 32, PNP 31"
+      }
+    },
+    "Judicial branch": {
+      "highest resident court(s)": {
+        "text": "Court of Appeal (consists of president of the court and a minimum of 4 judges; Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court implemented for member states of the Caribbean Community)"
+      },
+      "judge selection and term of office": {
+        "text": "chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70"
+      },
+      "subordinate courts": {
+        "text": "resident magistrate courts, district courts, and petty sessions courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "National Democratic Movement or NDM [Peter TOWNSEND]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Rastafarians"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Audrey Patrice MARKS (since 18 January 2017)"
+      },
+      "chancery": {
+        "text": "1520 New Hampshire Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 452-0660"
+      },
+      "FAX": {
+        "text": "[1] (202) 452-0036"
+      },
+      "consulate(s) general": {
+        "text": "Miami, New York"
+      },
+      "consulate(s)": {
+        "text": "Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia (PA), Richmond (VA), San Francisco, Seattle"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Eric KHANT (since 30 June 2017)"
+      },
+      "embassy": {
+        "text": "142 Old Hope Road, Kingston 6"
+      },
+      "mailing address": {
+        "text": "P.O. Box 541, Kingston 5"
+      },
+      "telephone": {
+        "text": "[1] (876) 702-6000"
+      },
+      "FAX": {
+        "text": "[1] (876) 702-6348"
+      }
+    },
+    "Flag description": {
+      "text": "diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources"
+    },
+    "National symbol(s)": {
+      "text": "green-and-black streamertail (bird), Guaiacum officinale (Guaiacwood); national colors: green, yellow, black"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Jamaica, Land We Love\""
+      },
+      "lyrics/music": {
+        "text": "Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE"
+      },
+      "note": {
+        "text": "adopted 1962"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Economic growth reached 1.6% in 2016. The HOLNESS administration faces the difficult prospect of maintaining fiscal discipline to make debt payments while simultaneously attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by the drug trade."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$24.2 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$13.96 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$8,800 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Gross national saving": {
+      "text": "14.1% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "81.3%"
+      },
+      "government consumption": {
+        "text": "13.7%"
+      },
+      "investment in fixed capital": {
+        "text": "21.1%"
+      },
+      "investment in inventories": {
+        "text": "0.1%"
+      },
+      "exports of goods and services": {
+        "text": "29.3%"
+      },
+      "imports of goods and services": {
+        "text": "-45.5% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "7.2%"
+      },
+      "industry": {
+        "text": "21.3%"
+      },
+      "services": {
+        "text": "71.4% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, bananas, coffee, citrus, yams, ackees, vegetables; poultry, goats, milk; shellfish"
+    },
+    "Industries": {
+      "text": "tourism, bauxite/alumina, agricultural-processing, light manufactures, rum, cement, metal, paper, chemical products, telecommunications"
+    },
+    "Industrial production growth rate": {
+      "text": "1.7% (2016 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Labor force": {
+      "text": "1.321 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "17%"
+      },
+      "industry": {
+        "text": "19%"
+      },
+      "services": {
+        "text": "64% (2006)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "13.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Population below poverty line": {
+      "text": "16.5% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.1%"
+      },
+      "highest 10%": {
+        "text": "35.8% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "37.9 (2000)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$3.995 billion"
+      },
+      "expenditures": {
+        "text": "$3.922 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "28.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Public debt": {
+      "text": "122.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.7% (2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "2% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "16.98% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$3.542 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$8.182 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$6.881 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$6.626 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Current account balance": {
+      "text": "$-430 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Exports": {
+      "text": "$1.255 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Exports - commodities": {
+      "text": "alumina, bauxite, sugar, rum, coffee, yams, beverages, chemicals, apparel, mineral fuels"
+    },
+    "Exports - partners": {
+      "text": "US 40.8%, Canada 11.9%, Netherlands 10.2%, Russia 5.8%, UK 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$4.449 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Imports - commodities": {
+      "text": "food and other consumer goods, industrial supplies, fuel, parts and accessories of capital goods, machinery and transport equipment, construction materials"
+    },
+    "Imports - partners": {
+      "text": "US 39%, Trinidad and Tobago 7.2%, China 6.4%, Japan 6.2%, Mexico 4.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.914 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Debt - external": {
+      "text": "$14.27 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Exchange rates": {
+      "text": "88.75 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "200,000"
+      },
+      "electrification - total population": {
+        "text": "93%"
+      },
+      "electrification - urban areas": {
+        "text": "98%"
+      },
+      "electrification - rural areas": {
+        "text": "87% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "3.894 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "2.757 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "988,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "88.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "13% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "19,160 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "19,760 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "54,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "845.3 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "34,170 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "13 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "310,213"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "10 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "3,267,344"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "110 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fully automatic domestic telephone network"
+      },
+      "domestic": {
+        "text": "the 1999 agreement to open the market for telecommunications services resulted in rapid growth in mobile-cellular telephone usage while the number of fixed lines in use has declined; combined fixed-line and mobile cellular teledensity exceeds 120 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 1-876; the Fibralink submarine cable network provides enhanced delivery of business and broadband traffic and is linked to the Americas Region Caribbean Ring System (ARCOS-1) submarine cable in the Dominican Republic; the link to ARCOS-1 provides seamless connectivity to US, parts of the Caribbean, Central America, and South America; the ALBA-1 fiber-optic submarine cable links Jamaica, Cuba, and Venezuela; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2013)"
+    },
+    "Internet country code": {
+      "text": ".jm"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1,336,653"
+      },
+      "percent of population": {
+        "text": "45.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "109"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "5"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "92,836"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "6Y (2016)"
+    },
+    "Airports": {
+      "text": "28 (2013)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "11"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "5 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "17"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "16 (2013)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "22,121 km (includes 44 km of expressways)"
+      },
+      "paved": {
+        "text": "16,148 km"
+      },
+      "unpaved": {
+        "text": "5,973 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "14"
+      },
+      "by type": {
+        "text": "bulk carrier 4, cargo 5, container 4, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "14 (Denmark 1, Germany 10, Greece 3) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Kingston (1,724,928)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "0.93% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Military branches": {
+      "text": "Jamaica Defense Force: Ground Forces, Coast Guard, Air Wing (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "17 1/2 is the legal minimum age for voluntary military service; no conscription (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Jamaica is a source and destination country for children and adults subjected to sex trafficking and forced labor; sex trafficking of children and adults occurs on the street, in night clubs, bars, massage parlors, and private homes; child sex tourism is a problem in resort areas; Jamaicans have been subjected to sexual exploitation or forced labor in the Caribbean, Canada, the US, and the UK, while foreigners have endured conditions of forced labor in Jamaica or aboard foreign-flagged fishing vessels operating in Jamaican waters; a high number of Jamaican children are reported missing"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Jamaica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the government made significant efforts to raise public awareness of human trafficking, and named a national trafficking-in-persons rapporteur \u2013 the first in the region; authorities initiated more new trafficking investigations than in 2013 and concluded a trafficking case in the Supreme Court, but chronic delays impeded prosecutions and no offenders were convicted for the sixth consecutive year; more adult trafficking victims were identified than in previous years, but only one child victim was identified, which was exceptionally low relative to the number of vulnerable children (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for cocaine from South America to North America and Europe; illicit cultivation and consumption of cannabis; government has an active manual cannabis eradication program; corruption is a major concern; substantial money-laundering activity; Colombian narcotics traffickers favor Jamaica for illicit financial transactions"
+    }
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "Introduction": {
+    "Background": {
+      "Venezuela was one of three countries that emerged from the collapse of Gran Colombia in 1830 (the others being Ecuador and New Granada, which became Colombia). For most of the first half of the 20th century, Venezuela was ruled by generally benevolent military strongmen, who promoted the oil industry and allowed for some social reforms. Democratically elected governments have held sway since 1959. Hugo CHAVEZ, president since 1999, seeks to implement his \"21st Century Socialism,\" which purports to alleviate social ills while at the same time attacking globalization and undermining regional stability. Current concerns include": {
+        "text": "a weakening of democratic institutions, political polarization, a politicized military, drug-related violence along the Colombian border, increasing internal drug consumption, overdependence on the petroleum industry with its price fluctuations, and irresponsible mining operations that are endangering the rain forest and indigenous peoples."
+      }
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Northern South America, bordering the Caribbean Sea and the North Atlantic Ocean, between Colombia and Guyana"
+    },
+    "Geographic coordinates": {
+      "text": "8 00 N, 66 00 W"
+    },
+    "Map references": {},
+    "South America": {},
+    "Area": {
+      "total": {
+        "text": "912,050 sq km"
+      },
+      "land": {
+        "text": "882,050 sq km"
+      },
+      "water": {
+        "text": "30,000 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than twice the size of California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,993 km"
+      },
+      "border countries": {
+        "text": "Brazil 2,200 km, Colombia 2,050 km, Guyana 743 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,800 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "15 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 m depth or to the depth of exploitation"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid; more moderate in highlands"
+    },
+    "Terrain": {
+      "text": "Andes Mountains and Maracaibo Lowlands in northwest; central plains (llanos); Guiana Highlands in southeast"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Pico Bolivar (La Columna) 5,007 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, natural gas, iron ore, gold, bauxite, other minerals, hydropower, diamonds"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "2.85%"
+      },
+      "permanent crops": {
+        "text": "0.88%"
+      },
+      "other": {
+        "text": "96.27% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "5,750 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "1,233.2 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "8.37  cu km/yr (6%/7%/47%)"
+      },
+      "per capita": {
+        "text": "313  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "subject to floods, rockslides, mudslides; periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracaibo; deforestation; soil degradation; urban and industrial pollution, especially along the Caribbean coast; threat to the rainforest ecosystem from irresponsible mining operations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      },
+      "signed but not ratified": {
+        "text": ""
+      }
+    },
+    "Geography - note": {
+      "text": "on major sea and air routes linking North and South America; Angel Falls in the Guiana Highlands is the world's highest waterfall"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "26,814,843 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "30.5% (male 4,157,194/female 4,022,595)"
+      },
+      "15-64 years": {
+        "text": "64.3% (male 8,480,872/female 8,754,620)"
+      },
+      "65 years and over": {
+        "text": "5.2% (male 620,657/female 778,905) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "25.5 years"
+      },
+      "male": {
+        "text": "24.8 years"
+      },
+      "female": {
+        "text": "26.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.508% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "20.61 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.12 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.42 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "93% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "2% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.8 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "21.54 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "25.1 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "17.81 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "73.61 years"
+      },
+      "male": {
+        "text": "70.54 years"
+      },
+      "female": {
+        "text": "76.83 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.48 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.7%; note - no country specific models provided (2001 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "110,000 (1999 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "4,100 (2003 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea"
+      },
+      "vectorborne disease": {
+        "text": "dengue fever and malaria (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Venezuelan(s)"
+      },
+      "adjective": {
+        "text": "Venezuelan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Spanish, Italian, Portuguese, Arab, German, African, indigenous people"
+    },
+    "Religions": {
+      "text": "nominally Roman Catholic 96%, Protestant 2%, other 2%"
+    },
+    "Languages": {
+      "text": "Spanish (official), numerous indigenous dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "93%"
+      },
+      "male": {
+        "text": "93.3%"
+      },
+      "female": {
+        "text": "92.7% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "11 years"
+      },
+      "female": {
+        "text": "12 years (2003)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.7% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Bolivarian Republic of Venezuela "
+      },
+      "conventional short form": {
+        "text": "Venezuela"
+      },
+      "local long form": {
+        "text": "Republica Bolivariana de Venezuela"
+      },
+      "local short form": {
+        "text": "Venezuela"
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Caracas"
+      },
+      "geographic coordinates": {
+        "text": "10 30 N, 66 56 W"
+      },
+      "time difference": {
+        "text": "UTC-4.5 (half an hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoategui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales**, Distrito Federal*, Falcon, Guarico, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Tachira, Trujillo, Vargas, Yaracuy, Zulia",
+      "note": "the federal dependency consists of 11 federally controlled island groups with a total of 72 individual islands"
+    },
+    "note": "in 1999, a National Constituent Assembly drafted a new constitution that increased the presidential term to six years; an election was subsequently held on 30 July 2000 under the terms of this constitution",
+    "Independence": {
+      "text": "5 July 1811 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 5 July (1811)"
+    },
+    "Constitution": {
+      "text": "30 December 1999"
+    },
+    "Legal system": {
+      "text": "open, adversarial court system; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Hugo CHAVEZ Frias (since 3 February 1999); Executive Vice President Ramon Alonzo CARRIZALEZ Rengifo (since 4 January 2008); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Hugo CHAVEZ Frias (since 3 February 1999); Executive Vice President Ramon Alonzo CARRIZALEZ Rengifo (since 4 January 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a six-year term (eligible for a second term); election last held 3 December 2006 (next to be held in December 2012)"
+      },
+      "note": "in 1999, a National Constituent Assembly drafted a new constitution that increased the presidential term to six years; an election was subsequently held on 30 July 2000 under the terms of this constitution",
+      "election results": {
+        "text": "Hugo CHAVEZ Frias reelected president; percent of vote - Hugo CHAVEZ Frias 62.9%, Manuel ROSALES 36.9%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral National Assembly or Asamblea Nacional (167 seats; members elected by popular vote to serve five-year terms; three seats reserved for the indigenous peoples of Venezuela)",
+      "elections": {
+        "text": "last held 4 December 2005 (next to be held in 2010)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - pro-government 167 (MVR 114, PODEMOS 15, PPT 11, indigenous 2, other 25), opposition 0; total seats by party as of 1 January 2008 - pro-government 152 (PSUV 114, PPT 11, indigenous 2, other 25), PODEMOS 15"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Tribunal of Justice or Tribuna Suprema de Justicia (magistrates are elected by the National Assembly for a single 12-year term)"
+    },
+    "Political parties and leaders": {
+      "text": "A New Time or UNT [Manuel ROSALES]; Christian Democrats or COPEI [Cesar PEREZ Vivas]; Communist Party of Venezuela or PCV [Jeronimo CARRERA]; Democratic Action or AD [Henry RAMOS Allup]; Fatherland for All or PPT [Jose ALBORNOZ]; Justice First [Julio BORGES]; Movement Toward Socialism or MAS [Hector MUJICA]; United Socialist Party of Venezuela or PSUV [Hugo CHAVEZ]; Venezuela Project or PV [Henrique SALAS Romer]; We Can or PODEMOS [Ismael GARCIA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "FEDECAMARAS, a conservative business group; VECINOS groups; Venezuelan Confederation of Workers or CTV (labor organization dominated by the Democratic Action)"
+    },
+    "International organization participation": {
+      "text": "Caricom (observer), CDB, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, LAS (observer), Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Bernardo ALVAREZ Herrera"
+      },
+      "chancery": {
+        "text": "1099 30th Street NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 342-2214"
+      },
+      "FAX": {
+        "text": "[1] (202) 342-6820"
+      },
+      "consulate(s) general": {
+        "text": "Boston, Chicago, Houston, Miami, New Orleans, New York, San Francisco, San Juan (Puerto Rico)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Patrick DUDDY"
+      },
+      "embassy": {
+        "text": "Calle F con Calle Suapure, Urbanizacion Colinas de Valle Arriba, Caracas 1080"
+      },
+      "mailing address": {
+        "text": "P. O. Box 62291, Caracas 1060-A; APO AA 34037"
+      },
+      "telephone": {
+        "text": "[58] (212) 975-6411, 907-8400 (after hours)"
+      },
+      "FAX": {
+        "text": "[58] (212) 907-8199"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of yellow (top), blue, and red with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Venezuela remains highly dependent on oil revenues, which account for roughly 90% of export earnings, about 50% of the federal budget revenues, and around 30% of GDP. A nationwide strike between December 2002 and February 2003 had far-reaching economic consequences - real GDP declined by around 9% in 2002 and 8% in 2003 - but economic output since then has recovered strongly. Fueled by high oil prices, record government spending helped to boost GDP by about 10% in 2006, 8% in 2007, and nearly 5% in 2008. This spending, combined with recent minimum wage hikes and improved access to domestic credit, has created a consumption boom but has come at the cost of higher inflation - roughly 20% in 2007 and more than 30% in 2008. Imports also have jumped significantly. Declining oil prices in the latter part of 2008 are expected to undermine the govenment's ability to continue the high rate of spending. President Hugo CHAVEZ in 2008 continued efforts to increase the government's contol of the economy by nationalizing firms in the cement and steel sectors. In 2007, he nationalized firms in the petroleum, communications, and electricity sectors. In July 2008, CHAVEZ implemented by decree a number of laws that further consolidate and centralize authority over the economy through his plan for \"21st Century Socialism.\"\r\n"
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$314.2 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "on 1 January 2008 Venezuela revalued its currency with 1000 old bolivares equal to 1 new bolivar",
+    "GDP (official exchange rate)": {
+      "text": "$319.4 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "9.9% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$12,300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.8%"
+      },
+      "industry": {
+        "text": "37.6%"
+      },
+      "services": {
+        "text": "58.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "12.59 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "13%"
+      },
+      "industry": {
+        "text": "23%"
+      },
+      "services": {
+        "text": "64% (1997 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.5% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "37.9% (end 2005 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.7%"
+      },
+      "highest 10%": {
+        "text": "32.7% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "49.5 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "19.7% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$94.14 billion"
+      },
+      "expenditures": {
+        "text": "$97.69 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "43.1% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "18.7% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "28.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "17.11% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$63.18 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$8.889 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$50.24 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$8.251 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "corn, sorghum, sugarcane, rice, bananas, vegetables, coffee; beef, pork, milk, eggs; fish"
+    },
+    "Industries": {
+      "text": "petroleum, construction materials, food processing, textiles; iron ore mining, steel, aluminum; motor vehicle assembly"
+    },
+    "Industrial production growth rate": {
+      "text": "2.5% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "113.3 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "83.02 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "540 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "1.651 billion kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "2.643 million bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "760,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "2.182 million bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "0 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "99.38 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "24.01 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "25.51 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "1.5 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "4.84 trillion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$20 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$69.17 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum, bauxite and aluminum, steel, chemicals, agricultural products, basic manufactures"
+    },
+    "Exports - partners": {
+      "text": "US 40.7%, Netherlands Antilles 7.8%, China 4.7% (2008)"
+    },
+    "Imports": {
+      "text": "$45.46 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "raw materials, machinery and equipment, transport equipment, construction materials"
+    },
+    "Imports - partners": {
+      "text": "US 26.3%, Colombia 12.7%, Brazil 10.3%, China 7%, Mexico 4.8% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$33.48 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$43.33 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$43.96 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$13.81 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "bolivars (VEB) per US dollar - 2.147 (2008 est.), 2,147 (2007), 2,147 (2006), 2,089.8 (2005), 1,891.3 (2004)",
+      "note": "on 1 January 2008 Venezuela revalued its currency with 1000 old bolivares equal to 1 new bolivar"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "6.304 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "27.084 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern and expanding"
+      },
+      "domestic": {
+        "text": "domestic satellite system with 3 earth stations; recent substantial improvement in telephone service in rural areas; substantial increase in digitalization of exchanges and trunk lines; installation of a national interurban fiber-optic network capable of digital multimedia services; combined fixed and mobile-cellular telephone subscribership 125 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 58; submarine cable systems provide connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat; participating with Colombia, Ecuador, Peru, and Bolivia in the construction of an international fiber-optic network (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 201, FM unknown, but at least 25 in Caracas, shortwave 11 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "66 (plus 45 repeaters) (1997)"
+    },
+    "Internet country code": {
+      "text": ".ve"
+    },
+    "Internet hosts": {
+      "text": "155,139 (2009)"
+    },
+    "Internet users": {
+      "text": "7.167 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "406 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "131"
+      },
+      "over 3,047 m": {
+        "text": "6"
+      },
+      "2,438 to 3,047 m": {
+        "text": "8"
+      },
+      "1,524 to 2,437 m": {
+        "text": "35"
+      },
+      "914 to 1,523 m": {
+        "text": "63"
+      },
+      "under 914 m": {
+        "text": "19 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "275"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "16"
+      },
+      "914 to 1,523 m": {
+        "text": "103"
+      },
+      "under 914 m": {
+        "text": "155 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "4 (2009)"
+    },
+    "Pipelines": {
+      "text": "extra heavy crude 980 km; gas 5,036 km; oil 6,695 km; refined products 1,484 km; unknown 141 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "806 km"
+      },
+      "standard gauge": {
+        "text": "806 km 1.435-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "96,155 km"
+      },
+      "paved": {
+        "text": "32,308 km"
+      },
+      "unpaved": {
+        "text": "63,847 km (2002)"
+      }
+    },
+    "Waterways": {
+      "text": "7,100 km",
+      "note": "Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels (2008)"
+    },
+    "note": "Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels (2008)",
+    "Merchant marine": {
+      "total": {
+        "text": "62"
+      },
+      "by type": {
+        "text": "bulk carrier 9, cargo 16, chemical tanker 3, liquefied gas 5, passenger/cargo 10, petroleum tanker 17, refrigerated cargo 2"
+      },
+      "foreign-owned": {
+        "text": "12 (Chile 1, Denmark 1, Greece 3, Mexico 5, Panama 1, Spain 1)"
+      },
+      "registered in other countries": {
+        "text": "12 (Bahamas 1, Panama 10, Saint Vincent and the Grenadines 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "La Guaira, Maracaibo, Puerto Cabello, Punta Cardon"
+    },
+    "Transportation - note": {
+      "text": "the International Maritime Bureau reports the territorial and offshore waters in the Caribbean Sea as a significant risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "National Bolivarian Armed Forces (Fuerza Armada Nacional Bolivariana, FANB)": {
+        "text": "National Bolivarian Army (Ejercito Nacional Bolivariano, ENB), Bolivarian National Navy (Fuerza Armada Nacional Bolivariana (FANB); includes Naval Infantry, Coast Guard, Naval Aviation), Bolivarian National Military Aviation (Aviacion Militar Nacional Bolivariana, AMNB), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18-30 years of age for compulsory and voluntary military service; 30-month conscript service obligation; all citizens 18-50 years old are obligated to register for military service (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "6,647,124"
+      },
+      "females age 16-49": {
+        "text": "6,801,133 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "5,391,582"
+      },
+      "females age 16-49": {
+        "text": "5,873,563 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "276,051"
+      },
+      "female": {
+        "text": "274,162 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.2% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before the United Nations Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; dispute with Colombia over maritime boundary and Venezuelan-administered Los Monjes islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; in 2006, an estimated 139,000 Colombians sought protection in 150 communities along the border in Venezuela; US, France, and the Netherlands recognize Venezuela's granting full effect to Aves Island, thereby claiming a Venezuelan EEZ/continental shelf extending over a large portion of the eastern Caribbean Sea; Dominica, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines protest Venezuela's full effect claim"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Venezuela is a source, transit, and destination country for men, women, and children trafficked for the purposes of commercial sexual exploitation and forced labor; Venezuelan women and girls are trafficked within the country for sexual exploitation, lured from the nation's interior to urban and tourist areas; child prostitution in urban areas and child sex tourism in resort destinations appear to be growing; Venezuelan women and girls are trafficked for commercial sexual exploitation to Western Europe, Mexico, and Caribbean destinations"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - Venezuela is placed on the Tier 2 Watch List, up from Tier 3, as it showed greater resolve to address trafficking through law enforcement measures and prevention efforts in 2007, although stringent punishment of offenders and victim assistance remain lacking (2008)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "small-scale illicit producer of opium and coca for the processing of opiates and coca derivatives; however, large quantities of cocaine, heroin, and marijuana transit the country from Colombia bound for US and Europe; significant narcotics-related money-laundering activity, especially along the border with Colombia and on Margarita Island; active eradication program primarily targeting opium; increasing signs of drug-related activities by Colombian insurgents on border"
+    }
+  }
+}

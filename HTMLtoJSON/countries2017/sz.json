@@ -1,0 +1,775 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two world wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Swiss Confederation"
+      },
+      "conventional short form": {
+        "text": "Switzerland"
+      },
+      "local long form": {
+        "text": "Schweizerische Eidgenossenschaft (German); Confederation Suisse (French); Confederazione Svizzera (Italian); Confederaziun Svizra (Romansh)"
+      },
+      "local short form": {
+        "text": "Schweiz (German); Suisse (French); Svizzera (Italian); Svizra (Romansh)"
+      },
+      "etymology": {
+        "text": "name derives from the canton of Schwyz, one of the founding cantons of the Old Swiss Confederacy that formed in the 14th century"
+      }
+    },
+    "Government type": {
+      "text": "federal republic (formally a confederation)"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bern"
+      },
+      "geographic coordinates": {
+        "text": "46 55 N, 7 28 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve, Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich",
+      "note": {
+        "text": "6 of the cantons - Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden - are referred to as half cantons because they elect only one member to the Council of States and, in popular referendums where a majority of popular votes and a majority of cantonal votes are required, these 6 cantons only have a half vote"
+      }
+    },
+    "Independence": {
+      "text": "1 August 1291 (founding of the Swiss Confederation)"
+    },
+    "National holiday": {
+      "text": "Founding of the Swiss Confederation in 1291; note - since 1 August 1891 celebrated as Swiss National Day"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000"
+      },
+      "amendments": {
+        "text": "proposed by the two houses of the Federal Assembly or by petition of at least one million voters (called the \"federal popular initiative\"); passage of proposals requires majority vote in a referendum; following drafting of an amendment by the Assembly, its passage requires approval by majority vote in a referendum and approval by the majority of cantons; amended many times, last in 2016 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system; judicial review of legislative acts, except for federal decrees of a general obligatory character"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Switzerland"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "12 years including at least 3 of the last 5 years prior to application"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President of the Swiss Confederation Doris LEUTHARD (since 1 January 2017); Vice President Alain BERSET (since 1 January 2017); note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate in a 1-year term as federal president (chief of state and head of government)"
+      },
+      "head of government": {
+        "text": "President of the Swiss Confederation Doris LEUTHARD (since 1 January 2017); Vice President Alain BERSET (since 1 January 2017)"
+      },
+      "cabinet": {
+        "text": "Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected usually from among its members by the Federal Assembly for a 4-year term"
+      },
+      "elections/appointments": {
+        "text": "president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 7 December 2016 (next to be held in early December 2017)"
+      },
+      "election results": {
+        "text": "Doris LEUTHARD elected president; Federal Assembly vote - 188 of 207; Alain BERSET elected vice president"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Federal Assembly or Bundesversammlung (in German), Assemblee Federale (in French), Assemblea Federale (in Italian) consists of the Council of States or Staenderat (in German), Conseil des Etats (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote; members serve 4-year terms) and the National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "Council of States - last held in most cantons on 18 October 2015 (each canton determines when the next election will be held); National Council - last held on 18 October 2015 (next to be held in October 2019)"
+      },
+      "election results": {
+        "text": "Council of States - percent of vote by party - NA; seats by party as of 18 October 2015 - CVP 13, FDP 13, SDP 12, SVP 5, other 3; National Council - percent of vote by party - SVP 29.4%, SPS 18.8%, FDP 16.4%, CVP 11.6%, Green Party 7.1%, GLP 4.6%, BDP 4.1%, other 8.0%; seats by party - SVP 68, SPS 43, FDP 33, CVP 30, Green Party 12, GLP 7, BDP 7"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Federal Supreme Court (consists of 38 judges and 31 substitutes and organized into 5 sections)"
+      },
+      "judge selection and term of office": {
+        "text": "judges elected by the Federal Assembly for 6-year terms; note - judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to the level of party representation in the Federal Assembly"
+      },
+      "subordinate courts": {
+        "text": "Federal Criminal Court (began in 2004); Federal Administrative Court (began in 2007); note - each of Switzerland's 26 cantons has its own courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "other minor parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Martin Werner DAHINDEN (since 18 November 2014)"
+      },
+      "chancery": {
+        "text": "2900 Cathedral Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 745-7900"
+      },
+      "FAX": {
+        "text": "[1] (202) 387-2564"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Los Angeles, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Tara Feret ERATH (since 20 January 2017) note - also accredited to Liechtenstein"
+      },
+      "embassy": {
+        "text": "Sulgeneckstrasse 19, CH-3007 Bern"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[41] (031) 357-70-11"
+      },
+      "FAX": {
+        "text": "[41] (031) 357-73-20"
+      }
+    },
+    "Flag description": {
+      "text": "red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)"
+    },
+    "National symbol(s)": {
+      "text": "Swiss cross (white cross on red field, arms equal length); national colors: red, white"
+    },
+    "National anthem": {
+      "text": "",
+      "lyrics/music": {
+        "text": "Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo VALSANGIACOMO [Italian], and Flurin CAMATHIAS [Romansch]/Alberik ZWYSSIG"
+      },
+      "note": {
+        "text": "unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since its composition (in German) in 1841; translated into the other three official languages of the country (French, Italian, and Romansch), it is official in each of those languages"
+      }
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards, and is openly considering the possibility of imposing taxes on bank deposits held by foreigners."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$478.7 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$669 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$60,200 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Gross national saving": {
+      "text": "31.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "53.9%"
+      },
+      "government consumption": {
+        "text": "11.5%"
+      },
+      "investment in fixed capital": {
+        "text": "24.2%"
+      },
+      "investment in inventories": {
+        "text": "-1.7%"
+      },
+      "exports of goods and services": {
+        "text": "65.5%"
+      },
+      "imports of goods and services": {
+        "text": "-53.5% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "0.7%"
+      },
+      "industry": {
+        "text": "25.5%"
+      },
+      "services": {
+        "text": "73.8% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "grains, fruits, vegetables; meat, eggs, dairy products"
+    },
+    "Industries": {
+      "text": "machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance, pharmaceuticals"
+    },
+    "Industrial production growth rate": {
+      "text": "2.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Labor force": {
+      "text": "5.119 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "3.3%"
+      },
+      "industry": {
+        "text": "19.8%"
+      },
+      "services": {
+        "text": "76.9% (2015)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Population below poverty line": {
+      "text": "6.6% (2014 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "7.5%"
+      },
+      "highest 10%": {
+        "text": "19% (2007)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "33.1 (1992)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$230.4 billion"
+      },
+      "expenditures": {
+        "text": "$226 billion"
+      },
+      "note": {
+        "text": "includes federal, cantonal, and municipal budgets (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "34.9% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.7% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Public debt": {
+      "text": "33.4% of GDP (2015 est.)",
+      "note": {
+        "text": "general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options"
+      },
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-1.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.75% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2.68% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$508.2 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.21 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.142 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.541 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Current account balance": {
+      "text": "$77.38 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Exports": {
+      "text": "$303.1 billion (2015 est.)",
+      "note": {
+        "text": "trade data exclude trade with Switzerland"
+      },
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Exports - commodities": {
+      "text": "machinery, chemicals, metals, watches, agricultural products"
+    },
+    "Exports - partners": {
+      "text": "Germany 14.4%, US 12.1%, UK 10.7%, China 9%, Hong Kong 6.1%, France 5.8%, Italy 4.9%, India 4.8% (2016)"
+    },
+    "Imports": {
+      "text": "$249.5 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, chemicals, vehicles, metals; agricultural products, textiles"
+    },
+    "Imports - partners": {
+      "text": "Germany 19.4%, US 9%, Italy 7.4%, UK 7.1%, UAE 6.2%, France 6.1%, China 4.7% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$602.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.663 trillion (31 March 2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.255 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.51 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.9377 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "64.06 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "58.45 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Electricity - exports": {
+      "text": "30.17 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Electricity - imports": {
+      "text": "34.1 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "19.62 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "2.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "17% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "61% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "11.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "319.1 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "58,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "197"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "63,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "217,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "8,894 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "166,300 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Natural gas - production": {
+      "text": "25 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "4.639 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2016 est.)",
+      "country comparison to the world": {
+        "text": "189"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "3.484 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "NA cu m (1 January 2011 es)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "45 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "4.029 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "49 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "11,283,400"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "138 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "highly developed telecommunications infrastructure with excellent domestic and international services"
+      },
+      "domestic": {
+        "text": "ranked among leading countries for fixed-line teledensity and infrastructure; mobile-cellular subscribership roughly 140 per 100 persons; extensive cable and microwave radio relay networks"
+      },
+      "international": {
+        "text": "country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 7 national TV networks, 3 broadcasting in German, 2 in Italian, and 2 in French; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 17 radio stations that, along with private broadcasters, provide national to local coverage (2015)"
+    },
+    "Internet country code": {
+      "text": ".ch"
+    },
+    "Internet users": {
+      "total": {
+        "text": "7,312,744"
+      },
+      "percent of population": {
+        "text": "89.4% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "54"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "163"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "26,843,991"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,322,379,468 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HB (2016)"
+    },
+    "Airports": {
+      "text": "63 (2013)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "40"
+      },
+      "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "17 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "23"
+      },
+      "under 914 m": {
+        "text": "23 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 1,800 km; oil 94 km; refined products 7 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "5,651.5 km"
+      },
+      "standard gauge": {
+        "text": "4,424.8 km 1.435-m gauge (3,634.1 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "2 km 1.200-m gauge (2 km electrified); 1,188.3 km 1.000-m gauge (1,167.3 km electrified); 36.4 km 0.800-m gauge (36.4 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "71,464 km"
+      },
+      "paved": {
+        "text": "71,464 km (includes 1,415 of expressways) (2011)"
+      },
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Waterways": {
+      "text": "1,292 km (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport) (2010)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "50"
+      },
+      "by type": {
+        "text": "bulk carrier 31, cargo 2, chemical/petroleum tanker 7, container 10"
+      },
+      "text": "(2017)",
+      "registered in other countries": {
+        "text": "127 (Antigua and Barbuda 7, Bahamas 1, Belize 1, Cayman Islands 1, France 5, Germany 2, Hong Kong 5, Italy 13, Liberia 25, Luxembourg 1, Malta 20, Marshall Islands 12, NZ 2, Panama 15, Portugal 3, Russia 3, Saint Vincent and the Grenadines 7, Singapore 3, Spain 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Ports and terminals": {
+      "river port(s)": {
+        "text": "Basel (Rhine)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "0.69% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Military branches": {
+      "text": "Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "19-26 years of age for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 260 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by seven 3-week intermittent recalls for training during the next 10 years (2012)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "26,264 (Eritrea); 11,159 (Syria); 5,675 (Afghanistan); 5,458 (Sri Lanka) (2016)"
+      },
+      "stateless persons": {
+        "text": "66 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "a major international financial center vulnerable to the layering and integration stages of money laundering; despite significant legislation and reporting requirements, secrecy rules persist and nonresidents are permitted to conduct business through offshore entities and various intermediaries; transit country for and consumer of South American cocaine, Southwest Asian heroin, and Western European synthetics; domestic cannabis cultivation and limited ecstasy production"
+    }
+  }
+}

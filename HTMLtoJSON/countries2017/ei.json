@@ -1,0 +1,790 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century saw the population of the island drop by one third through starvation and emigration. For more than a century after that the population of the island continued to fall only to begin growing again in the 1960s. Over the last 50 years, Ireland's high birthrate has made it demographically one of the youngest populations in the EU. The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising that touched off several years of guerrilla warfare resulting in independence from the UK in 1921 for 26 southern counties; six northern (Ulster) counties remained part of the UK. Unresolved issues in Northern Ireland erupted into years of violence known as the \"Troubles\" that began in the 1960s. The Government of Ireland was part of a process along with the UK and US Governments that helped broker what is known as The Good Friday Agreement in Northern Ireland in 1998. This initiated a new phase of cooperation between the Irish and British Governments. Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the euro-zone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. Today the economy is recovering, fueled by large and growing foreign direct investment, especially from US multi-nationals."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Ireland"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Eire"
+      },
+      "etymology": {
+        "text": "the modern Irish name \"Eire\" evolved from the Gaelic \"Eriu,\" the name of the matron goddess of Ireland (goddess of the land); the names \"Ireland\" in English and \"Eire\" in Irish are direct translations of each other"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dublin"
+      },
+      "geographic coordinates": {
+        "text": "53 19 N, 6 14 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow"
+    },
+    "Independence": {
+      "text": "6 December 1921 (from the UK by treaty)"
+    },
+    "National holiday": {
+      "text": "Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937"
+      },
+      "amendments": {
+        "text": "proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2015 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "4 of the previous 8 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Michael D. HIGGINS (since 11 November 2011)"
+      },
+      "head of government": {
+        "text": "Taoiseach (Prime Minister) Leo VARADKAR (since 14 June 2017)"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 29 October 2011 (next to be held in October 2018); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president"
+      },
+      "election results": {
+        "text": "Michael D. HIGGINS elected president; percent of vote - Michael D. HIGGINS (Labor Party) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin MCGUINNESS (Sinn Fein) 13.7%, Gay MITCHELL (Fine Gael) 6.4%, David NORRIS (independent) 6.2%, other 5.6%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Oireachtas consists of the Senate or Seanad Eireann (60 seats; 43 members indirectly elected by panels of various vocational interests, 11 appointed by the prime minister, and 6 elected by graduates of the University of Dublin and the National University of Ireland; members serve 5-year terms) and the House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "Senate - last held in April and May 2016 (next to be held no later than 2021); House of Representatives - last held on 26 February 2016 (next to be held no later than 2021)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14"
+      },
+      "text": "House of Representatives - percent of vote by party - Fine Gael 25.5%, Fianna Fail 24.4%, Sinn Fein 13.8%, Labor Party 6.6%, AAA-PBD 4.0%, Social Democrats 3.0%, Green Party 2.7%, Renua Ireland 2.2% independent 17.8%; seats by party - Fine Gael 50, Fianna Fail 44, Sinn Fein 23, Labor Party 7, AAA-PBP 6, Social Democrats 3, Green Party 2, independent 23"
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)"
+      },
+      "judge selection and term of office": {
+        "text": "judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70"
+      },
+      "subordinate courts": {
+        "text": "High Court, Court of Appeal; circuit and district courts; criminal courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "The Workers' Party [Michael DONNELLY]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "32 Country Sovereignty Movement or 32CSM (supports unifying Northern Ireland with the rest of the island under Irish government sovereignty)"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Daniel Gerard MULHALL (since 8 September 2017)"
+      },
+      "chancery": {
+        "text": "2234 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 462-3939"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-5993"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant) Charge d'Affaires L. Reece SMYTH (since 20 January 2017)"
+      },
+      "embassy": {
+        "text": "42 Elgin Road, Ballsbridge, Dublin 4"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[353] (1) 668-8777"
+      },
+      "FAX": {
+        "text": "[353] (1) 668-9946"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange",
+      "note": {
+        "text": "similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red"
+      }
+    },
+    "National symbol(s)": {
+      "text": "harp, shamrock (trefoil); national colors: blue, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Amhran na bhFiann\" (The Soldier's Song)"
+      },
+      "lyrics/music": {
+        "text": "Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY"
+      },
+      "note": {
+        "text": "adopted 1926; instead of \"Amhran na bhFiann,\" the song \"Ireland's Call\" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland's economy. Ireland\u2019s low corporation tax of 12.5% and a talented pool of high-tech laborers have been key factors in encouraging business investment. Loose tax residency requirements made Ireland a common destination for international firms seeking to avoid taxation. In 2014, amid growing international pressure, the government announced it would phase in more stringent tax laws, effectively closing a commonly used loophole."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$241 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$304.4 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "8.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$53,400 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Gross national saving": {
+      "text": "24% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "35.1%"
+      },
+      "government consumption": {
+        "text": "10.3%"
+      },
+      "investment in fixed capital": {
+        "text": "31.5%"
+      },
+      "investment in inventories": {
+        "text": "1.1%"
+      },
+      "exports of goods and services": {
+        "text": "121.7%"
+      },
+      "imports of goods and services": {
+        "text": "-99.8% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "1%"
+      },
+      "industry": {
+        "text": "39.3%"
+      },
+      "services": {
+        "text": "59.7% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "barley, potatoes, wheat; beef, dairy products"
+    },
+    "Industries": {
+      "text": "pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices"
+    },
+    "Industrial production growth rate": {
+      "text": "3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Labor force": {
+      "text": "2.193 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "5%"
+      },
+      "industry": {
+        "text": "11%"
+      },
+      "services": {
+        "text": "84% (2015 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.5% (2015 est.)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Population below poverty line": {
+      "text": "8.2% (2013 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.9%"
+      },
+      "highest 10%": {
+        "text": "27.2% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.9 (1987 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$80.81 billion"
+      },
+      "expenditures": {
+        "text": "$82.5 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "27.5% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-0.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Public debt": {
+      "text": "77.1% of GDP (2015 est.)",
+      "note": {
+        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+      },
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0% (2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.15% (31 August 2014)",
+      "note": {
+        "text": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+      },
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "3.36% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$146.7 billion (31 December 2015 est.)",
+      "note": {
+        "text": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+      },
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$206 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$305.6 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$170.1 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Current account balance": {
+      "text": "$28.97 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Exports": {
+      "text": "$216.9 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, computers, chemicals, medical devices, pharmaceuticals; foodstuffs, animal products"
+    },
+    "Exports - partners": {
+      "text": "US 26%, UK 12.7%, Belgium 12.6%, Germany 6.7%, Switzerland 5.4%, Netherlands 5.1%, France 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$94.26 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Imports - commodities": {
+      "text": "data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing"
+    },
+    "Imports - partners": {
+      "text": "UK 28.8%, US 15.9%, France 12.6%, Germany 10.1%, Netherlands 4.7% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$2.203 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Debt - external": {
+      "text": "$2.35 trillion (31 March 2015 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.381 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.403 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.7752 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "25.2 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "23.79 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Electricity - exports": {
+      "text": "1.583 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Electricity - imports": {
+      "text": "871 million kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "9.557 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "68.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "2.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "29.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "65,390 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "64,310 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "151,700 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "31,540 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "119,600 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Natural gas - production": {
+      "text": "132 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "5.06 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "4.234 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "9.911 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "34 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "1,897,134"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "38 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "4,950,118"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "100 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern digital system using cable and microwave radio relay"
+      },
+      "domestic": {
+        "text": "system privatized but dominated by former state monopoly operator; increasing levels of broadband access particularly in urban areas"
+      },
+      "international": {
+        "text": "country code - 353; landing point for the Hibernia-Atlantic submarine cable with links to the US, Canada, and UK; satellite earth stations - 81 (2014)"
+      }
+    },
+    "Broadcast media": {
+      "text": "publicly owned broadcaster Radio Telefis Eireann (RTE) operates 2 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2014)"
+    },
+    "Internet country code": {
+      "text": ".ie"
+    },
+    "Internet users": {
+      "total": {
+        "text": "4,069,432"
+      },
+      "percent of population": {
+        "text": "82.2% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "79"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "431"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "113,144,501"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "138.58 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "EI (2016)"
+    },
+    "Airports": {
+      "text": "40 (2013)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "5 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "24"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "21 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 2,147 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,237 km"
+      },
+      "broad gauge": {
+        "text": "1,872 km 1.600-m gauge (49 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "96,036 km"
+      },
+      "paved": {
+        "text": "96,036 km (includes 1,224 km of expressways) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Waterways": {
+      "text": "956 km (pleasure craft only) (2010)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "31"
+      },
+      "by type": {
+        "text": "cargo 28, chemical tanker 2, container 1"
+      },
+      "foreign-owned": {
+        "text": "5 (France 2, Spain 1, US 2)"
+      },
+      "registered in other countries": {
+        "text": "33 (Bahamas 3, Bermuda 1, Cambodia 1, Cyprus 3, Isle of Man 1, Kazakhstan 1, Malta 4, Marshall Islands 6, Netherlands 8, Panama 1, Russia 1, Slovakia 1, Sweden 1, UK 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Dublin, Shannon Foynes"
+      },
+      "river port(s)": {
+        "text": "Cork (Lee), Waterford (Suir)"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Dublin (1,931,001)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "0.51% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Military branches": {
+      "text": "Irish Defence Forces (Oglaigh na h-Eireannn), Permanent Defence Forces (PDF): Army, Naval Service, Air Corps; Reserve Defence Forces (RDF): Army, Naval Service Reserves (2014)"
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for male and female voluntary military service recruits to the Permanent Defence Forces (PDF; 18-27 years of age for the Naval Service); 18-28 for cadetship (officer) applicants; 18-35 years of age for the Reserve Defence Forces (RDF); maximum obligation 12 years (PDF officers), 5 years (PDF enlisted), 3 years RDF (4 years for Naval Service Reserves); EU citizenship, refugee status, or 5-year residence in Ireland required (2014)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "99 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern"
+    }
+  }
+}

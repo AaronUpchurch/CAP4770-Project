@@ -1,0 +1,714 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's \"perpetual neutrality\" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the European Union in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999. In January 2009, Austria assumed a nonpermanent seat on the UN Security Council for the 2009-10 term."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Europe, north of Italy and Slovenia"
+    },
+    "Geographic coordinates": {
+      "text": "47 20 N, 13 20 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "83,871 sq km"
+      },
+      "land": {
+        "text": "82,445 sq km"
+      },
+      "water": {
+        "text": "1,426 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maine"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,562 km"
+      },
+      "border countries": {
+        "text": "Czech Republic 362 km, Germany 784 km, Hungary 366 km, Italy 430 km, Liechtenstein 35 km, Slovakia 91 km, Slovenia 330 km, Switzerland 164 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers"
+    },
+    "Terrain": {
+      "text": "in the west and south mostly mountains (Alps); along the eastern and northern margins mostly flat or gently sloping"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Neusiedler See 115 m"
+      },
+      "highest point": {
+        "text": "Grossglockner 3,798 m"
+      }
+    },
+    "Natural resources": {
+      "text": "oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "16.59%"
+      },
+      "permanent crops": {
+        "text": "0.85%"
+      },
+      "other": {
+        "text": "82.56% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "40 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "84 cu km (2005)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "3.67  cu km/yr (35%/64%/1%)"
+      },
+      "per capita": {
+        "text": "448  cu m/yr (1999)"
+      }
+    },
+    "Natural hazards": {
+      "text": "landslides; avalanches; earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "some forest degradation caused by air and soil pollution; soil pollution results from the use of agricultural chemicals; air pollution results from emissions by coal- and oil-fired power stations and industrial plants and from trucks transiting Austria between northern and southern Europe"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "8,210,281 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "14.5% (male 609,748/female 581,144)"
+      },
+      "15-64 years": {
+        "text": "67.5% (male 2,785,091/female 2,756,402)"
+      },
+      "65 years and over": {
+        "text": "18% (male 612,613/female 865,283) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "42.2 years"
+      },
+      "male": {
+        "text": "41.1 years"
+      },
+      "female": {
+        "text": "43.2 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.052% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "8.65 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.98 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "1.85 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "67% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.7% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.71 male(s)/female"
+      },
+      "total population": {
+        "text": "0.95 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "4.42 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.39 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.41 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "79.5 years"
+      },
+      "male": {
+        "text": "76.6 years"
+      },
+      "female": {
+        "text": "82.56 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.39 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "9,800 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2003 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Austrian(s)"
+      },
+      "adjective": {
+        "text": "Austrian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Austrians 91.1%, former Yugoslavs 4% (includes Croatians, Slovenes, Serbs, and Bosniaks), Turks 1.6%, German 0.9%, other or unspecified 2.4% (2001 census)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 73.6%, Protestant 4.7%, Muslim 4.2%, other 3.5%, unspecified 2%, none 12% (2001 census)"
+    },
+    "Languages": {
+      "text": "German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "98%"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "15 years"
+      },
+      "female": {
+        "text": "16 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.4% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Austria "
+      },
+      "conventional short form": {
+        "text": "Austria"
+      },
+      "local long form": {
+        "text": "Republik Oesterreich"
+      },
+      "local short form": {
+        "text": "Oesterreich"
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Vienna"
+      },
+      "geographic coordinates": {
+        "text": "48 12 N, 16 22 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)"
+    },
+    "Independence": {
+      "text": "976 (Margravate of Austria established); 17 September 1156 (Duchy of Austria founded); 11 August 1804 (Austrian Empire proclaimed); 12 November 1918 (republic proclaimed)"
+    },
+    "National holiday": {
+      "text": "National Day, 26 October (1955); note - commemorates the passage of the law on permanent neutrality"
+    },
+    "Constitution": {
+      "text": "1920; revised 1929; reinstated 1 May 1945; note - during the period 1 May 1934-1 May 1945 there was a fascist (corporative) constitution in place"
+    },
+    "Legal system": {
+      "text": "civil law system with Roman law origin; judicial review of legislative acts by the Constitutional Court; separate administrative and civil/penal supreme courts; accepts compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "16 years of age; universal; note - reduced from 18 years of age in 2007"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Heinz FISCHER (SPOe) (since 8 July 2004)"
+      },
+      "head of government": {
+        "text": "Chancellor Werner FAYMANN (SPOe) (since 2 December 2008); Vice Chancellor Josef PROELL (OeVP) (since 2 December 2008)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers chosen by the president on the advice of the chancellor"
+      },
+      "elections": {
+        "text": "president elected by direct popular vote for a six-year term (eligible for a second term); presidential election last held 25 April 2004 (next to be held in April 2010); chancellor formally chosen by the president but determined by the coalition parties forming a parliamentary majority; vice chancellor chosen by the president on the advice of the chancellor"
+      },
+      "election results": {
+        "text": "Heinz FISCHER elected president; percent of vote - Heinz FISCHER 52.4%, Benita FERRERO-WALDNER 47.6%"
+      },
+      "note": "government coalition - SPOe and OeVP"
+    },
+    "note": "government coalition - SPOe and OeVP",
+    "Legislative branch": {
+      "text": "bicameral Federal Assembly or Bundesversammlung consists of Federal Council or Bundesrat (62 seats; members chosen by state parliaments with each state receiving 3 to 12 members in proportion to its population; members serve five- or six-year terms) and the National Council or Nationalrat (183 seats; members elected by direct popular vote to serve five-year terms)",
+      "elections": {
+        "text": "National Council - last held 28 September 2008 (next to be held by September 2013)"
+      },
+      "election results": {
+        "text": "National Council - percent of vote by party - SPOe 29.3%, OeVP 26%, FPOe 17.5%, BZOe 10.7%, Greens 10.4%, other 6.1%; seats by party - SPOe 57, OeVP 51, FPOe 34, BZOe 21, Greens 20"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Judicial Court or Oberster Gerichtshof; Administrative Court or Verwaltungsgerichtshof; Constitutional Court or Verfassungsgerichtshof"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for the Future of Austria or BZOe [Josef BUCHER]; Austrian People's Party or OeVP [Josef PROELL]; Freedom Party of Austria or FPOe [Heinz Christian STRACHE]; Social Democratic Party of Austria or SPOe [Werner FAYMANN]; The Greens [Eva GLAWISCHNIG]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Austrian Trade Union Federation or OeGB (nominally independent but primarily Social Democratic); Federal Economic Chamber; OeVP-oriented Association of Austrian Industrialists or IV; Roman Catholic Church, including its chief lay organization, Catholic Action",
+      "other": {
+        "text": "three composite leagues of the Austrian People's Party or OeVP representing business, labor, farmers, and other nongovernment organizations in the areas of environment and human rights"
+      }
+    },
+    "International organization participation": {
+      "text": "ACCT (observer), ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CE, CEI, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G-9, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, NAM (guest), NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SECI (observer), UN, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNIDO, UNOMIG, UNTSO, UNWTO, UPU, WCL, WCO, WEU (observer), WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Christian PROSL"
+      },
+      "chancery": {
+        "text": "3524 International Court NW, Washington, DC 20008-3035"
+      },
+      "telephone": {
+        "text": "[1] (202) 895-6700"
+      },
+      "FAX": {
+        "text": "[1] (202) 895-6750"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Scott F. KILNER"
+      },
+      "embassy": {
+        "text": "Boltzmanngasse 16, A-1090, Vienna"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[43] (1) 31339-0"
+      },
+      "FAX": {
+        "text": "[43] (1) 3100682"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Austria, with its well-developed market economy and high standard of living, is closely tied to other EU economies, especially Germany's. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector. Following several years of solid foreign demand for Austrian exports and record employment growth, the global economic downturn in 2008 led to a recession that is likely to persist through 2009. The government's stabilization measures could increase the budget deficit to about 2.8% of GDP in 2009 and above 3% in 2010, from about 0.6% in 2008. The Austrian economy has benefited greatly in the past from strong commercial relations, especially in the banking and insurance sectors, with central, eastern, and southeastern Europe, but these sectors have been vulnerable to recent international financial instabilities, and some of Austria's largest banks have required government support. Even after the global economic outlook improves, Austria will need to continue restructuring, emphasizing knowledge-based sectors of the economy, and encouraging greater labor flexibility and greater labor participation to offset its aging population and exceedingly low fertility rate."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$313.7 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "data are in 2008 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$414.8 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.5% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$38,300 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1.9%"
+      },
+      "industry": {
+        "text": "30.7%"
+      },
+      "services": {
+        "text": "67.4% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "3.633 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "5.5%"
+      },
+      "industry": {
+        "text": "27.5%"
+      },
+      "services": {
+        "text": "67% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.4% (2007 est.)"
+    },
+    "Population below poverty line": {
+      "text": "5.9% (2004)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.3%"
+      },
+      "highest 10%": {
+        "text": "22.5% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "31 (1995)"
+    },
+    "Investment (gross fixed)": {
+      "text": "22.4% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$196.4 billion"
+      },
+      "expenditures": {
+        "text": "$200.7 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "64.2% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.2% (2007 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.3% (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$504.8 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$191.3 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "grains, potatoes, sugar beets, wine, fruit; dairy products, cattle, pigs, poultry; lumber"
+    },
+    "Industries": {
+      "text": "construction, machinery, vehicles and parts, food, metals, chemicals, lumber and wood processing, paper and paperboard, communications equipment, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "2.4% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "58.64 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "61.89 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "14.93 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "19.8 billion kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "24,850 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "285,400 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "45,580 bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "305,000 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "50 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1.532 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "8.65 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "2.788 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "10.05 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "16.14 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "$12.03 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$162.1 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, motor vehicles and parts, paper and paperboard, metal goods, chemicals, iron and steel, textiles, foodstuffs"
+    },
+    "Exports - partners": {
+      "text": "Germany 29.5%, Italy 8.6%, US 4.3%, Switzerland 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$160.3 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, motor vehicles, chemicals, metal goods, oil and oil products; foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Germany 44.5%, Italy 7.1%, Switzerland 5.2%, Netherlands 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$18.22 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$801.4 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$247.9 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$240.9 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6827 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "3.285 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "10.816 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "highly developed and efficient"
+      },
+      "domestic": {
+        "text": "fixed-line subscribership has been in decline since the mid-1990s with mobile-cellular subscribership eclipsing it by the late 1990s; the fiber-optic net is very extensive; all telephone applications and Internet services are available"
+      },
+      "international": {
+        "text": "country code - 43; satellite earth stations - 15; in addition, there are about 600 VSATs (very small aperture terminals) (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 2, FM 65 (plus several hundred repeaters), shortwave 1 (2001)"
+    },
+    "Television broadcast stations": {
+      "text": "10 (plus more than 1,000 repeaters) (2001)"
+    },
+    "Internet country code": {
+      "text": ".at"
+    },
+    "Internet hosts": {
+      "text": "2.992 million (2009)"
+    },
+    "Internet users": {
+      "text": "5.937 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "55 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "25"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "14 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "30"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "26 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 2,721 km; oil 663 km; refined products 157 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "6,399 km"
+      },
+      "standard gauge": {
+        "text": "5,927 km 1.435-m gauge (3,688 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "384 km 1.000-m gauge (15 km electrified); 88 km 0.760-m gauge (10 km electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "107,262 km"
+      },
+      "paved": {
+        "text": "107,262 km (includes 1,677 km of expressways) (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "358 km (2007)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "4"
+      },
+      "by type": {
+        "text": "cargo 2, container 2"
+      },
+      "foreign-owned": {
+        "text": "2 (Netherlands 2)"
+      },
+      "registered in other countries": {
+        "text": "4 (Cyprus 1, Malta 1, Saint Vincent and the Grenadines 2) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Enns, Krems, Linz, Vienna"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Land Forces (KdoLdSK), Air Forces (KdoLuSK)"
+    },
+    "Military service age and obligation": {
+      "text": "18-35 years of age for compulsory military service; 16 years of age for male or female voluntary service; service obligation 6 months of training, followed by an 8-year reserve obligation (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,986,411"
+      },
+      "females age 16-49": {
+        "text": "1,944,834 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,607,456"
+      },
+      "females age 16-49": {
+        "text": "1,576,335 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "50,540"
+      },
+      "female": {
+        "text": "48,042 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.9% of GDP (2005 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "while threats of international legal action never materialized in 2007, 915,220 Austrians, with the support of the newly elected Freedom Party, signed a petition in January 2008, demanding that Austria block the Czech Republic's accession to the EU unless Prague closed its nuclear power plant in Temelin, bordering Austria"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs\r\n"
+    }
+  }
+}

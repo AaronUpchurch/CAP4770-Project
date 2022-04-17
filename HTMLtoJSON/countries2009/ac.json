@@ -1,0 +1,628 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Siboney were the first to inhabit the islands of Antigua and Barbuda in 2400 B.C., but Arawak Indians populated the islands when COLUMBUS landed on his second voyage in 1493. Early settlements by the Spanish and French were succeeded by the English who formed a colony in 1667. Slavery, established to run the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east-southeast of Puerto Rico"
+    },
+    "Geographic coordinates": {
+      "text": "17 03 N, 61 48 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "442.6 sq km (Antigua 280 sq km; Barbuda 161 sq km)"
+      },
+      "land": {
+        "text": "442.6 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "note": "includes Redonda, 1.6 sq km"
+    },
+    "note": "includes Redonda, 1.6 sq km",
+    "Area - comparative": {
+      "text": "2.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "153 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical maritime; little seasonal temperature variation"
+    },
+    "Terrain": {
+      "text": "mostly low-lying limestone and coral islands, with some higher volcanic areas"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Boggy Peak 402 m"
+      }
+    },
+    "Natural resources": {
+      "text": "NEGL; pleasant climate fosters tourism"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "18.18%"
+      },
+      "permanent crops": {
+        "text": "4.55%"
+      },
+      "other": {
+        "text": "77.27% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Total renewable water resources": {
+      "text": "0.1 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.005  cu km/yr (60%/20%/20%)"
+      },
+      "per capita": {
+        "text": "63  cu m/yr (1990)"
+      }
+    },
+    "Natural hazards": {
+      "text": "hurricanes and tropical storms (July to October); periodic droughts"
+    },
+    "Environment - current issues": {
+      "text": "water management - a major concern because of limited natural fresh water resources - is further hampered by the clearing of trees to increase crop production, causing rainfall to run off quickly"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "Antigua has a deeply indented shoreline with many natural harbors and beaches; Barbuda has a large western harbor"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "85,632 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "26.8% (male 11,660/female 11,303)"
+      },
+      "15-64 years": {
+        "text": "66.6% (male 26,597/female 30,414)"
+      },
+      "65 years and over": {
+        "text": "6.6% (male 2,456/female 3,202) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "29.7 years"
+      },
+      "male": {
+        "text": "28.2 years"
+      },
+      "female": {
+        "text": "31.1 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.303% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "16.59 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "5.94 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "2.38 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "30% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.03 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.87 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.77 male(s)/female"
+      },
+      "total population": {
+        "text": "0.91 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "16.25 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "18.76 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "13.62 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "74.76 years"
+      },
+      "male": {
+        "text": "72.81 years"
+      },
+      "female": {
+        "text": "76.81 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.07 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Antiguan(s), Barbudan(s)"
+      },
+      "adjective": {
+        "text": "Antiguan, Barbudan"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 91%, mixed 4.4%, white 1.7%, other 2.9% (2001 census)"
+    },
+    "Religions": {
+      "text": "Anglican 25.7%, Seventh Day Adventist 12.3%, Pentecostal 10.6%, Moravian 10.5%, Roman Catholic 10.4%, Methodist 7.9%, Baptist 4.9%, Church of God 4.5%, other Christian 5.4%, other 2%, none or unspecified 5.8% (2001 census)"
+    },
+    "Languages": {
+      "text": "English (official), local dialects"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has completed five or more years of schooling"
+      },
+      "total population": {
+        "text": "85.8%"
+      },
+      "male": {
+        "text": "NA"
+      },
+      "female": {
+        "text": "NA (2003 est.)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.9% of GDP (2002)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Antigua and Barbuda"
+      }
+    },
+    "Government type": {
+      "text": "constitutional monarchy with a parliamentary system of government and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Saint John's"
+      },
+      "geographic coordinates": {
+        "text": "17 07 N, 61 51 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 parishes and 2 dependencies*; Barbuda*, Redonda*, Saint George, Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip"
+    },
+    "Independence": {
+      "text": "1 November 1981 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (National Day), 1 November (1981)"
+    },
+    "Constitution": {
+      "text": "1 November 1981"
+    },
+    "Legal system": {
+      "text": "based on English common law"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Louisse LAKE-TACK (since 17 July 2007)"
+      },
+      "head of government": {
+        "text": "Prime Minister Winston Baldwin SPENCER (since 24 March 2004)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the governor general on the advice of the prime minister"
+      },
+      "elections": {
+        "text": "the monarch is hereditary; governor general chosen by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or the leader of the majority coalition is usually appointed prime minister by the governor general"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consists of the Senate (17 seats; members appointed by the governor general) and the House of Representatives (17 seats; members are elected by proportional representation to serve five-year terms)",
+      "elections": {
+        "text": "House of Representatives - last held 12 March 2009 (next to be held in 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - UPP 50.9%, ALP 47.2%, BPM 1.1%; seats by party - UPP 9, ALP 7, BPM 1"
+      }
+    },
+    "Judicial branch": {
+      "text": "Eastern Caribbean Supreme Court consisting of a High Court of Justice and a Court of Appeal (based in Saint Lucia; two judges of the Supreme Court are residents of the islands and preside over the Court of Summary Jurisdiction); Magistrates' Courts; member of the Caribbean Court of Justice"
+    },
+    "Political parties and leaders": {
+      "text": "Antigua Labor Party or ALP [Lester Bryant BIRD]; Barbudans for a Better Barbuda [Ordrick SAMUEL]; Barbuda People's Movement or BPM [Thomas H. FRANK]; Barbuda People's Movement for Change [Arthur NIBBS]; United Progressive Party or UPP [Baldwin SPENCER] (a coalition of three parties - Antigua Caribbean Liberation Movement or ACLM, Progressive Labor Movement or PLM, United National Democratic Party or UNDP)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Antigua Trades and Labor Union or ATLU [William ROBINSON]; People's Democratic Movement or PDM [Hugh MARSHALL]"
+    },
+    "International organization participation": {
+      "text": "ACP, C, Caricom, CDB, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (subscriber), ITU, ITUC, MIGA, NAM, OAS, OECS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Deborah Mae LOVELL"
+      },
+      "chancery": {
+        "text": "3216 New Mexico Avenue NW, Washington, DC 20016"
+      },
+      "telephone": {
+        "text": "[1] (202) 362-5122"
+      },
+      "FAX": {
+        "text": "[1] (202) 362-5225"
+      },
+      "consulate(s) general": {
+        "text": "Miami, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda"
+    },
+    "Flag description": {
+      "text": "red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the \"V\" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Antigua has a relatively high GDP per capita in comparison to most other Caribbean nations. The economy experienced solid growth from 2003 to 2007, reaching over 12% in 2006 driven by a construction boom in hotels and housing associated with the Cricket World Cup. Growth dropped off in 2008 with the end of the boom. Tourism continues to dominate the economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components. Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and potential damages from natural disasters. Since taking office in 2004, the SPENCER government has adopted an ambitious fiscal reform program, and has been successful in reducing its public debt-to-GDP ratio from 120% to about 90%."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.491 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "fixed rate since 1976",
+    "GDP (official exchange rate)": {
+      "text": "$1.224 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "12.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$18,100 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.8%"
+      },
+      "industry": {
+        "text": "22%"
+      },
+      "services": {
+        "text": "74.3% (2002 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "30,000 (1991)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "7%"
+      },
+      "industry": {
+        "text": "11%"
+      },
+      "services": {
+        "text": "82% (1983)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "11% (2001 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$123.7 million"
+      },
+      "expenditures": {
+        "text": "$145.9 million (2000 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.5% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2007)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "10.44% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$294.8 million (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$902 million (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$1.002 billion (31 December 2007)"
+    },
+    "Agriculture - products": {
+      "text": "cotton, fruits, vegetables, bananas, coconuts, cucumbers, mangoes, sugarcane; livestock"
+    },
+    "Industries": {
+      "text": "tourism, construction, light manufacturing (clothing, alcohol, household appliances)"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "110 million kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "102.3 million kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "5,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "219 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "4,690 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$211 million (2007 est.)"
+    },
+    "Exports": {
+      "text": "$84.3 million (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum products, bedding, handicrafts, electronic components, transport equipment, food and live animals"
+    },
+    "Imports": {
+      "text": "$522.8 million (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "food and live animals, machinery and transport equipment, manufactures, chemicals, oil"
+    },
+    "Debt - external": {
+      "text": "$359.8 million (June 2006)"
+    },
+    "Exchange rates": {
+      "text": "East Caribbean dollars (XCD) per US dollar - 2.7 (2007), 2.7 (2006), 2.7 (2005), 2.7 (2004), 2.7 (2003)",
+      "note": "fixed rate since 1976"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "38,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "136,600 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "NA"
+      },
+      "domestic": {
+        "text": "good automatic telephone system"
+      },
+      "international": {
+        "text": "country code - 1-268; landing point for the East Caribbean Fiber System (ECFS) submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad; satellite earth stations - 2; tropospheric scatter to Saba (Netherlands Antilles) and Guadeloupe (2007)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 4, FM 2, shortwave 0 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "2 (1997)"
+    },
+    "Internet country code": {
+      "text": ".ag"
+    },
+    "Internet hosts": {
+      "text": "7,421 (2009)"
+    },
+    "Internet users": {
+      "text": "65,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "3 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2009)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,165 km"
+      },
+      "paved": {
+        "text": "384 km"
+      },
+      "unpaved": {
+        "text": "781 km (2002)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,146"
+      },
+      "by type": {
+        "text": "barge carrier 2, bulk carrier 50, cargo 651, carrier 4, chemical tanker 5, container 392, liquefied gas 12, petroleum tanker 1, refrigerated cargo 9, roll on/roll off 20"
+      },
+      "foreign-owned": {
+        "text": "1,113 (Australia 1, Colombia 2, Cyprus 18, Denmark 19, Estonia 23, France 1, Germany 941, Greece 3, Iceland 12, Italy 1, Latvia 13, Lithuania 5, Netherlands 20, NZ 2, Norway 8, Poland 2, Russia 4, Slovenia 6, Sweden 1, Switzerland 8, Turkey 6, UK 9, US 8) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Saint John's"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Royal Antigua and Barbuda Defense Force (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2008)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "19,560"
+      },
+      "females age 16-49": {
+        "text": "18,977 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "17,271"
+      },
+      "females age 16-49": {
+        "text": "19,586 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "744"
+      },
+      "female": {
+        "text": "743 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "considered a minor transshipment point for narcotics bound for the US and Europe; more significant as an offshore financial center"
+    }
+  }
+}

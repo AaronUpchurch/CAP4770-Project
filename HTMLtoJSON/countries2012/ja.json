@@ -1,0 +1,832 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains a major economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killing thousands and damaging several nuclear power plants. The catastrophe hobbled the country's economy and its energy infrastructure, and tested its ability to deal with humanitarian disasters."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Asia, island chain between the North Pacific Ocean and the Sea of Japan, east of the Korean Peninsula"
+    },
+    "Geographic coordinates": {
+      "text": "36 00 N, 138 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "377,915 sq km"
+      },
+      "land": {
+        "text": "364,485 sq km "
+      },
+      "water": {
+        "text": "13,430 sq km "
+      },
+      "note": "includes Bonin Islands (Ogasawara-gunto), Daito-shoto, Minami-jima, Okino-tori-shima, Ryukyu Islands (Nansei-shoto), and Volcano Islands (Kazan-retto) "
+    },
+    "note": "with virtually no energy natural resources, Japan is the world's largest importer of coal and liquefied natural gas, as well as the second largest importer of oil ",
+    "Area - comparative": {
+      "text": "slightly smaller than California"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "29,751 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm; between 3 nm and 12 nm in the international straits - La Perouse or Soya, Tsugaru, Osumi, and Eastern and Western Channels of the Korea or Tsushima Strait"
+      },
+      "contiguous zone": {
+        "text": "24 nm "
+      },
+      "exclusive economic zone": {
+        "text": "200 nm "
+      }
+    },
+    "Climate": {
+      "text": "varies from tropical in south to cool temperate in north"
+    },
+    "Terrain": {
+      "text": "mostly rugged and mountainous"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Hachiro-gata -4 m"
+      },
+      "highest point": {
+        "text": "Fujiyama 3,776 m "
+      }
+    },
+    "Natural resources": {
+      "text": "negligible mineral resources, fish",
+      "note": "with virtually no energy natural resources, Japan is the world's largest importer of coal and liquefied natural gas, as well as the second largest importer of oil "
+    },
+    "Land use": {
+      "arable land": {
+        "text": "11.64%"
+      },
+      "permanent crops": {
+        "text": "0.9% "
+      },
+      "other": {
+        "text": "87.46% (2005) "
+      }
+    },
+    "Irrigated land": {
+      "text": "25,160 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "430 cu km (1999)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "88.43  cu km/yr (20%/18%/62%)"
+      },
+      "per capita": {
+        "text": "690  cu m/yr (2000) "
+      }
+    },
+    "Natural hazards": {
+      "text": "many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons",
+      "volcanism": {
+        "text": "both Unzen (elev. 1,500 m) and Sakura-jima (elev. 1,117 m), which lies near the densely populated city of Kagoshima, have been deemed \"Decade Volcanoes\" by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama, Honshu Island's most active volcano, Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu "
+      }
+    },
+    "Environment - current issues": {
+      "text": "air pollution from power plant emissions results in acid rain; acidification of lakes and reservoirs degrading water quality and threatening aquatic life; Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements "
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location in northeast Asia"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Japanese (singular and plural) "
+      },
+      "adjective": {
+        "text": "Japanese "
+      }
+    },
+    "Ethnic groups": {
+      "text": "Japanese 98.5%, Koreans 0.5%, Chinese 0.4%, other 0.6%",
+      "note": "up to 230,000 Brazilians of Japanese origin migrated to Japan in the 1990s to work in industries; some have returned to Brazil (2004) "
+    },
+    "note": "total adherents exceeds 100% because many people belong to both Shintoism and Buddhism (2005) ",
+    "Languages": {
+      "text": "Japanese"
+    },
+    "Religions": {
+      "text": "Shintoism 83.9%, Buddhism 71.4%, Christianity 2%, other 7.8%",
+      "note": "total adherents exceeds 100% because many people belong to both Shintoism and Buddhism (2005) "
+    },
+    "Population": {
+      "text": "127,368,088 (July 2012 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "13.5% (male 8,927,803/ female 8,268,937)"
+      },
+      "15-64 years": {
+        "text": "62.6% (male 39,850,531/ female 39,909,944) "
+      },
+      "65 years and over": {
+        "text": "23.9% (male 13,097,558/ female 17,313,315) (2012 est.) "
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "45.4 years"
+      },
+      "male": {
+        "text": "44.1 years "
+      },
+      "female": {
+        "text": "46.9 years (2012 est.) "
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.077% (2012 est.)"
+    },
+    "Birth rate": {
+      "text": "8.39 births/1,000 population (2012 est.)"
+    },
+    "Death rate": {
+      "text": "9.15 deaths/1,000 population (July 2012 est.)"
+    },
+    "Net migration rate": {
+      "text": "0 migrant(s)/1,000 population (2012 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "67% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.2% annual rate of change (2010-15 est.) "
+      }
+    },
+    "Major cities - population": {
+      "text": "TOKYO (capital) 36.507 million; Osaka-Kobe 11.325 million; Nagoya 3.257 million; Fukuoka-Kitakyushu 2.809 million; Sapporo 2.673 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.06 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.08 male(s)/female "
+      },
+      "15-64 years": {
+        "text": "1 male(s)/female "
+      },
+      "65 years and over": {
+        "text": "0.76 male(s)/female "
+      },
+      "total population": {
+        "text": "0.94 male(s)/female (2011 est.) "
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "5 deaths/100,000 live births (2010)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "2.21 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "2.44 deaths/1,000 live births "
+      },
+      "female": {
+        "text": "1.97 deaths/1,000 live births (2012 est.) "
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "83.91 years"
+      },
+      "male": {
+        "text": "80.57 years "
+      },
+      "female": {
+        "text": "87.43 years (2012 est.) "
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.39 children born/woman (2012 est.)"
+    },
+    "Health expenditures": {
+      "text": "9.3% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "2.063 physicians/1,000 population (2006)"
+    },
+    "Hospital bed density": {
+      "text": "13.75 beds/1,000 population (2008)"
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "100% of population "
+      },
+      "rural": {
+        "text": "100% of population "
+      },
+      "total": {
+        "text": "100% of population "
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "8,100 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 100 (2009 est.)"
+    },
+    "Obesity - adult prevalence rate": {
+      "text": "3.1% (2000)"
+    },
+    "Education expenditures": {
+      "text": "3.5% of GDP (2007)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99% "
+      },
+      "male": {
+        "text": "99% "
+      },
+      "female": {
+        "text": "99% (2002) "
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "15 years"
+      },
+      "male": {
+        "text": "15 years "
+      },
+      "female": {
+        "text": "15 years (2008) "
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "9.1%"
+      },
+      "male": {
+        "text": "10.1% "
+      },
+      "female": {
+        "text": "8% (2009) "
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Japan "
+      },
+      "local long form": {
+        "text": "Nihon-koku/Nippon-koku "
+      },
+      "local short form": {
+        "text": "Nihon/Nippon "
+      }
+    },
+    "Government type": {
+      "text": "a parliamentary government with a constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Tokyo"
+      },
+      "geographic coordinates": {
+        "text": "35 41 N, 139 45 E "
+      },
+      "time difference": {
+        "text": "UTC+9 (14 hours ahead of Washington, DC during Standard Time) "
+      }
+    },
+    "Administrative divisions": {
+      "text": "47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi"
+    },
+    "Independence": {
+      "3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates": {
+        "text": "660 B.C. (traditional date of the founding of the nation by Emperor JIMMU); 29 November 1890 (Meiji Constitution provides for constitutional monarchy)"
+      }
+    },
+    "National holiday": {
+      "text": "Birthday of Emperor AKIHITO, 23 December (1933)"
+    },
+    "Constitution": {
+      "text": "3 May 1947"
+    },
+    "Legal system": {
+      "text": "civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "20 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Emperor AKIHITO (since 7 January 1989)"
+      },
+      "head of government": {
+        "text": "Prime Minister Shinzo ABE (since 26 December 2012); Deputy Prime Minister Taro ASO (since 26 December 2012) "
+      },
+      "cabinet": {
+        "text": "Cabinet is appointed by the prime minister "
+      },
+      "elections": {
+        "text": "Diet designates the prime minister; constitution requires that the prime minister commands parliamentary majority; following legislative elections, the leader of majority party or leader of majority coalition in House of Representatives usually becomes prime minister; the monarchy is hereditary "
+      }
+    },
+    "Legislative branch": {
+      "text": "House of Representatives - percent of vote by party (by proportional representation) - LDP 31.6%, DPJ 16.6%, JRP 22.2%, New Komeito 12.2%, Your Party 7.7%, TRP 3.9%, JCP 4.4%, others 0.56%; seats by party LDP 294, DPJ 57, JRP 54, New Komeito 31, Your Party 18, TPJ 9, JCP 8, others 4, independents 5 ",
+      "elections": {
+        "text": "House of Councillors - last held on 11 July 2010 (next to be held in July 2013); House of Representatives - last held on 16 December 2012 (next to be held by 15 December 2016) "
+      },
+      "election results": {
+        "text": "House of Councillors - percent of vote by party - DPJ 31.6%, LDP 24.1%, YP 13.6%, NK 13.1%, JCP 6.1%, SDP 3.8%, others 7.7%; seats by party - DPJ 106, LDP 84, NK 19, YP 11, JCP 6, SDP 4, others 12 "
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (chief justice is appointed by the monarch after designation by the cabinet; all other justices are appointed by the cabinet)"
+    },
+    "Political parties and leaders": {
+      "text": "Democratic Party of Japan or DPJ [Banri KAIEDA]; Japan Communist Party or JCP [Kazuo SHII]; Japan Restoration Party or JRP [Shintaro ISHIHARA]; Liberal Democratic Party or LDP [Shinzo ABE]; New Komeito or NK [Natsuo YAMAGUCHI]; People's New Party or PNP; Social Democratic Party or SDP [Mizuho FUKUSHIMA]; Tomorrow Party Japan of TPJ {Yukiko KADA]; Your Party or YP [Yoshimi WATANABE]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "business groups; trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, AfDB (nonregional member), APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Kenichiro SASAE"
+      },
+      "chancery": {
+        "text": "2520 Massachusetts Avenue NW, Washington, DC 20008 "
+      },
+      "telephone": {
+        "text": "[1] (202) 238-6700 "
+      },
+      "FAX": {
+        "text": "[1] (202) 328-2187 "
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Denver, Detroit, Agana (Guam), Honolulu, Houston, Los Angeles, Miami, New York, Portland (Oregon), San Francisco, Seattle "
+      },
+      "consulate(s)": {
+        "text": "Anchorage, Nashville "
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador John V. ROOS"
+      },
+      "embassy": {
+        "text": "1-10-5 Akasaka, Minato-ku, Tokyo 107-8420 "
+      },
+      "mailing address": {
+        "text": "Unit 9800, Box 300, APO AP 96303-0300 "
+      },
+      "telephone": {
+        "text": "[81] (03) 3224-5000 "
+      },
+      "FAX": {
+        "text": "[81] (03) 3505-1862 "
+      },
+      "consulate(s) general": {
+        "text": "Naha (Okinawa), Osaka-Kobe, Sapporo "
+      },
+      "consulate(s)": {
+        "text": "Fukuoka, Nagoya "
+      }
+    },
+    "Flag description": {
+      "text": "white with a large red disk (representing the sun without rays) in the center"
+    },
+    "National symbol(s)": {
+      "text": "red sun disc; chrysanthemum"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Kimigayo\" (The Emperor\"s Reign)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "unknown/Hiromori HAYASHI "
+      },
+      "note": "adopted 1999; in use as unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor "
+    },
+    "note": "adopted 1999; in use as unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor "
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "In the years following World War II, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (1% of GDP) helped Japan develop a technologically advanced economy. Two notable characteristics of the post-war economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features are now eroding under the dual pressures of global competition and domestic demographic change. Japan's industrial sector is heavily dependent on imported raw materials and fuels. A tiny agricultural sector is highly subsidized and protected, with crop yields among the highest in the world. Usually self-sufficient in rice, Japan imports about 60% of its food on a caloric basis. Japan maintains one of the world's largest fishing fleets and accounts for nearly 15% of the global catch. For three decades, overall real economic growth had been spectacular - a 10% average in the 1960s, a 5% average in the 1970s, and a 4% average in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the after effects of inefficient investment and an asset price bubble in the late 1980s that required a protracted period of time for firms to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession three times since 2008. A sharp downturn in business investment and global demand for Japan's exports in late 2008 pushed Japan into recession. Government stimulus spending helped the economy recover in late 2009 and 2010, but the economy contracted again in 2011 as the massive 9.0 magnitude earthquake in March disrupted manufacturing. Recovery spending helped boost GDP in early 2012, but slower global economic growth began weakening Japan's export-oriented economy by mid-year. Electricity supplies remain tight because Japan tentatively shut down almost all of its nuclear power plants after the Fukushima Daiichi nuclear reactors were crippled by the earthquake and resulting tsunami. Newly-elected Prime Minister Shinzo ABE has declared the economy his government's top priority; he has pledged to reconsider his predecessor's plan to permanently close nuclear power plants and has said he will increase stimulus spending and press the Bank of Japan to loosen monetary policy. Measured on a purchasing power parity (PPP) basis that adjusts for price differences, Japan in 2012 stood as the fourth-largest economy in the world after second-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. The new government will continue a longstanding debate on restructuring the economy and reining in Japan's huge government debt, which exceeds 200% of GDP. Persistent deflation, reliance on exports to drive growth, and an aging and shrinking population are other major long-term challenges for the economy."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$4.551 trillion (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "note": "Ministry of Health, Labor and Welfare (MHLW) press release, 20 October 2009 (2010) ",
+    "GDP (official exchange rate)": {
+      "text": "$5.984 trillion (2012 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.5% (2010 est.) "
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$35,500 (2010 est.) ",
+      "note": "data are in 2012 US dollars "
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1.2%"
+      },
+      "industry": {
+        "text": "27.5% "
+      },
+      "services": {
+        "text": "71.4% (2012 est.) "
+      }
+    },
+    "Labor force": {
+      "text": "65.27 million (2012 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "3.9%"
+      },
+      "industry": {
+        "text": "26.2% "
+      },
+      "services": {
+        "text": "69.8% (2010 est.) "
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.6% (2011 est.) "
+    },
+    "Population below poverty line": {
+      "text": "16% (2010)",
+      "note": "Ministry of Health, Labor and Welfare (MHLW) press release, 20 October 2009 (2010) "
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.9%"
+      },
+      "highest 10%": {
+        "text": "27.5% (2008) "
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "24.9 (1993) "
+    },
+    "Investment (gross fixed)": {
+      "text": "21.1% of GDP (2012 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.025 trillion"
+      },
+      "expenditures": {
+        "text": "$2.57 trillion (2012 est.) "
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "33.8% of GDP (2012 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-9.1% of GDP (2012 est.)"
+    },
+    "Public debt": {
+      "text": "205.5% of GDP (2011 est.) "
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.3% (2011 est.) "
+    },
+    "Central bank discount rate": {
+      "text": "0.3% (31 December 2008) "
+    },
+    "Commercial bank prime lending rate": {
+      "text": "1.48% (31 December 2011 est.) "
+    },
+    "Stock of narrow money": {
+      "text": "$6.637 trillion (31 December 2011 est.) "
+    },
+    "Stock of broad money": {
+      "text": "$13.41 trillion (31 December 2010 est.) "
+    },
+    "Stock of domestic credit": {
+      "text": "$14.64 trillion (31 December 2011 est.) "
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.378 trillion (31 December 2009) "
+    },
+    "Agriculture - products": {
+      "text": "rice, sugar beets, vegetables, fruit; pork, poultry, dairy products, eggs; fish"
+    },
+    "Industrial production growth rate": {
+      "text": "-3.5% (2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$119.1 billion (2011 est.) "
+    },
+    "Exports": {
+      "text": "$787 billion (2011 est.) "
+    },
+    "Exports - commodities": {
+      "text": "motor vehicles 13.6%; semiconductors 6.2%; iron and steel products 5.5%; auto parts 4.6%; plastic materials 3.5%; power generating machinery 3.5%"
+    },
+    "Exports - partners": {
+      "text": "China 19.7%, US 15.5%, South Korea 8%, Hong Kong 5.2%, Thailand 4.6% (2011)"
+    },
+    "Imports": {
+      "text": "$807.6 billion (2011 est.) "
+    },
+    "Imports - commodities": {
+      "text": "petroleum 15.5%; liquid natural gas 5.7%; clothing 3.9%; semiconductors 3.5%; coal 3.5%; audio and visual apparatus 2.7%"
+    },
+    "Imports - partners": {
+      "text": "China 21.5%, US 8.9%, Australia 6.6%, Saudi Arabia 5.9%, UAE 5%, South Korea 4.7% (2011)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.296 trillion (31 December 2011 est.) "
+    },
+    "Debt - external": {
+      "text": "$2.441 trillion (30 September 2010) "
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$144.1 billion (31 December 2011 est.) "
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$911.5 billion (31 December 2011 est.) "
+    },
+    "Exchange rates": {
+      "text": "103.58 (2008) "
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    }
+  },
+  "Energy": {
+    "Electricity - production": {
+      "text": "937.6 billion kWh (2011 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "859.7 billion kWh (2011 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2011 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2011 est.)"
+    },
+    "Electricity - installed generating capacity": {
+      "text": "284.5 million kW (2009 est.)"
+    },
+    "Electricity - from fossil fuels": {
+      "text": "63.9% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "17.2% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "7.7% of total installed capacity (2009 est.)"
+    },
+    "Electricity - from other renewable sources": {
+      "text": "2.3% of total installed capacity (2009 est.)"
+    },
+    "Crude oil - production": {
+      "text": "17,480 bbl/day (2011 est.)"
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Crude oil - imports": {
+      "text": "3.384 million bbl/day (2009 est.)"
+    },
+    "Crude oil - proved reserves": {
+      "text": "44.12 million bbl (1 January 2012 est.)"
+    },
+    "Refined petroleum products - production": {
+      "text": "3.861 million bbl/day (2009 est.)"
+    },
+    "Refined petroleum products - consumption": {
+      "text": "4.464 million bbl/day (2011 est.)"
+    },
+    "Refined petroleum products - exports": {
+      "text": "366,800 bbl/day (2009 est.)"
+    },
+    "Refined petroleum products - imports": {
+      "text": "949,800 bbl/day (2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "3.298 billion cu m (2011 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "112.6 billion cu m (2011 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2011 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "109.9 billion cu m (2011 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "20.9 billion cu m (1 January 2012 est.)"
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.164 billion Mt (2010 est.)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "64.668 million (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "132.76 million (2011)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent domestic and international service"
+      },
+      "domestic": {
+        "text": "high level of modern technology and excellent service of every kind "
+      },
+      "international": {
+        "text": "country code - 81; numerous submarine cables provide links throughout Asia, Australia, the Middle East, Europe, and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 3 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2008) "
+      }
+    },
+    "Broadcast media": {
+      "text": "a mixture of public and commercial broadcast TV and radio stations; 5 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2008)"
+    },
+    "Internet country code": {
+      "text": ".jp"
+    },
+    "Internet hosts": {
+      "text": "64.453 million (2012)"
+    },
+    "Internet users": {
+      "text": "99.182 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "175 (2012)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "143"
+      },
+      "over 3,047 m": {
+        "text": "6 "
+      },
+      "2,438 to 3,047 m": {
+        "text": "45 "
+      },
+      "1,524 to 2,437 m": {
+        "text": "38 "
+      },
+      "914 to 1,523 m": {
+        "text": "29 "
+      },
+      "under 914 m": {
+        "text": "25 (2012) "
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "32"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1 "
+      },
+      "914 to 1,523 m": {
+        "text": "3 "
+      },
+      "under 914 m": {
+        "text": "28 (2012) "
+      }
+    },
+    "Heliports": {
+      "text": "15 (2012)"
+    },
+    "Pipelines": {
+      "text": "gas 4,135 km; oil 171 km; oil/gas/water 53 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "27,182 km"
+      },
+      "standard gauge": {
+        "text": "4,251 km 1.435-m gauge (4,251 km electrified) "
+      },
+      "dual gauge": {
+        "text": "486 km 1.435-1.067-m gauge (486 km electrified) "
+      },
+      "narrow gauge": {
+        "text": "96 km 1.372-m gauge (96 km electrified); 22,301 km 1.067-m gauge (15,222 km electrified); 48 km 0.762-m gauge (48 km electrified) (2009) "
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,210,251 km"
+      },
+      "paved": {
+        "text": "973,234 km (includes 7,803 km of expressways) "
+      },
+      "unpaved": {
+        "text": "237,017 km (2008) "
+      }
+    },
+    "Waterways": {
+      "text": "1,770 km (seagoing vessels use inland seas) (2010)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "684"
+      },
+      "by type": {
+        "text": "bulk carrier 168, cargo 34, carrier 3, chemical tanker 29, container 2, liquefied gas 58, passenger 11, passenger/cargo 117, petroleum tanker 152, refrigerated cargo 4, roll on/roll off 52, vehicle carrier 54 "
+      },
+      "registered in other countries": {
+        "text": "3,122 (Bahamas 88, Bermuda 2, Burma 1, Cambodia 1, Cayman Islands 23, China 2, Cyprus 16, Honduras 4, Hong Kong 79, Indonesia 8, Isle of Man 19, Liberia 110, Luxembourg 3, Malaysia 2, Malta 5, Marshall Islands 59, Mongolia 2, Netherlands 1, Panama 2372, Philippines 77, Portugal 9, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 3, Sierra Leone 4, Singapore 164, South Korea 14, Tanzania 1, UK 5, Vanuatu 39, unknown 7) (2010) "
+      }
+    },
+    "Ports and terminals": {
+      "text": "Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Japanese Ministry of Defense (MOD)": {
+        "text": "Ground Self-Defense Force (Rikujou Jieitai, GSDF), Maritime Self-Defense Force (Kaijou Jieitai, MSDF), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2011)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; Maritime Self-Defense Force mandatory retirement at age 54 (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "27,301,443"
+      },
+      "females age 16-49": {
+        "text": "26,307,003 (2010 est.) "
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "22,390,431"
+      },
+      "females age 16-49": {
+        "text": "21,540,322 (2010 est.) "
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "623,365"
+      },
+      "female": {
+        "text": "591,253 (2010 est.) "
+      }
+    },
+    "Military expenditures": {
+      "text": "0.8% of GDP (2006)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "the sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the \"Northern Territories\" and in Russia as the \"Southern Kuril Islands,\" occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Japan and South Korea claim Liancourt Rocks (Take-shima/Tok-do) occupied by South Korea since 1954; China and Taiwan dispute both Japan's claims to the uninhabited islands of the Senkaku-shoto (Diaoyu Tai) and Japan's unilaterally declared exclusive economic zone in the East China Sea, the site of intensive hydrocarbon prospecting"
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "Introduction ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "35,400,000"
+      },
+      "electrification - total population": {
+        "text": "20%"
+      },
+      "electrification - urban areas": {
+        "text": "60%"
+      },
+      "electrification - rural areas": {
+        "text": "7% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "9.548 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "7.666 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Electricity - exports": {
+      "text": "45 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Electricity - imports": {
+      "text": "67 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "2.301 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "31.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "35.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "53.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "11,870 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "14,320 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "93,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "345.2 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "76,090 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "13 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    }
+  },
+  "\nBackground": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "72,801"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "38,982,188"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "83 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the mobile-cellular system is generally good, especially is urban areas; fixed-line telephone system is small and inefficient; trunks are primarily microwave radio relay; business data commonly transferred by a very small aperture terminal (VSAT) system"
+      },
+      "domestic": {
+        "text": "sole fixed-line provider, Telkom Kenya, privatized in 2013 and is now 60% owned by Helios Investment Partners, a London-based equity fund, and 40% owned by the Kenyan Government; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 83 per 100 persons in 2016"
+      },
+      "international": {
+        "text": "country code - 254; landing point for the EASSy, TEAMS and SEACOM fiber-optic submarine cable systems; satellite earth stations - 4 Intelsat (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "about a half-dozen large-scale privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast on a national level along with over 100 private and non-profit provincial stations broadcasting in local languages; transmissions of several international broadcasters available (2014)"
+    },
+    "Internet country code": {
+      "text": ".ke"
+    },
+    "Internet users": {
+      "total": {
+        "text": "12,165,597"
+      },
+      "percent of population": {
+        "text": "26.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "33"
+      }
+    }
+  },
+  "Geography ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "16"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "106"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "4,874,590"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "286,414,683 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "5Y (2016)"
+    },
+    "Airports": {
+      "text": "197 (2013)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "16"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "6"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "181"
+      },
+      "1,524 to 2,437 m": {
+        "text": "14"
+      },
+      "914 to 1,523 m": {
+        "text": "107"
+      },
+      "under 914 m": {
+        "text": "60 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "oil 4 km; refined products 928 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,806 km"
+      },
+      "narrow gauge": {
+        "text": "3,334 km 1.000-m gauge"
+      },
+      "standard gauge": {
+        "text": "472 km 1.435-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "161,452 km"
+      },
+      "paved": {
+        "text": "14,420 km (8,500 km highways, 1,872 urban roads, and 4,048 rural roads)"
+      },
+      "unpaved": {
+        "text": "147,032 km (2017)"
+      },
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Waterways": {
+      "text": "none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania (2011)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "20"
+      },
+      "by type": {
+        "text": "oil tanker 2, other 18 (2017)"
+      },
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Kisumu, Mombasa"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Mombasa"
+      }
+    }
+  },
+  "\nLocation": {
+    "Military expenditures": {
+      "text": "1.56% of GDP (2013)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Military branches": {
+      "text": "Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18-26 years of age for male and female voluntary service (under 18 with parental consent), with a 9-year obligation (7 years for Kenyan Navy); applicants must be Kenyan citizens and provide a national identity card (obtained at age 18) and a school-leaving certificate; women serve under the same terms and conditions as men; mandatory retirement at age 55 (2012)"
+    }
+  },
+  "People and Society ": {
+    "Terrorist groups - foreign based": {
+      "al-Qa'ida (AQ)": {
+        "text": ""
+      },
+      "text": "area(s) of operation: maintains an operational and recruitment presence, mostly in the northeast; on 2 April 2015, gunmen stormed Garissa University and shot and killed 148 people and injured approximately 80; gunmen took over 700 students hostage and killed those who identified as Christian, making it one of Kenya's deadliest attacks; on 21 September 2013, at the upscale Westgate Mall in Nairobi, gunmen injured 200 people and killed six soldiers and police officers and approximately 65 civilians, including foreign nationals from 13 countries; leadership claimed the attack on the mall was in retaliation for Kenya's support for the African Union Mission for Somalia, a regional peacekeeping force operated by the African Union with the approval of the UN",
+      "al-Shabaab": {
+        "text": ""
+      }
+    }
+  },
+  "\nPopulation": {
+    "Disputes - international": {
+      "text": "Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; Kenya provides shelter to an estimated 580,000 refugees, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the \"Ilemi Triangle,\" which Kenya has administered since colonial times"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "285,705 (Somalia) (refugees and asylum seekers); 111,361 (South Sudan) (refugees and asylum seekers); 35,490 (Democratic Republic of the Congo) (refugees and asylum seekers); 27,979 (Ethiopia) (refugees and asylum seekers); 12,759 (Burundi) (refugees and asylum seekers); 9,962 (Sudan) (refugees and asylum seekers) (2017)"
+      },
+      "IDPs": {
+        "text": "138,000 (represents people displaced since the 1990s by ethnic and political violence and land disputes and who sought refuge mostly in camps; persons who took refuge in host communities or were evicted in urban areas are not included in the data; data is not available on pastoralists displaced by cattle rustling, violence, natural disasters, and development projects; the largest displacement resulted from 2007-08 post-election violence (2016)"
+      },
+      "stateless persons": {
+        "text": "20,000 (2016); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards"
+      }
+    },
+    "Illicit drugs": {
+      "text": "widespread harvesting of small plots of marijuana; transit country for South Asian heroin destined for Europe and North America; Indian methaqualone also transits on way to South Africa; significant potential for money-laundering activity given the country's status as a regional financial center; massive corruption, and relatively high levels of narcotics-associated activities"
+    }
+  }
+}

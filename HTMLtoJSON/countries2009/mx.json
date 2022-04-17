@@ -1,0 +1,770 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The site of advanced Amerindian civilizations, Mexico came under Spanish rule for three centuries before achieving independence early in the 19th century. A devaluation of the peso in late 1994 threw Mexico into economic turmoil, triggering the worst recession in over half a century. The nation had been making an impressive recovery until the global financial crisis hit in late 2008. Ongoing economic and social concerns include low real wages, underemployment for a large segment of the population, inequitable income distribution, and few advancement opportunities for the largely Amerindian population in the impoverished southern states. The elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON. In January 2009, Mexico assumed a nonpermanent seat on the UN Security Council for the 2009-10 term."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Middle America, bordering the Caribbean Sea and the Gulf of Mexico, between Belize and the United States and bordering the North Pacific Ocean, between Guatemala and the United States"
+    },
+    "Geographic coordinates": {
+      "text": "23 00 N, 102 00 W"
+    },
+    "Map references": {},
+    "North America": {},
+    "Area": {
+      "total": {
+        "text": "1,964,375 sq km"
+      },
+      "land": {
+        "text": "1,943,945 sq km"
+      },
+      "water": {
+        "text": "20,430 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than three times the size of Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,353 km"
+      },
+      "border countries": {
+        "text": "Belize 250 km, Guatemala 962 km, US 3,141 km"
+      }
+    },
+    "Coastline": {
+      "text": "9,330 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "varies from tropical to desert"
+    },
+    "Terrain": {
+      "text": "high, rugged mountains; low coastal plains; high plateaus; desert"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Laguna Salada -10 m"
+      },
+      "highest point": {
+        "text": "Volcan Pico de Orizaba 5,700 m"
+      }
+    },
+    "Natural resources": {
+      "text": "petroleum, silver, copper, gold, lead, zinc, natural gas, timber"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "12.66%"
+      },
+      "permanent crops": {
+        "text": "1.28%"
+      },
+      "other": {
+        "text": "86.06% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "63,200 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "457.2 cu km (2000)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "78.22  cu km/yr (17%/5%/77%)"
+      },
+      "per capita": {
+        "text": "731  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of Mexico, and Caribbean coasts"
+    },
+    "Environment - current issues": {
+      "text": "scarcity of hazardous waste disposal facilities; rural to urban migration; natural fresh water resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletion",
+      "note": "the government considers the lack of clean water and deforestation national security issues"
+    },
+    "note": "the government considers the lack of clean water and deforestation national security issues",
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategic location on southern border of US; corn (maize), one of the world's major grain crops, is thought to have originated in Mexico"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "111,211,789 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "29.1% (male 16,544,223/female 15,861,141)"
+      },
+      "15-64 years": {
+        "text": "64.6% (male 34,734,571/female 37,129,793)"
+      },
+      "65 years and over": {
+        "text": "6.2% (male 3,130,518/female 3,811,543) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "26.3 years"
+      },
+      "male": {
+        "text": "25.3 years"
+      },
+      "female": {
+        "text": "27.3 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.13% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "19.71 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "4.8 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-3.61 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "77% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.5% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.94 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.82 male(s)/female"
+      },
+      "total population": {
+        "text": "0.96 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "18.42 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "20.3 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "16.44 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "76.06 years"
+      },
+      "male": {
+        "text": "73.25 years"
+      },
+      "female": {
+        "text": "79 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.34 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.3% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "200,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "11,000 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "dengue fever"
+      },
+      "water contact disease": {
+        "text": "leptospirosis (2009)"
+      }
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Mexican(s)"
+      },
+      "adjective": {
+        "text": "Mexican"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mestizo (Amerindian-Spanish) 60%, Amerindian or predominantly Amerindian 30%, white 9%, other 1%"
+    },
+    "Religions": {
+      "text": "Roman Catholic 76.5%, Protestant 6.3% (Pentecostal 1.4%, Jehovah's Witnesses 1.1%, other 3.8%), other 0.3%, unspecified 13.8%, none 3.1% (2000 census)"
+    },
+    "Languages": {
+      "text": "Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%; note - indigenous languages include various Mayan, Nahuatl, and other regional languages (2005)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "91%"
+      },
+      "male": {
+        "text": "92.4%"
+      },
+      "female": {
+        "text": "89.6% (2004 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "13 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.5% of GDP (2005)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "United Mexican States "
+      },
+      "conventional short form": {
+        "text": "Mexico"
+      },
+      "local long form": {
+        "text": "Estados Unidos Mexicanos"
+      },
+      "local short form": {
+        "text": "Mexico"
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Mexico City (Distrito Federal)"
+      },
+      "geographic coordinates": {
+        "text": "19 26 N, 99 08 W"
+      },
+      "time difference": {
+        "text": "UTC-6 (1 hour behind Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in April; ends last Sunday in October"
+      },
+      "note": "Mexico is divided into three time zones"
+    },
+    "note": "Mexico is divided into three time zones",
+    "Administrative divisions": {
+      "text": "31 states (estados, singular - estado) and 1 federal district* (distrito federal); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila de Zaragoza, Colima, Distrito Federal*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan de Ocampo, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro de Arteaga, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz-Llave, Yucatan, Zacatecas"
+    },
+    "Independence": {
+      "text": "16 September 1810 (declared); 27 September 1821 (recognized by Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 16 September (1810)"
+    },
+    "Constitution": {
+      "text": "5 February 1917"
+    },
+    "Legal system": {
+      "text": "mixture of US constitutional theory and civil law system; judicial review of legislative acts; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal and compulsory (but not enforced)"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Felipe de Jesus CALDERON Hinojosa (since 1 December 2006); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Felipe de Jesus CALDERON Hinojosa (since 1 December 2006)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president; note - appointment of attorney general requires consent of the Senate"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a single six-year term; election last held on 2 July 2006 (next to be held 1 July 2012)"
+      },
+      "election results": {
+        "text": "Felipe CALDERON elected president; percent of vote - Felipe CALDERON 35.89%, Andres Manuel LOPEZ OBRADOR 35.31%, Roberto MADRAZO 22.26%, other 6.54%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral National Congress or Congreso de la Union consists of the Senate or Camara de Senadores (128 seats; 96 members are elected by popular vote to serve six-year terms, and 32 seats are allocated on the basis of each party's popular vote) and the Chamber of Deputies or Camara de Diputados (500 seats; 300 members are elected by popular vote; remaining 200 members are allocated on the basis of each party's popular vote; to serve three-year terms)",
+      "elections": {
+        "text": "Senate - last held 2 July 2006 for all of the seats (next to be held 1 July 2012); Chamber of Deputies - last held 2 July 2006 (next to be held 5 July 2009)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PAN 52, PRI 33, PRD 26, PVEM 6, CD 5, PT 5, independent 1; Chamber of Deputies - percent of vote by party - NA; seats by party - PAN 207, PRD 127, PRI 106, PVEM 17, CD 17, PT 11, other 15"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (justices or ministros are appointed by the president with consent of the Senate)"
+    },
+    "Political parties and leaders": {
+      "text": "Convergence for Democracy or CD [Luis MALDONADO Venegas]; Institutional Revolutionary Party or PRI [Beatriz PAREDES]; Labor Party or PT [Alberto ANAYA Gutierrez]; Mexican Green Ecological Party or PVEM [Jorge Emilio GONZALEZ Martinez]; National Action Party (Partido Accion Nacional) or PAN [German MARTINEZ Cazares]; New Alliance Party (Partido Nueva Alianza) or PNA [Jorge Antonio KAHWAGI Macari]; Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Leonel COTA Montano]; Social Democratic and Peasant Alternative Party (Partido Alternativa Socialdemocrata y Campesina) or Alternativa [Alberto BEGNE Guerra]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Broad Progressive Front or FAP; Businessmen's Coordinating Council or CCE; Confederation of Employers of the Mexican Republic or COPARMEX; Confederation of Industrial Chambers or CONCAMIN; Confederation of Mexican Workers or CTM; Confederation of National Chambers of Commerce or CONCANACO; Coordinator for Foreign Trade Business Organizations or COECE; Federation of Unions Providing Goods and Services or FESEBES; National Chamber of Transformation Industries or CANACINTRA; National Peasant Confederation or CNC; National Small Business Chamber or CANACOPE; National Syndicate of Education Workers or SNTE; National Union of Workers or UNT; Popular Assembly of the People of Oaxaca or APPO; Roman Catholic Church"
+    },
+    "International organization participation": {
+      "text": "APEC, BCIE, BIS, CAN (observer), Caricom (observer), CDB, CE (observer), CSN (observer), EBRD, FAO, G-20, G-3, G-15, G-24, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, OAS, OECD, OPANAL, OPCW, PCA, RG, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Arturo SARUKHAN Casamitjana"
+      },
+      "chancery": {
+        "text": "1911 Pennsylvania Avenue NW, Washington, DC 20006"
+      },
+      "telephone": {
+        "text": "[1] (202) 728-1600"
+      },
+      "FAX": {
+        "text": "[1] (202) 728-1698"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso, Houston, Laredo (Texas), Los Angeles, Miami, New York, Nogales (Arizona), Phoenix, Sacramento, Saint Paul (Minnesota), San Antonio, San Diego, San Francisco, San Jose, San Juan (Puerto Rico)"
+      },
+      "consulate(s)": {
+        "text": "Albuquerque, Brownsville (Texas), Calexico (California), Del Rio (Texas), Detroit, Douglas (Arizona), Eagle Pass (Texas), Fresno (California), Indianapolis (Indiana), Kansas City (Missouri), Laredo (Texas), Las Vegas, Little Rock (Arkansas), McAllen (Texas), New Orleans, Omaha, Orlando, Oxnard (California), Philadelphia, Portland (Oregon), Presidio (Texas), Raleigh, Salt Lake City, San Bernardino, Santa Ana (California), Seattle, Tucson, Yuma (Arizona)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Antonio O. GARZA, Jr."
+      },
+      "embassy": {
+        "text": "Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal"
+      },
+      "mailing address": {
+        "text": "P. O. Box 9000, Brownsville, TX 78520-9000"
+      },
+      "telephone": {
+        "text": "[52] (55) 5080-2000"
+      },
+      "FAX": {
+        "text": "[52] (55) 5511-9980"
+      },
+      "consulate(s) general": {
+        "text": "Ciudad Juarez, Guadalajara, Monterrey, Tijuana"
+      },
+      "consulate(s)": {
+        "text": "Hermosillo, Matamoros, Merida, Nogales, Nuevo Laredo"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), white, and red; the coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Mexico has a free market economy in the trillion dollar class. It contains a mixture of modern and outmoded industry and agriculture, increasingly dominated by the private sector. Recent administrations have expanded competition in seaports, railroads, telecommunications, electricity generation, natural gas distribution, and airports. Per capita income is roughly one-third that of the US; income distribution remains highly unequal. Trade with the US and Canada has nearly tripled since the implementation of NAFTA in 1994. Mexico has 12 free trade agreements with over 40 countries including, Guatemala, Honduras, El Salvador, the European Free Trade Area, and Japan, putting more than 90% of trade under free trade agreements. In 2007, during its first year in office, the Felipe CALDERON administration was able to garner support from the opposition to successfully pass a pension and a fiscal reform. The administration continues to face many economic challenges including the need to upgrade infrastructure, modernize labor laws, and allow private investment in the energy sector. CALDERON has stated that his top economic priorities remain reducing poverty and creating jobs."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.498 trillion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "underemployment is perhaps 25%",
+    "GDP (official exchange rate)": {
+      "text": "$1.088 trillion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.1% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$13,900 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "3.8%"
+      },
+      "industry": {
+        "text": "35.2%"
+      },
+      "services": {
+        "text": "61% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "45.32 million (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "15.1%"
+      },
+      "industry": {
+        "text": "25.7%"
+      },
+      "services": {
+        "text": "59% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.7% (2007 est.)",
+      "note": "underemployment is perhaps 25%"
+    },
+    "Population below poverty line": {
+      "text": "13.8% using food-based definition of poverty; asset based poverty amounted to more than 40% (2006)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.8%"
+      },
+      "highest 10%": {
+        "text": "37.9% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "53.1 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "22.1% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$257.1 billion"
+      },
+      "expenditures": {
+        "text": "$258.1 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "23.5% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.56% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$103.5 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$168.4 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$349.1 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$348.3 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "corn, wheat, soybeans, rice, beans, cotton, coffee, fruit, tomatoes; beef, poultry, dairy products; wood products"
+    },
+    "Industries": {
+      "text": "food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "-0.7% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "245 billion kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "200.9 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "1.288 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "584 million kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "3.186 million bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2.128 million bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "1.986 million bbl/day (2008 est.)"
+    },
+    "Oil - imports": {
+      "text": "479,600 bbl/day (2008 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "10.5 billion bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "52.15 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "66.88 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "1.136 billion cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "12.61 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "372.7 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$8.331 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$271.9 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "manufactured goods, oil and oil products, silver, fruits, vegetables, coffee, cotton"
+    },
+    "Exports - partners": {
+      "text": "US 80.2%, Canada 2.4%, Germany 1.7% (2008)"
+    },
+    "Imports": {
+      "text": "$281.9 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "metalworking machines, steel mill products, agricultural machinery, electrical equipment, car parts for assembly, repair parts for motor vehicles, aircraft, and aircraft parts"
+    },
+    "Imports - partners": {
+      "text": "US 49%, China 11.2%, Japan 5.3%, South Korea 4.4%, Germany 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$87.19 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$193.1 billion (31 December 2007)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$267.8 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$44.7 billion (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Mexican pesos (MXN) per US dollar - 11.016 (2008 est.), 10.8 (2007), 10.899 (2006), 10.898 (2005), 11.286 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "20.539 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "75.304 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate telephone service for business and government, but the population is poorly served; mobile subscribers far outnumber fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable"
+      },
+      "domestic": {
+        "text": "low telephone density with about 19 fixed lines per 100 persons; privatized in December 1990; despite the opening to competition in January 1997, Telmex remains dominant; legal challenges to Telmex's alleged anti-competitive behavior in the mobile and fixed-line markets culminated in a World Trade Organization ruling in 2004 against Mexico prompting some strengthening of the powers granted Mexico's telecom regulator; mobile cellular teledensity approaching 70 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 850, FM 545, shortwave 15 (2003)"
+    },
+    "Television broadcast stations": {
+      "text": "236 (plus repeaters) (1997)"
+    },
+    "Internet country code": {
+      "text": ".mx"
+    },
+    "Internet hosts": {
+      "text": "12.716 million (2009)"
+    },
+    "Internet users": {
+      "text": "23.26 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1,744 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "246"
+      },
+      "over 3,047 m": {
+        "text": "12"
+      },
+      "2,438 to 3,047 m": {
+        "text": "29"
+      },
+      "1,524 to 2,437 m": {
+        "text": "85"
+      },
+      "914 to 1,523 m": {
+        "text": "82"
+      },
+      "under 914 m": {
+        "text": "38 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1,498"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "65"
+      },
+      "914 to 1,523 m": {
+        "text": "426"
+      },
+      "under 914 m": {
+        "text": "1,005 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 22,705 km; liquid petroleum gas 1,875 km; oil 8,688 km; oil/gas/water 228 km; refined products 6,520 km (2006)"
+    },
+    "Railways": {
+      "total": {
+        "text": "17,516 km"
+      },
+      "standard gauge": {
+        "text": "17,516 km 1.435-m gauge (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "356,945 km"
+      },
+      "paved": {
+        "text": "178,473 km (includes 6,279 km of expressways)"
+      },
+      "unpaved": {
+        "text": "178,472 km (2006)"
+      }
+    },
+    "Waterways": {
+      "text": "2,900 km (navigable rivers and coastal canals) (2008)"
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "55"
+      },
+      "by type": {
+        "text": "bulk carrier 2, cargo 7, chemical tanker 5, liquefied gas 4, passenger/cargo 11, petroleum tanker 23, roll on/roll off 3"
+      },
+      "foreign-owned": {
+        "text": "4 (Denmark 2, Hong Kong 1, UAE 1)"
+      },
+      "registered in other countries": {
+        "text": "20 (Brazil 1, Honduras 1, Liberia 2, Marshall Islands 4, Panama 2, Portugal 1, Spain 3, Venezuela 5, unknown 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Altamira, Coatzacoalcos, Manzanillo, Morro Redondo, Salina Cruz, Tampico, Veracruz"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Secretariat of National Defense (Secretaria de Defensa Nacional, Sedena)": {
+        "text": "Army (Ejercito, includes Mexican Air Force (Fuerza Aerea Mexicana, FAM)); Secretariat of the Navy (Secretaria de Marina, Semar)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory military service, conscript service obligation - 12 months; 16 years of age with consent for voluntary enlistment; conscripts serve only in the Army; Navy and Air Force service is all voluntary; women are eligible for voluntary military service (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "27,774,688"
+      },
+      "females age 16-49": {
+        "text": "29,376,791 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "22,541,654"
+      },
+      "females age 16-49": {
+        "text": "25,149,027 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,109,981"
+      },
+      "female": {
+        "text": "1,072,094 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.5% of GDP (2006 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the United States"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "5,500-10,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "major drug-producing nation; cultivation of opium poppy in 2007 rose to 6,900 hectares yielding a potential production of 18 metric tons of pure heroin, or 50 metric tons of \"black tar\" heroin, the dominant form of Mexican heroin in the western United States; marijuana cultivation increased to 8,900 hectares in 2007 and yielded a potential production of 15,800 metric tons; government conducts the largest independent illicit-crop eradication program in the world; continues as the primary transshipment country for US-bound cocaine from South America, with an estimated 90% of annual cocaine movements toward the US stopping in Mexico; major drug syndicates control the majority of drug trafficking throughout the country; producer and distributor of ecstasy; significant money-laundering center; major supplier of heroin and largest foreign supplier of marijuana and methamphetamine to the US market (2007)"
+    }
+  }
+}

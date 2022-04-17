@@ -1,0 +1,829 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Chad, part of France's African holdings until 1960, endured three decades of civil warfare, as well as invasions by Libya, before peace was restored in 1990. The government eventually drafted a democratic constitution and held flawed presidential elections in 1996 and 2001. In 1998, a rebellion broke out in northern Chad, which has sporadically flared up despite several peace agreements between the government and insurgents. In June 2005, President Idriss DEBY held a referendum successfully removing constitutional term limits and won another controversial election in 2006. Sporadic rebel campaigns continued throughout 2006 and 2007. The capital experienced a significant insurrection in early 2008, but has had no significant rebel threats since then, in part due to Chad's 2010 rapprochement with Sudan, which previously used Chadian rebels as proxies. In late 2015, the government imposed a state of emergency in the Lake Chad region following multiple attacks by the terrorist group Boko Haram throughout the year; Boko Haram also launched several bombings in N'Djamena in mid-2015. DEBY in 2016 was reelected to his fifth term in an election that was peaceful but flawed. In December 2015, Chad completed a two-year rotation on the UN Security Council. In January 2017, DEBY completed a one-year term as President of the African Union."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Central Africa, south of Libya"
+    },
+    "Geographic coordinates": {
+      "text": "15 00 N, 19 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "1.284 million sq km"
+      },
+      "land": {
+        "text": "1,259,200 sq km"
+      },
+      "water": {
+        "text": "24,800 sq km"
+      },
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Area - comparative": {
+      "text": "almost nine times the size of New York state; slightly more than three times the size of California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "6,406 km"
+      },
+      "border countries (6)": {
+        "text": "Cameroon 1,116 km, Central African Republic 1,556 km, Libya 1,050 km, Niger 1,196 km, Nigeria 85 km, Sudan 1,403 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical in south, desert in north"
+    },
+    "Terrain": {
+      "text": "broad, arid plains in center, desert in north, mountains in northwest, lowlands in south"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "543 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Emi Koussi 3,445 m"
+    },
+    "Natural resources": {
+      "text": "petroleum, uranium, natron, kaolin, fish (Lake Chad), gold, limestone, sand and gravel, salt"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "39.6%"
+      },
+      "text": "arable land 3.9%; permanent crops 0%; permanent pasture 35.7%",
+      "forest": {
+        "text": "9.1%"
+      },
+      "other": {
+        "text": "51.3% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "300 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated"
+    },
+    "Natural hazards": {
+      "text": "hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plagues"
+    },
+    "Environment - current issues": {
+      "text": "inadequate supplies of potable water; improper waste disposal in rural areas contributes to soil and water pollution; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea, Marine Dumping"
+      }
+    },
+    "Geography - note": {
+      "note 1": {
+        "text": "Chad is the largest of Africa's 16 landlocked countries"
+      },
+      "note 2": {
+        "text": "not long ago - geologically speaking - what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the \"Green Sahara\" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site"
+      },
+      "note 3": {
+        "text": "Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea"
+      }
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Chad"
+      },
+      "conventional short form": {
+        "text": "Chad"
+      },
+      "local long form": {
+        "text": "Republique du Tchad/Jumhuriyat Tshad"
+      },
+      "local short form": {
+        "text": "Tchad/Tshad"
+      },
+      "etymology": {
+        "text": "named for Lake Chad, which lies along the country's western border; the word \"tsade\" means \"large body of water\" or \"lake\" in several local native languages"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "N'Djamena"
+      },
+      "geographic coordinates": {
+        "text": "12 06 N, 15 02 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "23 regions (regions, singular - region); Barh el Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi Est, Mayo-Kebbi Ouest, Moyen-Chari, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Ville de N'Djamena, Wadi Fira"
+    },
+    "Independence": {
+      "text": "11 August 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 11 August (1960)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "several previous; latest approved by referendum 31 March 1996, entered into force 8 April 1996"
+      },
+      "amendments": {
+        "text": "proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly; amended 2005, 2013 (2017)"
+      }
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "both parents must be citizens of Chad"
+      },
+      "dual citizenship recognized": {
+        "text": "Chadian law does not address dual citizenship"
+      },
+      "residency requirement for naturalization": {
+        "text": "15 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Idriss DEBY Itno, Lt. Gen. (since 4 December 1990)"
+      },
+      "head of government": {
+        "text": "Prime Minister Albert Pahimi PADACKE (since 15 February 2016)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers; members appointed by the president on the recommendation of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 10 April 2016 (next to be held in April 2021); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Lt. Gen. Idriss DEBY Itno reelected president in 1 round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%"
+      }
+    },
+    "Legislative branch": {
+      "text": "",
+      "description": {
+        "text": "unicameral National Assembly (188 seats; 118 directly elected in multi-seat constituencies by proportional representation vote and 70 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "National Assembly - last held on 13 February and 6 May 2011 (next to be held in 2019)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, URD 8, RNDT/Le Reveil 8, Viva-RNDP 5, FAR 4, PUR 2, UDR 2, PDSA 2, CTPD 2, other minor parties 19"
+      },
+      "note": {
+        "text": "the National Assembly mandate was extended, reportedly due to a lack of funding for the scheduled 2015 election"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Constitutional Council judges - 2 appointed by the president and 1 by the speaker of the National Assembly; jurists - 3 each by the president and by the speaker of the National Assembly; judges appointed for 9-year terms"
+      },
+      "subordinate courts": {
+        "text": "High Court of Justice; Courts of Appeal; tribunals; justices of the peace"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Union for Renewal and Democracy or URD [Sande NGARYIMBE]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UN Security Council (temporary), UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mahamat Nasser HASSANE (since 21 May 2014)"
+      },
+      "chancery": {
+        "text": "2401 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 652-1312"
+      },
+      "FAX": {
+        "text": "[1] (202) 758-0431"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Geeta PASI (since September 2016)"
+      },
+      "embassy": {
+        "text": "Avenue Felix Eboue, N'Djamena"
+      },
+      "mailing address": {
+        "text": "B. P. 413, N'Djamena"
+      },
+      "telephone": {
+        "text": "[235] 2251-70-09"
+      },
+      "FAX": {
+        "text": "[235] 2251-56-54"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice",
+      "note": {
+        "text": "almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on the flag of France"
+      }
+    },
+    "National symbol(s)": {
+      "text": "goat (north), lion (south); national colors: blue, yellow, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"La Tchadienne\" (The Chadian)"
+      },
+      "lyrics/music": {
+        "text": "Louis GIDROL and his students/Paul VILLARD"
+      },
+      "note": {
+        "text": "adopted 1960"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "In 2017, economic policy will be driven by efforts that started in 2016 to reverse the recession and to repair damage to public finances and exports. The government is implementing an emergency action plan to counterbalance the drop in oil revenue and to diversify the economy. Multinational partners, such as the African Development Bank, the EU, and the World Bank are likely to continue budget support in 2017, but Chad will remain at high debt risk, given its dependence on oil revenue and pressure to spend on subsidies and security."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$29.71 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$10.1 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "216"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,700 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Gross national saving": {
+      "text": "21.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "74.1%"
+      },
+      "government consumption": {
+        "text": "4.6%"
+      },
+      "investment in fixed capital": {
+        "text": "32.5%"
+      },
+      "investment in inventories": {
+        "text": "0.4%"
+      },
+      "exports of goods and services": {
+        "text": "29.2%"
+      },
+      "imports of goods and services": {
+        "text": "-40.8% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "57.8%"
+      },
+      "industry": {
+        "text": "13.9%"
+      },
+      "services": {
+        "text": "28.3% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cotton, sorghum, millet, peanuts, sesame, corn, rice, potatoes, onions, cassava (manioc, tapioca), cattle, sheep, goats, camels"
+    },
+    "Industries": {
+      "text": "oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, construction materials"
+    },
+    "Industrial production growth rate": {
+      "text": "-5% (2016 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Labor force": {
+      "text": "5.443 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "80%"
+      },
+      "industry and services": {
+        "text": "20% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "46.7% (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "30.8% (2003)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "43.3 (2011 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.055 billion"
+      },
+      "expenditures": {
+        "text": "$1.522 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "10.4% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "212"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Public debt": {
+      "text": "49.8% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.7% (2015 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4.75% (31 December 2008)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "15.5% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.457 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.608 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.898 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "$-1.346 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Exports": {
+      "text": "$2.629 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Exports - commodities": {
+      "text": "oil, livestock, cotton, sesame, gum arabic, shea butter"
+    },
+    "Exports - partners": {
+      "text": "US 57%, India 8.9%, China 6.7%, France 6.4%, UAE 4.3%, Japan 4.1% (2016)"
+    },
+    "Imports": {
+      "text": "$2.572 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and transportation equipment, industrial goods, foodstuffs, textiles"
+    },
+    "Imports - partners": {
+      "text": "France 19.8%, China 15.7%, Cameroon 15.1%, India 6.1%, US 5.4%, Belgium 4.4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$380.7 million (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.617 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "162"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$4.5 billion (2006 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "510.53 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "10,477,071"
+      },
+      "electrification - total population": {
+        "text": "4%"
+      },
+      "electrification - urban areas": {
+        "text": "14%"
+      },
+      "electrification - rural areas": {
+        "text": "1% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "215 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "200 million kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "189"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "47,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "100% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Crude oil - production": {
+      "text": "110,200 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "105,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "1.5 billion bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2,200 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "2,215 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "300,000 Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "14,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "6,231,009"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "53 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate system of radiotelephone communication stations with high maintenance costs and low telephone density"
+      },
+      "domestic": {
+        "text": "fixed-line connections for less than 1 per 100 persons coupled with mobile-cellular subscribership base of about 40 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean) (2016)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)"
+    },
+    "Internet country code": {
+      "text": ".td"
+    },
+    "Internet users": {
+      "total": {
+        "text": "592,623"
+      },
+      "percent of population": {
+        "text": "5.0% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "148"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "28,332"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "mt-km (2015)"
+      }
+    },
+    "Airports": {
+      "text": "59 (2013)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "9"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "50"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "14"
+      },
+      "914 to 1,523 m": {
+        "text": "22"
+      },
+      "under 914 m": {
+        "text": "11 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "oil 582 km (2013)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "40,000 km"
+      },
+      "note": {
+        "text": "consists of 25,000 km of national and regional roads and 15,000 km of local roads; 206 km of urban roads are paved (2011)"
+      },
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Waterways": {
+      "text": "(Chari and Legone Rivers are navigable only in wet season) (2012)"
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "5.61% of GDP (2013)"
+    },
+    "Military branches": {
+      "text": "Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), National Gendarmerie, National and Nomadic Guard of Chad (GNNT) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21; while provisions for military service have not been repealed, they have never been fully implemented (2015)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "322,866 (Sudan); 75,635 (Central African Republic); 9,191 (Nigeria) (refugees and asylum seekers) (2017)"
+      },
+      "IDPs": {
+        "text": "118,804 (majority are in the east) (2017)"
+      }
+    }
+  }
+}

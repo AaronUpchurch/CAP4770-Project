@@ -1,0 +1,664 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Once the center of the Caribbean slave trade, the island of Curacao was hard hit by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of oil refineries to service newly discovered Venezuelan oil fields. The island of Saint Martin is shared with France; its southern portion is named Sint Maarten and is part of the Netherlands Antilles; its northern portion, called Saint Martin, is an overseas collectivity of France."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, two island groups in the Caribbean Sea - composed of five islands, Curacao and Bonaire located off the coast of Venezuela, and Sint Maarten, Saba, and Sint Eustatius lie east of the US Virgin Islands"
+    },
+    "Geographic coordinates": {
+      "Bonaire": {
+        "text": "12 12 N, 68 15 W"
+      },
+      "Curacao": {
+        "text": "12 10 N, 69 00 W"
+      },
+      "Saba": {
+        "text": "17 38 N, 63 14 W"
+      },
+      "Sint Eustatius": {
+        "text": "17 30 N, 62 58 W"
+      },
+      "Sint Maarten": {
+        "text": "18 04 N, 63 04 W"
+      }
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "800 sq km"
+      },
+      "land": {
+        "text": "800 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "note": "includes Bonaire, Curacao, Saba, Sint Eustatius, and Sint Maarten (Dutch part of the island of Saint Martin)"
+    },
+    "note": "includes Bonaire, Curacao, Saba, Sint Eustatius, and Sint Maarten (Dutch part of the island of Saint Martin)",
+    "Area - comparative": {
+      "text": "more than five times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "15 km"
+      },
+      "border countries": {
+        "text": "Saint Martin 15 km"
+      }
+    },
+    "Coastline": {
+      "text": "364 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive fishing zone": {
+        "text": "12 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; ameliorated by northeast trade winds"
+    },
+    "Terrain": {
+      "text": "generally hilly, volcanic interiors"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "Mount Scenery 862 m"
+      }
+    },
+    "Natural resources": {
+      "text": "phosphates (Curacao only), salt (Bonaire only)"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "10%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "90% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "Sint Maarten, Saba, and Sint Eustatius are subject to hurricanes from July to October; Curacao and Bonaire are south of Caribbean hurricane belt and are rarely threatened"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Geography - note": {
+      "text": "the five islands of the Netherlands Antilles are divided geographically into the Leeward Islands (northern) group (Saba, Sint Eustatius, and Sint Maarten) and the Windward Islands (southern) group (Bonaire and Curacao); the island of Saint Martin is the smallest landmass in the world shared by two independent states, the French territory of Saint Martin and the Dutch territory of Sint Maarten"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "228,693 (July 2010 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "22.7% (male 26,429/female 25,162)"
+      },
+      "15-64 years": {
+        "text": "67.7% (male 74,183/female 79,434)"
+      },
+      "65 years and over": {
+        "text": "9.6% (male 8,875/female 12,966) (2010 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "34.1 years"
+      },
+      "male": {
+        "text": "32.1 years"
+      },
+      "female": {
+        "text": "35.8 years (2010 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.712% (2010 est.)"
+    },
+    "Birth rate": {
+      "text": "14.05 births/1,000 population (2010 est.)"
+    },
+    "Death rate": {
+      "text": "6.54 deaths/1,000 population (July 2010 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.39 migrant(s)/1,000 population (2010 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "93% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "1.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.94 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.68 male(s)/female"
+      },
+      "total population": {
+        "text": "0.93 male(s)/female (2010 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "8.83 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "9.49 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "8.15 deaths/1,000 live births (2010 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "76.86 years"
+      },
+      "male": {
+        "text": "74.52 years"
+      },
+      "female": {
+        "text": "79.31 years (2010 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.97 children born/woman (2010 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Dutch Antillean(s)"
+      },
+      "adjective": {
+        "text": "Dutch Antillean"
+      }
+    },
+    "Ethnic groups": {
+      "text": "mixed black 85%, other 15% (includes Carib Amerindian, white, East Asian)"
+    },
+    "Religions": {
+      "text": "Roman Catholic 72%, Pentecostal 4.9%, Protestant 3.5%, Seventh-Day Adventist 3.1%, Methodist 2.9%, Jehovah's Witnesses 1.7%, other Christian 4.2%, Jewish 1.3%, other or unspecified 1.2%, none 5.2% (2001 census)"
+    },
+    "Languages": {
+      "text": "Papiamento 65.4% (a Spanish-Portuguese-Dutch-English dialect), English 15.9% (widely spoken), Dutch 7.3% (official), Spanish 6.1%, Creole 1.6%, other 1.9%, unspecified 1.8% (2001 census)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "96.7%"
+      },
+      "male": {
+        "text": "96.7%"
+      },
+      "female": {
+        "text": "96.8% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "14 years"
+      },
+      "male": {
+        "text": "14 years"
+      },
+      "female": {
+        "text": "15 years (2002)"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Netherlands Antilles"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Nederlandse Antillen"
+      },
+      "former": {
+        "text": "Curacao and Dependencies"
+      }
+    },
+    "Dependency status": {
+      "text": "an autonomous country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 1954; Dutch Government responsible for defense and foreign affairs"
+    },
+    "Government type": {
+      "text": "parliamentary"
+    },
+    "Capital": {
+      "name": {
+        "text": "Willemstad (on Curacao)"
+      },
+      "geographic coordinates": {
+        "text": "12 06 N, 68 56 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "none (part of the Kingdom of the Netherlands)",
+      "note": "each island has its own government"
+    },
+    "note": "political parties are indigenous to each island",
+    "Independence": {
+      "text": "none (part of the Kingdom of the Netherlands)"
+    },
+    "National holiday": {
+      "text": "Queen's Day (Birthday of Queen-Mother JULIANA and accession to the throne of her oldest daughter BEATRIX), 30 April (1909 and 1980)"
+    },
+    "Constitution": {
+      "text": "29 December 1954, Statute of the Realm of the Netherlands, as amended"
+    },
+    "Legal system": {
+      "text": "based on Dutch civil law system with some English common law influence"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen BEATRIX of the Netherlands (since 30 April 1980); represented by Governor General Frits GOEDGEDRAG (since 1 July 2002)"
+      },
+      "head of government": {
+        "text": "Prime Minister Emily de JONGH-ELHAGE (since 26 March 2006)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers elected by the Staten (legislature)"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch for a six-year term; following legislative elections, the leader of the majority party usually elected prime minister by the Staten; election last held on 22 January 2010 (next to be held by 2014)"
+      },
+      "note": "government coalition - PAR, PNP, NA, UPB, WIPM Saba, DP-St. E"
+    },
+    "Legislative branch": {
+      "text": "unicameral States or Staten (22 seats; Curacao 14, Bonaire 3, St. Maarten 3, St. Eustatius 1, Saba 1; members elected by popular vote to serve four-year terms)",
+      "elections": {
+        "text": "last held on 22 January 2010 (next to be held in 2014)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - PAR 6, LdK 5, National Alliance 3, PS 2, UPB 2, PNP 1, DP-St. E 1, PDB 1, WIPM 1"
+      },
+      "note": "the government is a coalition of several parties"
+    },
+    "Judicial branch": {
+      "text": "Joint High Court of Justice (judges appointed by the monarch)"
+    },
+    "Political parties and leaders": {
+      "Bonaire": {
+        "text": "Democratic Party of Bonaire or PDB [Jopi ABRAHAM]; Patriotic Union of Bonaire or UPB [Ramonsito BOOI]"
+      },
+      "Curacao": {
+        "text": "Ban Vota [Norbert GEORGE]; C-93 [Stanley BROWN]; Democratic Party of Curacao or DP [Errol HERNANDEZ]; E Mayoria [Aurelio PEDRO]; Forsa Korsou [Nelson NAVARRO]; Lista di Kambio or LdK (coalition of MAN, NPA, and FK); Liste Ni'un Paso Atras [Nelson PIERRE]; Movemiento Patriotiko Korsou [Reginald LAK]; New Antilles Movement or MAN [Charles COOPER]; Partido Akshon Pa Prosperidat I Seguridat [Sonja BERKEMEYER]; Partido Laboral Krusada Popular or PLKP [Errol COVA]; Party for the Restructured Antilles or PAR [Emily de JONGH-ELHAGE]; People's National Party or PNP [Ersilia DE LANNOOY]; Pidjin [Jasmin PINEDO]; Pueblo Soberano or PS [Herman WIELS]; Workers' Liberation Front or FOL [Anthony GODETT]"
+      },
+      "Saba": {
+        "text": "Saba Labor Party [Akilah LEVENSTONE]; Windward Islands People's Movement or WIPM [Ray HASSELL]"
+      },
+      "Sint Eustatius": {
+        "text": "Democratic Party of Sint Eustatius or DP-St. E [Julian WOODLEY]; Progressive Labor Party [Clyde VAN PUTTEN]; St. Eustatius Alliance [Ingrid HOUTMAN-WHITFIELD]"
+      },
+      "Sint Maarten": {
+        "text": "Democratic Party of Sint Maarten or DP-St. M [Sarah WESCOTT-WILLIAMS]; Freedom Slate of National Democratic Party [Theophilus PRIEST]; National Alliance or NA [William MARLIN]; People's Progressive Alliance or PPA [Gracita ARRINDELL]; St. Maarten People's Party [Johan LEONARD]; United People's Labor Party [Bienvenido RICHARDSON]"
+      },
+      "note": "political parties are indigenous to each island"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Employers Association (VBC); Unions (AVBO)"
+    },
+    "International organization participation": {
+      "text": "Caricom (observer), FATF, ILO, IMF, Interpol, IOC, UNESCO (associate), UNWTO (associate), UPU, WCO, WMO"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (represented by the Kingdom of the Netherlands); note - Mr. Jeffrey CORRION, Minister Plenipotentiary for Aruba at the Embassy of the Kingdom of the Netherlands"
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Consul General Timothy J. DUNN"
+      },
+      "consulate(s) general": {
+        "text": "J. B. Gorsiraweg #1, Willemstad, Curacao"
+      },
+      "mailing address": {
+        "text": "P. O. Box 158, Willemstad, Curacao"
+      },
+      "telephone": {
+        "text": "[599] (9) 461-3066"
+      },
+      "FAX": {
+        "text": "[599] (9) 461-6489"
+      }
+    },
+    "Flag description": {
+      "text": "white, with a horizontal blue stripe in the center superimposed on a vertical red band, also centered; five white, five-pointed stars are arranged in an oval pattern in the center of the blue band; the colors reflect those of the Netherlands; the five stars represent the five main islands of Bonaire, Curacao, Saba, Sint Eustatius, and Sint Maarten"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Tourism, petroleum refining, and offshore finance are the mainstays of this small economy, which is closely tied to the outside world. Although GDP has declined or grown slightly in each of the past eight years, the islands enjoy a high per capita income and a well-developed infrastructure compared with other countries in the region. The Venezuelan state oil company owns the single refinery on the island; most of the oil for the refinery is imported from Venezuela. Almost all consumer and capital goods are imported, with the US, Braxil, Italy, and Mexico being the major suppliers. Poor soils and inadequate water supplies hamper the development of agriculture. Budgetary problems hamper reform of the health and pension systems of an aging population. The Netherlands provides financial aid to support the economy."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$2.8 billion (2004 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$NA"
+    },
+    "GDP - real growth rate": {
+      "text": "1% (2004 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$16,000 (2004 est.)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "1%"
+      },
+      "industry": {
+        "text": "15%"
+      },
+      "services": {
+        "text": "84% (2000 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "91,470 (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1%"
+      },
+      "industry": {
+        "text": "20%"
+      },
+      "services": {
+        "text": "79% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "15.5% (2002 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$757.9 million"
+      },
+      "expenditures": {
+        "text": "$949.5 million (2004)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.1% (2003 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.33% (31 December 2008 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$1.295 billion (31 December 2008)"
+    },
+    "Stock of broad money": {
+      "text": "$3.881 billion (31 December 2008 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.286 billion (31 December 2008)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$488.6 billion (2003)"
+    },
+    "Agriculture - products": {
+      "text": "aloes, sorghum, peanuts, vegetables, tropical fruit"
+    },
+    "Industries": {
+      "text": "tourism (Curacao, Sint Maarten, and Bonaire), petroleum refining (Curacao), petroleum transshipment facilities (Curacao and Bonaire), light manufacturing (Curacao)"
+    },
+    "Industrial production growth rate": {
+      "text": "NA%"
+    },
+    "Electricity - production": {
+      "text": "1.22 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "1.013 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "69,000 bbl/day (2009 est.)"
+    },
+    "Oil - exports": {
+      "text": "224,600 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "298,500 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2010 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2010 est.)"
+    },
+    "Exports": {
+      "text": "$3.71 billion (2006)"
+    },
+    "Exports - commodities": {
+      "text": "petroleum products"
+    },
+    "Exports - partners": {
+      "text": "US 13.09%, Guatemala 10.84%, Singapore 10.65%, Dominican Republic 9.6%, Haiti 7.6%, Bahamas 6.05%, Honduras 4.54%, Mexico 4.2% (2009)"
+    },
+    "Imports": {
+      "text": "$15.74 billion (2006)"
+    },
+    "Imports - commodities": {
+      "text": "crude petroleum, food, manufactures"
+    },
+    "Imports - partners": {
+      "text": "Venezuela 57.3%, US 19.18%, Brazil 8.11% (2009)"
+    },
+    "Debt - external": {
+      "text": "$2.68 billion (2004)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "Netherlands Antillean guilders (ANG) per US dollar - 1.79 (2009), 1.79 (2008), 1.79 (2007), 1.79 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "88,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "200,000 (2004)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "generally adequate facilities"
+      },
+      "domestic": {
+        "text": "extensive interisland microwave radio relay links"
+      },
+      "international": {
+        "text": "country code - 599; the Americas Region Caribbean Ring System (ARCOS-1) and the Americas-2 submarine cable systems provide connectivity to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government-run television on Curacao provides service to Bonaire and Saba; the Leeward Broadcasting Corporation provides television service to Sint Maarten; cable TV subscription service provides access to programming from Venezuela and the US; roughly 30 radio stations and repeaters operating (2007)"
+    },
+    "Internet country code": {
+      "text": ".an"
+    },
+    "Internet hosts": {
+      "text": "72,165 (2010)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "5 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "5"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "845 km"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "120"
+      },
+      "by type": {
+        "text": "barge carrier 2, bulk carrier 2, cargo 59, carrier 18, chemical tanker 1, container 1, liquefied gas 2, passenger 1, petroleum tanker 3, refrigerated cargo 26, roll on/roll off 5"
+      },
+      "foreign-owned": {
+        "text": "101 (Angola 2, Cuba 1, Denmark 1, Estonia 1, Germany 32, Hong Kong 1, Netherlands 52, Norway 2, Sweden 1, Turkey 8)"
+      },
+      "registered in other countries": {
+        "text": "1 (Cook Islands 1) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bopec Terminal, Willemstad"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; National Guard (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "16 years of age for National Guard recruitment; no conscription (2004)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "56,267"
+      },
+      "females age 16-49": {
+        "text": "57,334 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "46,824"
+      },
+      "females age 16-49": {
+        "text": "47,447 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "1,934"
+      },
+      "female": {
+        "text": "1,839 (2010 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of the Kingdom of the Netherlands"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for South American drugs bound for the US and Europe; money-laundering center"
+    }
+  }
+}

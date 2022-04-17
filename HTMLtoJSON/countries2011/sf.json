@@ -1,0 +1,843 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Dutch traders landed at the southern tip of modern day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many of the Dutch settlers (the Boers) trekked north to found their own republics. The discovery of diamonds (1867) and gold (1886) spurred wealth and immigration and intensified the subjugation of the native inhabitants. The Boers resisted British encroachments but were defeated in the Boer War (1899-1902); however, the British and the Afrikaners, as the Boers became known, ruled together beginning in 1910 under the Union of South Africa, which became a republic in 1961 after a whites-only referendum. In 1948, the National Party was voted into power and instituted a policy of apartheid - the separate development of the races - which favored the white minority at the expense of the black majority. The African National Congress (ANC) led the opposition to apartheid and many top ANC leaders, such as Nelson MANDELA, spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts by some Western nations and institutions, led to the regime's eventual willingness to negotiate a peaceful transition to majority rule. The first multi-racial elections in 1994 brought an end to apartheid and ushered in majority rule under an ANC-led government. South Africa since then has struggled to address apartheid-era imbalances in decent housing, education, and health care. ANC infighting, which has grown in recent years, came to a head in September 2008 when President Thabo MBEKI resigned, and Kgalema MOTLANTHE, the party's General-Secretary, succeeded him as interim president. Jacob ZUMA became president after the ANC won general elections in April 2009. In January 2011, South Africa assumed a nonpermanent seat on the UN Security Council for the 2011-12 term."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Africa, at the southern tip of the continent of Africa"
+    },
+    "Geographic coordinates": {
+      "text": "29 00 S, 24 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "1,219,090 sq km"
+      },
+      "land": {
+        "text": "1,214,470 sq km"
+      },
+      "water": {
+        "text": "4,620 sq km"
+      },
+      "note": "includes Prince Edward Islands (Marion Island and Prince Edward Island)"
+    },
+    "note": "includes Prince Edward Islands (Marion Island and Prince Edward Island)",
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,862 km"
+      },
+      "border countries": {
+        "text": "Botswana 1,840 km, Lesotho 909 km, Mozambique 491 km, Namibia 967 km, Swaziland 430 km, Zimbabwe 225 km"
+      }
+    },
+    "Coastline": {
+      "text": "2,798 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "mostly semiarid; subtropical along east coast; sunny days, cool nights"
+    },
+    "Terrain": {
+      "text": "vast interior plateau rimmed by rugged hills and narrow coastal plain"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Atlantic Ocean 0 m"
+      },
+      "highest point": {
+        "text": "Njesuthi 3,408 m"
+      }
+    },
+    "Natural resources": {
+      "text": "gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, rare earth elements, uranium, gem diamonds, platinum, copper, vanadium, salt, natural gas"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "12.1%"
+      },
+      "permanent crops": {
+        "text": "0.79%"
+      },
+      "other": {
+        "text": "87.11% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "14,980 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "50 cu km (1990)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "12.5  cu km/yr (31%/6%/63%)"
+      },
+      "per capita": {
+        "text": "264  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "prolonged droughts",
+      "volcanism": {
+        "text": "the volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano"
+      }
+    },
+    "Environment - current issues": {
+      "text": "lack of important arterial rivers or lakes requires extensive water conservation and control measures; growth in water usage outpacing supply; pollution of rivers from agricultural runoff and urban discharge; air pollution resulting in acid rain; soil erosion; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "South Africa completely surrounds Lesotho and almost completely surrounds Swaziland"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "South African(s) "
+      },
+      "adjective": {
+        "text": "South African"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black African 79%, white 9.6%, colored 8.9%, Indian/Asian 2.5% (2001 census)"
+    },
+    "Languages": {
+      "text": "IsiZulu (official) 23.82%, IsiXhosa (official) 17.64%, Afrikaans (official) 13.35%, Sepedi (offcial) 9.39%, English (official) 8.2%, Setswana (official) 8.2%, Sesotho (official) 7.93%, Xitsonga (official) 4.44%, siSwati (official) 2.66%, Tshivenda (official) 2.28%, isiNdebele (official) 1.59%, other 0.5% (2001 census)"
+    },
+    "Religions": {
+      "text": "Protestant 36.6% (Zionist Christian 11.1%, Pentecostal/Charismatic 8.2%, Methodist 6.8%, Dutch Reformed 6.7%, Anglican 3.8%), Catholic 7.1%, Muslim 1.5%, other Christian 36%, other 2.3%, unspecified 1.4%, none 15.1% (2001 census)"
+    },
+    "Population": {
+      "text": "49,004,031 (July 2011 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
+    },
+    "note": "there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2011 est.)",
+    "Age structure": {
+      "0-14 years": {
+        "text": "28.5% (male 6,998,726/female 6,959,542)"
+      },
+      "15-64 years": {
+        "text": "65.8% (male 16,287,314/female 15,972,046)"
+      },
+      "65 years and over": {
+        "text": "5.7% (male 1,125,709/female 1,660,694) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "25 years"
+      },
+      "male": {
+        "text": "24.7 years"
+      },
+      "female": {
+        "text": "25.3 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.38% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "19.48 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "17.09 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-6.19 migrant(s)/1,000 population",
+      "note": "there is an increasing flow of Zimbabweans into South Africa and Botswana in search of better economic opportunities (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "62% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1.2% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "Johannesburg 3.607 million; Cape Town 3.353 million; Ekurhuleni (East Rand) 3.144 million; Durban 2.837 million; PRETORIA (capital) 1.404 million (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.02 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.68 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "410 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "43.2 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "47.19 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "39.14 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "49.33 years"
+      },
+      "male": {
+        "text": "50.24 years"
+      },
+      "female": {
+        "text": "48.39 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.3 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "8.5% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.77 physicians/1,000 population (2004)"
+    },
+    "Hospital bed density": {
+      "text": "2.84 beds/1,000 population (2005)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "1% of population"
+      },
+      "rural": {
+        "text": "22% of population"
+      },
+      "total": {
+        "text": "9% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "16% of population"
+      },
+      "rural": {
+        "text": "35% of population"
+      },
+      "total": {
+        "text": "23% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "17.8% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "5.6 million (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "310,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "intermediate"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis (2009)"
+      }
+    },
+    "Education expenditures": {
+      "text": "5.4% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "86.4%"
+      },
+      "male": {
+        "text": "87%"
+      },
+      "female": {
+        "text": "85.7% (2003 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "13 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2004)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "48.2%"
+      },
+      "male": {
+        "text": "44.6%"
+      },
+      "female": {
+        "text": "52.5% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of South Africa "
+      },
+      "conventional short form": {
+        "text": "South Africa"
+      },
+      "former": {
+        "text": "Union of South Africa"
+      },
+      "abbreviation": {
+        "text": "RSA"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Pretoria (administrative capital)"
+      },
+      "geographic coordinates": {
+        "text": "25 42 S, 28 13 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      },
+      "note": "Cape Town (legislative capital); Bloemfontein (judicial capital)"
+    },
+    "note": "adopted 1994; the anthem is a combination of \"N'kosi Sikelel' iAfrica\" (God Bless Africa) and \"Die Stem van Suid Afrika\" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; the official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English; the music incorporates the melody used in the Tanzanian and Zambian anthems",
+    "Administrative divisions": {
+      "text": "9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North-West, Western Cape"
+    },
+    "Independence": {
+      "31 May 1910 (Union of South Africa formed from four British colonies": {
+        "text": "Cape Colony, Natal, Transvaal, and Orange Free State); 31 May 1961 (republic declared); 27 April 1994 (majority rule)"
+      }
+    },
+    "National holiday": {
+      "text": "Freedom Day, 27 April (1994)"
+    },
+    "Constitution": {
+      "text": "10 December 1996; note - certified by the Constitutional Court 4 December 1996; was signed by then President MANDELA 10 December 1996; and entered into effect 4 February 1997"
+    },
+    "Legal system": {
+      "text": "mixed legal system of Roman-Dutch civil law, English common law, and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Jacob ZUMA (since 9 May 2009); Deputy President Kgalema MOTLANTHE (since 11 May 2009); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Jacob ZUMA (since 9 May 2009); Deputy President Kgalema MOTLANTHE (since 11 May 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections": {
+        "text": "president elected by the National Assembly for a five-year term (eligible for a second term); election last held on 6 May 2009 (next to be held in 2014)"
+      },
+      "election results": {
+        "text": "Jacob ZUMA elected president; National Assembly vote - Jacob ZUMA 277, Mvume DANDALA 47, other 76"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament consisting of the National Council of Provinces (90 seats; 10 members elected by each of the nine provincial legislatures for five-year terms; has special powers to protect regional interests, including the safeguarding of cultural and linguistic traditions among ethnic minorities) and the National Assembly (400 seats; members elected by popular vote under a system of proportional representation to serve five-year terms)",
+      "elections": {
+        "text": "National Assembly and National Council of Provinces - last held on 22 April 2009 (next to be held in April 2014)"
+      },
+      "election results": {
+        "text": "National Council of Provinces - percent of vote by party - NA; seats by party - NA; National Assembly - percent of vote by party - ANC 65.9%, DA 16.7%, COPE 7.4%, IFP 4.6%, other 5.4%; seats by party - ANC 264, DA 67, COPE 30, IFP 18, other 21"
+      }
+    },
+    "Judicial branch": {
+      "text": "Constitutional Court; Supreme Court of Appeals; High Courts; Magistrate Courts"
+    },
+    "Political parties and leaders": {
+      "text": "African Christian Democratic Party or ACDP [Kenneth MESHOE]; African National Congress or ANC [Jacob ZUMA]; Congress of the People or COPE [Mosiuoa LEKOTA]; Democratic Alliance or DA [Helen ZILLE]; Freedom Front Plus or FF+ [Pieter MULDER]; Independent Democrats or ID [Patricia DE LILLE]; Inkatha Freedom Party or IFP [Mangosuthu BUTHELEZI]; Pan-Africanist Congress or PAC [Motsoko PHEKO]; United Christian Democratic Party or UCDP [Lucas MANGOPE]; United Democratic Movement or UDM [Bantu HOLOMISA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Congress of South African Trade Unions or COSATU [Zwelinzima VAVI, general secretary]; South African Communist Party or SACP [Blade NZIMANDE, general secretary]; South African National Civics Organization or SANCO [Mlungisi HLONGWANE, national president]",
+      "note": "note - COSATU and SACP are in a formal alliance with the ANC"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BIS, C, CD, FAO, FATF, G-20, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUSCO, NAM, NSG, OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UN Security Council (temporary), UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Ebrahim RASOOL"
+      },
+      "chancery": {
+        "text": "3051 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 232-4400"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-1607"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Donald H. GIPS"
+      },
+      "embassy": {
+        "text": "877 Pretorius Street, Pretoria"
+      },
+      "mailing address": {
+        "text": "P. O. Box 9536, Pretoria 0001"
+      },
+      "telephone": {
+        "text": "[27] (12) 431-4000"
+      },
+      "FAX": {
+        "text": "[27] (12) 342-2299"
+      },
+      "consulate(s) general": {
+        "text": "Cape Town, Durban, Johannesburg"
+      }
+    },
+    "Flag description": {
+      "text": "two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the \"convergence of diverse elements within South African society, taking the road ahead in unity\"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era",
+      "note": "the South African flag is the only national flag to display six colors as part of its primary design"
+    },
+    "National symbol(s)": {
+      "text": "springbok antelope"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"National Anthem of South Africa\""
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers"
+      },
+      "note": "adopted 1994; the anthem is a combination of \"N'kosi Sikelel' iAfrica\" (God Bless Africa) and \"Die Stem van Suid Afrika\" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; the official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English; the music incorporates the melody used in the Tanzanian and Zambian anthems"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "South Africa is a middle-income, emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; a stock exchange that is the 18th largest in the world; and modern infrastructure supporting a relatively efficient distribution of goods to major urban centers throughout the region. At the end of 2007, South Africa began to experience an electricity crisis. State power supplier Eskom encountered problems with aged plants, necessitating \"load-shedding\" cuts to residents and businesses in the major cities. Growth was robust from 2004 to 2007 as South Africa reaped the benefits of macroeconomic stability and a global commodities boom, but began to slow in the second half of 2007 due to the electricity crisis and the subsequent global financial crisis' impact on commodity prices and demand. GDP fell nearly 2% in 2009. Unemployment remains high and outdated infrastructure has constrained growth. Daunting economic problems remain from the apartheid era - especially poverty, lack of economic empowerment among the disadvantaged groups, and a shortage of public transportation. South Africa's former economic policy was fiscally conservative, focusing on controlling inflation, and attaining a budget surplus. The current government largely follows the same prudent policies, but must contend with the impact of the global crisis and is facing growing pressure from special interest groups to use state-owned enterprises to deliver basic services to low-income areas and to increase job growth. More than a quarter of South Africa's population currently receives social grants."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$518.5 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$357.3 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.6% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,600 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "2.5%"
+      },
+      "industry": {
+        "text": "30.8%"
+      },
+      "services": {
+        "text": "66.8% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "17.39 million economically active (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "9%"
+      },
+      "industry": {
+        "text": "26%"
+      },
+      "services": {
+        "text": "65% (2007 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "24% (2009 est.)"
+    },
+    "Population below poverty line": {
+      "text": "50% (2000 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.3%"
+      },
+      "highest 10%": {
+        "text": "44.7% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "59.3 (1994)"
+    },
+    "Investment (gross fixed)": {
+      "text": "19.6% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$93.92 billion"
+      },
+      "expenditures": {
+        "text": "$108.7 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26.3% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-4.1% of GDP (2010 est.)"
+    },
+    "Public debt": {
+      "text": "26.8% of GDP (2009 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.2% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "11.5% (31 December 2008)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "11.708% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$109.5 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$263.9 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$286.4 billion (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$491.3 billion (31 December 2008)"
+    },
+    "Agriculture - products": {
+      "text": "corn, wheat, sugarcane, fruits, vegetables; beef, poultry, mutton, wool, dairy products"
+    },
+    "Industries": {
+      "text": "mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "4.9% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "238.3 billion kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "212.2 billion kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "14.05 billion kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "1.757 billion kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "192,100 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "553,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "54,930 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "521,400 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "15 million bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "1.9 billion cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "5.4 billion cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "3.5 billion cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "27.16 million cu m (1 January 2006 est.)"
+    },
+    "Current account balance": {
+      "text": "-$11.33 billion (2009 est.)"
+    },
+    "Exports": {
+      "text": "$66.54 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "gold, diamonds, platinum, other metals and minerals, machinery and equipment"
+    },
+    "Exports - partners": {
+      "text": "China 13.7%, US 10.1%, Japan 8.7%, Germany 7.3%, UK 7.1%, India 4.3% (2010)"
+    },
+    "Imports": {
+      "text": "$66.01 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, chemicals, petroleum products, scientific instruments, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 13.4%, Germany 11.2%, US 7%, Saudi Arabia 5.3%, Japan 4.7%, Iran 4.3%, UK 4.3% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$39.68 billion (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$44.8 billion (31 December 2010 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$117.4 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$72.58 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "6.7649 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "4.225 million (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "50.372 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the system is the best developed and most modern in Africa"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity roughly 105 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria"
+      },
+      "international": {
+        "text": "country code - 27; the SAT-3/WASC and SAFE fiber optic cable systems connect South Africa to Europe and Asia; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are free-to-air and 1 is pay TV; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas (2007)"
+    },
+    "Internet country code": {
+      "text": ".za"
+    },
+    "Internet hosts": {
+      "text": "3.751 million (2010)"
+    },
+    "Internet users": {
+      "text": "4.42 million (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "578 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "147"
+      },
+      "over 3,047 m": {
+        "text": "11"
+      },
+      "2,438 to 3,047 m": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "53"
+      },
+      "914 to 1,523 m": {
+        "text": "67"
+      },
+      "under 914 m": {
+        "text": "10 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "431"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "32"
+      },
+      "914 to 1,523 m": {
+        "text": "261"
+      },
+      "under 914 m": {
+        "text": "137 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2010)"
+    },
+    "Pipelines": {
+      "text": "condensate 11 km; gas 908 km; oil 980 km; refined products 1,382 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "20,192 km"
+      },
+      "narrow gauge": {
+        "text": "19,756 km 1.065-m gauge (8,271 km electrified); 122 km 0.750-m gauge; 314 km 0.610-m gauge (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "362,099 km"
+      },
+      "paved": {
+        "text": "73,506 km (includes 239 km of expressways)"
+      },
+      "unpaved": {
+        "text": "288,593 km (2002)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "4"
+      },
+      "by type": {
+        "text": "container 1, petroleum tanker 3"
+      },
+      "foreign-owned": {
+        "text": "1 (Denmark 1)"
+      },
+      "registered in other countries": {
+        "text": "11 (Mexico 1, NZ 1, Seychelles 1, Singapore 3, UK 5) (2010)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "South African National Defense Force (SANDF)": {
+        "text": "South African Army, South African Navy (SAN), South African Air Force (SAAF), Joint Operations Command, Military Intelligence, South African Military Health Services (2009)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2007)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "13,439,781"
+      },
+      "females age 16-49": {
+        "text": "12,473,641 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "7,617,063"
+      },
+      "females age 16-49": {
+        "text": "6,476,264 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "482,122"
+      },
+      "female": {
+        "text": "485,017 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.7% of GDP (2006)"
+    },
+    "Military - note": {
+      "text": "with the end of apartheid and the establishment of majority rule, former military, black homelands forces, and ex-opposition forces were integrated into the South African National Defense Force (SANDF); as of 2003 the integration process was considered complete"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "South Africa has placed military along the border to apprehend the thousands of Zimbabweans fleeing economic dysfunction and political persecution; as of January 2007, South Africa also supports large numbers of refugees and asylum seekers from the Democratic Republic of the Congo (33,000), Somalia (20,000), Burundi (6,500), and other states in Africa (26,000); managed dispute with Namibia over the location of the boundary in the Orange River; in 2006, Swazi king advocates resort to ICJ to claim parts of Mpumalanga and KwaZulu-Natal from South Africa"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "10,772 (Democratic Republic of Congo); 7,818 (Somalia); 5,759 (Angola) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment center for heroin, hashish, and cocaine, as well as a major cultivator of marijuana in its own right; cocaine and heroin consumption on the rise; world's largest market for illicit methaqualone, usually imported illegally from India through various east African countries, but increasingly producing its own synthetic drugs for domestic consumption; attractive venue for money launderers given the increasing level of organized criminal and narcotics activity in the region and the size of the South African economy\r\n"
+    }
+  }
+}

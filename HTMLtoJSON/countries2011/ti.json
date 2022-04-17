@@ -1,0 +1,777 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Tajik people came under Russian rule in the 1860s and 1870s, but Russia's hold on Central Asia weakened following the Revolution of 1917. Bolshevik control of the area was fiercely contested and not fully reestablished until 1925. Much of present-day Sughd province was transferred from the Uzbek SSR to the newly formed Tajik SSR in 1929. Ethnic Uzbeks form a substantial minority in Tajikistan. Tajikistan became independent in 1991 following the breakup of the Soviet Union, and experienced a civil war between regional factions from 1992-97. Tajikistan experienced several security incidents in 2010, including a mass prison-break from a Dushanbe detention facility, the country's first suicide car bombing in Khujand, and armed conflict between government forces and opposition militants in the Rasht Valley. The country remains the poorest in the former Soviet sphere. Attention by the international community since the beginning of the NATO intervention in Afghanistan has brought increased economic development and security assistance, which could create jobs and strengthen stability in the long term. Tajikistan is seeking WTO membership and has joined NATO's Partnership for Peace."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Asia, west of China, south of Kyrgyzstan"
+    },
+    "Geographic coordinates": {
+      "text": "39 00 N, 71 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "143,100 sq km"
+      },
+      "land": {
+        "text": "141,510 sq km"
+      },
+      "water": {
+        "text": "2,590 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Wisconsin"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "3,651 km"
+      },
+      "border countries": {
+        "text": "Afghanistan 1,206 km, China 414 km, Kyrgyzstan 870 km, Uzbekistan 1,161 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "midlatitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains"
+    },
+    "Terrain": {
+      "text": "Pamir and Alay Mountains dominate landscape; western Fergana Valley in north, Kofarnihon and Vakhsh Valleys in southwest"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Syr Darya (Sirdaryo) 300 m"
+      },
+      "highest point": {
+        "text": "Qullai Ismoili Somoni (Pik Imeni Ismail Samani) 7,495 m"
+      }
+    },
+    "Natural resources": {
+      "text": "hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "6.52%"
+      },
+      "permanent crops": {
+        "text": "0.89%"
+      },
+      "other": {
+        "text": "92.59% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "7,220 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "99.7 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "11.96  cu km/yr (4%/5%/92%)"
+      },
+      "per capita": {
+        "text": "1,837  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "earthquakes; floods"
+    },
+    "Environment - current issues": {
+      "text": "inadequate sanitation facilities; increasing levels of soil salinity; industrial pollution; excessive pesticides"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; mountainous region dominated by the Trans-Alay Range in the north and the Pamirs in the southeast; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was the tallest mountain in the former USSR"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Tajikistani(s) "
+      },
+      "adjective": {
+        "text": "Tajikistani"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Tajik 79.9%, Uzbek 15.3%, Russian 1.1%, Kyrgyz 1.1%, other 2.6% (2000 census)"
+    },
+    "Languages": {
+      "text": "Tajik (official), Russian widely used in government and business"
+    },
+    "Religions": {
+      "text": "Sunni Muslim 85%, Shia Muslim 5%, other 10% (2003 est.)"
+    },
+    "Population": {
+      "text": "7,627,200 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "33.9% (male 1,316,623/female 1,270,899)"
+      },
+      "15-64 years": {
+        "text": "62.7% (male 2,368,554/female 2,413,982)"
+      },
+      "65 years and over": {
+        "text": "3.4% (male 108,896/female 148,246) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "22.6 years"
+      },
+      "male": {
+        "text": "22.1 years"
+      },
+      "female": {
+        "text": "23.1 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.846% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "26.29 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "6.6 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-1.24 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "26% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "2.2% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "DUSHANBE (capital) 704,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.04 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.98 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.74 male(s)/female"
+      },
+      "total population": {
+        "text": "0.99 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "64 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "38.54 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "43.21 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "33.63 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "66.03 years"
+      },
+      "male": {
+        "text": "62.97 years"
+      },
+      "female": {
+        "text": "69.25 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "2.89 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "5.3% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "2.0128 physicians/1,000 population (2006)"
+    },
+    "Hospital bed density": {
+      "text": "5.41 beds/1,000 population (2008)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "6% of population"
+      },
+      "rural": {
+        "text": "39% of population"
+      },
+      "total": {
+        "text": "30% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "5% of population"
+      },
+      "rural": {
+        "text": "6% of population"
+      },
+      "total": {
+        "text": "6% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.2% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "9,100 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 500 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria (2009)"
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "14.9% (2005)"
+    },
+    "Education expenditures": {
+      "text": "3.5% of GDP (2008)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "99.5%"
+      },
+      "male": {
+        "text": "99.7%"
+      },
+      "female": {
+        "text": "99.2% (2000 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "11 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "10 years (2008)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Tajikistan "
+      },
+      "conventional short form": {
+        "text": "Tajikistan"
+      },
+      "local long form": {
+        "text": "Jumhurii Tojikiston"
+      },
+      "local short form": {
+        "text": "Tojikiston"
+      },
+      "former": {
+        "text": "Tajik Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Dushanbe"
+      },
+      "geographic coordinates": {
+        "text": "38 35 N, 68 48 E"
+      },
+      "time difference": {
+        "text": "UTC+5 (10 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "2 provinces (viloyatho, singular - viloyat) and 1 autonomous province* (viloyati mukhtor); Viloyati Khatlon (Qurghonteppa), Viloyati Mukhtori Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Viloyati Sughd (Khujand); the rest of the country consists of \"districts under republican subordination,\" ruled directly from Dushanbe",
+      "note": "the administrative center name follows in parentheses"
+    },
+    "note": "adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics",
+    "Independence": {
+      "text": "9 September 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day (or National Day), 9 September (1991)"
+    },
+    "Constitution": {
+      "text": "6 November 1994"
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)"
+      },
+      "head of government": {
+        "text": "Prime Minister Oqil OQILOV (since 20 January 1999)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president, approved by the Supreme Assembly"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a seven-year term (eligible for a second term); election last held on 6 November 2006 (next to be held in November 2013); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Emomali RAHMON reelected president; percent of vote - Emomali RAHMON 79.3%, Olimjon BOBOEV 6.2%, other 14.5%"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Supreme Assembly or Majlisi Oli consists of the National Assembly (upper chamber) or Majlisi Milli (34 seats; 25 members selected by local deputies, 8 appointed by the president; 1 seat reserved for the former president; members serve five-year terms) and the Assembly of Representatives (lower chamber) or Majlisi Namoyandagon (63 seats; members elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "National Assembly - last held on 28 February 2010 (next to be held in February 2015); Assembly of Representatives - last held on 28 February 2010 (next to be held in February 2015)"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - NA; seats by party - NA; Assembly of Representatives - percent of vote by party - PDPT 71%, Islamic Revival Party 8.2%, CPT 7%, APT 5.1%, PER 5.1%, other 3.6%; seats by party - PDPT 55, Islamic Revival Party 2, CPT 2, APT 2, PER 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges are appointed by the president)"
+    },
+    "Political parties and leaders": {
+      "text": "Agrarian Party of Tajikistan or APT [Amir QARAQULOV]; Democratic Party or DPT [Mahmadruzi ISKANDAROV (imprisoned October 2005); Rahmatullo VALIYEV, deputy]; Islamic Revival Party [Muhiddin KABIRI]; Party of Economic Reform or PER [Olimjon BOBOEV]; People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]; Social Democratic Party or SDPT [Rahmatullo ZOYIROV]; Socialist Party or SPT [Mirhuseyn NARZIEV]; Tajik Communist Party or CPT [Shodi SHABDOLOV]",
+      "note": "for the DPT, the Ministry of Justice named a new chairman, Masud SOBIROV, in 2006; Mr. ISKANDAROV's supporters do not recognize Mr. SOBIROV; for the SPT, the Ministry of Justice named a new chairman, Abduhalim GHAFAROV, in 2004; Mr. NARZIEV's supporters do not recognize Mr. GHAFAROV"
+    },
+    "Political pressure groups and leaders": {
+      "splinter parties recognized by the government but not by the base of the party": {
+        "text": "Democratic Party or DPT [Masud SOBIROV] (splintered from ISKANDAROV's DPT); Socialist Party or SPT [Abduhalim GHAFFOROV] (splintered from NARZIEV's SPT)"
+      },
+      "unregistered political parties": {
+        "text": "Progressive Party [Sulton QUVVATOV]; Unity Party [Hikmatullo SAIDOV]"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer)"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Abdujabbor SHIRINOV"
+      },
+      "chancery": {
+        "text": "1005 New Hampshire Avenue NW, Washington, DC 20037"
+      },
+      "telephone": {
+        "text": "[1] (202) 223-6090"
+      },
+      "FAX": {
+        "text": "[1] (202) 223-6091"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Kenneth GROSS"
+      },
+      "embassy": {
+        "text": "109-A Ismoili Somoni Avenue, Dushanbe 734019"
+      },
+      "mailing address": {
+        "text": "7090 Dushanbe Place, Dulles, VA 20189"
+      },
+      "telephone": {
+        "text": "[992] (37) 229-20-00"
+      },
+      "FAX": {
+        "text": "[992] (37) 229-20-50"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number \"seven\" - a symbol of perfection and the embodiment of happiness"
+    },
+    "National symbol(s)": {
+      "text": "crown surmounted by seven, five-pointed stars"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Surudi milli\" (National Anthem)"
+      },
+      "text": "",
+      "lyrics/music": {
+        "text": "Gulnazar KELDI/Suleiman YUDAKOV"
+      },
+      "note": "adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Tajikistan has one of the lowest per capita GDPs among the 15 former Soviet republics. Because of a lack of employment opportunities in Tajikistan, as many as a million Tajik citizens work abroad, almost all of them in Russia, supporting families in Tajikistan through remittances. Less than 7% of the land area is arable. Cotton is the most important crop, and its production is closely monitored, and in many cases controlled, by the government. In the wake of the National Bank of Tajikistan's admission in December 2007 that it had improperly lent money to investors in the cotton sector, the IMF canceled its program in Tajikistan. A reform agenda is underway, according to which over half a billion dollars in farmer debt is being forgiven, and IMF assistance has been reinstated. Mineral resources include silver, gold, uranium, and tungsten. Industry consists only of a large aluminum plant, hydropower facilities, and small obsolete factories mostly in light industry and food processing. The civil war (1992-97) severely damaged the already weak economic infrastructure and caused a sharp decline in industrial and agricultural production. Tajikistan's economic situation remains fragile due to uneven implementation of structural reforms, corruption, weak governance, seasonal power shortages, and the external debt burden. A debt restructuring agreement was reached with Russia in December 2002, including a $250 million write-off of Tajikistan's $300 million debt. Electricity output expanded with the completion of the Sangtuda I hydropower dam - finished in 2009 with Russian investment. The smaller Sangtuda-2, built with Iranian investment, is scheduled for completion in 2012. The government of Tajikistan is pinning major hopes on the massive Roghun dam which, if finished according to Tajik plans, will be the tallest dam in the world. The World Bank has agreed to fund technical, economic, social, and environmental feasibility studies for the dam. Favorable reports from these studies could create investor interest in the project, which is currently moving forward with domestic funding. In January 2010, the government began selling shares in the Roghun enterprise to its population, ultimately raising over $180 million. According to numerous reports, many Tajik individuals and businesses were forced to buy shares. The coerced share sales finally ended in mid-2010 under intense criticism from donors, particularly the IMF. Tajikistan has received substantial infrastructure development loans from the Chinese government to improve roads and electricity transmission. To help increase north-south trade, the US funded a $36 million bridge which opened in August 2007 linking Tajikistan with Afghanistan. While Tajikistan has experienced steady economic growth since 1997, more than half of the population continues to live in poverty. Economic growth reached 10.6% in 2004, but dropped below 8% in 2005-08, as the effects of higher oil prices and then the international financial crisis began to register - mainly in the form of lower prices for key export commodities and lower remittances from Tajiks working abroad."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$13.32 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "official rates; actual unemployment is much higher",
+    "GDP (official exchange rate)": {
+      "text": "$5.642 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.9% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,800 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "19%"
+      },
+      "industry": {
+        "text": "22.9%"
+      },
+      "services": {
+        "text": "58.1% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.1 million (2009)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "49.8%"
+      },
+      "industry": {
+        "text": "12.8%"
+      },
+      "services": {
+        "text": "37.4% (2009 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "2.3% (2008 est.)",
+      "note": "official rates; actual unemployment is much higher"
+    },
+    "Population below poverty line": {
+      "text": "53% (2009 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.3%"
+      },
+      "highest 10%": {
+        "text": "25.6% (2007 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.7 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "20.6% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.496 billion"
+      },
+      "expenditures": {
+        "text": "$1.473 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26.5% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.4% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.4% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "8% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "25.88% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$675.1 million (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$924.7 million (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$709.2 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "cotton, grain, fruits, grapes, vegetables; cattle, sheep, goats"
+    },
+    "Industries": {
+      "text": "aluminum, cement, vegetable oil"
+    },
+    "Industrial production growth rate": {
+      "text": "7.5% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "16.1 billion kWh (2009 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "16.7 billion kWh (2009)"
+    },
+    "Electricity - exports": {
+      "text": "4.421 billion kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "338.5 million kWh (2010 est.)"
+    },
+    "Oil - production": {
+      "text": "220 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "40,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "405.4 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "39,400 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "12 million bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "38 million cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "227 million cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "189 million cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "5.663 billion cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$179.9 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$1.038 billion (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "aluminum, electricity, cotton, fruits, vegetable oil, textiles"
+    },
+    "Exports - partners": {
+      "text": "Turkey 28.4%, Russia 14.4%, Uzbekistan 10%, Iran 6.2%, China 5.6%, Norway 4.5% (2010)"
+    },
+    "Imports": {
+      "text": "$2.77 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, aluminum oxide, machinery and equipment, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 35.3%, Russia 23.5%, Kazakhstan 8.3% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$469.1 million (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.762 billion (31 December 2009 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$93.05 billion (31 December 2008 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$16.3 billion (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "3.3 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "367,700 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "5.941 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "foreign investment in the telephone system has resulted in major improvements; conversion of the existing fixed network from analogue to digital more than 90% complete by 2009"
+      },
+      "domestic": {
+        "text": "fixed line availability has not changed significantly since 1998 while mobile cellular subscribership, aided by competition among multiple operators, has expanded rapidly; coverage now extends to all major cities and towns"
+      },
+      "international": {
+        "text": "country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); satellite earth stations - 3 (2 Intelsat and 1 Orbita) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run television broadcaster transmits nationally on 4 stations and regionally on 4 stations; 11 independent TV stations broadcast locally and regionally; some households are able to receive Russian and other foreign stations via cable and satellite; state-run radio broadcaster operates Radio Tajikistan, Voice of Dushanbe, and several regional stations; a small number of independent radio stations also broadcast (2010)"
+    },
+    "Internet country code": {
+      "text": ".tj"
+    },
+    "Internet hosts": {
+      "text": "1,504 (2010)"
+    },
+    "Internet users": {
+      "text": "700,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "26 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "17"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "4"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "3 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "9"
+      },
+      "1,524 to 2,437": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "7 (2010)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 549 km; oil 38 km (2010)"
+    },
+    "Railways": {
+      "total": {
+        "text": "680 km"
+      },
+      "broad gauge": {
+        "text": "680 km 1.520-m gauge (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "27,767 km (2000)"
+      }
+    },
+    "Waterways": {
+      "text": "200 km (along Vakhsh River) (2010)"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Ground Forces, Air and Air Defense Forces, Mobile Forces (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for compulsory military service; 2-year conscript service obligation (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,012,790"
+      },
+      "females age 16-49": {
+        "text": "2,020,618 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,490,267"
+      },
+      "females age 16-49": {
+        "text": "1,675,083 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "76,430"
+      },
+      "female": {
+        "text": "74,038 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "1.5% of GDP (2010)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; talks continue with Uzbekistan to delimit border and remove minefields; disputes in Isfara Valley delay delimitation with Kyrgyzstan"
+    },
+    "Illicit drugs": {
+      "text": "major transit country for Afghan narcotics bound for Russian and, to a lesser extent, Western European markets; limited illicit cultivation of opium poppy for domestic consumption; Tajikistan seizes roughly 80% of all drugs captured in Central Asia and stands third worldwide in seizures of opiates (heroin and raw opium); significant consumer of opiates"
+    }
+  }
+}

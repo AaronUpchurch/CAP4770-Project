@@ -1,0 +1,779 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Burundi's first democratically elected president was assassinated in October 1993 after only 100 days in office, triggering widespread ethnic violence between Hutu and Tutsi factions. More than 200,000 Burundians perished during the conflict that spanned almost a dozen years. Hundreds of thousands of Burundians were internally displaced or became refugees in neighboring countries. An internationally brokered power-sharing agreement between the Tutsi-dominated government and the Hutu rebels in 2003 paved the way for a transition process that led to an integrated defense force, established a new constitution in 2005, and elected a majority Hutu government in 2005. The new government, led by President Pierre NKURUNZIZA, signed a South African brokered ceasefire with the country's last rebel group in September of 2006 but still faces many challenges."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Central Africa, east of Democratic Republic of the Congo"
+    },
+    "Geographic coordinates": {
+      "text": "3 30 S, 30 00 E"
+    },
+    "Map references": {},
+    "Africa": {},
+    "Area": {
+      "total": {
+        "text": "27,830 sq km"
+      },
+      "land": {
+        "text": "25,680 sq km"
+      },
+      "water": {
+        "text": "2,150 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Maryland"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "974 km"
+      },
+      "border countries": {
+        "text": "Democratic Republic of the Congo 233 km, Rwanda 290 km, Tanzania 451 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees centigrade but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)"
+    },
+    "Terrain": {
+      "text": "hilly and mountainous, dropping to a plateau in east, some plains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Lake Tanganyika 772 m"
+      },
+      "highest point": {
+        "text": "Heha 2,670 m"
+      }
+    },
+    "Natural resources": {
+      "text": "nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "35.57%"
+      },
+      "permanent crops": {
+        "text": "13.12%"
+      },
+      "other": {
+        "text": "51.31% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "230 sq km (2008)"
+    },
+    "Total renewable water resources": {
+      "text": "3.6 cu km (1987)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.29  cu km/yr (17%/6%/77%)"
+      },
+      "per capita": {
+        "text": "38  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "flooding; landslides; drought"
+    },
+    "Environment - current issues": {
+      "text": "soil erosion as a result of overgrazing and the expansion of agriculture into marginal lands; deforestation (little forested land remains because of uncontrolled cutting of trees for fuel); habitat loss threatens wildlife populations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Burundian(s) "
+      },
+      "adjective": {
+        "text": "Burundian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Hutu (Bantu) 85%, Tutsi (Hamitic) 14%, Twa (Pygmy) 1%, Europeans 3,000, South Asians 2,000"
+    },
+    "Languages": {
+      "text": "Kirundi (official), French (official), Swahili (along Lake Tanganyika and in the Bujumbura area)"
+    },
+    "Religions": {
+      "text": "Christian 67% (Roman Catholic 62%, Protestant 5%), indigenous beliefs 23%, Muslim 10%"
+    },
+    "Population": {
+      "text": "10,216,190 (July 2011 est.)",
+      "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected"
+    },
+    "note": "estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected",
+    "Age structure": {
+      "0-14 years": {
+        "text": "46% (male 2,360,214/female 2,335,541)"
+      },
+      "15-64 years": {
+        "text": "51.6% (male 2,598,011/female 2,669,376)"
+      },
+      "65 years and over": {
+        "text": "2.5% (male 101,207/female 151,841) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "16.9 years"
+      },
+      "male": {
+        "text": "16.6 years"
+      },
+      "female": {
+        "text": "17.2 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "3.462% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "41.01 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "9.61 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "3.22 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "11% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "4.9% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "BUJUMBURA (capital) 455,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.03 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.01 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.97 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.67 male(s)/female"
+      },
+      "total population": {
+        "text": "0.98 male(s)/female (2011 est.)"
+      }
+    },
+    "Maternal mortality rate": {
+      "text": "970 deaths/100,000 live births (2008)"
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "61.82 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "66.4 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "57.1 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "58.78 years"
+      },
+      "male": {
+        "text": "57.09 years"
+      },
+      "female": {
+        "text": "60.52 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "6.16 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "13.1% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.03 physicians/1,000 population (2004)"
+    },
+    "Hospital bed density": {
+      "text": "0.73 beds/1,000 population (2006)"
+    },
+    "Drinking water source": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "17% of population"
+      },
+      "rural": {
+        "text": "29% of population"
+      },
+      "total": {
+        "text": "28% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "Sanitation facility access": {
+      "improved": {
+        "text": ""
+      },
+      "urban": {
+        "text": "51% of population"
+      },
+      "rural": {
+        "text": "54% of population"
+      },
+      "total": {
+        "text": "54% of population (2008)"
+      },
+      "unimproved": {
+        "text": ""
+      }
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "3.3% (2009 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "180,000 (2009 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "15,000 (2009 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "very high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial and protozoal diarrhea, hepatitis A, and typhoid fever"
+      },
+      "vectorborne disease": {
+        "text": "malaria"
+      },
+      "water contact disease": {
+        "text": "schistosomiasis"
+      },
+      "animal contact disease": {
+        "text": "rabies (2009)"
+      }
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "38.9% (2000)"
+    },
+    "Education expenditures": {
+      "text": "8.3% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "59.3%"
+      },
+      "male": {
+        "text": "67.3%"
+      },
+      "female": {
+        "text": "52.2% (2000 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "10 years"
+      },
+      "male": {
+        "text": "9 years"
+      },
+      "female": {
+        "text": "7 years (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Burundi "
+      },
+      "conventional short form": {
+        "text": "Burundi"
+      },
+      "local long form": {
+        "text": "Republique du Burundi/Republika y'u Burundi"
+      },
+      "local short form": {
+        "text": "Burundi"
+      },
+      "former": {
+        "text": "Urundi"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bujumbura"
+      },
+      "geographic coordinates": {
+        "text": "3 22 S, 29 21 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "17 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rutana, Ruyigi"
+    },
+    "Independence": {
+      "text": "1 July 1962 (from UN trusteeship under Belgian administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 1 July (1962)"
+    },
+    "Constitution": {
+      "text": "ratified by popular referendum 28 February 2005"
+    },
+    "Legal system": {
+      "text": "mixed legal system of Belgian civil law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Pierre NKURUNZIZA - Hutu (since 26 August 2005); First Vice President Therence SINUNGURUZA - Tutsi (since 29 August 2010); Second Vice President Gervais RUFYIKIRI - Hutu (since 29 August 2010); note - the president is both the chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Pierre NKURUNZIZA - Hutu (since 26 August 2005); First Vice President Therence SINUNGURUZA - Tutsi (since 29 August 2010); Second Vice President Gervais RUFYIKIRI - Hutu (since 29 August 2010)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by president"
+      },
+      "elections": {
+        "text": "the president elected by popular vote for a five-year term (eligible for a second term); elections last held on 28 June 2010 (next to be held in 2015); vice presidents nominated by the president, endorsed by parliament"
+      },
+      "election results": {
+        "text": "Pierre NKURUNZIZA elected president by popular vote; Pierre NKURUNZIZA 91.6%, other 8.4%; note - opposition parties withdrew from the election due to alleged government interference in the electoral process"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral Parliament or Parlement, consists of a Senate (54 seats; 34 members elected by indirect vote to serve five-year terms, with remaining seats assigned to ethnic groups and former chiefs of state) and a National Assembly or Assemblee Nationale (minimum 100 seats, 60% Hutu and 40% Tutsi with at least 30% being women; additional seats appointed by a National Independent Electoral Commission to ensure ethnic representation; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 23 July 2010 (next to be held in 2015)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA%; seats by party - TBD; National Assembly - percent of vote by party - CNDD-FDD 81.2%, UPRONA 11.6%, FRODEBU 5.9%, others 1.3%; seats by party - CNDD-FDD 81, UPRONA 17, FRODEBU 5, other 3"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court or Cour Supreme; Constitutional Court; High Court of Justice (composed of the Supreme Court and the Constitutional Court)"
+    },
+    "Political parties and leaders": {
+      "governing parties": {
+        "text": "Burundi Democratic Front or FRODEBU [Leonce NGENDAKUMANA]; National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Jeremie NGENDAKUMANA]; Unity for National Progress or UPRONA [Bonaventure NIYOYANKANA]"
+      },
+      "note": "a multiparty system was introduced after 1998, included are"
+    },
+    "note": "adopted 1962",
+    "Political pressure groups and leaders": {
+      "text": "Forum for the Strengthening of Civil Society or FORSC [Pacifique NININAHAZWE] (civil society umbrella organization); Observatoire de lutte contre la corruption et les malversations economiques or OLUCOME [Gabriel RUFYIRI] (anti-corruption pressure group)",
+      "other": {
+        "text": "Hutu and Tutsi militias (loosely organized)"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CEPGL, COMESA, EAC, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (subscriber), ITU, ITUC, MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Angele NIYUHIRE"
+      },
+      "chancery": {
+        "text": "Suite 212, 2233 Wisconsin Avenue NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 342-2574"
+      },
+      "FAX": {
+        "text": "[1] (202) 342-2578"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Pamela J. H. SLUTZ"
+      },
+      "embassy": {
+        "text": "Avenue des Etats-Unis, Bujumbura"
+      },
+      "mailing address": {
+        "text": "B. P. 1720, Bujumbura"
+      },
+      "telephone": {
+        "text": "[257] 223454"
+      },
+      "FAX": {
+        "text": "[257] 222926"
+      }
+    },
+    "Flag description": {
+      "divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups": {
+        "text": "Hutu, Twa, Tutsi, as well as the three elements in the national motto"
+      }
+    },
+    "National symbol(s)": {
+      "text": "lion"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Burundi Bwacu\" (Our Beloved Burundi)"
+      },
+      "lyrics/music": {
+        "text": "Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO"
+      },
+      "note": "adopted 1962"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. The economy is predominantly agricultural which accounts for just over 30% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for 90% of foreign exchange earnings, though exports are a relatively small share of GDP. Burundi's export earnings - and its ability to pay for imports - rests primarily on weather conditions and international coffee and tea prices. The Tutsi minority, 14% of the population, dominates the coffee trade. An ethnic-based war that lasted for over a decade resulted in more than 200,000 deaths, forced more than 48,000 refugees into Tanzania, and displaced 140,000 others internally. Only one in two children go to school, and approximately one in 15 adults has HIV/AIDS. Food, medicine, and electricity remain in short supply. Less than 2% of the population has electricity in its homes. Burundi's GDP grew around 4% annually in 2006-10. Political stability and the end of the civil war have improved aid flows and economic activity has increased, but underlying weaknesses - a high poverty rate, poor education rates, a weak legal system, a poor transportation network, overburdened utilities, and low administrative capacity - risk undermining planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept up with inflation. Burundi will continue to remain heavily dependent on aid from bilateral and multilateral donors; the delay of funds after a corruption scandal cut off bilateral aid in 2007 reduced government's revenues and its ability to pay salaries. Burundi joined the East African Community, which should boost Burundi's regional trade ties, and received $700 million in debt relief in 2009. Government corruption is also hindering the development of a healthy private sector as companies seek to navigate an environment with ever-changing rules."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.161 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$1.489 billion (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.5% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$300 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "31.6%"
+      },
+      "industry": {
+        "text": "21.4%"
+      },
+      "services": {
+        "text": "47% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "4.245 million (2007)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "93.6%"
+      },
+      "industry": {
+        "text": "2.3%"
+      },
+      "services": {
+        "text": "4.1% (2002 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "68% (2002 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "4.1%"
+      },
+      "highest 10%": {
+        "text": "28% (2006)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "42.4 (1998)"
+    },
+    "Investment (gross fixed)": {
+      "text": "31.3% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$424.4 million"
+      },
+      "expenditures": {
+        "text": "$525.4 million (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "28.5% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.8% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "11% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "14.076% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$293.5 million (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$527.4 million (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$415.1 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "coffee, cotton, tea, corn, sorghum, sweet potatoes, bananas, manioc (tapioca); beef, milk, hides"
+    },
+    "Industries": {
+      "text": "light consumer goods such as blankets, shoes, soap; assembly of imported components; public works construction; food processing"
+    },
+    "Industrial production growth rate": {
+      "text": "7% (2010 est.)"
+    },
+    "Electricity - production": {
+      "text": "208 million kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "273.4 million kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "80 million kWh; note - supplied by the Democratic Republic of the Congo (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "3,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "2,450 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "$130.1 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$68.2 million (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "coffee, tea, sugar, cotton, hides"
+    },
+    "Exports - partners": {
+      "text": "Germany 27.5%, Pakistan 10.3%, Belgium 5.7%, Rwanda 5%, US 4.2%, China 4.1% (2010)"
+    },
+    "Imports": {
+      "text": "$335 million (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "capital goods, petroleum products, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "Saudi Arabia 15.8%, Uganda 7.8%, Belgium 7.6%, China 7.5%, Kenya 6.9%, Zambia 6.4%, France 4.2% (2010)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$323.1 million (31 December 2009 est.)"
+    },
+    "Debt - external": {
+      "text": "$1.2 billion (2003)"
+    },
+    "Exchange rates": {
+      "text": "1,030 (2006)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "32,600 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.15 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "sparse system of open-wire, radiotelephone communications, and low-capacity microwave radio relays"
+      },
+      "domestic": {
+        "text": "telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage is increasing but remains at roughly 10 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 257; satellite earth station - 1 Intelsat (Indian Ocean) (2009)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-controlled La Radiodiffusion et Television Nationale de Burundi (RTNB) operates the lone TV broadcast station and the only national radio network; about 10 privately-owned radio broadcast stations; transmissions of several international broadcasters are available in Bujumbura (2007)"
+    },
+    "Internet country code": {
+      "text": ".bi"
+    },
+    "Internet hosts": {
+      "text": "201 (2010)"
+    },
+    "Internet users": {
+      "text": "157,800 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "8 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "3 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2010)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "12,322 km"
+      },
+      "paved": {
+        "text": "1,286 km"
+      },
+      "unpaved": {
+        "text": "11,036 km (2004)"
+      }
+    },
+    "Waterways": {
+      "text": "(mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of Congo) (2010)"
+    },
+    "Ports and terminals": {
+      "text": "Bujumbura"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "National Defense Forces (Forces de Defense Nationale, FDN)": {
+        "text": "Army (includes naval detachment, Air Wing, and Coast Guard), National Gendarmerie (2011)"
+      }
+    },
+    "Military service age and obligation": {
+      "text": "military service is voluntary; the armed forces law of 31 December 2004 does not specify a minimum age for enlistment, but the government claims that no one younger than 18 is being recruited; mandatory retirement age 45 (enlisted), 50 (NCOs), and 55 (officers) (2011)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "2,182,327"
+      },
+      "females age 16-49": {
+        "text": "2,202,125 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "1,398,769"
+      },
+      "females age 16-49": {
+        "text": "1,481,417 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "117,956"
+      },
+      "female": {
+        "text": "116,956 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "5.9% of GDP (2006 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces persist in the Great Lakes region"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "9,849 (Democratic Republic of the Congo)"
+      },
+      "IDPs": {
+        "text": "100,000 (armed conflict between government and rebels; most IDPs in northern and western Burundi) (2007)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Burundi is a source country for children and possibly women subjected to forced begging and labor and sex trafficking; male tourists from the Middle East, particularly Lebanon, exploit Burundian girls in prostitution; Burundian girls are forced into prostitution in Rwanda, Kenya, Tanzania, and Uganda"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - the government continued its efforts to identify trafficking victims, investigate potential trafficking offenses, and raise public awareness; despite these efforts, the government did not demonstrate overall increased efforts to address human trafficking over the previous year, particularly in prosecution and protection (2011)"
+      }
+    }
+  }
+}

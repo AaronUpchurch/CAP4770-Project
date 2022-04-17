@@ -1,0 +1,740 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The region of present-day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D. and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR until the Soviet Union dissolved in 1991. An attempt by the incumbent Georgian government to manipulate national legislative elections in November 2003 touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. New elections in early 2004 swept Mikheil SAAKASHVILI into power along with his National Movement party. Progress on market reforms and democratization has been made in the years since independence, but this progress has been complicated by Russian assistance and support to the breakaway regions of Abkhazia and South Ossetia. After a series of Russian and separatist provocations in summer 2008, Georgian military action in South Ossetia in early August led to a Russian military response that not only occupied the breakaway areas, but large portions of Georgia proper as well. Russian troops pulled back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia. This action was strongly condemned by most of the world's nations and international organizations."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southwestern Asia, bordering the Black Sea, between Turkey and Russia"
+    },
+    "Geographic coordinates": {
+      "text": "42 00 N, 43 30 E"
+    },
+    "Map references": {},
+    "Middle East": {},
+    "Area": {
+      "total": {
+        "text": "69,700 sq km"
+      },
+      "land": {
+        "text": "69,700 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Carolina"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,461 km"
+      },
+      "border countries": {
+        "text": "Armenia 164 km, Azerbaijan 322 km, Russia 723 km, Turkey 252 km"
+      }
+    },
+    "Coastline": {
+      "text": "310 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "warm and pleasant; Mediterranean-like on Black Sea coast"
+    },
+    "Terrain": {
+      "text": "largely mountainous with Great Caucasus Mountains in the north and Lesser Caucasus Mountains in the south; Kolkhet'is Dablobi (Kolkhida Lowland) opens to the Black Sea in the west; Mtkvari River Basin in the east; good soils in river valley flood plains, foothills of Kolkhida Lowland"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Black Sea 0 m"
+      },
+      "highest point": {
+        "text": "Mt'a Shkhara 5,201 m"
+      }
+    },
+    "Natural resources": {
+      "text": "forests, hydropower, manganese deposits, iron ore, copper, minor coal and oil deposits; coastal climate and soils allow for important tea and citrus growth"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "11.51%"
+      },
+      "permanent crops": {
+        "text": "3.79%"
+      },
+      "other": {
+        "text": "84.7% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "4,690 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "63.3 cu km (1997)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "3.61  cu km/yr (20%/21%/59%)"
+      },
+      "per capita": {
+        "text": "808  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "earthquakes"
+    },
+    "Environment - current issues": {
+      "text": "air pollution, particularly in Rust'avi; heavy pollution of Mtkvari River and the Black Sea; inadequate supplies of potable water; soil pollution from toxic chemicals"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "strategically located east of the Black Sea; Georgia controls much of the Caucasus Mountains and the routes through them"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "4,615,807 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "16.1% (male 395,929/female 345,071)"
+      },
+      "15-64 years": {
+        "text": "67.6% (male 1,503,360/female 1,616,234)"
+      },
+      "65 years and over": {
+        "text": "16.4% (male 302,103/female 453,110) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "38.6 years"
+      },
+      "male": {
+        "text": "36.1 years"
+      },
+      "female": {
+        "text": "41 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.325% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "10.66 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "9.65 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-4.26 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "53% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "-0.6% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.13 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.15 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.93 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.67 male(s)/female"
+      },
+      "total population": {
+        "text": "0.91 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "16.22 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "18.21 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "13.97 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "76.72 years"
+      },
+      "male": {
+        "text": "73.41 years"
+      },
+      "female": {
+        "text": "80.45 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.44 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "less than 0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "2,700 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "fewer than 200 (2003 est.)"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Georgian(s)"
+      },
+      "adjective": {
+        "text": "Georgian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Georgian 83.8%, Azeri 6.5%, Armenian 5.7%, Russian 1.5%, other 2.5% (2002 census)"
+    },
+    "Religions": {
+      "text": "Orthodox Christian 83.9%, Muslim 9.9%, Armenian-Gregorian 3.9%, Catholic 0.8%, other 0.8%, none 0.7% (2002 census)"
+    },
+    "Languages": {
+      "text": "Georgian 71% (official), Russian 9%, Armenian 7%, Azeri 6%, other 7%",
+      "note": "Abkhaz is the official language in Abkhazia"
+    },
+    "note": "Abkhaz is the official language in Abkhazia",
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "100%"
+      },
+      "male": {
+        "text": "100%"
+      },
+      "female": {
+        "text": "100% (2004 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "12 years"
+      },
+      "male": {
+        "text": "12 years"
+      },
+      "female": {
+        "text": "13 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "3.1% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Georgia"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Sak'art'velo"
+      },
+      "former": {
+        "text": "Georgian Soviet Socialist Republic"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "T'bilisi"
+      },
+      "geographic coordinates": {
+        "text": "41 43 N, 44 47 E"
+      },
+      "time difference": {
+        "text": "UTC+4 (9 hours ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 regions (mkharebi, singular - mkhare), 1 city (k'alak'i), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)",
+      "regions": {
+        "text": "Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta-Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli"
+      },
+      "city": {
+        "text": "Tbilisi"
+      },
+      "autonomous republics": {
+        "text": "Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)"
+      },
+      "note": "the administrative centers of the two autonomous republics are shown in parentheses"
+    },
+    "note": "the administrative centers of the two autonomous republics are shown in parentheses",
+    "Independence": {
+      "text": "9 April 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 May (1918); note - 26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union"
+    },
+    "Constitution": {
+      "text": "adopted 24 August 1995"
+    },
+    "Legal system": {
+      "text": "based on civil law system; accepts compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mikheil SAAKASHVILI (since 25 January 2004); the president is both the chief of state and head of government for the power ministries"
+      },
+      "head of government": {
+        "text": "President Mikheil SAAKASHVILI (since 25 January 2004); Prime Minister Nikoloz GILAURI (since 6 February 2009); the president is both the chief of state and head of government for the power ministries"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers"
+      },
+      "elections": {
+        "text": "president elected by popular vote for a five-year term (eligible for a second term); election last held 5 January 2008 (next to be held January 2013)"
+      },
+      "election results": {
+        "text": "Mikheil SAAKASHVILI reelected president; percent of vote - Mikheil SAAKASHVILI 53.5%, Levan GACHECHILADZE 25.7%, Badri PATARKATSISHVILI 7.1%"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Parliament or Parlamenti (also known as Supreme Council or Umaghlesi Sabcho) (150 seats; 75 members elected by proportional representation, 75 from single-seat constituencies; to serve five-year terms)",
+      "elections": {
+        "text": "last held 21 May 2008 (next to be held in spring 2012)"
+      },
+      "election results": {
+        "text": "percent of vote by party - United National Movement 59.2%, National Council-New Rights 17.7%, Christian Democratic Movement 8.8%, Labor Party 7.4%, Republican Party 3.8%; seats by party - United National Movement 120, National Council-New Rights 16, Christian Democratic Movement 6, Labor Party 6, Republican Party 2"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (judges elected by the Supreme Council on the president's or chairman of the Supreme Court's recommendation); Constitutional Court; first and second instance courts"
+    },
+    "Political parties and leaders": {
+      "text": "Christian Democratic Movement [Giorgi TARGAMADZE]; Democratic Movement United Georgia [Nino BURJANADZE]; Georgian People's Front [Nodar NATADZE]; Georgian United Communist Party or UCPG [Panteleimon GIORGADZE]; Georgia's Way Party [Salome ZOURABICHVILI]; Greens [Giorgi GACHECHILADZE]; Industry Will Save Georgia (Industrialists) or IWSG [Georgi TOPADZE]; Labor Party [Shalva NATELASHVILI]; National Council-New Rights (bloc forming joint opposition) [Levan GACHECHILADZE]; National Democratic Party or NDP [Bachuki KARDAVA]; United National Movement [Mikheil SAAKASHVILI]; New Rights [David GAMKRELIDZE]; Republican Party [David USUPASHVILI]; Socialist Party or SPG [Irakli MINDELI]; Traditionalists [Akaki ASATIANI]; Union of National Forces-Conservatives [Koba DAVITASHVILI and Zviad DZIDZIGURI]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "separatists in the breakaway regions of Abkhazia and South Ossetia"
+    },
+    "International organization participation": {
+      "text": "ACCT (observer), ADB, BSEC, CE, CIS, EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SECI (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Batu KUTELIA"
+      },
+      "chancery": {
+        "text": "2209 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 387-2390"
+      },
+      "FAX": {
+        "text": "[1] (202) 393-4537"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador John F. TEFFT"
+      },
+      "embassy": {
+        "text": "11 George Balanchine Street, T'bilisi 0131"
+      },
+      "mailing address": {
+        "text": "7060 T'bilisi Place, Washington, DC 20521-7060"
+      },
+      "telephone": {
+        "text": "[995] (32) 27-70-00"
+      },
+      "FAX": {
+        "text": "[995] (32) 53-23-10"
+      }
+    },
+    "Flag description": {
+      "text": "white rectangle, in its central portion a red cross connecting all four sides of the flag; in each of the four corners is a small red bolnur-katskhuri cross; the five-cross flag appears to date back to the 14th century"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Georgia's economy sustained GDP growth of close to 10% in 2006 and 12% in 2007, based on strong inflows of foreign investment and robust government spending. However, growth slowed to less than 3% in 2008 and is expected to slow further in 2009. Georgia's main economic activities include the cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese and copper; and output of a small industrial sector producing alcoholic and nonalcoholic beverages, metals, machinery, aircraft and chemicals. Areas of recent improvement include growth in the construction, banking services, and mining sectors, but reduced availability of external investment and the slowing regional economy are emerging risks. The country imports nearly all its needed supplies of natural gas and oil products. It has sizeable hydropower capacity, a growing component of its energy supplies. Georgia has overcome the chronic energy shortages of the past by renovating hydropower plants and by bringing in newly available supplies from Azerbaijan. It also has an increased ability to pay for more expensive gas imports from Russia. The construction on the Baku-T'bilisi-Ceyhan oil pipeline, the Baku-T'bilisi-Erzerum gas pipeline, and the Kars-Akhalkalaki Railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit point for gas, oil and other goods. Georgia has historically suffered from a chronic failure to collect tax revenues; however, the government has made great progress and has reformed the tax code, improved tax administration, increased tax enforcement, and cracked down on corruption since coming to power in 2004. Government revenues have increased nearly four fold since 2003. Due to improvements in customs and tax enforcement, smuggling is a declining problem. The country is pinning its hopes for long-term growth on a determined effort to reduce regulation, taxes, and corruption in order to attract foreign investment, but the economy faces a more difficult investment climate both domestically and internationally."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$18.81 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "this is the Refinancing Rate, the key monetary policy rate of the Georgian National Bank",
+    "GDP (official exchange rate)": {
+      "text": "$12.86 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "9.4% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$4,000 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "12.5%"
+      },
+      "industry": {
+        "text": "27.9%"
+      },
+      "services": {
+        "text": "59.6% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "2.317 million (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "55.6%"
+      },
+      "industry": {
+        "text": "8.9%"
+      },
+      "services": {
+        "text": "35.5% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "13.6% (2006 est.)"
+    },
+    "Population below poverty line": {
+      "text": "31% (2006)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.4%"
+      },
+      "highest 10%": {
+        "text": "27% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "37.1 (1996)"
+    },
+    "Investment (gross fixed)": {
+      "text": "22.5% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.596 billion"
+      },
+      "expenditures": {
+        "text": "$5.345 billion (2008 est.)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "9.3% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "NA% (31 December 2007)",
+      "note": "this is the Refinancing Rate, the key monetary policy rate of the Georgian National Bank"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "20.41% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.154 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$1.379 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$3.374 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$668.3 million (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "citrus, grapes, tea, hazelnuts, vegetables; livestock"
+    },
+    "Industries": {
+      "text": "steel, aircraft, machine tools, electrical appliances, mining (manganese and copper), chemicals, wood products, wine"
+    },
+    "Industrial production growth rate": {
+      "text": "-1% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "8.17 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "6.902 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "628 million kWh (2007 est.)"
+    },
+    "Electricity - imports": {
+      "text": "430 million kWh (2007 est.)"
+    },
+    "Oil - production": {
+      "text": "977.4 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "14,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "1,486 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "16,590 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "35 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "8 million cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "1.73 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "1.72 billion cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "8.495 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$2.119 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$2.088 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "scrap metal, wine, mineral water, ores, vehicles, fruits and nuts"
+    },
+    "Exports - partners": {
+      "text": "Turkey 16.9%, Azerbaijan 12.4%, Ukraine 8.5%, Canada 8.4%, Bulgaria 8.2%, Armenia 7.7%, US 7.1%, UK 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$4.984 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "fuels, vehicles, machinery and parts, grain and other foods, pharmaceuticals"
+    },
+    "Imports - partners": {
+      "text": "Turkey 14.9%, Ukraine 10.4%, Azerbaijan 9.6%, Germany 7.9%, Russia 6.8%, US 5.7%, China 4.7%, UAE 4.4% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.361 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$5.343 billion (31 December 2007)"
+    },
+    "Exchange rates": {
+      "text": "laris (GEL) per US dollar - 1.47 (2008 est.), 1.7 (2007), 1.78 (2006), 1.8127 (2005), 1.9167 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "618,000 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "2.755 million (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fixed-line telecommunications network has only limited coverage outside Tbilisi; long list of people waiting for fixed line connections; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country"
+      },
+      "domestic": {
+        "text": "cellular telephone networks now cover the entire country; mobile-cellular teledensity approaching 75 per 100 people; urban fixed-line telephone density is about 20 per 100 people; rural telephone density is about 4 per 100 people; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; nationwide pager service is available"
+      },
+      "international": {
+        "text": "country code - 995; the Georgia-Russia fiber optic submarine cable provides connectivity to Russia; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 7, FM 12, shortwave 4 (1998)"
+    },
+    "Television broadcast stations": {
+      "text": "12 (plus repeaters) (1998)"
+    },
+    "Internet country code": {
+      "text": ".ge"
+    },
+    "Internet hosts": {
+      "text": "104,243 (2009)"
+    },
+    "Internet users": {
+      "text": "1.024 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "22 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "18"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "4"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "2 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "3 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 1,591 km; oil 1,253 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,612 km"
+      },
+      "broad gauge": {
+        "text": "1,575 km 1.520-m gauge (1,575 electrified)"
+      },
+      "narrow gauge": {
+        "text": "37 km 0.912-m gauge (37 electrified) (2008)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "20,329 km"
+      },
+      "paved": {
+        "text": "7,854 km (includes 13 km of expressways)"
+      },
+      "unpaved": {
+        "text": "12,475 km (2006)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "191"
+      },
+      "by type": {
+        "text": "bulk carrier 18, cargo 148, carrier 2, chemical tanker 1, container 4, liquefied gas 1, passenger/cargo 2, petroleum tanker 4, refrigerated cargo 5, roll on/roll off 4, vehicle carrier 2"
+      },
+      "foreign-owned": {
+        "text": "153 (China 10, Cyprus 1, Egypt 12, Germany 2, Greece 5, Hong Kong 2, Israel 2, Lebanon 4, Monaco 4, Nigeria 1, Romania 16, Russia 12, Syria 49, Turkey 14, Ukraine 18, UAE 1) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Bat'umi, P'ot'i"
+    },
+    "Transportation - note": {
+      "text": "large parts of transportation network are in poor condition because of lack of maintenance and repair"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "Georgian Armed Forces": {
+        "text": "Land Forces, Air and Air Defense Forces"
+      },
+      "note": "naval forces have been incorporated into the coast guard (2009)"
+    },
+    "note": "naval forces have been incorporated into the coast guard (2009)",
+    "Military service age and obligation": {
+      "text": "18 to 34 years of age for compulsory and voluntary active duty military service; conscript service obligation - 18 months (2005)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "1,113,251"
+      },
+      "females age 16-49": {
+        "text": "1,168,021 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "908,282"
+      },
+      "females age 16-49": {
+        "text": "959,290 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "32,355"
+      },
+      "female": {
+        "text": "30,809 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "0.59% of GDP (2005 est.)"
+    },
+    "Military - note": {
+      "text": "a CIS peacekeeping force of Russian troops is deployed in the Abkhazia region of Georgia together with a UN military observer group; a Russian peacekeeping battalion is deployed in South Ossetia"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "Russia and Georgia agree on delimiting 80% of their common border, leaving certain small, strategic segments and the maritime boundary unresolved; OSCE observers monitor volatile areas such as the Pankisi Gorge in the Akhmeti region and the Argun Gorge in Abkhazia; UN Observer Mission in Georgia has maintained a peacekeeping force in Georgia since 1993; Meshkheti Turks scattered throughout the former Soviet Union seek to return to Georgia; boundary with Armenia remains undemarcated; ethnic Armenian groups in Javakheti region of Georgia seek greater autonomy from the Georgian government; Azerbaijan and Georgia continue to discuss the alignment of their boundary at certain crossing areas"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "1,100 (Russia)"
+      },
+      "IDPs": {
+        "text": "220,000-240,000 (displaced from Abkhazia and South Ossetia) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "limited cultivation of cannabis and opium poppy, mostly for domestic consumption; used as transshipment point for opiates via Central Asia to Western Europe and Russia"
+    }
+  }
+}

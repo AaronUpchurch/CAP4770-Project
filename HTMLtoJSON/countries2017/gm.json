@@ -1,0 +1,808 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "As Europe's largest economy and second most populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating World Wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, the EC, which became the EU, and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German reunification in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Federal Republic of Germany"
+      },
+      "conventional short form": {
+        "text": "Germany"
+      },
+      "local long form": {
+        "text": "Bundesrepublik Deutschland"
+      },
+      "local short form": {
+        "text": "Deutschland"
+      },
+      "former": {
+        "text": "German Empire, German Republic, German Reich"
+      },
+      "etymology": {
+        "text": "the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as \"Germani,\" a term the Romans adopted as \"Germania\"; the native designation \"Deutsch\" comes from the Old High German \"diutisc\" meaning \"of the people\""
+      }
+    },
+    "Government type": {
+      "text": "federal parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Berlin"
+      },
+      "geographic coordinates": {
+        "text": "52 31 N, 13 24 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Hamburg prides itself on being a Free and Hanseatic City (Freie und Hansestadt)"
+    },
+    "Independence": {
+      "text": "18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990; all four powers formally relinquished rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)"
+    },
+    "National holiday": {
+      "text": "Unity Day, 3 October (1990)"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1919 (Weimar Constitution); latest drafted 10 to 23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949"
+      },
+      "amendments": {
+        "text": "proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2012 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil law system"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years"
+      },
+      "dual citizenship recognized": {
+        "text": "yes, but requires prior permission from government"
+      },
+      "residency requirement for naturalization": {
+        "text": "8 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal; age 16 for some state and municipal elections"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Frank-Walter STEINMEIER (since 19 March 2017; inaugurated 22 March 2017)"
+      },
+      "head of government": {
+        "text": "Chancellor Angela MERKEL (since 22 November 2005)"
+      },
+      "cabinet": {
+        "text": "Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected for a 5-year term (eligible for a second term) by a Federal Convention consisting of the 630-member Federal Parliament (Bundestag) and 630 delegates indirectly elected by the state parliaments; election last held on 12 February 2017 (next to be held February 2022); chancellor indirectly elected by absolute majority by the Federal Parliament for a 4-year term; Federal Parliament vote for chancellor last held on 17 December 2013 (next to be held following the general election, 24 September 2017)"
+      },
+      "election results": {
+        "text": "Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 462 for, 150 against, 49 abstentions"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlament consists of the Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments) and the Federal Diet or Bundestag (631 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "Bundestag - last held on 24 September 2017 (next to be held in 2021); most postwar German governments have been coalitions; note - there are no elections for the Bundesrat; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election"
+      },
+      "election results": {
+        "text": "Bundestag - percent of vote by party - CDU/CSU 32.9%, SPD 20.5%, AfD 12.6%, FDP 10.8%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 153, FDP 80, The Left 69, Alliance '90/Greens 67"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Federal Court of Justice (court consists of 127 judges including the court president, vice-presidents, presiding judges, and other judges, and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels; Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated States and 16 members appointed by the Federal Parliament; judges appointed by the president of Germany; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68"
+      },
+      "subordinate courts": {
+        "text": "Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 German states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Civil Movements of Brandenburg/Free Voters [Peter VIDA]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "trade unions; religious, immigrant, expellee, and veterans groups"
+    },
+    "International organization participation": {
+      "text": "ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMISS, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Hans Peter WITTIG (since 21 May 2014)"
+      },
+      "chancery": {
+        "text": "4645 Reservoir Road NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 298-4000"
+      },
+      "FAX": {
+        "text": "[1] (202) 298-4249"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Kent LOGSDON (since 20 January 2017)"
+      },
+      "embassy": {
+        "text": "Pariser Platz 2"
+      },
+      "mailing address": {
+        "text": "Clayallee 170, 14191 Berlin"
+      },
+      "telephone": {
+        "text": "[49] (30) 8305-0"
+      },
+      "FAX": {
+        "text": "[49] (30) 8305-1215"
+      },
+      "consulate(s) general": {
+        "text": "Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field"
+    },
+    "National symbol(s)": {
+      "text": "golden eagle; national colors: black, red, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Das Lied der Deutschen\" (Song of the Germans)"
+      },
+      "lyrics/music": {
+        "text": "August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN"
+      },
+      "note": {
+        "text": "adopted 1922; the anthem, also known as \"Deutschlandlied\" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, \"Deutschland, Deutschland ueber alles\" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "The German economy suffers from low levels of investment, and a government plan to invest 15 billion euros during 2016-18, largely in infrastructure, is intended to spur needed private investment. Following the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country's 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany plans to replace nuclear power largely with renewable energy, which accounted for 29.5% of gross electricity consumption in 2016, up from 9% in 2000. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production. Domestic consumption, bolstered by low energy prices and a weak euro, and exports are likely to drive German GDP growth again in 2017."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$3.776 trillion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$3.479 trillion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$47,700 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Gross national saving": {
+      "text": "27% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "53.7%"
+      },
+      "government consumption": {
+        "text": "19.7%"
+      },
+      "investment in fixed capital": {
+        "text": "19.9%"
+      },
+      "investment in inventories": {
+        "text": "-0.8%"
+      },
+      "exports of goods and services": {
+        "text": "45.9%"
+      },
+      "imports of goods and services": {
+        "text": "-38.4% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "0.6%"
+      },
+      "industry": {
+        "text": "30.3%"
+      },
+      "services": {
+        "text": "69.1%"
+      },
+      "text": " (2016 est.)"
+    },
+    "Agriculture - products": {
+      "text": "potatoes, wheat, barley, sugar beets, fruit, cabbages; milk products; cattle, pigs, poultry"
+    },
+    "Industries": {
+      "text": "among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "1.3% (2016 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Labor force": {
+      "text": "45.42 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1.4%"
+      },
+      "industry": {
+        "text": "24.2%"
+      },
+      "services": {
+        "text": "74.3% (2016)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.6% (2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Population below poverty line": {
+      "text": "16.7% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.6%"
+      },
+      "highest 10%": {
+        "text": "24% (2000)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "30 (1994)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.562 trillion"
+      },
+      "expenditures": {
+        "text": "$1.536 trillion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "45.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0.8% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Public debt": {
+      "text": "71.2% of GDP (2015 est.)",
+      "note": {
+        "text": "general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95)"
+      },
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.3% (31 December 2010)",
+      "note": {
+        "text": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+      },
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "1.84% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "181"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.923 trillion (31 December 2015 est.)",
+      "note": {
+        "text": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+      },
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$4.451 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$4.452 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.936 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Current account balance": {
+      "text": "$288.2 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Exports": {
+      "text": "$1.308 trillion (2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Exports - commodities": {
+      "text": "motor vehicles, machinery, chemicals, computer and electronic products, electrical equipment, pharmaceuticals, metals, transport equipment, foodstuffs, textiles, rubber and plastic products"
+    },
+    "Exports - partners": {
+      "text": "US 8.9%, France 8.4%, UK 7.1%, Netherlands 6.5%, China 6.4%, Italy 5.1%, Austria 5%, Poland 4.5%, Switzerland 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$1.018 trillion (2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, data processing equipment, vehicles, chemicals, oil and gas, metals, electric equipment, pharmaceuticals, foodstuffs, agricultural products"
+    },
+    "Imports - partners": {
+      "text": "Netherlands 13.3%, China 7.3%, France 7.3%, Belgium 6.1%, Italy 5.5%, Poland 5.2%, Czech Republic 4.7%, US 4.6%, Switzerland 4.4%, Austria 4.4%, UK 4.1% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$173.7 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Debt - external": {
+      "text": "$5.21 trillion (31 March 2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.374 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.955 trillion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Exchange rates": {
+      "text": "0.7752 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "588.5 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "514.6 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Electricity - exports": {
+      "text": "78.86 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Electricity - imports": {
+      "text": "28.34 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "204.1 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "42.6% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "5.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "2.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "49.9% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Crude oil - production": {
+      "text": "46,590 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "1,987 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "1.837 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "145.4 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "2.198 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2.41 million bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "474,300 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "17"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "800,500 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Natural gas - production": {
+      "text": "8.73 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "773.2 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "32.51 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "102.5 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "41.99 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "744 million Mt (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "44.31 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "55 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "94,432,800"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "117 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "one of the world's most technologically advanced telecommunications systems; as a result of intensive capital expenditures since reunification, the formerly backward system of the eastern part of the country, dating back to World War II, has been modernized and integrated with that of the western part"
+      },
+      "domestic": {
+        "text": "extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries"
+      },
+      "international": {
+        "text": "country code - 49; Germany's international service is excellent worldwide, consisting of extensive land and undersea cable facilities as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "a mixture of publicly operated and privately owned TV and radio stations; national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".de"
+    },
+    "Internet users": {
+      "total": {
+        "text": "72,365,643"
+      },
+      "percent of population": {
+        "text": "89.6% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "8"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "20"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "1,113"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "115,540,886"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "6,985,007,915 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "D (2016)"
+    },
+    "Airports": {
+      "text": "539 (2013)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "318"
+      },
+      "over 3,047 m": {
+        "text": "14"
+      },
+      "2,438 to 3,047 m": {
+        "text": "49"
+      },
+      "1,524 to 2,437 m": {
+        "text": "60"
+      },
+      "914 to 1,523 m": {
+        "text": "70"
+      },
+      "under 914 m": {
+        "text": "125 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "221"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "35"
+      },
+      "under 914 m": {
+        "text": "185 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "23 (2013)"
+    },
+    "Pipelines": {
+      "text": "condensate 37 km; gas 26,985 km; oil 2,826 km; refined products 4,479 km; water 8 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "43,468.3 km"
+      },
+      "standard gauge": {
+        "text": "43,209.3 km 1.435-m gauge (19,973 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "220 km 1.000-m gauge (79 km electrified); 15 km 0.900-m gauge; 24 km 0.750-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "645,000 km"
+      },
+      "paved": {
+        "text": "645,000 km (includes 12,800 km of expressways)"
+      },
+      "note": {
+        "text": "includes local roads (2010)"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Waterways": {
+      "text": "7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "427"
+      },
+      "by type": {
+        "text": "barge carrier 2, bulk carrier 6, cargo 51, carrier 1, chemical tanker 15, container 298, liquefied gas 6, passenger 4, passenger/cargo 24, petroleum tanker 10, refrigerated cargo 3, roll on/roll off 6, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "6 (Finland 3, Netherlands 1, Switzerland 2)"
+      },
+      "registered in other countries": {
+        "text": "3,420 (Antigua and Barbuda 1094, Australia 2, Bahamas 30, Bermuda 14, Brazil 6, Bulgaria 12, Burma 1, Cayman Islands 3, Cook Islands 1, Curacao 25, Cyprus 192, Denmark 9, Dominica 5, Estonia 1, France 1, Gibraltar 123, Hong Kong 10, Isle of Man 56, Jamaica 10, Liberia 1185, Luxembourg 9, Malta 135, Marshall Islands 248, Morocco 1, Netherlands 86, NZ 2, Panama 24, Papua New Guinea 1, Philippines 2, Portugal 14, Saint Vincent and the Grenadines 3, Singapore 32, Slovakia 3, Spain 4, Sri Lanka 8, Sweden 3, UK 59, US 5, Venezuela 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Baltic Sea - Rostock; North Sea - Wilhelmshaven"
+      },
+      "river port(s)": {
+        "text": "Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Brunsbuttel, Hamburg (Elbe); Lubeck (Wakenitz)"
+      },
+      "oil terminal(s)": {
+        "text": "Brunsbuttel Canal terminals"
+      },
+      "container port(s)": {
+        "text": "Bremen/Bremerhaven (5,547,000), Hamburg (8,821,000) (2015)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Hamburg"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.31% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Military branches": {
+      "text": "Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2017)"
+    },
+    "Military service age and obligation": {
+      "text": "17-23 years of age for male and female voluntary military service; conscription ended 1 July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2013)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "375,122 (Syria); 86,045 (Iraq); 46,292 (Afghanistan); 30,020 (Eritrea); 22,910 (Iran); 19,136 (Turkey); 9,189 (Serbia and Kosovo); 7,879 (Somalia); 5,255 (Russia); 5,169 (Pakistan) (2016); 10,305 (Ukraine) (2017) note"
+      },
+      "stateless persons": {
+        "text": "12,017 (2016)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs; major financial center"
+    }
+  }
+}

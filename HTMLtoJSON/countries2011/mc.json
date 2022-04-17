@@ -1,0 +1,636 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region (SAR) of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its \"one country, two systems\" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a high degree of autonomy in all matters except foreign affairs and defense for the next 50 years."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Eastern Asia, bordering the South China Sea and China"
+    },
+    "Geographic coordinates": {
+      "text": "22 10 N, 113 33 E"
+    },
+    "Map references": {},
+    "Southeast Asia": {},
+    "Area": {
+      "total": {
+        "text": "28.2 sq km"
+      },
+      "land": {
+        "text": "28.2 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "less than one-sixth the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "0.34 km"
+      },
+      "regional border": {
+        "text": "China 0.34 km"
+      }
+    },
+    "Coastline": {
+      "text": "41 km"
+    },
+    "Maritime claims": {
+      "text": "not specified"
+    },
+    "Climate": {
+      "text": "subtropical; marine with cool winters, warm summers"
+    },
+    "Terrain": {
+      "text": "generally flat"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "South China Sea 0 m"
+      },
+      "highest point": {
+        "text": "Coloane Alto 172 m"
+      }
+    },
+    "Natural resources": {
+      "text": "NEGL"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "0%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "100% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA; note - included in the total for China (2008)"
+    },
+    "Natural hazards": {
+      "text": "typhoons"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Marine Dumping (associate member), Ship Pollution (associate member)"
+      }
+    },
+    "Geography - note": {
+      "text": "essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km and known as Cotai now connects the islands of Coloane and Taipa; the island area is connected to the mainland peninsula by three bridges"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Chinese "
+      },
+      "adjective": {
+        "text": "Chinese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Chinese 94.3%, other 5.7% (includes Macanese - mixed Portuguese and Asian ancestry) (2006 census)"
+    },
+    "Languages": {
+      "text": "Cantonese 85.7%, Hokkien 4%, Mandarin 3.2%, other Chinese dialects 2.7%, English 1.5%, Tagalog 1.3%, other 1.6%",
+      "note": "Chinese and Portuguese are the official language (2001 census)"
+    },
+    "note": "Chinese and Portuguese are the official language (2001 census)",
+    "Religions": {
+      "text": "Buddhist 50%, Roman Catholic 15%, none or other 35% (1997 est.)"
+    },
+    "Population": {
+      "text": "573,003 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "15% (male 45,635/female 40,523)"
+      },
+      "15-64 years": {
+        "text": "76.8% (male 205,998/female 233,820)"
+      },
+      "65 years and over": {
+        "text": "8.2% (male 22,043/female 24,984) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "36.2 years"
+      },
+      "male": {
+        "text": "36.8 years"
+      },
+      "female": {
+        "text": "35.6 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "0.879% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "9.03 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "3.72 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "3.49 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "100% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "0.7% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.14 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.88 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.88 male(s)/female"
+      },
+      "total population": {
+        "text": "0.92 male(s)/female (2011 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "3.18 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "3.34 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "3.02 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "84.41 years"
+      },
+      "male": {
+        "text": "81.45 years"
+      },
+      "female": {
+        "text": "87.52 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "0.92 children born/woman (2011 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "2.2% of GDP (2008)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "91.3%"
+      },
+      "male": {
+        "text": "95.3%"
+      },
+      "female": {
+        "text": "87.8% (2001 census)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "14 years"
+      },
+      "male": {
+        "text": "15 years"
+      },
+      "female": {
+        "text": "14 years (2009)"
+      }
+    },
+    "Unemployment, youth ages 15-24": {
+      "total": {
+        "text": "7.5%"
+      },
+      "male": {
+        "text": "9.8%"
+      },
+      "female": {
+        "text": "5.4% (2009)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Macau Special Administrative Region "
+      },
+      "conventional short form": {
+        "text": "Macau"
+      },
+      "official long form": {
+        "text": "Aomen Tebie Xingzhengqu (Chinese); Regiao Administrativa Especial de Macau (Portuguese)"
+      },
+      "official short form": {
+        "text": "Aomen (Chinese); Macau (Portuguese)"
+      }
+    },
+    "Dependency status": {
+      "text": "special administrative region of the Peaple's Republic of China"
+    },
+    "Government type": {
+      "text": "limited democracy"
+    },
+    "Administrative divisions": {
+      "text": "none (special administrative region of the People's Republic of China)"
+    },
+    "Independence": {
+      "text": "none (special administrative region of China)"
+    },
+    "National holiday": {
+      "text": "National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 20 December 1999 is celebrated as Macau Special Administrative Region Establishment Day"
+    },
+    "Constitution": {
+      "text": "The Basic Law, approved 31 March 1993 by China's National People's Congress, is Macau's charter"
+    },
+    "Legal system": {
+      "text": "civil law system based on the Portuguese model"
+    },
+    "Suffrage": {
+      "text": "direct election 18 years of age for some legislative positions, universal for permanent residents living in Macau for the past seven years; indirect election limited to organizations registered as \"corporate voters\" (257 are currently registered) and a 300-member Election Committee for the Chief Executive (CE) drawn from broad regional groupings, municipal organizations, central government bodies, and elected Macau officials"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President of China HU Jintao (since 15 March 2003)"
+      },
+      "head of government": {
+        "text": "Chief Executive Fernando CHUI Sai-on (since 20 December 2009)"
+      },
+      "cabinet": {
+        "text": "Executive Council consists of 1 government secretary, 3 legislators, 4 businessmen, 1 pro-Beijing unionist, and 1 pro-Beijing educator"
+      },
+      "elections": {
+        "text": "chief executive chosen by a 300-member Election Committee for a five-year term (current CE is eligible for a second term); election last held on 26 July 2009 (next to be held in July 2014)"
+      },
+      "election results": {
+        "text": "Fernando CHUI Sai-on elected in 2009 with 282 votes, took office on 20 December 2009"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral Legislative Assembly (29 seats; 12 members elected by popular vote, 10 by indirect vote, and 7 appointed by the chief executive; members serve four-year terms)",
+      "elections": {
+        "text": "last held on 20 September 2009 (next to be held in September 2013)"
+      },
+      "election results": {
+        "text": "percent of vote - UPD 14.9%, ACUM 12%, APMD 11.6%, NUDM 9.9%, UPP 9.9%, ANMD 7.8%, UMG 7.3%, MUDAR 5.5%, others 21.1%; seats by political group - UPD 2, ACUM 2, APMD 2, NUMD 1, UPP 1, ANMD 1, UMG 1, MUDAR 1; 10 seats filled by professional and business groups; 7 members appointed by the chief executive"
+      }
+    },
+    "Judicial branch": {
+      "text": "Court of Final Appeal in Macau Special Administrative Region"
+    },
+    "Political parties and leaders": {
+      "text": "Alliance for Change or MUDAR; Macau Development Alliance or NUDM [Angela LEONG On-kei]; Macau-Guangdong Union or UNG; Macau United Citizens' Association or ACUM [CHAN Meng-kam]; New Macau Association or NMA [Jason CHAO]; New Hope or NE [Jose Maria Pereira COUTINHO]; Union for Promoting Progress or UPP [LEONG Heng-teng]",
+      "note": "there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies"
+    },
+    "note": "as a Special Administrative Region of China, \"Yiyonggjun Jinxingqu\" is the official anthem (see China)",
+    "Political pressure groups and leaders": {
+      "text": "Civic Power [Agnes LAM lok-fong]; Macau New Chinese Youth Association [LEONG Sin-man]; Macau Society of Tourism and Entertainment or STDM [Stanley HO]; Macau Worker's Union [HO Heng-kuok]; Union for Democracy Development [Antonio NG Kuok-cheong]"
+    },
+    "International organization participation": {
+      "text": "ICC, IHO, IMF, IMO (associate), Interpol (subbureau), ISO (correspondent), UNESCO (associate), UNWTO (associate), UPU, WCO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "text": "none (special administrative region of China)"
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US has no offices in Macau; US Consulate General in Hong Kong is accredited to Macau"
+    },
+    "Flag description": {
+      "green with a lotus flower above a stylized bridge and water in white, beneath an arc of five gold, five-pointed stars": {
+        "text": "one large in the center of the arc and two smaller on either side; the lotus is the floral emblem of Macau, the three petals represent the peninsula and two islands that make up Macau; the five stars echo those on the flag of China"
+      }
+    },
+    "National symbol(s)": {
+      "text": "lotus blossom",
+      "note": "as a Special Administrative Region of China, \"Yiyonggjun Jinxingqu\" is the official anthem (see China)"
+    },
+    "National anthem": {}
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in 2010, largely on the back of strong tourism and gaming sectors. After opening up its locally-controlled casino industry to foreign competition in 2001, the territory attracted tens of billions of dollars in foreign investment, transforming Macau into one of the world's largest gaming center. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. By 2006, Macau's gaming revenue surpassed that of the Las Vegas strip, and gaming-related taxes accounted for more than 70% of total government revenue. In 2008, Macau introduced measures to cool the rapidly developing sector. This city of nearly 552,300 hosted nearly 25 million visitors in 2010. Almost 53% came from mainland China. Macau's traditional manufacturing industry has virtually disappeared since the termination of the Multi-Fiber Agreement in 2005. In 2010, total exports were less than US$900 million, while gaming receipts were almost US$24 billion, a 58% increase over 2009. The Macau government plans to tighten control over the opening of new casinos and strengthen supervision of local casino operations in 2011 and has introduced measures to diversify the economy. The Closer Economic Partnership Agreement (CEPA) between Macau and mainland China that came into effect on 1 January 2004 offers Macau-made products tariff-free access to the mainland; nevertheless, China is Macau's second largest goods export market, behind Hong Kong, and followed by the United States. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$14.4 billion (2006)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "includes reexports",
+    "GDP (official exchange rate)": {
+      "text": "$22.1 billion (2009 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "26% (2007)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$28,400 (2006)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.1%"
+      },
+      "industry": {
+        "text": "2.8%"
+      },
+      "services": {
+        "text": "97.1% (2009 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "330,900 (2010 est.)"
+    },
+    "Labor force - by occupation": {
+      "manufacturing": {
+        "text": "4.3%"
+      },
+      "construction": {
+        "text": "8.7%"
+      },
+      "transport and communications": {
+        "text": "5.5%"
+      },
+      "wholesale and retail trade": {
+        "text": "13.3%"
+      },
+      "restaurants and hotels": {
+        "text": "12.7%"
+      },
+      "gambling": {
+        "text": "13.3%"
+      },
+      "public sector": {
+        "text": "6.7%"
+      },
+      "financial services": {
+        "text": "2.4%"
+      },
+      "other services and agriculture": {
+        "text": "33.2% (2010)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.6% (2009)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "12.3% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$8.998 billion"
+      },
+      "expenditures": {
+        "text": "$3.862 billion (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "40.7% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "23.2% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.1% (2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "5.25% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$2.38 billion (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$26.56 billion (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$701.1 million (31 December 2009 est.)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$413.1 million (2004 est.)"
+    },
+    "Agriculture - products": {
+      "text": "only 2% of land area is cultivated, mainly by vegetable growers; fishing, mostly for crustaceans, is important; some of the catch is exported to Hong Kong"
+    },
+    "Industries": {
+      "text": "tourism, gambling, clothing, textiles, electronics, footwear, toys"
+    },
+    "Industrial production growth rate": {
+      "text": "-23.7%"
+    },
+    "Electricity - production": {
+      "text": "1.1 billion kWh (2010 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "3.66 billion kWh (2010 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2010 est.)"
+    },
+    "Electricity - imports": {
+      "text": "2.79 billion kWh (2010 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "17,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - imports": {
+      "text": "15,400 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "154.7 million cu m (2010)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2010 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "154.5 million cu m (2010 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "174,000 cu m (2010 est.)"
+    },
+    "Current account balance": {
+      "text": "$6.23 billion (2009)"
+    },
+    "Exports": {
+      "text": "$973 million (2009 est.)",
+      "note": "includes reexports"
+    },
+    "Exports - commodities": {
+      "text": "clothing, textiles, footwear, toys, electronics, machinery and parts"
+    },
+    "Exports - partners": {
+      "text": "Hong Kong 43.1%, China 15.8%, US 11.2%, Germany 4% (2010 est.)"
+    },
+    "Imports": {
+      "text": "$4.5 billion (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "raw materials and semi-manufactured goods, consumer goods (foodstuffs, beverages, tobacco), capital goods, mineral fuels and oils"
+    },
+    "Imports - partners": {
+      "text": "China 31.1%, Hong Kong 10.5%, France 9.2%, Japan 8.6%, US 5.9% (2010 est.)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$23.73 billion (2010) (2010)"
+    },
+    "Debt - external": {
+      "text": "$0 (2010)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$10.5 billion (#REF! est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$964 million (2008)"
+    },
+    "Exchange rates": {
+      "text": ""
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "167,500 (2011)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "1.122 million (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "fairly modern communication facilities maintained for domestic and international services"
+      },
+      "domestic": {
+        "text": "termination of monopoly over mobile-cellular telephone services in 2001 spurred sharp increase in subscriptions with mobile-cellular teledensity approaching 200 per 100 persons in 2010; fixed-line subscribership appears to have peaked and is now in decline"
+      },
+      "international": {
+        "text": "country code - 853; landing point for the SEA-ME-WE-3 submarine cable network that provides links to Asia, the Middle East, and Europe; HF radiotelephone communication facility; satellite earth station - 1 Intelsat (Indian Ocean) (2010)"
+      }
+    },
+    "Broadcast media": {
+      "text": "local government dominates broadcast media; 2 television stations operated by the government with one broadcasting in Portuguese and the other in Cantonese and Mandarin; cable and satellite TV services are available; 3 radio stations broadcasting, of which 2 are government-operated (2010)"
+    },
+    "Internet country code": {
+      "text": ".mo"
+    },
+    "Internet hosts": {
+      "text": "252 (2010)"
+    },
+    "Internet users": {
+      "text": "270,200 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "1 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2010)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "413 km"
+      },
+      "paved": {
+        "text": "413 km (2009)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Macau"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "150,780 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "124,189"
+      },
+      "females age 16-49": {
+        "text": "149,514 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "4,274"
+      },
+      "female": {
+        "text": "3,674 (2010 est.)"
+      }
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of China"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for drugs going into mainland China; consumer of opiates and amphetamines"
+    }
+  }
+}

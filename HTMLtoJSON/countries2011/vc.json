@@ -1,0 +1,674 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed between France and the United Kingdom for most of the 18th century, the island was ceded to the latter in 1783. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago"
+    },
+    "Geographic coordinates": {
+      "text": "13 15 N, 61 12 W"
+    },
+    "Map references": {},
+    "Central America and the Caribbean": {},
+    "Area": {
+      "total": {
+        "text": "389 sq km (Saint Vincent 344 sq km)"
+      },
+      "land": {
+        "text": "389 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "twice the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "84 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; little seasonal temperature variation; rainy season (May to November)"
+    },
+    "Terrain": {
+      "text": "volcanic, mountainous"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Caribbean Sea 0 m"
+      },
+      "highest point": {
+        "text": "La Soufriere 1,234 m"
+      }
+    },
+    "Natural resources": {
+      "text": "hydropower, cropland"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "17.95%"
+      },
+      "permanent crops": {
+        "text": "17.95%"
+      },
+      "other": {
+        "text": "64.1% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10 sq km (2008)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "0.01"
+      },
+      "per capita": {
+        "text": "83  cu m/yr (1995)"
+      }
+    },
+    "Natural hazards": {
+      "text": "hurricanes; Soufriere volcano on the island of Saint Vincent is a constant threat"
+    },
+    "Environment - current issues": {
+      "text": "pollution of coastal waters and shorelines from discharges by pleasure yachts and other effluents; in some areas, pollution is severe enough to make swimming prohibitive"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is comprised of 32 islands and cays"
+    }
+  },
+  "People and Society": {
+    "Nationality": {
+      "noun": {
+        "text": "Saint Vincentian(s) or Vincentian(s) "
+      },
+      "adjective": {
+        "text": "Saint Vincentian or Vincentian"
+      }
+    },
+    "Ethnic groups": {
+      "text": "black 66%, mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, other 3%"
+    },
+    "Languages": {
+      "text": "English, French patois"
+    },
+    "Religions": {
+      "text": "Protestant 75% (Anglican 47%, Methodist 28%), Roman Catholic 13%, other (includes Hindu, Seventh-Day Adventist, other Protestant) 12%"
+    },
+    "Population": {
+      "text": "103,869 (July 2011 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "24.5% (male 12,842/female 12,638)"
+      },
+      "15-64 years": {
+        "text": "67.4% (male 36,042/female 33,985)"
+      },
+      "65 years and over": {
+        "text": "8.1% (male 3,807/female 4,555) (2011 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "30.1 years"
+      },
+      "male": {
+        "text": "30.2 years"
+      },
+      "female": {
+        "text": "30 years (2011 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "-0.327% (2011 est.)"
+    },
+    "Birth rate": {
+      "text": "14.62 births/1,000 population (2011 est.)"
+    },
+    "Death rate": {
+      "text": "6.98 deaths/1,000 population (July 2011 est.)"
+    },
+    "Net migration rate": {
+      "text": "-10.92 migrant(s)/1,000 population (2011 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "49% of total population (2010)"
+      },
+      "rate of urbanization": {
+        "text": "1% annual rate of change (2010-15 est.)"
+      }
+    },
+    "Major cities - population": {
+      "text": "KINGSTOWN (capital) 28,000 (2009)"
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.031 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.02 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.83 male(s)/female"
+      },
+      "total population": {
+        "text": "1.03 male(s)/female (2011 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "14.27 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "15.54 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "12.97 deaths/1,000 live births (2011 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "74.15 years"
+      },
+      "male": {
+        "text": "72.26 years"
+      },
+      "female": {
+        "text": "76.09 years (2011 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.92 children born/woman (2011 est.)"
+    },
+    "Health expenditures": {
+      "text": "5.6% of GDP (2009)"
+    },
+    "Physicians density": {
+      "text": "0.7542 physicians/1,000 population (2000)"
+    },
+    "Hospital bed density": {
+      "text": "3 beds/1,000 population (2007)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Education expenditures": {
+      "text": "6.6% of GDP (2009)"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over has ever attended school"
+      },
+      "total population": {
+        "text": "96%"
+      },
+      "male": {
+        "text": "96%"
+      },
+      "female": {
+        "text": "96% (1970 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "14 years"
+      },
+      "male": {
+        "text": "13 years"
+      },
+      "female": {
+        "text": "13 years (2005)"
+      }
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none "
+      },
+      "conventional short form": {
+        "text": "Saint Vincent and the Grenadines"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy and a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Kingstown"
+      },
+      "geographic coordinates": {
+        "text": "13 09 N, 61 14 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint George, Saint Patrick"
+    },
+    "Independence": {
+      "text": "27 October 1979 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 October (1979)"
+    },
+    "Constitution": {
+      "text": "27 October 1979"
+    },
+    "Legal system": {
+      "text": "English common law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Fredrick Nathaniel BALLANTYNE (since 2 September 2002)"
+      },
+      "head of government": {
+        "text": "Prime Minister Ralph E. GONSALVES (since 29 March 2001)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor general on the advice of the prime minister"
+      },
+      "elections": {
+        "text": "the monarchy is hereditary; the governor general appointed by the monarch; following legislative elections, the leader of the majority party usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general on the advice of the prime minister"
+      }
+    },
+    "Legislative branch": {
+      "text": "unicameral House of Assembly (21 seats, 15 elected representatives and 6 appointed senators; representatives elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held on 13 December 2010 (next to be held in 2015)"
+      },
+      "election results": {
+        "text": "percent of vote by party - ULP 51.6%, NDP 47.8%; seats by party - ULP 8, NDP 7"
+      }
+    },
+    "Judicial branch": {
+      "text": "Eastern Caribbean Supreme Court (consisting of a High Court and Court of Appeals; based on Saint Lucia; two judges of the Supreme Court reside in Saint Vincent and the Grenadines)"
+    },
+    "Political parties and leaders": {
+      "text": "New Democratic Party or NDP [Arnhim EUSTACE]; Unity Labor Party or ULP [Ralph GONSALVES] (formed by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, C, Caricom, CDB, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, PetroCaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador La Celia A. PRINCE"
+      },
+      "chancery": {
+        "text": "3216 New Mexico Avenue NW, Washington, DC 20016"
+      },
+      "telephone": {
+        "text": "[1] (202) 364-6730"
+      },
+      "FAX": {
+        "text": "[1] (202) 364-6736"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in Saint Vincent and the Grenadines; the US Ambassador to Barbados is accredited to Saint Vincent and the Grenadines"
+    },
+    "Flag description": {
+      "text": "three vertical bands of blue (hoist side), gold (double width), and green; the gold band bears three green diamonds arranged in a V pattern, which stands for Vincent; the diamonds recall the islands as the \"Gems of the Antilles\"; blue conveys the colors of a tropical sky and crystal waters, yellow signifies the golden Grenadine sands, and green represents lush vegetation"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"St. Vincent! Land So Beautiful!\""
+      },
+      "lyrics/music": {
+        "text": "Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL"
+      },
+      "note": "adopted 1967"
+    },
+    "note": "adopted 1967"
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity as well as remittance inflows. Much of the workforce is employed in banana production and tourism, but persistent high unemployment has prompted many to leave the islands. This lower-middle-income country is vulnerable to natural disasters - tropical storms wiped out substantial portions of crops in 1994, 1995, and 2002. In 2008, the islands had more than 200,000 tourist arrivals, mostly to the Grenadines, a drop of nearly 20% from 2007. Saint Vincent is home to a small offshore banking sector and has moved to adopt international regulatory standards. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was over 90% of GDP at the end of 2010. Following the global downturn, St. Vincent and the Grenadines saw an economic decline in 2009, after slowing since 2006, when GDP growth reached a 10-year high of nearly 7%. The GONSALVES administration is directing government resources to infrastructure projects, including a new international airport that is expected to be completed in 2011."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.105 billion (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "note": "data are in 2010 US dollars",
+    "GDP (official exchange rate)": {
+      "text": "$561 million (2010 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "-0.6% (2008 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,500 (2008 est.)",
+      "note": "data are in 2010 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "7.9%"
+      },
+      "industry": {
+        "text": "25.2%"
+      },
+      "services": {
+        "text": "66.9% (2010 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "57,520 (2007 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "26%"
+      },
+      "industry": {
+        "text": "17%"
+      },
+      "services": {
+        "text": "57% (1980 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "15% (2001 est.)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Investment (gross fixed)": {
+      "text": "30.1% of GDP (2010 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$185.2 million"
+      },
+      "expenditures": {
+        "text": "$222.2 million (2010 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "33% of GDP (2010 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.6% of GDP (2010 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.4% (2009 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2009 est.)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9.2% (31 December 2009 est.)"
+    },
+    "Stock of narrow money": {
+      "text": "$133 million (31 December 2009 est.)"
+    },
+    "Stock of broad money": {
+      "text": "$444.4 million (31 December 2009 est.)"
+    },
+    "Stock of domestic credit": {
+      "text": "$423.4 million (31 December 2009 est.)"
+    },
+    "Agriculture - products": {
+      "text": "bananas, coconuts, sweet potatoes, spices; small numbers of cattle, sheep, pigs, goats; fish"
+    },
+    "Industries": {
+      "text": "food processing, cement, furniture, clothing, starch"
+    },
+    "Electricity - production": {
+      "text": "132 million kWh (2008 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "122.7 million kWh (2008 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2009 est.)"
+    },
+    "Oil - production": {
+      "text": "0 bbl/day (2010 est.)"
+    },
+    "Oil - consumption": {
+      "text": "2,000 bbl/day (2010 est.)"
+    },
+    "Oil - exports": {
+      "text": "0 bbl/day (2009 est.)"
+    },
+    "Oil - imports": {
+      "text": "1,252 bbl/day (2009 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "0 bbl (1 January 2011 est.)"
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2009 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2011 est.)"
+    },
+    "Current account balance": {
+      "text": "-$198.1 million (2009 est.)"
+    },
+    "Exports": {
+      "text": "$54.76 million (2009 est.)"
+    },
+    "Exports - commodities": {
+      "text": "bananas, eddoes and dasheen (taro), arrowroot starch; tennis racquets"
+    },
+    "Exports - partners": {
+      "text": "France 43.6%, Greece 9.8%, Trinidad and Tobago 7.4%, St. Lucia 6.6%, Barbados 5.4%, Dominica 4.3%, Grenada 4.1% (2010)"
+    },
+    "Imports": {
+      "text": "$293.9 million (2009 est.)"
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and equipment, chemicals and fertilizers, minerals and fuels"
+    },
+    "Imports - partners": {
+      "text": "Singapore 23.3%, Trinidad and Tobago 17%, US 14.5%, China 12.4%, France 5.2% (2010)"
+    },
+    "Debt - external": {
+      "text": "$208.8 million (31 December 2009 est.)"
+    },
+    "Exchange rates": {
+      "text": "2.7 (2003)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "21,700 (2010)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "131,800 (2010)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate islandwide, fully automatic telephone system"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity exceeds 20 per 100 persons and mobile-cellular teledensity exceeds 100 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 1-784; the East Caribbean Fiber Optic System (ECFS) and Southern Caribbean fiber optic system (SCF) submarine cables carry international calls; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia"
+      }
+    },
+    "Broadcast media": {
+      "text": "St. Vincent and the Grenadines Broadcasting Corporation operates 1 television station and 5 repeater stations that give near total coverage to the multi-island state; multi-channel cable TV service is obtainable; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately-owned radio stations and repeater stations operate (2007)"
+    },
+    "Internet country code": {
+      "text": ".vc"
+    },
+    "Internet hosts": {
+      "text": "211 (2010)"
+    },
+    "Internet users": {
+      "text": "76,000 (2009)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "6 (2010)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "1 (2010)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "829 km"
+      },
+      "paved": {
+        "text": "580 km"
+      },
+      "unpaved": {
+        "text": "249 km (2003)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "444"
+      },
+      "by type": {
+        "text": "bulk carrier 76, cargo 274, carrier 16, chemical tanker 4, container 21, liquefied gas 3, passenger 2, passenger/cargo 9, petroleum tanker 10, refrigerated cargo 12, roll on/roll off 15, specialized tanker 2"
+      },
+      "foreign-owned": {
+        "text": "382 (Austria 2, Bangladesh 1, Belgium 6, Bermuda 1, Bulgaria 10, China 82, Croatia 8, Cyprus 2, Czech Republic 1, Denmark 19, Dominica 1, Egypt 4, Estonia 10, France 2, Germany 2, Greece 63, Guyana 2, Hong Kong 4, Israel 3, Italy 5, Japan 3, Kenya 2, Latvia 15, Lebanon 4, Lithuania 10, Monaco 3, Netherlands 2, Nigeria 1, Norway 12, Oman 1, Pakistan 1, Poland 1, Romania 1, Russia 15, Slovenia 2, Sweden 2, Switzerland 5, Syria 13, Turkey 18, UAE 4, UK 7, Ukraine 12, US 19, Venezuela 1)"
+      },
+      "note": "this country allows large numbers of ships owned by foreign entities to be registered in its national shipping registry and to fly its flag; these ships operate under the laws of the flag state (2010)"
+    },
+    "note": "this country allows large numbers of ships owned by foreign entities to be registered in its national shipping registry and to fly its flag; these ships operate under the laws of the flag state (2010)",
+    "Ports and terminals": {
+      "text": "Kingstown"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Royal Saint Vincent and the Grenadines Police Force, Coast Guard; for national defense, Saint Vincent relies on the Regional Security System, headquartered in Barbados (2010)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "27,809 (2010 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "22,875"
+      },
+      "females age 16-49": {
+        "text": "22,015 (2010 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "964"
+      },
+      "female": {
+        "text": "953 (2010 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UNCLOS, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "St. Vincent and the Grenadines is a likely source, transit, and destination country for some children and adults subjected to forced labor and sex trafficking"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List - while capacity to address human trafficking is limited due to the country's small size, the government demonstrated little evidence of efforts to investigate and prosecute trafficking crimes and to ensure that victims of trafficking received access to protective services (2011)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for South American drugs destined for the US and Europe; small-scale cannabis cultivation"
+    }
+  }
+}

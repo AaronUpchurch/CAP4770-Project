@@ -1,0 +1,767 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India was never satisfactorily resolved, and India and Pakistan fought two wars - in 1947-48 and 1965 - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India capitalized on Islamabad's marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh. In response to Indian nuclear weapons testing, Pakistan conducted its own tests in 1998. The dispute over the state of Kashmir is ongoing, but discussions and confidence-building measures have led to decreased tensions since 2002. Mounting public dissatisfaction with President MUSHARRAF, coupled with the assassination of the prominent and popular political leader, Benazir BHUTTO, in late 2007, and MUSHARRAF's resignation in August 2008, led to the September presidential election of Asif ZARDARI, BHUTTO's widower. Pakistani government and military leaders are struggling to control Islamist militants, many of whom are located in the tribal areas adjacent to the border with Afghanistan. The November 2008 Mumbai attacks again inflamed Indo-Pakistan relations. The Pakistani Government is also faced with a deteriorating economy as foreign exchange reserves decline, the currency depreciates, and the current account deficit widens."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Asia, bordering the Arabian Sea, between India on the east and Iran and Afghanistan on the west and China in the north"
+    },
+    "Geographic coordinates": {
+      "text": "30 00 N, 70 00 E"
+    },
+    "Map references": {},
+    "Asia": {},
+    "Area": {
+      "total": {
+        "text": "796,095 sq km"
+      },
+      "land": {
+        "text": "770,875 sq km"
+      },
+      "water": {
+        "text": "25,220 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "6,774 km"
+      },
+      "border countries": {
+        "text": "Afghanistan 2,430 km, China 523 km, India 2,912 km, Iran 909 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,046 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "mostly hot, dry desert; temperate in northwest; arctic in north"
+    },
+    "Terrain": {
+      "text": "flat Indus plain in east; mountains in north and northwest; Balochistan plateau in west"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Indian Ocean 0 m"
+      },
+      "highest point": {
+        "text": "K2 (Mt. Godwin-Austen) 8,611 m"
+      }
+    },
+    "Natural resources": {
+      "text": "land, extensive natural gas reserves, limited petroleum, poor quality coal, iron ore, copper, salt, limestone"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "24.44%"
+      },
+      "permanent crops": {
+        "text": "0.84%"
+      },
+      "other": {
+        "text": "74.72% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "182,300 sq km (2003)"
+    },
+    "Total renewable water resources": {
+      "text": "233.8 cu km (2003)"
+    },
+    "Freshwater withdrawal (domestic/industrial/agricultural)": {
+      "total": {
+        "text": "169.39  cu km/yr (2%/2%/96%)"
+      },
+      "per capita": {
+        "text": "1,072  cu m/yr (2000)"
+      }
+    },
+    "Natural hazards": {
+      "text": "frequent earthquakes, occasionally severe especially in north and west; flooding along the Indus after heavy rains (July and August)"
+    },
+    "Environment - current issues": {
+      "text": "water pollution from raw sewage, industrial wastes, and agricultural runoff; limited natural fresh water resources; most of the population does not have access to potable water; deforestation; soil erosion; desertification"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Marine Life Conservation"
+      }
+    },
+    "Geography - note": {
+      "text": "controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "176,242,949 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "37.2% (male 33,739,547/female 31,868,065)"
+      },
+      "15-64 years": {
+        "text": "58.6% (male 52,849,607/female 50,378,198)"
+      },
+      "65 years and over": {
+        "text": "4.2% (male 3,475,927/female 3,931,605) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "20.8 years"
+      },
+      "male": {
+        "text": "20.6 years"
+      },
+      "female": {
+        "text": "21 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.947% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "27.62 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "7.68 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "-0.48 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "36% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "3% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.05 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.06 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "1.05 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.88 male(s)/female"
+      },
+      "total population": {
+        "text": "1.04 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "65.14 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "65.24 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "65.05 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "64.49 years"
+      },
+      "male": {
+        "text": "63.4 years"
+      },
+      "female": {
+        "text": "65.64 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "3.6 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "0.1% (2007 est.)"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "96,000 (2007 est.)"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "5,100 (2007 est.)"
+    },
+    "Major infectious diseases": {
+      "degree of risk": {
+        "text": "high"
+      },
+      "food or waterborne diseases": {
+        "text": "bacterial diarrhea, hepatitis A and E, and typhoid fever"
+      },
+      "vectorborne diseases": {
+        "text": "dengue fever and malaria"
+      },
+      "animal contact disease": {
+        "text": "rabies"
+      },
+      "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)"
+    },
+    "note": "highly pathogenic H5N1 avian influenza has been identified in this country; it poses a negligible risk with extremely rare cases possible among US citizens who have close contact with birds (2009)",
+    "Nationality": {
+      "noun": {
+        "text": "Pakistani(s)"
+      },
+      "adjective": {
+        "text": "Pakistani"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Punjabi 44.68%, Pashtun (Pathan) 15.42%, Sindhi 14.1%, Sariaki 8.38%, Muhagirs 7.57%, Balochi 3.57%, other 6.28%"
+    },
+    "Religions": {
+      "text": "Muslim 95% (Sunni 75%, Shia 20%), other (includes Christian and Hindu) 5%"
+    },
+    "Languages": {
+      "text": "Punjabi 48%, Sindhi 12%, Siraiki (a Punjabi variant) 10%, Pashtu 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 15 and over can read and write"
+      },
+      "total population": {
+        "text": "49.9%"
+      },
+      "male": {
+        "text": "63%"
+      },
+      "female": {
+        "text": "36% (2005 est.)"
+      }
+    },
+    "School life expectancy (primary to tertiary education)": {
+      "total": {
+        "text": "7 years"
+      },
+      "male": {
+        "text": "7 years"
+      },
+      "female": {
+        "text": "6 years (2006)"
+      }
+    },
+    "Education expenditures": {
+      "text": "2.6% of GDP (2006)"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Islamic Republic of Pakistan "
+      },
+      "conventional short form": {
+        "text": "Pakistan"
+      },
+      "local long form": {
+        "text": "Jamhuryat Islami Pakistan"
+      },
+      "local short form": {
+        "text": "Pakistan"
+      },
+      "former": {
+        "text": "West Pakistan"
+      }
+    },
+    "Government type": {
+      "text": "federal republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Islamabad"
+      },
+      "geographic coordinates": {
+        "text": "33 42 N, 73 10 E"
+      },
+      "time difference": {
+        "text": "UTC+5 (10 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, in 2009 - begins third Wednesday in April; ends first Sunday in November; note - a new policy of daylight saving time was initiated by the government in 2008; the specific date of the start of DST has varied over the last two years"
+      }
+    },
+    "Administrative divisions": {
+      "text": "4 provinces, 1 territory*, and 1 capital territory**; Balochistan, Federally Administered Tribal Areas*, Islamabad Capital Territory**, North-West Frontier Province, Punjab, Sindh",
+      "note": "the Pakistani-administered portion of the disputed Jammu and Kashmir region consists of two administrative entities"
+    },
+    "note": "political alliances in Pakistan can shift frequently",
+    "Independence": {
+      "text": "14 August 1947 (from British India)"
+    },
+    "National holiday": {
+      "text": "Republic Day, 23 March (1956)"
+    },
+    "Constitution": {
+      "text": "12 April 1973; suspended 5 July 1977, restored 30 December 1985; suspended 15 October 1999, restored in stages in 2002; amended 31 December 2003; suspended 3 November 2007; restored on 15 December 2007"
+    },
+    "Legal system": {
+      "text": "based on English common law with provisions to accommodate Pakistan's status as an Islamic state; accepts compulsory ICJ jurisdiction with reservations"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal; joint electorates and reserved parliamentary seats for women and non-Muslims"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Asif Ali ZARDARI (since 9 September 2008)"
+      },
+      "note": "following President Pervez MUSHARRAF's resignation on 18 August 2008, elections were held on 6 September in which Asif Ali ZARDARI won a clear majority; ZARDARI'S inauguration as president of Pakistan on 9 September solidified the country's return to civilian government after more than eight years of military rule",
+      "head of government": {
+        "text": "Prime Minister Syed Yousuf Raza GILANI (since 25 March 2008)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president upon the advice of the prime minister"
+      },
+      "elections": {
+        "text": "the president is elected by secret ballot through an Electoral College comprising the members of the Senate, National Assembly, and the provincial assemblies for a five-year term; election last held on 6 September 2008 (next to be held not later than 2013); note - any person who is a Muslim and not less than 45 years of age and is qualified to be elected as a member of the National Assembly can contest the presidential election; the prime minister is selected by the National Assembly; election last held on 24 March 2008"
+      },
+      "election results": {
+        "text": "Asif Ali ZARDARI elected president; ZARDARI 481 votes, SIDDIQUE 153 votes, SYED 44 votes; Syed Yousuf Raza GILANI elected prime minister; GILANI 264 votes, Pervaiz ELAHI 42 votes; several abstentions"
+      }
+    },
+    "Legislative branch": {
+      "text": "bicameral parliament or Majlis-e-Shoora consists of the Senate (100 seats; members indirectly elected by provincial assemblies and the territories' representatives in the National Assembly to serve six-year terms; one half are elected every three years) and the National Assembly (342 seats; 272 members elected by popular vote; 60 seats reserved for women; 10 seats reserved for non-Muslims; serve five-year terms)",
+      "elections": {
+        "text": "Senate - last held on 3 March 2009 (next to be held in March 2012); National Assembly - last held on 18 February 2008 with by-elections on 26 June 2008 (next to be held in 2013)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PPPP 27, PML-Q 21, MMA 9, PML-N 7, ANP 6, MQM 6, JUI-F 4, BNP-A 2, JWP 1, NPP 1, PKMAP 1, PML-F 1, PPP 1, independents 13; National Assembly - percent of votes by party - NA; seats by party - PPPP 124, PML-N 91, PML 54, MQM 25, ANP 13, MMA 7, PML-F 5, BNP-A 1, NPP 1, PPP-S 1, independents 17; note - 3 seats remain unfilled"
+      }
+    },
+    "Judicial branch": {
+      "text": "Supreme Court (justices appointed by the president); Federal Islamic or Sharia Court"
+    },
+    "Political parties and leaders": {
+      "text": "Awami National Party or ANP [Asfandyar Wali KHAN]; Balochistan National Party-Hayee Group or BNP-H [Dr. Hayee BALOCH]; Balochistan National Party-Awami or BNP-A [Moheem Khan BALOCH]; Balochistan National Party-Mengal or BNP-M [Sardar Ataullah MENGAL]; Jamhoori Watan Party or JWP; Jamiat Ahle Hadith or JAH [Sajid MIR]; Jamaat-i Islami or JI [Qazi Hussain AHMED]; Jamiat Ulema-i Islam Fazlur Rehman or JUI-F [Fazlur REHMAN]; Jamiat Ulema-i Islam Sami-ul HAQ or JUI-S [Sami ul-HAQ]; Jamiat Ulema-i Pakistan or JUP [Shah Faridul HAQ]; Muttahida Majlis-e Amal or MMA [Qazi Hussain AHMED]; Muttahida Qaumi Movement or MQM [Altaf HUSSAIN]; National Alliance or NA [Ghulam Mustapha JATOI] (merged with PML); National Peoples Party or NPP; Pakhtun Khwa Milli Awami Party or PKMAP [Mahmood Khan ACHAKZAI]; Pakistan Awami Tehrik or PAT [Tahir ul QADRI]; Pakistan Muslim League-Functional or PML-F [Pir PAGARO]; Pakistan Muslim League-Nawaz Sharif or PML-N [Nawaz SHARIF]; Pakistan Muslim League or PML [Chaudhry Shujaat HUSSAIN]; Pakistan Peoples Party-SHERPAO or PPP-S [Aftab Ahmed Khan SHERPAO]; Pakistan Peoples Party Parliamentarians or PPPP [Bilawal Bhutto ZARDARI, chairman; Asif Ali ZARDARI, co-chairman]; Pakistan Tehrik-e Insaaf or PTI [Imran KHAN]; Tehrik-i Islami [Allama Sajid NAQVI]",
+      "note": "political alliances in Pakistan can shift frequently"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "military (most important political force); ulema (clergy); landowners; industrialists; small merchants"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, C, CP, ECO, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURCAT, MINURSO, MONUC, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNMIT, UNOCI, UNOMIG, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Husain HAQQANI"
+      },
+      "chancery": {
+        "text": "3517 International Court, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 243-6500"
+      },
+      "FAX": {
+        "text": "[1] (202) 686-1544"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York, Sunnyvale (California)"
+      },
+      "consulate(s)": {
+        "text": "Chicago, Houston"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Anne W. PATTERSON"
+      },
+      "embassy": {
+        "text": "Diplomatic Enclave, Ramna 5, Islamabad"
+      },
+      "mailing address": {
+        "text": "P. O. Box 1048, Unit 62200, APO AE 09812-2200"
+      },
+      "telephone": {
+        "text": "[92] (51) 208-0000"
+      },
+      "FAX": {
+        "text": "[92] (51) 2276427"
+      },
+      "consulate(s) general": {
+        "text": "Karachi"
+      },
+      "consulate(s)": {
+        "text": "Lahore, Peshawar"
+      }
+    },
+    "Flag description": {
+      "text": "green with a vertical white band (symbolizing the role of religious minorities) on the hoist side; a large white crescent and star are centered in the green field; the crescent, star, and color green are traditional symbols of Islam"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "Pakistan, an impoverished and underdeveloped country, has suffered from decades of internal political disputes, low levels of foreign investment, and declining exports of manufactures. Faced with untenable budgetary deficits, high inflation, and hemorrhaging foreign exchange reserves, the government agreed to an International Monetary Fund Standby Arrangement in November 2008. Between 2004-07, GDP growth in the 6-8% range was spurred by gains in the industrial and service sectors, despite severe electricity shortfalls. Poverty levels decreased by 10% since 2001, and Islamabad steadily raised development spending in recent years. In 2008 the fiscal deficit - a result of chronically low tax collection and increased spending - exceeded Islamabad's target of 4% of GDP. Inflation remains the top concern among the public, jumping from 7.7% in 2007 to 20.8% in 2008, primarily because of rising world fuel and commodity prices. In addition, the Pakistani rupee has depreciated significantly as a result of political and economic instability."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$393.4 billion (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "note": "substantial underemployment exists",
+    "GDP (official exchange rate)": {
+      "text": "$164.6 billion (2008 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "6% (2006 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,400 (2006 est.)",
+      "note": "data are in 2008 US dollars"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "20.4%"
+      },
+      "industry": {
+        "text": "26.6%"
+      },
+      "services": {
+        "text": "53% (2008 est.)"
+      }
+    },
+    "Labor force": {
+      "text": "50.58 million",
+      "note": "extensive export of labor, mostly to the Middle East, and use of child labor (2008 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "43%"
+      },
+      "industry": {
+        "text": "20.3%"
+      },
+      "services": {
+        "text": "36.6% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.6% (2007 est.)",
+      "note": "substantial underemployment exists"
+    },
+    "Population below poverty line": {
+      "text": "24% (FY05/06 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.9%"
+      },
+      "highest 10%": {
+        "text": "26.5% (2005)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "41 (FY98/99)"
+    },
+    "Investment (gross fixed)": {
+      "text": "20% of GDP (2008 est.)"
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$22.3 billion"
+      },
+      "expenditures": {
+        "text": "$32.35 billion (2008 est.)"
+      }
+    },
+    "Public debt": {
+      "text": "71.4% of GDP (2004 est.)"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.6% (2007 est.)"
+    },
+    "Central bank discount rate": {
+      "text": "10% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$52.76 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$18.42 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$65.05 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$45.52 billion (31 December 2006)"
+    },
+    "Agriculture - products": {
+      "text": "cotton, wheat, rice, sugarcane, fruits, vegetables; milk, beef, mutton, eggs"
+    },
+    "Industries": {
+      "text": "textiles and apparel, food processing, pharmaceuticals, construction materials, paper products, fertilizer, shrimp"
+    },
+    "Industrial production growth rate": {
+      "text": "4.6% (2008 est.)"
+    },
+    "Electricity - production": {
+      "text": "90.8 billion kWh (2007 est.)"
+    },
+    "Electricity - consumption": {
+      "text": "72.2 billion kWh (2007 est.)"
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2008 est.)"
+    },
+    "Oil - production": {
+      "text": "61,870 bbl/day (2008 est.)"
+    },
+    "Oil - consumption": {
+      "text": "383,000 bbl/day (2008 est.)"
+    },
+    "Oil - exports": {
+      "text": "30,090 bbl/day (2007 est.)"
+    },
+    "Oil - imports": {
+      "text": "319,500 bbl/day (2007 est.)"
+    },
+    "Oil - proved reserves": {
+      "text": "339 million bbl (1 January 2009 est.)"
+    },
+    "Natural gas - production": {
+      "text": "37.5 billion cu m (2008 est.)"
+    },
+    "Natural gas - consumption": {
+      "text": "37.5 billion cu m (2008 est.)"
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2008)"
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2008 est.)"
+    },
+    "Natural gas - proved reserves": {
+      "text": "885.3 billion cu m (1 January 2009 est.)"
+    },
+    "Current account balance": {
+      "text": "-$8.297 billion (2007 est.)"
+    },
+    "Exports": {
+      "text": "$18.12 billion (2007 est.)"
+    },
+    "Exports - commodities": {
+      "text": "textiles (garments, bed linen, cotton cloth, yarn), rice, leather goods, sports goods, chemicals, manufactures, carpets and rugs"
+    },
+    "Exports - partners": {
+      "text": "US 16%, UAE 11.7%, Afghanistan 8.6%, UK 4.5%, China 4.2% (2008)"
+    },
+    "Imports": {
+      "text": "$28.76 billion (2007 est.)"
+    },
+    "Imports - commodities": {
+      "text": "petroleum, petroleum products, machinery, plastics, transportation equipment, edible oils, paper and paperboard, iron and steel, tea"
+    },
+    "Imports - partners": {
+      "text": "China 14.1%, Saudi Arabia 12%, UAE 11.2%, Kuwait 5.4%, India 4.8%, US 4.7%, Malaysia 4.1% (2008)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$15.69 billion (31 December 2007 est.)"
+    },
+    "Debt - external": {
+      "text": "$38.8 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$20.01 billion (31 December 2007 est.)"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$982 million (31 December 2007 est.)"
+    },
+    "Exchange rates": {
+      "text": "Pakistani rupees (PKR) per US dollar - 70.64 (2008 est.), 60.6295 (2007), 60.35 (2006), 59.515 (2005), 58.258 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "4.546 million (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "91.44 million (2009)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "the telecommunications infrastructure is improving dramatically with foreign and domestic investments in fixed-line and mobile networks; mobile-cellular subscribership has skyrocketed, reaching some 91 million in 2009, up from only about 300,000 in 2000; fiber systems are being constructed throughout the country to aid in network growth; main line availability has risen only marginally over the same period and there are still difficulties getting main line service to rural areas"
+      },
+      "domestic": {
+        "text": "microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks"
+      },
+      "international": {
+        "text": "country code - 92; landing point for the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable systems that provide links to Asia, the Middle East, and Europe; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2009)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 31, FM 68, shortwave NA (2006)"
+    },
+    "Television broadcast stations": {
+      "text": "20 (5 state-run channels and 15 privately-owned satellite channels) (2006)"
+    },
+    "Internet country code": {
+      "text": ".pk"
+    },
+    "Internet hosts": {
+      "text": "226,236 (2009)"
+    },
+    "Internet users": {
+      "text": "18.5 million (2008)"
+    }
+  },
+  "Transportation": {
+    "Airports": {
+      "text": "145 (2009)"
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "98"
+      },
+      "over 3,047 m": {
+        "text": "16"
+      },
+      "2,438 to 3,047 m": {
+        "text": "19"
+      },
+      "1,524 to 2,437 m": {
+        "text": "38"
+      },
+      "914 to 1,523 m": {
+        "text": "17"
+      },
+      "under 914 m": {
+        "text": "8 (2009)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "47"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "914 to 1,523 m": {
+        "text": "12"
+      },
+      "under 914 m": {
+        "text": "24 (2009)"
+      }
+    },
+    "Heliports": {
+      "text": "19 (2009)"
+    },
+    "Pipelines": {
+      "text": "gas 10,402 km; oil 2,076 km; refined products 792 km (2008)"
+    },
+    "Railways": {
+      "total": {
+        "text": "7,791 km"
+      },
+      "broad gauge": {
+        "text": "7,479 km 1.676-m gauge (293 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "312 km 1.000-m gauge (2007)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "259,197 km"
+      },
+      "paved": {
+        "text": "172,827 km (includes 711 km of expressways)"
+      },
+      "unpaved": {
+        "text": "86,370 km (2007)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "15"
+      },
+      "by type": {
+        "text": "bulk carrier 1, cargo 10, petroleum tanker 4"
+      },
+      "registered in other countries": {
+        "text": "19 (Comoros 4, Malta 2, Marshall Islands 1, Panama 9, Saint Kitts and Nevis 3) (2008)"
+      }
+    },
+    "Ports and terminals": {
+      "text": "Karachi, Port Muhammad Bin Qasim"
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "Army (includes National Guard), Navy (includes Marines and Maritime Security Agency), Pakistan Air Force (Pakistan Fiza'ya) (2008)"
+    },
+    "Military service age and obligation": {
+      "text": "17-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; the Pakistani Air Force and Pakistani Navy have inducted their first female pilots and sailors (2009)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "42,633,765"
+      },
+      "females age 16-49": {
+        "text": "40,114,017 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "33,690,322"
+      },
+      "females age 16-49": {
+        "text": "32,602,910 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "2,089,936"
+      },
+      "female": {
+        "text": "1,964,090 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "3% of GDP (2007 est.)"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "various talks and confidence-building measures cautiously have begun to defuse tensions over Kashmir, particularly since the October 2005 earthquake in the region; Kashmir nevertheless remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); UN Military Observer Group in India and Pakistan (UNMOGIP) has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; India and Pakistan have maintained their 2004 cease fire in Kashmir and initiated discussions on defusing the armed stand-off in the Siachen glacier region; Pakistan protests India's fencing the highly militarized Line of Control and construction of the Baglihar Dam on the Chenab River in Jammu and Kashmir, which is part of the larger dispute on water sharing of the Indus River and its tributaries; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show the Junagadh claim in India's Gujarat State; by 2005, Pakistan, with UN assistance, repatriated 2.3 million Afghan refugees leaving slightly more than a million, many of whom remain at their own choosing; Pakistan has proposed and Afghanistan protests construction of a fence and laying of mines along portions of their porous border; Pakistan has sent troops into remote tribal areas to monitor and control the border with Afghanistan and to stem terrorist or other illegal activities"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "1,043,984 (Afghanistan)"
+      },
+      "IDPs": {
+        "text": "undetermined (government strikes on Islamic militants in South Waziristan); 34,000 (October 2005 earthquake; most of those displaced returned to their home villages in the spring of 2006) (2007)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "significant transit area for Afghan drugs, including heroin, opium, morphine, and hashish, bound for Iran, Western markets, the Gulf States, Africa, and Asia; financial crimes related to drug trafficking, terrorism, corruption, and smuggling remain problems; opium poppy cultivation estimated to be 2,300 hectares in 2007 with 600 of those hectares eradicated; federal and provincial authorities continue to conduct anti-poppy campaigns that utilizes forced eradication, fines, and arrests"
+    }
+  }
+}

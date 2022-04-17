@@ -1,0 +1,828 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southeastern Asia, northeast of Thailand, west of Vietnam"
+    },
+    "Geographic coordinates": {
+      "text": "18 00 N, 105 00 E"
+    },
+    "Map references": {
+      "text": "Southeast Asia"
+    },
+    "Area": {
+      "total": {
+        "text": "236,800 sq km"
+      },
+      "land": {
+        "text": "230,800 sq km"
+      },
+      "water": {
+        "text": "6,000 sq km"
+      },
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Area - comparative": {
+      "text": "about twice the size of Pennsylvania; slightly larger than Utah"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,274 km"
+      },
+      "border countries (5)": {
+        "text": "Burma 238 km, Cambodia 555 km, China 475 km, Thailand 1,845 km, Vietnam 2,161 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "tropical monsoon; rainy season (May to November); dry season (December to April)"
+    },
+    "Terrain": {
+      "text": "mostly rugged mountains; some plains and plateaus"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "710 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Phu Bia 2,817 m"
+    },
+    "Natural resources": {
+      "text": "timber, hydropower, gypsum, tin, gold, gemstones"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "10.6%"
+      },
+      "text": "arable land 6.2%; permanent crops 0.7%; permanent pasture 3.7%",
+      "forest": {
+        "text": "67.9%"
+      },
+      "other": {
+        "text": "21.5% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "3,100 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia"
+    },
+    "Natural hazards": {
+      "text": "floods, droughts"
+    },
+    "Environment - current issues": {
+      "text": "unexploded ordnance; deforestation; soil erosion; most of the population does not have access to potable water"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Ozone Layer Protection"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; most of the country is mountainous and thickly forested; the Mekong River forms a large part of the western boundary with Thailand"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Lao People's Democratic Republic"
+      },
+      "conventional short form": {
+        "text": "Laos"
+      },
+      "local long form": {
+        "text": "Sathalanalat Paxathipatai Paxaxon Lao"
+      },
+      "local short form": {
+        "text": "Mueang Lao (unofficial)"
+      },
+      "etymology": {
+        "text": "name means \"Land of the Lao [people]\""
+      }
+    },
+    "Government type": {
+      "text": "communist state"
+    },
+    "Capital": {
+      "name": {
+        "text": "Vientiane (Viangchan)"
+      },
+      "geographic coordinates": {
+        "text": "17 58 N, 102 36 E"
+      },
+      "time difference": {
+        "text": "UTC+7 (12 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "17 provinces (khoueng, singular and plural) and 1 capital city* (nakhon luang, singular and plural); Attapu, Bokeo, Bolikhamxai, Champasak, Houaphan, Khammouan, Louangnamtha, Louangphabang, Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang"
+    },
+    "Independence": {
+      "text": "19 July 1949 (from France)"
+    },
+    "National holiday": {
+      "text": "Republic Day (National Day), 2 December (1975)"
+    },
+    "Constitution": {
+      "text": "previous 1947 (preindependence); latest promulgated 13-15 August 1991; amended 2003, 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system similar in form to the French system"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Laos"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President BOUNNYANG Vorachit (since 20 April 2016); Vice President PHANKHAM Viphavan (since 20 April 2016)"
+      },
+      "head of government": {
+        "text": "Prime Minister THONGLOUN Sisoulit (since 20 April 2016); Deputy Prime Ministers BOUNTHONG Chitmani, SONXAI Siphandon, SOMDI Douangdi (since 20 April 2016)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president, approved by the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 20 April 2016 (next to be held in 2021); prime minister nominated by the president, elected by the National Assembly for 5-year term"
+      },
+      "election results": {
+        "text": "BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Sapha Heng Xat (149 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 20 March 2016 (next to be held in 2021)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - LPRP 144, independent 5"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)"
+      },
+      "judge selection and term of office": {
+        "text": "president of People's Supreme Court appointed by National Assembly on recommendation of the president of the republic for a 5-year term; vice presidents of People's Supreme Court appointed by the president of the republic on recommendation of the National Assembly; appointment of chamber judges NA; tenure of court vice presidents and chamber judges NA"
+      },
+      "subordinate courts": {
+        "text": "appellate courts; provincial, municipal, district, and military courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Lao People's Revolutionary Party or LPRP [BOUNNYANG Vorachit]",
+      "note": {
+        "text": "other parties proscribed"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "International Labor Organization"
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador MAI Xaignavong (since 3 August 2015)"
+      },
+      "chancery": {
+        "text": "2222 S Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 332-6416"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-4923"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Rena BITTER (since 2 November 2016)"
+      },
+      "embassy": {
+        "text": "Thadeua Road, Kilometer 9, Ban Somvang Tai, Hatsayfong District, Vientiane"
+      },
+      "mailing address": {
+        "text": "American Embassy Vientiane, Unit 46222, APO AP 96546-6222"
+      },
+      "telephone": {
+        "text": "[856] 21-48-7000"
+      },
+      "FAX": {
+        "text": "[856] 21-48-7190"
+      }
+    },
+    "Flag description": {
+      "text": "three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future"
+    },
+    "National symbol(s)": {
+      "text": "elephant; national colors: red, white, blue"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Pheng Xat Lao\" (Hymn of the Lao People)"
+      },
+      "lyrics/music": {
+        "text": "SISANA Sisane/THONGDY Sounthonevichit"
+      },
+      "note": {
+        "text": "music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$38.5 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$15.77 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "7.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$6,200 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Gross national saving": {
+      "text": "19.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "62.9%"
+      },
+      "government consumption": {
+        "text": "13.2%"
+      },
+      "investment in fixed capital": {
+        "text": "33.1%"
+      },
+      "investment in inventories": {
+        "text": "4.9%"
+      },
+      "exports of goods and services": {
+        "text": "34.9%"
+      },
+      "imports of goods and services": {
+        "text": "-49% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "21.6%"
+      },
+      "industry": {
+        "text": "32.8%"
+      },
+      "services": {
+        "text": "38.9% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sweet potatoes, vegetables, corn, coffee, sugarcane, tobacco, cotton, tea, peanuts, rice; cassava (manioc, tapioca), water buffalo, pigs, cattle, poultry"
+    },
+    "Industries": {
+      "text": "mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "8% (2016 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Labor force": {
+      "text": "3.521 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "73.1%"
+      },
+      "industry": {
+        "text": "6.1%"
+      },
+      "services": {
+        "text": "20.6% (2012 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "1.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Population below poverty line": {
+      "text": "22% (2013 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.3%"
+      },
+      "highest 10%": {
+        "text": "30.3% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "34.6 (2002)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.921 billion"
+      },
+      "expenditures": {
+        "text": "$3.824 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "21.2% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-6.6% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Public debt": {
+      "text": "65.6% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 October - 30 September"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.3% (2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "18.2% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.192 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$7.341 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$7.288 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$576.8 million (2011 est.)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Current account balance": {
+      "text": "$-2.265 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Exports": {
+      "text": "$2.769 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Exports - commodities": {
+      "text": "wood products, coffee, electricity, tin, copper, gold, cassava"
+    },
+    "Exports - partners": {
+      "text": "Thailand 40.1%, China 28.5%, Vietnam 13.7% (2016)"
+    },
+    "Imports": {
+      "text": "$5.233 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, vehicles, fuel, consumer goods"
+    },
+    "Imports - partners": {
+      "text": "Thailand 64.6%, China 16.5%, Vietnam 9.4% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.058 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Debt - external": {
+      "text": "$11.65 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$12.44 billion (31 December 2011 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Exchange rates": {
+      "text": "8,007.3 (2012 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "900,000"
+      },
+      "electrification - total population": {
+        "text": "87%"
+      },
+      "electrification - urban areas": {
+        "text": "97%"
+      },
+      "electrification - rural areas": {
+        "text": "82% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "11.46 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "4.239 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Electricity - exports": {
+      "text": "8.469 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Electricity - imports": {
+      "text": "2.05 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "4.541 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "1.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "210"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "98.2% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "3,500 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "3,480 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "500,000 Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "1,266,605"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "18 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "3.727 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "54 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "service to public is generally improving; the government relies on a radiotelephone network to communicate with remote areas"
+      },
+      "domestic": {
+        "text": "mobile cellular network coverage including 3G is relatively widespread, although usage has slowed as the regulator imposed a strict policy on pricing and competition is effectively discouraged; network performance has suffered because of insufficient maintenance and upgrades"
+      },
+      "international": {
+        "text": "country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China (2017)"
+      }
+    },
+    "Broadcast media": {
+      "text": "6 TV stations operating out of Vientiane - 3 government-operated and the others commercial; 17 provincial stations operating with nearly all programming relayed via satellite from the government-operated stations in Vientiane; Chinese and Vietnamese programming relayed via satellite from Lao National TV; broadcasts available from stations in Thailand and Vietnam in border areas; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies - 1 AM, 1 SW, and 3 FM; LNR's AM and FM programs are relayed via satellite constituting a large part of the programming schedules of the provincial radio stations; Thai radio broadcasts available in border areas and transmissions of multiple international broadcasters are also accessible (2012)"
+    },
+    "Internet country code": {
+      "text": ".la"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1.258 million"
+      },
+      "percent of population": {
+        "text": "18.2% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "142"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "11"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,181,187"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,356,497 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "RDPL (2016)"
+    },
+    "Airports": {
+      "text": "41 (2013)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "8"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "33"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "9"
+      },
+      "under 914 m": {
+        "text": "22 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "refined products 540 km (2013)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "39,586 km"
+      },
+      "paved": {
+        "text": "5,415 km"
+      },
+      "unpaved": {
+        "text": "34,171 km (2009)"
+      },
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Waterways": {
+      "text": "4,600 km (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m) (2012)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    }
+  },
+  "Communications ": {
+    "Military expenditures": {
+      "text": "0.23% of GDP (2011)"
+    },
+    "Military branches": {
+      "text": "Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18-months (2012)"
+    },
+    "Military - note": {
+      "text": "serving one of the world's least developed countries, the Lao People's Armed Forces (LPAF) is small, poorly funded, and ineffectively resourced; its mission focus is border and internal security, primarily in countering ethnic Hmong insurgent groups; together with the Lao People's Revolutionary Party and the government, the Lao People's Army (LPA) is the third pillar of state machinery, and as such is expected to suppress political and civil unrest and similar national emergencies; there is no perceived external threat to the state and the LPA maintains strong ties with the neighboring Vietnamese military (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Thailand but disputes remain over islands in the Mekong River; Cambodia and Laos have a longstanding border demarcation dispute; concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries; Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction for the same reasons"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Laos is a source and, to a lesser extent, transit and destination country for men, women, and children subjected to forced labor and sex trafficking; Lao economic migrants may encounter conditions of forced labor or sexual exploitation in destination countries, most often Thailand; Lao women and girls are exploited in Thailand\u2019s commercial sex trade, domestic service, factories, and agriculture; a small, possibly growing, number of Lao women and girls are sold as brides in China and South Korea and subsequently sex trafficked; Lao men and boys are victims of forced labor in the Thai fishing, construction, and agriculture industries; some Lao children, as well as Vietnamese and Chinese women and girls, are subjected to sex trafficking in Laos; other Vietnamese and Chinese, and possibly Burmese, adults and girls transit Laos for sexual and labor exploitation in neighboring countries, particularly Thailand"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Laos does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; authorities sustained moderate efforts to investigate, prosecute, and convict trafficking offenders; the government failed to make progress in proactively identifying victims exploited within the country or among those deported from abroad; the government continues to rely almost entirely on local and international organizations to provide and fund services to trafficking victims; although Lao men and boys are trafficked, most protective services are only available to women and girls, and long-term support is lacking; modest prevention efforts include the promotion of anti-trafficking awareness on state-controlled media (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "estimated opium poppy cultivation in 2015 was estimated to be 5,700 hectares, compared with 6,200 hectares in 2014; estimated potential production of between 84 and 176 mt of raw opium; unsubstantiated reports of domestic methamphetamine production; growing domestic methamphetamine problem"
+    }
+  }
+}

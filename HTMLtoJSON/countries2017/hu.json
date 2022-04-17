@@ -1,0 +1,790 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called \"Goulash Communism.\" Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Hungary"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Magyarorszag"
+      },
+      "etymology": {
+        "text": "the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the \"Oungroi,\" a name that was later Latinized to \"Ungri\" and which became \"Hungari\"; the name originally meant an \"[alliance of] ten tribes\"; the Hungarian name \"Magyarorszag\" means \"Country of the Magyars\"; the term may derive from the most prominent of the Hungarian tribes, the Megyer"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Budapest"
+      },
+      "geographic coordinates": {
+        "text": "47 30 N, 19 05 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)",
+      "counties": {
+        "text": "Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala"
+      },
+      "cities with county rights": {
+        "text": "Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg"
+      },
+      "capital city": {
+        "text": "Budapest"
+      }
+    },
+    "Independence": {
+      "text": "16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)"
+    },
+    "National holiday": {
+      "text": "Saint Stephen's Day, 20 August (1083); note - commemorates his cannonization and the transfer of his remains to Buda (now Budapest) in 1083"
+    },
+    "Constitution": {
+      "history": {
+        "text": "previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012"
+      },
+      "amendments": {
+        "text": "proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2013 (2016)"
+      }
+    },
+    "Legal system": {
+      "text": "civil legal system influenced by the German model"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Hungary"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "8 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age, 16 if married and marriage registered in Hungary; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Janos ADER (since 10 May 2012)"
+      },
+      "head of government": {
+        "text": "Prime Minister Viktor ORBAN (since 29 May 2010)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers proposed by the prime minister and appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held by spring 2022); prime minister elected by the National Assembly on the recommendation of the president"
+      },
+      "election results": {
+        "text": "Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 130 to 57"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 6 April 2014 (next to be held by April 2018)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Fidesz-KDNP 66.8%, Unity 19.1%, Jobbik 11.6%, LMP 2.5%; seats by party - Fidesz-KDNP 133, Unity 38, Jobbik 23, LMP 5"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Curia or Supreme Judicial Court (consists of the president, vice president, 5 department heads, and approximately 76 judges and is organized into civil, criminal, economic, and administrative-labor departments; Constitutional Court (consists of 15 judges including the court president)"
+      },
+      "judge selection and term of office": {
+        "text": "Curia president elected from among its members for 9 years by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement age; Constitutional Court judges elected by two-thirds vote of the National Assembly; members serve single renewable 12-year terms with mandatory retirement at age 70"
+      },
+      "subordinate courts": {
+        "text": "5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative and labor courts; 111 district or local courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Unity (electoral coalition of MSZP, E14, DK, PM, MLP)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Greenpeace Hungary (Greenpeace Magyarorszag)",
+      "other": {
+        "text": "Energy Club (Energia Klub)"
+      }
+    },
+    "International organization participation": {
+      "text": "Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Laszlo SZABO (since 8 September 2017)"
+      },
+      "chancery": {
+        "text": "3910 Shoemaker Street NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 362-6730"
+      },
+      "FAX": {
+        "text": "[1] (202) 966-8135"
+      },
+      "consulate(s) general": {
+        "text": "Los Angeles, New York"
+      },
+      "consulate(s)": {
+        "text": "Boston"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d\u2019Affaires David KOSTELANCIK (since 20 January 2017)"
+      },
+      "embassy": {
+        "text": "Szabadsag ter 12, H-1054 Budapest"
+      },
+      "mailing address": {
+        "text": "pouch"
+      },
+      "telephone": {
+        "text": "[36] (1) 475-4400"
+      },
+      "FAX": {
+        "text": "[36] (1) 475-4248"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country"
+    },
+    "National symbol(s)": {
+      "text": "Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himnusz\" (Hymn)"
+      },
+      "lyrics/music": {
+        "text": "Ferenc KOLCSEY/Ferenc ERKEL"
+      },
+      "note": {
+        "text": "adopted 1844"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Systemic economic challenges include long-term and youth unemployment, labor shortages, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$250.9 billion (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$124.4 billion (2016 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$26,000 (2014 est.)",
+      "note": {
+        "text": "data are in 2016 dollars"
+      },
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Gross national saving": {
+      "text": "24.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "50.4%"
+      },
+      "government consumption": {
+        "text": "20.2%"
+      },
+      "investment in fixed capital": {
+        "text": "17.9%"
+      },
+      "investment in inventories": {
+        "text": "1.1%"
+      },
+      "exports of goods and services": {
+        "text": "92.6%"
+      },
+      "imports of goods and services": {
+        "text": "-82.3% (2016 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "4.5%"
+      },
+      "industry": {
+        "text": "30.4%"
+      },
+      "services": {
+        "text": "65.1% (2016 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "wheat, corn, sunflower seed, potatoes, sugar beets; pigs, cattle, poultry, dairy products"
+    },
+    "Industries": {
+      "text": "mining, metallurgy, construction materials, processed foods, textiles, chemicals (especially pharmaceuticals), motor vehicles"
+    },
+    "Industrial production growth rate": {
+      "text": "-1.8% (2016 est.)",
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "Labor force": {
+      "text": "4.586 million (2016 est.)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "4.9%"
+      },
+      "industry": {
+        "text": "30.3%"
+      },
+      "services": {
+        "text": "64.5% (2015)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.8% (2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Population below poverty line": {
+      "text": "14.9% (2015 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.3%"
+      },
+      "highest 10%": {
+        "text": "22.4% (2015)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "28.6 (2014)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$56.73 billion"
+      },
+      "expenditures": {
+        "text": "$59.03 billion (2016 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "45.1% of GDP (2016 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.8% of GDP",
+      "note": {
+        "text": "Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012 the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening (2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Public debt": {
+      "text": "74.8% of GDP (2015 est.)",
+      "note": {
+        "text": "general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-0.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "63"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "1.35% (31 December 2015)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "2.9% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$46.14 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$64.74 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$69.85 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$14.51 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    },
+    "Current account balance": {
+      "text": "$3.986 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Exports": {
+      "text": "$88.32 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment 53.4%, other manufactures 31.2%, food products 8.4%, raw materials 3.4%, fuels and electricity 3.9% (2012 est.)"
+    },
+    "Exports - partners": {
+      "text": "Germany 28.2%, Romania 5.2%, Slovakia 5%, Austria 4.9%, France 4.8%, Italy 4.8%, Czech Republic 4.2%, Poland 4.2% (2016)"
+    },
+    "Imports": {
+      "text": "$83.43 billion (2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment 45.4%, other manufactures 34.3%, fuels and electricity 12.6%, food products 5.3%, raw materials 2.5% (2012)"
+    },
+    "Imports - partners": {
+      "text": "Germany 26.3%, Austria 6.4%, China 6.3%, Poland 5.5%, Slovakia 5.3%, Netherlands 4.9%, Czech Republic 4.9%, France 4.8%, Italy 4.8% (2016)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$33.12 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Debt - external": {
+      "text": "$127.4 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$232.3 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "22"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$159.8 billion (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Exchange rates": {
+      "text": "225.1 (2012 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "28.67 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "38.66 billion kWh (2015 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Electricity - exports": {
+      "text": "5.24 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Electricity - imports": {
+      "text": "17.95 billion kWh (2016 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "8.468 million kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "64.5% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "22.3% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0.7% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "14.1% of total installed capacity (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Crude oil - production": {
+      "text": "13,830 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "1,042 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "120,400 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "25.1 million bbl (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "156,100 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "157,200 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "50,510 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "67,860 bbl/day (2016 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Natural gas - production": {
+      "text": "1.772 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "17.14 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "545 million cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "6.79 billion cu m (2015 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "7.702 billion cu m (1 January 2017 es)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "44.2 million Mt (2015 est.)",
+      "country comparison to the world": {
+        "text": "64"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "3,119,735"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "32 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "11,779,908"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "119 (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modern telephone system is digital and highly automated; trunk services are carried by fiber-optic cable and digital microwave radio relay"
+      },
+      "domestic": {
+        "text": "competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones since 2000 and a decrease in the number of fixed-line connections"
+      },
+      "international": {
+        "text": "country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground terminals (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media (2016)"
+    },
+    "Internet country code": {
+      "text": ".hu"
+    },
+    "Internet users": {
+      "total": {
+        "text": "7,826,695"
+      },
+      "percent of population": {
+        "text": "79.3% (July 2016 est.)"
+      },
+      "country comparison to the world": {
+        "text": "50"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "5"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "75"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "20,042,185"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HA (2016)"
+    },
+    "Airports": {
+      "text": "41 (2013)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "20"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "6"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "1 (2017)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "21"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "8"
+      },
+      "under 914 m": {
+        "text": "11 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "3 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas (high-pressure transmission system) 5,873 km; gas (low-pressure distribution network) 83,619 km (2015); oil 850 km; refined products 1,200 km (2016)"
+    },
+    "Railways": {
+      "total": {
+        "text": "8,049 km"
+      },
+      "broad gauge": {
+        "text": "36 km 1.524-m gauge"
+      },
+      "standard gauge": {
+        "text": "7,794 km 1.435-m gauge (2,889 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "219 km 0.760-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "203,601 km"
+      },
+      "paved": {
+        "text": "77,087 km (includes 1,582 km of expressways)"
+      },
+      "unpaved": {
+        "text": "126,514 km (2014)"
+      },
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Waterways": {
+      "text": "1,622 km (most on Danube River) (2011)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Ports and terminals": {
+      "river port(s)": {
+        "text": "Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military expenditures": {
+      "text": "1.04% of GDP (2012)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Military branches": {
+      "text": "Hungarian Defense Forces: Land Forces, Hungarian Air Force (Magyar Legiero, ML) (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for voluntary military service; no conscription; 6-month service obligation (2012)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (countries of origin)": {
+        "text": "5,950 applicants for forms of legal stay other than asylum (Ukraine) (2015)"
+      },
+      "stateless persons": {
+        "text": "135 (2016)"
+      },
+      "note": {
+        "text": "432,282 estimated refugee and migrant arrivals (January 2015 - November 2017); Hungary is predominantly a transit country and hosts fewer than 600 migrants and asylum seekers as of September 2017"
+      }
+    },
+    "Illicit drugs": {
+      "text": "transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy"
+    }
+  }
+}

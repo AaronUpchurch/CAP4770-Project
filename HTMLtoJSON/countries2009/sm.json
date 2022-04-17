@@ -1,0 +1,526 @@
+{
+  "Introduction": {
+    "Background": {
+      "text": "The third smallest state in Europe (after the Holy See and Monaco), San Marino also claims to be the world's oldest republic. According to tradition, it was founded by a Christian stonemason named Marinus in A.D. 301. San Marino's foreign policy is aligned with that of Italy; social and political trends in the republic also track closely with those of its larger neighbor."
+    }
+  },
+  "Geography": {
+    "Location": {
+      "text": "Southern Europe, an enclave in central Italy"
+    },
+    "Geographic coordinates": {
+      "text": "43 46 N, 12 25 E"
+    },
+    "Map references": {},
+    "Europe": {},
+    "Area": {
+      "total": {
+        "text": "61 sq km"
+      },
+      "land": {
+        "text": "61 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      }
+    },
+    "Area - comparative": {
+      "text": "about one third times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "39 km"
+      },
+      "border countries": {
+        "text": "Italy 39 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "Mediterranean; mild to cool winters; warm, sunny summers"
+    },
+    "Terrain": {
+      "text": "rugged mountains"
+    },
+    "Elevation extremes": {
+      "lowest point": {
+        "text": "Torrente Ausa 55 m"
+      },
+      "highest point": {
+        "text": "Monte Titano 755 m"
+      }
+    },
+    "Natural resources": {
+      "text": "building stone"
+    },
+    "Land use": {
+      "arable land": {
+        "text": "16.67%"
+      },
+      "permanent crops": {
+        "text": "0%"
+      },
+      "other": {
+        "text": "83.33% (2005)"
+      }
+    },
+    "Irrigated land": {
+      "text": "NA"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "NA"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Desertification, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "Air Pollution"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; smallest independent state in Europe after the Holy See and Monaco; dominated by the Apennines"
+    }
+  },
+  "People": {
+    "Population": {
+      "text": "30,324 (July 2009 est.)"
+    },
+    "Age structure": {
+      "0-14 years": {
+        "text": "16.8% (male 2,636/female 2,451)"
+      },
+      "15-64 years": {
+        "text": "65.8% (male 9,539/female 10,428)"
+      },
+      "65 years and over": {
+        "text": "17.4% (male 2,273/female 2,997) (2009 est.)"
+      }
+    },
+    "Median age": {
+      "total": {
+        "text": "41.5 years"
+      },
+      "male": {
+        "text": "41.1 years"
+      },
+      "female": {
+        "text": "41.9 years (2009 est.)"
+      }
+    },
+    "Population growth rate": {
+      "text": "1.148% (2009 est.)"
+    },
+    "Birth rate": {
+      "text": "9.63 births/1,000 population (2009 est.)"
+    },
+    "Death rate": {
+      "text": "8.48 deaths/1,000 population (July 2009 est.)"
+    },
+    "Net migration rate": {
+      "text": "10.32 migrant(s)/1,000 population (2009 est.)"
+    },
+    "Urbanization": {
+      "urban population": {
+        "text": "94% of total population (2008)"
+      },
+      "rate of urbanization": {
+        "text": "0.9% annual rate of change (2005-10 est.)"
+      }
+    },
+    "Sex ratio": {
+      "at birth": {
+        "text": "1.09 male(s)/female"
+      },
+      "under 15 years": {
+        "text": "1.08 male(s)/female"
+      },
+      "15-64 years": {
+        "text": "0.92 male(s)/female"
+      },
+      "65 years and over": {
+        "text": "0.76 male(s)/female"
+      },
+      "total population": {
+        "text": "0.91 male(s)/female (2009 est.)"
+      }
+    },
+    "Infant mortality rate": {
+      "total": {
+        "text": "5.34 deaths/1,000 live births"
+      },
+      "male": {
+        "text": "5.76 deaths/1,000 live births"
+      },
+      "female": {
+        "text": "4.88 deaths/1,000 live births (2009 est.)"
+      }
+    },
+    "Life expectancy at birth": {
+      "total population": {
+        "text": "81.97 years"
+      },
+      "male": {
+        "text": "78.53 years"
+      },
+      "female": {
+        "text": "85.72 years (2009 est.)"
+      }
+    },
+    "Total fertility rate": {
+      "text": "1.36 children born/woman (2009 est.)"
+    },
+    "HIV/AIDS - adult prevalence rate": {
+      "text": "NA"
+    },
+    "HIV/AIDS - people living with HIV/AIDS": {
+      "text": "NA"
+    },
+    "HIV/AIDS - deaths": {
+      "text": "NA"
+    },
+    "Nationality": {
+      "noun": {
+        "text": "Sammarinese (singular and plural)"
+      },
+      "adjective": {
+        "text": "Sammarinese"
+      }
+    },
+    "Ethnic groups": {
+      "text": "Sammarinese, Italian"
+    },
+    "Religions": {
+      "text": "Roman Catholic"
+    },
+    "Languages": {
+      "text": "Italian"
+    },
+    "Literacy": {
+      "definition": {
+        "text": "age 10 and over can read and write"
+      },
+      "total population": {
+        "text": "96%"
+      },
+      "male": {
+        "text": "97%"
+      },
+      "female": {
+        "text": "95%"
+      }
+    },
+    "Education expenditures": {
+      "text": "NA"
+    }
+  },
+  "Government": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of San Marino "
+      },
+      "conventional short form": {
+        "text": "San Marino"
+      },
+      "local long form": {
+        "text": "Repubblica di San Marino"
+      },
+      "local short form": {
+        "text": "San Marino"
+      }
+    },
+    "Government type": {
+      "text": "republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "San Marino"
+      },
+      "geographic coordinates": {
+        "text": "43 56 N, 12 25 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 municipalities (castelli, singular - castello); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, Fiorentino, Montegiardino, San Marino Citta, Serravalle"
+    },
+    "Independence": {
+      "text": "3 September 301"
+    },
+    "National holiday": {
+      "text": "Founding of the Republic, 3 September (AD 301)"
+    },
+    "Constitution": {
+      "text": "8 October 1600; electoral law of 1926 serves some of the functions of a constitution"
+    },
+    "Legal system": {
+      "text": "based on civil law system with Italian law influences; has not accepted compulsory ICJ jurisdiction"
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Co-chiefs of State Captain Regent Francesco MUSSONI and Captain Regent Stefano PALMIERI (for the period 1 October 2009-31 March 2010)"
+      },
+      "head of government": {
+        "text": "Secretary of State for Foreign and Political Affairs Antonella MULARONI (since 3 December 2008)"
+      },
+      "cabinet": {
+        "text": "Congress of State elected by the Great and General Council for a five-year term"
+      },
+      "elections": {
+        "text": "co-chiefs of state (captains regent) elected by the Great and General Council for a six-month term; election last held in September 2009 (next to be held in March 2010); secretary of state for foreign and political affairs elected by the Great and General Council for a five-year term; election last held 9 November 2008 (next to be held by 2013)"
+      },
+      "election results": {
+        "text": "Francesco MUSSONI and Stefano PALMIERI elected captains regent; percent of legislative vote - NA; Antonella MULARONI elected secretary of state for foreign and political affairs; percent of legislative vote - NA"
+      },
+      "note": "the popularly elected parliament (Grand and General Council) selects two of its members to serve as the Captains Regent (co-chiefs of state) for a six-month period; they preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 10 other members, all selected by the Grand and General Council; assisting the captains regent are 10 secretaries of state; the secretary of state for Foreign Affairs has assumed some prime ministerial roles"
+    },
+    "note": "the popularly elected parliament (Grand and General Council) selects two of its members to serve as the Captains Regent (co-chiefs of state) for a six-month period; they preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 10 other members, all selected by the Grand and General Council; assisting the captains regent are 10 secretaries of state; the secretary of state for Foreign Affairs has assumed some prime ministerial roles",
+    "Legislative branch": {
+      "text": "unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members are elected by popular vote to serve five-year terms)",
+      "elections": {
+        "text": "last held 9 November 2008 (next to be held by June 2013)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Pact for San Marino coalition 54.2%"
+      }
+    },
+    "Judicial branch": {
+      "text": "Council of Twelve or Consiglio dei XII"
+    },
+    "Political parties and leaders": {
+      "text": "Christian Democrats or PDCS [Pasquale VALENTINI]; Communist Refoundation or RC [Ivan FOSHI]; Democrats of the Center or DdC [Giovanni LONGERNINI]; Freedom List (including NPS and We Sammarinesi or NS [Gabriele GATTEI]; New Socialist Party or NPS [Augusto CASALI]; Party of Socialists and Democrats or PDS [Paride ANDREOLI]; Popular Alliance or AP [Carlo FRANCIOSI]; Union of Moderates (including National Alliance or ANS [Glcuco SANSOVINI] and San Marino Populars or pop [Romeo MORRI and Angela VENTURINI]; United Left of SU [Alessandro ROSSI]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "NA"
+    },
+    "International organization participation": {
+      "text": "CE, FAO, IBRD, ICAO, ICCt, ICRM, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WFTU, WHO, WIPO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Paolo RONDELLI"
+      },
+      "chancery": {
+        "text": "888 27th Street NW, Suite 900, Washington, DC 20006"
+      },
+      "telephone": {
+        "text": "202-337-2260"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "text": "the US does not have an embassy in San Marino; the ambassador to Italy is accredited to San Marino"
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of white (top) and light blue with the national coat of arms superimposed in the center; the coat of arms has a shield (featuring three towers on three peaks) flanked by a wreath, below a crown and above a scroll bearing the word LIBERTAS (Liberty)"
+    }
+  },
+  "Economy": {
+    "Economy - overview": {
+      "text": "San Marino's economy relies heavily on its tourism and banking industries, as well as from the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The economy also benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The San Marino government, sworn in on 3 December 2008, will continue to work towards an economic cooperation agreement with Italy - a longstanding priority - as well as harmonizing its fiscal laws with EU members. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy, which supplies much of its food."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$850 million (2004 est.)"
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.048 billion (2004)"
+    },
+    "GDP - real growth rate": {
+      "text": "4.3% (2007 est.)"
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$41,900 (2007)"
+    },
+    "GDP - composition by sector": {
+      "agriculture": {
+        "text": "0.1%"
+      },
+      "industry": {
+        "text": "46.5%"
+      },
+      "services": {
+        "text": "53.4% (2007)"
+      }
+    },
+    "Labor force": {
+      "text": "22,660 (2008)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "0.1%"
+      },
+      "industry": {
+        "text": "37.7%"
+      },
+      "services": {
+        "text": "62.2% (2008 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.1% (2008)"
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$690.6 million"
+      },
+      "expenditures": {
+        "text": "$652.9 million (2006)"
+      }
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "-1.5% (2006)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "7.58% (31 December 2007)"
+    },
+    "Stock of money": {
+      "text": "$1.326 billion (31 December 2007)"
+    },
+    "Stock of quasi money": {
+      "text": "$4.584 billion (31 December 2007)"
+    },
+    "Stock of domestic credit": {
+      "text": "$7.511 billion (31 December 2007)"
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Agriculture - products": {
+      "text": "wheat, grapes, corn, olives; cattle, pigs, horses, beef, cheese, hides"
+    },
+    "Industries": {
+      "text": "tourism, banking, textiles, electronics, ceramics, cement, wine"
+    },
+    "Industrial production growth rate": {
+      "text": "3.1% (2007)"
+    },
+    "Exports": {
+      "text": "$1.291 billion (2004)"
+    },
+    "Exports - commodities": {
+      "text": "building stone, lime, wood, chestnuts, wheat, wine, baked goods, hides, ceramics"
+    },
+    "Imports": {
+      "text": "$2.035 billion (2004)"
+    },
+    "Imports - commodities": {
+      "text": "wide variety of consumer manufactures, food"
+    },
+    "Debt - external": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "euros (EUR) per US dollar - 0.6734 (2008 est.), 0.7345 (2007), 0.7964 (2006), 0.8041 (2005), 0.8054 (2004)"
+    }
+  },
+  "Communications": {
+    "Telephones - main lines in use": {
+      "text": "21,300 (2008)"
+    },
+    "Telephones - mobile cellular": {
+      "text": "17,700 (2008)"
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "adequate connections"
+      },
+      "domestic": {
+        "text": "automatic telephone system completely integrated into Italian system; combined fixed-line and mobile-cellular teledensity 130 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 378; connected to Italian international network (2008)"
+      }
+    },
+    "Radio broadcast stations": {
+      "text": "AM 0, FM 2, shortwave 0 (2008)"
+    },
+    "Television broadcast stations": {
+      "text": "1 (San Marino residents also receive broadcasts from Italy) (1997)"
+    },
+    "Internet country code": {
+      "text": ".sm"
+    },
+    "Internet hosts": {
+      "text": "6,734 (2009)"
+    },
+    "Internet users": {
+      "text": "17,000 (2008)"
+    }
+  },
+  "Transportation": {
+    "Roadways": {
+      "total": {
+        "text": "292 km "
+      },
+      "paved": {
+        "text": "292 km (2006)"
+      }
+    }
+  },
+  "Military": {
+    "Military branches": {
+      "text": "no regular military forces; Voluntary Military Force (Corpi Militari Voluntar) performs ceremonial duties and limited police support functions (2008)"
+    },
+    "Military service age and obligation": {
+      "text": "16-55 for voluntary service in Voluntary Military Force (2006)"
+    },
+    "Manpower available for military service": {
+      "males age 16-49": {
+        "text": "6,613 (2008 est.)"
+      }
+    },
+    "Manpower fit for military service": {
+      "males age 16-49": {
+        "text": "5,343"
+      },
+      "females age 16-49": {
+        "text": "6,048 (2009 est.)"
+      }
+    },
+    "Manpower reaching militarily significant age annually": {
+      "male": {
+        "text": "161"
+      },
+      "female": {
+        "text": "160 (2009 est.)"
+      }
+    },
+    "Military expenditures": {
+      "text": "NA"
+    },
+    "Military - note": {
+      "text": "defense is the responsibility of Italy"
+    }
+  },
+  "Transnational Issues": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}
