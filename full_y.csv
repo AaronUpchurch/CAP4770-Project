@@ -1,8 +1,8 @@
 Country,Rate
 Barbados,0.31
-Antigua and Barbuda,0.32
+Antigua And Barbuda,0.32
 Grenada,0.64
-Saint Vincent and the Grenadines,1.01
+Saint Vincent And Grenadines,1.01
 Jordan,1.98
 Niger,10.15
 Cuba,10.19
@@ -24,12 +24,12 @@ Hungary,11.77
 Djibouti,11.95
 Estonia,11.96
 Burundi,12.12
-Republic of Moldova,12.17
+Moldova,12.17
 Japan,12.24
 Guinea,12.33
 Sweden,12.37
 Guinea-Bissau,12.38
-Democratic Republic of the Congo,12.41
+Congo Democratic Republic,12.41
 Angola,12.55
 Benin,12.71
 Sri Lanka,12.89
@@ -43,12 +43,12 @@ Belgium,13.93
 Slovenia,13.97
 Burkina Faso,14.38
 Zambia,14.43
-United States of America,14.51
+United States,14.51
 Samoa,14.6
 Somalia,14.66
 Togo,14.81
-Cabo Verde,15.23
-C“te d?Ivoire,15.66
+Cape Verde,15.23
+Cote D''Ivoire,15.66
 Cameroon,15.92
 Latvia,16.06
 Montenegro,16.22
@@ -59,12 +59,12 @@ Ukraine,17.73
 Mongolia,18.02
 Kazakhstan,18.05
 Uruguay,18.83
-Venezuela (Bolivarian Republic of),2.1
+Venezuela,2.1
 Syrian Arab Republic,2.11
-Sao Tome and Principe,2.2
+Sao Tome And Principe,2.2
 Jamaica,2.28
 Turkey,2.34
-Brunei Darussalam,2.54
+Brunei,2.54
 Philippines,2.54
 Indonesia,2.55
 Honduras,2.58
@@ -79,14 +79,14 @@ Myanmar,2.96
 Lithuania,20.15
 Botswana,20.22
 Vanuatu,20.96
-Republic of Korea,21.16
+South Korea,21.16
 Russian Federation,21.6
 Central African Republic,22.96
 Mozambique,23.19
 South Africa,23.49
 Zimbabwe,23.63
 Suriname,25.89
-Micronesia (Federated States of),28.99
+Micronesia, Federated States Of,28.99
 Tunisia,3.18
 Cyprus,3.18
 Bahamas,3.37
@@ -101,7 +101,7 @@ Kiribati,30.56
 Italy,4.33
 Tonga,4.37
 Oman,4.47
-Libya,4.49
+Libyan Arab Jamahiriya,4.49
 Timor-Leste,4.53
 Qatar,4.66
 Nicaragua,4.66
@@ -111,7 +111,7 @@ Eswatini,40.46
 Guyana,40.85
 Bhutan,5.07
 Dominican Republic,5.11
-Iran (Islamic Republic of),5.13
+Iran, Islamic Republic of,5.13
 Israel,5.15
 United Arab Emirates,5.24
 Spain,5.28
@@ -123,7 +123,7 @@ Mauritania,5.47
 Cambodia,5.49
 Malaysia,5.77
 Afghanistan,5.96
-Lao People's Democratic Republic,5.98
+Lao People''s Democratic Republic,5.98
 Turkmenistan,6.07
 El Salvador,6.11
 Paraguay,6.16
@@ -132,12 +132,12 @@ Brazil,6.41
 Bulgaria,6.5
 China,6.67
 South Sudan,6.69
-Bolivia (Plurinational State of),6.82
+Bolivia,6.82
 Saint Lucia,6.85
 Nigeria,6.87
-United Kingdom of Great Britain and Northern Ireland,6.88
+United Kingdom,6.88
 Yemen,7.06
-The former Yugoslav Republic of Macedonia,7.15
+Macedonia,7.15
 Bahrain,7.2
 Viet Nam,7.22
 Portugal,7.22
@@ -155,11 +155,11 @@ Thailand,7.95
 Mali,7.96
 Chile,8.04
 Argentina,8.14
-United Republic of Tanzania,8.15
+Tanzania,8.15
 Democratic People's Republic of Korea,8.2
-Bosnia and Herzegovina,8.25
+Bosnia And Herzegovina,8.25
 Germany,8.27
-Trinidad and Tobago,8.28
+Trinidad And Tobago,8.28
 Uzbekistan,8.28
 Kyrgyzstan,8.28
 Comoros,8.46
@@ -168,12 +168,12 @@ Mauritius,8.75
 Ireland,8.9
 Lesotho,87.48
 Madagascar,9.18
-Netherlands,9.27
+Netherlands Antilles,9.27
 Poland,9.3
 Slovakia,9.31
 Rwanda,9.45
 Ethiopia,9.45
-Czechia,9.48
+Czech Republic,9.48
 Fiji,9.51
 Gambia,9.64
 France,9.65
