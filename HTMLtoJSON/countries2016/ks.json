@@ -1,0 +1,784 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US in 1945. After World War II, a democratic-based government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime, from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his \"Sunshine\" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 and is South Korea's first female leader. South Korea held a non-permanent seat (2013-14) on the UN Security Council and will host the 2018 Winter Olympic Games. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, multiple nuclear and missile tests, and the exchange of artillery fire across the DMZ."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Korea"
+      },
+      "conventional short form": {
+        "text": "South Korea"
+      },
+      "local long form": {
+        "text": "Taehan-min'guk"
+      },
+      "local short form": {
+        "text": "Han'guk"
+      },
+      "abbreviation": {
+        "text": "ROK"
+      },
+      "etymology": {
+        "text": "derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name \"Han'guk\" means \"land of the Han,\" where \"han\" refers to a \"great [leader]\" (similar to the title \"khan\")"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, is being developed as a new capital"
+      },
+      "geographic coordinates": {
+        "text": "37 33 N, 126 59 E"
+      },
+      "time difference": {
+        "text": "UTC+9 (14 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)",
+      "provinces": {
+        "text": "Chungbuk (North Chungcheong), Chungnam (South Chungcheong), Gangwon, Gyeongbuk (North Gyeongsang), Gyeonggi, Gyeongnam (South Gyeongsang), Jeju, Jeonbuk (North Jeolla), Jeonnam (South Jeolla)"
+      },
+      "metropolitan cities": {
+        "text": "Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan"
+      },
+      "special city": {
+        "text": "Seoul"
+      },
+      "special self-governing city": {
+        "text": "Sejong"
+      }
+    },
+    "Independence": {
+      "text": "15 August 1945 (from Japan)"
+    },
+    "National holiday": {
+      "text": "Liberation Day, 15 August (1945)"
+    },
+    "Constitution": {
+      "text": "effective 17 July 1948; amended several times, last in 1987 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of South Korea"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "19 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President PARK Geun-hye (since 25 February 2013)"
+      },
+      "head of government": {
+        "text": "Prime Minister HWANG Kyo-ahn (since 18 June 2015); Deputy Prime Ministers YOO Il-ho (since 13 January 2016), LEE Joon-sik (since 13 January 2016)"
+      },
+      "cabinet": {
+        "text": "State Council appointed by the president on the prime minister's recommendation"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by simple majority popular vote for a single 5-year term; election last held on 19 December 2012 (next to be held in December 2017); prime minister appointed by president, approved by National Assembly"
+      },
+      "election results": {
+        "text": "PARK Geun-Hye elected president; percent of vote - PARK Geun-Hye (NFP) 51.6%, MOON Jae-In (DUP) 48%, other 0.4%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Kuk Hoe (300 seats; 246 members directly elected in single-seat constituencies by simple majority vote and 54 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 13 April 2016 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Saenuri 33.5%, PP 26.7%, MPK 25.5%, Justice Party 7.2%, other 7.1%; seats by party - MPK 123, Saenuri 122, PP 38, Justice Party 6, independent 11"
+      },
+      "note": {
+        "text": "seats by party as of October 2016 - Saenuri 129, MPK 122, PP 38, Justice Party 6, independent 5"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of South Korea (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year non-renewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "People's Party or PP [AHN Cheol-soo and CHUN Jung-bae]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "People's Solidarity for Participatory Democracy"
+    },
+    "International organization participation": {
+      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador AHN Ho-young (since 7 June 2013)"
+      },
+      "chancery": {
+        "text": "2450 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-5600"
+      },
+      "FAX": {
+        "text": "[1] (202) 797-0595"
+      },
+      "consulate(s) general": {
+        "text": "Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Mark William LIPPERT (since 21 November 2014)"
+      },
+      "embassy": {
+        "text": "188 Sejong-daero, Jongno-gu, Seoul 110-710"
+      },
+      "mailing address": {
+        "text": "US Embassy Seoul, Unit "
+      },
+      "telephone": {
+        "text": "[82] (2) 397-4114"
+      },
+      "FAX": {
+        "text": "[82] (2) 725-0152"
+      }
+    },
+    "Flag description": {
+      "text": "white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony"
+    },
+    "National symbol(s)": {
+      "text": "taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon); national colors: red, white, blue, black"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Aegukga\" (Patriotic Song)"
+      },
+      "lyrics/music": {
+        "text": "YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay"
+      },
+      "note": {
+        "text": "adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "The South Korean economy's long-term challenges include a rapidly aging population, inflexible labor market, dominance of large conglomerates (chaebols), and the heavy reliance on exports, which comprise about half of GDP. In an effort to address the long term challenges and sustain economic growth, the current government has prioritized structural reforms, deregulation, promotion of entrepreneurship and creative industries, and the competitiveness of small- and medium-sized enterprises."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$1.744 trillion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$1.377 trillion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.9% (2013 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$34,700 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Gross national saving": {
+      "text": "35.3% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "49.5%"
+      },
+      "government consumption": {
+        "text": "15.2%"
+      },
+      "investment in fixed capital": {
+        "text": "29.1%"
+      },
+      "investment in inventories": {
+        "text": "-0.7%"
+      },
+      "exports of goods and services": {
+        "text": "45.9%"
+      },
+      "imports of goods and services": {
+        "text": "-38.9% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "2.3%"
+      },
+      "industry": {
+        "text": "38%"
+      },
+      "services": {
+        "text": "59.7% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rice, root crops, barley, vegetables, fruit; cattle, pigs, chickens, milk, eggs; fish"
+    },
+    "Industries": {
+      "text": "electronics, telecommunications, automobile production, chemicals, shipbuilding, steel"
+    },
+    "Industrial production growth rate": {
+      "text": "1.7% (2015 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Labor force": {
+      "text": "26.91 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "5.7%"
+      },
+      "industry": {
+        "text": "24.2%"
+      },
+      "services": {
+        "text": "70.2% (2015 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Population below poverty line": {
+      "text": "14.6% (2013 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "6.8%"
+      },
+      "highest 10%": {
+        "text": "37.8% (Q4 2014)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "35.8 (2000)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$299.9 billion"
+      },
+      "expenditures": {
+        "text": "$300.1 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "21.8% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "0% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Public debt": {
+      "text": "43.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "2% (31 December 2014)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "4.26% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$532.9 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.754 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$2.406 trillion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.193 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Current account balance": {
+      "text": "$84.37 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Exports": {
+      "text": "$613 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Exports - commodities": {
+      "text": "semiconductors, petrochemicals, automobile/auto parts, ships, wireless communication equipment, flat display displays, steel, electronics, plastics, computers"
+    },
+    "Exports - partners": {
+      "text": "China 26%, US 13.3%, Hong Kong 5.8%, Vietnam 5.3%, Japan 4.9% (2015)"
+    },
+    "Imports": {
+      "text": "$524.1 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Imports - commodities": {
+      "text": "crude oil/petroleum products, semiconductors, natural gas, coal, steel, computers, wireless communication equipment, automobiles, fine chemical, textiles"
+    },
+    "Imports - partners": {
+      "text": "China 20.7%, Japan 10.5%, US 10.1%, Germany 4.8%, Saudi Arabia 4.5% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$363.6 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Debt - external": {
+      "text": "$407 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$179.2 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$259.3 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Exchange rates": {
+      "text": "1,108.29 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "513 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "495 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "100 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "13"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "69.6% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "26.8% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "1.7% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "1.9% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "6,510 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "2.815 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "3.01 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "2.407 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "1.3 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "865,600 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Natural gas - production": {
+      "text": "322 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "47.4 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "49.08 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "7.079 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "651 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "28,882,783"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "59 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "58.935 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "120 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent domestic and international services featuring rapid incorporation of new technologies"
+      },
+      "domestic": {
+        "text": "fixed-line and mobile-cellular services widely available with the latter subscribership up to about 120 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce"
+      },
+      "international": {
+        "text": "country code - 82; numerous submarine cables provide links throughout Asia, Australia, the Middle East, Europe, and US; satellite earth stations - 66 (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations (2010)"
+    },
+    "Internet country code": {
+      "text": ".kr"
+    },
+    "Internet users": {
+      "total": {
+        "text": "44.153 million"
+      },
+      "percent of population": {
+        "text": "89.9% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "13"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "12"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "348"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "65,482,307"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "11.297 billion mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "HL (2016)"
+    },
+    "Airports": {
+      "text": "111 (2013)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "71"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "19"
+      },
+      "1,524 to 2,437 m": {
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "13"
+      },
+      "under 914 m": {
+        "text": "23 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "40"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "38 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "466 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 2,216 km; oil 16 km; refined products 889 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "3,460 km"
+      },
+      "standard gauge": {
+        "text": "3,460 km 1.435-m gauge (1,422 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "104,983 km"
+      },
+      "paved": {
+        "text": "83,199 km (includes 3,779 km of expressways)"
+      },
+      "unpaved": {
+        "text": "21,784 km (2009)"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Waterways": {
+      "text": "1,600 km (most navigable only by small craft) (2011)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "786"
+      },
+      "by type": {
+        "text": "bulk carrier 191, cargo 235, carrier 8, chemical tanker 130, container 72, liquefied gas 44, passenger 5, passenger/cargo 15, petroleum tanker 55, refrigerated cargo 15, roll on/roll off 10, vehicle carrier 6"
+      },
+      "foreign-owned": {
+        "text": "31 (China 6, France 2, Japan 14, Taiwan 1, US 8)"
+      },
+      "registered in other countries": {
+        "text": "457 (Bahamas 1, Cambodia 10, Ghana 1, Honduras 6, Hong Kong 3, Indonesia 2, Kiribati 1, Liberia 2, Malta 2, Marshall Islands 41, North Korea 1, Panama 373, Philippines 1, Russia 1, Singapore 3, Tuvalu 1, unknown 8) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Busan (16,163,842), Kwangyang (2,061,958), Incheon (1,924,644)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Republic of Korea Army, Navy (includes Marine Corps), Air Force (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "20-30 years of age for compulsory military service, with middle school education required; minimum conscript service obligation - 21 months (Army, Marines), 23 months (Navy), 24 months (Air Force); 18-26 years of age for voluntary military service; women, in service since 1950, admitted to 7 service branches, including infantry, but excluded from artillery, armor, anti-air, and chaplaincy corps; HIV-positive individuals are exempt from military service (2012)"
+    },
+    "Military expenditures": {
+      "text": "2.8% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary; South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "197 (2015)"
+      }
+    }
+  }
+}

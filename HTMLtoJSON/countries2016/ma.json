@@ -1,0 +1,844 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Madagascar was one of the last major landmasses on earth to be colonized by humans. The earliest settlers from present-day Indonesia arrived between A.D. 350 and 550. The island attracted Arab and Persian traders as early as the 7th century, and migrants from Africa arrived around A.D. 1000. Madagascar was a pirate stronghold during the late 17th and early 18th centuries, and served as a slave trading center into the 19th century. From the 16th to the late 19th century, a native Merina Kingdom dominated much of Madagascar. The island was conquered by the French in 1896 who made it a colony; independence was regained in 1960. During 1992-93, free presidential and National Assembly elections were held ending 17 years of single-party rule. In 1997, in the second presidential race, Didier RATSIRAKA, the leader during the 1970s and 1980s, was returned to the presidency. The 2001 presidential election was contested between the followers of Didier RATSIRAKA and Marc RAVALOMANANA, nearly causing secession of half of the country. In April 2002, the High Constitutional Court announced RAVALOMANANA the winner. RAVALOMANANA won a second term in 2006 but, following protests in 2009, handed over power to the military, which then conferred the presidency on the mayor of Antananarivo, Andry RAJOELINA, in what amounted to a coup d'etat. Following a lengthy mediation process led by the Southern African Development Community, Madagascar held UN-supported presidential and parliamentary elections in 2013. Former de facto finance minister Hery RAJAONARIMAMPIANINA won a runoff election in December 2013 and was inaugurated in January 2014."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, island in the Indian Ocean, east of Mozambique"
+    },
+    "Geographic coordinates": {
+      "text": "20 00 S, 47 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "587,041 sq km"
+      },
+      "land": {
+        "text": "581,540 sq km"
+      },
+      "water": {
+        "text": "5,501 sq km"
+      },
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly less than twice the size of Arizona"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "4,828 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or 100 nm from the 2,500-m isobath"
+      }
+    },
+    "Climate": {
+      "text": "tropical along coast, temperate inland, arid in south"
+    },
+    "Terrain": {
+      "text": "narrow coastal plain, high plateau and mountains in center"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "615 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Maromokotro 2,876 m"
+    },
+    "Natural resources": {
+      "text": "graphite, chromite, coal, bauxite, rare earth elements, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "71.1%"
+      },
+      "text": "arable land 6%; permanent crops 1%; permanent pasture 64.1%",
+      "forest": {
+        "text": "21.5%"
+      },
+      "other": {
+        "text": "7.4% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10,860 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "periodic cyclones; drought; and locust infestation",
+      "volcanism": {
+        "text": "Madagascar's volcanoes have not erupted in historical times"
+      }
+    },
+    "Environment - current issues": {
+      "text": "soil erosion results from deforestation and overgrazing; desertification; surface water contaminated with raw sewage and other organic wastes; several endangered species of flora and fauna unique to the island"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "world's fourth-largest island; strategic location along Mozambique Channel"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Madagascar"
+      },
+      "conventional short form": {
+        "text": "Madagascar"
+      },
+      "local long form": {
+        "text": "Republique de Madagascar/Repoblikan'i Madagasikara"
+      },
+      "local short form": {
+        "text": "Madagascar/Madagasikara"
+      },
+      "former": {
+        "text": "Malagasy Republic"
+      },
+      "note": {
+        "text": "the name \"Madageiscar\" was first used by the 13th-century Venetian explorer Marco POLO, as a corrupted transliteration of Mogadishu, the Somali port with which POLO confused the island"
+      }
+    },
+    "Government type": {
+      "text": "semi-presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Antananarivo"
+      },
+      "geographic coordinates": {
+        "text": "18 55 S, 47 31 E"
+      },
+      "time difference": {
+        "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara"
+    },
+    "Independence": {
+      "text": "26 June 1960 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 26 June (1960)"
+    },
+    "Constitution": {
+      "text": "previous 1992; latest passed by referendum 17 November 2010, promulgated 11 December 2010 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "the father must be a citizen of Madagascar; in the case of a child born out of wedlock, the mother must be a citizen"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "unknown"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Hery Martial RAJAONARIMAMPIANINA Rakotoarimana (since 25 January 2014)"
+      },
+      "head of government": {
+        "text": "Prime Minister Olivier Mahafaly SOLONANDRASANA (since 13 April 2016); Prime Minister Jean RAVELONARIVO (since 17 January 2015) resigned 8 April 2016"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 20 December 2013 (next to be held in 2018); prime minister nominated by the National Assembly, appointed by the president"
+      },
+      "election results": {
+        "text": "Hery Martial RAJAONARIMAMPIANINA elected president; percent of vote in second round - Hery Martial RAJAONARIMAMPIANINA (FIDO) 53.5%, Jean Louis ROBINSON (AVANA) 46.5%"
+      },
+      "note": {
+        "text": "on 17 March 2009, democratically elected President Marc RAVALOMANANA stepped down, handing the government over to the military, which in turn conferred the presidency on opposition leader and Antananarivo mayor Andry RAJOELINA; a power-sharing agreement established a 15-month transition period to conclude with a general election in 2010, which failed to occur; a subsequent agreement aimed for an early 2013 election - the first round was held on 25 October 2013 and the second on 20 December 2013"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in two-seat constituencies by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "National Assembly - last held on 20 December 2013 (next to be held in 2017); note - a power-sharing agreement in the summer of 2009 established a 15-month transition, concluding in general elections held in 2013 after repeated delays"
+      },
+      "election results": {
+        "text": "National Assembly - percent of vote by party - MPAR 17.3%, MR 10.8%, VPM MMM 8.2%, PHI 3.8%, AMHM 3.5%, LF 2.8%, FFF 1.6%, AIM 1.0%, SFN 0.3%, independent and other 50.6%; seats by party - MPAR 49, MR 20, VPM MMM 13, PHI 5, AMHM 2, LF 5, FFF 2, AIM 2, SFN 2, other 22, independent 25, seats with delayed elections 4"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); note - the judiciary includes a High Court of Justice responsible for adjudicating crimes and misdemeanors by government officials including the president"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court heads elected by the president and judiciary officials to serve single-renewable, 3-year terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 6-year terms"
+      },
+      "subordinate courts": {
+        "text": "Courts of Appeal; provincial and city tribunals"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Vondrona Politika Miara dia Malagasy Miara Miainga or VPM MMM [Milavonjy ANDRIASY]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Council of Christian Churches or FFKM"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Velotiana Rakotoanosy RAOBELINA (since 20 June 2011)"
+      },
+      "chancery": {
+        "text": "2374 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-5525 through 5526"
+      },
+      "FAX": {
+        "text": "[1] (202) 265-3034"
+      },
+      "consulate(s) general": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Robert T. YAMATE (since 13 January 2015); note - also accredited to Comoros"
+      },
+      "embassy": {
+        "text": "Lot 207A, Point Liberty, Andranoro, Antehiroka, 105 Antananarivo"
+      },
+      "mailing address": {
+        "text": "B.P. 620, Antsahavola, Antananarivo"
+      },
+      "telephone": {
+        "text": "[261] (23) 480 00"
+      },
+      "FAX": {
+        "text": "[261] 20 23 480 35 or [261] 33 44 328 17"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity"
+    },
+    "National symbol(s)": {
+      "text": "traveller's palm, zebu; national colors: red, green, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Ry Tanindraza nay malala o\" (Oh, Our Beloved Fatherland)"
+      },
+      "lyrics/music": {
+        "text": "Pasteur RAHAJASON/Norbert RAHARISOA"
+      },
+      "note": {
+        "text": "adopted 1959"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Madagascar regained AGOA access in January 2015 following the democratic election of a new president the previous year. In November 2015, the International Monetary Fund (IMF) approved a Rapid Credit Facility to Madagascar worth about $42.1 million to help the government meet its balance of payments needs. The IMF also approved a staff monitoring program to guide policy implementation and indicated that Madagascar must demonstrate the capability to sustain reforms to qualify for future requests for a credit facility."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$33.29 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$9.737 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.3% (2013 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,500 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "217"
+      }
+    },
+    "Gross national saving": {
+      "text": "10.2% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "82.5%"
+      },
+      "government consumption": {
+        "text": "13.3%"
+      },
+      "investment in fixed capital": {
+        "text": "15.8%"
+      },
+      "investment in inventories": {
+        "text": "0%"
+      },
+      "exports of goods and services": {
+        "text": "31.5%"
+      },
+      "imports of goods and services": {
+        "text": "-43.1% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "25.8%"
+      },
+      "industry": {
+        "text": "16.1%"
+      },
+      "services": {
+        "text": "58.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, vanilla, sugarcane, cloves, cocoa, rice, cassava (manioc, tapioca), beans, bananas, peanuts; livestock products"
+    },
+    "Industries": {
+      "text": "meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining"
+    },
+    "Industrial production growth rate": {
+      "text": "4.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Labor force": {
+      "text": "12.57 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.6% (2014 est.)"
+    },
+    "Population below poverty line": {
+      "text": "75.3% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.2%"
+      },
+      "highest 10%": {
+        "text": "34.7% (2010 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "38.1 (1999)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.149 billion"
+      },
+      "expenditures": {
+        "text": "$1.654 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "11.8% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "6.1% (2014 est.)",
+      "country comparison to the world": {
+        "text": "196"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "5% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "60% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.506 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$2.399 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.658 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$34 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Exports": {
+      "text": "$2.144 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Exports - commodities": {
+      "text": "coffee, vanilla, shellfish, sugar, cotton cloth, clothing, chromite, petroleum products"
+    },
+    "Exports - partners": {
+      "text": "France 15.2%, US 12.7%, China 7.1%, South Africa 5.9%, Japan 5.5%, Netherlands 5.4%, Germany 5.1%, Belgium 5%, India 4.4% (2015)"
+    },
+    "Imports": {
+      "text": "$2.766 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Imports - commodities": {
+      "text": "capital goods, petroleum, consumer goods, food"
+    },
+    "Imports - partners": {
+      "text": "China 24.8%, France 10.3%, Bahrain 5.6%, India 5.5%, Kuwait 4.5%, Mauritius 4.5%, South Africa 4.3% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$773.8 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Debt - external": {
+      "text": "$2.853 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "2,025.1 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "19,500,000"
+      },
+      "electrification - total population": {
+        "text": "15%"
+      },
+      "electrification - urban areas": {
+        "text": "37%"
+      },
+      "electrification - rural areas": {
+        "text": "4% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "1.4 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "1.3 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "m 500,000 kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "69.6% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "30.1% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.2% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "205"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "15,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "149"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "15,230 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "215"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "2.01 billion cu m (1 January 2012 es)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "3 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "253,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "1 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "11.152 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "47 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "system is above average for the region; competition among the three mobile service providers has spurred recent growth in the mobile market"
+      },
+      "domestic": {
+        "text": "combined fixed-line and mobile-cellular teledensity about 45 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 261; landing point for the EASSy, SEACOM, and LION fiber-optic submarine cable systems; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2007)"
+    },
+    "Internet country code": {
+      "text": ".mg"
+    },
+    "Internet users": {
+      "total": {
+        "text": "994,000"
+      },
+      "percent of population": {
+        "text": "4.2% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "31"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "11"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "546,946"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "30,512,607 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "5R (2016)"
+    },
+    "Airports": {
+      "text": "83 (2013)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "26"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "16"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "57"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "38"
+      },
+      "under 914 m": {
+        "text": "18 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "836 km"
+      },
+      "narrow gauge": {
+        "text": "836 km 1.000-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "37,476 km"
+      },
+      "paved": {
+        "text": "6,103 km"
+      },
+      "unpaved": {
+        "text": "31,373 km (2010)"
+      },
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Waterways": {
+      "text": "600 km (432 km navigable) (2011)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "cargo 1"
+      },
+      "registered in other countries": {
+        "text": "1 (unknown 1) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "People's Armed Forces: Intervention Force, Development Force, and Aeronaval Force (navy and air); National Gendarmerie"
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for male-only voluntary military service; no conscription; service obligation is 18 months for military or equivalent civil service; 20-30 years of age for National Gendarmerie recruits and 35 years of age for those with military experience (2012)"
+    },
+    "Military expenditures": {
+      "text": "0.69% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands, part of the French Southern and Antarctic Lands)"
+    },
+    "Refugees and internally displaced persons": {
+      "IDPs": {
+        "text": "21,475 (floods in 2015) (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for heroin"
+    }
+  }
+}

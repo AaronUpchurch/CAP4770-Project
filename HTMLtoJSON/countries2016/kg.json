@@ -1,0 +1,832 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of present-day Kyrgyzstan was formally annexed to the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1936 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in the spring of 2005 resulted in the ouster of President Askar AKAEV, who had run the country since 1990. Former Prime Minister Kurmanbek BAKIEV overwhelmingly won the presidential election in the summer of 2005. Over the next few years, he manipulated the parliament to accrue new powers for the presidency. In July 2009, after months of harassment against his opponents and media critics, BAKIEV won reelection in a presidential campaign that the international community deemed flawed. In April 2010, violent protests in Bishkek led to the collapse of the BAKIEV regime and his eventual flight to Minsk, Belarus. His successor, Roza OTUNBAEVA, served as transitional president until Almazbek ATAMBAEV was inaugurated in December 2011, marking the first peaceful transfer of presidential power in independent Kyrgyzstan's history. Continuing concerns include: the trajectory of democratization, endemic corruption, poor interethnic relations, border security vulnerabilities, and potential terrorist threats."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Central Asia, west of China, south of Kazakhstan"
+    },
+    "Geographic coordinates": {
+      "text": "41 00 N, 75 00 E"
+    },
+    "Map references": {
+      "text": "Asia"
+    },
+    "Area": {
+      "total": {
+        "text": "199,951 sq km"
+      },
+      "land": {
+        "text": "191,801 sq km"
+      },
+      "water": {
+        "text": "8,150 sq km"
+      },
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Dakota"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,573 km"
+      },
+      "border countries (4)": {
+        "text": "China 1,063 km, Kazakhstan 1,212 km, Tajikistan 984 km, Uzbekistan 1,314 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone"
+    },
+    "Terrain": {
+      "text": "peaks of the Tien Shan mountain range and associated valleys and basins encompass the entire country"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "2,988 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Jengish Chokusu (Pik Pobedy) 7,439 m"
+    },
+    "Natural resources": {
+      "text": "abundant hydropower; gold, rare earth metals; locally exploitable coal, oil, and natural gas; other deposits of nepheline, mercury, bismuth, lead, and zinc"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "55.4%"
+      },
+      "text": "arable land 6.7%; permanent crops 0.4%; permanent pasture 48.3%",
+      "forest": {
+        "text": "5.1%"
+      },
+      "other": {
+        "text": "39.5% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "10,233 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "water pollution; many people get their water directly from contaminated streams and wells; as a result, water-borne diseases are prevalent; increasing soil salinity from faulty irrigation practices"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Kyrgyz Republic"
+      },
+      "conventional short form": {
+        "text": "Kyrgyzstan"
+      },
+      "local long form": {
+        "text": "Kyrgyz Respublikasy"
+      },
+      "local short form": {
+        "text": "Kyrgyzstan"
+      },
+      "former": {
+        "text": "Kirghiz Soviet Socialist Republic"
+      },
+      "etymology": {
+        "text": "a combination of the Turkic words \"kyrg\" (forty) and \"-yz\" (tribes) with the Persian suffix \"-stan\" (country) creating the meaning \"Land of the forty tribes\"; the name refers to the forty clans united by the legendary Kyrgyz hero, MANAS"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bishkek"
+      },
+      "geographic coordinates": {
+        "text": "42 52 N, 74 36 E"
+      },
+      "time difference": {
+        "text": "UTC+6 (11 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)",
+      "note": {
+        "text": "administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)"
+      }
+    },
+    "Independence": {
+      "text": "31 August 1991 (from the Soviet Union)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 31 August (1991)"
+    },
+    "Constitution": {
+      "text": "previous 1993; latest adopted 27 June 2010, effective 2 July 2010; note - the current constitution prohibits any change until 2020 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system which includes features of French civil law and Russian Federation laws"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Kyrgyzstan"
+      },
+      "dual citizenship recognized": {
+        "text": "yes, but only if a mutual treaty on dual citizenship is in force"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Almazbek ATAMBAEV (since 1 December 2011)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sooronbay JEENBEKOV (since 13 April 2016)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers proposed by the prime minister, appointed by the president; defense and security committee chairs appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a single 6-year term; election last held on 30 October 2011 (next to be held in 2017); prime minister nominated by the majority party or majority coalition in the Supreme Council, appointed by the president"
+      },
+      "election results": {
+        "text": "Almazbek ATAMBAEV elected president; percent of vote - Almazbek ATAMBAEV (SDPK) 63.2%, Adakhan MADUMAROV (All Kyrgyzstan) 14.7%, Kamchybek TASHIEV (Homeland) 14.3%, other 7.8%; Sooronbay JEENBEKOV elected prime minister; Supreme Council vote - 115 to 0"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Supreme Council or Jogorku Kengesh (120 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 4 October 2015 (next to be held in 2020)"
+      },
+      "election results": {
+        "text": "Supreme Council - percent of vote by party - SDPK 27.4%, Respublika-Ata-Jurt 20.1%, Kyrgyzstan Party 12.9%, Onuguu-Progress 9.3%, Bir Bol 8.5%, Ata-Meken 7.8%, other 14%; seats by party - SDPK 38, Respublika-Ata-Jurt 28, Kyrgyzstan Party 18, Onuguu-Progress 13, Bir Bol 12, Ata-Meken 11"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of 25 judges); Constitutional Court (consists of 9 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court and Constitutional Court judges appointed by the Supreme Council on the recommendation of the president; Supreme Court judges serve for 10 years, Constitutional Court judges serve for 15 years; mandatory retirement at age 70 for judges of both courts"
+      },
+      "subordinate courts": {
+        "text": "Higher Court of Arbitration; oblast (provincial) and city courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Social-Democratic Party of Kyrgyzstan or SDPK [Almazbek ATAMBAEV]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Union of True Muslims [Nurlan MOTUEV]"
+    },
+    "International organization participation": {
+      "text": "ADB, CICA, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Kadyr TOKTOGULOV (since 23 February 2015)"
+      },
+      "chancery": {
+        "text": "2360 Massachusetts Ave. NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 449-9822-23"
+      },
+      "FAX": {
+        "text": "[1] (202) 386-7550"
+      },
+      "consulate(s)": {
+        "text": "New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Sheila GWALTNEY (14 October 2015)"
+      },
+      "embassy": {
+        "text": "171 Prospect Mira, Bishkek 720016"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[996] (312) 551-241, (517) 777-217"
+      },
+      "FAX": {
+        "text": "[996] (312) 551-264"
+      }
+    },
+    "Flag description": {
+      "text": "red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of a \"tunduk\" - the crown of a traditional Kyrgyz yurt; red symbolizes bravery and valor, the sun evinces peace and wealth"
+    },
+    "National symbol(s)": {
+      "text": "gyrfalcon; national colors: red, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Kyrgyz Respublikasynyn Mamlekettik Gimni\" (National Anthem of the Kyrgyz Republic)"
+      },
+      "lyrics/music": {
+        "text": "Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV"
+      },
+      "note": {
+        "text": "adopted 1992"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Kyrgyz leaders hope the country\u2019s August 2015 accession to the Eurasian Economic Union will bolster trade and investment, but slowing economies in Russia and China, low commodity prices, and currency fluctuations continue to hamper economic growth. The keys to future growth include progress in fighting corruption, improving administrative transparency, restructuring domestic industry, and attracting foreign aid and investment."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$18.75 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$6.65 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "10.5% (2013 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$3,200 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Gross national saving": {
+      "text": "9.3% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "81.3%"
+      },
+      "government consumption": {
+        "text": "17.9%"
+      },
+      "investment in fixed capital": {
+        "text": "30.2%"
+      },
+      "investment in inventories": {
+        "text": "2.7%"
+      },
+      "exports of goods and services": {
+        "text": "36.3%"
+      },
+      "imports of goods and services": {
+        "text": "-68.4% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "17.7%"
+      },
+      "industry": {
+        "text": "26%"
+      },
+      "services": {
+        "text": "56.3% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "cotton, potatoes, vegetables, grapes, fruits and berries; sheep, goats, cattle, wool"
+    },
+    "Industries": {
+      "text": "small machinery, textiles, food processing, cement, shoes, sawn logs, refrigerators, furniture, electric motors, gold, rare earth metals"
+    },
+    "Industrial production growth rate": {
+      "text": "0.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Labor force": {
+      "text": "2.732 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "48%"
+      },
+      "industry": {
+        "text": "12.5%"
+      },
+      "services": {
+        "text": "39.5% (2005 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "8.1% (2014 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Population below poverty line": {
+      "text": "33.7% (2011 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.8%"
+      },
+      "highest 10%": {
+        "text": "27.8% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "29 (2001)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.987 billion"
+      },
+      "expenditures": {
+        "text": "$2.085 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "29.9% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-1.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Public debt": {
+      "text": "68.8% of GDP (2015 est.)"
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "2.5% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "22.36% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "10"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.062 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.399 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.074 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$79 million (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Current account balance": {
+      "text": "-$1.245 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Exports": {
+      "text": "$1.794 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Exports - commodities": {
+      "text": "gold, cotton, wool, garments, meat; mercury, uranium, electricity; machinery; shoes"
+    },
+    "Exports - partners": {
+      "text": "Switzerland 26%, Uzbekistan 22.6%, Kazakhstan 20.8%, UAE 4.9%, Turkey 4.5%, Afghanistan 4.5%, Russia 4.2% (2015)"
+    },
+    "Imports": {
+      "text": "$5.204 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Imports - commodities": {
+      "text": "oil and gas, machinery and equipment, chemicals, foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 56.4%, Russia 17.1%, Kazakhstan 9.9% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.957 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Debt - external": {
+      "text": "$7.257 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$3.667 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$418.3 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Exchange rates": {
+      "text": "46.144 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "14 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "11 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Electricity - exports": {
+      "text": "72 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Electricity - imports": {
+      "text": "300 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "3.9 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "21.1% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "78.9% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "186"
+      }
+    },
+    "Crude oil - production": {
+      "text": "1,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "19.65 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "40 million bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "1,571 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "37,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "3,070 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "35,710 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Natural gas - production": {
+      "text": "34 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "429 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "395 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "5.663 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "9.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "408,037"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "7 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "7.579 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "134 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "telecommunications infrastructure is being upgraded; loans from the European Bank for Reconstruction and Development (EBRD) are being used to install a digital network, digital radio-relay stations, and fiber-optic links"
+      },
+      "domestic": {
+        "text": "fixed-line penetration remains low and concentrated in urban areas; multiple mobile-cellular service providers with growing coverage; mobile-cellular subscribership up to about 130 per 100 persons in 2015"
+      },
+      "international": {
+        "text": "country code - 996; connections with other CIS countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat); connected internationally by the Trans-Asia-Europe (TAE) fiber-optic line (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run TV broadcaster operates 2 nationwide networks and 6 regional stations; roughly 20 private TV stations operating with most rebroadcasting other channels; state-run radio broadcaster operates 2 networks; about 20 private radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".kg"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1.713 million"
+      },
+      "percent of population": {
+        "text": "30.2% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "113"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "10"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "625,294"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "69,290 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "EX (2016)"
+    },
+    "Airports": {
+      "text": "28 (2013)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "18"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "3"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "3 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "8 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 480 km; oil 16 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "470 km"
+      },
+      "broad gauge": {
+        "text": "470 km 1.520-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "34,000 km (2007)"
+      },
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Waterways": {
+      "text": "600 km (2010)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Ports and terminals": {
+      "lake port(s)": {
+        "text": "Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "State Committee on Defense Affairs (GKDO): Ground Forces, Air Force (includes Air Defense Forces) (2015)"
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation, with optional fee-based 3-year service in the callup mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2013)"
+    },
+    "Military expenditures": {
+      "text": "3.74% of GDP (2011)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Kyrgyzstan has yet to ratify the 2001 boundary delimitation with Kazakhstan; disputes in Isfara Valley delay completion of delimitation with Tajikistan; delimitation of 130 km of border with Uzbekistan is hampered by serious disputes over enclaves and other areas"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "9,118 (2015); note - most stateless people were born in Kyrgyzstan, have lived there many years, or married Kyrgyz citizens; in 2009, Kyrgyzstan adopted a national action plan to speed up the exchange of old Soviet passports for Kyrgyz ones; stateless people are unable to register marriages and births, to travel within the country or abroad, to own property, or to receive social benefits"
+      }
+    },
+    "Illicit drugs": {
+      "text": "limited illicit cultivation of cannabis and opium poppy for CIS markets; limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; major consumer of opiates"
+    }
+  }
+}

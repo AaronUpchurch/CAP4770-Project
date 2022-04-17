@@ -1,0 +1,824 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Although known to Arab and Malay sailors as early as the 10th century, Mauritius was first explored by the Portuguese in the 16th century and subsequently settled by the Dutch - who named it in honor of Prince Maurits van NASSAU - in the 17th century. The French assumed control in 1715, developing the island into an important naval base overseeing Indian Ocean trade, and establishing a plantation economy of sugar cane. The British captured the island in 1810, during the Napoleonic Wars. Mauritius remained a strategically important British naval base, and later an air station, playing an important role during World War II for anti-submarine and convoy operations, as well as the collection of signals intelligence. Independence from the UK was attained in 1968. A stable democracy with regular free elections and a positive human rights record, the country has attracted considerable foreign investment and has one of Africa's highest per capita incomes."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, island in the Indian Ocean, about 800 km (500 mi) east of Madagascar"
+    },
+    "Geographic coordinates": {
+      "text": "20 17 S, 57 33 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "2,040 sq km"
+      },
+      "land": {
+        "text": "2,030 sq km"
+      },
+      "water": {
+        "text": "10 sq km"
+      },
+      "note": {
+        "text": "includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues"
+      },
+      "country comparison to the world": {
+        "text": "181"
+      }
+    },
+    "Area - comparative": {
+      "text": "almost 11 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "177 km"
+    },
+    "Maritime claims": {
+      "text": "measured from claimed archipelagic straight baselines",
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm or to the edge of the continental margin"
+      }
+    },
+    "Climate": {
+      "text": "tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)"
+    },
+    "Terrain": {
+      "text": "small coastal plain rising to discontinuous mountains encircling central plateau"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Mont Piton 828 m"
+    },
+    "Natural resources": {
+      "text": "arable land, fish"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "43.8%"
+      },
+      "text": "arable land 38.4%; permanent crops 2%; permanent pasture 3.4%",
+      "forest": {
+        "text": "17.3%"
+      },
+      "other": {
+        "text": "38.9% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "190 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "cyclones (November to April); almost completely surrounded by reefs that may pose maritime hazards"
+    },
+    "Environment - current issues": {
+      "text": "water pollution, degradation of coral reefs"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the main island, from which the country derives its name, is of volcanic origin and is almost entirely surrounded by coral reefs; former home of the dodo, a large flightless bird related to pigeons, driven to extinction by the end of the 17th century through a combination of hunting and the introduction of predatory species"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Mauritius"
+      },
+      "conventional short form": {
+        "text": "Mauritius"
+      },
+      "local long form": {
+        "text": "Republic of Mauritius"
+      },
+      "local short form": {
+        "text": "Mauritius"
+      },
+      "note": {
+        "text": "island named after Prince Maurice VAN NASSAU, stadtholder of the Dutch Republic, in 1598"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Port Louis"
+      },
+      "geographic coordinates": {
+        "text": "20 09 S, 57 29 E"
+      },
+      "time difference": {
+        "text": "UTC+4 (9 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "9 districts and 3 dependencies*; Agalega Islands*, Black River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka, Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne"
+    },
+    "Independence": {
+      "text": "12 March 1968 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 12 March (1968); note - also became Republic Day (1992)"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 12 March 1968; amended many times, last in 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "civil legal system based on French civil law with some elements of English common law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 out of the previous 7 years including the last 12 months"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ameenah GURIB-FAKIM (since 5 June 2015); Vice President Paramaslyum (aka Barlen) Pillay VYAPOORY (since 4 April 2016)"
+      },
+      "head of government": {
+        "text": "Prime Minister Sir Anerood JUGNAUTH (since 17 December 2014)"
+      },
+      "cabinet": {
+        "text": "Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "president and vice president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 4 June 2015 (next to be held in 2020); prime minister and deputy prime minister appointed by the president, responsible to the National Assembly"
+      },
+      "election results": {
+        "text": "Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly or Assemblee Nationale (70 seats maximum; 62 members directly elected in single- and multi-seat constituencies by simple majority vote and up to 8 seats allocated to non-elected party candidates by the Electoral Commissioner's Office to ensure fair and adequate representation of each community and party in the Assembly, as outlined in the Constitution; members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 10 December 2014 (next to be held by 2019); note - the National Assembly was dissolved on 6 October 2014, resulting in early elections"
+      },
+      "election results": {
+        "text": "percent of vote by party - Alliance Lepep 49.8%, PTR-MMM 38.5%, FSM 2.1%, OPR 1.1%, other 8.5%; elected seats by party - Alliance Lepep 47, PTR-MMM 13, OPR 2; appointed seats Alliance Lepep 4, PTR-MMM 3"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 17 puisne judges); note - the Judicial Committee of the Privy Council (in London) serves as the final court of appeal"
+      },
+      "judge selection and term of office": {
+        "text": "chief justice appointed by the president after consultation with the prime minister; senior puisne judge appointed by the president with the advice of the chief justice; other puisne judges appointed by the president with the advice of the Judicial and Legal Commission, a 4-member body of judicial officials including the chief justice; all judges serve until retirement at age 62"
+      },
+      "subordinate courts": {
+        "text": "Court of Civil Appeal; Court of Criminal Appeal; Public Bodies Appeal Tribunal"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR [Serge CLAIR]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Say No to Coal!",
+      "other": {
+        "text": "various labor unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AOSIS, AU, C, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Sooroojdev PHOKEER (since 3 August 2015)"
+      },
+      "chancery": {
+        "text": "1709 N Street NW, Washington, DC 20036; administrative offices at 3201 Connecticut Avenue NW, Suite 441, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 244-1491 through 1492"
+      },
+      "FAX": {
+        "text": "[1] (202) 966-0983"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Melanie ZIMMERMAN (since 2016); note - also accredited to Seychelles"
+      },
+      "embassy": {
+        "text": "4th Floor, Rogers House, John Kennedy Avenue, Port Louis"
+      },
+      "mailing address": {
+        "text": "international mail"
+      },
+      "telephone": {
+        "text": "[230] 202-4400"
+      },
+      "FAX": {
+        "text": "[230] 208-9534"
+      }
+    },
+    "Flag description": {
+      "text": "four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island"
+    },
+    "National symbol(s)": {
+      "text": "dodo bird, Trochetia Boutoniana flower; national colors: red, blue, yellow, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Motherland\""
+      },
+      "lyrics/music": {
+        "text": "Jean Georges PROSPER/Philippe GENTIL"
+      },
+      "note": {
+        "text": "adopted 1968"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Mauritius' sound economic policies and prudent banking practices helped to mitigate negative effects of the global financial crisis in 2008-09. GDP grew in the 3-4% per year range in 2010-14, and the country continues to expand its trade and investment outreach around the globe. Growth in the US and Europe fostered goods and services exports, including tourism, while lower oil prices kept inflation low in 2015."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$22.93 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$11.61 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.2% (2013 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$18,200 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Gross national saving": {
+      "text": "15.3% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "74.2%"
+      },
+      "government consumption": {
+        "text": "14.4%"
+      },
+      "investment in fixed capital": {
+        "text": "17.7%"
+      },
+      "investment in inventories": {
+        "text": "3.5%"
+      },
+      "exports of goods and services": {
+        "text": "49.8%"
+      },
+      "imports of goods and services": {
+        "text": "-59.6% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "4%"
+      },
+      "industry": {
+        "text": "22.3%"
+      },
+      "services": {
+        "text": "73.7% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, tea, corn, potatoes, bananas, pulses; cattle, goats; fish"
+    },
+    "Industries": {
+      "text": "food processing (largely sugar milling), textiles, clothing, mining, chemicals, metal products, transport equipment, nonelectrical machinery, tourism"
+    },
+    "Industrial production growth rate": {
+      "text": "2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Labor force": {
+      "text": "614,300 (2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture and fishing": {
+        "text": "9%"
+      },
+      "construction and industry": {
+        "text": "30%"
+      },
+      "transportation and communication": {
+        "text": "7%"
+      },
+      "trade, restaurants, hotels": {
+        "text": "22%"
+      },
+      "finance": {
+        "text": "6%"
+      },
+      "other services": {
+        "text": "25% (2007)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Population below poverty line": {
+      "text": "8% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39 (2006 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.341 billion"
+      },
+      "expenditures": {
+        "text": "$2.764 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "20.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.6% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Public debt": {
+      "text": "61.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "3.2% (2014 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "9% (31 December 2010)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.5% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$2.634 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$12.15 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$14.08 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$7.442 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Current account balance": {
+      "text": "-$713 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Exports": {
+      "text": "$3.094 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Exports - commodities": {
+      "text": "clothing and textiles, sugar, cut flowers, molasses, fish, primates (for research)"
+    },
+    "Exports - partners": {
+      "text": "UK 13.2%, UAE 12.4%, France 11.9%, US 10.7%, South Africa 8.6%, Madagascar 6.5%, Italy 5.4%, Spain 4.4% (2015)"
+    },
+    "Imports": {
+      "text": "$5.354 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Imports - commodities": {
+      "text": "manufactured goods, capital equipment, foodstuffs, petroleum products, chemicals"
+    },
+    "Imports - partners": {
+      "text": "India 18.7%, China 17.8%, France 7.1%, South Africa 6.5%, Vietnam 4.4% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.919 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Debt - external": {
+      "text": "$11.29 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "28.706 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "2.8 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "2.6 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.1 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "129"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "96.5% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "3.3% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.2% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "212"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "25,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "25,960 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "5.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "380,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "28 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "1.762 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "132 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "small system with good service"
+      },
+      "domestic": {
+        "text": "monopoly over fixed-line services terminated in 2005; fixed-line teledensity roughly 25 per 100 persons; mobile-cellular services launched in 1989 with current teledensity roughly 130 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 230; landing point for the SAFE submarine cable that provides links to Asia and South Africa where it connects to the SAT-3/WASC submarine cable that provides further links to parts of East Africa, and Europe; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "the government maintains control over TV broadcasting through the Mauritius Broadcasting Corporation (MBC), which operates 3 analog and 10 digital TV stations; MBC is a shareholder in a local company that operates 2 pay-TV stations; the state retains the largest radio broadcast network with multiple stations; several private radio broadcasters have entered the market since 2001; transmissions of at least 2 international broadcasters are available (2007)"
+    },
+    "Internet country code": {
+      "text": ".mu"
+    },
+    "Internet users": {
+      "total": {
+        "text": "672,000"
+      },
+      "percent of population": {
+        "text": "50.1% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "175"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "13"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "1,466,527"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "168.773 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "3B (2016)"
+    },
+    "Airports": {
+      "text": "5 (2013)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "2"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "2"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "2,149 km"
+      },
+      "paved": {
+        "text": "2,149 km (includes 75 km of expressways) (2012)"
+      },
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "4"
+      },
+      "by type": {
+        "text": "passenger/cargo 2, petroleum tanker 1, refrigerated cargo 1 (2010)"
+      },
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Port Louis"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "no regular military forces; Mauritius Police Force, Special Mobile Force, National Coast Guard"
+    },
+    "Military expenditures": {
+      "text": "0.19% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Mauritius and Seychelles claim the Chagos Islands; claims French-administered Tromelin Island"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Mauritius is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Mauritian girls are induced or sold into prostitution, often by peers, family members, or businessmen offering other forms of employment; Mauritian adults have been identified as labor trafficking victims in the UK, Belgium, and Canada, while Mauritian women from Rodrigues Island are also subject to domestic servitude in Mauritius; Malagasy women transit Mauritius en route to the Middle East for jobs as domestic servants and subsequently are subjected to forced labor; Cambodian men are victims of forced labor on foreign fishing vessels in Mauritius\u2019 territorial waters; other migrant workers from East and South Asia and Madagascar are also subject to forced labor in Mauritius\u2019 manufacturing and construction sectors"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Mauritius does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the government made modest efforts to address child sex trafficking but none related to adult forced labor; law enforcement lacks an understanding of trafficking crimes outside of child sex trafficking, despite increasing evidence of other forms of human trafficking; authorities made no trafficking prosecutions or convictions and made modest efforts to assist a couple of child sex trafficking victims; officials sustained an extensive public awareness campaign to prevent child sex trafficking, but no efforts were made to raise awareness or reduce demand for forced adult or child labor (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "consumer and transshipment point for heroin from South Asia; small amounts of cannabis produced and consumed locally; significant offshore financial industry creates potential for money laundering, but corruption levels are relatively low and the government appears generally to be committed to regulating its banking industry"
+    }
+  }
+}

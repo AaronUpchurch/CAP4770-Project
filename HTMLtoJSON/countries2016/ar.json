@@ -1,0 +1,809 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "After World War II, an era of Peronist populism and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Argentine Republic"
+      },
+      "conventional short form": {
+        "text": "Argentina"
+      },
+      "local long form": {
+        "text": "Republica Argentina"
+      },
+      "local short form": {
+        "text": "Argentina"
+      },
+      "etymology": {
+        "text": "originally the area was referred to as Tierra Argentina, i.e., \"Land beside the Silvery River\" or \"silvery land,\" which referred to the massive estuary in the east of the country, the Rio de la Plata (River of Silver); over time the name shortened to simply Argentina or \"silvery\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Buenos Aires"
+      },
+      "geographic coordinates": {
+        "text": "34 36 S, 58 22 W"
+      },
+      "time difference": {
+        "text": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego), Tucuman",
+      "note": {
+        "text": "the US does not recognize any claims to Antarctica"
+      }
+    },
+    "Independence": {
+      "text": "9 July 1816 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Revolution Day, 25 May (1810)"
+    },
+    "Constitution": {
+      "text": "several previous; latest effective 11 May 1853; amended many times, last in 1994 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system based on West European legal systems; note - in 2014, Congress passed government-backed reform to the civil code that will go into effect in 2016"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "2 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Mauricio MACRI (since 10 December 2015); Vice President Gabriela MICHETTI (since 10 December 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Mauricio MACRI (since 10 December 2015); Vice President Gabriela MICHETTI (since 10 December 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president and vice president directly elected on the same ballot by qualified majority popular vote for a 4-year term (eligible for a second consecutive term); election last held in 2 rounds on 25 October and 22 November 2015 (next to be held in October 2019)"
+      },
+      "election results": {
+        "text": "Mauricio MACRI elected president; percent of vote"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral National Congress or Congreso Nacional consists of the Senate (72 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 6-year terms with one-third of the membership elected every 2 years) and the Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)"
+      },
+      "elections": {
+        "text": "Senate - last held on 25 October 2015 (next to be held October 2017); Chamber of Deputies - last held on 25 October 2015 (next to be held October 2017)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by bloc or party - NA; seats by bloc or party - Cambiemos 12, FpV 8, PF 2, Progresistas 2; Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - FpV 84, Cambiemos 21, FR and allies 8, Progresistas 9, Federal Peronism 3, PP 3, other 2; note - as of 1 February 2016, the total seats per party of bloc in the legislature is as follows"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Corte Suprema (consists of the court president, vice-president, and 5 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "judges nominated by the president and approved by the Senate; judges can serve until mandatory retirement at age 75"
+      },
+      "subordinate courts": {
+        "text": "federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "numerous provincial parties"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Roman Catholic Church",
+      "other": {
+        "text": "business organizations; Peronist-dominated labor movement; Piquetero groups (popular protest organizations that can be either pro or anti-government); students"
+      }
+    },
+    "International organization participation": {
+      "text": "AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN, UN Security Council (temporary), UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Martin LOUSTEAU (since 28 January 2016)"
+      },
+      "chancery": {
+        "text": "1600 New Hampshire Avenue NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 238-6400"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-3171"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Noah Bryson MAMET (since 16 January 2015)"
+      },
+      "embassy": {
+        "text": "Avenida Colombia 4300, C1425GMN Buenos Aires"
+      },
+      "mailing address": {
+        "text": "international mail"
+      },
+      "telephone": {
+        "text": "[54] (11) 5777-4533"
+      },
+      "FAX": {
+        "text": "[54] (11) 5777-4240"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of light blue (top), white, and light blue; centered in the white band is a radiant yellow sun with a human face known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun"
+    },
+    "National symbol(s)": {
+      "text": "Sun of May (a sun-with-face symbol); national colors: light blue, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional Argentino\" (Argentine National Anthem)"
+      },
+      "lyrics/music": {
+        "text": "Vicente LOPEZ y PLANES/Jose Blas PARERA"
+      },
+      "note": {
+        "text": "adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "After being elected into office on December 10, President MACRI has taken significant steps to liberalize the Argentine economy. His administration lifted capital controls; floated the peso, negotiated debt payments with holdout bond creditors, and removed export controls on some commodities."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$956.1 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$585.6 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.9% (2013 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$22,700 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Gross national saving": {
+      "text": "16.1% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "65.8%"
+      },
+      "government consumption": {
+        "text": "18.2%"
+      },
+      "investment in fixed capital": {
+        "text": "15.6%"
+      },
+      "investment in inventories": {
+        "text": "1.1%"
+      },
+      "exports of goods and services": {
+        "text": "11.1%"
+      },
+      "imports of goods and services": {
+        "text": "-11.9% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "10.9%"
+      },
+      "industry": {
+        "text": "29.3%"
+      },
+      "services": {
+        "text": "59.7% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sunflower seeds, lemons, soybeans, grapes, corn, tobacco, peanuts, tea, wheat; livestock"
+    },
+    "Industries": {
+      "text": "food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel"
+    },
+    "Industrial production growth rate": {
+      "text": "1.1%",
+      "note": {
+        "text": "based on private sector estimates (2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Labor force": {
+      "text": "17.47 million",
+      "note": {
+        "text": "urban areas only (2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "5%"
+      },
+      "industry": {
+        "text": "23%"
+      },
+      "services": {
+        "text": "72% (2009 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "7.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Population below poverty line": {
+      "text": "30%",
+      "note": {
+        "text": "data are based on private estimates (2010 est.)"
+      }
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.5%"
+      },
+      "highest 10%": {
+        "text": "32.3% (2010 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "45.8 (2009)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$143.3 billion"
+      },
+      "expenditures": {
+        "text": "$173.9 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "24.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Public debt": {
+      "text": "41% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "38.1% (2014 est.)",
+      "note": {
+        "text": "data are derived from private estimates"
+      },
+      "country comparison to the world": {
+        "text": "221"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "24.01% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$62.88 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$138.6 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$183.3 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$63.91 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Current account balance": {
+      "text": "-$7.441 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Exports": {
+      "text": "$68.41 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Exports - commodities": {
+      "text": "soybeans and derivatives, petroleum and gas, vehicles, corn, wheat"
+    },
+    "Exports - partners": {
+      "text": "Brazil 17%, China 8.6%, US 5.9% (2015)"
+    },
+    "Imports": {
+      "text": "$62.43 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, motor vehicles, petroleum and natural gas, organic chemicals, plastics"
+    },
+    "Imports - partners": {
+      "text": "Brazil 22.4%, US 16.3%, China 15.5%, Germany 5.1% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$31.4 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Debt - external": {
+      "text": "$140.4 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$82.22 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$36.15 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Exchange rates": {
+      "text": "4.1101 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,500,000"
+      },
+      "electrification - total population": {
+        "text": "96.4%"
+      },
+      "electrification - urban areas": {
+        "text": "99.2%"
+      },
+      "electrification - rural areas": {
+        "text": "96% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "126 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "116 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Electricity - exports": {
+      "text": "200 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Electricity - imports": {
+      "text": "10 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "36 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "68.1% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "2.7% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "26% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "85"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.4% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Crude oil - production": {
+      "text": "532,200 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "37,690 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "7,460 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.4 billion bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "670,900 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "751,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "63,060 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "109,900 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Natural gas - production": {
+      "text": "35.4 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "47.23 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "70 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "11.9 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "332.1 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "36"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "202 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "10,119,920"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "23 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "60.664 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "140 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "in 1998 Argentina opened its telecommunications market to competition and foreign investment encouraging the growth of modern telecommunications technology; fiber-optic cable trunk lines are being installed between all major cities; major networks are entirely digital and the availability of telephone service is improving"
+      },
+      "domestic": {
+        "text": "microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network; fixed-line teledensity is increasing gradually and mobile-cellular subscribership is increasing rapidly; broadband Internet services are gaining ground"
+      },
+      "international": {
+        "text": "country code - 54; landing point for the Atlantis-2, UNISUR, South America-1, and South American Crossing/Latin American Nautilus submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112; 2 international gateways near Buenos Aires (2011)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government owns a TV station and a radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage (2007)"
+    },
+    "Internet country code": {
+      "text": ".ar"
+    },
+    "Internet users": {
+      "total": {
+        "text": "30.142 million"
+      },
+      "percent of population": {
+        "text": "69.4% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "23"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "107"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "14,245,183"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "243,772,567 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "LV (2016)"
+    },
+    "Airports": {
+      "text": "1,138 (2013)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "161"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "29"
+      },
+      "1,524 to 2,437 m": {
+        "text": "65"
+      },
+      "914 to 1,523 m": {
+        "text": "53"
+      },
+      "under 914 m": {
+        "text": "10 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "977"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "43"
+      },
+      "914 to 1,523 m": {
+        "text": "484"
+      },
+      "under 914 m": {
+        "text": "448 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 29,930 km; liquid petroleum gas 41 km; oil 6,248 km; refined products 3,631 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "36,917.4 km"
+      },
+      "broad gauge": {
+        "text": "26,391 km 1.676-m gauge (149 km electrified)"
+      },
+      "standard gauge": {
+        "text": "2,745.1 km 1.435-m gauge (41.1 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "7,523.3 km 1.000-m gauge; 258 km 0.750-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "231,374 km"
+      },
+      "paved": {
+        "text": "69,412 km (includes 734 km of expressways)"
+      },
+      "unpaved": {
+        "text": "161,962 km (2004)"
+      },
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Waterways": {
+      "text": "11,000 km (2012)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "36"
+      },
+      "by type": {
+        "text": "bulk carrier 1, cargo 5, chemical tanker 6, container 1, passenger/cargo 1, petroleum tanker 18, refrigerated cargo 4"
+      },
+      "foreign-owned": {
+        "text": "14 (Brazil 1, Chile 6, Spain 3, Taiwan 2, UK 2)"
+      },
+      "registered in other countries": {
+        "text": "15 (Liberia 1, Panama 5, Paraguay 5, Uruguay 1, unknown 3) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia"
+      },
+      "river port(s)": {
+        "text": "Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Buenos Aires (1,851,701)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Bahia Blanca"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Argentine Army (Ejercito Argentino), Navy of the Argentine Republic (Armada Republica; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-24 years of age for voluntary military service (18-21 requires parental consent); no conscription; if the number of volunteers fails to meet the quota of recruits for a particular year, Congress can authorize the conscription of citizens turning 18 that year for a period not exceeding one year (2012)"
+    },
+    "Military expenditures": {
+      "text": "0.91% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Military - note": {
+      "text": "the Argentine military is a well-organized force constrained by the country's prolonged economic hardship; the country has recently experienced a strong recovery, and the military is implementing a modernization plan aimed at making the ground forces lighter and more responsive (2008)"
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks; territorial claim in Antarctica partially overlaps UK and Chilean claims; uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur); contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia"
+    },
+    "Illicit drugs": {
+      "text": "a transshipment country for cocaine headed for Europe, heroin headed for the US, and ephedrine and pseudoephedrine headed for Mexico; some money-laundering activity, especially in the Tri-Border Area; law enforcement corruption; a source for precursor chemicals; increasing domestic consumption of drugs in urban centers, especially cocaine base and synthetic drugs (2008)"
+    }
+  }
+}

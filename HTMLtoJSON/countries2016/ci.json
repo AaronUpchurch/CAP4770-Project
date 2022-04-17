@@ -1,0 +1,785 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Prior to the arrival of the Spanish in the 16th century, the Inca ruled northern Chile while the Mapuche inhabited central and southern Chile. Although Chile declared its independence in 1810, decisive victory over the Spanish was not achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia and won its present northern regions. It was not until the 1880s that the Mapuche were brought under central government control. After a series of elected governments, the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a freely elected president was inaugurated in 1990. Sound economic policies, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Chile"
+      },
+      "conventional short form": {
+        "text": "Chile"
+      },
+      "local long form": {
+        "text": "Republica de Chile"
+      },
+      "local short form": {
+        "text": "Chile"
+      },
+      "etymology": {
+        "text": "derivation of the name is unclear, but it may come from the Mapuche word \"chilli\" meaning \"limit of the earth\" or from the Quechua \"chiri\" meaning \"cold\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Santiago; note - Valparaiso is the seat of the national legislature"
+      },
+      "geographic coordinates": {
+        "text": "33 27 S, 70 40 W"
+      },
+      "time difference": {
+        "text": "UTC-3 (2 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "15 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena, Maule, Region Metropolitana (Santiago), Tarapaca, Valparaiso",
+      "note": {
+        "text": "the US does not recognize claims to Antarctica"
+      }
+    },
+    "Independence": {
+      "text": "18 September 1810 (from Spain)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 18 September (1810)"
+    },
+    "Constitution": {
+      "text": "many previous; latest adopted 11 September 1980, effective 11 March 1981; amended many times, last in 2011; note - in late 2015, the Chilean Government initiated a process to reform its constitution (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Michelle BACHELET Jeria (since 11 March 2014); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Michelle BACHELET Jeria (since 11 March 2014)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 17 November 2013 with a runoff held on 15 December 2013 (next to be held on 19 November 2017)"
+      },
+      "election results": {
+        "text": "Michelle BACHELET Jeria elected president; percent of vote - Michelle BACHELET Jeria (PS) 62.2%; Evelyn Rose MATTHEI Fornet (UDI) 37.8%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral National Congress or Congreso Nacional consists of the Senate or Senado (38 seats; members directly elected in multi-seat constituencies by majority vote to serve 8-year terms with one-half of the membership renewed every 4 years) and the Chamber of Deputies or Camara de Diputados (120 seats; members directly elected in multi-seat constituencies by majority vote to serve 4-year terms); note - in both the Senate and Chamber of Deputies, the party winning at least two-thirds of the votes is entitled to 2 seats in the constituency; if it obtains less than two-thirds of the votes, it is entitled to 1 seat with the remaining seat awarded to the next highest winning party"
+      },
+      "elections": {
+        "text": "Senate - last held on 17 November 2013 (next to be held on 15 November 2017); Chamber of Deputies - last held on 17 November 2013 (next to be held on 15 November 2017)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Coalition for Change (formerly known as the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independents 4; Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independents 4), Coalition for Change 47 (UDI 29, RN 14, independents 3, EP 1), Liberal Party 1, independents 4"
+      },
+      "note": {
+        "text": "In January 2015, the Chilean Congress voted to end the binomial system that was put in place under Gen. Augusto PINOCHET; the Congress also voted to expand its size and establish rules to ensure that there is equitable gender representation; the new electoral system will be put in place in 2017"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 7 members); Elections Qualifying Court (consists of 5 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges appointed by the president and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 1 by the president of the republic, 2 by the National Security Council, and 1 by the Senate; members serve 8-year terms with partial membership replacement every 4 years (the court reviews constitutionality of legislation); Elections Qualifying Court member appointments - 4 by the Supreme Court and 1 - a former president or vice-president of the Senate or Chamber of Deputies - also selected by the Supreme Court; members appointed for 4-year terms"
+      },
+      "subordinate courts": {
+        "text": "Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Progressive Party or PRO [Patricia MORALES]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "United Labor Central or CUT (includes trade unionists from the country's five largest labor confederations)",
+      "other": {
+        "text": "university student federations at all major universities"
+      }
+    },
+    "International organization participation": {
+      "text": "APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (Enhanced Engagement, OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UN Security Council (temporary), UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Juan Gabriel VALDES Soublette (since 21 May 2014)"
+      },
+      "chancery": {
+        "text": "1732 Massachusetts Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 785-1746"
+      },
+      "FAX": {
+        "text": "[1] (202) 887-5579"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Michael HAMMER (since April 2014)"
+      },
+      "embassy": {
+        "text": "Avenida Andres Bello 2800, Las Condes, Santiago"
+      },
+      "mailing address": {
+        "text": "APO AA 34033"
+      },
+      "telephone": {
+        "text": "[56] (2) 2330-3000"
+      },
+      "FAX": {
+        "text": "[56] (2) 2330-3710, 2330-3160"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence",
+      "note": {
+        "text": "design was influenced by the US flag"
+      }
+    },
+    "National symbol(s)": {
+      "text": "huemul (mountain deer), Andean condor; national colors: red, white, blue"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Himno Nacional de Chile\" (National Anthem of Chile)"
+      },
+      "lyrics/music": {
+        "text": "Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle"
+      },
+      "note": {
+        "text": "music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET\"s military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "In 2014, President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile\u2019s GDP, mostly by increasing corporate tax rates to OECD averages."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$406.4 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$240.2 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "4% (2013 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$23,000 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Gross national saving": {
+      "text": "20.8% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "64.3%"
+      },
+      "government consumption": {
+        "text": "13.4%"
+      },
+      "investment in fixed capital": {
+        "text": "22.7%"
+      },
+      "investment in inventories": {
+        "text": "-0.3%"
+      },
+      "exports of goods and services": {
+        "text": "30.1%"
+      },
+      "imports of goods and services": {
+        "text": "-30.3% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "3.9%"
+      },
+      "industry": {
+        "text": "32.9%"
+      },
+      "services": {
+        "text": "63.2% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "grapes, apples, pears, onions, wheat, corn, oats, peaches, garlic, asparagus, beans; beef, poultry, wool; fish; timber"
+    },
+    "Industries": {
+      "text": "copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "1.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Labor force": {
+      "text": "8.635 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "13.2%"
+      },
+      "industry": {
+        "text": "23%"
+      },
+      "services": {
+        "text": "63.9% (2005)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "6.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "73"
+      }
+    },
+    "Population below poverty line": {
+      "text": "14.4% (2013)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.5%"
+      },
+      "highest 10%": {
+        "text": "42.8% (2009 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "57.1 (2000)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$50.71 billion"
+      },
+      "expenditures": {
+        "text": "$55.89 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "21.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Public debt": {
+      "text": "15.1% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "161"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.5% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.1% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$41.97 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$158 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$197.1 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$341.6 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Current account balance": {
+      "text": "-$3.317 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Exports": {
+      "text": "$74.92 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Exports - commodities": {
+      "text": "copper, fruit, fish products, paper and pulp, chemicals, wine"
+    },
+    "Exports - partners": {
+      "text": "China 26.3%, US 13.2%, Japan 8.5%, South Korea 6.5%, Brazil 4.9% (2015)"
+    },
+    "Imports": {
+      "text": "$68.58 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum and petroleum products, chemicals, electrical and telecommunications equipment, industrial machinery, vehicles, natural gas"
+    },
+    "Imports - partners": {
+      "text": "China 23.4%, US 18.8%, Brazil 7.8%, Argentina 4% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$40.45 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Debt - external": {
+      "text": "$149.6 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$180 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$81.69 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Exchange rates": {
+      "text": "483.67 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "70,600"
+      },
+      "electrification - total population": {
+        "text": "99.6%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "98% (2012)"
+      }
+    },
+    "Electricity - production": {
+      "text": "71 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "66 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Electricity - imports": {
+      "text": "700 million kWh (2011 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "23 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "42"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "62.1% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "33% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "4.9% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Crude oil - production": {
+      "text": "6,260 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "165,900 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "150 million bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "205,800 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "340,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "3,761 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "152,900 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Natural gas - production": {
+      "text": "798 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "4.048 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "3.5 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "97.97 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "76 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "3,445,880"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "20 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "23.206 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "133 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "privatization began in 1988; most advanced telecommunications infrastructure in South America; modern system based on extensive microwave radio relay facilities; domestic satellite system with 3 earth stations"
+      },
+      "domestic": {
+        "text": "number of fixed-line connections have stagnated in recent years as mobile-cellular usage continues to increase, reaching 130 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 56; landing points for the Pan American, South America-1, and South American Crossing/Latin America Nautilus submarine cables providing links to the US and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2011)"
+      }
+    },
+    "Broadcast media": {
+      "text": "national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising revenues and is not under direct government control; large number of privately owned TV stations; about 250 radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".cl"
+    },
+    "Internet users": {
+      "total": {
+        "text": "11.256 million"
+      },
+      "percent of population": {
+        "text": "64.3% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "43"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "9"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "173"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "15,006,762"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "1,392.236 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "CC (2016)"
+    },
+    "Airports": {
+      "text": "481 (2013)",
+      "country comparison to the world": {
+        "text": "15"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "90"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "7"
+      },
+      "1,524 to 2,437 m": {
+        "text": "23"
+      },
+      "914 to 1,523 m": {
+        "text": "31"
+      },
+      "under 914 m": {
+        "text": "24 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "391"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "11"
+      },
+      "914 to 1,523 m": {
+        "text": "56"
+      },
+      "under 914 m": {
+        "text": "319 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 3,160 km; liquid petroleum gas 781 km; oil 985 km; refined products 722 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "7,281.5 km"
+      },
+      "broad gauge": {
+        "text": "3,428 km 1.676-m gauge (1,691 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "3,853.5 km 1.000-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "77,764 km"
+      },
+      "paved": {
+        "text": "18,119 km (includes 2,387 km of expressways)"
+      },
+      "unpaved": {
+        "text": "59,645 km (2010)"
+      },
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "42"
+      },
+      "by type": {
+        "text": "bulk carrier 13, cargo 5, chemical tanker 7, container 2, liquefied gas 1, passenger 3, passenger/cargo 2, petroleum tanker 8, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "1 (Norway 1)"
+      },
+      "registered in other countries": {
+        "text": "52 (Argentina 6, Brazil 1, Honduras 1, Isle of Man 9, Liberia 9, Panama 14, Peru 6, Singapore 6) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Mejillones, Quintero"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Chilean Army, Chilean Navy (Armada de Chile, includes Naval Aviation, Marine Corps, and Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2015)"
+    },
+    "Military service age and obligation": {
+      "text": "18-45 years of age for voluntary male and female military service, although the right to compulsory recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy and Air Force (2015)"
+    },
+    "Military expenditures": {
+      "text": "2.04% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to Bolivian natural gas; Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru; in October 2007, Peru took its maritime complaint with Chile to the ICJ; territorial claim in Antarctica (Chilean Antarctic Territory) partially overlaps Argentine and British claims; the joint boundary commission, established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur)"
+    },
+    "Illicit drugs": {
+      "text": "transshipment country for cocaine destined for Europe and the region; some money laundering activity, especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic cocaine consumption is rising, making Chile a significant consumer of cocaine (2008)"
+    }
+  }
+}

@@ -1,0 +1,760 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The Mongols gained fame in the 13th century when under Chinggis KHAAN they established a huge Eurasian empire through conquest. After his death the empire was divided into several powerful Mongol states, but these broke apart in the 14th century. The Mongols eventually retired to their original steppe homelands and in the late 17th century came under Chinese rule. Mongolia won its independence in 1921 with Soviet backing and a communist regime was installed in 1924. The modern country of Mongolia, however, represents only part of the Mongols' historical homeland; today, more ethnic Mongolians live in the Inner Mongolia Autonomous Region in the People's Republic of China than in Mongolia. Following a peaceful democratic revolution in 1990, the ex-communist Mongolian People's Revolutionary Party (MPRP) won most parliamentary elections and stayed in power either governing alone or in coalition. In 2009, current President ELBEGDORJ of the Democratic Party (DP) was elected to office and was re-elected for a second and final term in June 2013. In 2010, the MPRP voted to retake the name of the Mongolian People's Party (MPP), a name it used in the early 1920s. Shortly thereafter, a new party was formed by former President ENKHBAYAR, which confusingly adopted for itself the MPRP name. Following the 2012 parliamentary elections, a coalition of four political parties was formed but then dissolved in November 2014 when Prime Minister ALTANKHUYAG was voted out of office. A new five-party grand coalition was formed in December 2014 under the leadership of Prime Minister SAIKHANBILEG. The coalition had been expected to last until the next parliamentary elections in the summer of 2016. However, in August 2015, the grand coalition also dissolved, and Prime Minister SAIKHANBILEG took charge of a new governing coalition comprising three parties. Parliamentary elections are scheduled for 29 June 2016."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Mongolia"
+      },
+      "local long form": {
+        "text": "none"
+      },
+      "local short form": {
+        "text": "Mongol Uls"
+      },
+      "former": {
+        "text": "Outer Mongolia"
+      },
+      "etymology": {
+        "text": "the name means \"Land of the Mongols\" in Latin; the Mongolian name Mongol Uls translates as \"Mongol State\""
+      }
+    },
+    "Government type": {
+      "text": "semi-presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Ulaanbaatar"
+      },
+      "geographic coordinates": {
+        "text": "47 55 N, 106 55 E"
+      },
+      "time difference": {
+        "text": "UTC+8 (13 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Saturday in March; ends last Saturday in September"
+      },
+      "note": {
+        "text": "Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs"
+    },
+    "Independence": {
+      "text": "11 July 1921 (from China)"
+    },
+    "National holiday": {
+      "text": "Independence Day/Revolution Day, 11 July (1921)"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 13 January 1992, effective 12 February 1992; amended 1999, 2001; legislation on amendments proposed in 2015 continued into 2016 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "both parents must be citizens of Mongolia; one parent if born within Mongolia"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Tsakhia ELBEGDORJ (since 18 June 2009)"
+      },
+      "head of government": {
+        "text": "Prime Minister Jargaltulga ERDENEBAT (since 7 July 2016); Deputy Prime Minister Ukhnaa KHURELSUKH (since 25 July 2016)"
+      },
+      "cabinet": {
+        "text": "Cabinet nominated by the prime minister in consultation with the president, confirmed by the State Great Hural (parliament)"
+      },
+      "elections/appointments": {
+        "text": "presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 26 June 2013 (next to be held in June 2017); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the State Great Hural"
+      },
+      "election results": {
+        "text": "Tsakhia ELBEGDORJ reelected president; percent of vote - Tsakhia ELBEGDORJ (DP) 50.2%, Badmaanyambuu BAT-ERDENE (MPP) 42%, Natsag UDVAL (MPRP) 6.5%, other 1.3%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; 48 members directly elected in multi-seat constituencies by simple majority vote and 28 members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 29 June 2016 (next to be held in June 2020)"
+      },
+      "election results": {
+        "text": "MPRP 65, independent 9"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of a chairman and 8 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice and judges appointed by the president upon recommendation to the State Great Hural by the General Council of Courts, a 14-member body of judges and judicial officials; term of appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed by the State Great Hural upon nominations - 3 each by the president, the State Great Hural, and the Supreme Court; term of appointment is 6 years; chairmanship limited to a single renewable 3-year term"
+      },
+      "subordinate courts": {
+        "text": "aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "New Labor Party or XYH [S. GANBAATAR]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "human rights groups; women's rights groups; disability rights groups"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Bulgaa ALTANGEREL (since 8 January 2013)"
+      },
+      "chancery": {
+        "text": "2833 M Street NW, Washington, DC 20007"
+      },
+      "telephone": {
+        "text": "[1] (202) 333-7117"
+      },
+      "FAX": {
+        "text": "[1] (202) 298-9227"
+      },
+      "consulate(s) general": {
+        "text": "New York, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Jennifer Zimdahl GALT (since 5 October 2015)"
+      },
+      "embassy": {
+        "text": "Denver Street "
+      },
+      "mailing address": {
+        "text": "PSC 461, Box 300, FPO AP 96521-0002; P.O. Box 341, Ulaanbaatar-14192"
+      },
+      "telephone": {
+        "text": "[976] 7007-6001"
+      },
+      "FAX": {
+        "text": "[976] 7007-6016"
+      }
+    },
+    "Flag description": {
+      "text": "three, equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem (\"soyombo\" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol); blue represents the sky, red symbolizes progress and prosperity"
+    },
+    "National symbol(s)": {
+      "text": "soyombo emblem; national colors: red, blue, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Mongol ulsyn toriin duulal\" (National Anthem of Mongolia)"
+      },
+      "lyrics/music": {
+        "text": "Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ"
+      },
+      "note": {
+        "text": "music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions"
+      }
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "The current government has made restoring investor trust and reviving the economy its top priority, but has failed to invigorate the economy in the face of the large drop off in foreign direct investment. Mongolia's economy faces near-term economic risks from the government's loose fiscal and monetary policies, from uncertainties in foreign demand for Mongolian exports, and on Mongolia's ability to access financing. The May 2015 agreement with Rio Tinto to restart the OT mine and the subsequent $4.4 billion finance package signing in December 2015 have served to increase investor confidence but are unlikely to overcome the downward economic pressures in the short term."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$32.68 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$11.74 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "11.6% (2013 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$11,300 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Gross national saving": {
+      "text": "27.9% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "78"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "58.8%"
+      },
+      "government consumption": {
+        "text": "11.9%"
+      },
+      "investment in fixed capital": {
+        "text": "18.2%"
+      },
+      "investment in inventories": {
+        "text": "8.3%"
+      },
+      "exports of goods and services": {
+        "text": "44.9%"
+      },
+      "imports of goods and services": {
+        "text": "-42% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "14.9%"
+      },
+      "industry": {
+        "text": "34.1%"
+      },
+      "services": {
+        "text": "51.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "wheat, barley, vegetables, forage crops; sheep, goats, cattle, camels, horses"
+    },
+    "Industries": {
+      "text": "construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing"
+    },
+    "Industrial production growth rate": {
+      "text": "8.8% (2015 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Labor force": {
+      "text": "1.164 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "28.6%"
+      },
+      "industry": {
+        "text": "21%"
+      },
+      "services": {
+        "text": "50.4% (2014)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "4.8% (2014 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Population below poverty line": {
+      "text": "21.6% (2014 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3%"
+      },
+      "highest 10%": {
+        "text": "28.4% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "32.8 (2002)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$2.994 billion"
+      },
+      "expenditures": {
+        "text": "$3.354 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "25.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Public debt": {
+      "text": "72% of GDP (31 September 2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "13% (2014 est.)",
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "13% (15 January 2015)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "19.03% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$963.5 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$5.648 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$7.786 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.095 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Current account balance": {
+      "text": "-$1.405 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Exports": {
+      "text": "$5.774 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Exports - commodities": {
+      "text": "copper, apparel, livestock, animal products, cashmere, wool, hides, fluorspar, other nonferrous metals, coal, crude oil"
+    },
+    "Exports - partners": {
+      "text": "China 84%, Switzerland 9% (2015)"
+    },
+    "Imports": {
+      "text": "$4.746 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and equipment, fuel, cars, food products, industrial consumer goods, chemicals, building materials, cigarettes and tobacco, appliances, soap and detergent"
+    },
+    "Imports - partners": {
+      "text": "China 39.9%, Russia 28.4%, Japan 6.4%, South Korea 6.2% (2015)"
+    },
+    "Debt - external": {
+      "text": "$20.83 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$16.69 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$354.8 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Exchange rates": {
+      "text": "1,265.5 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "300,000"
+      },
+      "electrification - total population": {
+        "text": "90%"
+      },
+      "electrification - urban areas": {
+        "text": "98%"
+      },
+      "electrification - rural areas": {
+        "text": "73% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "5.1 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "5.6 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Electricity - exports": {
+      "text": "33 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.3 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "83"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "99.8% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "185"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0.2% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Crude oil - production": {
+      "text": "23,180 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "14,360 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "66"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "NA bbl 0 bbl",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "28,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "25,620 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "14 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "255,634"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "9 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "3.068 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "103 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "network is improving with international direct dialing available in many areas; a fiber-optic network has been installed that is improving broadband and communication services between major urban centers with multiple companies providing inter-city fiber-optic cable services"
+      },
+      "domestic": {
+        "text": "very low fixed-line teledensity; there are multiple mobile-cellular providers and subscribership is increasing"
+      },
+      "international": {
+        "text": "country code - 976; satellite earth stations - 7 (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "following a law passed in 2005, Mongolia's state-run radio and TV provider converted to a public service provider; also available are private radio and TV broadcasters, as well as multi-channel satellite and cable TV providers; more than 100 radio stations, including some 20 via repeaters for the public broadcaster; transmissions of multiple international broadcasters are available (2008)"
+    },
+    "Internet country code": {
+      "text": ".mn"
+    },
+    "Internet users": {
+      "total": {
+        "text": "642,000"
+      },
+      "percent of population": {
+        "text": "21.4% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "131"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "3"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "541,129"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "7,130,148 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "JU (2016)"
+    },
+    "Airports": {
+      "text": "44 (2013)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "15"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "10"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "29"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "24"
+      },
+      "under 914 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "1 (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,815 km"
+      },
+      "broad gauge": {
+        "text": "1,815 km 1.520-m gauge"
+      },
+      "note": {
+        "text": "national operator Ulannbaator Railway is jointly owned by the Mongolian Government and by the Russian State Railway (2016)"
+      },
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "49,249 km"
+      },
+      "paved": {
+        "text": "4,800 km"
+      },
+      "unpaved": {
+        "text": "44,449 km (2013)"
+      },
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "Waterways": {
+      "text": "580 km (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice free from May to September) (2010)",
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "57"
+      },
+      "by type": {
+        "text": "bulk carrier 21, cargo 25, chemical tanker 1, container 2, liquefied gas 2, passenger/cargo 2, roll on/roll off 3, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "44 (Indonesia 2, Japan 2, North Korea 1, Russia 2, Singapore 3, Ukraine 1, Vietnam 33) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "68"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): Mongolian Army, Mongolian Air Force (2016)"
+    },
+    "Military service age and obligation": {
+      "text": "18-27 years of age for compulsory and voluntary military service; 1-year conscript service obligation in land or air forces or police for males only; after conscription, soldiers can contract into military service for 2 or 4 years; citizens can also voluntarily join the armed forces (2015)"
+    },
+    "Military expenditures": {
+      "text": "1.12% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "none"
+    }
+  }
+}

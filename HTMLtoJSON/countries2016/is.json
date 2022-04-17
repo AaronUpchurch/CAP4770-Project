@@ -1,0 +1,769 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Progress toward a final status agreement with the Palestinians was undermined by Israeli-Palestinian violence between 2001 and February 2005. Israel in 2005 unilaterally disengaged from the Gaza Strip, evacuating settlers and its military while retaining control over most points of entry into the Gaza Strip. The election of HAMAS to head the Palestinian Legislative Council in 2006 temporarily froze relations between Israel and the Palestinian Authority (PA). Israel engaged in a 34-day conflict with Hizballah in Lebanon from July-August 2006 and a 23-day conflict with HAMAS in the Gaza Strip from December 2008-January 2009. In November 2012, Israel engaged in a seven-day conflict with HAMAS in the Gaza Strip. Direct talks with the Palestinians most recently launched in July 2013 but were suspended in April 2014. The talks represented the fourth concerted effort to resolve final status issues between the sides since they were first discussed at Camp David in 2000. Three months later HAMAS and other militant groups launched rockets into Israel, which led to a 51-day conflict between Israel and militants in Gaza."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "State of Israel"
+      },
+      "conventional short form": {
+        "text": "Israel"
+      },
+      "local long form": {
+        "text": "Medinat Yisra'el"
+      },
+      "local short form": {
+        "text": "Yisra'el"
+      },
+      "etymology": {
+        "text": "named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name \"Israel\" (\"He who struggles with God\") after he wrestled an entire night with an angel of the Lord; Jacob's 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Jerusalem"
+      },
+      "geographic coordinates": {
+        "text": "31 46 N, 35 14 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, Friday before the last Sunday in March; ends the last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv"
+    },
+    "Independence": {
+      "text": "14 May 1948 (from League of Nations mandate under British administration)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May"
+    },
+    "Constitution": {
+      "text": "no formal constitution; some functions of a constitution are filled mostly by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended); Basic Laws amended several times, last in 2014 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; withdrew acceptance of International Criminal Court jurisdiction in 2002"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Israel"
+      },
+      "dual citizenship recognized": {
+        "text": "yes, but naturalized citizens are not allowed to maintain dual citizenship"
+      },
+      "residency requirement for naturalization": {
+        "text": "3 out of the 5 years preceding the application for naturalization"
+      },
+      "note": {
+        "text": "Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Reuven RIVLIN (since 27 July 2014)"
+      },
+      "head of government": {
+        "text": "Prime Minister Binyamin NETANYAHU (since 31 March 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet selected by prime minister and approved by the Knesset"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by the Knesset for a 7-year term (limited to 1 term); election last held on 10 June 2014 (next to be held in 2021 but can be called earlier); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government"
+      },
+      "election results": {
+        "text": "Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53 , other/invalid 4"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 17 March 2015 (next to be held in 2019 but can be called earlier)"
+      },
+      "election results": {
+        "text": "percent of vote by party - Likud 23.4%, Zionist Camp 18.7%, Joint List 10.6%, Yesh Atid 8.8%, Kulanu 7.5%, The Jewish Home 6.7%, Shas, 5.7%, Yisrael Beitenu 5.1%, UTJ 5.0%, Meretz 3.9%, Yachad 3.0%, other 1.6%; seats by party - Likud 30, Zionist Camp 24, Joint List 13, Yesh Atid 11, Kulanu 10, The Jewish Home 8, Shas 7, Yisrael Beitenu 6, UTJ 6, Meretz 5"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice and 14 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "judges selected by the Judicial Selection Committee consisting of 3 Supreme Court judges, 2 Cabinet members including the Minister of Justice as chairman, 2 Knesset members, and 2 representatives from the Israel Bar Association; judges can serve up to mandatory retirement at age 70"
+      },
+      "subordinate courts": {
+        "text": "district and magistrate courts; national and regional labor courts; special and religious courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": ""
+    },
+    "Political pressure groups and leaders": {
+      "text": "YESHA Council [Avi ROEHD, chairman] promotes settler interests and opposes territorial compromise"
+    },
+    "International organization participation": {
+      "text": "BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Ron DERMER (since 3 December 2013)"
+      },
+      "chancery": {
+        "text": "3514 International Drive NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 364-5500"
+      },
+      "FAX": {
+        "text": "[1] (202) 364-5607"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Daniel B. SHAPIRO (since 29 September 2011)"
+      },
+      "embassy": {
+        "text": "71 Hayarkon Street, Tel Aviv 6343229"
+      },
+      "telephone": {
+        "text": "[972] (3) 519-7475"
+      },
+      "FAX": {
+        "text": "[972] (3) 516-4390"
+      },
+      "consulate(s) general": {
+        "text": ""
+      }
+    },
+    "Flag description": {
+      "text": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times"
+    },
+    "National symbol(s)": {
+      "text": "Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Hatikvah\" (The Hope)"
+      },
+      "lyrics/music": {
+        "text": "Naftali Herz IMBER/traditional, arranged by Samuel COHEN"
+      },
+      "note": {
+        "text": "adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song \"Carul cu boi\" (The Ox Driven Cart)"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "In the long term, Israel faces structural issues, including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel's progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$268 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$296.1 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "3.3% (2013 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$33,300 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Gross national saving": {
+      "text": "23.5% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "55.3%"
+      },
+      "government consumption": {
+        "text": "22.3%"
+      },
+      "investment in fixed capital": {
+        "text": "18.6%"
+      },
+      "investment in inventories": {
+        "text": "0.9%"
+      },
+      "exports of goods and services": {
+        "text": "31.2%"
+      },
+      "imports of goods and services": {
+        "text": "-28.3% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "2.1%"
+      },
+      "industry": {
+        "text": "27.2%"
+      },
+      "services": {
+        "text": "69.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "citrus, vegetables, cotton; beef, poultry, dairy products"
+    },
+    "Industries": {
+      "text": "high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear"
+    },
+    "Industrial production growth rate": {
+      "text": "3.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Labor force": {
+      "text": "3.846 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "1.1%"
+      },
+      "industry": {
+        "text": "17.3%"
+      },
+      "services": {
+        "text": "81.6% (2015)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "5.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Population below poverty line": {
+      "text": "22%",
+      "note": {
+        "text": "Israel's poverty line is $7.30 per person per day (2014 est.)"
+      }
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "1.7%"
+      },
+      "highest 10%": {
+        "text": "31.3% (2010)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39.2 (2008)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$77.22 billion"
+      },
+      "expenditures": {
+        "text": "$83.53 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "26.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "90"
+      }
+    },
+    "Public debt": {
+      "text": "65.9% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.5% (2014 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.25% (31 December 2014)",
+      "country comparison to the world": {
+        "text": "137"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "3.91% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$43.13 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$155.6 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$201.2 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "41"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$122.9 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Current account balance": {
+      "text": "$11.54 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "18"
+      }
+    },
+    "Exports": {
+      "text": "$63.76 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Exports - commodities": {
+      "text": "machinery and equipment, software, cut diamonds, agricultural products, chemicals, textiles and apparel"
+    },
+    "Exports - partners": {
+      "text": "US 27.5%, Hong Kong 8%, UK 6.1%, China 4.9% (2015)"
+    },
+    "Imports": {
+      "text": "$70.36 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Imports - commodities": {
+      "text": "raw materials, military equipment, investment goods, rough diamonds, fuels, grain, consumer goods"
+    },
+    "Imports - partners": {
+      "text": "US 13%, China 9.3%, Switzerland 7.1%, Germany 6.1%, Belgium 5.3%, Italy 4% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$86.1 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Debt - external": {
+      "text": "$96.13 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$93.28 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$79.69 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Exchange rates": {
+      "text": "3.5781 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "57 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "59.83 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Electricity - exports": {
+      "text": "4.8 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "16.25 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "97.4% of total installed capacity (2014 est.)",
+      "country comparison to the world": {
+        "text": "58"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2014 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2014 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "2.6% of total installed capacity (2014 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Crude oil - production": {
+      "text": "390 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "96"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "285,600 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "29"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "13.95 million bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "89"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "309,600 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "224,700 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "144,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "68,920 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Natural gas - production": {
+      "text": "7.9 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "7.98 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "2.605 billion cu m (2011 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "80 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "199 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "62.5 million Mt (2014 est.)",
+      "country comparison to the world": {
+        "text": "55"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "3.412 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "42 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "10.57 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "131 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "most highly developed system in the Middle East"
+      },
+      "domestic": {
+        "text": "good system of coaxial cable and microwave radio relay; all systems are digital; competition among both fixed-line and mobile cellular providers results in good coverage countrywide"
+      },
+      "international": {
+        "text": "country code - 972; submarine cables provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state broadcasting network, operated by the Israel Broadcasting Authority (IBA), broadcasts on 2 channels, one in Hebrew and the other in Arabic; 5 commercial channels including a channel broadcasting in Russian, a channel broadcasting Knesset proceedings, and a music channel supervised by a public body; multi-channel satellite and cable TV packages provide access to foreign channels; IBA broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations; overall more than 100 stations and repeater stations (2008)"
+    },
+    "Internet country code": {
+      "text": ".il"
+    },
+    "Internet users": {
+      "total": {
+        "text": "6.35 million"
+      },
+      "percent of population": {
+        "text": "78.9% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "58"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "60"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "6,064,478"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "758,633,996 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "4X (2016)"
+    },
+    "Airports": {
+      "text": "47 (2013)",
+      "country comparison to the world": {
+        "text": "94"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "29"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "5 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "18"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "14 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "3 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 763 km; oil 442 km; refined products 261 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "1,250 km"
+      },
+      "standard gauge": {
+        "text": "1,250 km 1.435-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "18,566 km"
+      },
+      "paved": {
+        "text": "18,566 km (includes 449 km of expressways) (2011)"
+      },
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "8"
+      },
+      "by type": {
+        "text": "cargo 1, container 7"
+      },
+      "registered in other countries": {
+        "text": "48 (Bermuda 3, Georgia 1, Honduras 1, Liberia 34, Malta 3, Moldova 2, Panama 1, Saint Vincent and the Grenadines 3) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Ashdod, Elat (Eilat), Hadera, Haifa"
+      },
+      "container port(s) TEUs)": {
+        "text": "Ashdod (1,176,000), Haifa (1,238,000)"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Israel Defense Forces (IDF), Israel Naval Force (IN), Israel Air Force (IAF) (2010)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9 years service; reserve obligation to age 41-51 (men), age 24 (women) (2015)"
+    },
+    "Military expenditures": {
+      "text": "5.69% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; Israel continues construction of a \"seam line\" separation barrier along parts of the Green Line and within the West Bank; Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005; Golan Heights is Israeli-occupied (Lebanon claims the Shab'a Farms area of Golan Heights); since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "31,708 (Eritrea); 6,333 (Sudan) (2015)"
+      },
+      "stateless persons": {
+        "text": "15 (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center"
+    }
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains an economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killed thousands, and damaged several nuclear power plants. The catastrophe hobbled the country's economy and its energy infrastructure, and tested its ability to deal with humanitarian disasters. Prime Minister Shinzo ABE was reelected to office in December 2012, and has since embarked on ambitious economic and security reforms to improve Japan's economy and bolster the country's international standing."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Japan"
+      },
+      "local long form": {
+        "text": "Nihon-koku/Nippon-koku"
+      },
+      "local short form": {
+        "text": "Nihon/Nippon"
+      },
+      "etymology": {
+        "text": "the English word for Japan comes via the Chinese name for the country \"Cipangu\"; both Nihon and Nippon mean \"where the sun originates\" and are frequently translated as \"Land of the rising sun\""
+      }
+    },
+    "Government type": {
+      "text": "parliamentary constitutional monarchy"
+    },
+    "Capital": {
+      "name": {
+        "text": "Tokyo"
+      },
+      "geographic coordinates": {
+        "text": "35 41 N, 139 45 E"
+      },
+      "time difference": {
+        "text": "UTC+9 (14 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi"
+    },
+    "Independence": {
+      "text": "3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 660 B.C. (traditional date of the founding of the nation by Emperor JIMMU); 29 November 1890 (Meiji Constitution provides for constitutional monarchy)"
+    },
+    "National holiday": {
+      "text": "Birthday of Emperor AKIHITO, 23 December (1933)"
+    },
+    "Constitution": {
+      "text": "previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947 ; note - the constitution has not been amended since its enactment in 1947 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Japan"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Emperor AKIHITO (since 7 January 1989)"
+      },
+      "head of government": {
+        "text": "Prime Minister Shinzo ABE (since 26 December 2012); Deputy Prime Minister Taro ASO (since 26 December 2012)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the prime minister"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Diet or Kokkai consists of the House of Councillors or Sangi-in (242 seats; 146 members directly elected by majority vote and 96 directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years) and the House of Representatives or Shugi-in (475 seats; 295 members directly elected in single-seat constituencies by simple majority vote and 180 directly elected in multi-seat constituencies by proportional representation vote; members serve maximum 4-year terms with one-half of the membership renewed every 2 years) "
+      },
+      "elections": {
+        "text": "House of Councillors - last held on 10 July 2016 (next to be held in July 2019); House of Representatives - last held on 14 December 2014 (next to be held by 15 December 2016)"
+      },
+      "election results": {
+        "text": "House of Councillors - percent of vote by party - NA; seats by party - LPD 123, DP 51, Komeito 25, JCP 14, Osaka Ishin no Kai (Initiatives from Osaka) 12, Independents Club 5, The Party for Japanese Kokoro 3, independents 2; note"
+      },
+      "text": "House of Representatives - percent of vote by party - NA; seats by party - LDP 291, DPJ 71, Komeito 35, JCP 21, JIP 21, Osaka Ishin no Kai 13, Group of Reformists 5, SDP 2, PLPTYF 2, independents 13, 1 seat vacant",
+      "note": {
+        "text": "the 2013 amended electoral law - effective for the December 2016 election - reduced to 475 the number of seats in the House of Representatives"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward"
+      },
+      "subordinate courts": {
+        "text": "8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "The Assembly to Energize Japan and the Independents [Kota MATSUDA]"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "business groups; trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Kenichiro SASAE (since 19 November 2012)"
+      },
+      "chancery": {
+        "text": "2520 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 238-6700"
+      },
+      "FAX": {
+        "text": "[1] (202) 328-2187"
+      },
+      "consulate(s) general": {
+        "text": "Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Denver (CO), Detroit (MI), Honolulu (HI), Houston, Las Vegas (NV), Los Angeles, Miami, Nashville (TN), New Orleans, New York, Oklahoma City (OK), Orlando (FL), Philadelphia (PA), Phoenix (AZ), Portland (OR), San Francisco, Seattle, Saipan (Puerto Rico), Tamuning (Guam)"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Caroline Bouvier KENNEDY (since 19 November 2013)"
+      },
+      "embassy": {
+        "text": "1-10-5 Akasaka, Minato-ku, Tokyo 107-8420"
+      },
+      "mailing address": {
+        "text": "Unit 9800, Box 300, APO AP 96303-0300"
+      },
+      "telephone": {
+        "text": "[81] (03) 3224-5000"
+      },
+      "FAX": {
+        "text": "[81] (03) 3505-1862"
+      },
+      "consulate(s) general": {
+        "text": "Naha (Okinawa), Osaka-Kobe, Sapporo"
+      },
+      "consulate(s)": {
+        "text": "Fukuoka, Nagoya"
+      }
+    },
+    "Flag description": {
+      "text": "white with a large red disk (representing the sun without rays) in the center"
+    },
+    "National symbol(s)": {
+      "text": "red sun disc, chrysanthemum; national colors: red, white"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Kimigayo\" (The Emperor\"s Reign)"
+      },
+      "lyrics/music": {
+        "text": "unknown/Hiromori HAYASHI"
+      },
+      "note": {
+        "text": "adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Measured on a purchasing power parity (PPP) basis that adjusts for price differences, Japan in 2015 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. While seeking to stimulate and reform the economy, the government must also devise a strategy for reining in Japan's huge government debt, which amounts to more than 230% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate to 10% by 2015, beginning with a hike from 5% to 8%, implemented in April 2014. That increase had a contractionary effect on GDP, however, so PM ABE in late 2014 decided to postpone the final phase of the increase until April 2017 to give the economy more time to recover. Led by the Bank of Japan\u2019s aggressive monetary easing, Japan is making progress in ending deflation, but demographic decline \u2013 a low birthrate and an aging, shrinking population \u2013 poses a major long-term challenge for the economy."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$4.809 trillion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$4.123 trillion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.4% (2013 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$37,800 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Gross national saving": {
+      "text": "22.2% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "58.6%"
+      },
+      "government consumption": {
+        "text": "20.4%"
+      },
+      "investment in fixed capital": {
+        "text": "21.7%"
+      },
+      "investment in inventories": {
+        "text": "0.3%"
+      },
+      "exports of goods and services": {
+        "text": "17.9%"
+      },
+      "imports of goods and services": {
+        "text": "-18.9% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "1.2%"
+      },
+      "industry": {
+        "text": "27.5%"
+      },
+      "services": {
+        "text": "71.3% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "vegetables, rice, fish, poultry, fruit, dairy products, pork, beef, flowers, potatoes/taros/yams, sugar cane, tea, legumes, wheat and barley"
+    },
+    "Industries": {
+      "text": "among world's largest and most technologically advanced producers of motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods"
+    },
+    "Industrial production growth rate": {
+      "text": "0.6% (2015 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Labor force": {
+      "text": "65.98 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "2.9%"
+      },
+      "industry": {
+        "text": "26.2%"
+      },
+      "services": {
+        "text": "70.9% (February 2015 est)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "3.6% (2014 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Population below poverty line": {
+      "text": "16.1% (2013 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.7%"
+      },
+      "highest 10%": {
+        "text": "24.8% (2008)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "24.9 (1993)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.48 trillion"
+      },
+      "expenditures": {
+        "text": "$1.704 trillion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "35.9% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.4% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Public debt": {
+      "text": "227.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "1"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "2.7% (2014 est.)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "0.3% (31 December 2014)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "1.48% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "183"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$4.896 trillion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$8.035 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$10.92 trillion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$3.715 trillion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Current account balance": {
+      "text": "$24.4 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Exports": {
+      "text": "$699.1 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Exports - commodities": {
+      "text": "motor vehicles 14.9%; iron and steel products 5.4%; semiconductors 5%; auto parts 4.8%; power generating machinery 3.5%; plastic materials 3.3% (2014 est.)"
+    },
+    "Exports - partners": {
+      "text": "US 20.2%, China 17.5%, South Korea 7.1%, Hong Kong 5.6%, Thailand 4.5% (2015)"
+    },
+    "Imports": {
+      "text": "$799 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum 16.1%; liquid natural gas 9.1%; clothing 3.8%; semiconductors 3.3%; coal 2.4%; audio and visual apparatus 1.4% (2014 est.)"
+    },
+    "Imports - partners": {
+      "text": "China 24.8%, US 10.5%, Australia 5.4%, South Korea 4.1% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.261 trillion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Debt - external": {
+      "text": "$4.026 trillion (31 December 2012)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$196.9 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$1.177 trillion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Exchange rates": {
+      "text": "79.81 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "980 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "934 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "313 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "64.4% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "15.1% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "14"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "7.6% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "3.8% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "65"
+      }
+    },
+    "Crude oil - production": {
+      "text": "4,247 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "3.433 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "541.6 million bbl (March, 2015 est.)",
+      "country comparison to the world": {
+        "text": "51"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "3.527 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "4.12 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "367,600 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "1.067 million bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Natural gas - production": {
+      "text": "4.757 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "131.3 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "124.7 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "20.9 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.257 billion Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "63,633,050"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "50 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "158.591 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "125 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "8"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "excellent domestic and international service"
+      },
+      "domestic": {
+        "text": "high level of modern technology and excellent service of every kind"
+      },
+      "international": {
+        "text": "country code - 81; numerous submarine cables provide links throughout Asia, Australia, the Middle East, Europe, and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2012)"
+      }
+    },
+    "Broadcast media": {
+      "text": "a mixture of public and commercial broadcast TV and radio stations; 6 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2012)"
+    },
+    "Internet country code": {
+      "text": ".jp"
+    },
+    "Internet users": {
+      "total": {
+        "text": "118.453 million"
+      },
+      "percent of population": {
+        "text": "93.3% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "5"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "23"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "627"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "113.762 million"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "8,868.745 million mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "JA (2016)"
+    },
+    "Airports": {
+      "text": "175 (2013)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "142"
+      },
+      "over 3,047 m": {
+        "text": "6"
+      },
+      "2,438 to 3,047 m": {
+        "text": "45"
+      },
+      "1,524 to 2,437 m": {
+        "text": "38"
+      },
+      "914 to 1,523 m": {
+        "text": "28"
+      },
+      "under 914 m": {
+        "text": "25 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "33"
+      },
+      "914 to 1,523 m": {
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": "28 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "16 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 4,456 km; oil 174 km; oil/gas/water 104 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "27,311 km"
+      },
+      "standard gauge": {
+        "text": "4,800 km 1.435-m gauge (4,800 km electrified)"
+      },
+      "dual gauge": {
+        "text": "132 km 1.435-1.067-m gauge (132 km electrified)"
+      },
+      "narrow gauge": {
+        "text": "124 km 1.372-m gauge (124 km electrified); 22,207 km 1.067-m gauge (15,430 km electrified); 48 km 0.762-m gauge (48 km electrified) (2015)"
+      },
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,218,772 km"
+      },
+      "paved": {
+        "text": "992,835 km (includes 8,428 km of expressways)"
+      },
+      "unpaved": {
+        "text": "225,937 km (2015)"
+      },
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Waterways": {
+      "text": "1,770 km (seagoing vessels use inland seas) (2010)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "684"
+      },
+      "by type": {
+        "text": "bulk carrier 168, cargo 34, carrier 3, chemical tanker 29, container 2, liquefied gas 58, passenger 11, passenger/cargo 117, petroleum tanker 152, refrigerated cargo 4, roll on/roll off 52, vehicle carrier 54"
+      },
+      "registered in other countries": {
+        "text": "3,122 (Bahamas 88, Bermuda 2, Burma 1, Cambodia 1, Cayman Islands 23, China 2, Cyprus 16, Honduras 4, Hong Kong 79, Indonesia 8, Isle of Man 19, Liberia 110, Luxembourg 3, Malaysia 2, Malta 5, Marshall Islands 59, Mongolia 2, Netherlands 1, Panama 2372, Philippines 77, Portugal 9, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 3, Sierra Leone 4, Singapore 164, South Korea 14, Tanzania 1, UK 5, Vanuatu 39, unknown 7) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama"
+      },
+      "container port(s) (TEUs)": {
+        "text": "Kobe (2,725,304), Nagoya (2,471,821), Osaka (2,172,797), Tokyo (4,416,119), Yokohama (2,992,517)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi; Okinawa - Nakagusuku"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Japanese Ministry of Defense (MOD): Ground Self-Defense Force (Rikujou Jieitai, GSDF), Maritime Self-Defense Force (Kaijou Jieitai, MSDF), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription; mandatory retirement at age 53 for senior enlisted personnel and at 62 years for senior service officers (2012)"
+    },
+    "Military expenditures": {
+      "text": "0.99% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "the sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the \"Northern Territories\" and in Russia as the \"Southern Kuril Islands,\" occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Japan and South Korea claim Liancourt Rocks (Take-shima/Tok-do) occupied by South Korea since 1954; the Japanese-administered Senkaku Islands are also claimed by China and Taiwan"
+    },
+    "Refugees and internally displaced persons": {
+      "stateless persons": {
+        "text": "603 (2015)"
+      }
+    }
+  }
+}

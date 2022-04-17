@@ -1,0 +1,822 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The British set up a trading post near present-day Freetown in the 17th century. Originally the trade involved timber and ivory, but later it expanded into slaves. Following the American Revolution, a colony was established in 1787 and Sierra Leone became a destination for resettling black loyalists who had originally been resettled in Nova Scotia. After the abolition of the slave trade in 1807, British crews delivered thousands of Africans liberated from illegal slave ships to Sierra Leone, particularly Freetown. The colony gradually expanded inland during the course of the 19th century; independence was attained in 1961. Democracy is slowly being reestablished after the civil war (1991-2002) that resulted in tens of thousands of deaths and the displacement of more than 2 million people (about one third of the population). The military, which took over full responsibility for security following the departure of UN peacekeepers at the end of 2005, has developed as a guarantor of the country's stability; the armed forces remained on the sideline during the 2007 and 2012 national elections. In March 2014, the closure of the UN Integrated Peacebuilding Office in Sierra Leone marked the end of more than 15 years of peacekeeping and political operations in Sierra Leone. The government's stated priorities include furthering development - including recovering from the Ebola epidemic - creating jobs, and stamping out endemic corruption."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia"
+    },
+    "Geographic coordinates": {
+      "text": "8 30 N, 11 30 W"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "71,740 sq km"
+      },
+      "land": {
+        "text": "71,620 sq km"
+      },
+      "water": {
+        "text": "120 sq km"
+      },
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than South Carolina"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "1,093 km"
+      },
+      "border countries (2)": {
+        "text": "Guinea 794 km, Liberia 299 km"
+      }
+    },
+    "Coastline": {
+      "text": "402 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      },
+      "continental shelf": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)"
+    },
+    "Terrain": {
+      "text": "coastal belt of mangrove swamps, wooded hill country, upland plateau, mountains in east"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "279 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Loma Mansa (Bintimani) 1,948 m"
+    },
+    "Natural resources": {
+      "text": "diamonds, titanium ore, bauxite, iron ore, gold, chromite"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "56.2%"
+      },
+      "text": "arable land 23.4%; permanent crops 2.3%; permanent pasture 30.5%",
+      "forest": {
+        "text": "37.5%"
+      },
+      "other": {
+        "text": "6.3% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "300 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "dry, sand-laden harmattan winds blow from the Sahara (December to February); sandstorms, dust storms"
+    },
+    "Environment - current issues": {
+      "text": "rapid population growth pressuring the environment; overharvesting of timber, expansion of cattle grazing, and slash-and-burn agriculture have resulted in deforestation and soil exhaustion; civil war depleted natural resources; overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Environmental Modification"
+      }
+    },
+    "Geography - note": {
+      "text": "rainfall along the coast can reach 495 cm (195 inches) a year, making it one of the wettest places along coastal, western Africa"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Sierra Leone"
+      },
+      "conventional short form": {
+        "text": "Sierra Leone"
+      },
+      "local long form": {
+        "text": "Republic of Sierra Leone"
+      },
+      "local short form": {
+        "text": "Sierra Leone"
+      },
+      "etymology": {
+        "text": "the Portuguese explorer Pedro de SINTRA named the country \"Serra Leoa\" (Lion Mountains) for the impressive mountains he saw while sailing the West African coast in 1462"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Freetown"
+      },
+      "geographic coordinates": {
+        "text": "8 29 N, 13 14 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "3 provinces and 1 area*; Eastern, Northern, Southern, Western*"
+    },
+    "Independence": {
+      "text": "27 April 1961 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 27 April (1961)"
+    },
+    "Constitution": {
+      "text": "several previous; latest in effect 1 October 1991; amended several times, last in 2013 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent or grandparent must be a citizen of Sierra Leone"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Ernest Bai KOROMA (since 17 September 2007); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Ernest Bai KOROMA (since 17 September 2007)"
+      },
+      "cabinet": {
+        "text": "Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 November 2012 (next to be held in 2017)"
+      },
+      "election results": {
+        "text": "Ernest Bai KOROMA reelected president; percent of vote - Ernest Bai KOROMA (APC) 58.7%, Julius Maada BIO (SLPP) 37.4%, other 3.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Parliament (124 seats; 112 members directly elected in single-seat constituencies by simple majority vote and 12 seats filled in separate elections by non-partisan members of Parliament called \"paramount chiefs;\" members serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 17 November 2012 (next to be held in 2017)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - APC 69, SLPP 43"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges; note \u2013 the Judicature has jurisdiction in all civil, criminal, and constitutional matters"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice and other judges of the Judicature appointed by the president on the advice of the Judicial and Legal Service Commission (a 7-member independent body of judges, presidential appointees, and the Commission chairman) and subject to the approval of Parliament; all Judicature judges appointed until retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "magistrates' courts; District Appeals Court; local courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "numerous other parties"
+    },
+    "Political pressure groups and leaders": {
+      "other": {
+        "text": "student unions; trade unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Bockari Kortu STEVENS (since 28 March 2008)"
+      },
+      "chancery": {
+        "text": "1701 19th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-9261 through 9263"
+      },
+      "FAX": {
+        "text": "[1] (202) 483-1793"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador John HOOVER (since 4 November 4 December 2014))"
+      },
+      "embassy": {
+        "text": "Southridge-Hill Station, Freetown"
+      },
+      "mailing address": {
+        "text": "use embassy street address"
+      },
+      "telephone": {
+        "text": "[232] (76) 99 1055 00"
+      },
+      "FAX": {
+        "text": "[232] (76) 515 355"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of green (top), white, and blue; green symbolizes agriculture, mountains, and natural resources, white represents unity and justice, and blue the sea and the natural harbor in Freetown"
+    },
+    "National symbol(s)": {
+      "text": "lion; national colors: green, white, blue"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"High We Exalt Thee, Realm of the Free\""
+      },
+      "lyrics/music": {
+        "text": "Clifford Nelson FYLE/John Joseph AKA"
+      },
+      "note": {
+        "text": "adopted 1961"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, economic recovery will depend on rising commodities prices and increased efforts to diversify the sources of growth. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$12.13 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$4.167 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "20.7% (2013 est.)",
+      "country comparison to the world": {
+        "text": "224"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,000 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "214"
+      }
+    },
+    "Gross national saving": {
+      "text": "16% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "82.5%"
+      },
+      "government consumption": {
+        "text": "10.3%"
+      },
+      "investment in fixed capital": {
+        "text": "33.3%"
+      },
+      "investment in inventories": {
+        "text": "0.2%"
+      },
+      "exports of goods and services": {
+        "text": "13.1%"
+      },
+      "imports of goods and services": {
+        "text": "-39.4% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "71.6%"
+      },
+      "industry": {
+        "text": "7.3%"
+      },
+      "services": {
+        "text": "21.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rice, coffee, cocoa, palm kernels, palm oil, peanuts, cashews; poultry, cattle, sheep, pigs; fish"
+    },
+    "Industries": {
+      "text": "diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (beverages, textiles, footwear)"
+    },
+    "Industrial production growth rate": {
+      "text": "-65% (2015 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Labor force": {
+      "text": "2.56 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "61.1%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "33.4% (2014 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "9.1% (2014 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Population below poverty line": {
+      "text": "70.2% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.6%"
+      },
+      "highest 10%": {
+        "text": "33.6% (2003)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "62.9 (1989)",
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$664.6 million"
+      },
+      "expenditures": {
+        "text": "$875.3 million (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "15.9% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Public debt": {
+      "text": "37.2% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "7.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "204"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "NA%"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "19.41% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$432.1 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$857.3 million (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$516.1 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$911 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Exports": {
+      "text": "$1.282 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Exports - commodities": {
+      "text": "Iron ore, diamonds, rutile, cocoa, coffee, fish"
+    },
+    "Exports - partners": {
+      "text": "China 31.3%, Belgium 27.8%, Romania 11.3%, US 7.3%, India 4% (2015)"
+    },
+    "Imports": {
+      "text": "$1.635 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "172"
+      }
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery and equipment, fuels and lubricants, chemicals"
+    },
+    "Imports - partners": {
+      "text": "China 23%, India 7.9%, US 6.4%, Netherlands 5.1% (2015)"
+    },
+    "Debt - external": {
+      "text": "$1.238 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$1.095 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$6.7 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Exchange rates": {
+      "text": "4,336.1 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "5,800,000"
+      },
+      "electrification - total population": {
+        "text": "5%"
+      },
+      "electrification - urban areas": {
+        "text": "11%"
+      },
+      "electrification - rural areas": {
+        "text": "1% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "300 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "200 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "100,000 kW (2015 est.)",
+      "country comparison to the world": {
+        "text": "174"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "33.3% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "66.7% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "28"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "189"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "190"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "7,500 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "7,354 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "166"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "193"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "180"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "194"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "17,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "192"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "5.657 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "96 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "marginal telephone service with poor infrastructure"
+      },
+      "domestic": {
+        "text": "the national microwave radio relay trunk system connects Freetown to Bo and Kenema; while mobile-cellular service is growing rapidly from a small base, service area coverage remains limited"
+      },
+      "international": {
+        "text": "country code - 232; satellite earth station - 1 Intelsat (Atlantic Ocean) (2010)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 government-owned TV station; 3 private TV stations; a pay-TV service began operations in late 2007; 1 government-owned national radio station; about two-dozen private radio stations primarily clustered in major cities; transmissions of several international broadcasters are available (2016)"
+    },
+    "Internet country code": {
+      "text": ".sl"
+    },
+    "Internet users": {
+      "total": {
+        "text": "147,000"
+      },
+      "percent of population": {
+        "text": "2.5% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "173"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": ""
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": ""
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "50,193"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "9L (2016)"
+    },
+    "Airports": {
+      "text": "8 (2013)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "7 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "2 (2013)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "11,300 km"
+      },
+      "paved": {
+        "text": "904 km"
+      },
+      "unpaved": {
+        "text": "10,396 km (2002)"
+      },
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Waterways": {
+      "text": "800 km (600 km navigable year round) (2011)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "215"
+      },
+      "by type": {
+        "text": "bulk carrier 22, cargo 120, carrier 2, chemical tanker 19, container 6, liquefied gas 3, passenger/cargo 2, petroleum tanker 28, refrigerated cargo 7, roll on/roll off 4, specialized tanker 1, vehicle carrier 1"
+      },
+      "foreign-owned": {
+        "text": "98 (Bangladesh 1, China 19, Cyprus 2, Egypt 3, Estonia 2, Hong Kong 7, Japan 4, Lebanon 2, North Korea 2, Romania 2, Russia 7, Singapore 9, Syria 13, Taiwan 7, Turkey 9, UAE 1, UK 1, Ukraine 5, Yemen 2) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Freetown, Pepel, Sherbro Islands"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Republic of Sierra Leone Armed Forces (RSLAF): Army (includes Maritime Wing and Air Wing) (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 is the legal minimum age for voluntary military service (younger with parental consent); women are eligible to serve; no conscription; candidates must be HIV negative (2012)"
+    },
+    "Military expenditures": {
+      "text": "0.72% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Sierra Leone opposes Guinean troops' continued occupation of Yenga, a small village on the Makona River that serves as a border with Guinea; Guinea's forces came to Yenga in the mid-1990s to help the Sierra Leonean military to suppress rebels and to secure their common border but have remained there even after both countries signed a 2005 agreement acknowledging that Yenga belonged to Sierra Leone; in 2012, the two sides signed a declaration to demilitarize the area"
+    }
+  }
+}

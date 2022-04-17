@@ -1,0 +1,790 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war, but its government was comparatively tolerant and progressive. Labor turmoil in 1980 led to the formation of the independent trade union \"Solidarity\" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A \"shock therapy\" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004. With its transformation to a democratic, market-oriented country largely completed and with large investments in defense, energy, and other infrastructure, Poland is an increasingly active member of Euro-Atlantic organizations."
+    }
+  },
+  "Geography ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Poland"
+      },
+      "conventional short form": {
+        "text": "Poland"
+      },
+      "local long form": {
+        "text": "Rzeczpospolita Polska"
+      },
+      "local short form": {
+        "text": "Polska"
+      },
+      "etymology": {
+        "text": "name derives from the Polanians, a west Slavic tribe that united several surrounding Slavic groups (9th-10th centuries A.D.) and who passed on their name to the country; the name of the tribe likely comes from the Slavic \"pole\" (field or plain), indicating the flat nature of their country"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Warsaw"
+      },
+      "geographic coordinates": {
+        "text": "52 15 N, 21 00 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
+      }
+    },
+    "Administrative divisions": {
+      "text": "16 provinces (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)"
+    },
+    "Independence": {
+      "text": "11 November 1918 (republic proclaimed); notable earlier dates: 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created)"
+    },
+    "National holiday": {
+      "text": "Constitution Day, 3 May (1791)"
+    },
+    "Constitution": {
+      "text": "several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997; amended 2006, 2009, 2015 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "both parents must be citizens of Poland"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Andrzej DUDA (since 6 August 2015)"
+      },
+      "head of government": {
+        "text": "Prime Minister Beata SZYDLO (since 16 November 2015); Deputy Prime Minister and Minister of Culture and National Heritage Piotr GLINSKI (since 16 November 2015), Deputy Prime Minister and Minister of Science and Higher Education Jaroslaw GOWIN (since 16 November 2015), and Deputy Prime Minister and Minister of Development Mateusz MORAWIECKI (since 16 November 2015)"
+      },
+      "cabinet": {
+        "text": "Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 and 24 May 2015 (next to be held in 2020); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm"
+      },
+      "election results": {
+        "text": "Andrzej DUDA elected president; percent of vote in runoff - Andrzej DUDA 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral legislature consists of the Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) and the Sejm (460 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms); note - the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the two houses meet jointly"
+      },
+      "note": {
+        "text": "the German minority is exempt from the 5% threshold requirement for seats to the Sejm"
+      },
+      "elections": {
+        "text": "Senate - last held on 25 October 2015 (next to be held in October 2019); Sejm - last held on 25 October 2015 (next to be held in October 2019)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - PiS 62, PO 33, PSL 1, independents 4; Sejm - percent of vote by party - PiS 37.6%, PO 24.1%, K15 8.8%, N 7.6%, PSL 5.1% other 16.8%; seats by party - PiS 234, PO 138, K15 40, N 29, PSL 16, independent 2, German minority 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Sad Najwyzszy (consists of the president of the Supreme Court and 116 judges organized in criminal, civil, labor and social insurance, and military chambers)"
+      },
+      "judge selection and term of office": {
+        "text": "president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judiciary Council, and appointed by the president of Poland; judges appointed until retirement, usually at age 65, but tenure can be extended"
+      },
+      "subordinate courts": {
+        "text": "Constitutional Tribunal; regional and appellate courts subdivided into military, civil, criminal, labor, and family courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Razem (Together) [no party chair, led by nine-member management board]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Roman Catholic Church [Archbishop Wojciech POLAK, Archbishop Stanislaw GADECKI]"
+    },
+    "International organization participation": {
+      "text": "Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Ryszard SCHNEPF (since 28 September 2012)"
+      },
+      "chancery": {
+        "text": "2640 16th Street NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-3800 through 3802"
+      },
+      "FAX": {
+        "text": "[1] (202) 328-6271"
+      },
+      "consulate(s) general": {
+        "text": "Chicago, Los Angeles, New York"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Paul JONES (since 7 October 2015)"
+      },
+      "embassy": {
+        "text": "Aleje Ujazdowskie 29/31 00-540 Warsaw"
+      },
+      "mailing address": {
+        "text": "American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch)"
+      },
+      "telephone": {
+        "text": "[48] (22) 504-2000"
+      },
+      "FAX": {
+        "text": "[48] (22) 504-2688"
+      },
+      "consulate(s) general": {
+        "text": "Krakow"
+      }
+    },
+    "Flag description": {
+      "text": "two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field",
+      "note": {
+        "text": "similar to the flags of Indonesia and Monaco which are red (top) and white"
+      }
+    },
+    "National symbol(s)": {
+      "text": "white eagle; national colors: white, red"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Mazurek Dabrowskiego\" (Dabrowski's Mazurka)"
+      },
+      "lyrics/music": {
+        "text": "Jozef WYBICKI/traditional"
+      },
+      "note": {
+        "text": "adopted 1927; the anthem, commonly known as \"Jeszcze Polska nie zginela\" (Poland Has Not Yet Perished), was written in 1797; the lyrics resonate strongly with Poles because they reflect the numerous occasions in which the nation's lands have been occupied"
+      },
+      "text": ""
+    }
+  },
+  "\nLocation": {
+    "Economy - overview": {
+      "text": "Poland faces several challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland\u2019s energy mix and sources of supply, strengthening investments in innovation, research, and development, and as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$938.9 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$474.9 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "1.3% (2013 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$24,700 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Gross national saving": {
+      "text": "17.7% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "58.7%"
+      },
+      "government consumption": {
+        "text": "18%"
+      },
+      "investment in fixed capital": {
+        "text": "20.1%"
+      },
+      "investment in inventories": {
+        "text": "0.4%"
+      },
+      "exports of goods and services": {
+        "text": "49.4%"
+      },
+      "imports of goods and services": {
+        "text": "-46.6% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "3.3%"
+      },
+      "industry": {
+        "text": "41.1%"
+      },
+      "services": {
+        "text": "55.6% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "potatoes, fruits, vegetables, wheat; poultry, eggs, pork, dairy"
+    },
+    "Industries": {
+      "text": "machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "5.4% (2015 est.)",
+      "country comparison to the world": {
+        "text": "39"
+      }
+    },
+    "Labor force": {
+      "text": "17.76 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "12.6%"
+      },
+      "industry": {
+        "text": "30.4%"
+      },
+      "services": {
+        "text": "57% (2012)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "12.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Population below poverty line": {
+      "text": "17.3% (2012 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3.3%"
+      },
+      "highest 10%": {
+        "text": "25.6% (2012 est.)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "33.7 (2008)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$76.65 billion"
+      },
+      "expenditures": {
+        "text": "$87.95 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "16.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-2.4% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Public debt": {
+      "text": "43.9% of GDP (2014 est.)",
+      "note": {
+        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+      },
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "0.1% (2014 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "1.5% (31 December 2013)",
+      "country comparison to the world": {
+        "text": "109"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "6.25% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$172.9 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$318.8 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$348 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "35"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$190.2 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Current account balance": {
+      "text": "-$11.13 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Exports": {
+      "text": "$210.7 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Exports - commodities": {
+      "text": "machinery and transport equipment 37.8%, intermediate manufactured goods 23.7%, miscellaneous manufactured goods 17.1%, food and live animals 7.6% (2012 est.)"
+    },
+    "Exports - partners": {
+      "text": "Germany 27.1%, UK 6.8%, Czech Republic 6.6%, France 5.5%, Italy 4.8%, Netherlands 4.4% (2015)"
+    },
+    "Imports": {
+      "text": "$215 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery and transport equipment 38%, intermediate manufactured goods 21%, chemicals 15%, minerals, fuels, lubricants, and related materials 9% (2011 est.)"
+    },
+    "Imports - partners": {
+      "text": "Germany 27.6%, China 7.5%, Russia 7.2%, Netherlands 5.9%, Italy 5.2%, France 4.1% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$100.4 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Debt - external": {
+      "text": "$338.6 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "32"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$249.5 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$65.85 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Exchange rates": {
+      "text": "2.9639 (2011 est.)"
+    }
+  },
+  "People and Society ": {
+    "Electricity access": {
+      "electrification - total population": {
+        "text": "100% (2016)"
+      }
+    },
+    "Electricity - production": {
+      "text": "150 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "142 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Electricity - exports": {
+      "text": "11 billion kWh (2014)",
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Electricity - imports": {
+      "text": "14 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "36 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "89.5% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "1.5% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "8.5% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Crude oil - production": {
+      "text": "18,420 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "5,162 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "532,300 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "19"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "100 million bbl (1 January 2010 es)",
+      "country comparison to the world": {
+        "text": "68"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "568,200 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "31"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "536,700 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "160,100 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "43"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "128,800 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Natural gas - production": {
+      "text": "6.08 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "17.66 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "76 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "46"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "11.82 billion cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "23"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "81.66 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "56"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "322 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "24"
+      }
+    }
+  },
+  "\nPopulation": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "4.245 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "11 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "30"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "56.838 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "147 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "26"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "modernization of the telecommunications network has accelerated with market-based competition; fixed-line service, dominated by the former state-owned company, is dwarfed by the growth in mobile-cellular services"
+      },
+      "domestic": {
+        "text": "several nation-wide networks provide mobile-cellular service; coverage is generally good; fixed-line service lags in rural areas"
+      },
+      "international": {
+        "text": "country code - 48; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".pl"
+    },
+    "Internet users": {
+      "total": {
+        "text": "26.221 million"
+      },
+      "percent of population": {
+        "text": "68% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "22"
+      }
+    }
+  },
+  "Government ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "6"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "92"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "4,841,128"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "120,016,466 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "SP (2016)"
+    },
+    "Airports": {
+      "text": "126 (2013)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "87"
+      },
+      "over 3,047 m": {
+        "text": "5"
+      },
+      "2,438 to 3,047 m": {
+        "text": "30"
+      },
+      "1,524 to 2,437 m": {
+        "text": "36"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "6 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "39"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "17"
+      },
+      "under 914 m": {
+        "text": "21 (2013)"
+      }
+    },
+    "Heliports": {
+      "text": "6 (2013)"
+    },
+    "Pipelines": {
+      "text": "gas 14,198 km; oil 1,374 km; refined products 777 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "19,837 km"
+      },
+      "broad gauge": {
+        "text": "395 km 1.524-m gauge"
+      },
+      "standard gauge": {
+        "text": "19,442 km 1.435-m gauge (11,899 km electrified) (2014)"
+      },
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "412,035 km"
+      },
+      "paved": {
+        "text": "280,719 km (includes 2,418 km of expressways)"
+      },
+      "unpaved": {
+        "text": "131,316 km (2012)"
+      },
+      "country comparison to the world": {
+        "text": "16"
+      }
+    },
+    "Waterways": {
+      "text": "3,997 km (navigable rivers and canals) (2009)",
+      "country comparison to the world": {
+        "text": "27"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "9"
+      },
+      "by type": {
+        "text": "cargo 7, chemical tanker 1, passenger/cargo 1"
+      },
+      "registered in other countries": {
+        "text": "106 (Antigua and Barbuda 2, Bahamas 34, Cyprus 24, Liberia 13, Malta 21, Saint Vincent and the Grenadines 3, Vanuatu 9) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Gdansk, Gdynia, Swinoujscie"
+      },
+      "river port(s)": {
+        "text": "Szczecin (River Oder)"
+      },
+      "LNG terminal(s) (import)": {
+        "text": "Swinoujscie"
+      }
+    }
+  },
+  "Economy ": {
+    "Military branches": {
+      "text": "Polish Armed Forces: Land Forces, Navy, Air and Air Defense Aviation Forces, Special Forces (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; service obligation shortened from 12 to 9 months in 2005; women only allowed to serve as officers and noncommissioned officers (2013)"
+    },
+    "Military expenditures": {
+      "text": "1.83% of GDP (2011)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    }
+  },
+  "Energy ": {
+    "Disputes - international": {
+      "text": "as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "12,304 (Russia) (2015); 71,302 applicants for forms of legal stay other than asylum (Ukraine) (2015)"
+      },
+      "stateless persons": {
+        "text": "10,825 (2015)"
+      }
+    },
+    "Illicit drugs": {
+      "text": "despite diligent counternarcotics measures and international information sharing on cross-border crimes, a major illicit producer of synthetic drugs for the international market; minor transshipment point for Southwest Asian heroin and Latin American cocaine to Western Europe"
+    }
+  }
+}

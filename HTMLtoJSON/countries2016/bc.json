@@ -1,0 +1,815 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Formerly the British protectorate of Bechuanaland, Botswana adopted its new name at independence in 1966. More than four decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most stable economies in Africa. The ruling Botswana Democratic Party has won every election since independence; President Ian KHAMA was reelected for a second term in 2014. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest known rates of HIV/AIDS infection, but also one of Africa's most progressive and comprehensive programs for dealing with the disease."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, north of South Africa"
+    },
+    "Geographic coordinates": {
+      "text": "22 00 S, 24 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "581,730 sq km"
+      },
+      "land": {
+        "text": "566,730 sq km"
+      },
+      "water": {
+        "text": "15,000 sq km"
+      },
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Texas"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,347.15 km"
+      },
+      "border countries (4)": {
+        "text": "Namibia 1,544 km, South Africa 1,969 km, Zambia 0.15 km, Zimbabwe 834 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "semiarid; warm winters and hot summers"
+    },
+    "Terrain": {
+      "text": "predominantly flat to gently rolling tableland; Kalahari Desert in southwest"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,013 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Tsodilo Hills 1,489 m"
+    },
+    "Natural resources": {
+      "text": "diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "45.8%"
+      },
+      "text": "arable land 0.6%; permanent crops 0%; permanent pasture 45.2%",
+      "forest": {
+        "text": "19.8%"
+      },
+      "other": {
+        "text": "34.4% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "20 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "periodic droughts; seasonal August winds blow from the west, carrying sand and dust across the country, which can obscure visibility"
+    },
+    "Environment - current issues": {
+      "text": "overgrazing; desertification; limited freshwater resources"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; population concentrated in eastern part of the country"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Botswana"
+      },
+      "conventional short form": {
+        "text": "Botswana"
+      },
+      "local long form": {
+        "text": "Republic of Botswana"
+      },
+      "local short form": {
+        "text": "Botswana"
+      },
+      "former": {
+        "text": "Bechuanaland"
+      },
+      "etymology": {
+        "text": "the name Botswana means \"Land of the Tswana\" - referring to the country's major ethnic group"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Gaborone"
+      },
+      "geographic coordinates": {
+        "text": "24 38 S, 25 54 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 districts and 6 town councils*; Central, Chobe, Francistown*, Gaborone*, Ghanzi, Jwaneng*, Kgalagadi, Kgatleng, Kweneng, Lobatse*, North East, North West, Selebi-Phikwe*, South East, Southern, Sowa Town*"
+    },
+    "Independence": {
+      "text": "30 September 1966 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (Botswana Day), 30 September (1966)"
+    },
+    "Constitution": {
+      "text": "previous 1960 (preindependence); latest adopted March 1965, effective 30 September 1966; amended several times, last in 2006 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Botswana"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "10 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Seretse Khama Ian KHAMA (since 1 April 2008); Vice President Mokgweetsi Eric MASISI (since 12 November 2014); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Seretse Khama Ian KHAMA (since 1 April 2008); Vice President Mokgweetsi Eric MASISI (since 12 November 2014)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 24 October 2014 (next to be held in October 2019); vice president appointed by the president"
+      },
+      "election results": {
+        "text": "Seretse Khama Ian KHAMA elected president; percent of National Assembly vote - NA"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote, 4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments"
+      },
+      "elections": {
+        "text": "National Assembly elections last held on 24 October 2014 (next to be held in October 2019)"
+      },
+      "election results": {
+        "text": "percent of vote by party - BDP 46.5%, UDC 30.0%, BCP 20.4%, independent 3.1%; seats by party - BDP 37, UDC 17, BCP 3"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Court of Appeal, High Court (each consists of a chief justice and a number of other judges as prescribed by the Parliament)"
+      },
+      "judge selection and term of office": {
+        "text": "Court of Appeal and High Court chief justices appointed by the president and other judges appointed by the president upon the advice of the Judicial Service Commission; all judges appointed to serve until age 70"
+      },
+      "subordinate courts": {
+        "text": "Industrial Court (with circuits scheduled monthly in the capital city and in 3 districts); Magistrates Courts (1 in each district); Customary Court of Appeal; Paramount Chief's Court/Urban Customary Court; Senior Chief's Representative Court; Chief's Representative\u2019s Court; Headman's Court"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Umbrella for Democratic Change or UDC [Duma BOKO] (includes BMD, BPP, and BNF)"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Society for the Promotion of Ikalanga Language (Kalanga elites)",
+      "other": {
+        "text": "diamond mining companies"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador David John NEWMAN (since 3 August 2015)"
+      },
+      "chancery": {
+        "text": "1531-1533 New Hampshire Avenue NW, Washington, DC 20036"
+      },
+      "telephone": {
+        "text": "[1] (202) 244-4990"
+      },
+      "FAX": {
+        "text": "[1] (202) 244-4164"
+      },
+      "consulate(s) general": {
+        "text": "Atlanta"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Earl R. MILLER (since 30 January 2015)"
+      },
+      "embassy": {
+        "text": "Embassy Drive, Government Enclave (off Khama Crescent), Gaborone"
+      },
+      "mailing address": {
+        "text": "Embassy Enclave, P. O. Box 90, Gaborone"
+      },
+      "telephone": {
+        "text": "[267] 395-3982"
+      },
+      "FAX": {
+        "text": "[267] 318-0232"
+      }
+    },
+    "Flag description": {
+      "text": "light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony"
+    },
+    "National symbol(s)": {
+      "text": "zebra; national colors: blue, white, black"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Fatshe leno la rona\" (Our Land)"
+      },
+      "lyrics/music": {
+        "text": "Kgalemang Tumedisco MOTSETE"
+      },
+      "note": {
+        "text": "adopted 1966"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The prevalence of HIV/AIDS is second highest in the world and threatens the country's impressive economic gains."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$33.88 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$12.86 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "9.9% (2013 est.)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$16,300 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "99"
+      }
+    },
+    "Gross national saving": {
+      "text": "42.2% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "9"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "47.2%"
+      },
+      "government consumption": {
+        "text": "17.4%"
+      },
+      "investment in fixed capital": {
+        "text": "29.5%"
+      },
+      "investment in inventories": {
+        "text": "7.2%"
+      },
+      "exports of goods and services": {
+        "text": "52.3%"
+      },
+      "imports of goods and services": {
+        "text": "-53.6% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "1.9%"
+      },
+      "industry": {
+        "text": "30.2%"
+      },
+      "services": {
+        "text": "67.9% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "livestock, sorghum, maize, millet, beans, sunflowers, groundnuts"
+    },
+    "Industries": {
+      "text": "diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; livestock processing; textiles"
+    },
+    "Industrial production growth rate": {
+      "text": "-10.6% (2015 est.)",
+      "country comparison to the world": {
+        "text": "195"
+      }
+    },
+    "Labor force": {
+      "text": "1.155 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "NA%"
+      },
+      "industry": {
+        "text": "NA%"
+      },
+      "services": {
+        "text": "NA%"
+      }
+    },
+    "Unemployment rate": {
+      "text": "17.8% (2009 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Population below poverty line": {
+      "text": "30.3% (2003 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "60.5 (2009)",
+      "country comparison to the world": {
+        "text": "6"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$5.112 billion"
+      },
+      "expenditures": {
+        "text": "$5.526 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "39.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Public debt": {
+      "text": "16.6% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "4.4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "7.5% (31 December 2014)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "9% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.388 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$7.635 billion (31 December 2012 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$1.272 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "148"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$4.076 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "86"
+      }
+    },
+    "Current account balance": {
+      "text": "$2.496 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "37"
+      }
+    },
+    "Exports": {
+      "text": "$8.514 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Exports - commodities": {
+      "text": "diamonds, copper, nickel, soda ash, meat, textiles"
+    },
+    "Imports": {
+      "text": "$7.991 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs, machinery, electrical goods, transport equipment, textiles, fuel and petroleum products, wood and paper products, metal and metal products"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$8.323 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Debt - external": {
+      "text": "$2.384 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Exchange rates": {
+      "text": "6.8382 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "700,000"
+      },
+      "electrification - total population": {
+        "text": "66%"
+      },
+      "electrification - urban areas": {
+        "text": "75%"
+      },
+      "electrification - rural areas": {
+        "text": "54% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "2.2 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "3.7 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Electricity - imports": {
+      "text": "1.7 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "100,000 kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "100% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "4"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "48"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "23,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "134"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "22,400 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "115"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "160"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "4.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "160,490"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "7 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "132"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "3.475 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "159 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "Botswana is participating in regional development efforts; expanding fully digital system with fiber-optic cables linking the major population centers in the east as well as a system of open-wire lines, microwave radio relays links, and radiotelephone communication stations"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity has declined in recent years and now stands at roughly 7 telephones per 100 persons; mobile-cellular teledensity now pushing 160 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "2 TV stations - 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations; 3 privately owned radio stations broadcast locally (2007)"
+    },
+    "Internet country code": {
+      "text": ".bw"
+    },
+    "Internet users": {
+      "total": {
+        "text": "600,000"
+      },
+      "percent of population": {
+        "text": "27.5% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "144"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "6"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "194,005"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "94,729 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "A2 (2016)"
+    },
+    "Airports": {
+      "text": "74 (2013)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "10"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "6"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "64"
+      },
+      "1,524 to 2,437 m": {
+        "text": "5"
+      },
+      "914 to 1,523 m": {
+        "text": "46"
+      },
+      "under 914 m": {
+        "text": "13 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "888 km"
+      },
+      "narrow gauge": {
+        "text": "888 km 1.067-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "17,916 km"
+      },
+      "note": {
+        "text": "includes 8,916 km of Public Highway Network roads (6,116 km paved and 2,800 km unpaved) and 9,000 km of District Council roads (2011)"
+      },
+      "country comparison to the world": {
+        "text": "117"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Botswana Defense Force (BDF): Ground Forces Command, Air Wing Command, Defense Logistics Command, Special Forces Group (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 is the legal minimum age for voluntary military service; no conscription (2012)"
+    },
+    "Military expenditures": {
+      "text": "2.31% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "34"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "none"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Botswana is a source, transit, and destination country for women and children subjected to sex trafficking and forced labor; young Batswana serving as domestic workers, sometimes sent by their parents, may be denied education and basic necessities or experience confinement and abuse indicative of forced labor; Batswana girls and women also are forced into prostitution domestically; adults and children of San ethnicity were reported to be in forced labor on farms and at cattle posts in the country\u2019s rural west"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Botswana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; an anti-trafficking act was passed at the beginning of 2014, but authorities did not investigate, prosecute, or convict any offenders or government officials complicit in trafficking or operationalize victim identification and referral procedures based on the new law; the government sponsored a radio campaign to familiarize the public with the issue of human trafficking (2015)"
+      }
+    }
+  }
+}

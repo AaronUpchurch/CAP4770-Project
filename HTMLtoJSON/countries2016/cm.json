@@ -1,0 +1,852 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972, a new constitution replaced the federation with a unitary state, the United Republic of Cameroon. The country has generally enjoyed stability, which has enabled the development of agriculture, roads, and railways, as well as a petroleum industry. Despite slow movement toward democratic reform, political power remains firmly in the hands of President Paul BIYA."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Central Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nigeria"
+    },
+    "Geographic coordinates": {
+      "text": "6 00 N, 12 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "475,440 sq km"
+      },
+      "land": {
+        "text": "472,710 sq km"
+      },
+      "water": {
+        "text": "2,730 sq km"
+      },
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly larger than California"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "5,018 km"
+      },
+      "border countries (6)": {
+        "text": "Central African Republic 901 km, Chad 1,116 km, Republic of the Congo 494 km, Equatorial Guinea 183 km, Gabon 349 km, Nigeria 1,975 km"
+      }
+    },
+    "Coastline": {
+      "text": "402 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      }
+    },
+    "Climate": {
+      "text": "varies with terrain, from tropical along coast to semiarid and hot in north"
+    },
+    "Terrain": {
+      "text": "diverse, with coastal plain in southwest, dissected plateau in center, mountains in west, plains in north"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "667 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Fako 4,095 m (on Cameroon Mountain)"
+    },
+    "Natural resources": {
+      "text": "petroleum, bauxite, iron ore, timber, hydropower"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "20.6%"
+      },
+      "text": "arable land 13.1%; permanent crops 3.3%; permanent pasture 4.2%",
+      "forest": {
+        "text": "41.7%"
+      },
+      "other": {
+        "text": "37.7% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "290 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes",
+      "volcanism": {
+        "text": "Mt. Cameroon (elev. 4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986"
+      }
+    },
+    "Environment - current issues": {
+      "text": "waterborne diseases are prevalent; deforestation; overgrazing; desertification; poaching; overfishing"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "sometimes referred to as the hinge of Africa; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Cameroon"
+      },
+      "conventional short form": {
+        "text": "Cameroon"
+      },
+      "local long form": {
+        "text": "Republique du Cameroun/Republic of Cameroon"
+      },
+      "local short form": {
+        "text": "Cameroun/Cameroon"
+      },
+      "former": {
+        "text": "French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon"
+      },
+      "etymology": {
+        "text": "in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named afer a crustacean"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Yaounde"
+      },
+      "geographic coordinates": {
+        "text": "3 52 N, 11 31 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)"
+    },
+    "Independence": {
+      "text": "1 January 1960 (from French-administered UN trusteeship)"
+    },
+    "National holiday": {
+      "text": "State Unification Day (National Day), 20 May (1972)"
+    },
+    "Constitution": {
+      "text": "several previous; latest effective 18 January 1996; amended 2008 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law, French civil law, and customary law"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction; non-party state to the ICCt"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Cameroon"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "20 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Paul BIYA (since 6 November 1982)"
+      },
+      "head of government": {
+        "text": "Prime Minister Philemon YANG (since 30 June 2009)"
+      },
+      "cabinet": {
+        "text": "Cabinet proposed by the prime minister, appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 9 October 2011 (next to be held in October 2018); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 78.0%, John FRU NDI (SDF) 10.7%, Garga Haman ADJI 3.2%, other 8.1%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament or Parlement consists of the Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms) and the National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms); note - the 100-member Senate was formed at the time of the April 2013 election"
+      },
+      "elections": {
+        "text": "Senate last held on 14 April 2013 (next to be held in 2018); National Assembly last held on 30 September 2013 (next to be held in 2018)"
+      },
+      "election results": {
+        "text": "Senate - percent of vote by party - NA; seats by party - CPDM 56, SDF 14; National Assembly - percent of vote by party - CPDM 73.1%, SDF 17.6%, UNDP 6.1%, UDC 2.5%, other 0.7%; seats by party - CPDM 148, SDF 18, UNDP 5, UDC 4, UPC 3, other 2"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for single 9-year terms"
+      },
+      "subordinate courts": {
+        "text": "Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrate's courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Union of Peoples of Cameroon or UPC [Provisionary Management Bureau]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Tribunal 53 [Patrice NGANANG]"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Essomba ETOUNDI (since 27 June 2016)"
+      },
+      "chancery": {
+        "text": "2349 Massachusetts Avenue NW, Washington, DC 20008; current temporary address - 3400 International Drive NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 265-8790"
+      },
+      "FAX": {
+        "text": "[1] (202) 387-3826"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Michael Stephen HOZA (since 19 September 2014)"
+      },
+      "embassy": {
+        "text": "Avenue Rosa Parks, Yaounde"
+      },
+      "mailing address": {
+        "text": "P.O. Box 817, Yaounde; pouch"
+      },
+      "telephone": {
+        "text": "[237] 22220 1500; Consular"
+      },
+      "FAX": {
+        "text": "[237] 22220 1500 Ext. 4531; Consular FAX"
+      },
+      "branch office(s)": {
+        "text": "Douala"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the \"star of unity\"",
+      "note": {
+        "text": "uses the popular Pan-African colors of Ethiopia"
+      }
+    },
+    "National symbol(s)": {
+      "text": "lion; national colors: green, red, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"O Cameroun, Berceau de nos Ancetres\" (O Cameroon, Cradle of Our Forefathers)"
+      },
+      "lyrics/music": {
+        "text": "Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME"
+      },
+      "note": {
+        "text": "adopted 1957; Cameroon's anthem, also known as \"Chant de Ralliement\" (The Rallying Song), has been used unofficially since 1948 and officially adopted in 1957; the anthem has French and English versions whose lyrics differ"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep sea port in Kribi and the Lom Pangar Hydropower Project. Cameroon\u2019s energy sector continues to diversify, recently opening a natural gas powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$64.78 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$28.48 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.6% (2013 est.)",
+      "country comparison to the world": {
+        "text": "33"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$2,900 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "189"
+      }
+    },
+    "Gross national saving": {
+      "text": "19.5% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "77.6%"
+      },
+      "government consumption": {
+        "text": "12.1%"
+      },
+      "investment in fixed capital": {
+        "text": "21.9%"
+      },
+      "investment in inventories": {
+        "text": "0.1%"
+      },
+      "exports of goods and services": {
+        "text": "22%"
+      },
+      "imports of goods and services": {
+        "text": "-33.7% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "21.6%"
+      },
+      "industry": {
+        "text": "30.6%"
+      },
+      "services": {
+        "text": "47.7% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "coffee, cocoa, cotton, rubber, bananas, oilseed, grains, cassava (manioc, tapioca); livestock; timber"
+    },
+    "Industries": {
+      "text": "petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair"
+    },
+    "Industrial production growth rate": {
+      "text": "7.2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Labor force": {
+      "text": "9.379 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "70%"
+      },
+      "industry": {
+        "text": "13%"
+      },
+      "services": {
+        "text": "17% (2001 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "30% (2001 est.)",
+      "country comparison to the world": {
+        "text": "187"
+      }
+    },
+    "Population below poverty line": {
+      "text": "48% (2000 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.3%"
+      },
+      "highest 10%": {
+        "text": "35.4% (2001)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "47.7 (1996)",
+      "country comparison to the world": {
+        "text": "44"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.788 billion"
+      },
+      "expenditures": {
+        "text": "$6.292 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "16.8% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "182"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.3% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "171"
+      }
+    },
+    "Public debt": {
+      "text": "22.7% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "4.25% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "13% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "57"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$3.877 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "110"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$6.217 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$4.769 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$230 million (31 December 2012 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Current account balance": {
+      "text": "-$1.396 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "127"
+      }
+    },
+    "Exports": {
+      "text": "$6.679 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Exports - commodities": {
+      "text": "crude oil and petroleum products, lumber, cocoa beans, aluminum, coffee, cotton"
+    },
+    "Exports - partners": {
+      "text": "China 16.7%, India 15.7%, Spain 6.2%, Belgium 6.1%, France 6.1%, Portugal 5.6%, Netherlands 5%, Italy 5% (2015)"
+    },
+    "Imports": {
+      "text": "$6.915 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Imports - commodities": {
+      "text": "machinery, electrical equipment, transport equipment, fuel, food"
+    },
+    "Imports - partners": {
+      "text": "China 27.9%, Nigeria 13.9%, France 10.9%, Belgium 4.1% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$3.204 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Debt - external": {
+      "text": "$5.289 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "121"
+      }
+    },
+    "Exchange rates": {
+      "text": "471.87 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "10,100,000"
+      },
+      "electrification - total population": {
+        "text": "55%"
+      },
+      "electrification - urban areas": {
+        "text": "88%"
+      },
+      "electrification - rural areas": {
+        "text": "17% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "6.8 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "114"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "6.1 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "1.1 million kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "28.5% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "71.5% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "21"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Crude oil - production": {
+      "text": "95,960 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "50,830 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "45"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "37,600 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "200 million bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "59"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "51,670 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "82"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "43,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "14,590 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "88"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "4,134 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Natural gas - production": {
+      "text": "469 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "74"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "469 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "80"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "135.1 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "6.5 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "1,054,978"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "4 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "16.807 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "71 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "system includes cable, microwave radio relay, and tropospheric scatter; Camtel, the monopoly provider of fixed-line service, provides connections for only about 4 per 100 persons; equipment is old and outdated, and connections with many parts of the country are unreliable"
+      },
+      "domestic": {
+        "text": "mobile-cellular usage, in part a reflection of the poor condition and general inadequacy of the fixed-line network, has increased sharply, reaching a subscribership base of 70 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 237; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operating but are subject to closure at any time; foreign news services required to partner with state-owned national station (2007)"
+    },
+    "Internet country code": {
+      "text": ".cm"
+    },
+    "Internet users": {
+      "total": {
+        "text": "4.909 million"
+      },
+      "percent of population": {
+        "text": "20.7% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "108"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "3"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "267,208"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "0 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "TJ (2016)"
+    },
+    "Airports": {
+      "text": "33 (2013)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "11"
+      },
+      "over 3,047 m": {
+        "text": "2"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "22"
+      },
+      "1,524 to 2,437 m": {
+        "text": "4"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": "8 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 53 km; liquid petroleum gas 5 km; oil 1,107 km; water 35 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "987 km"
+      },
+      "narrow gauge": {
+        "text": "987 km 1.000-m gauge"
+      },
+      "note": {
+        "text": "railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL (2014)"
+      },
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "51,350 km"
+      },
+      "paved": {
+        "text": "4,108 km"
+      },
+      "unpaved": {
+        "text": "47,242 km"
+      },
+      "note": {
+        "text": "there are 28,857 km of national roads (2011)"
+      },
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Waterways": {
+      "text": "(major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua) (2010)"
+    },
+    "Ports and terminals": {
+      "river port(s)": {
+        "text": "Douala (Wouri); Garoua (Benoue)"
+      },
+      "oil terminal(s)": {
+        "text": "Limboh Terminal"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique (MNR), includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Brigade, Fire Fighter Corps, Gendarmerie (2015)"
+    },
+    "Military service age and obligation": {
+      "text": "18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years; periodic government calls for volunteers (2012)"
+    },
+    "Military expenditures": {
+      "text": "1.42% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "70"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "259,145 (Central African Republic); 86,212 (Nigeria) (2016)"
+      },
+      "IDPs": {
+        "text": "198,889 (2016)"
+      }
+    }
+  }
+}

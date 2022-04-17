@@ -1,0 +1,775 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island until 1834 when slavery was abolished. The economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Caribbean, island in the North Atlantic Ocean, northeast of Venezuela"
+    },
+    "Geographic coordinates": {
+      "text": "13 10 N, 59 32 W"
+    },
+    "Map references": {
+      "text": "Central America and the Caribbean"
+    },
+    "Area": {
+      "total": {
+        "text": "430 sq km"
+      },
+      "land": {
+        "text": "430 sq km"
+      },
+      "water": {
+        "text": "0 sq km"
+      },
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Area - comparative": {
+      "text": "2.5 times the size of Washington, DC"
+    },
+    "Land boundaries": {
+      "text": "0 km"
+    },
+    "Coastline": {
+      "text": "97 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "tropical; rainy season (June to October)"
+    },
+    "Terrain": {
+      "text": "relatively flat; rises gently to central highland region"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "NA"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Mount Hillaby 336 m"
+    },
+    "Natural resources": {
+      "text": "petroleum, fish, natural gas"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "32.6%"
+      },
+      "text": "arable land 25.6%; permanent crops 2.3%; permanent pasture 4.7%",
+      "forest": {
+        "text": "19.4%"
+      },
+      "other": {
+        "text": "48% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "50 sq km (2012)"
+    },
+    "Population - distribution": {
+      "text": "most densely populated country in the eastern Caribbean; approximately one-third live in urban areas"
+    },
+    "Natural hazards": {
+      "text": "infrequent hurricanes; periodic landslides"
+    },
+    "Environment - current issues": {
+      "text": "pollution of coastal waters from waste disposal by ships; soil erosion; illegal solid waste disposal threatens contamination of aquifers"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "easternmost Caribbean island"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "none"
+      },
+      "conventional short form": {
+        "text": "Barbados"
+      },
+      "etymology": {
+        "text": "the name derives from the Portuguese \"as barbadas,\" which means \"the bearded ones\" and can refer either to the long, hanging roots of the island's bearded-fig trees or to the alleged beards of the native Carib inhabitants"
+      }
+    },
+    "Government type": {
+      "text": "parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm"
+    },
+    "Capital": {
+      "name": {
+        "text": "Bridgetown"
+      },
+      "geographic coordinates": {
+        "text": "13 06 N, 59 37 W"
+      },
+      "time difference": {
+        "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "11 parishes and 1 city*; Bridgetown*, Christ Church, Saint Andrew, Saint George, Saint James, Saint John, Saint Joseph, Saint Lucy, Saint Michael, Saint Peter, Saint Philip, Saint Thomas"
+    },
+    "Independence": {
+      "text": "30 November 1966 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Emancipation Day, 1 August (1834); Independence Day, 30 November (1966)"
+    },
+    "Constitution": {
+      "text": "adopted 22 November 1966, effective 30 November 1966; amended several times, last in 2007 (2016)"
+    },
+    "Legal system": {
+      "text": "English common law; no judicial review of legislative acts"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "yes"
+      },
+      "citizenship by descent": {
+        "text": "yes"
+      },
+      "dual citizenship recognized": {
+        "text": "yes"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Elliot BELGRAVE (since 1 June 2012)"
+      },
+      "head of government": {
+        "text": "Prime Minister Freundel STUART (since 23 October 2010)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the governor general on the advice of the prime minister"
+      },
+      "elections/appointments": {
+        "text": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of the Senate (21 seats; members appointed by the governor general - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the governor general) and the House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "House of Assembly - last held on 21 February 2013 (next to be called in 2018)"
+      },
+      "election results": {
+        "text": "House of Assembly - percent of vote by party - DLP 51.3%, BLP 48.3%, other 0.4%; seats by party - DLP 16, BLP 14"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the chief justice and president of the court and 4 justices; note - Barbados, a member of the Caribbean Court of Justice, replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice appointed by the governor-general on the recommendation of the prime minister and opposition leader of Parliament; other justices appointed by the governor-general on the recommendation of the Judicial and Legal Service Commission, a 5-member independent body consisting of the Supreme Court chief justice, the commission head, and governor-general appointees recommended by the prime minister; justices serve until mandatory retirement at age 65"
+      },
+      "subordinate courts": {
+        "text": "Magistrates' Courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "People's Empowerment Party or PEP [David COMISSIONG]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "National Union of Public Workers or NUPW [Walter MALONEY]"
+    },
+    "International organization participation": {
+      "text": "ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador (vacant); Charge d'Affaires Ad interim Jane E. BRATHWAITE"
+      },
+      "chancery": {
+        "text": "2144 Wyoming Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 939-9200"
+      },
+      "FAX": {
+        "text": "[1] (202) 332-7467"
+      },
+      "consulate(s) general": {
+        "text": "Miami, New York"
+      },
+      "consulate(s)": {
+        "text": "Los Angeles"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Linda S. TAGLIALATELA (since 1 February 2016) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines"
+      },
+      "embassy": {
+        "text": "U.S. Embassy, Wildey Business Park, Wildey, St. Michael BB 14006"
+      },
+      "mailing address": {
+        "text": "P. O. Box 302, Bridgetown BB 11000; (Department Name) Unit 3120, DPO AA 34055"
+      },
+      "telephone": {
+        "text": "[1] (246) 227-4000"
+      },
+      "FAX": {
+        "text": "[1] (246) 431-0179"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of blue (hoist side), gold, and blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)"
+    },
+    "National symbol(s)": {
+      "text": "Neptune's trident, pelican, Red Bird of Paradise flower (also known as Pride of Barbados); national colors: blue, yellow, black"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"The National Anthem of Barbados\""
+      },
+      "lyrics/music": {
+        "text": "Irving BURGIE/C. Van Roland EDWARDS"
+      },
+      "note": {
+        "text": "adopted 1966; the anthem is also known as \"In Plenty and In Time of Need\""
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Barbados is the wealthiest and most developed country in the Eastern Caribbean and enjoys one of the highest per capita incomes in the region. Historically, the Barbadian economy was dependent on sugarcane cultivation and related activities. However, in recent years the economy has diversified into light industry and tourism with about four-fifths of GDP and of exports being attributed to services. Offshore finance and information services are important foreign exchange earners and thrive from having the same time zone as eastern US financial centers and a relatively highly educated workforce. Barbados' tourism, financial services, and construction industries have been hard hit since the onset of the global economic crisis in 2008. Barbados' public debt-to-GDP ratio rose from 56% in 2008 to 101% in 2015. Growth prospects are limited because of a weak tourism outlook and planned austerity measures."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$4.604 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$4.412 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "0% (2013 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$16,600 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Gross national saving": {
+      "text": "4% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "82.6%"
+      },
+      "government consumption": {
+        "text": "14.4%"
+      },
+      "investment in fixed capital": {
+        "text": "14.4%"
+      },
+      "investment in inventories": {
+        "text": "3.9%"
+      },
+      "exports of goods and services": {
+        "text": "37.4%"
+      },
+      "imports of goods and services": {
+        "text": "-52.7% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "2.8%"
+      },
+      "industry": {
+        "text": "12.1%"
+      },
+      "services": {
+        "text": "85.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "sugarcane, vegetables, cotton"
+    },
+    "Industries": {
+      "text": "tourism, sugar, light manufacturing, component assembly for export"
+    },
+    "Industrial production growth rate": {
+      "text": "-0.9% (2015 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Labor force": {
+      "text": "142,000 (2015 est.)",
+      "country comparison to the world": {
+        "text": "178"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "10%"
+      },
+      "industry": {
+        "text": "15%"
+      },
+      "services": {
+        "text": "75% (1996 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "12.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Population below poverty line": {
+      "text": "NA%"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "NA%"
+      },
+      "highest 10%": {
+        "text": "NA%"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.2 billion (2013 est.)"
+      },
+      "expenditures": {
+        "text": "$1.45 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "27.2% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.7% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Public debt": {
+      "text": "99.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "1.9% (2014 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "7% (31 December 2009)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.38% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.816 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$4.342 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$5.28 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$4.366 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Current account balance": {
+      "text": "-$388 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "92"
+      }
+    },
+    "Exports": {
+      "text": "$474.4 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Exports - commodities": {
+      "text": "manufactures, sugar, molasses, rum, other foodstuffs and beverages, chemicals, electrical components"
+    },
+    "Exports - partners": {
+      "text": "Trinidad and Tobago 22.5%, US 11.8%, St. Lucia 9.2%, St. Vincent and the Grenadines 5.7%, Antigua and Barbuda 4.7%, St. Kitts and Nevis 4.4%, Guyana 4.2% (2015)"
+    },
+    "Imports": {
+      "text": "$1.652 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "170"
+      }
+    },
+    "Imports - commodities": {
+      "text": "consumer goods, machinery, foodstuffs, construction materials, chemicals, fuel, electrical components"
+    },
+    "Imports - partners": {
+      "text": "Trinidad and Tobago 39%, US 31.1% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$632.3 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "140"
+      }
+    },
+    "Debt - external": {
+      "text": "$668 million (2003 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Exchange rates": {
+      "text": "2 (2011 est.)",
+      "note": {
+        "text": "the Barbadian dollar is pegged to the US dollar"
+      }
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "29,149"
+      },
+      "electrification - total population": {
+        "text": "91%"
+      },
+      "electrification - urban areas": {
+        "text": "100%"
+      },
+      "electrification - rural areas": {
+        "text": "80% (2012)"
+      }
+    },
+    "Electricity - production": {
+      "text": "900 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "900 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "119"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "200,000 kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "100% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "3"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "47"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Crude oil - production": {
+      "text": "1,000 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "91"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "764.5 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "84"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "2.53 million bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "97"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "12,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "155"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "154"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "11,490 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Natural gas - production": {
+      "text": "20 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "87"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "20 million cu m (2014 est.)",
+      "country comparison to the world": {
+        "text": "111"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "113.3 million cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "106"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.3 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "156,857"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "54 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "335,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "115 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "176"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "island-wide automatic telephone system"
+      },
+      "domestic": {
+        "text": "fixed-line teledensity of roughly 55 per 100 persons; mobile-cellular telephone density about 115 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 1-246; landing point for the East Caribbean Fiber System (ECFS) submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations (2007)"
+    },
+    "Internet country code": {
+      "text": ".bb"
+    },
+    "Internet users": {
+      "total": {
+        "text": "221,000"
+      },
+      "percent of population": {
+        "text": "76.1% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "152"
+      }
+    }
+  },
+  "Energy ": {
+    "Civil aircraft registration country code prefix": {
+      "text": "8P (2016)"
+    },
+    "Airports": {
+      "text": "1 (2013)",
+      "country comparison to the world": {
+        "text": "236"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "1"
+      },
+      "over 3,047 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Pipelines": {
+      "text": "gas 33 km; oil 64 km; refined products 6 km (2013)"
+    },
+    "Roadways": {
+      "total": {
+        "text": "1,600 km"
+      },
+      "paved": {
+        "text": "1,600 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "177"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "109"
+      },
+      "by type": {
+        "text": "bulk carrier 23, cargo 52, chemical tanker 13, container 6, passenger 1, passenger/cargo 1, petroleum tanker 8, refrigerated cargo 4, roll on/roll off 1"
+      },
+      "foreign-owned": {
+        "text": "83 (Canada 11, Greece 14, Iran 5, Lebanon 2, Norway 38, Sweden 4, Syria 1, Turkey 1, UAE 1, UK 6) (2010)"
+      },
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Bridgetown"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Royal Barbados Defense Force: Troops Command, Barbados Coast Guard (2011)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service, or earlier with parental consent; no conscription (2013)"
+    },
+    "Military - note": {
+      "text": "the Royal Barbados Defense Force includes a land-based Troop Command and a small Coast Guard; the primary role of the land element is island defense against external aggression; the Command consists of a single, part-time battalion with a small regular cadre deployed throughout the island; the cadre increasingly supports the police in patrolling the coastline for smuggling and other illicit activities"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone; joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under the UN Convention on the Law of the Sea, which permits Venezuela to extend its Economic Exclusion Zone/continental shelf over a large portion of the eastern Caribbean Sea"
+    },
+    "Illicit drugs": {
+      "text": "one of many Caribbean transshipment points for narcotics bound for Europe and the US; offshore financial center"
+    }
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Established in 1891, the British protectorate of Nyasaland became the independent nation of Malawi in 1964. After three decades of one-party rule under President Hastings Kamuzu BANDA, the country held multiparty presidential and parliamentary elections in 1994, under a provisional constitution that came into full effect the following year. President Bingu wa MUTHARIKA, elected in May 2004 after a failed attempt by the previous president to amend the constitution to permit another term, struggled to assert his authority against his predecessor and subsequently started his own party, the Democratic Progressive Party in 2005. MUTHARIKA was reelected to a second term in May 2009. He oversaw some economic improvement in his first term, but was accused of economic mismanagement and poor governance in his second term. He died abruptly in April 2012 and was succeeded by vice president, Joyce BANDA, who had earlier started her own party, the People's Party. MUTHARIKA's brother, Peter MUTHARIKA, defeated BANDA in the May 2014 election. Population growth, increasing pressure on agricultural lands, corruption, and the scourge of HIV/AIDS pose major problems for Malawi."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, east of Zambia, west and north of Mozambique"
+    },
+    "Geographic coordinates": {
+      "text": "13 30 S, 34 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "118,484 sq km"
+      },
+      "land": {
+        "text": "94,080 sq km"
+      },
+      "water": {
+        "text": "24,404 sq km"
+      },
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Pennsylvania"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "2,857 km"
+      },
+      "border countries (3)": {
+        "text": "Mozambique 1,498 km, Tanzania 512 km, Zambia 847 km"
+      }
+    },
+    "Coastline": {
+      "text": "0 km (landlocked)"
+    },
+    "Maritime claims": {
+      "text": "none (landlocked)"
+    },
+    "Climate": {
+      "text": "sub-tropical; rainy season (November to May); dry season (May to November)"
+    },
+    "Terrain": {
+      "text": "narrow elongated plateau with rolling plains, rounded hills, some mountains"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "779 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Sapitwa (Mount Mlanje) 3,002 m"
+    },
+    "Natural resources": {
+      "text": "limestone, arable land, hydropower, unexploited deposits of uranium, coal, and bauxite"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "59.2%"
+      },
+      "text": "arable land 38.2%; permanent crops 1.4%; permanent pasture 19.6%",
+      "forest": {
+        "text": "34%"
+      },
+      "other": {
+        "text": "6.8% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "740 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "NA"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "Law of the Sea"
+      }
+    },
+    "Geography - note": {
+      "text": "landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Malawi"
+      },
+      "conventional short form": {
+        "text": "Malawi"
+      },
+      "local long form": {
+        "text": "Dziko la Malawi"
+      },
+      "local short form": {
+        "text": "Malawi"
+      },
+      "former": {
+        "text": "British Central African Protectorate, Nyasaland Protectorate, Nyasaland"
+      },
+      "etymology": {
+        "text": "named for the East African Maravi kingdom of the 16th century; the word \"maravi\" means \"fire flames\""
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Lilongwe"
+      },
+      "geographic coordinates": {
+        "text": "13 58 S, 33 47 E"
+      },
+      "time difference": {
+        "text": "UTC+2 (7 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga, Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima, Thyolo, Zomba"
+    },
+    "Independence": {
+      "text": "6 July 1964 (from the UK)"
+    },
+    "National holiday": {
+      "text": "Independence Day (Republic Day), 6 July (1964)"
+    },
+    "Constitution": {
+      "text": "previous 1953 (preindependence), 1966; latest drafted January to May 1994, approved 16 May 1994, entered into force 18 May 1995; amended several times, last in 2013 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of English common law and customary law; judicial review of legislative acts in the Supreme Court of Appeal"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Malawi"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "7 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Arthur Peter MUTHARIKA (since 31 May 2014); Vice President Saulos CHILIMA (since 31 May 2014); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Arthur Peter MUTHARIKA (since 31 May 2014); Vice President Saulos CHILIMA (since 31 May 2014)"
+      },
+      "cabinet": {
+        "text": "Cabinet named by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 20 May 2014 (next to be held in May 2019)"
+      },
+      "election results": {
+        "text": "Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 36.4%, Lazarus CHAKWERA (MCP) 27.8%, Joyce BANDA (PP) 20.2%, Atupele MULUZI (UDF) 13.7%, other 1.9%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "last held on 20-22 May 2014 (next to be held in May 2019)"
+      },
+      "election results": {
+        "text": "percent of vote by party - DPP 22.0%, MCP 17.4%, PP 18.5%, UDF 9.6%, other 2.8%, independent 29.7%; seats by party - DPP 51, MCP 48, PP 26, UDF 14, other 2, independent 52"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court of Appeal (consists of the chief justice and at least 3 judges)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court chief justice appointed by the president and confirmed by the National Assembly; other judges appointed by the president upon recommendation of the Judicial Service Commission, which regulates judicial officers; judges serve until age 65"
+      },
+      "subordinate courts": {
+        "text": "High Court; magistrate courts; Industrial Relations Court; district and city traditional or local courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United Democratic Front or UDF [Atupele MULUZI]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "Public Affairs Committee or PAC (promotes democracy, development, peace and unity)"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Edward Yakobe SAWERENGERA (since 16 September 2016)"
+      },
+      "chancery": {
+        "text": "2408 Massachusetts Avenue NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 721-0270"
+      },
+      "FAX": {
+        "text": "[1] (202) 721-0288"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Virginia E. PALMER (since 5 February 2015)"
+      },
+      "embassy": {
+        "text": "16 Jomo Kenyatta Road, Lilongwe 3"
+      },
+      "mailing address": {
+        "text": "P.O. Box 30016, Lilongwe 3, Malawi"
+      },
+      "telephone": {
+        "text": "[265] (1) 773-166"
+      },
+      "FAX": {
+        "text": "[265] (1) 770-471"
+      }
+    },
+    "Flag description": {
+      "text": "three equal horizontal bands of black (top), red, and green with a radiant, rising, red sun centered on the black band; black represents the native peoples, red the blood shed in their struggle for freedom, and green the color of nature; the rising sun represents the hope of freedom for the continent of Africa"
+    },
+    "National symbol(s)": {
+      "text": "lion; national colors: black, red, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Mulungu dalitsa Malawi\" (Oh God Bless Our Land of Malawi)"
+      },
+      "lyrics/music": {
+        "text": "Michael-Fredrick Paul SAUKA"
+      },
+      "note": {
+        "text": "adopted 1964"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "The government faces many challenges, including developing a market economy, improving educational facilities, addressing environmental problems, dealing with HIV/AIDS, and satisfying foreign donors on anti-corruption efforts."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$18.71 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$6.416 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.2% (2013 est.)",
+      "country comparison to the world": {
+        "text": "102"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,100 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "223"
+      }
+    },
+    "Gross national saving": {
+      "text": "-16.6% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "75.6%"
+      },
+      "government consumption": {
+        "text": "17.3%"
+      },
+      "investment in fixed capital": {
+        "text": "12%"
+      },
+      "investment in inventories": {
+        "text": "2.8%"
+      },
+      "exports of goods and services": {
+        "text": "43.5%"
+      },
+      "imports of goods and services": {
+        "text": "-51.2% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "32.7%"
+      },
+      "industry": {
+        "text": "17.2%"
+      },
+      "services": {
+        "text": "50.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "tobacco, sugarcane, cotton, tea, corn, potatoes, cassava (manioc, tapioca), sorghum, pulses, groundnuts, Macadamia nuts; cattle, goats"
+    },
+    "Industries": {
+      "text": "tobacco, tea, sugar, sawmill products, cement, consumer goods"
+    },
+    "Industrial production growth rate": {
+      "text": "4.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "50"
+      }
+    },
+    "Labor force": {
+      "text": "5.747 million (2007 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "90%"
+      },
+      "industry and services": {
+        "text": "10% (2003 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "52.4% (2004 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "3%"
+      },
+      "highest 10%": {
+        "text": "31.9% (2004)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "39 (2004)",
+      "country comparison to the world": {
+        "text": "69"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.26 billion"
+      },
+      "expenditures": {
+        "text": "$1.51 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "19.6% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-3.9% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Public debt": {
+      "text": "58.5% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "72"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 July - 30 June"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "24.4% (2014 est.)",
+      "country comparison to the world": {
+        "text": "220"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "15% (31 December 2008)",
+      "country comparison to the world": {
+        "text": "12"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "44.29% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "2"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$567.9 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "163"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$1.2 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "164"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$826.6 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.363 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "108"
+      }
+    },
+    "Current account balance": {
+      "text": "-$494 million (2014 est.)",
+      "country comparison to the world": {
+        "text": "101"
+      }
+    },
+    "Exports": {
+      "text": "$1.528 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "150"
+      }
+    },
+    "Exports - commodities": {
+      "text": "tobacco 53%, tea, sugar, cotton, coffee, peanuts, wood products, apparel (2010 est.)"
+    },
+    "Exports - partners": {
+      "text": "Belgium 15.8%, Zimbabwe 12%, India 6.9%, South Africa 6.2%, US 6%, Russia 5.6%, Germany 4.6% (2015)"
+    },
+    "Imports": {
+      "text": "$2.744 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Imports - commodities": {
+      "text": "food, petroleum products, semi-manufactures, consumer goods, transportation equipment"
+    },
+    "Imports - partners": {
+      "text": "South Africa 26.4%, China 16.7%, India 12%, Zambia 10.3%, Tanzania 6% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$625.2 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.637 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "156.93 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "14,900,000"
+      },
+      "electrification - total population": {
+        "text": "9%"
+      },
+      "electrification - urban areas": {
+        "text": "32%"
+      },
+      "electrification - rural areas": {
+        "text": "4% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "2.1 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "1.9 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "167"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "173"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "400,000 kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "0.7% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "211"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "99.3% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "5"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "199"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "95"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "209"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "7,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "202"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "6,843 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "100"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "169"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "168"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.9 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "45,678"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "6.116 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "34 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "rudimentary; two fixed-line and two mobile-cellular operators govern the market"
+      },
+      "domestic": {
+        "text": "limited fixed-line subscribership of about 1 per 100 persons; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership about 30 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "radio is the main broadcast medium; privately owned Zodiac radio has the widest national broadcasting reach, followed by state-run radio; about a dozen private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but two private TV networks now broadcast in urban areas and more plan to begin broadcasting in 2014; relays of multiple international broadcasters are available (2014)"
+    },
+    "Internet country code": {
+      "text": ".mw"
+    },
+    "Internet users": {
+      "total": {
+        "text": "1.67 million"
+      },
+      "percent of population": {
+        "text": "9.3% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "135"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "1"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "2"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "6,010"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "5,467 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "7Q (2016)"
+    },
+    "Airports": {
+      "text": "32 (2013)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "7"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "2"
+      },
+      "914 to 1,523 m": {
+        "text": "4 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "25"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "914 to 1,523 m": {
+        "text": "11"
+      },
+      "under 914 m": {
+        "text": "13 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "767 km"
+      },
+      "narrow gauge": {
+        "text": "767 km 1.067-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "15,450 km"
+      },
+      "paved": {
+        "text": "6,951 km"
+      },
+      "unpaved": {
+        "text": "8,499 km (2011)"
+      },
+      "country comparison to the world": {
+        "text": "120"
+      }
+    },
+    "Waterways": {
+      "text": "700 km (on Lake Nyasa [Lake Malawi] and Shire River) (2010)",
+      "country comparison to the world": {
+        "text": "75"
+      }
+    },
+    "Ports and terminals": {
+      "lake port(s)": {
+        "text": "Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyasa)"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Malawi Defense Forces (MDF): Army (includes Air Wing, Marine Unit) (2012)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2014)"
+    },
+    "Military expenditures": {
+      "text": "0.93% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "104"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "11,315 (Democratic Republic of the Congo); 5,260 (Rwanda) (2015); nearly 11,500 (Mozambique) (2016)"
+      },
+      "IDPs": {
+        "text": "107,000 (floods in 2015) (2015)"
+      }
+    }
+  }
+}

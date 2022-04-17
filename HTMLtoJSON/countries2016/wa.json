@@ -1,0 +1,854 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "South Africa occupied the German colony of South-West Africa during World War I and administered it as a mandate until after World War II, when it annexed the territory. In 1966, the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia has been governed by SWAPO since the country won independence in 1990, though the party has dropped much of its Marxist ideology. Prime Minister Hage GEINGOB was elected president in November 2014 in a landslide victory, replacing Hifikepunye POHAMBA who stepped down after serving two terms. SWAPO retained its parliamentary super majority in the November 2014 elections and established a system of gender parity in parliamentary positions."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Southern Africa, bordering the South Atlantic Ocean, between Angola and South Africa"
+    },
+    "Geographic coordinates": {
+      "text": "22 00 S, 17 00 E"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "824,292 sq km"
+      },
+      "land": {
+        "text": "823,290 sq km"
+      },
+      "water": {
+        "text": "1,002 sq km"
+      },
+      "country comparison to the world": {
+        "text": "34"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly more than half the size of Alaska"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,220 km"
+      },
+      "border countries (4)": {
+        "text": "Angola 1,427 km, Botswana 1,544 km, South Africa 1,005 km, Zambia 244 km"
+      }
+    },
+    "Coastline": {
+      "text": "1,572 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "desert; hot, dry; rainfall sparse and erratic"
+    },
+    "Terrain": {
+      "text": "mostly high plateau; Namib Desert along coast; Kalahari Desert in east"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "1,141 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Konigstein 2,606 m"
+    },
+    "Natural resources": {
+      "text": "diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, zinc, salt, hydropower, fish",
+      "note": {
+        "text": "suspected deposits of oil, coal, and iron ore"
+      }
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "47.2%"
+      },
+      "text": "arable land 1%; permanent crops 0%; permanent pasture 46.2%",
+      "forest": {
+        "text": "8.8%"
+      },
+      "other": {
+        "text": "44% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "80 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "prolonged periods of drought"
+    },
+    "Environment - current issues": {
+      "text": "limited natural freshwater resources; desertification; wildlife poaching; land degradation has led to few conservation areas"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Namibia"
+      },
+      "conventional short form": {
+        "text": "Namibia"
+      },
+      "local long form": {
+        "text": "Republic of Namibia"
+      },
+      "local short form": {
+        "text": "Namibia"
+      },
+      "former": {
+        "text": "German South-West Africa (Deutsch Suedwest Afrika), South-West Africa"
+      },
+      "etymology": {
+        "text": "named for the coastal Namib Desert; the name \"namib\" means \"vast place\" in the Nama/Damara language"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Windhoek"
+      },
+      "geographic coordinates": {
+        "text": "22 34 S, 17 05 E"
+      },
+      "time difference": {
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins first Sunday in September; ends first Sunday in April"
+      }
+    },
+    "Administrative divisions": {
+      "text": "14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language"
+    },
+    "Independence": {
+      "text": "21 March 1990 (from South African mandate)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 21 March (1990)"
+    },
+    "Constitution": {
+      "text": "drafted 9 February 1990, signed 16 March 1990, entered into force 21 March 1990; amended 1998, 2010, 2014 (2016)"
+    },
+    "Legal system": {
+      "text": "mixed legal system of uncodified civil law based on Roman-Dutch law and customary law"
+    },
+    "International law organization participation": {
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Namibia"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "5 years"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Hage GEINGOB (since 21 March 2015); note - the president is both chief of state and head of government"
+      },
+      "head of government": {
+        "text": "President Hage GEINGOB (since 21 March 2015); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)"
+      },
+      "cabinet": {
+        "text": "Cabinet appointed by the president from among members of the National Assembly"
+      },
+      "elections/appointments": {
+        "text": "president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2014 (next to be held in November 2019)"
+      },
+      "election results": {
+        "text": "Hage GEINGOB elected president; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5.0%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1.0%, other 2.0%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "bicameral Parliament consists of the National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president) and the National Council, which primarily reviews legislation passed and referred by the National Assembly (26 seats (to be expanded to 42 in 2016); members indirectly elected 2 each by the 13 regional councils to serve 5-year terms)"
+      },
+      "elections": {
+        "text": "National Council - elections for regional councils to determine members of the National Council held on 27 November 2015 (next to be held in November 2020); National Assembly - last held on 28 November 2014 (next to be held in November 2019)"
+      },
+      "election results": {
+        "text": "National Council - percent of vote by party - NA; seats by party - SWAPO 40, NUDO 1, DTA 1; National Assembly - percent of vote by party - SWAPO 80.0%, DTA 4.8%, RDP 3.5%, APP 2.3%, UDF 2.1%, NUDO 2.0%, CPN 1.5%, other 3.8%; seats by party - SWAPO 77, DTA 5, RDP 3, APP 2, UDF 2, NUDO 2, CPN 2, SWANU 1, UPM 1, RP 1"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)"
+      },
+      "judge selection and term of office": {
+        "text": "judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65 but can be extended by the president until age 70"
+      },
+      "subordinate courts": {
+        "text": "High Court; Labor Court; regional and district magistrates' courts; community courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "United People's Movement or UPM [Jan J. VAN WYK]"
+    },
+    "Political pressure groups and leaders": {
+      "text": "The Affirmative Repositioning Movement or AR [Job AMUPANDA, Dimbulukweni NAUYOMA, George KAMBALA]",
+      "other": {
+        "text": "various labor unions"
+      }
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Martin ANDJABA (since 3 September 2010)"
+      },
+      "chancery": {
+        "text": "1605 New Hampshire Avenue NW, Washington, DC 20009"
+      },
+      "telephone": {
+        "text": "[1] (202) 986-0540"
+      },
+      "FAX": {
+        "text": "[1] (202) 986-0443"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Thomas Frederick DAUGHTON (since 6 October 2014)"
+      },
+      "embassy": {
+        "text": "14 Lossen Street, Windhoek"
+      },
+      "mailing address": {
+        "text": "Private Bag 12029 Ausspannplatz, Windhoek"
+      },
+      "telephone": {
+        "text": "[264] (61) 295-8500"
+      },
+      "FAX": {
+        "text": "[264] (61) 295-8603"
+      }
+    },
+    "Flag description": {
+      "text": "a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources"
+    },
+    "National symbol(s)": {
+      "text": "oryx (antelope); national colors: blue, red, green, white, yellow"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Namibia, Land of the Brave\""
+      },
+      "lyrics/music": {
+        "text": "Axali DOESEB"
+      },
+      "note": {
+        "text": "adopted 1991"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "A five-year, Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU). Volatility in the size of Namibia's annual SACU allotment complicates budget planning."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$22.8 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "136"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$12.83 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "5.7% (2013 est.)",
+      "country comparison to the world": {
+        "text": "38"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$10,500 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Gross national saving": {
+      "text": "20% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "77"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "62.8%"
+      },
+      "government consumption": {
+        "text": "26.9%"
+      },
+      "investment in fixed capital": {
+        "text": "33.4%"
+      },
+      "investment in inventories": {
+        "text": "0.6%"
+      },
+      "exports of goods and services": {
+        "text": "43.9%"
+      },
+      "imports of goods and services": {
+        "text": "-67.6% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "5.9%"
+      },
+      "industry": {
+        "text": "29%"
+      },
+      "services": {
+        "text": "65.1% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "millet, sorghum, peanuts, grapes; livestock; fish"
+    },
+    "Industries": {
+      "text": "meatpacking, fish processing, dairy products, pasta, beverages; mining (diamonds, lead, zinc, tin, silver, tungsten, uranium, copper)"
+    },
+    "Industrial production growth rate": {
+      "text": "5.1% (2015 est.)",
+      "country comparison to the world": {
+        "text": "40"
+      }
+    },
+    "Labor force": {
+      "text": "1.188 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "31%"
+      },
+      "industry": {
+        "text": "14%"
+      },
+      "services": {
+        "text": "54%"
+      },
+      "note": {
+        "text": "about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture (2013 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "29.6% (2013 est.)",
+      "country comparison to the world": {
+        "text": "184"
+      }
+    },
+    "Population below poverty line": {
+      "text": "28.7% (2010 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.4%"
+      },
+      "highest 10%": {
+        "text": "42% (2010)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "70.7 (2003)",
+      "country comparison to the world": {
+        "text": "7"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$4.553 billion"
+      },
+      "expenditures": {
+        "text": "$5.258 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "35.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "60"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-5.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "175"
+      }
+    },
+    "Public debt": {
+      "text": "24% of GDP (2014 est.)",
+      "country comparison to the world": {
+        "text": "131"
+      }
+    },
+    "Fiscal year": {
+      "text": "1 April - 31 March"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "5.3% (2014 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "6.5% (31 December 2015)",
+      "country comparison to the world": {
+        "text": "49"
+      }
+    },
+    "Commercial bank prime lending rate": {
+      "text": "8.7% (31 December 2015 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$3.17 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "118"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$6.574 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "117"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$6.655 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$1.176 billion (31 December 2010 est.)",
+      "country comparison to the world": {
+        "text": "103"
+      }
+    },
+    "Current account balance": {
+      "text": "-$1.12 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "138"
+      }
+    },
+    "Exports": {
+      "text": "$4.612 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Exports - commodities": {
+      "text": "diamonds, copper, gold, zinc, lead, uranium; cattle, white fish and mollusks"
+    },
+    "Imports": {
+      "text": "$7.191 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "113"
+      }
+    },
+    "Imports - commodities": {
+      "text": "foodstuffs; petroleum products and fuel, machinery and equipment, chemicals"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$1.177 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "125"
+      }
+    },
+    "Debt - external": {
+      "text": "$5.829 billion (31 December 2013 est.)",
+      "country comparison to the world": {
+        "text": "123"
+      }
+    },
+    "Stock of direct foreign investment - at home": {
+      "text": "$NA"
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$NA"
+    },
+    "Exchange rates": {
+      "text": "7.2597 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "1,600,000"
+      },
+      "electrification - total population": {
+        "text": "32%"
+      },
+      "electrification - urban areas": {
+        "text": "50%"
+      },
+      "electrification - rural areas": {
+        "text": "17% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "1.5 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "3.7 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "124"
+      }
+    },
+    "Electricity - exports": {
+      "text": "84 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Electricity - imports": {
+      "text": "2.9 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "54"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "500,000 kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "122"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "31.8% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "207"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "68.2% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "25"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2013 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "208"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "209"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "145"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "24,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "126"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "79.56 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "23,400 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "107"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "209"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "210"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "62.29 billion cu m (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "61"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "136"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "182,507"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "8 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "128"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "2.443 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "110 (July 2012 est.)"
+      },
+      "country comparison to the world": {
+        "text": "143"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "good system; core fiber-optic network links most centers with digital connections"
+      },
+      "domestic": {
+        "text": "multiple mobile-cellular providers with a combined subscribership of about 110 telephones per 100 persons"
+      },
+      "international": {
+        "text": "country code - 264; fiber-optic cable to South Africa, microwave radio relay link to Botswana, direct links to other neighboring countries; connected to the South African Far East submarine cable through South Africa; connected to the West Africa Cable System, an ultra-high capacity fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available (2007)"
+    },
+    "Internet country code": {
+      "text": ".na"
+    },
+    "Internet users": {
+      "total": {
+        "text": "493,000"
+      },
+      "percent of population": {
+        "text": "22.3% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "140"
+      }
+    }
+  },
+  "Energy ": {
+    "National air transport system": {
+      "number of registered air carriers": {
+        "text": "2"
+      },
+      "inventory of registered aircraft operated by air carriers": {
+        "text": "12"
+      },
+      "annual passenger traffic on registered air carriers": {
+        "text": "553,322"
+      },
+      "annual freight traffic on registered air carriers": {
+        "text": "30,302,405 mt-km (2015)"
+      }
+    },
+    "Civil aircraft registration country code prefix": {
+      "text": "V5 (2016)"
+    },
+    "Airports": {
+      "text": "112 (2013)",
+      "country comparison to the world": {
+        "text": "52"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "19"
+      },
+      "over 3,047 m": {
+        "text": "4"
+      },
+      "2,438 to 3,047 m": {
+        "text": "2"
+      },
+      "1,524 to 2,437 m": {
+        "text": "12"
+      },
+      "914 to 1,523 m": {
+        "text": "1 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "93"
+      },
+      "1,524 to 2,437 m": {
+        "text": "25"
+      },
+      "914 to 1,523 m": {
+        "text": "52"
+      },
+      "under 914 m": {
+        "text": "16 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "2,628 km"
+      },
+      "narrow gauge": {
+        "text": "2,628 km 1.067-m gauge (2014)"
+      },
+      "country comparison to the world": {
+        "text": "62"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "44,138 km"
+      },
+      "paved": {
+        "text": "6,387 km"
+      },
+      "unpaved": {
+        "text": "37,751 km (2010)"
+      },
+      "country comparison to the world": {
+        "text": "81"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1"
+      },
+      "by type": {
+        "text": "cargo 1 (2010)"
+      },
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Luderitz, Walvis Bay"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "Namibian Defense Force (NDF): Army, Navy, Air Force (2013)"
+    },
+    "Military service age and obligation": {
+      "text": "18 years of age for voluntary military service; no conscription (2012)"
+    },
+    "Military expenditures": {
+      "text": "3.11% of GDP (2010)",
+      "country comparison to the world": {
+        "text": "20"
+      }
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river"
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Namibia is a country of origin and destination for children and, to a lesser extent, women subjected to forced labor and sex trafficking; victims, lured by promises of legitimate jobs, are forced to work in urban centers and on commercial farms; traffickers exploit Namibian children, as well as children from Angola, Zambia, and Zimbabwe, for forced labor in agriculture, cattle herding, domestic service, fishing, and street vending; children are also forced into prostitution, often catering to tourists from southern Africa and Europe; San and Zemba children are particularly vulnerable; foreign adults and Namibian adults and children are reportedly subjected to forced labor in Chinese-owned retail, construction, and fishing operations"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Namibia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; Namibia was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; in 2015, the Child Care and Protection Bill passed, criminalizing child trafficking; the government\u2019s first sex trafficking prosecution remained pending; no new prosecutions were initiated and no trafficking offenders have ever been convicted; accusations of forced labor at Chinese construction and mining companies continue to go uninvestigated; authorities failed to fully implement victim identification and referral processes, which led to the deportation of possible victims (2015)"
+      }
+    }
+  }
+}

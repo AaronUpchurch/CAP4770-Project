@@ -1,0 +1,807 @@
+{
+  "Introduction ": {
+    "Background": {
+      "text": "Guinea is at a turning point after decades of authoritarian rule since gaining its independence from France in 1958. Guinea held its first free and competitive democratic presidential and legislative elections in 2010 and 2013 respectively, and in October 2015 held a second consecutive presidential election. Alpha CONDE was reelected to a second five-year term as president in 2015, and the National Assembly was seated in January 2014. CONDE's first cabinet is the first all-civilian government in Guinea. Previously, Sekou TOURE ruled the country as president from independence to his death in 1984. Lansana CONTE came to power in 1984 when the military seized the government after TOURE's death. Gen. CONTE organized and won presidential elections in 1993, 1998, and 2003, though all the polls were rigged. Upon CONTE's death in December 2008, Capt. Moussa Dadis CAMARA led a military coup, seizing power and suspending the constitution. His unwillingness to yield to domestic and international pressure to step down led to heightened political tensions that culminated in September 2009 when presidential guards opened fire on an opposition rally killing more than 150 people, and in early December 2009 when CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. A transitional government led by Gen. Sekouba KONATE paved the way for Guinea's transition to a fledgling democracy."
+    }
+  },
+  "Geography ": {
+    "Location": {
+      "text": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone"
+    },
+    "Geographic coordinates": {
+      "text": "11 00 N, 10 00 W"
+    },
+    "Map references": {
+      "text": "Africa"
+    },
+    "Area": {
+      "total": {
+        "text": "245,857 sq km"
+      },
+      "land": {
+        "text": "245,717 sq km"
+      },
+      "water": {
+        "text": "140 sq km"
+      },
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Area - comparative": {
+      "text": "slightly smaller than Oregon"
+    },
+    "Land boundaries": {
+      "total": {
+        "text": "4,046 km"
+      },
+      "border countries (6)": {
+        "text": "Cote d'Ivoire 816 km, Guinea-Bissau 421 km, Liberia 590 km, Mali 1,062 km, Senegal 363 km, Sierra Leone 794 km"
+      }
+    },
+    "Coastline": {
+      "text": "320 km"
+    },
+    "Maritime claims": {
+      "territorial sea": {
+        "text": "12 nm"
+      },
+      "exclusive economic zone": {
+        "text": "200 nm"
+      }
+    },
+    "Climate": {
+      "text": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds"
+    },
+    "Terrain": {
+      "text": "generally flat coastal plain, hilly to mountainous interior"
+    },
+    "Elevation": {
+      "mean elevation": {
+        "text": "472 m"
+      },
+      "elevation extremes": {
+        "text": "lowest point"
+      },
+      "text": "highest point: Mont Nimba 1,752 m"
+    },
+    "Natural resources": {
+      "text": "bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt"
+    },
+    "Land use": {
+      "agricultural land": {
+        "text": "58.1%"
+      },
+      "text": "arable land 11.8%; permanent crops 2.8%; permanent pasture 43.5%",
+      "forest": {
+        "text": "26.5%"
+      },
+      "other": {
+        "text": "15.4% (2011 est.)"
+      }
+    },
+    "Irrigated land": {
+      "text": "950 sq km (2012)"
+    },
+    "Natural hazards": {
+      "text": "hot, dry, dusty harmattan haze may reduce visibility during dry season"
+    },
+    "Environment - current issues": {
+      "text": "deforestation; inadequate potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices have led to environmental damage"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
+    },
+    "Geography - note": {
+      "text": "the Niger and its important tributary the Milo River have their sources in the Guinean highlands"
+    }
+  },
+  "People and Society ": {
+    "Country name": {
+      "conventional long form": {
+        "text": "Republic of Guinea"
+      },
+      "conventional short form": {
+        "text": "Guinea"
+      },
+      "local long form": {
+        "text": "Republique de Guinee"
+      },
+      "local short form": {
+        "text": "Guinee"
+      },
+      "former": {
+        "text": "French Guinea"
+      },
+      "note": {
+        "text": "the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel"
+      }
+    },
+    "Government type": {
+      "text": "presidential republic"
+    },
+    "Capital": {
+      "name": {
+        "text": "Conakry"
+      },
+      "geographic coordinates": {
+        "text": "9 30 N, 13 42 W"
+      },
+      "time difference": {
+        "text": "UTC 0 (5 hours ahead of Washington, DC, during Standard Time)"
+      }
+    },
+    "Administrative divisions": {
+      "text": "7 regions administrative and 1 gouvenorat*; Boke, Conakry*, Faranah, Kankan, Kindia, Labe, Mamou, N'Zerekore"
+    },
+    "Independence": {
+      "text": "2 October 1958 (from France)"
+    },
+    "National holiday": {
+      "text": "Independence Day, 2 October (1958)"
+    },
+    "Constitution": {
+      "text": "previous 1958, 1990; latest promulgated 19 April 2010, approved 7 May 2010 (2016)"
+    },
+    "Legal system": {
+      "text": "civil law system based on the French model"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
+    },
+    "Citizenship": {
+      "citizenship by birth": {
+        "text": "no"
+      },
+      "citizenship by descent only": {
+        "text": "at least one parent must be a citizen of Guinea"
+      },
+      "dual citizenship recognized": {
+        "text": "no"
+      },
+      "residency requirement for naturalization": {
+        "text": "na"
+      }
+    },
+    "Suffrage": {
+      "text": "18 years of age; universal"
+    },
+    "Executive branch": {
+      "chief of state": {
+        "text": "President Alpha CONDE (since 21 December 2010)"
+      },
+      "head of government": {
+        "text": "Prime Minister Mamady YOULA (since 26 December 2015); Prime Minister Mohamed Said FOFANA (since 24 December 2010) resigned 12/23/15"
+      },
+      "cabinet": {
+        "text": "Council of Ministers appointed by the president"
+      },
+      "elections/appointments": {
+        "text": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 11 October 2015 (next scheduled for 2020); prime minister appointed by the president"
+      },
+      "election results": {
+        "text": "Alpha CONDE reelected president; percent of vote - Alpha CONDE (RPG) 57.8%, Cellou Dalein DIALLO (UFDG) 31.4%, other 10.8%"
+      }
+    },
+    "Legislative branch": {
+      "description": {
+        "text": "unicameral People's National Assembly or Assemblee Nationale Populaire (114 seats; 76 members directly elected in a single nationwide constituency by proportional representation vote and 38 directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)"
+      },
+      "elections": {
+        "text": "last held on 28 September 2013 (next scheduled for 2018)"
+      },
+      "election results": {
+        "text": "percent of vote by party - NA; seats by party - RPG 53, UFDG 37, UFR 10, PEDN 2, UPG 2, other parties 10"
+      }
+    },
+    "Judicial branch": {
+      "highest court(s)": {
+        "text": "Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, at least 4 councillors, the solicitor general and NA deputies); Constitutional Court (consists of 9 members)"
+      },
+      "judge selection and term of office": {
+        "text": "Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve until age 65; Constitutional Court member appointments - 2 by the National Assembly and the president of the republic, 3 experienced judges designated by their peers, 1 experienced lawyer, 1 university professor with expertise in public law designated by peers, and 2 experienced representatives of the Independent National Institution of Human Rights; members serve single 9-year terms"
+      },
+      "subordinate courts": {
+        "text": "includes Court of Appeal or Cour d'Appel; courts of first instance or Tribunal de Premiere Instance; High Court of Justice or Cour d'Assises; labor court; military tribunal; justices of the peace; specialized courts"
+      }
+    },
+    "Political parties and leaders": {
+      "text": "Union of Republican Forces or UFR [Sidya TOURE]",
+      "note": {
+        "text": "listed are the five most popular parties as of December 2015"
+      }
+    },
+    "Political pressure groups and leaders": {
+      "text": "Syndicate of Guinean Teachers and Researchers or SLECG"
+    },
+    "International organization participation": {
+      "text": "ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+    },
+    "Diplomatic representation in the US": {
+      "chief of mission": {
+        "text": "Ambassador Mamady CONDE (since 14 July 2014)"
+      },
+      "chancery": {
+        "text": "2112 Leroy Place NW, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 986-4300"
+      },
+      "FAX": {
+        "text": "[1] (202) 986-3800"
+      }
+    },
+    "Diplomatic representation from the US": {
+      "chief of mission": {
+        "text": "Ambassador Dennis B. HANKINS (since December 2015)"
+      },
+      "embassy": {
+        "text": "Koloma, Conakry, east of Hamdallaye Circle"
+      },
+      "mailing address": {
+        "text": "P.O. Box 603, Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry"
+      },
+      "telephone": {
+        "text": "[224] 65-10-40-00"
+      },
+      "FAX": {
+        "text": "[224] 65-10-42-97"
+      }
+    },
+    "Flag description": {
+      "text": "three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity",
+      "note": {
+        "text": "uses the popular Pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal"
+      }
+    },
+    "National symbol(s)": {
+      "text": "national colors: red, yellow, green"
+    },
+    "National anthem": {
+      "name": {
+        "text": "\"Liberte\" (Liberty)"
+      },
+      "lyrics/music": {
+        "text": "unknown/Fodeba KEITA"
+      },
+      "note": {
+        "text": "adopted 1958"
+      },
+      "text": ""
+    }
+  },
+  "\nPopulation": {
+    "Economy - overview": {
+      "text": "Successive governments have failed to address the country's crumbling infrastructure, which is needed for economic development. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an economy to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea's economic development."
+    },
+    "GDP (purchasing power parity)": {
+      "text": "$14.8 billion (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "153"
+      }
+    },
+    "GDP (official exchange rate)": {
+      "text": "$6.696 billion (2015 est.)"
+    },
+    "GDP - real growth rate": {
+      "text": "2.3% (2013 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "GDP - per capita (PPP)": {
+      "text": "$1,300 (2013 est.)",
+      "note": {
+        "text": "data are in 2015 US dollars"
+      },
+      "country comparison to the world": {
+        "text": "221"
+      }
+    },
+    "Gross national saving": {
+      "text": "-4.4% of GDP (2013 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "GDP - composition, by end use": {
+      "household consumption": {
+        "text": "96.1%"
+      },
+      "government consumption": {
+        "text": "9.1%"
+      },
+      "investment in fixed capital": {
+        "text": "13.2%"
+      },
+      "investment in inventories": {
+        "text": "-0.1%"
+      },
+      "exports of goods and services": {
+        "text": "23.8%"
+      },
+      "imports of goods and services": {
+        "text": "-42.1% (2015 est.)"
+      }
+    },
+    "GDP - composition, by sector of origin": {
+      "agriculture": {
+        "text": "19.5%"
+      },
+      "industry": {
+        "text": "36.8%"
+      },
+      "services": {
+        "text": "43.8% (2015 est.)"
+      }
+    },
+    "Agriculture - products": {
+      "text": "rice, coffee, pineapples, mangoes, palm kernels, cocoa, cassava (manioc, tapioca), bananas, potatoes, sweet potatoes; cattle, sheep, goats; timber"
+    },
+    "Industries": {
+      "text": "bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing"
+    },
+    "Industrial production growth rate": {
+      "text": "-2% (2015 est.)",
+      "country comparison to the world": {
+        "text": "179"
+      }
+    },
+    "Labor force": {
+      "text": "5.199 million (2015 est.)",
+      "country comparison to the world": {
+        "text": "76"
+      }
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "76%"
+      },
+      "industry and services": {
+        "text": "24% (2006 est.)"
+      }
+    },
+    "Unemployment rate": {
+      "text": "NA%"
+    },
+    "Population below poverty line": {
+      "text": "47% (2006 est.)"
+    },
+    "Household income or consumption by percentage share": {
+      "lowest 10%": {
+        "text": "2.7%"
+      },
+      "highest 10%": {
+        "text": "30.3% (2007)"
+      }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "40.3 (1994)",
+      "country comparison to the world": {
+        "text": "67"
+      }
+    },
+    "Budget": {
+      "revenues": {
+        "text": "$1.302 billion"
+      },
+      "expenditures": {
+        "text": "$1.908 billion (2015 est.)"
+      }
+    },
+    "Taxes and other revenues": {
+      "text": "19.5% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "165"
+      }
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "-9.1% of GDP (2015 est.)",
+      "country comparison to the world": {
+        "text": "200"
+      }
+    },
+    "Fiscal year": {
+      "text": "calendar year"
+    },
+    "Inflation rate (consumer prices)": {
+      "text": "9.7% (2014 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Central bank discount rate": {
+      "text": "22.25% (31 December 2005)"
+    },
+    "Commercial bank prime lending rate": {
+      "text": "23% (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "11"
+      }
+    },
+    "Stock of narrow money": {
+      "text": "$1.84 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "135"
+      }
+    },
+    "Stock of broad money": {
+      "text": "$2.175 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Stock of domestic credit": {
+      "text": "$2.226 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "141"
+      }
+    },
+    "Market value of publicly traded shares": {
+      "text": "$NA"
+    },
+    "Current account balance": {
+      "text": "-$1.718 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "130"
+      }
+    },
+    "Exports": {
+      "text": "$1.643 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Exports - commodities": {
+      "text": "bauxite, gold, diamonds, coffee, fish, agricultural products"
+    },
+    "Exports - partners": {
+      "text": "India 22.5%, Spain 8.2%, Ireland 7.3%, Germany 6.2%, Belgium 5.5%, Ukraine 5.3%, France 4.1% (2015)"
+    },
+    "Imports": {
+      "text": "$2.225 billion (2014 est.)",
+      "country comparison to the world": {
+        "text": "159"
+      }
+    },
+    "Imports - commodities": {
+      "text": "petroleum products, metals, machinery, transport equipment, textiles, grain and other foodstuffs"
+    },
+    "Imports - partners": {
+      "text": "China 20.4%, Netherlands 5.4%, India 4.4% (2015)"
+    },
+    "Reserves of foreign exchange and gold": {
+      "text": "$302.4 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Debt - external": {
+      "text": "$1.407 billion (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "157"
+      }
+    },
+    "Stock of direct foreign investment - abroad": {
+      "text": "$67.3 million (31 December 2014 est.)",
+      "country comparison to the world": {
+        "text": "98"
+      }
+    },
+    "Exchange rates": {
+      "text": "6,658 (2011 est.)"
+    }
+  },
+  "Government ": {
+    "Electricity access": {
+      "population without electricity": {
+        "text": "8,700,000"
+      },
+      "electrification - total population": {
+        "text": "26%"
+      },
+      "electrification - urban areas": {
+        "text": "53%"
+      },
+      "electrification - rural areas": {
+        "text": "11% (2013)"
+      }
+    },
+    "Electricity - production": {
+      "text": "1 billion kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "151"
+      }
+    },
+    "Electricity - consumption": {
+      "text": "900 million kWh (2014 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Electricity - exports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Electricity - imports": {
+      "text": "0 kWh (2013 est.)",
+      "country comparison to the world": {
+        "text": "158"
+      }
+    },
+    "Electricity - installed generating capacity": {
+      "text": "500,000 kW (2014 est.)",
+      "country comparison to the world": {
+        "text": "146"
+      }
+    },
+    "Electricity - from fossil fuels": {
+      "text": "67.8% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "116"
+      }
+    },
+    "Electricity - from nuclear fuels": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Electricity - from hydroelectric plants": {
+      "text": "32.2% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "71"
+      }
+    },
+    "Electricity - from other renewable sources": {
+      "text": "0% of total installed capacity (2012 est.)",
+      "country comparison to the world": {
+        "text": "181"
+      }
+    },
+    "Crude oil - production": {
+      "text": "0 bbl/day (2015 est.)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Crude oil - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "133"
+      }
+    },
+    "Crude oil - imports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "201"
+      }
+    },
+    "Crude oil - proved reserves": {
+      "text": "0 bbl (1 January 2016 es)",
+      "country comparison to the world": {
+        "text": "142"
+      }
+    },
+    "Refined petroleum products - production": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "191"
+      }
+    },
+    "Refined petroleum products - consumption": {
+      "text": "16,000 bbl/day (2014 est.)",
+      "country comparison to the world": {
+        "text": "156"
+      }
+    },
+    "Refined petroleum products - exports": {
+      "text": "0 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "188"
+      }
+    },
+    "Refined petroleum products - imports": {
+      "text": "16,130 bbl/day (2013 est.)",
+      "country comparison to the world": {
+        "text": "139"
+      }
+    },
+    "Natural gas - production": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "198"
+      }
+    },
+    "Natural gas - consumption": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "152"
+      }
+    },
+    "Natural gas - exports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "112"
+      }
+    },
+    "Natural gas - imports": {
+      "text": "0 cu m (2013 est.)",
+      "country comparison to the world": {
+        "text": "206"
+      }
+    },
+    "Natural gas - proved reserves": {
+      "text": "0 cu m (1 January 2014 es)",
+      "country comparison to the world": {
+        "text": "147"
+      }
+    },
+    "Carbon dioxide emissions from consumption of energy": {
+      "text": "1.4 million Mt (2013 est.)",
+      "country comparison to the world": {
+        "text": "162"
+      }
+    }
+  },
+  "Economy ": {
+    "Telephones - fixed lines": {
+      "total subscriptions": {
+        "text": "18,000"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "less than 1 (July 2011 est.)"
+      },
+      "country comparison to the world": {
+        "text": "219"
+      }
+    },
+    "Telephones - mobile cellular": {
+      "total": {
+        "text": "10.764 million"
+      },
+      "subscriptions per 100 inhabitants": {
+        "text": "91 (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "93"
+      }
+    },
+    "Telephone system": {
+      "general assessment": {
+        "text": "inadequate system of open-wire lines, small radiotelephone communication stations, and new microwave radio relay system"
+      },
+      "domestic": {
+        "text": "Conakry reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity less than 1 per 100 persons; mobile-cellular subscribership is expanding rapidly and exceeds 90 per 100 persons"
+      },
+      "international": {
+        "text": "country code - 224; satellite earth station - 1 Intelsat (Atlantic Ocean) (2015)"
+      }
+    },
+    "Broadcast media": {
+      "text": "government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services (2011)"
+    },
+    "Internet country code": {
+      "text": ".gn"
+    },
+    "Internet users": {
+      "total": {
+        "text": "554,000"
+      },
+      "percent of population": {
+        "text": "4.7% (July 2015 est.)"
+      },
+      "country comparison to the world": {
+        "text": "156"
+      }
+    }
+  },
+  "Energy ": {
+    "Civil aircraft registration country code prefix": {
+      "text": "3X (2016)"
+    },
+    "Airports": {
+      "text": "16 (2013)",
+      "country comparison to the world": {
+        "text": "144"
+      }
+    },
+    "Airports - with paved runways": {
+      "total": {
+        "text": "4"
+      },
+      "over 3,047 m": {
+        "text": "1"
+      },
+      "1,524 to 2,437 m": {
+        "text": "3 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "12"
+      },
+      "1,524 to 2,437 m": {
+        "text": "7"
+      },
+      "914 to 1,523 m": {
+        "text": "3"
+      },
+      "under 914 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Railways": {
+      "total": {
+        "text": "662 km"
+      },
+      "narrow gauge": {
+        "text": "662 km 1.000-m gauge (20014)"
+      },
+      "country comparison to the world": {
+        "text": "105"
+      }
+    },
+    "Roadways": {
+      "total": {
+        "text": "44,348 km"
+      },
+      "paved": {
+        "text": "4,342 km"
+      },
+      "unpaved": {
+        "text": "40,006 km (2003)"
+      },
+      "country comparison to the world": {
+        "text": "79"
+      }
+    },
+    "Waterways": {
+      "text": "1,300 km (navigable by shallow-draft native craft in the northern part of the Niger River system) (2011)",
+      "country comparison to the world": {
+        "text": "53"
+      }
+    },
+    "Ports and terminals": {
+      "major seaport(s)": {
+        "text": "Conakry, Kamsar"
+      }
+    }
+  },
+  "Communications ": {
+    "Military branches": {
+      "text": "National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne, includes Marines), Guinean Air Force (Force Aerienne de Guinee) (2009)"
+    },
+    "Military service age and obligation": {
+      "text": "18-25 years of age for compulsory and voluntary military service; 18-month conscript service obligation (2012)"
+    }
+  },
+  "Transportation ": {
+    "Disputes - international": {
+      "text": "conflicts among rebel groups, warlords, and youth gangs in neighboring states have spilled over into Guinea resulting in domestic instability; Sierra Leone considers Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa Rivers excessive and protests Guinea's continued occupation of these lands, including the hamlet of Yenga, occupied since 1998"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "7,354 (Cote d'Ivoire) (2016)"
+      }
+    },
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "Guinea is a source, transit, and, to a lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking victims are Guinean children, and trafficking is more prevalent among Guineans than foreign national migrants; Guinean girls are subjected to domestic servitude and commercial sexual exploitation, while boys are forced to beg or to work as street vendors, shoe shiners, or miners; Guinea is a source country and transit point for West African children forced to work as miners in the region; Guinean women and girls are subjected to domestic servitude and sex trafficking in West Africa, the Middle East, the US, and increasingly Europe, while Thai, Chinese, and Vietnamese women are forced into prostitution and some West Africans are forced into domestic servitude in Guinea"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List \u2013 Guinea does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guinea was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; no new investigations were conducted in 2014, and the one ongoing case led to the prosecution of four offenders for forced child labor, three of whom were convicted but given inadequate sentences for the crime; the government did not identify or provide protective services to victims and did not support NGOs that assisted victims but continued to refer child victims to NGOs on an ad hoc basis; Guinean law does not prohibit all forms of trafficking, excluding, for example, debt bondage; the 2014 Ebolavirus outbreak negatively affected Guinea\u2019s ability to address human trafficking (2015)"
+      }
+    }
+  }
+}
